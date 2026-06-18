@@ -1,0 +1,290 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "HAIKYU!!",
+  "slug": "haikyu",
+  "generatedAt": "2026-06-03T22:46:16.957Z",
+  "coverImage": "media/cached-image_8ef4312a957c41847e97f35a9cabcb1a24c8832d507009fa40347ce0daef43f0.webp",
+  "image": "media/cached-image_8ef4312a957c41847e97f35a9cabcb1a24c8832d507009fa40347ce0daef43f0.webp",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+  "primaryLocation": "Kunohe District, Iwate, Japan",
+  "primaryLocationCoords": {
+    "lat": 39.479982425,
+    "lng": 141.17854675
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "HAIKYU!!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJXZVujs7JhF8R3KMvVNITZNw",
+      "name": "Takesawa Store",
+      "localName": "たけさわストア",
+      "coordinates": {
+        "lat": 40.3248486,
+        "lng": 141.4653638
+      },
+      "image": "media/cached-image_e59b7f46f6408c4e7d959341f95270ee9bbe37a90a3867f47b774fd418722e3b.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e59b7f46f6408c4e7d959341f95270ee9bbe37a90a3867f47b774fd418722e3b.webp"
+        },
+        {
+          "url": "media/cached-image_acce8aceb5d3cbb0398a78cd55f934e1ef04d7ba6ee4d813139013cf729bf179.jpg"
+        }
+      ],
+      "type": "スーパーマーケット",
+      "categories": [
+        "スーパーマーケット"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dai 8 Chiwari-１２ Karumai, Kunohe District, Iwate 028-6302, Japan",
+      "city": "Karumai",
+      "region": "Kunohe District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3248486,141.4653638,3a,75y,175.01h,92.69t/data=!3m7!1e1!3m5!1sb5-SM6zdjFypniehVbataw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Db5-SM6zdjFypniehVbataw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D65.77113%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The model for Shimada Mart, where Shimada teaches Yamaguchi his jump-float serve in the lot behind the shop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgQcK3MvJhF8Rp2uYIU99NbM",
+      "name": "Karumai Townpeople Gymnasium",
+      "localName": "軽米町町民体育館",
+      "coordinates": {
+        "lat": 40.3229255,
+        "lng": 141.4620728
+      },
+      "image": "media/cached-image_f331fadd1ce933d277c338fc4c38f5e3c4e53ce0649b0b49e7ab0259f4d054f4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_f331fadd1ce933d277c338fc4c38f5e3c4e53ce0649b0b49e7ab0259f4d054f4.webp"
+        },
+        {
+          "url": "media/cached-image_0d35df07fefb73c198a2c67057c5a5d9a7ebb101bb1e2f9d3d9fb1916434c10e.jpg"
+        }
+      ],
+      "type": "スポーツ複合施設",
+      "categories": [
+        "スポーツ複合施設"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dai 6 Chiwari-34-1 Karumai, Kunohe District, Iwate 028-6302, Japan",
+      "city": "Karumai",
+      "region": "Kunohe District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3229255,141.4620728,3a,48.8y,147.1h,95.1t/data=!3m6!1e1!3m4!1s_mvAFRYWS9xWq3l5G4Ll9Q!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The model for the gym where Hinata lost to Kageyama in junior high and swore he'd face him again.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+      "name": "Tokyo Station",
+      "localName": "東京駅",
+      "coordinates": {
+        "lat": 35.6807123,
+        "lng": 139.767138
+      },
+      "image": "media/cached-image_62b45e6af112257d7807e702a0849a905e63a0a864f34a86ac74917293c43ce8.webp",
+      "images": [
+        {
+          "url": "media/cached-image_62b45e6af112257d7807e702a0849a905e63a0a864f34a86ac74917293c43ce8.webp"
+        },
+        {
+          "url": "media/cached-image_b5f22fd988082df1769467e8e747c2737a689fff3e06a011ea50d2204b2d06b3.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6807123,139.767138,2a,73.2y,123.24h,103.88t/data=!3m6!1e1!3m4!1sl9_Tdv1i5iDbbzCh0Hm5VA!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The iconic station appears in Season 1 Episode 10's end credits as Nekoma walks through preparing to travel to Miyagi for their practice match with Karasuno — and again when Kageyama departs for the All-Japan Youth Training Camp. Tokyo Station is the gateway every team passes through on their way to the big stage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj-dWyUAmil8R-3gPDAVAoC8",
+      "name": "Kamei Arena Sendai",
+      "localName": "カメイアリーナ仙台",
+      "coordinates": {
+        "lat": 38.2172132,
+        "lng": 140.8694787
+      },
+      "image": "media/cached-image_57b515008bd19c103dbd66daa67d24f9de194239e412d45830d66ef58b406707.webp",
+      "images": [
+        {
+          "url": "media/cached-image_57b515008bd19c103dbd66daa67d24f9de194239e412d45830d66ef58b406707.webp"
+        },
+        {
+          "url": "media/cached-image_7069cd9bc42568920a1fcf792be40a6abac935e31ff0eefc6a1ab6c5504315ea.jpg"
+        }
+      ],
+      "type": "体操競技場",
+      "categories": [
+        "体操競技場"
+      ],
+      "rating": 4.1,
+      "reviewCount": 13,
+      "priceLevel": null,
+      "address": "4 Chome-20-30 Nagamachiminami, Taihaku Ward, Sendai, Miyagi 982-0012, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@38.2172132,140.8694787,3a,90y,352.56h,101.06t/data=!3m8!1e1!3m6!1sAF1QipNM70DwsDkYpIL0EukNmfTz7OOlFvFo8RvJg291!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNM70DwsDkYpIL0EukNmfTz7OOlFvFo8RvJg291%3Dw203-h100-k-no-pi-0-ya37.12511-ro-0-fo100!7i4608!8i2304?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The real Sendai gymnasium that hosts Karasuno's Spring High and Inter-High preliminary matches, including the clashes with Aoba Johsai.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE17Pcc_JhF8RxSLl8SNBr10",
+      "name": "Tatesaka Electronic Store",
+      "localName": "館坂電器商会",
+      "coordinates": {
+        "lat": 40.3264469,
+        "lng": 141.4620903
+      },
+      "image": "media/cached-image_2544fbac95f2ec950861db0bc72dcabca27080df59dae373b578a9c663db1581.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2544fbac95f2ec950861db0bc72dcabca27080df59dae373b578a9c663db1581.webp"
+        },
+        {
+          "url": "media/cached-image_8a237db9074eec70b6c7533a19329db0c94e66716398427223cf9cb83bdaa5f7.jpg"
+        }
+      ],
+      "type": "電器店",
+      "categories": [
+        "電器店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dai 8 Chiwari-81-3 Karumai, Kunohe District, Iwate 028-6302, Japan",
+      "city": "Karumai",
+      "region": "Kunohe District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3264469,141.4620903,3a,90y,22.8h,97.13t/data=!3m6!1e1!3m4!1sXoyDlpNrQgS2Bl-AySp9bw!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "Where a young Hinata watched 'the Little Giant' play on the shop's TV — the moment that sparked his dream of volleyball.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-zvEoMnJhF8RsamqFn3zG1Q",
+      "name": "Kaneda Store",
+      "localName": "兼田商店",
+      "coordinates": {
+        "lat": 40.3230531,
+        "lng": 141.4598902
+      },
+      "image": "media/cached-image_a9ebf1113b2a5cb79bf1c772f39f86f9e972aeb95ce66234630f6af97c8337a1.webp",
+      "images": [
+        {
+          "url": "media/cached-image_a9ebf1113b2a5cb79bf1c772f39f86f9e972aeb95ce66234630f6af97c8337a1.webp"
+        },
+        {
+          "url": "media/cached-image_b62fa019d08eee7c7e2c6c96738e0667bc259941742177f34212f82e8bf6ac8a.jpg"
+        }
+      ],
+      "type": "スーパーマーケット",
+      "categories": [
+        "スーパーマーケット"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dai 9 Chiwari-34-7 Karumai, Kunohe District, Iwate 028-6302, Japan",
+      "city": "Karumai",
+      "region": "Kunohe District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3230531,141.4598902,3a,73.9y,281.22h,94.57t/data=!3m6!1e1!3m4!1spaVlHKi-RMcfkHU2hZeUjg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The model for the Sakanoshita Store, run by Karasuno alumnus and coach Keishin Ukai."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS98FOjLIhF8RwTIFL1zEO3o",
+      "name": "Near the Nanbu Electrical Center",
+      "localName": "南部電化センター付近",
+      "coordinates": {
+        "lat": 40.3192733,
+        "lng": 141.4756051
+      },
+      "image": "media/cached-image_06672912b552a45848b2fb6475ebdead27d0e0112c3b8e12881d625c87b97335.webp",
+      "images": [
+        {
+          "url": "media/cached-image_06672912b552a45848b2fb6475ebdead27d0e0112c3b8e12881d625c87b97335.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "〒028-6302 Iwate, Kunohe District, Karumai, Dai 2 Chiwari−72-5 南部電化センター",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3192733,141.4756051,3a,75y,171.05h,90.68t/data=!3m7!1e1!3m5!1skO_bNMpkH5LARjaVnU9K5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DkO_bNMpkH5LARjaVnU9K5A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D175.59135%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTfhZW87JhF8RAjhX4l7qoco",
+      "name": "Yukiyagawa Riverbed Park",
+      "localName": "雪谷川河川敷公園",
+      "coordinates": {
+        "lat": 40.3253865,
+        "lng": 141.4667351
+      },
+      "image": "media/cached-image_53234f15b43a1a58c4b1cc7fdd771b364d0a2e4bdb91ce16c320bf3d7fa75d74.webp",
+      "images": [
+        {
+          "url": "media/cached-image_53234f15b43a1a58c4b1cc7fdd771b364d0a2e4bdb91ce16c320bf3d7fa75d74.webp"
+        },
+        {
+          "url": "media/cached-image_e62766726eb15bd3fb7e11802b6ebaef3467ef053e7c82634baf4e90f2b274ff.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamidate, Karumai, Kunohe District, Iwate 028-6301, Japan",
+      "city": "Karumai",
+      "region": "Kunohe District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@40.3253865,141.4667351,3a,42.3y,232.11h,91.14t/data=!3m6!1e1!3m4!1sSpQR3P-S3xRBFI1fN5qEIQ!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The riverbank where Nekoma's Kuroo and Kenma practiced volleyball together as kids."
+    }
+  ]
+}

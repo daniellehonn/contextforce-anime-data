@@ -1,0 +1,402 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tokyo Ghoul",
+  "slug": "tokyo-ghoul",
+  "generatedAt": "2026-06-03T22:46:16.957Z",
+  "coverImage": "media/cached-image_890a1c2a1ec94c8c7108e25c2049acd7814d92eacd8701677004028d8b69f932.webp",
+  "image": "media/cached-image_890a1c2a1ec94c8c7108e25c2049acd7814d92eacd8701677004028d8b69f932.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.704601829999994,
+    "lng": 139.67145703
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tokyo Ghoul"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJPWsONKCMGGAROtDv-R6vCok",
+      "name": "GIORGIO ARMANI / ARMANI CAFFÈ Omotesando",
+      "localName": "ジョルジオ アルマーニ / アルマーニカフェ 表参道店",
+      "coordinates": {
+        "lat": 35.6658692,
+        "lng": 139.7109446
+      },
+      "image": "media/cached-image_2245bf9054775b6a403e1ccceb8c91da23ecf7caebfc27eb18e2585222fed99d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2245bf9054775b6a403e1ccceb8c91da23ecf7caebfc27eb18e2585222fed99d.webp"
+        },
+        {
+          "url": "media/cached-image_b6f99e8a9624804d98a18fbe6dc18c41b2b6bd4a6d27865b3ef0da5b0df0877f.jpg"
+        },
+        {
+          "url": "media/cached-image_257c79f2d71c7360bb65f56c6e2b68bef9003a7fc57c4c3fe9c753b357ac3869.jpg"
+        }
+      ],
+      "type": "ブティック",
+      "categories": [
+        "ブティック"
+      ],
+      "rating": 4.1,
+      "reviewCount": 20,
+      "priceLevel": null,
+      "address": "オーク表参道 1F, 3 Chome-6-1 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6658692,139.7109446,3a,75y,215.04h,102.13t/data=!3m6!1e1!3m4!1smX2uFfUC-0bb7MpldaNddg!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The upscale Omotesando shopping strip — home to luxury brands including the Armani Caffè — is the Minato Ward (3rd Ward) streetscape where Kaneki and Rize walk on their first Christmas-period date, the evening that changes everything."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1Wp_JgCNGGAR8IETB-IeCug",
+      "name": "Near the Koshinzaka",
+      "localName": "庚申坂付近",
+      "coordinates": {
+        "lat": 35.7134053,
+        "lng": 139.7400297
+      },
+      "image": "media/cached-image_011e7efd7605b5db5e9285612c0befddac903c57c52d6e6ffd257a3fc78b0507.webp",
+      "images": [
+        {
+          "url": "media/cached-image_011e7efd7605b5db5e9285612c0befddac903c57c52d6e6ffd257a3fc78b0507.webp"
+        },
+        {
+          "url": "media/cached-image_441c8d795b2b3946864fbc2e8f82e4b914809270d4c489b628b52aaffcdee3d0.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒112-0003 Tokyo, Bunkyo City, Kasuga, 2 Chome−9−5",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7134053,139.7400297,3a,75y,155.47h,92.16t/data=!3m7!1e1!3m5!1soSh6EKx1qJBoJfTMoneFag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DoSh6EKx1qJBoJfTMoneFag%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D149.09799%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "The Koshinzaka slope area in Bunkyo Ward sits in the district near Rikkyo University (the model for Kamii University) — the neighbourhood Kaneki navigates regularly as a literature student before and after his transformation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1cpzo16JGGARiSDgHzOhMfo",
+      "name": "Minamitanaka Bridge",
+      "localName": "南田中橋",
+      "coordinates": {
+        "lat": 35.7392681,
+        "lng": 139.6110995
+      },
+      "image": "media/cached-image_8f6ad08f5f9b11040fb66c3704334567c08ca02b32ecfb3e477cb5db38bd51c2.webp",
+      "images": [
+        {
+          "url": "media/cached-image_8f6ad08f5f9b11040fb66c3704334567c08ca02b32ecfb3e477cb5db38bd51c2.webp"
+        },
+        {
+          "url": "media/cached-image_82418b6e05d9bff898e6774a93035378ec93616f72e11abc6e787b36575af2fd.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒104-0033 Tokyo, Chuo City, Minato, 1 Chome−20, ～新川２丁目",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7392681,139.6110995,3a,75y,14.9h,101.28t/data=!3m7!1e1!3m5!1srWbMQN3yYQUFAT2l6j3cnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DrWbMQN3yYQUFAT2l6j3cnQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D104.577736%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "A bridge in the Chuo area that appears as part of the Tokyo Ghoul's documented pilgrimage map — part of the city's mid-ward geography the series uses to anchor its ward-based ghoul territory system."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBXlSxkfuGGARTUBspFs-6PM",
+      "name": "Sofutobanku Kichijojisanrodo",
+      "localName": "ソフトバンク吉祥寺サンロード",
+      "coordinates": {
+        "lat": 35.7033654,
+        "lng": 139.5797689
+      },
+      "image": "media/cached-image_d6b54ca8500d3c03b670176eefc0d0a478bdf924a1677d82591fe34809740646.webp",
+      "images": [
+        {
+          "url": "media/cached-image_d6b54ca8500d3c03b670176eefc0d0a478bdf924a1677d82591fe34809740646.webp"
+        },
+        {
+          "url": "media/cached-image_3034005a9e21cf376a333f7aa02f3b1d8213cc7899cd547286d9907ea3d0e8b3.jpg"
+        },
+        {
+          "url": "media/cached-image_2f54fa3acafb0573d28dcaabb8731df8a34ec903eb8cfa7e6e760fe2aadafbcd.jpg"
+        }
+      ],
+      "type": "携帯電話ショップ",
+      "categories": [
+        "携帯電話ショップ"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-9-8 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7033654,139.5797689,3a,75y,329.14h,104.49t/data=!3m6!1e1!3m4!1svY6DgFUFq16vnc9NHv-CEQ!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "On Kichijoji's Sun Road shopping street — the district where Kaneki and Hide first cross paths with Nishio early in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpVmiHDjuGGARweBh-igDp5o",
+      "name": "Near the Marui Kichijoji",
+      "localName": "吉祥寺マルイ付近",
+      "coordinates": {
+        "lat": 35.7020844,
+        "lng": 139.5789943
+      },
+      "image": "media/cached-image_d2583f1d181a4a6d10360cb40ffa765c989f27bb6a066a1fb063f8c2be93f3da.webp",
+      "images": [
+        {
+          "url": "media/cached-image_d2583f1d181a4a6d10360cb40ffa765c989f27bb6a066a1fb063f8c2be93f3da.webp"
+        },
+        {
+          "url": "media/cached-image_df3da48e17ae7c2d329d5a0793c1880395906730e501f4c774d7a2b95a827861.jpg"
+        },
+        {
+          "url": "media/cached-image_299a74e148605251bbffc649cd4b098ac0341dff49dbfca460ac4b6ef3e2dbb2.jpg"
+        },
+        {
+          "url": "media/cached-image_0aaf6d7fe96d00d6340eb47b6dd7f5a89881dc9780bde62dce35178bf86942f2.jpg"
+        },
+        {
+          "url": "media/cached-image_55a463332530582f6af5adda1fcc22c47ea6a80656d33060751066e27cafec75.jpg"
+        },
+        {
+          "url": "media/cached-image_109259cd0e63bd2ca392884f1b7f8f71dbac71085d47a447aa179b7c29cf3dc6.jpg"
+        },
+        {
+          "url": "media/cached-image_45f727d53c19b907e65b68bae139a00350afba5b2105924f4d48446f773e713a.jpg"
+        },
+        {
+          "url": "media/cached-image_92d3cdc3a2a317fafe81709d9054d70ae5ffffcab56b5c600d7c639b1647eca7.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 3.7,
+      "reviewCount": 825,
+      "priceLevel": null,
+      "address": "1 Chome-7-1 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7020844,139.5789943,3a,75y,27.79h,96.91t/data=!3m6!1e1!3m4!1s0M7Hncwjs2Kpev_xNEcXrw!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "Part of the Kichijoji shopping area featured when Kaneki and Hide run into (and fight) Nishio."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfX42fKGMGGARtTjm_z7DlhY",
+      "name": "Valentino Beauty Omotesando Store",
+      "localName": "ヴァレンティノ ビューティ 表参道ストア",
+      "coordinates": {
+        "lat": 35.6672371,
+        "lng": 139.7082414
+      },
+      "image": "media/cached-image_705c9eaa6220deab5dc9398cf1f645b8bfd3e692f8180d91670e83ab61ad9827.webp",
+      "images": [
+        {
+          "url": "media/cached-image_705c9eaa6220deab5dc9398cf1f645b8bfd3e692f8180d91670e83ab61ad9827.webp"
+        },
+        {
+          "url": "media/cached-image_2b6733eef3bf8a27afc89e81552622d06b6edef00b7a989405cd6ffbb43a2de1.jpg"
+        }
+      ],
+      "type": "ブティック",
+      "categories": [
+        "ブティック"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "表参道ヒルズ本館 1階、2階, 4 Chome-12-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6672371,139.7082414,3a,75y,302.55h,105.65t/data=!3m6!1e1!3m4!1sxLhcni0AIJNuOfWUE8zl3w!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The same Omotesando luxury corridor where Kaneki and Rize's date takes place — the Valentino storefront is one of the specific landmarks replicated from the high-end Minato Ward setting of their final evening together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoaHY3BTtGGARw454XH-ETAg",
+      "name": "Nerima Kuritsu Sakaecho Park",
+      "localName": "練馬区立栄町公園",
+      "coordinates": {
+        "lat": 35.7392732,
+        "lng": 139.6674628
+      },
+      "image": "media/cached-image_3aaaad6bc8d9dd13650430e19f475a8d41a70dc751c261f4f3f83b4674848b0d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_3aaaad6bc8d9dd13650430e19f475a8d41a70dc751c261f4f3f83b4674848b0d.webp"
+        },
+        {
+          "url": "media/cached-image_64a6078956cbf3c3c6274c0a658fb92d8a7d420b12943106a3d559a17dea0036.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "16-4 Sakaecho, Nerima City, Tokyo 176-0006, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7392732,139.6674628,3a,75y,283.79h,96.79t/data=!3m6!1e1!3m4!1sImVKhUkBE0CBMLUd4OLKOQ!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The Nerima park near the residential area that models the Anteiku cafe's neighbourhood — the quiet Nerima streetscape around this park reflects the local feel of the 20th Ward where Kaneki works and lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMftav2iNGGARZZGixN87nNo",
+      "name": "Milky Way Cafe",
+      "localName": "パフェテラスミルキーウェイ",
+      "coordinates": {
+        "lat": 35.7293433,
+        "lng": 139.7143145
+      },
+      "image": "media/cached-image_80008c7589b1b58189b4e8f14ba664076837cae25a82a77650b84e6b9ee5e107.webp",
+      "images": [
+        {
+          "url": "media/cached-image_80008c7589b1b58189b4e8f14ba664076837cae25a82a77650b84e6b9ee5e107.webp"
+        },
+        {
+          "url": "media/cached-image_fb2e252a5ce776da5b72f557b079ceb02742d841118e6007f2a4e682e2979599.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "富士喜ビル ２階, 1 Chome-12-8 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Milky+Way+Cafe/@35.7294883,139.7140772,3a,75y,122.88h,111.77t/data=!3m6!1e1!3m4!1sImmmHSSYoLD0_dLDv40v6g!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60188d68bf5afb31:0xda9c3bdfc4a29165!2sMilky+Way+Cafe!8m2!3d35.7293433!4d139.7143145!16s%2Fg%2F11b88hgm_l!3m5!1s0x60188d68bf5afb31:0xda9c3bdfc4a29165!8m2!3d35.7293433!4d139.7143145!16s%2Fg%2F11b88hgm_l?entry=ttu",
+      "entityContext": "The Ikebukuro parfait café where Kaneki has his fateful first date with Rize — the evening that ends in the accident that turns him into a half-ghoul.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpzCXlZGNGGARowAu4Xbip7c",
+      "name": "Near the New Robot Restaurant Show",
+      "localName": "New Robot Restaurant Show付近",
+      "coordinates": {
+        "lat": 35.6943096,
+        "lng": 139.7026545
+      },
+      "image": "media/cached-image_e6fc848cf3f5675602ad20051202f65ca7ea83862f1056ac73ee35be8778149d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e6fc848cf3f5675602ad20051202f65ca7ea83862f1056ac73ee35be8778149d.webp"
+        },
+        {
+          "url": "media/cached-image_f9f44d6b1ee5a007144a72bc37afad8f5712ef562de1dee68232f0d6c530c527.jpg"
+        }
+      ],
+      "type": "レストラン",
+      "categories": [
+        "レストラン"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "甲斐ビル, 1 Chome-13-11 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/New+Robot+Restaurant+Show/@35.6945583,139.7028219,3a,75y,201.4h,105.26t/data=!3m6!1e1!3m4!1sC-zaeeYF1fHqsQ_1Ff3lqQ!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60188d91959730a7:0xb7a7e276e12e00a3!2sNew+Robot+Restaurant+Show!8m2!3d35.6943096!4d139.7026545!16s%2Fg%2F11vhd5jqy2!3m5!1s0x60188d91959730a7:0xb7a7e276e12e00a3!8m2!3d35.6943096!4d139.7026545!16s%2Fg%2F11vhd5jqy2?entry=ttu",
+      "entityContext": "In Shinjuku's Kabukicho — the neon streets that recur across Tokyo Ghoul's Shinjuku/4th-ward scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ43iHANqMGGARp-JJGRtJ-xg",
+      "name": "JR Shinjuku East Exit Station Square",
+      "localName": "JR新宿駅 東口駅前広場",
+      "coordinates": {
+        "lat": 35.6918627,
+        "lng": 139.7010601
+      },
+      "image": "media/cached-image_6dc320c37e3315402c512a769bc33d1b783a7d2ea6f6717de80dbae7a55bd01b.webp",
+      "images": [
+        {
+          "url": "media/cached-image_6dc320c37e3315402c512a769bc33d1b783a7d2ea6f6717de80dbae7a55bd01b.webp"
+        },
+        {
+          "url": "media/cached-image_1ab262c75f649ad2a76914cb4b1e2ba8e488f95d9c1467c086ef5e380d2a5b1b.jpg"
+        },
+        {
+          "url": "media/cached-image_79f5a7d012042f6a40b29d0908973c4446793959f80676253f1ae959367c96c5.jpg"
+        },
+        {
+          "url": "media/cached-image_04591bd3aa41bc8a471699ba485c16c57fd20a555ff05af859d488bf5c85ed56.jpg"
+        },
+        {
+          "url": "media/cached-image_64ee871e9e5c8bd3903a7ceb942ed74c461edf44a5ce85747d2b610c9348412d.jpg"
+        },
+        {
+          "url": "media/cached-image_2cc8ddf53a1584f17497aa010ec0694c995283b2f7b7c47a9a195704e04d2914.jpg"
+        },
+        {
+          "url": "media/cached-image_888d86d2d2ad08079203992cd8a2e254d313cc4cc5ffb318b21c2512d5a2ff57.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 811,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JR+Shinjuku+East+Exit+Station+Square/@35.6919504,139.7010262,3a,75y,114.47h,110.48t/data=!3m6!1e1!3m4!1sXCeA2VkAExmqcsm0s_kxFw!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60188d0046d3f0fd:0xae9329798e9b8a14!2zSlLmlrDlrr_pp4Ug5p2x5Y-j!8m2!3d35.6918627!4d139.7010601!16s%2Fg%2F11vk7r8f01!3m5!1s0x60188cda008778e3:0x18fb491b1949e2a7!8m2!3d35.6921225!4d139.7010791!16s%2Fg%2F11bwgwh047?entry=ttu",
+      "entityContext": "The Shinjuku East Exit plaza where Kaneki goes to meet Touka — recreated near shot-for-shot in the anime.",
+      "fanTopPick": true
+    }
+  ]
+}

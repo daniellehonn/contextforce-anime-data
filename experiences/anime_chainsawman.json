@@ -1,0 +1,190 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Chainsaw Man",
+  "slug": "chainsaw-man",
+  "generatedAt": "2026-06-03T22:46:16.957Z",
+  "coverImage": "media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
+  "image": "media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.43567,
+    "lng": 138.70124750000002
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Chainsaw Man"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJJUv9zA7tGGARq-Iy0akEuog",
+      "name": "Pitattohausu Nerimaekimaeten",
+      "localName": "ピタットハウス 練馬駅前店",
+      "coordinates": {
+        "lat": 35.73759,
+        "lng": 139.65498
+      },
+      "image": "media/cached-image_6ce7f7b9039538407046b4ba7bcd90d89f908d4205efe8a02af890c96bf23834.webp",
+      "images": [
+        {
+          "url": "media/cached-image_6ce7f7b9039538407046b4ba7bcd90d89f908d4205efe8a02af890c96bf23834.webp"
+        },
+        {
+          "url": "media/cached-image_d2855aa78b41bbe91281e245a51f3e2d224bfd20522a116b6dff96358b755464.jpg"
+        }
+      ],
+      "type": "不動産店",
+      "categories": [
+        "不動産店"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2-5 Nerima, Nerima City, Tokyo 176-0001, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JKYVZCm8VLV6iSHz9"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa24Ipa_tGGARHfXkbFYHbk4",
+      "name": "Koyamacho (Bus)",
+      "localName": "向山町 (バス)",
+      "coordinates": {
+        "lat": 35.73863,
+        "lng": 139.6422
+      },
+      "image": "media/cached-image_729682d4d1c23d4871cd16f85f84e1d16ff64a1378c39c70a83e45222881f144.webp",
+      "images": [
+        {
+          "url": "media/cached-image_729682d4d1c23d4871cd16f85f84e1d16ff64a1378c39c70a83e45222881f144.webp"
+        },
+        {
+          "url": "media/cached-image_92199cb1dbda9d1c2135b0e10b066c81f585701d08d96863229f1659c9aee35d.jpg"
+        }
+      ],
+      "type": "バス停",
+      "categories": [
+        "バス停"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2-chōme-9 Kōyama, Nerima City, Tokyo 176-0022, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/vwFvgpMUiBRrjRjB8"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzxDLbwntGGARfg_YxccvvxE",
+      "name": "Nerima Station",
+      "localName": "練馬駅",
+      "coordinates": {
+        "lat": 35.73767,
+        "lng": 139.65458
+      },
+      "image": "media/cached-image_8cd114263c1532d8021b5199f0f689df790158a865bbf7ddce25379b248837b1.webp",
+      "images": [
+        {
+          "url": "media/cached-image_8cd114263c1532d8021b5199f0f689df790158a865bbf7ddce25379b248837b1.webp"
+        },
+        {
+          "url": "media/cached-image_b2a5a2cb861ed54ae9437cfbd3f39a05cf6010cb5553c9896cb87b4ae0662778.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-3-5 Nerima, Nerima City, Tokyo 176-0001, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RZaGsCuZtN5FpRvr8",
+      "entityContext": "The plaza outside Nerima Station is where Power slays the Sea Fiend without orders — and where Makima dresses down Denji and Power for going rogue.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYStp_Bf8HGARigL8m9c0M7s",
+      "name": "Omiwa Jinja",
+      "localName": "大和国一宮 大神神社（三輪明神）",
+      "coordinates": {
+        "lat": 34.52879,
+        "lng": 135.85323
+      },
+      "image": "media/cached-image_91d13196c320de4a7a6d6d55f32480e8bff11bc26bd8af5dc928f9f6d9d4d159.webp",
+      "images": [
+        {
+          "url": "media/cached-image_91d13196c320de4a7a6d6d55f32480e8bff11bc26bd8af5dc928f9f6d9d4d159.webp"
+        },
+        {
+          "url": "media/cached-image_eb62f66f547d3f1d5c702b1e33182f0f3fdd7903ef906eb2dba2236b8f90821b.jpg"
+        },
+        {
+          "url": "media/cached-image_e2f38530f6aaef771d3d1e09cee4e735a536ce424d30caa39a571424c0284b93.jpg"
+        },
+        {
+          "url": "media/cached-image_a3c74ca3b1548a0ea30823fea366a009f2e7f3d0cc908adba9bb225f5f89437e.jpg"
+        },
+        {
+          "url": "media/cached-image_a677570fe1ca848e1a98813f29adcf7351791da93aaf8782239b88b6b66eaeed.jpg"
+        },
+        {
+          "url": "media/cached-image_8fcf1db4af385445c77dec64922df1032c1e70a0392b04372726c7319bebb7d7.jpg"
+        },
+        {
+          "url": "media/cached-image_d88c42abd737df2276d196f1f7672c8c807033f0dc3130e5554655f996593fc5.jpg"
+        },
+        {
+          "url": "media/cached-image_80ee9d6577287d0b5a2b11a4fd154a84bfe3146cf86b81635b3143f024564e75.jpg"
+        },
+        {
+          "url": "media/cached-image_3bbc44aeb2cd2fad17e9a44c035101de5ae5035cdbb9726dfb25b25e356af1e3.jpg"
+        },
+        {
+          "url": "media/cached-image_f2d22435067898e701fe95158c3107afae3f929ec1911d54be58f7ffb11e2e50.jpg"
+        },
+        {
+          "url": "media/cached-image_32b079f841febfc610426668e381e7494d6a5e756764370f82d071c282a93853.jpg"
+        },
+        {
+          "url": "media/cached-image_f8576248745982e1dab57b209ba3a249e2cd55e3c30cd4d391ae5aa0b9c36e56.jpg"
+        },
+        {
+          "url": "media/cached-image_e7734f548e6a22d6e742ae647d3f94c4d439ffc7f58b27e03daea540cbf3b4a3.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.7,
+      "reviewCount": 9602,
+      "priceLevel": null,
+      "address": "1422 Miwa, Sakurai, Nara 633-8538, Japan",
+      "city": "Sakurai",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wyEMpq4ekis6YaBA8",
+      "entityContext": "This Nara shrine is where Makima appears during the Katana Man assault, using its sacred ground to remotely annihilate the attackers.",
+      "fanTopPick": true
+    }
+  ]
+}

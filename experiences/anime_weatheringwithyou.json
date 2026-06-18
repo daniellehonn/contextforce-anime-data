@@ -1,0 +1,2007 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Weathering With You",
+  "slug": "weathering-with-you",
+  "generatedAt": "2026-06-03T22:46:16.957Z",
+  "coverImage": "media/cached-image_237a2125c632490b412cd3a25cb7db46bb8c0d0935b088366c4535fff22d62af.webp",
+  "image": "media/cached-image_237a2125c632490b412cd3a25cb7db46bb8c0d0935b088366c4535fff22d62af.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.663143989999995,
+    "lng": 139.71588881799997
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Weathering With You"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJrYQFYM-MGGARbPH3BOjB5Sc",
+      "name": "7-Eleven Yoyogi Station North Exit Store",
+      "localName": "セブン-イレブン 代々木駅北口店",
+      "coordinates": {
+        "lat": 35.684648,
+        "lng": 139.7013154
+      },
+      "image": "media/cached-image_da529e470258cc42af2c7e649ce7a15bcc21596c546a489b3f392dd1b8befd0d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_da529e470258cc42af2c7e649ce7a15bcc21596c546a489b3f392dd1b8befd0d.webp"
+        },
+        {
+          "url": "media/cached-image_1f807a4aa72c4f8aed2528338c71143553ed269e227be77f8c8c23ba5e9bde56.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-36-1 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.684648,139.7013154,3a,48.8y,170.24h,97.61t/data=!3m6!1e1!3m4!1snbhRnrr6InXFnx_TbrQ_5Q!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "One of the convenience stores in the Yoyogi area that appears in the film — the 7-Eleven chain recurs throughout the story as Hodaka's source of cheap meals during his early days in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTcrfqomNGGARjommnHbuRtg",
+      "name": "Japan National Stadium",
+      "localName": "国立競技場",
+      "coordinates": {
+        "lat": 35.67965,
+        "lng": 139.71546
+      },
+      "image": "media/cached-image_4e374d8f5150ec8f8e7026a0c508f11c19e73cc9ffbc4fe31f8e7698a214653d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_4e374d8f5150ec8f8e7026a0c508f11c19e73cc9ffbc4fe31f8e7698a214653d.webp"
+        },
+        {
+          "url": "media/cached-image_2404d792dfe0b5c6bc7a0e6315239b22901f40582885e1e3f5988db59fa46df3.jpg"
+        }
+      ],
+      "type": "スタジアム",
+      "categories": [
+        "スタジアム"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "10-1 Kasumigaokamachi, Shinjuku City, Tokyo 160-0013, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6796281,139.7155479,3a,90y,206.47h,100.78t/data=!3m7!1e1!3m5!1su9nQZjrlncWh47ySvfN1Cg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.7769824640841%26panoid%3Du9nQZjrlncWh47ySvfN1Cg%26yaw%3D206.47025156191185!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The Shinjuku Olympic Stadium — seen fully submerged in water in the film's climactic vision of a flooded Tokyo. The image of the iconic arena beneath the waterline is one of Weathering With You's most striking frames and a defining visual of the film's alternate Tokyo.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa2gwksKNGGARs6kJw2wJ04g",
+      "name": "Tabata Station",
+      "localName": "田端駅",
+      "coordinates": {
+        "lat": 35.7369932,
+        "lng": 139.7618643
+      },
+      "image": "media/cached-image_ede419f328e0e7add68fbdaa83d98c0e0e2d1af4ef1827ae825f0b0c92fb479d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ede419f328e0e7add68fbdaa83d98c0e0e2d1af4ef1827ae825f0b0c92fb479d.webp"
+        },
+        {
+          "url": "media/cached-image_1ee574c2793f151a18d0ce0847cd1519ec47c1675e3a4add261cc9a12ef8a8f6.jpg"
+        },
+        {
+          "url": "media/cached-image_371733d34e84d59334977b82a619f940823a0c47788863d160ebdd2eb9ba82d9.jpg"
+        },
+        {
+          "url": "media/cached-image_0114f85ef9e97ca06a313d5855c11cef93500a91ce99fa4e4a5d25d540da8175.jpg"
+        },
+        {
+          "url": "media/cached-image_9f804b075dec9329838bdbcd263348c25305b6c5b241fce40a76074f2ae62d89.jpg"
+        },
+        {
+          "url": "media/cached-image_a655bde41425fa96a7984a6287148248b94c62ab8f2b30fb9ddfc3b146eba921.jpg"
+        },
+        {
+          "url": "media/cached-image_2f7830a7007ee28ad6a00639c02b61c0cbe343c209baa6a70e6777b338701496.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 830,
+      "priceLevel": null,
+      "address": "1-chōme-17 Higashitabata, Kita City, Tokyo 114-0013, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7369932,139.7618643,3a,75y,221.44h,97.29t/data=!3m8!1e1!3m6!1sAF1QipNgxN6nIKMZAkq-BS5Wd8QfgIw3BvcDdSnjr3iX!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNgxN6nIKMZAkq-BS5Wd8QfgIw3BvcDdSnjr3iX%3Dw203-h100-k-no-pi-0-ya45.08134-ro-0-fo100!7i8000!8i4000?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEYcc4sKNGGAR1-jlM2sY3DM",
+      "name": "LEGALAND Mejiro Ekimae",
+      "localName": "LEGALAND目白駅前",
+      "coordinates": {
+        "lat": 35.71825,
+        "lng": 139.70537
+      },
+      "image": "media/cached-image_f48795af047b251ff2cda3141bdfa2cf043ef3806102ef0bb8f60207c0052f90.webp",
+      "images": [
+        {
+          "url": "media/cached-image_f48795af047b251ff2cda3141bdfa2cf043ef3806102ef0bb8f60207c0052f90.webp"
+        },
+        {
+          "url": "media/cached-image_8cd5aca938b86d787f7d0722a9e71a6f35b2761a2093342555e08a2201cd2706.jpg"
+        }
+      ],
+      "type": "団地/共同住宅",
+      "categories": [
+        "団地/共同住宅"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒161-0033 Tokyo, Shinjuku City, Shimoochiai, 2 Chome−14−26",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7182585,139.7053724,3a,90y,343.06h,93.07t/data=!3m7!1e1!3m5!1sr9ggeQ_Qrojq9yXgoF-MXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0667795985294504%26panoid%3Dr9ggeQ_Qrojq9yXgoF-MXw%26yaw%3D343.06463907636953!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ11vWz9KNGGARpdJM9-8DRl8",
+      "name": "WE ROAD",
+      "localName": "ウイロード（雑司が谷隧道）",
+      "coordinates": {
+        "lat": 35.73175,
+        "lng": 139.71142
+      },
+      "image": "media/cached-image_ca09652393e012456431824fee39f89dab9a9460ea976d263a84b7aa11aed05c.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ca09652393e012456431824fee39f89dab9a9460ea976d263a84b7aa11aed05c.webp"
+        },
+        {
+          "url": "media/cached-image_a72995774e163ac96da7015f1af7ca03df13a3444df928f36187c840aa4d0fd0.jpg"
+        },
+        {
+          "url": "media/cached-image_b6f8aff07ace82ce4ebfddc38a2c62660ecb8087083acc1d2c83b5e4c1fcfce6.jpg"
+        },
+        {
+          "url": "media/cached-image_99723e1b1add407096cf709f2dd7a816ad7fc0f8e2d5e0b531de0145f60b7a9d.jpg"
+        },
+        {
+          "url": "media/cached-image_c80885a193aa93dddf9f9dd6f054e4417091699d6422b40ecdcfd983d379832c.jpg"
+        }
+      ],
+      "type": "プロムナード",
+      "categories": [
+        "プロムナード"
+      ],
+      "rating": 3.9,
+      "reviewCount": 72,
+      "priceLevel": null,
+      "address": "1 Chome-28-2 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7314657,139.7119936,3a,67.3y,303.35h,94.3t/data=!3m7!1e1!3m5!1sC-_ibmcW7oZctYsLX1H6IA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.300466458031252%26panoid%3DC-_ibmcW7oZctYsLX1H6IA%26yaw%3D303.3511852629201!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The covered shopping street near Ikebukuro Station that appears in background scenes — part of the dense northern Tokyo streetscape the film uses alongside Shinjuku."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZyDun9CMGGARIT4vZWYlaUw",
+      "name": "Mitsubishi UFJ Bank ATM Corner Shinjuku Station East Exit",
+      "localName": "三菱UFJ銀行 ATMコーナー 新宿駅東口",
+      "coordinates": {
+        "lat": 35.6910143,
+        "lng": 139.7012357
+      },
+      "image": "media/cached-image_8325d906039f08e7a3299674fdab5387ec2ba16c732789a55d83deaae7fae12c.webp",
+      "images": [
+        {
+          "url": "media/cached-image_8325d906039f08e7a3299674fdab5387ec2ba16c732789a55d83deaae7fae12c.webp"
+        },
+        {
+          "url": "media/cached-image_922915142544c59141f40bf50f690d1f3c77016835446ba134bf6502b8cb2260.jpg"
+        }
+      ],
+      "type": "ATM",
+      "categories": [
+        "ATM"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Chome−38−1 JR Shinjuku Station, 地下１階, 中央東口改札口前",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6910143,139.7012357,2a,75y,39.82h,92.14t/data=!3m6!1e1!3m4!1s6XHO5eEWOZrSfYqcwWphLQ!2e0!7i13312!8i6656?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ8xopGiNGGARecXtjOwH0nk",
+      "name": "BOOKOFF Ikebukuro Sunshine 60 tori Store",
+      "localName": "BOOKOFF 池袋サンシャイン60通り店",
+      "coordinates": {
+        "lat": 35.7300357,
+        "lng": 139.7159516
+      },
+      "image": "media/cached-image_d5f028f483e0335414ae7105a74075debc639c60f5298d3f128b74faf9c09ab0.webp",
+      "images": [
+        {
+          "url": "media/cached-image_d5f028f483e0335414ae7105a74075debc639c60f5298d3f128b74faf9c09ab0.webp"
+        },
+        {
+          "url": "media/cached-image_5f95a1147c98f35ea69e98d06c41b99c983e2a5ecdeeff85c3b2f217e7a7d10c.jpg"
+        },
+        {
+          "url": "media/cached-image_290a53850f5db9a3ee29dfaf2c66e5669a5e78f7ec3e63650d7ba591656ef1ec.jpg"
+        },
+        {
+          "url": "media/cached-image_c239307e825d9eddadbe63c68d74445fbf2ed84c6377224979ecdc28508ea288.jpg"
+        },
+        {
+          "url": "media/cached-image_b71b876efa8f21c1bd0866e5e1b0e0b2287ae30d1e7610025388a4a5961fc174.jpg"
+        },
+        {
+          "url": "media/cached-image_a61dbb0d63ec2594354b4d6d5075925bce1c58bc589480ceacc2e92442da557b.jpg"
+        },
+        {
+          "url": "media/cached-image_0fd7565d1376523ecab5b703ebbbc11225932f1dbbaacb0b4215167023ed6f7b.jpg"
+        },
+        {
+          "url": "media/cached-image_2491a49a4108bf6edb6d1155382f3e8aac1847db511ca6d2c276add34d9426ad.jpg"
+        },
+        {
+          "url": "media/cached-image_cd5e7ba45761c44a55cfd5794116768247c52656832de0df74e7090a2018e41b.jpg"
+        }
+      ],
+      "type": "リサイクル ショップ",
+      "categories": [
+        "リサイクル ショップ"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ヒューマックスパビリオン, 1 Chome-22-10 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7300357,139.7159516,3a,75y,208.4h,94.03t/data=!3m7!1e1!3m5!1s3AKLcnLnxleOf8wI4SPx9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3AKLcnLnxleOf8wI4SPx9A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D88.44966%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWXJ-nFaMGGARC6FXiEY8F3I",
+      "name": "Gallery Saka",
+      "localName": "ギャラリー坂",
+      "coordinates": {
+        "lat": 35.7055335,
+        "lng": 139.7354207
+      },
+      "image": "media/cached-image_bb89ecb8cc40dff2d2538c9e9b32a2f88680acb10aa256d4ce3521242795a4dd.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bb89ecb8cc40dff2d2538c9e9b32a2f88680acb10aa256d4ce3521242795a4dd.webp"
+        },
+        {
+          "url": "media/cached-image_bac33d5ece0f86eac55491d1cfade5d4c17af2b842c34e3afe9bfa0189027b7b.jpg"
+        }
+      ],
+      "type": "アート ギャラリー",
+      "categories": [
+        "アート ギャラリー"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒162-0818 Tokyo, Shinjuku City, Tsukijimachi, 2",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7055335,139.7354207,3a,75y,165.6h,100.74t/data=!3m6!1e1!3m4!1skakC6UBipqLw3pCBJ1pErw!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeyp3RNiMGGAR87M10odsZaI",
+      "name": "Atami Building",
+      "localName": "アタミビル",
+      "coordinates": {
+        "lat": 35.6960562,
+        "lng": 139.7030571
+      },
+      "image": "media/cached-image_13d3293a2ec07c9a16873a6491043b433790eef230217c35ed4648cea914e2c7.webp",
+      "images": [
+        {
+          "url": "media/cached-image_13d3293a2ec07c9a16873a6491043b433790eef230217c35ed4648cea914e2c7.webp"
+        },
+        {
+          "url": "media/cached-image_8f00fbb5a84b82194558870887b941385e27fd7a7be27fa4b7b8b5f1b45375a5.jpg"
+        },
+        {
+          "url": "media/cached-image_90f4ba0e95d6c143cd82a079982920c12d35a5a957a5bd8a9b84dd1be0528e90.jpg"
+        },
+        {
+          "url": "media/cached-image_f0b4e5a047b8849d60efa823d87e0ba8070374d1c16055d923ea7729efc8bbb3.jpg"
+        },
+        {
+          "url": "media/cached-image_e20416ca7d59099e1f5fb35e6add5e6815a5bc653e5d73edae96aa3e22bf6a3b.jpg"
+        },
+        {
+          "url": "media/cached-image_e3fa2788769db5ab8ed4e9f67f5e06a91179d8fd8d9c266b107be88522e9e2d3.jpg"
+        }
+      ],
+      "type": "建造物",
+      "categories": [
+        "建造物"
+      ],
+      "rating": 4.2,
+      "reviewCount": 41,
+      "priceLevel": null,
+      "address": "Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6960562,139.7030571,3a,75y,159.8h,97.43t/data=!3m6!1e1!3m4!1srg8T3IVVLv3GsGIuAZhhFg!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The real building in Shinjuku that served as the model for Keisuke Suga's cramped magazine office and apartment — the base of operations for Hodaka's job and the setting for several key scenes with the ragtag team."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWySct2CNGGAR0zRPGdH2Hng",
+      "name": "HOTEL KING",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7338539,
+        "lng": 139.7127439
+      },
+      "image": "media/cached-image_96e794fa378379da167d87a998e1f0a8694e4696478c79f00a053354c8883192.webp",
+      "images": [
+        {
+          "url": "media/cached-image_96e794fa378379da167d87a998e1f0a8694e4696478c79f00a053354c8883192.webp"
+        },
+        {
+          "url": "media/cached-image_c223e32385806bb5f109d69bcb103aec8c3a832fbe6d2f7bc57dfb1b3060f785.jpg"
+        }
+      ],
+      "type": "ホテル",
+      "categories": [
+        "ホテル"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒170-0014 Tokyo, Toshima City, Ikebukuro, 1 Chome−3−19",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7338539,139.7127439,3a,90y,3.98h,93.94t/data=!3m6!1e1!3m4!1sFZGyCD4O0zZaQoJ7665Jqg!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ67k6Ig6LGGARvxPB5UPVm6w",
+      "name": "Observation deck at Odaiba Seaside Park",
+      "localName": "お台場海浜公園の展望デッキ",
+      "coordinates": {
+        "lat": 35.6274605,
+        "lng": 139.7715434
+      },
+      "image": "media/cached-image_e42f5ef75eb7945fd63dd6ebe5c92b4f5be5c6e79c6ff2cbd0128c5026d712fa.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e42f5ef75eb7945fd63dd6ebe5c92b4f5be5c6e79c6ff2cbd0128c5026d712fa.webp"
+        },
+        {
+          "url": "media/cached-image_dfe94a19866ac19ae41cc905280b3c99522bf5fe57f83c1fa2985acde0002b2f.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "お台場海浜公園, 1 Chome-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6274605,139.7715434,3a,75y,323.82h,93.02t/data=!3m7!1e1!3m5!1slWj2SFddZQfeE-0gthv2Ag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DlWj2SFddZQfeE-0gthv2Ag%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D155.00797%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "The Odaiba observation point with its view of Tokyo Bay and the Rainbow Bridge — used in the film's wide exterior shots of the city from the waterfront, establishing the scale of Tokyo's flooded future."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSzZniMONGGARS7TxjpB6LYs",
+      "name": "Hotel Serio",
+      "localName": "ホテル セリオ",
+      "coordinates": {
+        "lat": 35.6971044,
+        "lng": 139.705987
+      },
+      "image": "media/cached-image_00eaf71b445d6c533f90cb5a968795a1781827ec903568c19243795192838e6e.webp",
+      "images": [
+        {
+          "url": "media/cached-image_00eaf71b445d6c533f90cb5a968795a1781827ec903568c19243795192838e6e.webp"
+        },
+        {
+          "url": "media/cached-image_144cf2d6b7fd0fc9927371c9f86360ee6509b2e051daf066cec3a48ebb2d0de9.jpg"
+        }
+      ],
+      "type": "ホテル",
+      "categories": [
+        "ホテル"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0021 Tokyo, Shinjuku City, Kabukicho, 2 Chome−15−13",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6971044,139.705987,3a,90y,332.66h,81.76t/data=!3m6!1e1!3m4!1scbS6DbKXBWYXt1e_jaNxjA!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC4i8peSNGGARKVgIstCORnU",
+      "name": "Hotel Labio",
+      "localName": "ホテル labio",
+      "coordinates": {
+        "lat": 35.69605,
+        "lng": 139.70286
+      },
+      "image": "media/cached-image_c0636ba3232b166ef37d909e1f307f2da4dd63d91f89363575bcbbad4db2a046.webp",
+      "images": [
+        {
+          "url": "media/cached-image_c0636ba3232b166ef37d909e1f307f2da4dd63d91f89363575bcbbad4db2a046.webp"
+        },
+        {
+          "url": "media/cached-image_ba7bf5f1dd170f6d5764215ff193f87b2ca7136cdc96fcfe7cdc10359fc288b8.jpg"
+        }
+      ],
+      "type": "ホテル",
+      "categories": [
+        "ホテル"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-35-1 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6960726,139.7029033,3a,90y,166.6h,91.93t/data=!3m7!1e1!3m5!1sbH8m6oA9JAV6X4GSwfPsog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9320168999337568%26panoid%3DbH8m6oA9JAV6X4GSwfPsog%26yaw%3D166.60277399041018!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx-bmPtmMGGARUtV161YrQJQ",
+      "name": "sophia building 3",
+      "localName": "ソフィアビル3",
+      "coordinates": {
+        "lat": 35.6949003,
+        "lng": 139.7055394
+      },
+      "image": "media/cached-image_02c57dd2faf4319d8aa281c8ddd68c52773439050076ab26d15c1363684778f6.webp",
+      "images": [
+        {
+          "url": "media/cached-image_02c57dd2faf4319d8aa281c8ddd68c52773439050076ab26d15c1363684778f6.webp"
+        },
+        {
+          "url": "media/cached-image_61a6053f7d7641e0e9b8ba855d09d8f3885af4a650ded3bec3f1d3afe6c26bd2.jpg"
+        },
+        {
+          "url": "media/cached-image_464dc1965bdd4e33b0eae2616c166468f3e1d28fd4bb70ff25ce3d2cb3192eda.jpg"
+        },
+        {
+          "url": "media/cached-image_138020b2db8e5e7966185710a61c6399e31551bb7261979b41e1cfb59e2ea411.jpg"
+        },
+        {
+          "url": "media/cached-image_7c890bc376ee15da76ff90566ca638c0356ecdd7ae7507a040b9de6565e1d9aa.jpg"
+        },
+        {
+          "url": "media/cached-image_cc84cebd09cf04c2088c8f5d5acf85cc648c4e7968069f3f7c84fedb26520037.jpg"
+        },
+        {
+          "url": "media/cached-image_8318c0571cdac366e17a60853562625df24cbbdaccc75d5284c244aeeb5e2599.jpg"
+        }
+      ],
+      "type": "建造物",
+      "categories": [
+        "建造物"
+      ],
+      "rating": 2.2,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "2-chōme-9-1 Kabukichō, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6949003,139.7055394,3a,90y,352.98h,96.58t/data=!3m6!1e1!3m4!1sWVJdU0l0RHs3QXTly0iOpw!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF12M7NyMGGARzJxJZYY1X20",
+      "name": "Sakazen Shinjuku Store",
+      "localName": "サカゼン 新宿店",
+      "coordinates": {
+        "lat": 35.69185,
+        "lng": 139.70828
+      },
+      "image": "media/cached-image_e088cfb99e91d08f615c09864328749e171daea7a5309fb90eaafdd5350636c4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e088cfb99e91d08f615c09864328749e171daea7a5309fb90eaafdd5350636c4.webp"
+        },
+        {
+          "url": "media/cached-image_c79c360efa4dd1c9896c499c6b997c80bec29f107bf70e3e2a306fa4475746bb.jpg"
+        },
+        {
+          "url": "media/cached-image_0918aaaa30cc80b1057ead1d709754c359a11b155db8a0a1b2687d7df7fc115b.jpg"
+        },
+        {
+          "url": "media/cached-image_ab572a3d832a2eb2b4ad8e06b9a0b454f26d5860b1432534391bc5c37280c9a2.jpg"
+        },
+        {
+          "url": "media/cached-image_f92f86e795916189c40c8d0727412df31e337fa29084e275c1cce867e730d45c.jpg"
+        },
+        {
+          "url": "media/cached-image_72d9db8da3868a9ba254bf1dc578be0b6aabe68eadacb190d796a41a5bc21f24.jpg"
+        },
+        {
+          "url": "media/cached-image_4b15a5c95e78304c93ef13427ea2ddfb1a8319862a540695809efb0235ef1f7c.jpg"
+        },
+        {
+          "url": "media/cached-image_c8f269fb0814c684e070c654a0149f7f0227d0facf1181a23c7015bbd7852740.jpg"
+        },
+        {
+          "url": "media/cached-image_d31edc1335e4324923c1df42a4e0636c19f81ecd2bc9e71b6c94d2480f8eba35.jpg"
+        },
+        {
+          "url": "media/cached-image_e7123e8c15c7e4ba38c86207a57354ebb05963ca28134b9549574fb5c5b577ba.jpg"
+        },
+        {
+          "url": "media/cached-image_acc54dab14b08e827b20eefdc9fae3f11fd37f46bacf870fe7cacc8756ab81f1.jpg"
+        },
+        {
+          "url": "media/cached-image_d6afa205ba0853cf24cca4cb98f64d6321d25eb0b0bf09bcffd5a1107ebf2aec.jpg"
+        },
+        {
+          "url": "media/cached-image_b0ccf2d9d8735fe2cc5831be66acc80872253564274c3ab0ee31445c1443503e.jpg"
+        }
+      ],
+      "type": "男性服店",
+      "categories": [
+        "男性服店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "坂善第一ビル, 2 Chome-19-13 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6918476,139.7083469,3a,90y,261.27h,96.28t/data=!3m7!1e1!3m5!1s6i1NitTY4XY55V63bmSGpw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.284782600610271%26panoid%3D6i1NitTY4XY55V63bmSGpw%26yaw%3D261.2738341612368!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzQwI9saNGGARuPlz8ddZ0Cw",
+      "name": "Shinjuku",
+      "localName": "辛宿",
+      "coordinates": {
+        "lat": 35.69502,
+        "lng": 139.70387
+      },
+      "image": "media/cached-image_29996bbb6ecfd83f58b8999a8573d326df7a03b3f36d7ebdf9ef209e3da1975b.webp",
+      "images": [
+        {
+          "url": "media/cached-image_29996bbb6ecfd83f58b8999a8573d326df7a03b3f36d7ebdf9ef209e3da1975b.webp"
+        },
+        {
+          "url": "media/cached-image_ea1a75bc92ae8f1a69577c26dfaaedc2b3c8883782f298b9eda4116e83970258.jpg"
+        },
+        {
+          "url": "media/cached-image_89fd56c9dd03f1803da2679f8248c5c31f69897ee41e6b044c58e26881e78ebc.jpg"
+        },
+        {
+          "url": "media/cached-image_8a12a901a8de8d85ce595fc71bd94d8518c8f00c9e69672d372a9cd2772fbfcb.jpg"
+        },
+        {
+          "url": "media/cached-image_508c589142ffa63cdefaefb9fb5d0dc0ee9cf5b547934072b597c9d1b3274378.jpg"
+        },
+        {
+          "url": "media/cached-image_b0461fcd9becfe7b69d5735207f785582e22a0fed4bfdb0e31adb660b743ef90.jpg"
+        },
+        {
+          "url": "media/cached-image_30a9b939acf20e845683b766fad00ef57727751b0cc314d00fa7b184fb13347f.jpg"
+        },
+        {
+          "url": "media/cached-image_0fc2559b413d677264ad2510cd15518a69375f961cc3f3a0dca53cded5cbc985.jpg"
+        },
+        {
+          "url": "media/cached-image_16673f64d339af821361b3befda1f0f3392decdf8fa3341e6b5b4b11dd152f52.jpg"
+        },
+        {
+          "url": "media/cached-image_c333b6cbc5ceaf4c7a6a99b5c7fa85a6bbe95a85cdf12f25798e35f38a56838d.jpg"
+        },
+        {
+          "url": "media/cached-image_fee9e38d296b0912b297fcbad41a976a186eeb9074047402e1d2e61755afa7fe.jpg"
+        }
+      ],
+      "type": "居酒屋",
+      "categories": [
+        "居酒屋"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0021 Tokyo, Shinjuku City, Kabukicho, 1 Chome−3−38 2.3F",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6950865,139.7037326,3a,75y,130.35h,100.22t/data=!3m6!1e1!3m4!1sFyi0meXAvxYL2QDsQ3G3mA!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwbsexYSNGGARKJHKAY9LYgU",
+      "name": "Lawson Qol Yoyogi Station",
+      "localName": "ローソン クオール代々木駅前店",
+      "coordinates": {
+        "lat": 35.68344,
+        "lng": 139.70167
+      },
+      "image": "media/cached-image_fc509894bfd3461de331c72ff55ad65594a6617bd8063b901c1c70e9d0f41464.webp",
+      "images": [
+        {
+          "url": "media/cached-image_fc509894bfd3461de331c72ff55ad65594a6617bd8063b901c1c70e9d0f41464.webp"
+        },
+        {
+          "url": "media/cached-image_04e58d78a713532b25a43b08e2a6eadedf68266f1fcd6834556b9e9fb6b20f8b.jpg"
+        },
+        {
+          "url": "media/cached-image_15332b0702f5c39949b3f80d7d5e25dd651077cbf94a49a141248b49135a7b3d.jpg"
+        },
+        {
+          "url": "media/cached-image_aabbc88359955bbd98859dd07fd9ac503cfe2154d92249c4f878a240acb04684.jpg"
+        },
+        {
+          "url": "media/cached-image_29470a908dcbbe7aeb315061d056653e3977c6efe4a75fe20f5f60761246ef21.jpg"
+        },
+        {
+          "url": "media/cached-image_273a6ea829c3b82c4d098032e6cf5d35df8902f8eb27e3b153a9092ef0600310.jpg"
+        },
+        {
+          "url": "media/cached-image_9a6c9125b0f7f092d82cecb8eee2869ba3af85bac8baabc258ec73df9f625134.jpg"
+        },
+        {
+          "url": "media/cached-image_014be71105401579fcd715eda8507e7daed47d68974e81eaa9d483bf1996f6f5.jpg"
+        },
+        {
+          "url": "media/cached-image_48c396930098a3508c80b4a11c81571998f7963baad2e2e898be9c8d0548c29e.jpg"
+        },
+        {
+          "url": "media/cached-image_9e7b9c155912e8f5829948e9fbc5f053908b216591ad641c8310b9333fec3ead.jpg"
+        },
+        {
+          "url": "media/cached-image_82dda9859b245ff732efdbdfe01a5f0034482abac8b41f3cbd58039d6363bf9f.jpg"
+        },
+        {
+          "url": "media/cached-image_5895c6e00f9adf9663f8690c827320f91fe85852e75c719bf71c85de3cbf765e.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-35-15 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6834448,139.7016328,3a,90y,110.82h,125.55t/data=!3m7!1e1!3m5!1sBhK_ujgp8WF9d27fWs4wjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-35.54782268312563%26panoid%3DBhK_ujgp8WF9d27fWs4wjg%26yaw%3D110.81873806455411!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0ZcLyGCNGGAR1CUNjMtoZsY",
+      "name": "Ikebukurokita Bicycle",
+      "localName": "池袋北駐輪場",
+      "coordinates": {
+        "lat": 35.7342288,
+        "lng": 139.7131889
+      },
+      "image": "media/cached-image_a8ebb42939a6ea125792ebbab429a0b3ab3fa14934e2885f96bfe868d6b9685d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_a8ebb42939a6ea125792ebbab429a0b3ab3fa14934e2885f96bfe868d6b9685d.webp"
+        },
+        {
+          "url": "media/cached-image_832061671e15e860535be2e3c70d0ac1cbd93ff7ffc296cb1543611b0e5f656c.jpg"
+        }
+      ],
+      "type": "單車停放架",
+      "categories": [
+        "單車停放架"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-20 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7342288,139.7131889,3a,75y,227.53h,99.59t/data=!3m7!1e1!3m5!1sX4gf8GNZwzAXsceiLarUKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DX4gf8GNZwzAXsceiLarUKg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D83.02426%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9Qs3D9eMGGARfz3hBRxXGT4",
+      "name": "Wankara Shinjuku-Nishiguchi",
+      "localName": "ワンカラ 新宿大ガード店",
+      "coordinates": {
+        "lat": 35.694014,
+        "lng": 139.6994759
+      },
+      "image": "media/cached-image_67f0ff983839ba880e77ceb8b5cc1ad065b316ba24cac2b57c46f6ba1489a462.webp",
+      "images": [
+        {
+          "url": "media/cached-image_67f0ff983839ba880e77ceb8b5cc1ad065b316ba24cac2b57c46f6ba1489a462.webp"
+        },
+        {
+          "url": "media/cached-image_654909f397dd343e24b773a30d7702496e849599aca2da1b8b0a1706baf4efbf.jpg"
+        }
+      ],
+      "type": "カラオケ",
+      "categories": [
+        "カラオケ"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1, ７丁目１−１, 新宿カレイドビル 4F",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.694014,139.6994759,3a,75y,145.93h,91.8t/data=!3m7!1e1!3m5!1s9ZAYuc8ozD6t43LIp2hd_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D9ZAYuc8ozD6t43LIp2hd_w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D342.75446%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX9MhjuaLGGARvoMvduRK-5E",
+      "name": "Mitsukoshi Ginza",
+      "localName": "銀座三越",
+      "coordinates": {
+        "lat": 35.67136,
+        "lng": 139.76546
+      },
+      "image": "media/cached-image_175d81652c4c82c42c55b0fce0f70ef49c4690dfe413fb461259e36de4541993.webp",
+      "images": [
+        {
+          "url": "media/cached-image_175d81652c4c82c42c55b0fce0f70ef49c4690dfe413fb461259e36de4541993.webp"
+        },
+        {
+          "url": "media/cached-image_761def5a8ae7bd9969dc26980a130ff016f1ba0e96b75d2fc5109941b5edede0.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-6-16 Ginza, Chuo City, Tokyo 104-8212, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6713047,139.7652062,3a,90y,282.44h,132.16t/data=!3m7!1e1!3m5!1sw_q9_MeqciqYrZNxS817-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-42.16299200152204%26panoid%3Dw_q9_MeqciqYrZNxS817-g%26yaw%3D282.4421036748827!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSU3vFGeNGGARZTd2feddtDc",
+      "name": "Daiichi Inn Ikebukuro",
+      "localName": "第一イン池袋",
+      "coordinates": {
+        "lat": 35.7317649,
+        "lng": 139.7125561
+      },
+      "image": "media/cached-image_fba096ff205aa7d98409a11bf4f82ee77d8d0e5de5e6fd365c6ae40e6c67ec58.webp",
+      "images": [
+        {
+          "url": "media/cached-image_fba096ff205aa7d98409a11bf4f82ee77d8d0e5de5e6fd365c6ae40e6c67ec58.webp"
+        },
+        {
+          "url": "media/cached-image_7871b3164bff3b40c4ac5bfddc500635b8e3f8b9646af9af837fb42463d64b53.jpg"
+        },
+        {
+          "url": "media/cached-image_ed34cd0c0688ecc50692deaea474156319ade42a9e212a7b3d15f265d7a999dd.jpg"
+        },
+        {
+          "url": "media/cached-image_496e41d907e432f658964335d6cf29ae85a6e792fdc5750a7bfdcd4a50b66d6f.jpg"
+        },
+        {
+          "url": "media/cached-image_d685edb775bfb936c7192cd7cdd128d53564565d33590e1357cbe0874226f6b3.jpg"
+        },
+        {
+          "url": "media/cached-image_a30fdbd01c4b058ca8cdc2328a1605c834881457eb38d6c226290438b9c9e5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_5d83934f7b74a296aa118b8af473851c23b0ebb25f124f96731608b268663ad8.jpg"
+        },
+        {
+          "url": "media/cached-image_3271fc9c4e8bbb84e2d5a2822d9730d1b7611c48a25ab5969f70bf4455cad99f.jpg"
+        },
+        {
+          "url": "media/cached-image_7b9e54f26be7497940a11c9c39c61e7ad051e5d21b50bc445ea60e90b08c7df5.jpg"
+        },
+        {
+          "url": "media/cached-image_a730ef863d76d9bf18ab24872132f2941c9f8e70f8b2fd44208e572c7de137dd.jpg"
+        },
+        {
+          "url": "media/cached-image_2179d20654fe878799080816dfe01a032d736014e395d4d96596011e636a55bf.jpg"
+        },
+        {
+          "url": "media/cached-image_7412f129a8b698d95d760725291bc841b147349abfdda0e69ce1bf466ce003e9.jpg"
+        },
+        {
+          "url": "media/cached-image_04c2b42e65f19c469f2156a855628c0a40e07684824155fa3a414b560048d085.jpg"
+        }
+      ],
+      "type": "ホテル",
+      "categories": [
+        "ホテル"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1059,
+      "priceLevel": null,
+      "address": "1 Chome-42-8 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7317649,139.7125561,3a,90y,40.6h,104.31t/data=!3m6!1e1!3m4!1srKblfNS2QK9WShnC8l4Tfw!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The budget hotel in Ikebukuro where Hodaka stays during his early, precarious days in Tokyo — one of the documented lodging locations from the film's pilgrimage guides."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKSgs1NGLGGAR-VKyI3yWIxE",
+      "name": "Takeshiba Ship Terminal",
+      "localName": "竹芝客船ターミナル",
+      "coordinates": {
+        "lat": 35.6544304,
+        "lng": 139.7631092
+      },
+      "image": "media/cached-image_d3f7b528e2a3549cf1f776aa1a9b324c45bc376aacb4ef80e479b433c2a84e16.webp",
+      "images": [
+        {
+          "url": "media/cached-image_d3f7b528e2a3549cf1f776aa1a9b324c45bc376aacb4ef80e479b433c2a84e16.webp"
+        },
+        {
+          "url": "media/cached-image_0c8155583bd40f4a254727da08baf153b50b8df4c4b121844b6f2c5128cca49b.jpg"
+        }
+      ],
+      "type": "フェリー サービス",
+      "categories": [
+        "フェリー サービス"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-16-1 Kaigan, Minato City, Tokyo 105-0022, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6544304,139.7631092,3a,75y,308.43h,97.47t/data=!3m6!1e1!3m4!1sCAWkp-XGW2HT-cCDf1u9-g!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The ferry terminal where Hodaka Morishima arrives in Tokyo at the opening of the film, stepping off the boat from his island home and beginning his life in the city — the starting point of the entire story.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKw5h7PGMGGARDyt7i4OUCFM",
+      "name": "Akebonobashi",
+      "localName": "曙橋",
+      "coordinates": {
+        "lat": 35.6925636,
+        "lng": 139.7217378
+      },
+      "image": "media/cached-image_48a7b72373fe39d0c411e5744565c1efd93ba1154048787465422ac48a924b4e.webp",
+      "images": [
+        {
+          "url": "media/cached-image_48a7b72373fe39d0c411e5744565c1efd93ba1154048787465422ac48a924b4e.webp"
+        },
+        {
+          "url": "media/cached-image_d405de745c3137815f1af2e9c764f6799fd37666293f3b10a156779860f7fff9.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7 Sumiyoshichō, Shinjuku City, Tokyo 162-0065, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6925636,139.7217378,3a,90y,144.64h,97.79t/data=!3m7!1e1!3m5!1sRNzKpwcQ0vUFDXfCQQXRuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRNzKpwcQ0vUFDXfCQQXRuQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D137.00308%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwzRRIMOIGGAR8lib5NoC_1Q",
+      "name": "Tatekawa Kasenjiki Park",
+      "localName": "江東区立 竪川河川敷公園",
+      "coordinates": {
+        "lat": 35.69378,
+        "lng": 139.82904
+      },
+      "image": "media/cached-image_6661f38928ed6e48a6cc444399151a06da63e75579d327d22f78254bae53fecc.webp",
+      "images": [
+        {
+          "url": "media/cached-image_6661f38928ed6e48a6cc444399151a06da63e75579d327d22f78254bae53fecc.webp"
+        },
+        {
+          "url": "media/cached-image_6098cf8e3b658e8a3755e27c4dbc6cc80031006f88e96f052c59e1b6f3c40d31.jpg"
+        },
+        {
+          "url": "media/cached-image_84f26359cc4f73439eebfe678f44f352ed6e4888909ade5969856530d2f9d47d.jpg"
+        },
+        {
+          "url": "media/cached-image_cdb47246c431cb9a46fd7136eeb9a2115ea8d904e3f27fc647efb5b525340b5a.jpg"
+        },
+        {
+          "url": "media/cached-image_d61449b204f0df5e57009df67f4f357b0fe0489254eaedb040536360812cc560.jpg"
+        },
+        {
+          "url": "media/cached-image_bc2c5cad0601c59190f3cfa48815d8945f70685c22329e84860192d719ae5ee9.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4,
+      "reviewCount": 80,
+      "priceLevel": null,
+      "address": "6 Chome-33-10 Kameido, Koto City, Tokyo 136-0071, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6937875,139.8284809,3a,90y,90.98h,96.63t/data=!3m7!1e1!3m5!1s3EuqHvR8ZTg3Tokmf5LAaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.634284195057177%26panoid%3D3EuqHvR8ZTg3Tokmf5LAaw%26yaw%3D90.97590739378491!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The riverside park in Koto City along the Tatekawa river canal — confirmed as one of the background outdoor locations the film recreates as part of its detailed eastern Tokyo geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ34raAUSNGGAR98CvmhEsq1w",
+      "name": "Cafe Acorite",
+      "localName": "カフェ アコリット目白",
+      "coordinates": {
+        "lat": 35.7216478,
+        "lng": 139.7063338
+      },
+      "image": "media/cached-image_dd19fda08b0e9f065ca3b603030a224885a71834a341429ecf7f4432e68dd4b5.webp",
+      "images": [
+        {
+          "url": "media/cached-image_dd19fda08b0e9f065ca3b603030a224885a71834a341429ecf7f4432e68dd4b5.webp"
+        },
+        {
+          "url": "media/cached-image_0ca4c84a0fea028f8a0bd27aa87df2a6f739a26d3e3ed8a97876ede5f598457a.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-4-15 Mejiro, Toshima City, Tokyo 171-0031, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7216478,139.7063338,3a,90y,87.95h,104.96t/data=!3m6!1e1!3m4!1sOAE366tvN1TUR6WyiEchnw!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQa2EIaNGGARP8WyiHcypDQ",
+      "name": "Wakasaya Kabukicho",
+      "localName": "若狭家 歌舞伎町店",
+      "coordinates": {
+        "lat": 35.6943706,
+        "lng": 139.7017668
+      },
+      "image": "media/cached-image_2e6a59c967ff9a8bf369ee7e58088250a81379c4be4f2061550264d55ddfd861.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2e6a59c967ff9a8bf369ee7e58088250a81379c4be4f2061550264d55ddfd861.webp"
+        },
+        {
+          "url": "media/cached-image_a221f87248d4253760de493a4f0007d5e57437a16084270f1e3620bd49fa8709.jpg"
+        }
+      ],
+      "type": "シーフード・海鮮料理店",
+      "categories": [
+        "シーフード・海鮮料理店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "栄喜堂ビル, 1 Chome-15-7 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6943706,139.7017668,3a,75y,66.5h,90t/data=!3m7!1e1!3m5!1sY6hf1ntgSf9kvxuYi8jKuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DY6hf1ntgSf9kvxuYi8jKuw%26yaw%3D66.50104440486939!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4dxf6dmMGGARnKTR1t2oRMc",
+      "name": "Kabukicho Sakura Dori",
+      "localName": "歌舞伎町さくら通り",
+      "coordinates": {
+        "lat": 35.69354,
+        "lng": 139.70234
+      },
+      "image": "media/cached-image_83337053f2fa607176ffa99ce9c370739dfffeb50f9243c140bd9717430f78c2.webp",
+      "images": [
+        {
+          "url": "media/cached-image_83337053f2fa607176ffa99ce9c370739dfffeb50f9243c140bd9717430f78c2.webp"
+        },
+        {
+          "url": "media/cached-image_1e945a7f0942bd9df7f1b8ac4cf073d36d89bc8588fe8fa61f0c2690328c83de.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1-chōme Kabukichō, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6934691,139.7023074,3a,90y,20.93h,95.73t/data=!3m7!1e1!3m5!1s_Ry8GA592nzFsRNzWR5Duw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.725792698287194%26panoid%3D_Ry8GA592nzFsRNzWR5Duw%26yaw%3D20.925257092138363!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The neon-lit avenue at the heart of Kabukicho that appears repeatedly in the film as Hodaka wanders through Shinjuku's entertainment district — one of the primary streets in the film's Shinjuku streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU2b96dmMGGARo-QYFLy59EA",
+      "name": "FamilyMart Shinjuku Kabukicho Ichibangai",
+      "localName": "ファミリーマート 新宿歌舞伎町一番街店",
+      "coordinates": {
+        "lat": 35.69468,
+        "lng": 139.70131
+      },
+      "image": "media/cached-image_32978175044aeb80a385ae428d77ec8d27cc9d7e36899ba0d1b6ad1e21fe07a8.webp",
+      "images": [
+        {
+          "url": "media/cached-image_32978175044aeb80a385ae428d77ec8d27cc9d7e36899ba0d1b6ad1e21fe07a8.webp"
+        },
+        {
+          "url": "media/cached-image_68f1d89258ced184db1e87a371f99c1482643854aebc75add11ebc54fed245be.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-16-1 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6946389,139.7013187,3a,47.9y,16.24h,102.28t/data=!3m7!1e1!3m5!1srLcl2tTUyw3WAky9_NZBlg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.282587116539517%26panoid%3DrLcl2tTUyw3WAky9_NZBlg%26yaw%3D16.243705709012033!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "One of the Kabukicho convenience stores that appears in the film as part of the district's streetscape — Hodaka frequently relies on convenience stores for food during his precarious early days in Shinjuku."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ86zz-iNGGARerbz4mZyszk",
+      "name": "Ikebukuro Bridge",
+      "localName": "池袋大橋",
+      "coordinates": {
+        "lat": 35.7341219,
+        "lng": 139.7138218
+      },
+      "image": "media/cached-image_7fff79305235a19e8d79a24b561b1efd3f636a18606cb0fe570e683477aeab36.webp",
+      "images": [
+        {
+          "url": "media/cached-image_7fff79305235a19e8d79a24b561b1efd3f636a18606cb0fe570e683477aeab36.webp"
+        },
+        {
+          "url": "media/cached-image_003cc84c7abac2df1716afae6df33c1bf9833218a6fd6dfd17e4d1deca893002.jpg"
+        },
+        {
+          "url": "media/cached-image_832061671e15e860535be2e3c70d0ac1cbd93ff7ffc296cb1543611b0e5f656c.jpg"
+        },
+        {
+          "url": "media/cached-image_048fdc467f2d38e021e184ffd2c5232ed37c04610d5b145b0c792c534f7cbfb3.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.2,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "1 Chome-4-1 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7341219,139.7138218,3a,75y,224.68h,98.73t/data=!3m7!1e1!3m5!1sNJvPUaw1EfL1YhZ5Vgiu7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNJvPUaw1EfL1YhZ5Vgiu7w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D240.1595%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "The bridge in Ikebukuro that features in scenes set in the northern Tokyo district — Hodaka moves through both Shinjuku and Ikebukuro repeatedly, and the bridge is a confirmed location in pilgrimage guides."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK0TdDneLGGARVxJ3MHC0emY",
+      "name": "Tokyo City View",
+      "localName": "六本木ヒルズ展望台 東京シティビュー",
+      "coordinates": {
+        "lat": 35.6604038,
+        "lng": 139.7292383
+      },
+      "image": "media/cached-image_f92b72bc7cdb1ece03497a3c2e8363c53b9b1e859241e69038ebfd31944dd223.webp",
+      "images": [
+        {
+          "url": "media/cached-image_f92b72bc7cdb1ece03497a3c2e8363c53b9b1e859241e69038ebfd31944dd223.webp"
+        },
+        {
+          "url": "media/cached-image_4c2ca3ee5accfb0eee1c09a6b763b9959a9d7b0c7c2191b4d053b3673d51ee10.jpg"
+        },
+        {
+          "url": "media/cached-image_8da780ebd3baaf33790af6a510aa2a10b25937f4e832bc954057749b6a0f2581.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Roppongi Hills Mori Tower, 52階, 6 Chome-10-1 Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6604038,139.7292383,2a,75y,20.97h,101.66t/data=!3m6!1e1!3m4!1s76aow7J_ycOTzysXf_7ivg!2e0!7i13312!8i6656?entry=ttu",
+      "entityContext": "The Roppongi Hills observation deck featured in the film's high-altitude cityscape shots — used to convey the sweeping, cloud-level perspective central to the story's weather and sky imagery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0eDbYvmJGGARiK0p2Lu8xHA",
+      "name": "Eidai Bridge",
+      "localName": "永代橋",
+      "coordinates": {
+        "lat": 35.67637,
+        "lng": 139.78726
+      },
+      "image": "media/cached-image_6b917302304ffb3ff963bc9703c8ebcb816cb578884e03b0b6a5f10fa84facf4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_6b917302304ffb3ff963bc9703c8ebcb816cb578884e03b0b6a5f10fa84facf4.webp"
+        },
+        {
+          "url": "media/cached-image_28556d6d6a7141bdae2519488b40a84dd6941d8965a346209ad4644e6ac1881a.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0034 Tokyo, Koto City, Eitai, 1 Chome−31, ～中央区新川１丁目",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6763413,139.7872344,3a,48.7y,29.76h,98.35t/data=!3m7!1e1!3m5!1s_NcZkYZTgIxFUAe4VIZ6DA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.346708623190366%26panoid%3D_NcZkYZTgIxFUAe4VIZ6DA%26yaw%3D29.756395382561145!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The bridge over the Sumida River in Koto City that appears in the film's exterior Tokyo scenes — one of the waterway crossings documented in pilgrimage guides for the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP3TdsSmNGGAR5QS7BBbcbrw",
+      "name": "Nishishinjuku Prime Square",
+      "localName": "西新宿プライムスクエア",
+      "coordinates": {
+        "lat": 35.69819,
+        "lng": 139.6987
+      },
+      "image": "media/cached-image_9769133f1fafab99eb9da431dd4713b221f2504e368a87d132f76ffdd0e43adb.webp",
+      "images": [
+        {
+          "url": "media/cached-image_9769133f1fafab99eb9da431dd4713b221f2504e368a87d132f76ffdd0e43adb.webp"
+        },
+        {
+          "url": "media/cached-image_bd8e8df141d0319b0b6b86b847b63787f25a507b3adeb008e7b03eb9d6f20b5b.jpg"
+        }
+      ],
+      "type": "建造物",
+      "categories": [
+        "建造物"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981533,139.6986411,3a,90y,51.98h,108.04t/data=!3m7!1e1!3m5!1sEWZrSXq18-kXwMKTQ-DwmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.035003557082277%26panoid%3DEWZrSXq18-kXwMKTQ-DwmA%26yaw%3D51.97602253011115!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd-vu1-iLGGARpMRuVDEf10o",
+      "name": "Hachikan Shrine",
+      "localName": "八官神社",
+      "coordinates": {
+        "lat": 35.6692041,
+        "lng": 139.7603117
+      },
+      "image": "media/cached-image_df4df60b3ddac8d40f7c1e40e2d2778bd33fc3e2a18524cef9bace14072b5b5c.webp",
+      "images": [
+        {
+          "url": "media/cached-image_df4df60b3ddac8d40f7c1e40e2d2778bd33fc3e2a18524cef9bace14072b5b5c.webp"
+        },
+        {
+          "url": "media/cached-image_e8c03fee580b28d183802655cb97648e3ac38e37f00d9f45b15e65774527e882.jpg"
+        },
+        {
+          "url": "media/cached-image_b8ab8a489197f52b4c77365b11d38d976223763b9bc76269a7696e6663d3f46f.jpg"
+        },
+        {
+          "url": "media/cached-image_9960914a7755152989a937a71a0e977c18ea56ce7728091293ce59d778a4051a.jpg"
+        },
+        {
+          "url": "media/cached-image_311f6479ffe87628da757867c02fd775430dedd7de4e2660b9415c08e07275f7.jpg"
+        },
+        {
+          "url": "media/cached-image_392e44b590d6a71612db919da7bd4b7af060ec559779704f0763c4d81a2431f3.jpg"
+        },
+        {
+          "url": "media/cached-image_1db0fa6257fbd1e5366e88b9161c9ca2f4564201e749a730015cbf08d1801e80.jpg"
+        },
+        {
+          "url": "media/cached-image_038e4bf389a81deff4501cd208c7858784c64e50e3df4c8f3aace431a2efc9d9.jpg"
+        },
+        {
+          "url": "media/cached-image_ac284b57465558aa2eea526a5e7f812edf3c0706bbb63e78c5c1f96316c91448.jpg"
+        },
+        {
+          "url": "media/cached-image_7f0d938a682f8554e790b0c5d9366fffe6c53000f2f2ec86c3e720f763fc8ca7.jpg"
+        },
+        {
+          "url": "media/cached-image_36d5d0793d0c74a78a9847a8d69e3050d7533f80a50d023bca231f22a92dfb14.jpg"
+        },
+        {
+          "url": "media/cached-image_9d5f0bc92179107f537bbc4412282c3f1d12e6f5a2a7d168906cd596982af050.jpg"
+        },
+        {
+          "url": "media/cached-image_7656000e4ac19d4b665411e12a4b80b348cc93f15e1369509737d9a8d52de173.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4,
+      "reviewCount": 40,
+      "priceLevel": null,
+      "address": "8F, 8 Chome-4-5 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6692041,139.7603117,3a,75y,285.97h,95.35t/data=!3m7!1e1!3m5!1sorxAE1ILExU5FiM4Al0SxA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DorxAE1ILExU5FiM4Al0SxA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D146.74767%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "One of the small Tokyo shrines that appears in the film's background imagery — Makoto Shinkai's films characteristically feature small neighbourhood shrines as quiet counterpoints to the urban setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhac3ndeMGGARZpRMhdQey6w",
+      "name": "McDonald's Seibu Shinjuku Station Store",
+      "localName": "マクドナルド 西武新宿駅前店",
+      "coordinates": {
+        "lat": 35.6938851,
+        "lng": 139.7005534
+      },
+      "image": "media/cached-image_1e23c82f89a141f7efa77ab2575af9ecc99ce6ed7f93a8c0f7b231315941abfe.webp",
+      "images": [
+        {
+          "url": "media/cached-image_1e23c82f89a141f7efa77ab2575af9ecc99ce6ed7f93a8c0f7b231315941abfe.webp"
+        },
+        {
+          "url": "media/cached-image_b3e5a61eb62b6fb0543a9dd695c907eb04368a5e4ed12dbbddef2b2044383c05.jpg"
+        }
+      ],
+      "type": "ファースト フード店",
+      "categories": [
+        "ファースト フード店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-24-1 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6938851,139.7005534,3a,39.2y,17.9h,98.73t/data=!3m6!1e1!3m4!1sQSwrcS5KVMAFuT7zMsWQRQ!2e0!7i16384!8i8192?entry=ttu",
+      "entityContext": "The McDonald's near Seibu-Shinjuku Station that is the model for the restaurant where Hina Amano works part-time — one of the most-documented pilgrimage stops, where the uniforms and layout match the film almost shot-for-shot.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0YwG28aOGGARvRKAXIBWqNk",
+      "name": "Kaminarimon",
+      "localName": "雷門",
+      "coordinates": {
+        "lat": 35.7109323,
+        "lng": 139.7963119
+      },
+      "image": "media/cached-image_ca2fd0f12962e0cb20d3b98abd37d7cf0bc379e8b20d264fdef7bdd0edc25a65.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ca2fd0f12962e0cb20d3b98abd37d7cf0bc379e8b20d264fdef7bdd0edc25a65.webp"
+        },
+        {
+          "url": "media/cached-image_e8e802bb3859295b3496d28d331d24c32177e6fa3d39ab1e77ba1602f09d52ee.jpg"
+        },
+        {
+          "url": "media/cached-image_60ae4ca225e3429af5502eb5c41432e40845bc46c07a0c06d87f48e9c7473cdf.jpg"
+        },
+        {
+          "url": "media/cached-image_d1c670fcae51fa0fb427e1cb229710622b48126ea4c530ff9e0c8636b6fb0247.jpg"
+        },
+        {
+          "url": "media/cached-image_783af5ea403a38ecf422c7dc2c1df96f9f9da0ee7d9c30d69232cf69458ae23a.jpg"
+        },
+        {
+          "url": "media/cached-image_47be5716cf0539288e783b8bfc8b77eec69dfd551c91ce261c20e71d79d6d21b.jpg"
+        },
+        {
+          "url": "media/cached-image_c93b62bb2d7a70bd25dfaaa8263f95ce1f547cf1279a73312d62e880ba1b5768.jpg"
+        },
+        {
+          "url": "media/cached-image_49c66ff8de72ec91f6711285ab0e3dfcff65d6a42490906092e84704663bbd93.jpg"
+        },
+        {
+          "url": "media/cached-image_657c421be9963a9d3504b82a815da2e5b6ef851b9bde0561aaf42842ad4732e4.jpg"
+        },
+        {
+          "url": "media/cached-image_8d2d8f542782a20c9430b47304fb0d6bdf415db757a160323196a679f983826c.jpg"
+        },
+        {
+          "url": "media/cached-image_0191222ef0c59897e686a742adf585c67f8a9767dcca3bff0686b2408391fbde.jpg"
+        },
+        {
+          "url": "media/cached-image_04b319e1657266ccc0e7f19186c2c691b26101be41b9ca253399667cf0522b16.jpg"
+        },
+        {
+          "url": "media/cached-image_8fc98828a6d8c801b62338c48c4b4335b10fa5966e6cc26952610b79fafa3c20.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 37019,
+      "priceLevel": null,
+      "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7109323,139.7963119,3a,75y,6.26h,95.53t/data=!3m7!1e1!3m5!1svxNO5RgWRyh3zbrXaZd1hQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DvxNO5RgWRyh3zbrXaZd1hQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D113.91979%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "The iconic Asakusa gate appears in a key scene from the film — part of Shinkai's meticulous recreation of real Tokyo landmarks in the alternate-weather version of the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE2PpaMUdF2ARdOJ_5F1cPsc",
+      "name": "Haruka Observatory",
+      "localName": "はるか展望台",
+      "coordinates": {
+        "lat": 34.2039565,
+        "lng": 139.1337631
+      },
+      "image": "media/cached-image_520f444e16fdddfb164fdf28d9a1f33d503723fa546fdfb19c82d8450c68dd80.webp",
+      "images": [
+        {
+          "url": "media/cached-image_520f444e16fdddfb164fdf28d9a1f33d503723fa546fdfb19c82d8450c68dd80.webp"
+        },
+        {
+          "url": "media/cached-image_ba49868a7f1b6a3f13bdfdd6717afd67e31de21d3d50a9998cbe1cf60eeacc24.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒100-0601 Tokyo, Kozushima Village",
+      "city": "Kozushima Village",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2039565,139.1337631,3a,75y,206.07h,95.19t/data=!3m7!1e1!3m5!1sBcxBYdtb7hAWWL-zSzEbXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DBcxBYdtb7hAWWL-zSzEbXg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D137.79832%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRUIUpfCJGGARL2W9XgEbwms",
+      "name": "Tokyo Teleport Station",
+      "localName": "東京テレポート駅",
+      "coordinates": {
+        "lat": 35.6270931,
+        "lng": 139.7795285
+      },
+      "image": "media/cached-image_d1bfa4fffb07520cd07dc6c64d81cab71615c375db3ce53fbf6ae533b7ac7211.webp",
+      "images": [
+        {
+          "url": "media/cached-image_d1bfa4fffb07520cd07dc6c64d81cab71615c375db3ce53fbf6ae533b7ac7211.webp"
+        },
+        {
+          "url": "media/cached-image_89dfc69f7db3abf107ad6981a892d7fbb43e2deb1d1d7e5dabccdeb74624ce79.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-2 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6270931,139.7795285,3a,90y,359.01h,113.11t/data=!3m7!1e1!3m5!1seXDl_1BPtgiMG86slq6wrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DeXDl_1BPtgiMG86slq6wrQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D53.998035%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
+      "entityContext": "The Odaiba monorail station that appears in scenes set on the artificial island — part of the film's depiction of Tokyo Bay area locations, distinct from the Shinjuku-heavy main setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2Q3dJ0eJGGARXP30ZzITOeY",
+      "name": "Sumida River Terrace",
+      "localName": "隅田川テラス",
+      "coordinates": {
+        "lat": 35.67806,
+        "lng": 139.78729
+      },
+      "image": "media/cached-image_89aa847dc9ce98727f54086579a7c42fbadf1df93bab6c009e069b572d7ed1af.webp",
+      "images": [
+        {
+          "url": "media/cached-image_89aa847dc9ce98727f54086579a7c42fbadf1df93bab6c009e069b572d7ed1af.webp"
+        },
+        {
+          "url": "media/cached-image_9b1068f73be79cdaaaf4faaaafa5159a4c81e1d79ccedfc69b20d7136e69ed29.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-11 Nihonbashinakasu, Chuo City, Tokyo 103-0008, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6778448,139.7871604,3a,90y,150.54h,102.1t/data=!3m7!1e1!3m5!1sAF1QipOSpb_BklDrYR5uVjgFcPI9-lK2dIkZQdXXP6QS!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOSpb_BklDrYR5uVjgFcPI9-lK2dIkZQdXXP6QS%3Dw900-h600-k-no-pi-12.098056341420346-ya23.361338703459495-ro0-fo100!7i6720!8i3360?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The riverside walkway along the Sumida River that appears in the film's exterior scenes — part of the broader Tokyo geography the film traces as Hodaka moves across the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZQGDWkSNGGARgZh0tVB25E8",
+      "name": "FamilyMart Mejiro Station Store",
+      "localName": "ファミリーマート 目白駅前店",
+      "coordinates": {
+        "lat": 35.7225701,
+        "lng": 139.7047449
+      },
+      "image": "media/cached-image_5ddea54f348f55070701b81084243a390349141cd0891e119ae7770e01b03ba7.webp",
+      "images": [
+        {
+          "url": "media/cached-image_5ddea54f348f55070701b81084243a390349141cd0891e119ae7770e01b03ba7.webp"
+        },
+        {
+          "url": "media/cached-image_f2ff87cf6f5a16ea59ebafc3680f500c4a68de5b0db9d30f611ab8c0192fd2f0.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "3 Chome-18-1 Shimoochiai, Shinjuku City, Tokyo 161-0033, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7225701,139.7047449,3a,75y,311.62h,100.75t/data=!3m7!1e1!3m5!1sTCq8cT7_J3uE5SaSCVGftQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTCq8cT7_J3uE5SaSCVGftQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D74.80323%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA96YBWsJAWARCrNWLzrT4l4",
+      "name": "Yu Pharmacy",
+      "localName": "ゆう薬局",
+      "coordinates": {
+        "lat": 35.7276964,
+        "lng": 139.7062381
+      },
+      "image": "media/cached-image_566bced49bbf9f7417cf5c1f6c072ffc08fd241b705bc919d040ad0777317ad8.webp",
+      "images": [
+        {
+          "url": "media/cached-image_566bced49bbf9f7417cf5c1f6c072ffc08fd241b705bc919d040ad0777317ad8.webp"
+        },
+        {
+          "url": "media/cached-image_170b672c4fa87ddd5a6deacce40b1050b9bfb82364a44b18846753516ea20325.jpg"
+        }
+      ],
+      "type": "調剤薬局",
+      "categories": [
+        "調剤薬局"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KOWA東洞院ビル 1 階, 275-1 Ogisakayacho, Shimogyo Ward, Kyoto, 600-8095, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7276964,139.7062381,3a,90y,285.37h,96.88t/data=!3m6!1e1!3m4!1sGvGnx0486u7WNOzDwMT3fw!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcwD1IaCOGGAR13DX-PmFT8Q",
+      "name": "GU Okachimachi store",
+      "localName": "GU 御徒町店",
+      "coordinates": {
+        "lat": 35.7077029,
+        "lng": 139.7745669
+      },
+      "image": "media/cached-image_ff6261f590dc1391b3638aa4cca4cdbdcc9a5147962c3bb10c31a7e8507b52ed.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ff6261f590dc1391b3638aa4cca4cdbdcc9a5147962c3bb10c31a7e8507b52ed.webp"
+        },
+        {
+          "url": "media/cached-image_fe1e708c9266df3f888d81c01a74d16e06add1004ed5918b0a61aa66441c8d05.jpg"
+        }
+      ],
+      "type": "衣料品店",
+      "categories": [
+        "衣料品店"
+      ],
+      "rating": 2,
+      "reviewCount": 197,
+      "priceLevel": null,
+      "address": "御徒町吉池ビル 5F・6F, 3 Chome-27-12 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7077029,139.7745669,3a,75y,9.55h,101.69t/data=!3m6!1e1!3m4!1sNW7JVjuJ2UJwWPOJ5P65eA!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVwPVkdiNGGARpNpvwSQTXQw",
+      "name": "Kabukicho Main Gate",
+      "localName": "歌舞伎町一番街アーチ",
+      "coordinates": {
+        "lat": 35.69401,
+        "lng": 139.70107
+      },
+      "image": "media/cached-image_526571c14c64d9bd9903b7f374f06f9e489abd9f7c8943bbe7bca011d9d08a1e.webp",
+      "images": [
+        {
+          "url": "media/cached-image_526571c14c64d9bd9903b7f374f06f9e489abd9f7c8943bbe7bca011d9d08a1e.webp"
+        },
+        {
+          "url": "media/cached-image_26d4fb4d4a4fd81333f00b7c96f1fecc5e3e792f1ef1656c43a18ed9bf2adfa3.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-17 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6945004,139.7012547,3a,75y,199.07h,98.92t/data=!3m7!1e1!3m5!1sourSI3_SoIh829_0n3Yo5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.918661677010746%26panoid%3DourSI3_SoIh829_0n3Yo5A%26yaw%3D199.07163424889325!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The iconic gate marking the entrance to Kabukicho that features in multiple scenes as Hodaka moves through Shinjuku — a recognised landmark in the film's depiction of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjxPxbGOJGGARq8POdNPdFR4",
+      "name": "Grassland Square(Base camp site)",
+      "localName": "草地広場(ベースキャンプ用地)",
+      "coordinates": {
+        "lat": 35.63331,
+        "lng": 139.79565
+      },
+      "image": "media/cached-image_1b4cb5cfa3434d8bed4800c40aba3e6a041b57509cef1a75dd484decc5a065ff.webp",
+      "images": [
+        {
+          "url": "media/cached-image_1b4cb5cfa3434d8bed4800c40aba3e6a041b57509cef1a75dd484decc5a065ff.webp"
+        },
+        {
+          "url": "media/cached-image_bfc132bb79094eccf073d13ad1c0cb25709da252ad9c850788fa37a9144d334b.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-8-35 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6329404,139.7962398,3a,90y,206.08h,102.61t/data=!3m7!1e1!3m5!1sNsaDRVihpFho_jXKiW2gRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.613792746796761%26panoid%3DNsaDRVihpFho_jXKiW2gRA%26yaw%3D206.08131983305725!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The open park area in Koto City that serves as one of the film's exterior green-space locations — part of the diverse Tokyo geography Shinkai mapped across the city for Weathering With You."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzTmov8-MGGAR4vlNqMY28kc",
+      "name": "JR Tokyo General Hospital",
+      "localName": "JR東京総合病院",
+      "coordinates": {
+        "lat": 35.6863148,
+        "lng": 139.700035
+      },
+      "image": "media/cached-image_6ac8af30687bf864844d5e7f4afd6ca7f5395d738ca48755806dc6f1db8929d7.webp",
+      "images": [
+        {
+          "url": "media/cached-image_6ac8af30687bf864844d5e7f4afd6ca7f5395d738ca48755806dc6f1db8929d7.webp"
+        },
+        {
+          "url": "media/cached-image_18d23de29129cab48f86d37b475432d3fdd2a5c53ab1760a460fcb5506dc39ec.jpg"
+        },
+        {
+          "url": "media/cached-image_4a21cedabfd06e910e8f8a7270f82a45ab210e0a15230e20b1c6733c1e77fc5b.jpg"
+        },
+        {
+          "url": "media/cached-image_2a4f5682dbef5086ae97bdde42cf45474889b5b0df82e29595cde50a092aad00.jpg"
+        }
+      ],
+      "type": "総合病院",
+      "categories": [
+        "総合病院"
+      ],
+      "rating": 3.2,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "2 Chome-1-3 Yoyogi, Shibuya, Tokyo 151-8528, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6863148,139.700035,3a,90y,211.83h,106.13t/data=!3m7!1e1!3m5!1sw2rXwAl5zKYiytV5B5TfBw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dw2rXwAl5zKYiytV5B5TfBw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D321.33334%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7SYoVeaNGGARMtyHsrt_LZk",
+      "name": "Cine City Square",
+      "localName": "シネシティ広場",
+      "coordinates": {
+        "lat": 35.695402,
+        "lng": 139.7015227
+      },
+      "image": "media/cached-image_bdfa636783f4e6cc18006c78ab71c372c45a392ae03573aa730d5a67dbb8d3d0.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bdfa636783f4e6cc18006c78ab71c372c45a392ae03573aa730d5a67dbb8d3d0.webp"
+        },
+        {
+          "url": "media/cached-image_ae01e231a493d03eb7ec5ba3093c353dae29b202ffa6b182b3a91cc809145cbf.jpg"
+        },
+        {
+          "url": "media/cached-image_fb8bfb8ff94004f9c970c25a947aa02f60b6bda39e2eae4a35aa868087cbbaf6.jpg"
+        },
+        {
+          "url": "media/cached-image_7797f5d65d5c4433e900b6d076dafdb82f5c00e896059d726cae65ab6b14795b.jpg"
+        },
+        {
+          "url": "media/cached-image_b8c22edd41d668123b5a29a87e30c4cf73e50e2179567cd50adc3abf3b2ab55d.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.6,
+      "reviewCount": 22,
+      "priceLevel": null,
+      "address": "1 Chome-20 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.695402,139.7015227,3a,75y,66.72h,98.85t/data=!3m7!1e1!3m5!1sFhAVoTSOAJIvTHL40-n8Eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DFhAVoTSOAJIvTHL40-n8Eg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D357.9764%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "entityContext": "The open square in front of Shinjuku's Cine City complex that appears in the film as part of the Shinjuku streetscape — one of the recognisable outdoor spaces in the Kabukicho/Shinjuku area the film meticulously recreates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaYt93b6LGGARRTt3Y7YkqVg",
+      "name": "Shiba Park",
+      "localName": "港区立芝公園",
+      "coordinates": {
+        "lat": 35.65539,
+        "lng": 139.7491
+      },
+      "image": "media/cached-image_856b46093f61e9fee01e1c49486c642744f33a59d4efc1f51c722161956a3b23.webp",
+      "images": [
+        {
+          "url": "media/cached-image_856b46093f61e9fee01e1c49486c642744f33a59d4efc1f51c722161956a3b23.webp"
+        },
+        {
+          "url": "media/cached-image_9c81ef763296f4341fc077c0e0f21be5aded2a4912455c7581cc014b784d72ec.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-8 Shibakoen, Minato City, Tokyo 105-0011, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6555519,139.7489471,3a,46.7y,209.97h,92.51t/data=!3m8!1e1!3m6!1sAF1QipN9OpplbffDfnEssvShe694_TWKKfP6TkL49puw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipN9OpplbffDfnEssvShe694_TWKKfP6TkL49puw%3Dw900-h600-k-no-pi-2.5091625242968547-ya252.96623999530976-ro0-fo100!7i14080!8i7040?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.6595,
+        "lng": 139.70059
+      },
+      "image": "media/cached-image_fda85228dcd6a4c51904d8773306fb9265f3334ef95cab3431552d838ec4b8ed.webp",
+      "images": [
+        {
+          "url": "media/cached-image_fda85228dcd6a4c51904d8773306fb9265f3334ef95cab3431552d838ec4b8ed.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594137,139.7005955,3a,75y,27.09h,98.96t/data=!3m7!1e1!3m5!1snLvWqMGAqrC6MoJ_GoAAcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.961184197271862%26panoid%3DnLvWqMGAqrC6MoJ_GoAAcQ%26yaw%3D27.09163485732913!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The famous intersection appears in the film's Tokyo cityscape sequences — used to establish the scale and energy of the city as Hodaka navigates his new life, and one of the most-photographed locations in any Makoto Shinkai film set in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU-JFl8yNGGARiz6pawBx8ms",
+      "name": "Eco Park Kabukicho No. 20",
+      "localName": "エコロパーク歌舞伎町第２０",
+      "coordinates": {
+        "lat": 35.6953868,
+        "lng": 139.7056268
+      },
+      "image": "media/cached-image_65e8f2fb33ff69def48b2ce8191f5bea860f9bed2d171fa01f672e4bc464ca00.webp",
+      "images": [
+        {
+          "url": "media/cached-image_65e8f2fb33ff69def48b2ce8191f5bea860f9bed2d171fa01f672e4bc464ca00.webp"
+        },
+        {
+          "url": "media/cached-image_98e03d8f261f2e11bf308556a85da7e30245805ee8515a38fa736eb5e94a6245.jpg"
+        },
+        {
+          "url": "media/cached-image_349cc2bd86c00abe27c6163bd786c8878f45ec1ad882e0541c753718881deb80.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome-9-17 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6953868,139.7056268,3a,90y,280.09h,94.44t/data=!3m7!1e1!3m5!1swiRKdb4-fCUXeb4qFzy3EQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DwiRKdb4-fCUXeb4qFzy3EQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D185.78046%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9Vjvjc-MGGARKA3yqhKDPIA",
+      "name": "Petit Delirium Tap Cafe Shinjuku store",
+      "localName": "プティデリリウムタップカフェ 新宿店",
+      "coordinates": {
+        "lat": 35.6860196,
+        "lng": 139.7003708
+      },
+      "image": "media/cached-image_2c37ad1e1bfb54b04f6485b93974bf23c0adfa383791211bcdc9c50801429b96.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2c37ad1e1bfb54b04f6485b93974bf23c0adfa383791211bcdc9c50801429b96.webp"
+        },
+        {
+          "url": "media/cached-image_920bec7a57ace1055539fee5d72fd35a6c7dbd1f69a36f1eab34768877490e2d.jpg"
+        },
+        {
+          "url": "media/cached-image_b2b203a97cc694ff50a35f10644d0d9234c676c36cbb0bbdfaed8fef852be885.jpg"
+        }
+      ],
+      "type": "レストラン",
+      "categories": [
+        "レストラン"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "新宿サザンテラス 内, 2 Chome-2-1 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6860196,139.7003708,3a,48.7y,144.08h,95.43t/data=!3m6!1e1!3m4!1s3tzyYacJNHjjulTDefkZgg!2e0!7i16384!8i8192?entry=ttu"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpfNnlW2JGGARQg-Kbs9z38o",
+      "name": "Etchujima Park",
+      "localName": "越中島公園",
+      "coordinates": {
+        "lat": 35.67169,
+        "lng": 139.78824
+      },
+      "image": "media/cached-image_cf0d36bfab1c45c20da60d28fbbae058e4f427d145c25471445017eab52695bc.webp",
+      "images": [
+        {
+          "url": "media/cached-image_cf0d36bfab1c45c20da60d28fbbae058e4f427d145c25471445017eab52695bc.webp"
+        },
+        {
+          "url": "media/cached-image_014365e2913f9a8bb270f8dce4023727070b5cd3d8a4b5da979a26b38d64d28d.jpg"
+        },
+        {
+          "url": "media/cached-image_06b696fa1a700b0ad4bff1d3a9f0a3f8a003fd2d24558f02792957c9ed97ccc4.jpg"
+        },
+        {
+          "url": "media/cached-image_09dd5ae005803ff629afcb6cdb06836e30252b14ed7030e924d6295fcf366622.jpg"
+        },
+        {
+          "url": "media/cached-image_85251117547cfafe7d0168ad88cbabb6b81ceabdb284d39e389b515215758285.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "1 Chome-3-23 Etchujima, Koto City, Tokyo 135-0044, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6717218,139.788308,3a,90y,300.13h,100.68t/data=!3m7!1e1!3m5!1sAF1QipM3DvSW2OSfdEsIhdqFN82qhviUPR0RfKx_3tNK!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM3DvSW2OSfdEsIhdqFN82qhviUPR0RfKx_3tNK%3Dw900-h600-k-no-pi-10.6842965040384-ya310.6171230594064-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The park in Koto City near Tokyo Bay that appears in the film's waterfront scenes — part of the eastern Tokyo geography the film uses to contrast with the Shinjuku/Ikebukuro core."
+    }
+  ]
+}

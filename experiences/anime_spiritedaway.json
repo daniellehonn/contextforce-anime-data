@@ -1,0 +1,256 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Spirited Away",
+  "slug": "spirited-away",
+  "generatedAt": "2026-06-03T22:46:16.957Z",
+  "coverImage": "media/cached-image_50cf60f7e2cb7d5ead661174225ce50b4780705162c428cdf1ea0f1a7162c95d.webp",
+  "image": "media/cached-image_50cf60f7e2cb7d5ead661174225ce50b4780705162c428cdf1ea0f1a7162c95d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.86733653333334,
+    "lng": 139.31655930000002
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Spirited Away"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJaZUn3l8eGWARXC-CNeevOBk",
+      "name": "Minoya Nishihachioji",
+      "localName": "みのや 西八王子店",
+      "coordinates": {
+        "lat": 35.6735486,
+        "lng": 139.3261627
+      },
+      "image": "media/cached-image_e59814eb4b2e2b8c66ea2a7d3870bf72bca9e88b9839294601cea573dc46cf6a.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e59814eb4b2e2b8c66ea2a7d3870bf72bca9e88b9839294601cea573dc46cf6a.webp"
+        },
+        {
+          "url": "media/cached-image_a0a0213cfcf18862405a1fa063b678faae00f482a0e1cbc76f83b779df4d7f64.jpg"
+        }
+      ],
+      "type": "とんかつ店",
+      "categories": [
+        "とんかつ店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-5 Nakanosanno, Hachioji, Tokyo 192-0042, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6735486,139.3261627,3a,75y,180.7h,100.23t/data=!3m6!1e1!3m4!1sBMGKkhP7mnSST8-cfdDU9Q!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEdOvGgAdGWARjlsJJqitL64",
+      "name": "Asahigaoka Cycle Farm",
+      "localName": "旭が丘サイクルファーム",
+      "coordinates": {
+        "lat": 35.6578407,
+        "lng": 139.36331
+      },
+      "image": "media/cached-image_5193e199e74b5c65587d6d69c108b01be4950c5b47e2f077330b244a0ff2ac51.webp",
+      "images": [
+        {
+          "url": "media/cached-image_5193e199e74b5c65587d6d69c108b01be4950c5b47e2f077330b244a0ff2ac51.webp"
+        },
+        {
+          "url": "media/cached-image_98d4da9d1d2370b6970ca2ec0364ec7afd546cf0423559b519b14ffba1759ac7.jpg"
+        }
+      ],
+      "type": "自転車修理・整備店",
+      "categories": [
+        "自転車修理・整備店"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒191-0065 Tokyo, Hino, Asahigaoka, 5 Chome−15−22",
+      "city": "Hino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6578407,139.36331,3a,75y,308.39h,110.93t/data=!3m7!1e1!3m5!1shrq81c-zVo8Gc7qwoQiuFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dhrq81c-zVo8Gc7qwoQiuFg%26cb_client%3Dsearch.gws-prod.gps%26w%3D211%26h%3D120%26yaw%3D308.85318%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_U8_yT_yGGARdPRzTIGjDF8",
+      "name": "Cycle Shop Kobayashi",
+      "localName": "サイクルショップコバヤシ",
+      "coordinates": {
+        "lat": 35.6844191,
+        "lng": 139.6277142
+      },
+      "image": "media/cached-image_fefcbe3f1ac7b6c47c7189a136be9c0825e5e46f068f38122522719497cdb021.webp",
+      "images": [
+        {
+          "url": "media/cached-image_fefcbe3f1ac7b6c47c7189a136be9c0825e5e46f068f38122522719497cdb021.webp"
+        },
+        {
+          "url": "media/cached-image_0e3ce7e2318ecf9a6126885def025797f83127245fcc8476b602b42d97ec3fff.jpg"
+        }
+      ],
+      "type": "自転車屋",
+      "categories": [
+        "自転車屋"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ＣＫビル, 4 Chome-14-4 Hamadayama, Suginami City, Tokyo 168-0065, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Cycle+Shop+Kobayashi/@35.6844191,139.6277142,3a,90y,13.52h,103.48t/data=!3m6!1e1!3m4!1svPfjKPoABMl-Cvwq6I668Q!2e0!7i16384!8i8192!4m6!3m5!1s0x6018f23fc93f4ffd:0x5f0ca3814c73f474!8m2!3d35.6844942!4d139.6277425!16s%2Fg%2F1vxw8932?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7fPYIxILHmARtMSSs99Lv1E",
+      "name": "Sekizenkan Kashoutei",
+      "localName": "積善館",
+      "coordinates": {
+        "lat": 36.6863463,
+        "lng": 138.7743027
+      },
+      "image": "media/cached-image_1eed7ff3f8460f39a3694e9e227867d96d74f07cbdf59efcdad796a875e52ff5.webp",
+      "images": [
+        {
+          "url": "media/cached-image_1eed7ff3f8460f39a3694e9e227867d96d74f07cbdf59efcdad796a875e52ff5.webp"
+        },
+        {
+          "url": "media/cached-image_1463a5770207865fa7b1526d0858fed5fdaba68bc03c91c561bae98bd242a3ab.jpg"
+        },
+        {
+          "url": "media/cached-image_621ec962e65d2fe5dfc68c0b5fd23c4b72768ea35840759f3104cc32cd0d785a.jpg"
+        },
+        {
+          "url": "media/cached-image_ff64b4957732b66cc5107f1c939446c01a0d9b52d6270f5e7b8f1eb47f578a88.jpg"
+        },
+        {
+          "url": "media/cached-image_6cb2b515a5c54ccca2bd493754553e9faf0820e87636e8d8c976669daf88d4cb.jpg"
+        },
+        {
+          "url": "media/cached-image_76547458c01f1749ad89d8c0f69a624a52defeec5fc5183e7f933e8418f19159.jpg"
+        },
+        {
+          "url": "media/cached-image_cb935bfdcdc7edf7142a73fecdefe818350daa0c3fd4e49aead388c4b36752e9.jpg"
+        },
+        {
+          "url": "media/cached-image_5335d79c8675d917635a8cfaf9fd27c2cce31be0cb96a5c0624dd11b29b53d02.jpg"
+        },
+        {
+          "url": "media/cached-image_087f3e22043afe061f5abc32c13b4294362dc417763777006bb0478ee1b6c0b4.jpg"
+        },
+        {
+          "url": "media/cached-image_72245dcad707fdc90d992f1090b5d05b7d195993eb2cadb54ae4a57a8a7249c5.jpg"
+        },
+        {
+          "url": "media/cached-image_2af71ee647025064d52ea8bce86c2f388fa88d3b75d76c106b89019bad1c865c.jpg"
+        },
+        {
+          "url": "media/cached-image_49fee4b648d265a39e3c955d57a693b1f0142c52ba35dd6d46e44e725ddc337e.jpg"
+        },
+        {
+          "url": "media/cached-image_78c8bc680724b4ef662deedad9dd772b90a8c589221dfc1410e93685139ad8e9.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.2,
+      "reviewCount": 87,
+      "priceLevel": null,
+      "address": "４２３６, 温泉 Shima, Nakanojo, Agatsuma District, Gunma 377-0601, Japan",
+      "city": "Nakanojo",
+      "region": "Agatsuma District, Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6863463,138.7743027,3a,62.6y,276.45h,94.3t/data=!3m7!1e1!3m5!1sOqyM3buwR-1J5T4gnHYmTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOqyM3buwR-1J5T4gnHYmTQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D4.5590878%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "The 17th-century Sekizenkan inn in Shima Onsen is the most-cited inspiration for Aburaya, the bathhouse — its red bridge and tiered wooden façade are unmistakable in the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBSN6TezlGGARH9xwbZsIFVo",
+      "name": "Takei Sanseido (stationery store)",
+      "localName": "武居三省堂（文具店）",
+      "coordinates": {
+        "lat": 35.7162091,
+        "lng": 139.5151472
+      },
+      "image": "media/cached-image_e02fd5e0071c1f5a2e52852c58019b8e47019ce5e243aaf14bd4448289229af4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e02fd5e0071c1f5a2e52852c58019b8e47019ce5e243aaf14bd4448289229af4.webp"
+        },
+        {
+          "url": "media/cached-image_75e6e7e1ea263ba29ea0ff1d62b364055d427ef750088d6532b7eda78c6d0d00.jpg"
+        }
+      ],
+      "type": "遗产性建筑",
+      "categories": [
+        "遗产性建筑"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-9 Sekinocho, Koganei, Tokyo 184-0001, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/%E6%AD%A6%E5%B1%85%E4%B8%89%E7%9C%81%E5%A0%82%EF%BC%88%E6%96%87%E5%85%B7%E5%BA%97%EF%BC%89/@35.7162091,139.5151472,3a,90y,62.47h,88.99t/data=!3m8!1e1!3m6!1sAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws%3Dw203-h100-k-no-pi-0-ya355.52-ro-0-fo100!7i5376!8i2688!4m9!3m8!1s0x6018e5ec4d7a2305:0x5a15089b6d70dc1f!8m2!3d35.7161697!4d139.5151039!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn92_2zb?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "entityContext": "This Meiji-era stationery shop, preserved at the Edo-Tokyo Open Air Architectural Museum, inspired Kamaji's boiler room — the wall of tiny drawers is lifted straight into the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0f3j7lIhGWARIYLOYcPOee0",
+      "name": "Koshuya Shinmachi",
+      "localName": "甲州屋 新町店",
+      "coordinates": {
+        "lat": 35.7856554,
+        "lng": 139.292719
+      },
+      "image": "media/cached-image_ad93c1911fecd8e4d0ffcd859f6035010fd1184a7e7ded39f5c7fbaabc206595.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ad93c1911fecd8e4d0ffcd859f6035010fd1184a7e7ded39f5c7fbaabc206595.webp"
+        },
+        {
+          "url": "media/cached-image_c860095e32b72a9cdd613faeb3debd5b88ea6d158b17874b6e96b589b2f1c5ff.jpg"
+        }
+      ],
+      "type": "釣具店",
+      "categories": [
+        "釣具店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-１-19 Shinmachi, Ome, Tokyo 198-0024, Japan",
+      "city": "Ome",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7856554,139.292719,3a,44.5y,320.61h,98.11t/data=!3m6!1e1!3m4!1spGLEL3el0Xb8HNm1l6MGgg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+    }
+  ]
+}
