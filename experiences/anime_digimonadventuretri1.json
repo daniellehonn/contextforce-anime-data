@@ -1,0 +1,830 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Digimon Adventure tri. Reunion",
+  "slug": "digimon-adventure-tri-1",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_080ac1e7734a2446a5e9791d8c4ad2104b09fe12bc11aa10adeb6d03825bbc9d.webp",
+  "image": "media/cached-image_080ac1e7734a2446a5e9791d8c4ad2104b09fe12bc11aa10adeb6d03825bbc9d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.63372666363636,
+    "lng": 139.7808254318182
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Digimon Adventure tri. Reunion"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJVXii7faJGGARI9CyjPt_PzU",
+      "name": "Nikusai Kobo Ushisuke Odaiba",
+      "localName": "うしすけ 台場店",
+      "coordinates": {
+        "lat": 35.6291781,
+        "lng": 139.7752381
+      },
+      "image": "https://cdn.animepilgrimage.com/places/457e02e8-8607-4566-9401-c0a8914688c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/457e02e8-8607-4566-9401-c0a8914688c8.webp"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0091 Tokyo, Minato City, Daiba, 1 Chome−6−1 Nikusai Kobo Ushisuke Odaiba, デックス 東京 ビーチシーサイドモール 1F",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6291859,139.7753382,2a,90y,99.46h,94.32t/data=!3m7!1e1!3m5!1sLC8V2FjyKi9N_rEMDHj7GA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.323642284144171%26panoid%3DLC8V2FjyKi9N_rEMDHj7GA%26yaw%3D99.46383452191397!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Odaiba area around Decks Tokyo Beach serves as a backdrop for everyday scenes where the DigiDestined reconnect as high schoolers in tri. Part 1. Fans recognise the Daiba commercial district as the neighbourhood the group navigates before the infected Kuwagamon attack."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwbGgFWeLGGARHvAD-dPu3ao",
+      "name": "Anchor and Chain Art",
+      "localName": "錨と鎖のオブジェ",
+      "coordinates": {
+        "lat": 35.6280652,
+        "lng": 139.77168039999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4e3bdc9-7cc6-412e-94e3-aa46e0a700da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4e3bdc9-7cc6-412e-94e3-aa46e0a700da.webp"
+        },
+        {
+          "url": "media/cached-image_693ad43bebffaa3503dec91522f9992ddac46f007dd5ed4de9587636b73cf7fa.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anchor and Chain Art, 1 Chome-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6280394,139.7717569,3a,75y,314.98h,92.41t/data=!3m7!1e1!3m5!1sNzVLF-YPJmVJRroI4Uni6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.410688031801101%26panoid%3DNzVLF-YPJmVJRroI4Uni6Q%26yaw%3D314.9769627864371!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This waterfront sculpture near Daiba Park appears in the opening Odaiba street sequences of Reunion, establishing the seaside setting where Taichi and friends meet again. The anchor landmark is a recognisable background detail that pilgrimage fans photograph to match the film's coastal Tokyo Bay framing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure-tri-1_2",
+      "name": "Yaezakura Corridor",
+      "localName": "八重桜の回廊",
+      "coordinates": {
+        "lat": 35.62599,
+        "lng": 139.7799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0fc1d1f8-7518-4752-83dc-57e0821bd623.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0fc1d1f8-7518-4752-83dc-57e0821bd623.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.626026,139.7799929,3a,90y,88.88h,99.87t/data=!3m7!1e1!3m5!1sM-0MMEpIK4d8-KxKer2lEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.869700444323556%26panoid%3DM-0MMEpIK4d8-KxKer2lEA%26yaw%3D88.87676519804165!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The double-cherry-blossom walkway in the Odaiba waterfront area is captured in the quiet, reflective scenes early in Reunion as the DigiDestined walk together near the bay. It evokes the bittersweet mood of the group reuniting after three years apart."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnZgq7yGJGGARsuwL6aFqvh0",
+      "name": "City Circuit Tokyo Bay",
+      "localName": "CITY CIRCUIT TOKYO BAY シティサーキット東京ベイ",
+      "coordinates": {
+        "lat": 35.6258202,
+        "lng": 139.7815253
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8320577e-f636-4018-9230-6b9b283d4c09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8320577e-f636-4018-9230-6b9b283d4c09.webp"
+        },
+        {
+          "url": "media/cached-image_d34e3f80efbc6c3e60a790cfd6f83d2faabe544343811c5048d220e03dbeb145.jpg"
+        },
+        {
+          "url": "media/cached-image_ccd5abfffaf2fc4d72e75be996ad3a0f0442fec7492ebae022f48052a9f4b683.jpg"
+        },
+        {
+          "url": "media/cached-image_f05985fffe5b1adb3687b26190371181c3ae39417fe95b7d24a2a34c10489e22.jpg"
+        },
+        {
+          "url": "media/cached-image_74dc8119dd952b2be139402bf26da1d5330d7a51c627c6986fe3d831cc2755fc.jpg"
+        }
+      ],
+      "type": "Go-karting venue",
+      "categories": [
+        "Go-karting venue"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "City Circuit Tokyo Bay, 1 Chome-3-12 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6255539,139.780989,2a,75y,59.23h,116.02t/data=!3m7!1e1!3m5!1sB5KZoShOEYnUy-QgRsCCkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.01926817313675%26panoid%3DB5KZoShOEYnUy-QgRsCCkw%26yaw%3D59.23174177841678!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The open Aomi waterfront area surrounding what is now the go-kart circuit featured in the chaotic battle sequence in Reunion, where an infected Kuwagamon rampages through the Odaiba bay district. Fans visit to stand at the spot where Taichi and Agumon faced their first clash in the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs_Z8FnCJGGARdr45pGbmLmg",
+      "name": "Tsukishima Sta.",
+      "localName": "月島駅",
+      "coordinates": {
+        "lat": 35.66433,
+        "lng": 139.78481
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f59b544-72f1-43c1-839f-2f74f839ccf5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f59b544-72f1-43c1-839f-2f74f839ccf5.webp"
+        },
+        {
+          "url": "media/cached-image_03ef58bdd81a614b844eb29e36fd5a5ac61ae9f6d41c948691ed99ff24f0bbd4.jpg"
+        },
+        {
+          "url": "media/cached-image_5a9daeeba1ca4b337ab819fa546b7fe437d4679c1f3310cf09ec227f689cfefc.jpg"
+        },
+        {
+          "url": "media/cached-image_486c798e77882af5916f9174acebac6ff137d9fe93afad8fa232178cb38b60e8.jpg"
+        },
+        {
+          "url": "media/cached-image_e96f80618d8e3c83cb1514b451252bdfa0fc3d3c3ce4b9086ec332ff7903e325.jpg"
+        },
+        {
+          "url": "media/cached-image_4f779af81ef8860adc77eb8300de319f4ebf92523dd8209ce804880d3556529e.jpg"
+        },
+        {
+          "url": "media/cached-image_40be8884636b76bd86157c61144bdd5341f75795b2f9a4c5800277d35eee2b92.jpg"
+        }
+      ],
+      "type": "地下鉄駅",
+      "categories": [
+        "地下鉄駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 81,
+      "priceLevel": null,
+      "address": "2-chōme-10 Tsukishima, Chuo City, Tokyo 104-0052, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6643761,139.7848208,2a,75y,153.26h,92.18t/data=!3m7!1e1!3m5!1sVYBqrtj9zJ-3GWe11hYwzg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1831166784328104%26panoid%3DVYBqrtj9zJ-3GWe11hYwzg%26yaw%3D153.2627844764009!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Tsukishima Station appears as a transit stop in scenes depicting the DigiDestined travelling across the Tokyo Bay area during the events of Reunion. It anchors the realistic commuter geography that tri. uses to ground its story in everyday high-school life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG3BL76yJGGAR3JDMXI0Oz6Q",
+      "name": "Harumiohashi Bridge",
+      "localName": "晴海大橋",
+      "coordinates": {
+        "lat": 35.649426,
+        "lng": 139.7865594
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef60b79e-6336-4df3-a248-9c07e62efa49.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef60b79e-6336-4df3-a248-9c07e62efa49.webp"
+        },
+        {
+          "url": "media/cached-image_b7451783f47d4f1158d24d56c8530fd111c0f274ad66e7a2ec9640ad5d3792af.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "センタービル, 2 Chome-5-24 Harumi, Chuo City, Tokyo 104-0053, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.649426,139.7865594,3a,47.8y,161.56h,98.72t/data=!3m8!1e1!3m6!1sAF1QipM3hL1-nhSXGTSuTsyzTrCidz6mUywFBngqnrKn!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM3hL1-nhSXGTSuTsyzTrCidz6mUywFBngqnrKn%3Dw203-h100-k-no-pi-0-ya77.33324-ro-0-fo100!7i8704!8i4352?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Harumi Bridge over Tokyo Bay is visible in aerial and street-level shots as the DigiDestined move between Odaiba and the Harumi district during Reunion. Its sweeping waterway views were used to frame the sense of scale as the threat spread across the bay."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpbpu0_mJGGARd9sJ-psh9Gc",
+      "name": "DiverCity Tokyo Plaza",
+      "localName": "ダイバーシティ東京 プラザ",
+      "coordinates": {
+        "lat": 35.6243,
+        "lng": 139.77463
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60f72560-b7c3-4c7d-a3e2-5f3172615ceb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60f72560-b7c3-4c7d-a3e2-5f3172615ceb.webp"
+        },
+        {
+          "url": "media/cached-image_cddba52599a5a776d6317ce6b85e5549af33d35056681242623c1b9a5177d59a.jpg"
+        },
+        {
+          "url": "media/cached-image_c1b82e0ddc78ac870d0b564141e252a0a5b513c42425a39043934b76e485aef2.jpg"
+        },
+        {
+          "url": "media/cached-image_1277776bc12ca67f5d167e66c763ea4966f06adb853bfc26b5ebaa5082ada1bc.jpg"
+        },
+        {
+          "url": "media/cached-image_5e500f330dba75343d037452ff0adf4f0d84c91ebd38d06e7f8cfdc06fb8c738.jpg"
+        },
+        {
+          "url": "media/cached-image_79f6bebd43643587d1bdaefb1acae1ebf0528736f438f77f1a3ccee5caf0e6ad.jpg"
+        },
+        {
+          "url": "media/cached-image_8060f40ed7762fd81f4b6af9c754ff7a119e5165438e342cdc7f210ea9e85a75.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.2,
+      "reviewCount": 29383,
+      "priceLevel": null,
+      "address": "1 Chome-1-10 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dZCk3TbFxrokav8N9",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "DiverCity Tokyo Plaza and its forecourt are directly featured in the Reunion battle sequence, where the infected Kuwagamon crashes through the Odaiba commercial zone and Taichi, Agumon, and the other Chosen Children scramble to respond. This is one of the most iconic filmed locations in tri., and pilgrims recreate the scene at the Gundam plaza forecourt.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ38lFO_aJGGARc4lgPvxik3g",
+      "name": "AQUA CiTY Odaiba",
+      "localName": "アクアシティ お台場",
+      "coordinates": {
+        "lat": 35.6266787,
+        "lng": 139.7723508
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9dea689-1d0a-45c2-a971-bacad5883d66.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9dea689-1d0a-45c2-a971-bacad5883d66.webp"
+        },
+        {
+          "url": "media/cached-image_ede1b0ba8fa64751fa15c8754b2ecfce61fdd51549fc88f244168079c33b01f3.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-7-1 Daiba, Minato City, Tokyo 135-8707, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6266787,139.7723508,3a,75y,351.66h,102.74t/data=!3m7!1e1!3m5!1sR_gIC7DZE-UR9Vgem-ITww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DR_gIC7DZE-UR9Vgem-ITww%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D283.5768%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "AQUA CiTY Odaiba appears as a background landmark in the Reunion Odaiba battle sequence, visible alongside Fuji TV as Kuwagamon tears through the waterfront district. It is part of the cluster of Daiba shopping landmarks that define the film's Odaiba cityscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQQ6UsPeJGGAR3LFE4U43_NQ",
+      "name": "Fuji Television Network, Inc.",
+      "localName": "(株)フジテレビジョン",
+      "coordinates": {
+        "lat": 35.626605,
+        "lng": 139.774056
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20e67dae-4ff7-4284-9861-4cdc76f4e94c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20e67dae-4ff7-4284-9861-4cdc76f4e94c.webp"
+        },
+        {
+          "url": "media/cached-image_973b740747f196f86664c73bfbcf2f86056dc114670b73e9d68f973210a70c06.jpg"
+        }
+      ],
+      "type": "Television studio",
+      "categories": [
+        "Television studio"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fuji Television Network, Inc., 2 Chome-4-8 Daiba, Minato City, Tokyo 137-8088, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6270083,139.7736118,3a,90y,105.84h,134.11t/data=!3m7!1e1!3m5!1sIUHag3lFzLPbIWRfvy1Rfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-44.110406416733156%26panoid%3DIUHag3lFzLPbIWRfvy1Rfg%26yaw%3D105.83780360310708!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The iconic Fuji TV building in Odaiba was a central landmark in the original Digimon Adventure and reappears as the recognisable backdrop of the Odaiba battle in Reunion. Seeing Agumon and Greymon fight near this unmistakable spherical building is one of the most striking visual callbacks fans point to in tri.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuViDiLWJGGARoc98PnpI5Rk",
+      "name": "Searea Odaiba Sanbangai Bldg. 4",
+      "localName": "シーリアお台場三番街４号棟",
+      "coordinates": {
+        "lat": 35.6313192,
+        "lng": 139.7792304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86cf8004-07e4-4609-9427-2c757e3dbb1a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86cf8004-07e4-4609-9427-2c757e3dbb1a.webp"
+        },
+        {
+          "url": "media/cached-image_b61c2d839feee15625c22437c12a4ec7857eeeb76400cb9722b2814cc0624afa.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Searea Odaiba Sanbangai Bldg. 4, 1 Chome-3-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6309675,139.7806104,3a,80.6y,330.56h,99.44t/data=!3m7!1e1!3m5!1sQ4cFvguonaybyhUZpfqq2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.444545922127759%26panoid%3DQ4cFvguonaybyhUZpfqq2w%26yaw%3D330.56029672919493!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Searea Odaiba residential complex appears in background city shots during the Reunion Odaiba sequence, depicting the dense waterfront neighbourhood the DigiDestined call home. Fans document this building as part of the residential Daiba setting recreated in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAa5-JeaJGGARs-J59vfYA5M",
+      "name": "Times Ariake Tennis no Mori Ekimae No.5",
+      "localName": "有明",
+      "coordinates": {
+        "lat": 35.6322939,
+        "lng": 139.7950225
+      },
+      "image": "https://cdn.animepilgrimage.com/places/772a054d-1e1d-4482-8d83-b6bbde4742c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/772a054d-1e1d-4482-8d83-b6bbde4742c8.webp"
+        },
+        {
+          "url": "media/cached-image_4de4c3b9a37c8f5bb5365dbc6f08103569806176a2b234d48c4b9957ad3cd81a.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6379897,139.7902083,3a,90y,1.16h,103.2t/data=!3m7!1e1!3m5!1spx3vkCN-FFkexERdT0GMkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.198949380138643%26panoid%3Dpx3vkCN-FFkexERdT0GMkw%26yaw%3D1.1613899079284646!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Ariake area near the tennis park station appears in transit and street-level scenes in Reunion as the characters travel across the Koto City bay district. It is part of the broader Ariake location cluster used in the film's Odaiba-area geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu2xdPtqJGGARSxd2PbStvdU",
+      "name": "Tokyo Garden Theater",
+      "localName": "住友不動産 東京ガーデンシアター",
+      "coordinates": {
+        "lat": 35.6377592,
+        "lng": 139.7920197
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d61f361c-7d0a-4d5b-aeac-4f4362426461.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d61f361c-7d0a-4d5b-aeac-4f4362426461.webp"
+        },
+        {
+          "url": "media/cached-image_c433cc842d713512468f466c47694b72318dcff8ce7b8ff7bd4986f42ef1f296.jpg"
+        }
+      ],
+      "type": "Concert hall",
+      "categories": [
+        "Concert hall"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Garden Theater, 2 Chome-1-6 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6382529,139.7908376,3a,75y,66.97h,103.45t/data=!3m7!1e1!3m5!1siAKcabsbvNdL9OBVPlZl3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.446915046935061%26panoid%3DiAKcabsbvNdL9OBVPlZl3Q%26yaw%3D66.97112643077102!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Ariake venue area was used as a reference point for the broader Ariake battle and approach sequences in tri., grounding the DigiDestined's movements in recognisable Tokyo Bay landmarks. Fans visit as part of the Ariake pilgrimage cluster tied to the film's eastern Tokyo setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnctryNSMGGARCB4nAzXGtkc",
+      "name": "Ariake Coliseum",
+      "localName": "有明コロシアム",
+      "coordinates": {
+        "lat": 35.6364746,
+        "lng": 139.79009539999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9729fd7f-bc66-40d0-ab8b-f4fe2d12954c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9729fd7f-bc66-40d0-ab8b-f4fe2d12954c.webp"
+        },
+        {
+          "url": "media/cached-image_cfb983ac084e4362bf03d6eb029d5c463e7ab1be6ac26b9367a5c7e1562e3067.jpg"
+        }
+      ],
+      "type": "Arena",
+      "categories": [
+        "Arena"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ariake Coliseum, 2 Chome-2-22 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6379589,139.790347,3a,90y,153.49h,104.75t/data=!3m7!1e1!3m5!1sDU7QxVBEsbnXvFYAHj92Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.749331780016178%26panoid%3DDU7QxVBEsbnXvFYAHj92Xw%26yaw%3D153.48955173069137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Ariake Coliseum and its surrounding plaza serve as the site of climactic scenes in Reunion, where the battle against the infected Digimon escalates in the Ariake district. Its distinctive arena silhouette appears in the background of action shots, making it a confirmed and well-photographed pilgrimage stop for tri. fans.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ18IK6x2KGGARKTc2yLS-030",
+      "name": "Odaiba Marine Park",
+      "localName": "お台場海浜公園",
+      "coordinates": {
+        "lat": 35.6301524,
+        "lng": 139.7753413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/085c9bc1-bddb-46f8-b7a7-4d37917bd172.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/085c9bc1-bddb-46f8-b7a7-4d37917bd172.webp"
+        },
+        {
+          "url": "media/cached-image_074b321197fb1c0a73652ba559d05ddaa3a669e08ec544a178cdb54d40475d42.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6301524,139.7753413,3a,75y,316.1h,96.7t/data=!3m6!1e1!3m4!1sTi_o_3j5YzuIjG9GYj5-ag!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Odaiba Marine Park is one of the most storied Digimon locations in all of anime pilgrimage, first featured in the original 1999 TV series and prominently revisited in Reunion as Taichi and the DigiDestined are drawn back to the bay. The beach and waterfront promenade are where the group gathers before the renewed Digimon attacks, and fans flock here to recreate the emotional reunion scenes with Rainbow Bridge in the background.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDzka5nqJGGARM5Yzi4DhYC4",
+      "name": "Monkichi",
+      "localName": "路地裏もんじゃ もん吉 月島本店",
+      "coordinates": {
+        "lat": 35.6631541,
+        "lng": 139.7811516
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d143f197-5ae5-49b7-84f2-d38dc5753f2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d143f197-5ae5-49b7-84f2-d38dc5753f2f.webp"
+        },
+        {
+          "url": "media/cached-image_05062eae6a9aa56ec5c644dbe3cd6a869911d44d14ae7a92082c167a69cfda8e.jpg"
+        }
+      ],
+      "type": "もんじゃ焼き屋",
+      "categories": [
+        "もんじゃ焼き屋"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-8-10 Tsukishima, Chuo City, Tokyo 104-0052, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6631541,139.7811516,3a,90y,137.37h,98.9t/data=!3m7!1e1!3m5!1sJxolCbVLBZlsezYC0cjnfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJxolCbVLBZlsezYC0cjnfQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D117.40089%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Monkichi in Tsukishima's monjayaki street appears as the kind of neighbourhood restaurant the DigiDestined visit during everyday high-school life scenes in tri. The Tsukishima monjayaki district is documented in pilgrimage guides as part of the slice-of-life Tokyo backdrop used in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg0iLNvuJGGARTWHNZxnELwM",
+      "name": "Square park of water",
+      "localName": "水の広場公園（西側地区）",
+      "coordinates": {
+        "lat": 35.6245242,
+        "lng": 139.7820562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bad0929d-1463-40aa-9262-14cfd9750139.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bad0929d-1463-40aa-9262-14cfd9750139.webp"
+        },
+        {
+          "url": "media/cached-image_5ef98624da9f2dc0c9824cda21448fa9689432b4bd5a98201e42be6a00fd5e83.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-5-4 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6245242,139.7820562,3a,74.7y,2.54h,105.84t/data=!3m6!1e1!3m4!1sJzeapCKqPkOnBPN2WFW44A!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Mizu no Hiroba park on the Aomi waterfront features in the Odaiba seaside scenes of Reunion, providing the open bayside space used during both quiet character moments and the chaos of the Kuwagamon attack sequence. Its bayside promenade angle facing the bay is a recognised match-up location for the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr69GCPGJGGARMr0n6yINISU",
+      "name": "The Towers Daiba",
+      "localName": "ザ・タワーズ台場イースト",
+      "coordinates": {
+        "lat": 35.6302595,
+        "lng": 139.780145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d60f3750-6f73-43d5-9435-bd741df58050.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d60f3750-6f73-43d5-9435-bd741df58050.webp"
+        },
+        {
+          "url": "media/cached-image_37c1c6414f21dd652703fa08b4683a59cf15cd1480175dc49a823411010439bf.jpg"
+        }
+      ],
+      "type": "Building",
+      "categories": [
+        "Building"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "The Towers Daiba, 2-chōme-2 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6313599,139.7810685,3a,90y,159.63h,97.28t/data=!3m7!1e1!3m5!1sxZXlGujltlr0BNWWtveRoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.2795663802750425%26panoid%3DxZXlGujltlr0BNWWtveRoA%26yaw%3D159.62715335311523!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Towers Daiba residential high-rises appear as part of the Odaiba urban backdrop throughout Reunion, establishing the scale of the waterfront neighbourhood the DigiDestined inhabit. Fans note the towers in background frames during the Daiba street-level scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure-tri-1_17",
+      "name": "Ciria Odaiba Fifth Avenue No.6",
+      "localName": "シーリアお台場五番街６号棟",
+      "coordinates": {
+        "lat": 35.63082,
+        "lng": 139.77843
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5233b930-fe39-4ead-b5b8-1189e20bb882.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5233b930-fe39-4ead-b5b8-1189e20bb882.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.630984,139.7783506,3a,75y,171.71h,95.13t/data=!3m7!1e1!3m5!1s8v_GNIdpHgSJT2bMRl-R9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.131360541523733%26panoid%3D8v_GNIdpHgSJT2bMRl-R9w%26yaw%3D171.70894339363971!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Searea Odaiba residential building is documented in pilgrimage databases as a background location in the Reunion Odaiba sequences, appearing in frames depicting the residential streets of the Daiba waterfront. It is one of the specific building facades matched by fans in the film's city-setting shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN5cycACJGGARsNAaLzBq7pA",
+      "name": "Otaibaomotenashi Garden",
+      "localName": "お台場おもてなしガーデン",
+      "coordinates": {
+        "lat": 35.62634,
+        "lng": 139.7805502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/895ad1ef-1e7e-4f50-8413-48926224fc6e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/895ad1ef-1e7e-4f50-8413-48926224fc6e.webp"
+        },
+        {
+          "url": "media/cached-image_d9ac18c6de8b5e7c02c7d01f3986006563dae7823713f9a17396cb7042ab359a.jpg"
+        }
+      ],
+      "type": "庭園",
+      "categories": [
+        "庭園"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-3-12 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.62634,139.7805502,3a,63.5y,83.42h,97.55t/data=!3m7!1e1!3m5!1sqfW05Q0zlcgN3iNgg72MHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DqfW05Q0zlcgN3iNgg72MHA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D60.208862%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Otaiba Omotenashi Garden near Aomi is part of the waterfront park area featured in the calmer Odaiba sequences of Reunion, where the DigiDestined are shown moving through the public spaces of the bay district. Fans include it in Odaiba pilgrimage routes tied to the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure-tri-1_19",
+      "name": "Block 7 - Commuter Parking Building",
+      "localName": "豊洲市場 通勤駐車場棟(水産卸売)",
+      "coordinates": {
+        "lat": 35.64267,
+        "lng": 139.78656
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1ec2fb6b-cc27-4638-85e5-df4ea93803d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1ec2fb6b-cc27-4638-85e5-df4ea93803d2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6427066,139.7865654,3a,50.5y,232.9h,98.03t/data=!3m7!1e1!3m5!1sYR7ufkpyT6TukjHsjFcP6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.026311333997313%26panoid%3DYR7ufkpyT6TukjHsjFcP6A%26yaw%3D232.90204996680527!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Toyosu market commuter building area appears in the broader Koto City Tokyo Bay sequences of Reunion, part of the eastern Tokyo waterfront geography the film uses as its urban canvas. It is documented in pilgrimage sources as a background frame match near the Harumi and Toyosu corridors."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUWU1RfGJGGARlOLzV0p__zk",
+      "name": "Odaiba Yamamoto Dental Clinic",
+      "localName": "お台場山本歯科医院",
+      "coordinates": {
+        "lat": 35.6303246,
+        "lng": 139.7789534
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d0cb75d7-ffc1-4da3-8ad7-23db334daa29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d0cb75d7-ffc1-4da3-8ad7-23db334daa29.webp"
+        },
+        {
+          "url": "media/cached-image_04dca316c130fe8d810d6b11e1a3fe1434d31421edd1c508949aee7eae5b43f7.jpg"
+        }
+      ],
+      "type": "Dentist",
+      "categories": [
+        "Dentist"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Odaiba Yamamoto Dental Clinic, 1 Chome-5-7106 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6301257,139.7789971,3a,75y,43.39h,101.61t/data=!3m7!1e1!3m5!1sRV5zXvw87F1rhgEtRPaBpg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.61268547583974%26panoid%3DRV5zXvw87F1rhgEtRPaBpg%26yaw%3D43.390041700665115!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Daiba clinic building serves as a street-level location reference in the Odaiba residential district scenes of Reunion. Its specific exterior is documented by pilgrimage fans as a matched background building in the film's Daiba neighbourhood sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW58iviCJGGARr9dgFYICUxw",
+      "name": "Hydrangea Stairs at Symbol Promenade Park",
+      "localName": "紫陽花の小路",
+      "coordinates": {
+        "lat": 35.6255017,
+        "lng": 139.7778538
+      },
+      "image": null,
+      "images": [],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hydrangea Stairs at Symbol Promenade Park, 1 Chome-3 Aomi, Koto City, Tokyo 135-0064, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6253886,139.7782142,3a,75y,79.7h,102.71t/data=!3m7!1e1!3m5!1sBL4PxlNsqW4qmhyBrFuLtw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.711918947782422%26panoid%3DBL4PxlNsqW4qmhyBrFuLtw%26yaw%3D79.69686907413029!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The hydrangea-lined stairway at Symbol Promenade Park in Aomi is a quiet scenic spot near the Odaiba battle zone used in Reunion. Fans identify it in the transitional shots between the shopping district and the waterfront where characters move during the Kuwagamon crisis."
+    }
+  ]
+}

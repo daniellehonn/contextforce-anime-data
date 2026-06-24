@@ -1,0 +1,1222 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "BanG Dream! 2nd Season",
+  "slug": "bang-dream-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1cbf28dd168fea89cee327cd16f61d938e7610859e45ce945dd781e3b7717735.webp",
+  "image": "media/cached-image_1cbf28dd168fea89cee327cd16f61d938e7610859e45ce945dd781e3b7717735.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.5943491483871,
+    "lng": 139.26272277741933
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "BanG Dream! 2nd Season"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJxTAYVt3gGGARc6fo_RMKO5I",
+      "name": "LIQUIDROOM",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6491125,
+        "lng": 139.71056389999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23a3f33f-4188-4387-8155-4dcc1585ba0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23a3f33f-4188-4387-8155-4dcc1585ba0c.webp"
+        },
+        {
+          "url": "media/cached-image_5c312909bc2534e18f462d4da3c6444fa17e4042b8e661ff86ab02909b4134e1.jpg"
+        }
+      ],
+      "type": "Live music venue",
+      "categories": [
+        "Live music venue"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "LIQUIDROOM, 3 Chome-16-6 Higashi, Shibuya, Tokyo 150-0011, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6493487,139.7108351,3a,90y,193.21h,100.4t/data=!3m7!1e1!3m5!1suvNF_XlrOnxTvmZSItlnMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.396674921457503%26panoid%3DuvNF_XlrOnxTvmZSItlnMQ%26yaw%3D193.20545531457316!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "LIQUIDROOM in Ebisu appears in Season 2 as a live venue setting reflecting the competitive Tokyo live circuit that Roselia and rival bands navigate on their path to Budokan. Its real-world reputation as a stepping-stone venue for rising bands makes it an authentic backdrop for the band rivalry storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy0-Gb8aNGGARR09JGgScF7Y",
+      "name": "Soba Takashima",
+      "localName": "蕎麦 高しま",
+      "coordinates": {
+        "lat": 35.711778599999995,
+        "lng": 139.72291339999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35be1c8d-d798-41d4-a36b-482e0f73981f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35be1c8d-d798-41d4-a36b-482e0f73981f.webp"
+        },
+        {
+          "url": "media/cached-image_c54ba06c1f8e80bb9e362d9c2d1a93093de74d224a32879615bff0bb9c65580a.jpg"
+        }
+      ],
+      "type": "Soba noodle shop",
+      "categories": [
+        "Soba noodle shop"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Soba Takashima, 1 Chome-39-11 Sekiguchi, Bunkyo City, Tokyo 112-0014, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7118528,139.7230633,3a,64.3y,9.08h,97.89t/data=!3m7!1e1!3m5!1sIf5x5003ipZY7t22ep6CGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.88860668701146%26panoid%3DIf5x5003ipZY7t22ep6CGw%26yaw%3D9.07999284408362!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This soba shop near Sekiguchi appears in Episode 2 as a neighborhood eatery in the Bunkyo area, consistent with the daily-life scenes woven around Yukina and Lisa's home district. The quiet backstreet setting reflects the understated everyday moments the show places between intense band drama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ43iHANqMGGARp-JJGRtJ-xg",
+      "name": "JR Shinjuku East Exit Station Square",
+      "localName": "JR新宿駅 東口駅前広場",
+      "coordinates": {
+        "lat": 35.6918627,
+        "lng": 139.7010601
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd98ecf4-aca9-44b7-979e-06deafc58e59.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd98ecf4-aca9-44b7-979e-06deafc58e59.webp"
+        },
+        {
+          "url": "media/cached-image_1ab262c75f649ad2a76914cb4b1e2ba8e488f95d9c1467c086ef5e380d2a5b1b.jpg"
+        },
+        {
+          "url": "media/cached-image_79f5a7d012042f6a40b29d0908973c4446793959f80676253f1ae959367c96c5.jpg"
+        },
+        {
+          "url": "media/cached-image_04591bd3aa41bc8a471699ba485c16c57fd20a555ff05af859d488bf5c85ed56.jpg"
+        },
+        {
+          "url": "media/cached-image_64ee871e9e5c8bd3903a7ceb942ed74c461edf44a5ce85747d2b610c9348412d.jpg"
+        },
+        {
+          "url": "media/cached-image_2cc8ddf53a1584f17497aa010ec0694c995283b2f7b7c47a9a195704e04d2914.jpg"
+        },
+        {
+          "url": "media/cached-image_888d86d2d2ad08079203992cd8a2e254d313cc4cc5ffb318b21c2512d5a2ff57.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 811,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JR+Shinjuku+East+Exit+Station+Square/@35.6919504,139.7010262,3a,75y,114.47h,110.48t/data=!3m6!1e1!3m4!1sXCeA2VkAExmqcsm0s_kxFw!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60188d0046d3f0fd:0xae9329798e9b8a14!2zSlLmlrDlrr_pp4Ug5p2x5Y-j!8m2!3d35.6918627!4d139.7010601!16s%2Fg%2F11vk7r8f01!3m5!1s0x60188cda008778e3:0x18fb491b1949e2a7!8m2!3d35.6921225!4d139.7010791!16s%2Fg%2F11bwgwh047?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The busy Shinjuku East Exit plaza is depicted in Episode 1 as the bustling Tokyo transit hub where characters meet or pass through, establishing the show's urban Tokyo setting and the sense of scale the bands must conquer to reach Budokan."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6yrc9CMGGARH6diq4aOJwo",
+      "name": "Shinjuku Expressway Bus Terminal",
+      "localName": "バスタ新宿",
+      "coordinates": {
+        "lat": 35.688222,
+        "lng": 139.7008956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37531be3-9412-4368-a080-abcc5dc2619f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37531be3-9412-4368-a080-abcc5dc2619f.webp"
+        },
+        {
+          "url": "media/cached-image_1483fecb2a23ed84accb47d3805b4ad5fb682554f7655816e2228081f370196b.jpg"
+        }
+      ],
+      "type": "バスターミナル",
+      "categories": [
+        "バスターミナル"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0051 Tokyo, Shibuya, 千駄ヶ谷５丁目２４, 55",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.688222,139.7008956,2a,90y,219.89h,100.2t/data=!3m6!1e1!3m4!1sHLGPksJ1Q-jk59q8O8CyEg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Busta Shinjuku (the highway bus terminal) appears in Episode 3 as a departure point, used in a scene where a character travels to or from another city, underlining how the bands' ambitions extend beyond the immediate Tokyo neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSzrqbRGNGGARV-AIwH9FCcU",
+      "name": "Mejiro-dai 1-chome Playground",
+      "localName": "文京区立目白台一丁目遊び場",
+      "coordinates": {
+        "lat": 35.7163542,
+        "lng": 139.7183852
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e05024d-81ce-43fd-b67e-1bdaf6233d1d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e05024d-81ce-43fd-b67e-1bdaf6233d1d.webp"
+        },
+        {
+          "url": "media/cached-image_a327ecb850e43d097b8316190b84ce6a12ba1a430d9e3ea8e295412ad9d9f573.jpg"
+        },
+        {
+          "url": "media/cached-image_2ff186898ea36059a08174657d72c46ab391615112d812e736680c15a6b710c8.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "1 Chome-16 Mejirodai, Bunkyo City, Tokyo 112-0015, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mejiro-dai+1-chome+Playground/@35.7163542,139.7183852,3a,90y,238.21h,95.8t/data=!3m8!1e1!3m6!1sAF1QipNDkLrL006db2j_0fJuqPrLVbZbBc2AkoBsvrgO!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDkLrL006db2j_0fJuqPrLVbZbBc2AkoBsvrgO%3Dw203-h100-k-no-pi-10-ya232-ro0-fo100!7i10240!8i5120!4m9!3m8!1s0x60188d116dea3a4b:0xc509457fc008e057!8m2!3d35.7163869!4d139.7183872!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cl_j_1zd?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small neighborhood playground in Bunkyo's Mejirodai district appears in Episode 9 as a quiet outdoor space near Yukina's home, used for a candid character moment between band members away from rehearsal pressure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE_QrgGuMGGARiHFlyXFcWyE",
+      "name": "Nippon Budokan",
+      "localName": "日本武道館",
+      "coordinates": {
+        "lat": 35.69306,
+        "lng": 139.74926
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c04e63d4-479c-4163-b715-61d4d219066f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c04e63d4-479c-4163-b715-61d4d219066f.webp"
+        },
+        {
+          "url": "media/cached-image_545c9e64a66f4be8b3dce49714bd17da49e71a0924435f8de6c081d9ab3b1556.jpg"
+        }
+      ],
+      "type": "表演場地",
+      "categories": [
+        "表演場地"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2-3 Kitanomarukoen, Chiyoda City, Tokyo 102-8321, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6930842,139.7492335,3a,90y,61.44h,107.42t/data=!3m7!1e1!3m5!1sqdHZCiuGLFUe433zTJOD3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.42101687919373%26panoid%3DqdHZCiuGLFUe433zTJOD3Q%26yaw%3D61.44409339177349!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Nippon Budokan is the ultimate goal driving Roselia through the entire season. Their dream of performing here is declared in Episode 6, making this legendary arena the emotional center of BanG Dream! 2nd Season.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx1e971eLGGARum8w_tnpFwI",
+      "name": "Hachiko Memorial Statue",
+      "localName": "忠犬ハチ公像",
+      "coordinates": {
+        "lat": 35.6590566,
+        "lng": 139.700581
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99cf8d5a-aafe-4589-9f75-9c879c3c8e60.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99cf8d5a-aafe-4589-9f75-9c879c3c8e60.webp"
+        },
+        {
+          "url": "media/cached-image_9aeafde992cfe7812001137e44a618e0b3cc407c45a3313f58dba98cedc13a31.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6590566,139.700581,3a,75y,276.7h,87.88t/data=!3m7!1e1!3m5!1sAF1QipM-dvMecHDOgo4umvODD5qNQVT2m5WdYNvyEvLI!2e10!3e11!7i3584!8i1792?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The iconic Hachiko statue at Shibuya Station is used in Episode 2 as a meeting point, a familiar Tokyo landmark that grounds the show's characters in recognizable real-world geography as they move between live venues."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2eSBxHaNGGARG5C8UzAlm4Y",
+      "name": "Otsukaekimae Station",
+      "localName": "大塚駅前駅",
+      "coordinates": {
+        "lat": 35.73163,
+        "lng": 139.72942
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4754c5b7-9a0c-4bb4-8de9-d1f5bf919be3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4754c5b7-9a0c-4bb4-8de9-d1f5bf919be3.webp"
+        },
+        {
+          "url": "media/cached-image_1476443723d9cdf6adbab8e28180375efac1f72b80b56c9eccafa60d4cd128be.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-33-1 Minamiotsuka, Toshima City, Tokyo 170-0005, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7316573,139.7294634,3a,90y,225.6h,95.84t/data=!3m7!1e1!3m5!1scVTL_TmbG5dt4zysgRnRXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.837436519578489%26panoid%3DcVTL_TmbG5dt4zysgRnRXw%26yaw%3D225.6036469079033!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Otsuka Station area features in Episode 7 as part of the Toshima district surroundings, with the tram and station environment providing background for characters commuting across Tokyo in pursuit of rehearsal spaces and gigs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV99gkxWNGGARZhXR2Tet5ww",
+      "name": "Gakushuin-Shita",
+      "localName": "学習院下",
+      "coordinates": {
+        "lat": 35.71549,
+        "lng": 139.71211
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3c814061-8d79-4af4-8c6d-ba4c75d89e07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3c814061-8d79-4af4-8c6d-ba4c75d89e07.webp"
+        },
+        {
+          "url": "media/cached-image_cf6b7c0c4af70c986660ba7d9451e8115aebe1b54a0564f8dd91d58c60dd7bd9.jpg"
+        }
+      ],
+      "type": "停留所",
+      "categories": [
+        "停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7, Toshima City, Tokyo 171-0033, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7155089,139.7120941,3a,90y,182h,90.41t/data=!3m7!1e1!3m5!1szqnGbtOrN1f4lE8AYXpM4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.40659024267345956%26panoid%3DzqnGbtOrN1f4lE8AYXpM4Q%26yaw%3D181.99583802388238!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Gakushuin-shita tram stop on the Toden Arakawa Line appears in Episode 1 as a neighborhood transit point near the Mejirodai district, placing fans at the exact street-level vantage point the show uses when following Yukina through her home area.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGYNnUoeJGGARgYyHhZBad_k",
+      "name": "Harumi-Futo",
+      "localName": "晴海埠頭",
+      "coordinates": {
+        "lat": 35.647613799999995,
+        "lng": 139.7730329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f23781e3-2fe1-4205-84ed-98e9dd2fe552.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f23781e3-2fe1-4205-84ed-98e9dd2fe552.webp"
+        },
+        {
+          "url": "media/cached-image_dfd03bde1fd941f6305984de4f8b7167f97061ce6219dbe67297587195c34ee2.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Harumi-Futō, 5-chōme-8 Harumi, Chuo City, Tokyo 104-0053, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6466088,139.773295,3a,75y,75.88h,85.3t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE1cXC_wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu3rRhIXjOQj1cShhGwJR9x7-Vfh7u3CHjhQ6lhCpY_-JKqcD-NWgPXC3mvcneaTHQPF0Jjqw5yplUsy22Qx0anxlCFJWHG3GEjjCHOwUEl7ssNFznOk11TJcL0i8BuQSEYlSkhhfQ%3Dw900-h600-k-no-pi4.701396393989896-ya203.4101978653883-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Harumi Pier in Chuo City appears in Episode 4 as a waterfront location used for a reflective scene, with the open Tokyo Bay backdrop providing visual contrast to the cramped studio interiors where the bands rehearse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO2IMOB2NGGAROi1f18QKJLI",
+      "name": "Waseda Station",
+      "localName": "早稲田駅",
+      "coordinates": {
+        "lat": 35.7058216,
+        "lng": 139.7212004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/628764ea-578e-4be6-8965-87f9ea1a6625.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/628764ea-578e-4be6-8965-87f9ea1a6625.webp"
+        },
+        {
+          "url": "media/cached-image_ac61d1c19cda76bf3fb6e482210cf9dcf33e62579a46e09006a04e1fd66c7ef8.jpg"
+        },
+        {
+          "url": "media/cached-image_f531fb4bb38f9e3f5c21daa559d25a6f71afb265a41a559605f0b9d4358f8f85.jpg"
+        },
+        {
+          "url": "media/cached-image_76190d9499cd9387f5298fe9da0608013ae2d23c153ff5474496a52f1a94100f.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Waseda Station, Wasedamachi, Shinjuku City, Tokyo 162-0042, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7117593,139.7194242,3a,90y,268.61h,97.81t/data=!3m7!1e1!3m5!1scXRSl8bwyQGJ_S4VvijGsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.814065896454252%26panoid%3DcXRSl8bwyQGJ_S4VvijGsQ%26yaw%3D268.6093970528156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Waseda Station on the Toden Arakawa Line appears in Episode 7 as part of the Shinjuku-Bunkyo border commute route that characters use when traveling between their home neighborhood and rehearsal studios."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkYbVMJ2NGGAROsREgUFhIv4",
+      "name": "Edogawabashi Jizo-dori Shopping Street",
+      "localName": "巣鴨地蔵通商店街",
+      "coordinates": {
+        "lat": 35.734864699999996,
+        "lng": 139.73645249999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f44fea4-3996-4997-a444-7c1aabd61ebc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f44fea4-3996-4997-a444-7c1aabd61ebc.webp"
+        },
+        {
+          "url": "media/cached-image_dd83779fa7334f4c28ee5092b5e0a8515471f69f00aa9ce5599e0ae821d9fee2.jpg"
+        },
+        {
+          "url": "media/cached-image_5a4216668a8ca3d5053fef129af141316e2e5435e36d9ee2f419b850071caa7c.jpg"
+        },
+        {
+          "url": "media/cached-image_4513ba0930a60dd3975e28fc14f197925da222dd91a4bc4d8f65315f31b8205c.jpg"
+        },
+        {
+          "url": "media/cached-image_5e98f012055930240a76fc2da9e0e699d4785c1577196a92ac09a64e965ade57.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 894,
+      "priceLevel": null,
+      "address": "Sugamo Jizodori Shopping Street, 4 Chome-22-8 Sugamo, Toshima City, Tokyo 170-0002, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7083165,139.7318666,3a,90y,313.35h,95.73t/data=!3m7!1e1!3m5!1sXnWCHT7Dh2vIgo9madvR-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.728960297020734%26panoid%3DXnWCHT7Dh2vIgo9madvR-g%26yaw%3D313.34985133763246!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This old-fashioned shotengai (shopping street) in Toshima/Sugamo appears in Episode 10 as a slice-of-life street setting, its retro character contrasting with the glamour of the live stages the bands aim for."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW4ju5BCNGGARqeLNqKJ22nA",
+      "name": "Munatsuki-zaka Slope",
+      "localName": "胸突坂",
+      "coordinates": {
+        "lat": 35.712581199999995,
+        "lng": 139.7235417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/148aaf39-44c8-42fd-aea8-3ef763f017a6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/148aaf39-44c8-42fd-aea8-3ef763f017a6.webp"
+        },
+        {
+          "url": "media/cached-image_8f06654c9938f751f6b6132d4c7ecd8562f71f8440a6f9b436dcd8bfb95cec6e.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Munatsuki-zaka Slope, 1 Chome-1 Mejirodai, Bunkyo City, Tokyo 112-0014, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7126145,139.7235485,3a,90y,35.95h,108.39t/data=!3m7!1e1!3m5!1s5jSLrgFGI2QYeftyMC755Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.387430559573644%26panoid%3D5jSLrgFGI2QYeftyMC755Q%26yaw%3D35.94698646275204!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Munatsuki-zaka is the steep slope near Mejirodai that appears prominently in Episode 1. This hill runs directly through Roselia's home neighborhood and is one of the most photographed pilgrimage spots in the BanG Dream! franchise.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI8IPbQGNGGARDf2bgi4fOlM",
+      "name": "Edogawa Park",
+      "localName": "文京区立江戸川公園",
+      "coordinates": {
+        "lat": 35.7104612,
+        "lng": 139.7282295
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33db3561-fbb7-474b-8eca-e975646fc351.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33db3561-fbb7-474b-8eca-e975646fc351.webp"
+        },
+        {
+          "url": "media/cached-image_eec08a5e36f989b43de5ae8ee8764acaab3245eae481c4d4245813c06d8cf1a9.jpg"
+        },
+        {
+          "url": "media/cached-image_d1005367e36dc55c8fdd42beaf0ffac80f68d2cd4608b0f1b76bba134be98389.jpg"
+        },
+        {
+          "url": "media/cached-image_92b9c89052b96bd66ebd8fd9e9af8a5fadd3491972ddb47b0207154231a0bca4.jpg"
+        },
+        {
+          "url": "media/cached-image_bdda74782a043ae6b03d3ac6fea75e320a05b170f2c0ac40909d790cbf0669fa.jpg"
+        },
+        {
+          "url": "media/cached-image_74837a5b26478a182cb4c722c1ed201dded28c6af3f1fae419b2031caacac6ee.jpg"
+        }
+      ],
+      "type": "Playground",
+      "categories": [
+        "Playground"
+      ],
+      "rating": 4.1,
+      "reviewCount": 22,
+      "priceLevel": null,
+      "address": "Edogawa Park, 2 Chome-1 Sekiguchi, Bunkyo City, Tokyo 112-8555, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7104178,139.7263923,3a,75y,2.29h,92.87t/data=!3m8!1e1!3m6!1sAF1QipOFfpGE0GgL-zwtKaKbC9q5gNW3SnFcx00UADpK!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOFfpGE0GgL-zwtKaKbC9q5gNW3SnFcx00UADpK%3Dw900-h600-k-no-pi-2.8665698915463196-ya73.31029089526919-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Edogawa Park along the Kanda River in Bunkyo appears in Episode 3 as a relaxed outdoor setting where characters share a candid conversation, the riverside cherry-blossom scenery softening an otherwise tension-filled episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3wQwptCMGGAR2rKBXXFS9Co",
+      "name": "NewDays KIOSK outside Shinjuku East Exit ticket gates",
+      "localName": "NewDays KIOSK 新宿東口改札外店",
+      "coordinates": {
+        "lat": 35.6916028,
+        "lng": 139.7011231
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84816b43-72e8-42ba-8de7-ddfe485d710e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84816b43-72e8-42ba-8de7-ddfe485d710e.webp"
+        },
+        {
+          "url": "media/cached-image_3f7c644232166a7af8c8435da806585c4255cf242c4adde81decd919986a9deb.jpg"
+        }
+      ],
+      "type": "Kiosk",
+      "categories": [
+        "Kiosk"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Chome−38−1 JR 新宿駅 East Gate Ｂ１Ｆ NewDays KIOSK 新宿東口改札外店 外 B１左階段下",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6914736,139.7010585,2a,90y,50.28h,91.51t/data=!3m7!1e1!3m5!1sW3gx3A2z8zxH9x-7dwlb6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5070066678262322%26panoid%3DW3gx3A2z8zxH9x-7dwlb6g%26yaw%3D50.275944339272215!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The NewDays kiosk just outside Shinjuku's East Exit gates appears in Episode 1 as a precise background detail confirming the show's meticulous recreation of the station area during a character transit scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBQ02mCqPGGARpIjIPoX1gDU",
+      "name": "Komatsuka Bridge",
+      "localName": "駒形橋",
+      "coordinates": {
+        "lat": 35.7082743,
+        "lng": 139.7973088
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5fe9557-f261-4fb3-88a5-6b9f01dc49f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5fe9557-f261-4fb3-88a5-6b9f01dc49f3.webp"
+        },
+        {
+          "url": "media/cached-image_fcd0ec3348834c397e0a2922cd4f144ac31eea38ba05048705828d57bf4f4fa1.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Komagata Bridge, 1 Chome-1 Higashikomagata, Sumida City, Tokyo 130-0005, Japan",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7118874,139.7232644,3a,90y,358.34h,99.01t/data=!3m7!1e1!3m5!1svSXiwZ0CrfssRi61bWRRmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.007062016850512%26panoid%3DvSXiwZ0CrfssRi61bWRRmw%26yaw%3D358.3353112543888!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Komagata Bridge over the Sumida River appears in Episode 1 as a nighttime scenic shot, its illuminated arch reflected on the water providing a cinematic establishing image of Tokyo as the stage for the bands' ambitions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJadg8iniSGGARysxtwtnBjxM",
+      "name": "Asukayama Park",
+      "localName": "飛鳥山公園",
+      "coordinates": {
+        "lat": 35.7504718,
+        "lng": 139.73882279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5dfd872a-1570-4ff7-9a5a-b618ebcf5fa9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5dfd872a-1570-4ff7-9a5a-b618ebcf5fa9.webp"
+        },
+        {
+          "url": "media/cached-image_e903eaf225744aaa506f0dd237f06bcf058e979dea7d094f9e0a24fe59c27868.jpg"
+        },
+        {
+          "url": "media/cached-image_7926d67e1340f3892555b10a0453b353d25bbd648327fc53f88c0952dda61474.jpg"
+        },
+        {
+          "url": "media/cached-image_2ad21ebf4125911747b60709b46248aa86990dfe0c6bc67f82f598308e8cef40.jpg"
+        },
+        {
+          "url": "media/cached-image_b4dfff8c1d6f1252598ede3713af824e2937392c09c4f86c9aec1c2711c5e711.jpg"
+        },
+        {
+          "url": "media/cached-image_95e0f8e087c31817b2a799841dae351925aeb695db8ef930083a51cc7ee53eaf.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 557,
+      "priceLevel": null,
+      "address": "Asukayama Park, 1 Chome-1-3 Oji, Kita City, Tokyo 114-0002, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7502999,139.7387934,2a,90y,298.36h,90.45t/data=!3m7!1e1!3m5!1sUdbiovz6tV5Mx737kdczuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4487788792503835%26panoid%3DUdbiovz6tV5Mx737kdczuw%26yaw%3D298.35886370884464!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Asukayama Park in Kita City appears in Episode 11 as a park outing location, its historic atmosphere and park-tram (the Asukayama Monorail) providing a distinctive background for a character bonding moment late in the season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-2_17",
+      "name": "Hozan Liquor Store",
+      "localName": "鳳山酒店",
+      "coordinates": {
+        "lat": 35.71683,
+        "lng": 139.71804
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5aa3c1cf-c49a-466f-8293-194c778c0e99.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5aa3c1cf-c49a-466f-8293-194c778c0e99.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.716994,139.7183041,3a,75y,209.33h,98.77t/data=!3m7!1e1!3m5!1sVmCYyAMNE2jjK8sAnaIOgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.774724542914129%26panoid%3DVmCYyAMNE2jjK8sAnaIOgQ%26yaw%3D209.33352305304032!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small liquor shop in the Mejirodai area appears in Episode 9 as a neighborhood detail in Yukina's home district, one of the offgrid spots that pilgrims visit to recreate the show's hyper-local Bunkyo geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-2_18",
+      "name": "Fujimizaka Slope",
+      "localName": "富士見坂",
+      "coordinates": {
+        "lat": 35.71619,
+        "lng": 139.71739
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aecf4042-b3f8-45a7-b0fc-02ff4e6a18bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aecf4042-b3f8-45a7-b0fc-02ff4e6a18bf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7163293,139.7174975,3a,75y,210.73h,82.06t/data=!3m7!1e1!3m5!1sYSEM63E3txgnsR90dQk_NA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.935741143465506%26panoid%3DYSEM63E3txgnsR90dQk_NA%26yaw%3D210.7251247114836!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Fujimizaka Slope in Mejirodai appears in Episode 9 near Yukina's home territory, another of the residential hill roads in this quiet Bunkyo neighborhood that the show renders in close detail."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxWxlRXWNGGARP-PPzpv37I4",
+      "name": "Toshima Ward Minamiotsuka Park",
+      "localName": "豊島区立南大塚公園",
+      "coordinates": {
+        "lat": 35.727680899999996,
+        "lng": 139.7312408
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3cd1c589-7476-45a8-a356-33938700c9b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3cd1c589-7476-45a8-a356-33938700c9b9.webp"
+        },
+        {
+          "url": "media/cached-image_92fe1a28a5fd02d726d1be79a804c0ad9391bafefb5cbaba84b9a0a584fab4b5.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 129,
+      "priceLevel": null,
+      "address": "Minami-Otsuka Park, 2 Chome-27-1 Minamiotsuka, Toshima City, Tokyo 170-0005, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7276572,139.7310922,3a,73.2y,12.24h,97.96t/data=!3m7!1e1!3m5!1sDYvHO7iBM6JBWic7QhDx5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.963758968323461%26panoid%3DDYvHO7iBM6JBWic7QhDx5w%26yaw%3D12.238685630084637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Minami-Otsuka Park near Otsuka Station appears in Episode 7 as a local park setting during a scene where characters interact in the Toshima district, bridging transit scenes around the Toden Arakawa tram line."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlwg3e3aNGGARoUARt9o4cEE",
+      "name": "Kusurino Fukutaro Otsuka Ekimae Shop",
+      "localName": "くすりの福太郎大塚駅前店",
+      "coordinates": {
+        "lat": 35.7316411,
+        "lng": 139.72984689999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f7f19ea-212a-4614-b640-f135d8826b81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f7f19ea-212a-4614-b640-f135d8826b81.webp"
+        },
+        {
+          "url": "media/cached-image_af4de3a980d06ed7175edfc582e62ac99dbf8d072c3ea1dd07ca837c89267df4.jpg"
+        },
+        {
+          "url": "media/cached-image_3331ac3945c48e3a5a11131bd577d134fe3f6a0e5564026cac8ea8a15da5764d.jpg"
+        },
+        {
+          "url": "media/cached-image_e50ec14b1e8a7178c288b0647ea2db9ecf4f44864213010b5659d53b70f87cdf.jpg"
+        },
+        {
+          "url": "media/cached-image_305aa33b63a8d7460f74ac49142ddf771d57d725b80b8347ec4b6f055237d644.jpg"
+        },
+        {
+          "url": "media/cached-image_65f9ac74f0aef8ae2a451de1779b5dd3146def9e22c21e73dd9b0cbd4f88e0f3.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kusurino Fukutaro Otsuka Ekimae Shop, 1 Chome-16-5 Kitaotsuka, Toshima City, Tokyo 170-0004, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7314739,139.7294629,3a,90y,290.17h,92.41t/data=!3m7!1e1!3m5!1sDE8f5G5DPe7_BB6CJg_X0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.414062086252258%26panoid%3DDE8f5G5DPe7_BB6CJg_X0g%26yaw%3D290.1713850653611!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This drugstore near Otsuka Station appears in Episode 7 as a background detail in the Toshima shopping district, one of the street-level real-world locations that BanG Dream! uses to authenticate its Tokyo neighborhood settings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ24pOiHaNGGARAS7fk6MROq4",
+      "name": "Otsuka Ekimae Station",
+      "localName": "大塚駅前駅",
+      "coordinates": {
+        "lat": 35.7315799,
+        "lng": 139.72932939999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1cbd7909-70a7-421f-ab3a-8d38a8ac2a79.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1cbd7909-70a7-421f-ab3a-8d38a8ac2a79.webp"
+        }
+      ],
+      "type": "Tram stop",
+      "categories": [
+        "Tram stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Otsukaekimae Station, 3-chōme-33 Minamiōtsuka, Toshima City, Tokyo 170-0005, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7317298,139.7290955,3a,90y,201.14h,96.32t/data=!3m7!1e1!3m5!1sDE5Y5q7jCiNmR2skKzcfHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.323883713800285%26panoid%3DDE5Y5q7jCiNmR2skKzcfHA%26yaw%3D201.14426369055758!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Otsuka Ekimae Station on the Toden Arakawa tram line appears in Episode 7 as a boarding point used by characters commuting through the Toshima area, its vintage tram character matching the show's affection for the older parts of northern Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ_kyhAKNGGARUi1Dl8y3eo0",
+      "name": "Tsurumaki Minami Park",
+      "localName": "鶴巻南公園",
+      "coordinates": {
+        "lat": 35.7063694,
+        "lng": 139.7237487
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78e1dcd9-d915-4498-9990-d1c034e356f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78e1dcd9-d915-4498-9990-d1c034e356f8.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 760,
+      "priceLevel": null,
+      "address": "Tsurumaki Minami Park, ７８ Wasedatsurumakicho, Shinjuku City, Tokyo 162-0041",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7061562,139.7243613,3a,90y,246.27h,101.63t/data=!3m7!1e1!3m5!1s91hAb2Ihk9shcEi_3M_79g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.632584619239992%26panoid%3D91hAb2Ihk9shcEi_3M_79g%26yaw%3D246.26696086598287!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Tsurumaki Minami Park near Waseda appears in Episode 6 as a small neighborhood park in the Shinjuku/Bunkyo border zone, seen briefly during a character's walk through the local streets around the Waseda area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYeUaS6P0GGAR7n0GXWkdizg",
+      "name": "Sound Studio NOAH Sangenjaya",
+      "localName": "サウンドスタジオノア 三軒茶屋店",
+      "coordinates": {
+        "lat": 35.6402972,
+        "lng": 139.67481039999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/368a87bc-2efc-436d-95b6-6a630593d252.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/368a87bc-2efc-436d-95b6-6a630593d252.webp"
+        },
+        {
+          "url": "media/cached-image_f0724d20b167b5a576a3ba4b64d0fb06431d429fa891c85f19571d1e262a0aa4.jpg"
+        }
+      ],
+      "type": "Recording studio",
+      "categories": [
+        "Recording studio"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sound Studio NOAH Sangenjaya, 1 Chome-5-15 Sangenjaya, Setagaya City, Tokyo 154-0024, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6403621,139.6749097,3a,75y,242.35h,103.33t/data=!3m7!1e1!3m5!1ssz_I--8vqVh93tb73pCOOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.333082223112768%26panoid%3Dsz_I--8vqVh93tb73pCOOw%26yaw%3D242.3526771788834!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Sound Studio NOAH in Sangenjaya is depicted in Episode 5 as a rehearsal studio where one of the bands practices, capturing the unglamorous but essential grind of rehearsal that defines the show's portrayal of band life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvzrKelzSBGARxtl_0Fe1ecw",
+      "name": "Toyohashi",
+      "localName": "豊橋市",
+      "coordinates": {
+        "lat": 34.7688528,
+        "lng": 137.3916837
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de5fc556-2384-4183-a2cb-03a4460bf95e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de5fc556-2384-4183-a2cb-03a4460bf95e.webp"
+        },
+        {
+          "url": "media/cached-image_ff3d5ea28e428449a1c7af7b7b4cc49d2214935ba0c7edd3040cdf3ca18efbda.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toyohashi, Aichi, Japan",
+      "city": "Toyohashi",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7125473,139.7195191,3a,75y,275.08h,91.81t/data=!3m7!1e1!3m5!1sVQCs5v12ZVLhPdF7F21rKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8055113288507982%26panoid%3DVQCs5v12ZVLhPdF7F21rKQ%26yaw%3D275.07564124227497!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMVvXY5D0GGAR4Rrs4DrenT0",
+      "name": "Sound Studio NOAH Komazawa",
+      "localName": "サウンドスタジオノア 駒沢店",
+      "coordinates": {
+        "lat": 35.6345084,
+        "lng": 139.6629264
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebad0773-9394-4fe7-a531-830058422e15.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebad0773-9394-4fe7-a531-830058422e15.webp"
+        },
+        {
+          "url": "media/cached-image_777cf6df81934d608c08df4ab950d4c988c1ffc6e01d6c1c464cce78ee4f256f.jpg"
+        }
+      ],
+      "type": "Recording studio",
+      "categories": [
+        "Recording studio"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sound Studio NOAH Komazawa, 4 Chome-2-7 Kamiuma, Setagaya City, Tokyo 154-0011, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6344438,139.6630104,3a,47.9y,149.07h,93.13t/data=!3m7!1e1!3m5!1sx5wCz-jy-IhYyUwrMzop_g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.127500464697306%26panoid%3Dx5wCz-jy-IhYyUwrMzop_g%26yaw%3D149.06729686911092!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Sound Studio NOAH Komazawa appears in Episode 5 alongside the Sangenjaya branch, reflecting how multiple bands in Season 2 use the Sound Studio NOAH chain across Tokyo for intensive pre-live rehearsals."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6W5y-aH0GGARTdd2-4qF-9U",
+      "name": "Sangenjaya Station",
+      "localName": "三軒茶屋駅",
+      "coordinates": {
+        "lat": 35.6436399,
+        "lng": 139.6713265
+      },
+      "image": "https://cdn.animepilgrimage.com/places/59c13d1f-eec4-44a9-bdf5-bfef132fed75.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/59c13d1f-eec4-44a9-bdf5-bfef132fed75.webp"
+        },
+        {
+          "url": "media/cached-image_888255d30401c1c4dce445c9e9085683c01cca66acc231094d9e675e80e856f4.jpg"
+        },
+        {
+          "url": "media/cached-image_155c3e5bed74ae852a5b879cd518cf4e2bc29c629230b61cd5957e0988b780cd.jpg"
+        },
+        {
+          "url": "media/cached-image_ab7796aac3dbd04a938f9cfb136ec02431011bf21e91af0b466ff0e42abc4e18.jpg"
+        },
+        {
+          "url": "media/cached-image_396ba862abb82ed42f4203be2f1ed8702b2816b91ce4998545d32264397cb205.jpg"
+        },
+        {
+          "url": "media/cached-image_be09d7a73721ce47af09b7f475ab1d331056aa22f11ff455e05e737a9d017f78.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 33,
+      "priceLevel": null,
+      "address": "Sangenjaya Station, 2 Chome-15 Taishido, Setagaya City, Tokyo 154-0004, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6434088,139.6708652,3a,90y,310.86h,99.09t/data=!3m7!1e1!3m5!1su14b-Ib9YesDgmrQrGuRoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.086355057389127%26panoid%3Du14b-Ib9YesDgmrQrGuRoA%26yaw%3D310.8616976799426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Sangenjaya Station on the Tokyu Den-en-toshi Line appears in Episode 5 as the transit hub serving the Sound Studio NOAH rehearsal branch in that area, placing fans at the exact station entrance the characters use when arriving for band practice."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcTgXLTqNGGARONSXRE7zQSo",
+      "name": "Ecolo Park SYFORME GAKUSHUIN SHITA Parking Lot",
+      "localName": "エコロパーク SYFORME GAKUSHUINSHITA駐車場",
+      "coordinates": {
+        "lat": 35.7151164,
+        "lng": 139.71476619999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c1bdc4b-3caa-414f-b93c-8c7efeee6fe9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c1bdc4b-3caa-414f-b93c-8c7efeee6fe9.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ecolo Park SYFORME GAKUSHUINSHITA Parking Lot, 2 Chome-10-12 Takada, Toshima City, Tokyo 171-0033, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7151202,139.7148186,3a,75y,199.32h,96.66t/data=!3m7!1e1!3m5!1sMrmkDRcz58NFwWChB5GIyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.659484072193834%26panoid%3DMrmkDRcz58NFwWChB5GIyg%26yaw%3D199.32077274924512!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This parking lot near Gakushuin-shita appears in Episode 4 as a street-level background detail in the Mejirodai district, one of the hyper-specific real-world landmarks that BanG Dream! pilgrimage guides use to map Yukina's home neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9z8yjuCDQTURfZ0RcNkf7Nc",
+      "name": "Nanzoin Temple",
+      "localName": "南蔵院",
+      "coordinates": {
+        "lat": 33.619838,
+        "lng": 130.5729783
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae6a757b-9632-44c1-8f9e-f383deb1da3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae6a757b-9632-44c1-8f9e-f383deb1da3d.webp"
+        },
+        {
+          "url": "media/cached-image_59fc0d6852383d539d941079394fec82df21d8b94c9a588197de593870b1e7b9.jpg"
+        },
+        {
+          "url": "media/cached-image_c0d0d2016fa708de712c1267a4a1295b32e3e506c5bc074419919ace7d192865.jpg"
+        },
+        {
+          "url": "media/cached-image_61113b6cec472e95f46d6b3f094142ac745d4706cc829611c9e6816b5667c88c.jpg"
+        },
+        {
+          "url": "media/cached-image_659c87c82f2ff0a353682e53d52262dd2f15024156f32957f48ea8004684ad41.jpg"
+        },
+        {
+          "url": "media/cached-image_43c6c7f76c3e2cce3a309be69ccafa54da32e5ce36988923c4e339949a837cd0.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 5926,
+      "priceLevel": null,
+      "address": "Nanzo-in Temple, 1035 Sasaguri, Kasuya District, Fukuoka 811-2405, Japan",
+      "city": "Sasaguri",
+      "region": "Kasuya District, Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7147784,139.7145303,3a,75y,81.32h,98.03t/data=!3m7!1e1!3m5!1swWW3w728Q3LuaX3GzaUp-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.03137821637901%26panoid%3DwWW3w728Q3LuaX3GzaUp-A%26yaw%3D81.31799931701369!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo_OimFUQA2ARFhoANMd5OTc",
+      "name": "Kamo Brother Music Center",
+      "localName": "加茂ブラザーミュージックセンター",
+      "coordinates": {
+        "lat": 35.4408135,
+        "lng": 137.0181437
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1a75be9-acb9-4303-aa56-c7c81979c740.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1a75be9-acb9-4303-aa56-c7c81979c740.webp"
+        },
+        {
+          "url": "media/cached-image_0f1a090dc5b0dd52552e6f6989d07fa6338ce1c35ed2f8137f8c91f0cca6267c.jpg"
+        }
+      ],
+      "type": "Musical instrument store",
+      "categories": [
+        "Musical instrument store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamo Brother Music Center, 3528-7 Otacho, Minokamo, Gifu 505-0041, Japan",
+      "city": "Minokamo",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4408563,137.0180665,3a,90y,123.52h,103.09t/data=!3m7!1e1!3m5!1sXyPR8n3mQQvjFv8XxPi4qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.094018897683256%26panoid%3DXyPR8n3mQQvjFv8XxPi4qg%26yaw%3D123.51941258934087!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Kamo Brother Music Center in Minokamo, Gifu appears in Episode 3 as a music instrument shop connected to one character's provincial background, referenced as the kind of local music store where a band member first encountered her instrument."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOQ-VFgWNGGARyPZgB9DRvlg",
+      "name": "Eisei Bunko Museum",
+      "localName": "永青文庫",
+      "coordinates": {
+        "lat": 35.713208099999996,
+        "lng": 139.7232742
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f600478f-a1f7-4cee-a0e3-1fa96d14b21d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f600478f-a1f7-4cee-a0e3-1fa96d14b21d.webp"
+        },
+        {
+          "url": "media/cached-image_3c1bd560c509fec78e03deb47ebe41b7e4f566032659e7811a8505e2d22e765f.jpg"
+        },
+        {
+          "url": "media/cached-image_a0a9443d8f4bcd72da6c0d6ec302e3cedf5309bfe0f7271f90a8002596018c6d.jpg"
+        },
+        {
+          "url": "media/cached-image_63d88bbfc73e2b4fcdd415b76f1cd735d09d30d12299959f94704c887c1fcba0.jpg"
+        },
+        {
+          "url": "media/cached-image_70924a645d8b651db84646a8f34c642ce0da05e680eb1d28ecda835b934629f8.jpg"
+        },
+        {
+          "url": "media/cached-image_b95bbcebd58566bfb11c8463d6c65e83303bea4f53cb9f9820e2e78769b899bf.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.2,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Eisei Bunko Museum, 1 Chome-1-1 Mejirodai, Bunkyo City, Tokyo 112-0015, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7131804,139.7239397,3a,75y,215.21h,92.03t/data=!3m7!1e1!3m5!1sEHr_s7kp8qYLyxr5j_VigA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0272662774154355%26panoid%3DEHr_s7kp8qYLyxr5j_VigA%26yaw%3D215.21172163295927!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Eisei Bunko Museum in Mejirodai appears in Episode 3 as a background landmark in Yukina's home neighborhood. Its stately Edo-period villa grounds are visible in the Mejirodai streetscape that the show reproduces closely."
+    }
+  ]
+}

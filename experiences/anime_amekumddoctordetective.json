@@ -1,0 +1,297 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Ameku M.D.: Doctor Detective",
+  "slug": "ameku-md-doctor-detective",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_985e949fa19fbc20524a53ba582ca6ce1239cbcc15992d4a6ebed719867da539.webp",
+  "image": "media/cached-image_985e949fa19fbc20524a53ba582ca6ce1239cbcc15992d4a6ebed719867da539.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.7079873,
+    "lng": 139.54269832857142
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Ameku M.D.: Doctor Detective"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJO-HAUKbtGGARKQ17XouiwYw",
+      "name": "Denny's Nakamurabashi Branch",
+      "localName": "デニーズ 中村橋店",
+      "coordinates": {
+        "lat": 35.737227499999996,
+        "lng": 139.64725959999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82271e6b-874e-4dfb-acf7-dbcdb5834f37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82271e6b-874e-4dfb-acf7-dbcdb5834f37.webp"
+        },
+        {
+          "url": "media/cached-image_071a8db7978874364a21ca6bf48193b7435608400a217eb28fcfa2c0ec88ab1a.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Denny's Nakamurabashi Branch, 1 Chome-22-1 Nakamurakita, Nerima City, Tokyo 176-0023, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7373468,139.6474076,3a,90y,233.1h,111.01t/data=!3m7!1e1!3m5!1sheiolBuuHNarEPounx4jSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.00616546563387%26panoid%3DheiolBuuHNarEPounx4jSw%26yaw%3D233.09509886991012!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This family restaurant near Nakamurabashi station appears in episode 2 as the diner where Ameku and Takanashi debrief over the case involving the Sagamihara Aquarium, with Ameku characteristically ordering coffee while picking apart the contradictions in the victim's story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSW0dPP8CGWARhisdnJOdPcg",
+      "name": "Sagamihara Aquarium",
+      "localName": "相模川ふれあい科学館 アクアリウムさがみはら",
+      "coordinates": {
+        "lat": 35.5474198,
+        "lng": 139.3289159
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9b263281-b626-4f1a-a987-553707265044.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9b263281-b626-4f1a-a987-553707265044.webp"
+        },
+        {
+          "url": "media/cached-image_e636af2fa4e8cf78b81b6dff7c6f8470190f7c9f430e55380e13f7c5f18699d8.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sagamihara Aquarium, 1 Chome-5-1 Suigotana, Chuo Ward, Sagamihara, Kanagawa 252-0246, Japan",
+      "city": "Sagamihara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Sagamihara+Aquarium/@35.547418,139.328915,3a,90y,208.38h,89.91t/data=!3m8!1e1!3m6!1sAF1QipM_ii21xc6588aCt6Vc-O2UIjKhkS9fEGbZOVZU!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM_ii21xc6588aCt6Vc-O2UIjKhkS9fEGbZOVZU%3Dw900-h600-k-no-pi0.09013391510929125-ya275.88118296055865-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x601902ff3c1d6d49:0xc83d9d939c1d2b86!8m2!3d35.5474198!4d139.3289159!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F122hv6l_?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The aquarium is the central crime scene in episode 2, where a victim is found dead inside a sealed exhibit in what appears to be a locked-room mystery, prompting Ameku to study the fish tanks for the clue hidden in plain sight.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2Y72Po6NGGARFuKRcvGNpUQ",
+      "name": "Otani Museum",
+      "localName": "旧古河邸 大谷美術館",
+      "coordinates": {
+        "lat": 35.74319,
+        "lng": 139.74605
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a298436-4814-4ba6-a006-7aa42b87dac1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a298436-4814-4ba6-a006-7aa42b87dac1.webp"
+        },
+        {
+          "url": "media/cached-image_c6883a67a595ce5f3d6764f8b847b5230e8641aefe1d9671cf8524128867915e.jpg"
+        },
+        {
+          "url": "media/cached-image_252651f493d9d091bb24b68c561917ef600f323f3c39272a3e36ce2cb908de19.jpg"
+        }
+      ],
+      "type": "美術館",
+      "categories": [
+        "美術館"
+      ],
+      "rating": 4.2,
+      "reviewCount": 16,
+      "priceLevel": null,
+      "address": "旧古河庭園 内, 1 Chome-27-39 Nishigahara, Kita City, Tokyo 114-0024, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7431783,139.7460533,3a,90y,192.3h,96.05t/data=!3m8!1e1!3m6!1sAF1QipPfGtocyq3OxAQsPxbErCduloVbvDgf_vRyJcKv!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPfGtocyq3OxAQsPxbErCduloVbvDgf_vRyJcKv%3Dw900-h600-k-no-pi-6.053652210612427-ya177.67737029272115-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The historic Western-style mansion of the Kyū-Furukawa Residence, managed by the Otani Museum Foundation, serves as the atmospheric backdrop in episode 10 for a high-society gathering that conceals a poisoning, with its rose garden and Meiji-era stone architecture underscoring the episode's elegant-but-deadly tone.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP8AHbLPnGGARv5SqZd7qaj4",
+      "name": "Ein Pharmacy Kiyose Store",
+      "localName": "アイン薬局 清瀬店",
+      "coordinates": {
+        "lat": 35.7691097,
+        "lng": 139.5067753
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a399825d-eb81-4252-8cab-3000ec4f95d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a399825d-eb81-4252-8cab-3000ec4f95d1.webp"
+        },
+        {
+          "url": "media/cached-image_f47edf4d6fe2959edd422cc016c58054a6bfab718de2ef3340e95e5198957807.jpg"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ein Pharmacy, 3 Chome-1-15 Takeoka, Kiyose, Tokyo 204-0023, Japan",
+      "city": "Kiyose",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7691221,139.506944,3a,75y,244.94h,94.29t/data=!3m7!1e1!3m5!1sQDLxwfMRmht_9NRNHUOXCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.288267812119486%26panoid%3DQDLxwfMRmht_9NRNHUOXCA%26yaw%3D244.9369882322585!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This pharmacy in Kiyose appears in episode 4 when Ameku traces a prescription discrepancy to the store, the small detail that unravels the episode's pharmaceutical murder plot and showcases her habit of finding truth in mundane medical paperwork."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj7QPzvLlGGARspuAPgvIJgA",
+      "name": "Koganei Park",
+      "localName": "小金井公園",
+      "coordinates": {
+        "lat": 35.71603,
+        "lng": 139.51917
+      },
+      "image": "https://cdn.animepilgrimage.com/places/887770ab-cf5e-4039-bace-2c81300c723a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/887770ab-cf5e-4039-bace-2c81300c723a.webp"
+        },
+        {
+          "url": "media/cached-image_7ce5288f09328281628cb53907cf706fe973c9e2d1360a895dbf76dd24efc8b6.jpg"
+        },
+        {
+          "url": "media/cached-image_33f2a1055e79c175bb933481ac932c98db22b901e50d79a97e87278c570ce036.jpg"
+        },
+        {
+          "url": "media/cached-image_efea0e4e163097af2343448389f57f4ef672d00a7ae23cea6eff78254ebfd85b.jpg"
+        },
+        {
+          "url": "media/cached-image_1bfab8ed1dee032b55cd601fb0c4e66341b13eea8c78eee5d1d051473b00bffa.jpg"
+        },
+        {
+          "url": "media/cached-image_b1eebfd24da9776e9d2b4dbaeac07b997044a22b0674daeb21a3ca9af49a887a.jpg"
+        },
+        {
+          "url": "media/cached-image_199f40199bd45568998c7058cc86c71b9ce4ecd7fa3076895dad3b3f583865c6.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 5927,
+      "priceLevel": null,
+      "address": "1 Chome-13-1 Sekinocho, Koganei, Tokyo 184-0001, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7zcWy26YGy4DibHX9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Koganei Park appears in episode 1 as an outdoor setting where Ameku and Takanashi walk together after the dinosaur bone murder case, establishing the relaxed partnership between the mismatched duo. Its vast cherry-blossom grounds give the scene a deceptively peaceful contrast to the gruesome case they just cracked.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVVRQ-vlGGARwGONNRKxI48",
+      "name": "FamilyMart Koganei Sakura-cho 3-chome",
+      "localName": "ファミリーマート 小金井桜町三丁目店",
+      "coordinates": {
+        "lat": 35.712938099999995,
+        "lng": 139.5120725
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10cec123-632c-4f27-99a8-2205760857f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10cec123-632c-4f27-99a8-2205760857f8.webp"
+        },
+        {
+          "url": "media/cached-image_05637f310e105d6433176b20c6ee1c546f7bb11cea436462bb932dca0d3cb2bd.jpg"
+        },
+        {
+          "url": "media/cached-image_99e1c3f54c5bc2806b9e5850e2405a7ba411427fed58a61e8c6de009baeea443.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ファミリーマート 小金井桜町三丁目店, 3 Chome-1-6 Sakuracho, Koganei, Tokyo 184-0005, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7126974,139.5119599,3a,90y,22.2h,101.04t/data=!3m7!1e1!3m5!1siblCC9zGr4J6_hoYeZF2mw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.043734526744217%26panoid%3DiblCC9zGr4J6_hoYeZF2mw%26yaw%3D22.20067081064469!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This convenience store near Koganei Park is glimpsed in episode 1 as a background landmark in the neighborhood where Ameku and Takanashi's first investigation plays out, grounding the show's west-Tokyo setting for fans doing the pilgrimage route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5VjRLkXvGGAR_3VN6UDPKhI",
+      "name": "Tanashi Police Station",
+      "localName": "警視庁 田無警察署",
+      "coordinates": {
+        "lat": 35.729996,
+        "lng": 139.538645
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7c9512e9-38ad-4664-ad4f-20dbe56b8de3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7c9512e9-38ad-4664-ad4f-20dbe56b8de3.webp"
+        },
+        {
+          "url": "media/cached-image_2a9a70881786450f3c95c43700177e0cae23f879e9ae911501911102299383c6.jpg"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tanashi Police Station, 5 Chome-2-5 Tanashicho, Nishitokyo, Tokyo 188-0011, Japan",
+      "city": "Nishitokyo",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7298125,139.5388373,3a,42.2y,91.87h,92.91t/data=!3m7!1e1!3m5!1smfdOyx4Az5Tm0KDFwaYmyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.913433963935077%26panoid%3DmfdOyx4Az5Tm0KDFwaYmyA%26yaw%3D91.87422111227059!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Tanashi Police Station stands in as the police headquarters that Takanashi reports to in episode 11, the tense penultimate episode where the investigation around Ameku's past finally intersects with official police procedure."
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Another",
+  "slug": "another",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_8256e23c66aa1c27c42e503495d090bffb5f8d5b5ad7af70c7ee64f94047bdf9.webp",
+  "image": "media/cached-image_8256e23c66aa1c27c42e503495d090bffb5f8d5b5ad7af70c7ee64f94047bdf9.webp",
+  "banner": null,
+  "primaryLocation": "Toyama, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.3886111,
+    "lng": 137.5099729
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Another"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_-zdEb0o-F8R4GFjO4cXKrc",
+      "name": "巖浄閣",
+      "localName": "巖浄閣（旧富山県立農学校本館）",
+      "coordinates": {
+        "lat": 36.5886245,
+        "lng": 136.9289565
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1cd54e28-7397-4058-9492-c16e8f6e505a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1cd54e28-7397-4058-9492-c16e8f6e505a.webp"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒939-1521 Toyama, Nanto, Nojima, 453 巖浄閣",
+      "city": "Nanto",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This Meiji-era building adjacent to Nanto Fukuno High School served as the real-world model for the Sakiya Memorial Hall, the atmospheric school building at the heart of the curse in episode 2. Its aged Western-style facade captures the eerie, old-money dread that defines Yomiyama's Class 3-3.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5883641,136.9290772,3a,65.1y,351.97h,99.91t/data=!3m7!1e1!3m5!1sgnMYCHi3LuuL4sNKM_FvPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.91198185869564%26panoid%3DgnMYCHi3LuuL4sNKM_FvPw%26yaw%3D351.970351563373!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVUw7B7wo-F8R6XDfhXw631c",
+      "name": "Fukuno Station",
+      "localName": "福野駅",
+      "coordinates": {
+        "lat": 36.5885496,
+        "lng": 136.9231848
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c70f979e-3183-4e5f-bb97-034a6f0d3769.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c70f979e-3183-4e5f-bb97-034a6f0d3769.webp"
+        },
+        {
+          "url": "media/cached-image_85f7eaf01321c9fc5097c6944b10c0eda618136758df2c35f647d69114fb820b.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukuno Station, Fukuno, Nanto, Toyama 939-1565, Japan",
+      "city": "Nanto",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Fukuno Station on the JR Johana Line appears in episode 6 as the real-world base for the Yomiyama train station, the everyday transit hub the students use. The rural station atmosphere matches the isolated, cut-off feeling of the fictional town.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5886573,136.9229475,3a,75y,107.58h,99.86t/data=!3m7!1e1!3m5!1sntNT9Jg8nTfTTWN0Offfnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.860522949294378%26panoid%3DntNT9Jg8nTfTTWN0Offfnw%26yaw%3D107.5776281103913!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_another_2",
+      "name": "gallery Torato-Fuku",
+      "localName": "gallery とらとふく",
+      "coordinates": {
+        "lat": 36.55775,
+        "lng": 136.87461
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74869b8a-90ee-48d8-9c8b-908a0f6404e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74869b8a-90ee-48d8-9c8b-908a0f6404e1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5589569,136.8746774,3a,90y,83.38h,97.95t/data=!3m7!1e1!3m5!1srinRrTt8uJa3H2H-PvYUUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.947996989408793%26panoid%3DrinRrTt8uJa3H2H-PvYUUA%26yaw%3D83.3816212734794!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_another_3",
+      "name": "Cafeteria Gamba! FUKU",
+      "localName": "食堂ガンバ！福",
+      "coordinates": {
+        "lat": 36.55926,
+        "lng": 136.87505
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ecbde92-5ca1-49e8-9505-476acef87daf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ecbde92-5ca1-49e8-9505-476acef87daf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5612641,136.8769348,3a,15y,219.05h,91.85t/data=!3m7!1e1!3m5!1sxICSVp5pg3dO755BMvfo3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8534390216580618%26panoid%3DxICSVp5pg3dO755BMvfo3Q%26yaw%3D219.05028680439926!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUVBD6pek918RlowTxGZHxfo",
+      "name": "Mirage land",
+      "localName": "ミラージュランド",
+      "coordinates": {
+        "lat": 36.8002405,
+        "lng": 137.38632719999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77cda1f4-cfff-49d6-9d0d-b2eb3a90da6d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77cda1f4-cfff-49d6-9d0d-b2eb3a90da6d.webp"
+        },
+        {
+          "url": "media/cached-image_9644cdc46621a38d8bf150f98eaaac0bb71f91192e8ab969319b4955a57a486c.jpg"
+        },
+        {
+          "url": "media/cached-image_8fff8c0764b762df898ebbebb2a48c4dceda6b6ca2363c7a62603351d5fc21e2.jpg"
+        },
+        {
+          "url": "media/cached-image_e26f705bcf151dac6a84daf54af5590ae182bbd9137e224fa2053774f6a7e33c.jpg"
+        },
+        {
+          "url": "media/cached-image_4d1bc782ff81a6adafdcc1b2225348980db4a8bf0f438677281aafebb705dbde.jpg"
+        },
+        {
+          "url": "media/cached-image_6dab7c8bc6f20b81ac728c4d154f439b3aa5ceefbd0ab0a69b00cde3fa39785a.jpg"
+        }
+      ],
+      "type": "Amusement park",
+      "categories": [
+        "Amusement park"
+      ],
+      "rating": 3.8,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Mirage land, 1181-1 Sanga, Uozu, Toyama 937-0857, Japan",
+      "city": "Uozu",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This seaside amusement park in Uozu served as the model for the amusement park in the OVA prequel, where Mei Misaki and her twin sister Misaki Fujioka spend a precious day together. Their tense Ferris wheel ride, in which Misaki nearly falls from an unlatched carriage door, is one of the most haunting scenes in the series.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mirage+land/@36.8002405,137.3863272,3a,90y,357.37h,104.5t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICGuriOUw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZiQMmZ5L0wKlcAOC8SJYkUroavkDjeDPHvjFJLTfldCr1KNpJ7tU9xkPxUH4bwVTTVmFc35bXgpkILfwbq2ki3MGnzYGWdoabEy_iV38bTWMObGyTC6CWkprFXYiZ7a3Jia2nT%3Dw900-h600-k-no-pi-14.500445686481285-ya357.3665956550024-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x5ff7a497ea435051:0xfac54766c4138c96!8m2!3d36.8002405!4d137.3863272!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F120hzg2c?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OVA",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEQofb0SJGGARBGPnsduh68s",
+      "name": "7-Eleven Nihonbashi T-CAT",
+      "localName": "セブン-イレブン 日本橋T-CAT店",
+      "coordinates": {
+        "lat": 35.6814264,
+        "lng": 139.78634409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f0cc97d-a809-4bc6-9374-50aab77f84ab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f0cc97d-a809-4bc6-9374-50aab77f84ab.webp"
+        },
+        {
+          "url": "media/cached-image_c10e885a556d49129798b8edd0e97fbed4ed9af65df357974d8f553ce51b6712.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 22-1 Nihonbashihakozakicho, Chuo City, Tokyo 103-0015, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812159,139.7865885,3a,90y,132.19h,120.87t/data=!3m7!1e1!3m5!1smYjQ-uveJi9O_aYUlpMifQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-30.869102475899155%26panoid%3DmYjQ-uveJi9O_aYUlpMifQ%26yaw%3D132.19237831731334!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OVA",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_another_6",
+      "name": "Western-style okonomiyaki Yotchan",
+      "localName": "洋風お好み焼き よっちゃん",
+      "coordinates": {
+        "lat": 36.6368,
+        "lng": 136.95145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31a9b533-9dc3-492d-b935-32481be8dbc5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31a9b533-9dc3-492d-b935-32481be8dbc5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6368729,136.9514858,3a,75y,211.2h,98.24t/data=!3m7!1e1!3m5!1s987UvmJVVGMnZxibtlZ_TQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.238994107369948%26panoid%3D987UvmJVVGMnZxibtlZ_TQ%26yaw%3D211.19844012707006!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OVA",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWmtO40m-F8Rd5ySRQMIMuo",
+      "name": "Kanjoji Park",
+      "localName": "閑乗寺公園",
+      "coordinates": {
+        "lat": 36.559844999999996,
+        "lng": 136.9869335
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd1a5def-28ec-4bc0-a181-d1332ee0ce8b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd1a5def-28ec-4bc0-a181-d1332ee0ce8b.webp"
+        },
+        {
+          "url": "media/cached-image_226d2f96add3a65571f1e1be7642b6646259a4dfd0b37f93e621b01844d98934.jpg"
+        },
+        {
+          "url": "media/cached-image_6142ef15b87ab90b8eb0e4dca91bc2f3b07a7979241f1f409b57888bd3b21801.jpg"
+        },
+        {
+          "url": "media/cached-image_78716e95dd8c912d09de790d99d68fe43bd43d91ab8c83ee2505b711f2f8bbf1.jpg"
+        },
+        {
+          "url": "media/cached-image_0c0350f8d640ec190c697fc5528aad6dadcaeca60e124768ce59a731e748a529.jpg"
+        },
+        {
+          "url": "media/cached-image_69d041d2313da57f5bf5abd12e1d23de36b7dadbcfdb9f293f3170733767fe5b.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 160,
+      "priceLevel": null,
+      "address": "Japan, 〒932-0211 Toyama, Nanto, Inami, Kanjōji Park, 外2入会1番地",
+      "city": "Nanto",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The grassy hillside paths of Kanjoji Park in Inami were used as the model for the poignant grave-visiting scene in episode 12, the series finale, where characters reflect on the losses from the curse. The park's 300-meter-elevation plateau and open views match the cathartic, melancholy tone of the closing moments.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5592799,136.9878841,3a,20y,23.36h,86.56t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDC_K6ylwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZbpWYxxEy8PbeHkH2tfznMDz-Hr8WX4V5EtYgX5OcaG6ObPlKPG7910791uTaKYGnlQ32IqpXKjiTc4mbdkW2bABVgfBFqEFZNFqxBml3D8-GtO-NDAJAaEh9aWpoq051gasih%3Dw900-h600-k-no-pi3.444247076854751-ya70.35763715144941-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx0dFsVQm-F8RIjFV-LBcNFc",
+      "name": "Shogawa-Goguchi Dam",
+      "localName": "庄川合口ダム",
+      "coordinates": {
+        "lat": 36.5751822,
+        "lng": 136.9956757
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0a3e4bb-00d6-4501-b6a6-a227343e92a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0a3e4bb-00d6-4501-b6a6-a227343e92a2.webp"
+        },
+        {
+          "url": "media/cached-image_df8550263fd7110ccad3bace84e8bfd3602a6cedd4898493ea5b319d4c7e57d2.jpg"
+        }
+      ],
+      "type": "Weir",
+      "categories": [
+        "Weir"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shogawa-Goguchi Dam, Shogawamachi Kanaya, Tonami, Toyama 932-0302, Japan",
+      "city": "Tonami",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Shogawa Goguchi Dam and river valley appear in episode 1 as landscape establishing shots, setting the rural Toyama atmosphere before Kouichi Sakakibara arrives in Yomiyama. The dam's stark concrete structure against the green mountains encapsulates the series' mood from the first minutes.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5753235,136.9945077,3a,90y,100.18h,100.43t/data=!3m7!1e1!3m5!1s071s5rVn1eeV1m_5v2tg6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.427873953100871%26panoid%3D071s5rVn1eeV1m_5v2tg6A%26yaw%3D100.18165957328637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiaqQeLhFGGARtTZQEBCtZ6g",
+      "name": "Tsurumine Hachimangu",
+      "localName": "八幡宮",
+      "coordinates": {
+        "lat": 35.3384328,
+        "lng": 139.3911972
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_040a865d030b161063787605d1927bcb8d7c1d8ce99b4a2e81cf59ea864653ca.jpg"
+        },
+        {
+          "url": "media/cached-image_f608aa31dacba27d72e5a74a01ff15194206e8a0dafe396de7da603471d0ff41.jpg"
+        },
+        {
+          "url": "media/cached-image_a5d889ad62ff5a880df820a866adf77b864482f5a4b1bbb8a5a00d094f55e9ec.jpg"
+        },
+        {
+          "url": "media/cached-image_d8a8a4fae2c1dcc1c12982f8ee10bf3025d202e62d244f32dfd0bafb5b87610a.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 628,
+      "priceLevel": null,
+      "address": "Kamakura, Kanagawa 248-8588",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5584824,136.8744096,3a,47y,113.41h,90.69t/data=!3m7!1e1!3m5!1swhMro9RuoN2khIFrILLHxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.687747906578025%26panoid%3DwhMro9RuoN2khIFrILLHxQ%26yaw%3D113.40905574824608!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Summer Hikaru Died",
+  "slug": "the-summer-hikaru-died",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_103cabcd03488c7d2083fc50792c31bb3366ed9ec80bbdef5535f65a700aa458.webp",
+  "image": "media/cached-image_103cabcd03488c7d2083fc50792c31bb3366ed9ec80bbdef5535f65a700aa458.webp",
+  "banner": null,
+  "primaryLocation": "Mie, Japan",
+  "primaryLocationCoords": {
+    "lat": 34.83675423333333,
+    "lng": 136.91635773333334
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Summer Hikaru Died"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ8gOiHUNBGARugCRuusvBRA",
+      "name": "Hisai Station",
+      "localName": "久居駅",
+      "coordinates": {
+        "lat": 34.6758032,
+        "lng": 136.4778452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f9e00822-9f0c-43fd-80e4-0ebebee3ac33.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f9e00822-9f0c-43fd-80e4-0ebebee3ac33.webp"
+        },
+        {
+          "url": "media/cached-image_7a8b98f926e2600098cd13c14631523c73bfffed15e9fe8663e9b301fea52cbd.jpg"
+        },
+        {
+          "url": "media/cached-image_6a4f2f2ef5f62b53bd1ecfdd5e41e51f069d9cf83822078c4e6bb44b0e62133a.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Hisai Station, Hisaishinmachi, Tsu, Mie 514-1118, Japan",
+      "city": "Tsu",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6767975,136.4786768,3a,27.3y,204.58h,92.16t/data=!3m7!1e1!3m5!1sXXCI9TKn3twQ6oLY8EAByg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1580976964585403%26panoid%3DXXCI9TKn3twQ6oLY8EAByg%26yaw%3D204.58413535562508!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The station in Tsu's Hisai district serves as the transit hub Yoshiki uses to reach or depart the rural mountain village, grounding the story in the everyday commute that separates his ordinary life from the uncanny mountain world. Its mundane platform scenes contrast sharply with the supernatural dread building in the hills beyond."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCzddacgcBGARXI1zqX79fm8",
+      "name": "Misugi Resort Hotel Annex",
+      "localName": "美杉リゾート ホテル アネックス",
+      "coordinates": {
+        "lat": 34.5608588,
+        "lng": 136.26936949999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43503963-4e04-4023-bd99-2e2843503996.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43503963-4e04-4023-bd99-2e2843503996.webp"
+        },
+        {
+          "url": "media/cached-image_a0a5ac7daca34dbc5686b42a35e9df999a31d1e713b64a99fe3ff63921f8d4be.jpg"
+        },
+        {
+          "url": "media/cached-image_9d79a77f6305ce8467430155ad14a00f9bd5f704e3971b13d855e46a2bf856ef.jpg"
+        },
+        {
+          "url": "media/cached-image_a01b4b28cfe1a112bc8fa66b94e61e14490ae26a719ea666cc12e93c03275e8c.jpg"
+        },
+        {
+          "url": "media/cached-image_581c7574b8f21c16a054140344364add65392dd8de69fb698df41f27d2d90984.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.8,
+      "reviewCount": 642,
+      "priceLevel": null,
+      "address": "Misugi Resort Hotel Annex, 5990-5990 Misugicho Yachi, Tsu, Mie 515-3421, Japan",
+      "city": "Tsu",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.559432,136.2684796,3a,90y,230.28h,93.73t/data=!3m7!1e1!3m5!1syN4Syq5BVGri_3jVQy_Kug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7316443428589423%26panoid%3DyN4Syq5BVGri_3jVQy_Kug%26yaw%3D230.2821772675128!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Misugi area resort hotel appears in later episodes as a backdrop for scenes set in the mountain-resort outskirts of the village, reinforcing the isolated, off-season atmosphere that makes Yoshiki's situation feel all the more inescapable. Its quiet corridors lend a liminal quality to confrontations between Yoshiki and the thing wearing Hikaru's face."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_2",
+      "name": "Bunten",
+      "localName": "ぶんてん お食事処・弁当配達",
+      "coordinates": {
+        "lat": 34.62438,
+        "lng": 136.3158
+      },
+      "image": "https://cdn.animepilgrimage.com/places/149337d2-60c4-4461-a395-958f557d517e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/149337d2-60c4-4461-a395-958f557d517e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.6245698,136.3157129,3a,48.7y,149.33h,92.18t/data=!3m7!1e1!3m5!1shkvLgzI0p4Mx_dkpgMu8AA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1777867367013357%26panoid%3DhkvLgzI0p4Mx_dkpgMu8AA%26yaw%3D149.32574590531743!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_3",
+      "name": "Kita Nature Mountain Herb Garden",
+      "localName": "喜多自然山野草園",
+      "coordinates": {
+        "lat": 34.50571,
+        "lng": 136.19989
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7b683e6-03d4-4e15-aa86-25e265baec49.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7b683e6-03d4-4e15-aa86-25e265baec49.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.5057081,136.1998861,3a,73.9y,18.97h,94.34t/data=!3m7!1e1!3m5!1s9vqR6WlaLICt-XCwpTv70g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.3441083543981165%26panoid%3D9vqR6WlaLICt-XCwpTv70g%26yaw%3D18.97073264559328!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This hillside garden near Misugi is part of the rural mountain terrain that visually defines the village in the anime, appearing as a background location in episode 11 that emphasizes the wild, overgrown landscape surrounding Yoshiki's home. The lush greenery reinforces the sense that the mountains themselves are watching."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRREkkV3yGGARZSQGGfDOzIE",
+      "name": "Suginami Kuritsu Matsunoki Central Park",
+      "localName": "松ノ木中央公園",
+      "coordinates": {
+        "lat": 35.6910386,
+        "lng": 139.6434607
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1cd61af-d4bd-4f94-928d-90815055f7a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1cd61af-d4bd-4f94-928d-90815055f7a5.webp"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 3.4,
+      "reviewCount": 57,
+      "priceLevel": null,
+      "address": "Suginami Kuritsu Matsunoki Central Park, 2 Chome-7-7 Matsunoki, Suginami City, Tokyo 166-0014",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6910066,139.6435797,3a,89.6y,235.89h,90.54t/data=!3m7!1e1!3m5!1s3fcXoFnnQAWPZk8hK9QEDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5369181765847912%26panoid%3D3fcXoFnnQAWPZk8hK9QEDw%26yaw%3D235.88647948867245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5xAmNFvyGGARsAhV5ol-_4w",
+      "name": "Wadabori Park Regulation Reservoir",
+      "localName": "和田堀公園",
+      "coordinates": {
+        "lat": 35.6850296,
+        "lng": 139.641156
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7bcf52ea-423f-4075-abb4-8fc5ebe42a0a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7bcf52ea-423f-4075-abb4-8fc5ebe42a0a.webp"
+        },
+        {
+          "url": "media/cached-image_4f8ec0bb387e2203d743e92a2b1ecc28a62f25722ae65e8e4d94d77847f2146b.jpg"
+        },
+        {
+          "url": "media/cached-image_997470233a38f1de9cb5081006f95579b5109285aecb2b676fc73c02e960920a.jpg"
+        },
+        {
+          "url": "media/cached-image_0b5dc7dd837cf7bd7eb08ea1f5100779f99c7773eb6ba636cc640c8a9fca3c8a.jpg"
+        },
+        {
+          "url": "media/cached-image_8957bfc186d5e7c7b4e179f1137ac8e020ca72be695a14d5d1eef1c1515efbc6.jpg"
+        },
+        {
+          "url": "media/cached-image_163761dc4fb83814138fb5481a93f0d1f1bc31833220dbb1927d6c74bfb9cdbc.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 418,
+      "priceLevel": null,
+      "address": "Wadabori Park, 1 Chome-30-27 Naritanishi, Suginami City, Tokyo 168-0061, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6886525,139.6449604,3a,90y,322.55h,97.12t/data=!3m7!1e1!3m5!1swzV0mg6MpMUKMGAAHrYXYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.117803241427126%26panoid%3DwzV0mg6MpMUKMGAAHrYXYg%26yaw%3D322.55470812215646!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_6",
+      "name": "tsukimi rock",
+      "localName": "月見岩",
+      "coordinates": {
+        "lat": 34.51056,
+        "lng": 136.20693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df5f3a06-986f-4b1f-a2e0-3bd974f8ea46.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df5f3a06-986f-4b1f-a2e0-3bd974f8ea46.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.5105742,136.206861,3a,90y,100.16h,99.09t/data=!3m7!1e1!3m5!1scDi2Ord8CubYPAfR3HKjyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.091949520864077%26panoid%3DcDi2Ord8CubYPAfR3HKjyA%26yaw%3D100.16195074961826!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Tsukimi Rock, the moon-viewing boulder on the mountain slope, is one of the most iconic locations in the anime, associated with the eerie, supernatural atmosphere that permeates the village and tied to pivotal scenes where Yoshiki confronts the inhuman nature of the entity he calls Hikaru. The solitary rock overlooking the hills has become a must-photograph pilgrimage landmark for fans.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzzwdQLGLImARpFVwgfYThng",
+      "name": "Narita Library",
+      "localName": "成田市立図書館",
+      "coordinates": {
+        "lat": 35.779236499999996,
+        "lng": 140.2927413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e47d58f9-c9dd-49e4-b0ea-3f6d4670e904.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e47d58f9-c9dd-49e4-b0ea-3f6d4670e904.webp"
+        },
+        {
+          "url": "media/cached-image_b65d788f85d079e6a6654cbfa02c42e1e5c2328e370fe676bc3dbcaedc62bccd.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Narita Public Library, 1 Chome-１-3 Akasaka, Narita, Chiba 286-0017, Japan",
+      "city": "Narita",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6950533,139.6372359,3a,90y,54.79h,99.06t/data=!3m7!1e1!3m5!1sfXXZTKuYQ8T-CGreT8YR4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.063309854477268%26panoid%3DfXXZTKuYQ8T-CGreT8YR4A%26yaw%3D54.79447272234974!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_8",
+      "name": "Sumitomo Electric Industries, Ltd. Tsu Plant",
+      "localName": "住友電装 津製作所",
+      "coordinates": {
+        "lat": 34.64872,
+        "lng": 136.48052
+      },
+      "image": "https://cdn.animepilgrimage.com/places/db7cf94b-61c2-43ae-81fe-5ee37338e2c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/db7cf94b-61c2-43ae-81fe-5ee37338e2c6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.6493099,136.4805876,3a,90y,166.62h,101.11t/data=!3m7!1e1!3m5!1sFydE7jT1gqk31P3WRSvxvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.105412320902573%26panoid%3DFydE7jT1gqk31P3WRSvxvw%26yaw%3D166.61897666817168!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCbzsjY2nBmAR6VItv4PygoI",
+      "name": "Mitsue Village Forestry Cooperative Thinning Wood Processing Center Ushitoge Factory",
+      "localName": "道の駅 伊勢本街道 御杖",
+      "coordinates": {
+        "lat": 34.515603999999996,
+        "lng": 136.2002212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8f3da59c-fb37-4423-8a0c-79766d4f00bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8f3da59c-fb37-4423-8a0c-79766d4f00bb.webp"
+        },
+        {
+          "url": "media/cached-image_7b3eb528f734f60e1a89e120cdfc06cb62a5dd81211b1a9637608bd7f8111901.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Road Station Isehonkaido Mitsue, 6325番地 Kozue, Mitsue, Uda District, Nara 633-1301, Japan",
+      "city": "Mitsue",
+      "region": "Uda District, Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.4957061,136.1896308,3a,90y,305.41h,105.02t/data=!3m7!1e1!3m5!1sGOfefvLIY60Bo70O2hmnLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.020434706691972%26panoid%3DGOfefvLIY60Bo70O2hmnLg%26yaw%3D305.40520825944304!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The road station Isehonkaido Mitsue, which shares coordinates with this entry, appears in episode 6 as a waypoint along the mountain highway that characters use to move between the village and the outside world. Its presence on the Ise Hon Kaido pilgrimage road subtly mirrors the characters' own spiritual passage through the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYXmSA3SnBmAR65ExEs_rfgw",
+      "name": "Mitsue Shrine",
+      "localName": "御杖神社",
+      "coordinates": {
+        "lat": 34.4941971,
+        "lng": 136.19462249999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/15f70f8a-a1fa-481e-ae4b-321d70d45544.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/15f70f8a-a1fa-481e-ae4b-321d70d45544.webp"
+        },
+        {
+          "url": "media/cached-image_04c9253a20903d98fcd6e6e1638553064a3c743a3b58d1f704856c47d8ac85fe.jpg"
+        },
+        {
+          "url": "media/cached-image_4d68079bc1e8b7afe6dc8e9cb0526845e5f6475b4a8d504aa1322ea01032b889.jpg"
+        },
+        {
+          "url": "media/cached-image_21d753ff52845348a62c9824e1230a2d923d9f7e348ffae1a58fbc65783da316.jpg"
+        },
+        {
+          "url": "media/cached-image_e1c4bb38af31636bc8158fbb725f646900a25c4e8a2eee3d29a3d345dd62b286.jpg"
+        },
+        {
+          "url": "media/cached-image_e5cdecf7fe4f854feb82dadca3fd4843705b2186d25f39f356f12ea49ff46f02.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 95,
+      "priceLevel": null,
+      "address": "Mitsue Shrine, 1020 Kozue, Mitsue, Uda District, Nara 633-1301, Japan",
+      "city": "Mitsue",
+      "region": "Uda District, Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mitsue+Shrine/@34.4942504,136.1945457,3a,90y,93.55h,86.02t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICW4_KL8wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaGFnw_WlRP4gvMjKYXghLxv5Gt8wYqankDaJI0SMAtOMDNdNEU6F9X4KhJc81eM-g1x4978dW4A-QGDDrNLvlGyjA00OiPDI0pdPT0LN0DUhNsdS64bxWKjw6N3GGMvcqUvpd84Q%3Dw900-h600-k-no-pi3.978061209007862-ya138.54943086346708-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6006a77403927961:0xc7eebcf123191eb!8m2!3d34.4941971!4d136.1946225!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11f54k67nh?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Mitsue Shrine, appearing as early as episode 4, is the quiet village shrine that sets the spiritual and atmospheric tone of the series, establishing the remote, tradition-bound community where something dark has replaced Yoshiki's closest friend. The mossy stone steps and cedar-shaded precinct are closely matched in the anime's backgrounds.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx3Cdqhgoil8RlsXwzJZM4Wk",
+      "name": "Shiei Hisaieki Higashiguchi Parking Lot",
+      "localName": "TAKAYU東口パーキング",
+      "coordinates": {
+        "lat": 38.261539,
+        "lng": 140.8836394
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cfaa51f4-b0c9-47d1-a2ff-d4b371bace31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cfaa51f4-b0c9-47d1-a2ff-d4b371bace31.webp"
+        },
+        {
+          "url": "media/cached-image_82ff92f3d09ff828f4a50e799f34027c2f8ee76c31d4cc7e4302204e9566c7e5.jpg"
+        },
+        {
+          "url": "media/cached-image_76a3446965661178657ebf1af12c776e2072f3f6771be21307e9ee0f9ff613a4.jpg"
+        }
+      ],
+      "type": "Parking garage",
+      "categories": [
+        "Parking garage"
+      ],
+      "rating": 3.7,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "TAKAYU Higashiguchi Parking Lot, TAKAYU東口パーキング 2 Chome-2-35 Tsutsujigaoka, Miyagino Ward, Sendai, Miyagi 983-0852, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6742493,136.4767927,3a,90y,114.98h,96.5t/data=!3m7!1e1!3m5!1sLq2IB7hGHb6PQ9Q1AnCAZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.497740309017303%26panoid%3DLq2IB7hGHb6PQ9Q1AnCAZQ%26yaw%3D114.98294362897911!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_12",
+      "name": "7-Eleven Tsu Hisai Ekimae Store",
+      "localName": "セブン-イレブン 津市久居駅前店",
+      "coordinates": {
+        "lat": 34.67458,
+        "lng": 136.47587
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a40bec82-aa57-4fcd-b910-bab25889a08d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a40bec82-aa57-4fcd-b910-bab25889a08d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.6745201,136.4759437,3a,90y,296.7h,95.18t/data=!3m8!1e1!3m6!1sog_aFqfIUATooeEH6tuO7g!2e0!5s20221101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.176482710457108%26panoid%3Dog_aFqfIUATooeEH6tuO7g%26yaw%3D296.69634627308847!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ57b99LANBGARqo9nK2IS9-Y",
+      "name": "Saizeriya Hisai Inter Garden Store",
+      "localName": "サイゼリヤ 久居インターガーデン店",
+      "coordinates": {
+        "lat": 34.6834365,
+        "lng": 136.4655369
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dbb34371-da60-4549-af1c-780a88cd54fe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dbb34371-da60-4549-af1c-780a88cd54fe.webp"
+        },
+        {
+          "url": "media/cached-image_acdc09e3fe60c41d5601f3860a56e02f2b26d0089b1ebb450076c8e0822f405b.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒514-1101 Mie, Tsu, Hisaimyojincho, 2530 Saizeriya, 久居ｲﾝﾀｰｶﾞｰﾃﾞﾝN棟",
+      "city": "Tsu",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.684324,136.4655735,3a,15y,182.24h,90.76t/data=!3m7!1e1!3m5!1sn_xWAsGHpvvEERk-NAGQkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.7616728675655082%26panoid%3Dn_xWAsGHpvvEERk-NAGQkQ%26yaw%3D182.23622790415592!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This family restaurant chain location near Hisai serves as the setting for casual hangout scenes in episode 3, capturing the ordinary afterschool life Yoshiki shares with classmates while carrying a secret no one else knows. The chain-restaurant normalcy is a deliberate counterpoint to the horror unfolding in the mountains."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_14",
+      "name": "Shikatsu Community Center",
+      "localName": "敷津集会所",
+      "coordinates": {
+        "lat": 34.50912,
+        "lng": 136.20335
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c3fc5d9-64a5-49a7-9684-898f08aefcd0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c3fc5d9-64a5-49a7-9684-898f08aefcd0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.5090959,136.2032056,3a,90y,70.59h,96.06t/data=!3m7!1e1!3m5!1sqgLXt3hdd4ZyjNnnP8bcfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.0595249851249235%26panoid%3DqgLXt3hdd4ZyjNnnP8bcfQ%26yaw%3D70.58588700804991!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Shikatsu community center in the Misugi mountain hamlet stands in for the small village gathering place seen in episode 3, where the tight-knit rural community inadvertently highlights how utterly alone Yoshiki is in knowing that Hikaru is gone. Its unremarkable exterior makes the secret feel even heavier."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4ZzEM7cNBGARTASxDAXWoXs",
+      "name": "AEON Hisai Store",
+      "localName": "イオン久居店",
+      "coordinates": {
+        "lat": 34.6825785,
+        "lng": 136.4632449
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f6d536e9-d061-48e5-8382-bd42f721ff69.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f6d536e9-d061-48e5-8382-bd42f721ff69.webp"
+        },
+        {
+          "url": "media/cached-image_049ffbbc4d70ebcd238f5d801f1c9d5d5cbbd69f2bb0a3a7f65fc2e7e4228351.jpg"
+        },
+        {
+          "url": "media/cached-image_856217e87db46414259da5d52b238f3e509f072ac167dcc6dd4921780ba83e13.jpg"
+        },
+        {
+          "url": "media/cached-image_b9afa1e1a3aaa21b9ad6941538eeeeb7b6a40bebf0d5b9998baf3da8c9787e23.jpg"
+        },
+        {
+          "url": "media/cached-image_cc7214ef1107a537b4eaa16dd2e15c628bc28cb1171a8eec2f0732039363fbe3.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.4,
+      "reviewCount": 236,
+      "priceLevel": null,
+      "address": "AEON Hisai Store, 風早-2660 Hisaimyojincho, Tsu, Mie 514-1101, Japan",
+      "city": "Tsu",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6832023,136.4642684,3a,47.9y,213.11h,95.1t/data=!3m7!1e1!3m5!1sKplMN-VmbfijaZ93pF49ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.104811012569371%26panoid%3DKplMN-VmbfijaZ93pF49ug%26yaw%3D213.10851319619104!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The AEON mall in Hisai appears in episode 2 as the familiar suburban shopping destination that represents the normalcy of Yoshiki's life outside the village, a space where teenage routines continue even as he processes the loss of his real friend. The contrast between the bright mall interior and the dark mountain truth is a recurring visual motif."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvxdV-SGtBmAReAzZbwKm1jg",
+      "name": "万代 名張店",
+      "localName": "万代 名張店",
+      "coordinates": {
+        "lat": 34.613191,
+        "lng": 136.089965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/85cc903b-9d10-43e0-a2cf-bc97e02a366b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/85cc903b-9d10-43e0-a2cf-bc97e02a366b.webp"
+        }
+      ],
+      "type": "スーパーマーケット",
+      "categories": [
+        "スーパーマーケット"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mandai, 198-1 Sekoguchi, Nabari, Mie 518-0445, Japan",
+      "city": "Nabari",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6119932,136.0891367,3a,75y,53.97h,97.11t/data=!3m7!1e1!3m5!1sBg4cphsgR7MSb75vWr1pew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.1121059012885866%26panoid%3DBg4cphsgR7MSb75vWr1pew%26yaw%3D53.97307247304649!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8zef3-tQBGARpwz2UzdmCfA",
+      "name": "Monument of \"Ise Hon Kaido\"",
+      "localName": "皇大神宮（伊勢神宮 内宮）",
+      "coordinates": {
+        "lat": 34.4550157,
+        "lng": 136.7251851
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2db00d44-38d7-4239-a383-544b93dc73b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2db00d44-38d7-4239-a383-544b93dc73b9.webp"
+        },
+        {
+          "url": "media/cached-image_5a2808140db39df61d0731cdbdce73b9a55e932f1325b5ff1ecfafb7d962c454.jpg"
+        },
+        {
+          "url": "media/cached-image_ed5337f611bacc89a807cf4a1a43572616f8c7daf17268745fa95cfd6c24f0fd.jpg"
+        },
+        {
+          "url": "media/cached-image_3a498a9e3be9330fd789f17b34dba67ca7c0107528ad4b4277965627fc53b57c.jpg"
+        },
+        {
+          "url": "media/cached-image_0a7e20098e7cb172853a18394b0eb43df3a1782e1293b94222d6f425878775fa.jpg"
+        },
+        {
+          "url": "media/cached-image_558993e65a68a0d458068e327ce9aa275f8d0979516486da4d386d3f40f3aced.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.7,
+      "reviewCount": 32807,
+      "priceLevel": null,
+      "address": "Kotai Jingu (Ise Jingu Naiku, Inner Sanctuary), 1 Ujitachicho, Ise, Mie 516-0023, Japan",
+      "city": "Ise",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.5065861,136.2001816,3a,90y,27.66h,95.9t/data=!3m7!1e1!3m5!1s09dETi2XPCK7iLy6IuSouA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.90336975273641%26panoid%3D09dETi2XPCK7iLy6IuSouA%26yaw%3D27.658833766417644!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This listing's coordinates and address point to Kotai Jingu (Ise Jingu Inner Shrine), a landmark that appears in early episode 1 imagery establishing the broader Mie Prefecture setting and the spiritual undercurrent running through the region. The sacred atmosphere of Ise resonates with the story's themes of something holy and something monstrous coexisting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_18",
+      "name": "Tsujimoto Shoten",
+      "localName": "辻本商店",
+      "coordinates": {
+        "lat": 34.50247,
+        "lng": 136.19358
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a91de9a0-ff2b-415c-81b2-b7a985ab8715.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a91de9a0-ff2b-415c-81b2-b7a985ab8715.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.5023757,136.193645,3a,75y,331.64h,93.72t/data=!3m7!1e1!3m5!1strYBTuKqrvFJqwgoch6DdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7153124351315228%26panoid%3DtrYBTuKqrvFJqwgoch6DdA%26yaw%3D331.63785294515475!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tsujimoto Shoten is a small village shop in the Misugi mountain district that appears in episode 1 among the everyday storefronts establishing the look and feel of the tight-knit rural community Yoshiki and Hikaru called home. These ordinary village commerce scenes make the supernatural rupture all the more jarring."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-summer-hikaru-died_19",
+      "name": "Sakaguchi Shoten",
+      "localName": "阪口商店",
+      "coordinates": {
+        "lat": 34.50986,
+        "lng": 136.19983
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7890b0b-40ad-42d7-ab57-9407546ada74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7890b0b-40ad-42d7-ab57-9407546ada74.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.5099488,136.1996876,3a,90y,129.48h,95.99t/data=!3m7!1e1!3m5!1shghVVmgRClNRStqkqvYhjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.986157001406227%26panoid%3DhghVVmgRClNRStqkqvYhjw%26yaw%3D129.47659782142588!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Sakaguchi Shoten is another local shop in the Misugi village cluster seen in episode 1, part of the detailed rural streetscape Mokumokuren's art famously replicates from real Mie locations. The shop fronts give the village its particular lived-in authenticity that fans recognize from the manga panels."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ813agZ3XBWARKy7Ao_QnJB8",
+      "name": "Miki Sato Beach",
+      "localName": "三木里ビーチ",
+      "coordinates": {
+        "lat": 34.0013304,
+        "lng": 136.214365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/feda6834-13af-46a6-b094-32953c72cabd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/feda6834-13af-46a6-b094-32953c72cabd.webp"
+        },
+        {
+          "url": "media/cached-image_af6c0befeb0812c38a87536e2c50d6705b81c935fae99967ec8bce4bc7f368ca.jpg"
+        },
+        {
+          "url": "media/cached-image_4e43f3cb32dd93e3558f8f12aecab4051cfed2d2200500e25e5db9a092628cb2.jpg"
+        },
+        {
+          "url": "media/cached-image_873741aa7a8c65e91a0b44f35e44590fe592334ed4b8355a1724a93d994b7a89.jpg"
+        },
+        {
+          "url": "media/cached-image_0eaa11164611e3874f5418ca5332bcb3e13e1b36374f5544c426c3ff7d1bb6ea.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": 14,
+      "priceLevel": null,
+      "address": "Mikisato Beach, Nagaracho, Owase, Mie 519-3812, Japan",
+      "city": "Owase",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mikisato+Beach/@34.0015458,136.2146612,3a,75y,180h,100t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDGpaT3BA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAG0ilSxIzVG9Xr7duDBEGc9Oc7Sa7TG3Nu5siDks2KCjq-h8-SCzZtporEdNIs1SNHduXpvuI_MekYdoqauzDvPE7WC438BKn7rZYAxPj_A9ta8U5OM7dRCPz4PLN-bqJ3ibeOKJ0Dst%3Dw900-h600-k-no-pi-10-ya173-ro0-fo100!7i4608!8i2304!4m9!3m8!1s0x6005d79d81da5df3:0x1f2427f4a3c02e2b!8m2!3d34.0013304!4d136.214365!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11q8408vw0?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Miki Sato Beach in Owase appears in the anime's ending theme visuals, its pale sand and calm Mie coastline providing a melancholy, sun-washed counterpart to the inland mountain scenes and underscoring the bittersweet emotional register of the series. Fans visit to recreate the ED imagery.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB2Qo64Z4BmAR0sIj1iZ4w5M",
+      "name": "Miki Sato Station",
+      "localName": "三木里駅",
+      "coordinates": {
+        "lat": 34.001505699999996,
+        "lng": 136.2030476
+      },
+      "image": "https://cdn.animepilgrimage.com/places/143c7afb-66d7-49e4-94ce-0d1a37e7e83d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/143c7afb-66d7-49e4-94ce-0d1a37e7e83d.webp"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mikisato Station, Mikisatochō, Owase, Mie 519-3811, Japan",
+      "city": "Owase",
+      "region": "Mie",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mikisato+Station/@34.0015057,136.2030476,3a,73.2y,278.72h,93.04t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDH94mC9AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha_tRSmOAbAfBKyQaxooZjdL1xe7ccoCcppZe4ZSBt0sRBPp5w8ZiBTEA6AAEZx9OtHDkUj2_sd2_fmJue1OpOENUegHCfDArrhBjLzZHRFdyvATSap4rjaa4ufvDRC_7hxFgS-%3Dw900-h600-k-no-pi-3.040139256285528-ya278.72091562786824-ro0-fo100!7i11904!8i5952!4m9!3m8!1s0x60067886eb286407:0x93c37826d623c2d2!8m2!3d34.0015057!4d136.2030476!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F04631jh?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Mikisato Station, a tiny unmanned stop on the Kisei Line in Owase, is featured in the ending theme sequence alongside Miki Sato Beach, its isolated platform and rural quiet echoing the loneliness at the heart of Yoshiki and Hikaru's story. The station's photogenic solitude makes it a natural pilgrimage endpoint.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA6M2ylWmBmARkIv9iuzHzTE",
+      "name": "Sakurai Police Station Mitsue Substation",
+      "localName": "桜井警察署 御杖駐在所",
+      "coordinates": {
+        "lat": 34.492837,
+        "lng": 136.1718953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e974ccc-3c76-4d49-88b0-59c5ada6c19d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e974ccc-3c76-4d49-88b0-59c5ada6c19d.webp"
+        },
+        {
+          "url": "media/cached-image_b1a11fdf352042e13e17ac801b9604d8f11642ec668d12fa1e7eaf59c0816936.jpg"
+        }
+      ],
+      "type": "Traffic police station",
+      "categories": [
+        "Traffic police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sakurai Police Station Mitsue Substation, 404 Sugano, Mitsue, Uda District, Nara 633-1302, Japan",
+      "city": "Mitsue",
+      "region": "Uda District, Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.4929742,136.1716283,3a,90y,34.17h,109.06t/data=!3m7!1e1!3m5!1s2VFYynHS2e5krk42rIKcEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.06169120338204%26panoid%3D2VFYynHS2e5krk42rIKcEQ%26yaw%3D34.1731418771637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The small Mitsue police substation appears in the opening credits sequence, one of several mundane village-government buildings used to establish the remote, self-contained nature of the mountain community. Its presence in the OP roots the supernatural story firmly in a real, recognizable rural Japan."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm6JortwIAWARS811J4oNJus",
+      "name": "Maruyama Park",
+      "localName": "円山公園",
+      "coordinates": {
+        "lat": 35.0035,
+        "lng": 135.78052
+      },
+      "image": "https://cdn.animepilgrimage.com/places/54dcc08b-a92b-489e-bf35-ef61b9b6bc5f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/54dcc08b-a92b-489e-bf35-ef61b9b6bc5f.webp"
+        },
+        {
+          "url": "media/cached-image_1e38c48d5638e646a2bb7e77e83285fc443a371c6d3bac2dc3c915bf9254be96.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0037041,135.7805176,3a,62.6y,217.25h,107.48t/data=!3m8!1e1!3m6!1sAF1QipOgQc1tKp2mlovjt3llN4oA_aWC6coL1VWBG4TP!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOgQc1tKp2mlovjt3llN4oA_aWC6coL1VWBG4TP%3Dw900-h600-k-no-pi-17.477414855367087-ya290.252375509285-ro0-fo100!7i8704!8i4352?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Maruyama Park in Kyoto appears in episode 8, used for an out-of-village scene that shifts the atmosphere and gives Yoshiki a moment of disorientation outside his usual setting. The park's famous weeping cherry tree provides a visually distinct backdrop that signals how far he has come from the mountain world he knows."
+    }
+  ]
+}

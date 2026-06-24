@@ -1,0 +1,138 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Uncle from Another World",
+  "slug": "uncle-from-another-world",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_5ddde810942a9f8df40317414b0c669163c4befa80e1521ee88367817f764e0e.webp",
+  "image": "media/cached-image_5ddde810942a9f8df40317414b0c669163c4befa80e1521ee88367817f764e0e.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 34.24471753333333,
+    "lng": 133.45182416666665
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Uncle from Another World"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uncle-from-another-world_0",
+      "name": "Tenten",
+      "localName": "｀｀ラーメン (てんてん)",
+      "coordinates": {
+        "lat": 33.55231,
+        "lng": 130.44645
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ecd2c024-abad-4075-8799-c3f0239ded91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ecd2c024-abad-4075-8799-c3f0239ded91.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@33.552291,130.4463703,3a,90y,66.76h,100.14t/data=!3m7!1e1!3m5!1snF2932bzqTYXeii5LKwrMg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.136731738369292%26panoid%3DnF2932bzqTYXeii5LKwrMg%26yaw%3D66.75567188024704!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "In episode 6, Ojisan treats Takafumi and Sumika to ramen at this Fukuoka shop, one of the few moments where Uncle genuinely enjoys a simple modern-world pleasure after 17 years in another world.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJdHNSbPkGGARSuZRumTKUM0",
+      "name": "Sakuragaoka Hiroba Park",
+      "localName": "桜ヶ丘公園",
+      "coordinates": {
+        "lat": 35.6375744,
+        "lng": 139.4609936
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3cc4e20-17ba-4f45-b65e-ee08839811e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3cc4e20-17ba-4f45-b65e-ee08839811e1.webp"
+        },
+        {
+          "url": "media/cached-image_f09d8009cda66b312832e03daf4ca644fa1b62f876ab23568d1f883880248f0e.jpg"
+        },
+        {
+          "url": "media/cached-image_52dee16d1a7788205e4ed5ee4b3e3f532a0639c9e0d819b35ca2b042def2af32.jpg"
+        },
+        {
+          "url": "media/cached-image_ff00199a503056dd098caa8a1efc4153ae187923da71a8bc902a261ee95f7563.jpg"
+        },
+        {
+          "url": "media/cached-image_da501da76d80d08339c710fe6c6c11dfb28deebc3f92bc74c60b47a20547a903.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 265,
+      "priceLevel": null,
+      "address": "Sakuragaoka Park, 5 Chome-15 Renkoji, Tama, Tokyo 206-0021, Japan",
+      "city": "Tama",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.5465755,130.4509495,3a,48.7y,267.05h,93.26t/data=!3m7!1e1!3m5!1sdZW-yluHoFWVqBTPzsEcTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2575194474904663%26panoid%3DdZW-yluHoFWVqBTPzsEcTQ%26yaw%3D267.04541270556126!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This park in Tama City appears in episode 2 as an outdoor setting where Takafumi accompanies his freshly awoken uncle, grounding the series in the quiet residential western Tokyo landscape Uncle left behind.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8aHtvuuQQTUR3xlhcqLn7WU",
+      "name": "7-Eleven Kasuga Sakuragaoka 4-chome",
+      "localName": "セブン-イレブン 春日桜ヶ丘４丁目店",
+      "coordinates": {
+        "lat": 33.5442682,
+        "lng": 130.4480289
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96cae87b-23e6-455e-bdaf-047166154171.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96cae87b-23e6-455e-bdaf-047166154171.webp"
+        },
+        {
+          "url": "media/cached-image_cacc241380c47ae90aa57fd1d15d7071a4ac104a8826206a506b15be4df35435.jpg"
+        },
+        {
+          "url": "media/cached-image_99c0298b43709fa0116d14f45fdb42bb076ada6521aed685aeb6333ca6702212.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "7-Eleven Kasuga Sakuragaoka 4-chome, 4 Chome-24 Sakuragaoka, Kasuga, Fukuoka 816-0872, Japan",
+      "city": "Kasuga",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.5440624,130.4477819,3a,75y,117.9h,104.92t/data=!3m7!1e1!3m5!1sS00iRrlHf5GF6iu43vbtjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.918591192798516%26panoid%3DS00iRrlHf5GF6iu43vbtjw%26yaw%3D117.89756476446696!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Seen in episode 2, this convenience store captures the running gag of Ojisan encountering the overwhelming choices of modern Japan after spending two decades in a fantasy world."
+    }
+  ]
+}

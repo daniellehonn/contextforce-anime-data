@@ -1,0 +1,188 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "SANDA",
+  "slug": "sanda",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_6a0d98755f8ae909bfb9e6ed6d80421243bbf0299866c3b3b32c1bc1a0f07819.webp",
+  "image": "media/cached-image_6a0d98755f8ae909bfb9e6ed6d80421243bbf0299866c3b3b32c1bc1a0f07819.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.691130375,
+    "lng": 139.713754625
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "SANDA"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJAXimn2CMGGARl1wlJ1cbQpA",
+      "name": "Ichigaya Fish Center",
+      "localName": "市ヶ谷フィッシュセンター",
+      "coordinates": {
+        "lat": 35.6920318,
+        "lng": 139.7357076
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6e082da7-a0bc-435b-aaa9-ef71cc47f28d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6e082da7-a0bc-435b-aaa9-ef71cc47f28d.webp"
+        },
+        {
+          "url": "media/cached-image_6d430b49cb624ed02fecfb07f5899a54ec30b9e95b1a93b02550ebbda9f8bd05.jpg"
+        }
+      ],
+      "type": "釣り堀",
+      "categories": [
+        "釣り堀"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-１ Ichigayatamachi, Shinjuku City, Tokyo 162-0843, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6920318,139.7357076,3a,90y,258.88h,93.94t/data=!3m8!1e1!3m6!1sAF1QipPQTpKawjqVx0m9ZJiXZOyh-y3u-48p-a-PXRbq!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPQTpKawjqVx0m9ZJiXZOyh-y3u-48p-a-PXRbq%3Dw203-h100-k-no-pi-0-ya87.8948-ro-0-fo100!7i6912!8i3456?entry=ttu",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Ichigaya Fish Center fishing pond appears in the ending sequence \"Diary,\" where Sanda and his classmates enjoy a quiet afternoon of fishing, capturing the series' recurring theme of ordinary childhood moments set against an extraordinary premise."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPXcZIsCOGGARsYimyXoHsms",
+      "name": "Asakusa Hanayashiki",
+      "localName": "浅草花やしき",
+      "coordinates": {
+        "lat": 35.7151292,
+        "lng": 139.795058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5bde9a1b-b57d-4ecb-b627-39ab1c26a11f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5bde9a1b-b57d-4ecb-b627-39ab1c26a11f.webp"
+        },
+        {
+          "url": "media/cached-image_4291504ca5e19e3f1e50fe66de130b5a9d6daf568cd4225a6dd6c83b0b6408f3.jpg"
+        },
+        {
+          "url": "media/cached-image_8602eef08f352f2b4c5d816d1effb4cf1201376b3280c266fe487e6ec27b174b.jpg"
+        },
+        {
+          "url": "media/cached-image_d6fd02e1e332e624b0a286dc42464369be62292e158935d9122d6ac827ab281b.jpg"
+        },
+        {
+          "url": "media/cached-image_be61d34a989ecab6c0f011d373b6388106924a7eb208348ae8376a58b40d5557.jpg"
+        },
+        {
+          "url": "media/cached-image_2b7acbcf9848e90676799019fc234620da1210f73b0782e1b3edc227a5513287.jpg"
+        },
+        {
+          "url": "media/cached-image_3b82288c343b3b79fc2d941605ce75614d6d30a0f3582b0d57929bef54b5f526.jpg"
+        },
+        {
+          "url": "media/cached-image_c77bdebb67729b97603faa3b00c7b12588fb1ba623d99ac259d3887ac8559074.jpg"
+        },
+        {
+          "url": "media/cached-image_8ffc47a8e94f86cbb96f2fe785ac74e80f20a18a09c2c39c98c1d51dd4b135de.jpg"
+        },
+        {
+          "url": "media/cached-image_77268e0bae6bb0dd5879868b555048d9ed15d14b583af9f32e09cd71e83986ee.jpg"
+        }
+      ],
+      "type": "遊園地",
+      "categories": [
+        "遊園地"
+      ],
+      "rating": 4.1,
+      "reviewCount": 381,
+      "priceLevel": null,
+      "address": "2 Chome-28-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7151292,139.795058,3a,90y,345.18h,98.99t/data=!3m7!1e1!3m5!1s5FNWi2Lh7UmIFWJhByssMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D5FNWi2Lh7UmIFWJhByssMQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D51.10708%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Japan's oldest amusement park appears in the ending animation, with Sanda and friends riding the retro attractions at Hanayashiki, a scene that underscores the show's warmhearted celebration of simple pleasures and togetherness.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWaVdDXuGGART_Pg1R3CZ4A",
+      "name": "Inokashira Park",
+      "localName": "井の頭恩賜公園",
+      "coordinates": {
+        "lat": 35.69878,
+        "lng": 139.57882
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07a123c4-14f7-47c2-b2d2-a53641515a83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07a123c4-14f7-47c2-b2d2-a53641515a83.webp"
+        },
+        {
+          "url": "media/cached-image_afbeb8d6a50b89414c6ab7d07bd89d3d41713271fd29786019c933700296f063.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-18-31 Gotenyama, Musashino, Tokyo 180-0005, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RLzyK9NpDCnqmNFZ9",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The lakeside paths of Inokashira Park feature in the ending sequence, showing the cast walking and relaxing beneath the trees, evoking the gentle, diary-like mood of Soushi Sakiyama's ending theme."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCewJkL2LGGAR3Qmk0vCTGkg",
+      "name": "Tokyo Tower",
+      "localName": "東京タワー",
+      "coordinates": {
+        "lat": 35.6585805,
+        "lng": 139.7454329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ffdd6ba8-7d7d-44be-9c38-e56b876109cc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ffdd6ba8-7d7d-44be-9c38-e56b876109cc.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": 479504,
+      "priceLevel": null,
+      "address": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tokyo+Tower/@35.6586633,139.7455355,2a,90y,35.65h,91.92t/data=!3m8!1e1!3m6!1sA4Pj25gifXP52eQPMmf7PA!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.920517690659949%26panoid%3DA4Pj25gifXP52eQPMmf7PA%26yaw%3D35.64805169877632!7i13312!8i6656!4m9!3m8!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329!10e5!14m1!1BCgIgARICCAI!16zL20vMDEzMl94?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Tokyo Tower appears in the ending credits as a backdrop to Sanda and his companions exploring the city, its red silhouette serving as a visual anchor for the near-future Tokyo setting where the story unfolds.",
+      "fanTopPick": true
+    }
+  ]
+}

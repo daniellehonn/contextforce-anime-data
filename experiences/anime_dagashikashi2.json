@@ -1,0 +1,206 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Dagashi Kashi 2",
+  "slug": "dagashi-kashi-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_53e92e4ba378865ea8608046860e883c0f1496ffabada46d0331f1c5a3a549ff.webp",
+  "image": "media/cached-image_53e92e4ba378865ea8608046860e883c0f1496ffabada46d0331f1c5a3a549ff.webp",
+  "banner": null,
+  "primaryLocation": "Chiba, Japan",
+  "primaryLocationCoords": {
+    "lat": 34.84272694,
+    "lng": 138.04077622000003
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Dagashi Kashi 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJs7B4BwYQGGARIeFgRAN3mwQ",
+      "name": "Takeoka Pharmacy",
+      "localName": "たけおか薬局",
+      "coordinates": {
+        "lat": 35.20551,
+        "lng": 139.84623
+      },
+      "image": "https://cdn.animepilgrimage.com/places/839cd8e2-b03a-48e4-958b-12b0bae06940.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/839cd8e2-b03a-48e4-958b-12b0bae06940.webp"
+        },
+        {
+          "url": "media/cached-image_11e969b153a742e0cc4268a5cb86a4c53df8ad3f6457e5c340a31c52bb5a1748.jpg"
+        }
+      ],
+      "type": "調剤薬局",
+      "categories": [
+        "調剤薬局"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "645 Takeoka, Futtsu, Chiba 299-1621, Japan",
+      "city": "Futtsu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/sMvy727wQZeV67XaA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The pharmacy near the Shikada Dagashi shop sets the backdrop for the sleepy rural town where Kokonotsu's candy adventures begin. Fans visit as one of the first Episode 1 landmarks establishing the series' Boso Peninsula atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKcR1znUQGGARnpj5JLArtmw",
+      "name": "Takeoka Station",
+      "localName": "竹岡駅",
+      "coordinates": {
+        "lat": 35.19785,
+        "lng": 139.83031
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45aa04ff-29ec-418e-b541-bdc9aa3cf281.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45aa04ff-29ec-418e-b541-bdc9aa3cf281.webp"
+        },
+        {
+          "url": "media/cached-image_66d2e30888c4b87ccea1e8a46d7ac13efdc1637c7d7252cf0f21f4b56884a678.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Hagiu, Futtsu, Chiba 299-1622, Japan",
+      "city": "Futtsu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/EzZj64MhRWfjProd9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This quiet single-track station on the JR Uchibo Line appears in Episode 4, capturing the unhurried rural feel that defines the series. The platform and surrounding landscape mirror the anime's distinctive countryside aesthetic."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_dagashi-kashi-2_2",
+      "name": "Zenshoji",
+      "localName": "善勝寺",
+      "coordinates": {
+        "lat": 35.52779,
+        "lng": 140.28441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de7ffb99-43ce-4dee-b4ca-3dc5b9ca5dd2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de7ffb99-43ce-4dee-b4ca-3dc5b9ca5dd2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5278422,140.2844321,3a,75y,202.76h,94.12t/data=!3m6!1e1!3m4!1sie48bGLY1wUgiDywu3gRMA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The temple grounds appear in Episode 4 as a local landmark near the story's rural setting. Its traditional architecture and quiet surroundings echo the slow-paced country life at the heart of Dagashi Kashi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ266bkTmzQTURGyoV12zB7oM",
+      "name": "Mihashira Shrine",
+      "localName": "三柱神社",
+      "coordinates": {
+        "lat": 33.1703147,
+        "lng": 130.41518109999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e8ee1438-629b-41d7-afaa-ee1916c5cb30.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e8ee1438-629b-41d7-afaa-ee1916c5cb30.webp"
+        },
+        {
+          "url": "media/cached-image_7aa9b3db93c79e861736b1fffe0b44e09350fbf0e109e27d072d593acddc2d54.jpg"
+        },
+        {
+          "url": "media/cached-image_f12053498f014e93e44b785ca0ed382ae854bd045a5d400483e308c252c83302.jpg"
+        },
+        {
+          "url": "media/cached-image_df0ac3c5b71b8bf606102617f871351b18da7f8171a902477861d20e4634bd91.jpg"
+        },
+        {
+          "url": "media/cached-image_76ecd6d67bf2bd919b7954082c20993f5b71234af0f67eeca92c3d16f3b5c810.jpg"
+        },
+        {
+          "url": "media/cached-image_4b2d1b5bb424708f172e7f082c383312ee8bf0314f4013939eba27ac893d9c34.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 786,
+      "priceLevel": null,
+      "address": "Mihashira Shrine, 323-1 Mitsuhashimachi Takahatake, Yanagawa, Fukuoka 832-0826, Japan",
+      "city": "Yanagawa",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.205555,139.8414567,3a,90y,217.4h,95.74t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDG35resAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaurKgxKdGkMKCW5UiAc1fKr8NDkjs1msp0l96YU_o0NPZ47LyoPkXrV3xPTwVDflW_zi-DvyuNIflEhCXcyb9kFpMbKDRDqA3w8qvk37O5q6AH3VsJxdNhbBTxdvg-MX73oD37Ug%3Dw900-h600-k-no-pi-5.736117806267217-ya217.4044151065518-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDUwNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The shrine's grounds serve as the backdrop for a beigoma (spinning top) battle scene in Episode 3. The match highlights the nostalgic, old-fashioned spirit of the series and its love of traditional childhood pastimes alongside candy culture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz86Wc5ocGGARZraeC8h55mc",
+      "name": "NABURA Diner",
+      "localName": "食事処 なぶら [勝山漁港直営]",
+      "coordinates": {
+        "lat": 35.11217,
+        "lng": 139.82775
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_151c51b7ea05ddf8c158e7d4bcfb6c07880448e7e81632019a7c4efee0cb4030.jpg"
+        }
+      ],
+      "type": "シーフード・海鮮料理店",
+      "categories": [
+        "シーフード・海鮮料理店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "２３４ Katsuyama, Kyonan, Awa District, Chiba 299-2117, Japan",
+      "city": "Kyonan",
+      "region": "Awa District, Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/H1R7ZSoWMKPAzoXo6",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Katsuyama fishing-port diner appears in Episode 11, representing the seaside dining culture of the Boso Peninsula. The coastal setting reinforces the rural waterfront atmosphere that frames the characters' candy-filled daily life."
+    }
+  ]
+}

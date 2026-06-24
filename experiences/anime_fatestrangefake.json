@@ -1,0 +1,520 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Fate/strange Fake",
+  "slug": "fate-strange-fake",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_633a0e5bade9c3dc0ac2d273fc50673350380acf8f8f0d7786d4fcbc28a95847.webp",
+  "image": "media/cached-image_633a0e5bade9c3dc0ac2d273fc50673350380acf8f8f0d7786d4fcbc28a95847.webp",
+  "banner": null,
+  "primaryLocation": "California, United States",
+  "primaryLocationCoords": {
+    "lat": 35.496108323076925,
+    "lng": -86.15366013846152
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Fate/strange Fake"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJL_hWS8rHwoARzpgvUnSUds0",
+      "name": "STILE Downtown Los Angeles",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.0418769,
+        "lng": -118.2570341
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fe87ee12-3140-4f31-891e-4c3f4a3e6f99.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fe87ee12-3140-4f31-891e-4c3f4a3e6f99.webp"
+        },
+        {
+          "url": "media/cached-image_8f08ac354a391a320d112447b34782d0aece58f357f7721238451389b8805ea3.jpg"
+        },
+        {
+          "url": "media/cached-image_59ec5645b21e65529cf0f11964ea041cbebcc8c6a5e5db283d55f65162f4e7f5.jpg"
+        },
+        {
+          "url": "media/cached-image_ddb8313a6dbeedf1f0ca67e3580a5bfdb2e4c5ba9f6994658d1f5a74144fa538.jpg"
+        },
+        {
+          "url": "media/cached-image_a86572b92377bdc4476b622084f9d9ba6f815b6a4d737ef19136ea0bb244f905.jpg"
+        },
+        {
+          "url": "media/cached-image_9a09ef158bac27a91a8bb4ed0c578b68209460989e9e8fcb60bcb7a6f8eb3d45.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1848,
+      "priceLevel": null,
+      "address": "STILE Downtown Los Angeles, 929 S Broadway, Los Angeles, CA 90015",
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NTRpAcyLSfo3AtCk7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Downtown LA hotel on Broadway appears in Episode 3, used as a setting for characters moving through the city in the build-up to the Snowfield conflict."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ13FHyKO-woARcUo3e3rnla8",
+      "name": "Whisky a Go Go",
+      "localName": "ウィスキー・ア・ゴーゴー",
+      "coordinates": {
+        "lat": 34.090848,
+        "lng": -118.38576239999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd9b155d-471d-4b3c-b10c-bdb4cb5bd24f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd9b155d-471d-4b3c-b10c-bdb4cb5bd24f.webp"
+        },
+        {
+          "url": "media/cached-image_f4623ec70f509fb4d69e69c7e00b1376e0a0477cbc1704d5a688d62339b7ab51.jpg"
+        }
+      ],
+      "type": "Live music venue",
+      "categories": [
+        "Live music venue"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Whisky a Go Go, 8901 Sunset Blvd, West Hollywood, CA 90069",
+      "city": "West Hollywood",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8bZYtA3ux3TKyCrv5",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The legendary Sunset Strip venue appears in Episode 4, lending an authentic Los Angeles rock-and-roll atmosphere to a scene involving one of the series' more colorful characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJswuaqjrEyIAR1vBx3GxKR-I",
+      "name": "Fountains of Bellagio",
+      "localName": "ベラージオの噴水",
+      "coordinates": {
+        "lat": 36.112718699999995,
+        "lng": -115.1739109
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2d752ad-a266-4f23-80ce-624e1e458ad0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2d752ad-a266-4f23-80ce-624e1e458ad0.webp"
+        },
+        {
+          "url": "media/cached-image_2bebe79247c4b0f97ac2b8d15978816e96605e5e286e020ed4ab849147efc3dc.jpg"
+        }
+      ],
+      "type": "Fountain",
+      "categories": [
+        "Fountain"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fountains of Bellagio, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8vSHYoiPKyuETjkN9",
+      "episodeType": "ED",
+      "episodeNumber": 5,
+      "entityContext": "The famous Bellagio fountains appear in the ending sequence of Episode 5, evoking the glamour and spectacle of Snowfield as a city built on illusion and power.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa4AI1cjAwoAReu2kK57sD1A",
+      "name": "Silver Lake Community Church",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.109740699999996,
+        "lng": -118.2704656
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6a64bbd-e1a6-4274-98ee-8e822f06c918.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6a64bbd-e1a6-4274-98ee-8e822f06c918.webp"
+        },
+        {
+          "url": "media/cached-image_01bd60adc9fcff311d5e26108f6afccef8dee9a412b7e6e849ce238c0312397d.jpg"
+        }
+      ],
+      "type": "Presbyterian church",
+      "categories": [
+        "Presbyterian church"
+      ],
+      "rating": 4.8,
+      "reviewCount": 78,
+      "priceLevel": null,
+      "address": "Silver Lake Community Church, 2930 Hyperion Ave, Los Angeles, CA 90027",
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KeaxD7TzzSce77oK6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Silver Lake church appears in Episode 1, establishing the story in real Los Angeles geography as the Holy Grail War begins to take shape in the western United States."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjzUBO0_GwoARrO_fJmtVI1c",
+      "name": "Los Angeles City Hall",
+      "localName": "ロサンゼルス市庁舎",
+      "coordinates": {
+        "lat": 34.0537136,
+        "lng": -118.2426533
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9245a188-08b2-4068-be18-5f7424596012.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9245a188-08b2-4068-be18-5f7424596012.webp"
+        },
+        {
+          "url": "media/cached-image_e03f44e2939e5dc200f15ea3ae8faa8372d939eb54085b2d056e3799f47910fe.jpg"
+        },
+        {
+          "url": "media/cached-image_fb66f2e2bb5985e4132c2df08e2fc94bcb2399d9d39ca030b625408eed655dce.jpg"
+        },
+        {
+          "url": "media/cached-image_6ba1f12b381e4ed5101efe174fbd6fb1e7a3ec5e57d763e1bd21b00b2a98f7ec.jpg"
+        },
+        {
+          "url": "media/cached-image_5ad6ad2531e587ba06a97623a973bc0ded2fa0f63753f97b0ac91fc584c898a2.jpg"
+        },
+        {
+          "url": "media/cached-image_774dee14c876921d212c2a75ddafc576cc3f9de043348365235fede679d8d51e.jpg"
+        }
+      ],
+      "type": "City Hall",
+      "categories": [
+        "City Hall"
+      ],
+      "rating": 4.4,
+      "reviewCount": 403,
+      "priceLevel": null,
+      "address": "Los Angeles City Hall, 200 N Spring St, Los Angeles, CA 90012",
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jyE9yMSLFZKK2EeT6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Los Angeles City Hall appears in Episode 2 as a recognizable government landmark that grounds the story in real American urban geography before the action shifts to Snowfield."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL92FRcrHwoAR16VrRH6NlPA",
+      "name": "the blackstone apartments",
+      "localName": "The Blackstone",
+      "coordinates": {
+        "lat": 34.0422206,
+        "lng": -118.256495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/110684e0-0523-4981-831d-ed53851174cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/110684e0-0523-4981-831d-ed53851174cf.webp"
+        },
+        {
+          "url": "media/cached-image_40ce25a311fb58ce65ed1e1dd7e0d1400cc34dcb004b171c7325b14e4878ac75.jpg"
+        },
+        {
+          "url": "media/cached-image_c2a1d1d037ecbc24be0c56a1dfc4e36a2e651829140ef1bc78c8775f4be9d009.jpg"
+        },
+        {
+          "url": "media/cached-image_695b1c68a22e4bdc9c5917d595c88497e14c6a5a37817a09925d2e39292b2ec3.jpg"
+        },
+        {
+          "url": "media/cached-image_7a8cff7fc6255b603f60c1ef7e253263b8898e17bb2a479a0131058587f6b7ae.jpg"
+        }
+      ],
+      "type": "Apartment complex",
+      "categories": [
+        "Apartment complex"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The Blackstone, 901 S Broadway Unit 507, Los Angeles, CA 90015",
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/gMXDZgsZnn5YcfrR9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Blackstone apartment building on South Broadway in Downtown LA appears in Episode 3, serving as a residential location tied to characters caught up in the spreading Holy Grail War."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_fate-strange-fake_6",
+      "name": "City National Bank ATM",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.05089,
+        "lng": -118.25835
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6974b622-485b-41e8-ba2e-1ee59e94f61e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6974b622-485b-41e8-ba2e-1ee59e94f61e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/yGN2w4dRjegqskmG6",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "A Downtown Los Angeles ATM location appears in the Episode 2 opening sequence, used to depict an everyday urban setting before being disrupted by the chaos of the Holy Grail War."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvUdRyzDEyIARhA3R2cXH8oI",
+      "name": "Bellagio Hotel & Casino",
+      "localName": "ベラージオ・ホテル & カジノ",
+      "coordinates": {
+        "lat": 36.112945499999995,
+        "lng": -115.17650669999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a091d92f-5d6e-4bdb-903a-4bc77b31e9ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a091d92f-5d6e-4bdb-903a-4bc77b31e9ef.webp"
+        },
+        {
+          "url": "media/cached-image_7e479784b98d4abf169fc36f20b62e727f67c8c60ea1a7c19a3029470be5be46.jpg"
+        },
+        {
+          "url": "media/cached-image_c394a84b3205a22ed6e9253cbb93f8777e887c0d939b58d97dc880243ef71260.jpg"
+        },
+        {
+          "url": "media/cached-image_73681d09334bc16d3500055c736a9c81c02e5eb3dd3afa75571de30470bec307.jpg"
+        },
+        {
+          "url": "media/cached-image_bacbb1b17556f082277ad649d2986f4e6810996bbf99f0b819f41eb0446d1a9b.jpg"
+        },
+        {
+          "url": "media/cached-image_dc7dc09dd86a5a9989e4e19512da803b5edfadd10ea964c0dafde5b3a7be4fd8.jpg"
+        }
+      ],
+      "type": "Casino hotel",
+      "categories": [
+        "Casino hotel"
+      ],
+      "rating": 4.7,
+      "reviewCount": 60066,
+      "priceLevel": null,
+      "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HBrjrxECcyVkdp9t8",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "The Bellagio serves as the iconic heart of Snowfield, the fictional Holy Grail War city modeled on Las Vegas, appearing in the opening sequence as the backdrop that establishes the grand, high-stakes atmosphere of this rogue war.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_fate-strange-fake_8",
+      "name": "Pool a Paris",
+      "localName": null,
+      "coordinates": {
+        "lat": 36.11249,
+        "lng": -115.17148
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f49e3642-5038-4aa3-b5f1-27fb5a02f3dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f49e3642-5038-4aa3-b5f1-27fb5a02f3dd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/6LHSky1JJ461GZcv8",
+      "episodeType": "ED",
+      "episodeNumber": 5,
+      "entityContext": "The Paris Las Vegas hotel pool area appears in the Episode 5 ending sequence alongside the Bellagio, underscoring Snowfield as a city of excess and spectacle modeled on the Las Vegas Strip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk8qgKiEHK4cRncy_2TpD7Ak",
+      "name": "St. Andrew Catholic Church",
+      "localName": "St. Andrew the Apostle Catholic Church",
+      "coordinates": {
+        "lat": 33.320671,
+        "lng": -111.90161499999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a01ccca-b19d-4066-a54b-d64ae7d28540.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a01ccca-b19d-4066-a54b-d64ae7d28540.webp"
+        },
+        {
+          "url": "media/cached-image_23dda070e38b205d5e5d26343c41cce86b142965a0d1463d3a8b162f3cc67984.jpg"
+        }
+      ],
+      "type": "Catholic church",
+      "categories": [
+        "Catholic church"
+      ],
+      "rating": 4.7,
+      "reviewCount": 267,
+      "priceLevel": null,
+      "address": "St. Andrew the Apostle Catholic Church, 3450 W Ray Rd, Chandler, AZ 85226",
+      "city": "Chandler",
+      "region": "Arizona",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/gUn6nv9FGp4s8t4s6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Chandler, Arizona Catholic church appears in Episode 8 as a real-world American religious setting tied to a scene involving characters and the spiritual undercurrents of the war."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVWVf7HHwoARiCPF8g9sP5c",
+      "name": "Luxurious Cosmopolitan 1BD & 2BD Suites",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.0513385,
+        "lng": -118.25859729999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32524962-2769-4f56-98f1-d96e88bebc67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32524962-2769-4f56-98f1-d96e88bebc67.webp"
+        },
+        {
+          "url": "media/cached-image_08ac9bde11648b50023466896168307ebf33571901274b5d98fb5c6527609bfc.jpg"
+        }
+      ],
+      "type": "Serviced apartment",
+      "categories": [
+        "Serviced apartment"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Luxurious Cosmopolitan 1BD & 2BD Suites, 545 S Figueroa St, Los Angeles, CA 90071",
+      "city": "Los Angeles",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/m3gExYkz1UEidzwm6",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Figueroa Street serviced apartment in Downtown LA appears in Episode 11 as a location used by characters operating in the shadows of the ongoing Holy Grail War."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7x2-BSSMGGARahVDg6WIAag",
+      "name": "Kyu-Iwasaki-tei Gardens",
+      "localName": "旧岩崎邸庭園",
+      "coordinates": {
+        "lat": 35.7097847,
+        "lng": 139.7671385
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b5149cc-0529-4ffd-a019-7a7e214132fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b5149cc-0529-4ffd-a019-7a7e214132fa.webp"
+        },
+        {
+          "url": "media/cached-image_ebb859780458a2346f5e87b8e25f80a8e91d9e145616f72cbe5b36ed6a0e193a.jpg"
+        }
+      ],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kyū-Iwasaki-tei Gardens, 1 Chome-3-45 Ikenohata, Taito City, Tokyo 110-0008, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jEJdFsTtkoRGtkzB7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The historic Meiji-era Iwasaki mansion garden in Tokyo appears in Episode 8, likely as a flashback setting evoking the old-world aristocratic world of mage families who set the Snowfield war in motion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_fate-strange-fake_12",
+      "name": "The Black Church",
+      "localName": "黒教会",
+      "coordinates": {
+        "lat": 45.64017,
+        "lng": 25.58815
+      },
+      "image": "https://cdn.animepilgrimage.com/places/798063ec-aa1b-49d9-aba9-04e7c8e3ccd5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/798063ec-aa1b-49d9-aba9-04e7c8e3ccd5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/As5K9x4jnugknqHv7",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    }
+  ]
+}

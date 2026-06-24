@@ -1,0 +1,1115 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Initial D Legend 3 Mugen",
+  "slug": "initial-d-legend-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_7905fc6a2485124639a0b0b79761a778deede8faff54f6927ca221aed44c9a0b.webp",
+  "image": "media/cached-image_7905fc6a2485124639a0b0b79761a778deede8faff54f6927ca221aed44c9a0b.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.49658506875,
+    "lng": 138.90800251874998
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Initial D Legend 3 Mugen"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9A8bHdjHmARFne5QTBYVUc",
+      "name": "Ikaho Onsen Stone Steps",
+      "localName": "伊香保温泉石段街",
+      "coordinates": {
+        "lat": 36.49711,
+        "lng": 138.91624
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a0e37c9-2700-4117-a972-7919c4529c68.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a0e37c9-2700-4117-a972-7919c4529c68.webp"
+        },
+        {
+          "url": "media/cached-image_76e69fac29e34623881fbc92811c15e96c450ea103354648fea5eeeeae45f0b9.jpg"
+        },
+        {
+          "url": "media/cached-image_099475b77b49b0a219a162060abccc348c32e7feb379b1eb430df08f2d98218d.jpg"
+        },
+        {
+          "url": "media/cached-image_93b646e873bebf5e2f0fbb5c4da2e2a7b3546f6c12ac432b57215a96d3bab96c.jpg"
+        }
+      ],
+      "type": "旅游胜地",
+      "categories": [
+        "旅游胜地"
+      ],
+      "rating": 4.2,
+      "reviewCount": 329,
+      "priceLevel": null,
+      "address": "76-5 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4971452,138.9162778,3a,90y,198.6h,115.81t/data=!3m7!1e1!3m5!1s2eL1ag2ZYy-MeAY5-cqtJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.809052677610808%26panoid%3D2eL1ag2ZYy-MeAY5-cqtJw%26yaw%3D198.59678260794666!7i13312!8i6656?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The famous 365 stone steps of Ikaho Onsen appear in atmospheric establishing shots that set the quiet town backdrop against which Takumi's late-night mountain runs unfold. The contrast between the peaceful resort and the intense racing above it captures the duality of his double life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_1",
+      "name": "Curve 24",
+      "localName": "カーブ 24",
+      "coordinates": {
+        "lat": 36.48939,
+        "lng": 138.8997
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49f6cfa6-1614-498c-88f5-d537271c87df.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49f6cfa6-1614-498c-88f5-d537271c87df.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4892906,138.8998334,3a,90y,321.4h,103.64t/data=!3m7!1e1!3m5!1sT8PkVmovQ2GAkV_eai29kQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.641763837305717%26panoid%3DT8PkVmovQ2GAkV_eai29kQ%26yaw%3D321.39894706493135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 24 on the Ikaho touge is one of the technical sections Takumi navigates during his climactic race against Kyoichi Sudo and the Emperor team. Fans trace every numbered hairpin on this road as part of the complete pilgrimage circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_2",
+      "name": "Curve 17",
+      "localName": "カーブ 17",
+      "coordinates": {
+        "lat": 36.49261,
+        "lng": 138.89965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed8bc964-06bc-476b-b988-c6657edff369.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed8bc964-06bc-476b-b988-c6657edff369.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925257,138.8996228,3a,90y,20.72h,95.43t/data=!3m7!1e1!3m5!1sJAFFAtLzmm5-DiIvDaGtug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.428121296585843%26panoid%3DJAFFAtLzmm5-DiIvDaGtug%26yaw%3D20.716934979661474!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 17 is part of the mid-section of the Ikaho course where Takumi's grip-limit cornering technique is put under pressure during his battle with the Emperor team's Lan Evo. Pilgrims walk or drive this stretch to feel the camber changes that forced Takumi to improvise."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_3",
+      "name": "Curve 27",
+      "localName": "カーブ 27",
+      "coordinates": {
+        "lat": 36.48606,
+        "lng": 138.89892
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b78c433c-bc23-4d86-a518-a1c45da80976.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b78c433c-bc23-4d86-a518-a1c45da80976.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4861902,138.8988234,3a,75y,151.14h,88.18t/data=!3m7!1e1!3m5!1s5CS6cys38W2s_kbLO8h-dQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8195222038613537%26panoid%3D5CS6cys38W2s_kbLO8h-dQ%26yaw%3D151.14496359551993!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 27 sits near the lower portion of the Ikaho descent and features in the extended chase sequence of Legend 3 where Kyoichi Sudo's Evo pushes Takumi into a series of back-to-back tight corners. Visiting fans count down the curves from the bottom just as the drivers do in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyQCMnTljHmARg1hOtMMe7YA",
+      "name": "Takane Observation Deck",
+      "localName": "高根展望台",
+      "coordinates": {
+        "lat": 36.492584799999996,
+        "lng": 138.9059612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e2023211-8a81-4e4d-82c5-9d2e2ffd34d4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e2023211-8a81-4e4d-82c5-9d2e2ffd34d4.webp"
+        },
+        {
+          "url": "media/cached-image_9b21a83c73ed149187052551fd682ec69ab0037abf80c44da837d545d1213490.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takane Observation Deck, Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925373,138.9058269,3a,63.5y,63.21h,93.51t/data=!3m7!1e1!3m5!1s18NOXNRie8B0O4RK8rJE7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5055635236758604%26panoid%3D18NOXNRie8B0O4RK8rJE7w%26yaw%3D63.212723205076614!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Takane Observation Deck overlooks the Ikaho mountain road and is shown in Legend 3 as a vantage point framing the course that Takumi and Sudo race down. Its panoramic view of the serpentine road below makes it an essential first stop for fans arriving to see the course in full.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWHL8a1hHmAR4NCUjThxAK0",
+      "name": "Gunmashoji Oasis Kogenchi Filling Station",
+      "localName": "apollostation / 群馬商事(株) オアシス高源地SS",
+      "coordinates": {
+        "lat": 36.4922627,
+        "lng": 138.99659599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8e981e31-b903-4988-b25a-5ccd295b3d9a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8e981e31-b903-4988-b25a-5ccd295b3d9a.webp"
+        },
+        {
+          "url": "media/cached-image_4ce37a1c026342fe6f20f91fbc37e49e2d4bfb5c8fc47b1225813e02923aabf4.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gunmashoji Oasis Kogenchi Filling Station, 1795 Ishihara, Shibukawa, Gunma 377-0007, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4922009,138.9965315,3a,90y,89.98h,97.23t/data=!3m7!1e1!3m5!1sm8TFbFKG08kPr1IRTwKhYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.228532155320309%26panoid%3Dm8TFbFKG08kPr1IRTwKhYw%26yaw%3D89.97781795174093!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This roadside filling station near the Ikaho area appears as one of the incidental locations where team members and spectators gather before and after races in the Legend trilogy. It represents the ordinary world that exists just off the touge, grounding the story in real Gunma geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAV2Jvo1gHmARvQulkrPN_xk",
+      "name": "Shibukawa Municipal Tokutomi Roka Memorial Literary Hall Parking Lot",
+      "localName": "渋川市",
+      "coordinates": {
+        "lat": 36.489471,
+        "lng": 139.000443
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ceca908f-d479-43d1-9fd7-1d08a4b1ebb7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ceca908f-d479-43d1-9fd7-1d08a4b1ebb7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shibukawa, Gunma, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4981785,138.9147707,3a,90y,61.28h,95.46t/data=!3m7!1e1!3m5!1sM-Rvye9H00sjiYJjfdF4gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.458507956223883%26panoid%3DM-Rvye9H00sjiYJjfdF4gw%26yaw%3D61.28312046475865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking area near Shibukawa is identified by pilgrimage guides as a staging point used in scene-setting shots of the Ikaho course approach in Legend 3. Fans use it as a base to access the lower sections of the touge on foot."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG5G1uYJjHmARCr_2tJTLrKA",
+      "name": "Hotel Kimura",
+      "localName": "伊香保温泉 ホテルきむら",
+      "coordinates": {
+        "lat": 36.497222199999996,
+        "lng": 138.92138889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e809dd34-70e0-4dcc-9b88-50d476ee3dfc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e809dd34-70e0-4dcc-9b88-50d476ee3dfc.webp"
+        },
+        {
+          "url": "media/cached-image_9f6c67068aae7e74ad6c575f29f4eda0cf8c0dcf1cdd40432dba3c4259b56405.jpg"
+        },
+        {
+          "url": "media/cached-image_cf393eec79a1e9f3b9c2ffe9ef8eca479d4cb29f8ee94875ac01894dee690adb.jpg"
+        },
+        {
+          "url": "media/cached-image_bcf8b7e669a11d11d51bae878fc433fec3064951e405789de4379537cf9bdb6b.jpg"
+        },
+        {
+          "url": "media/cached-image_6c91503749991c36bb9eb43ccb5f88f1e01e8f6111dd3b0120cdb8c10a44be7d.jpg"
+        },
+        {
+          "url": "media/cached-image_a1c82d09ea72a75569540165cf663d93fa3a920421ee2ca1a9fea0702af0d541.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Kimura, 557-32 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4974043,138.9207826,3a,90y,64.16h,102.89t/data=!3m7!1e1!3m5!1sDzfsli9Ny-t-SCMI7jsO0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.887803680612961%26panoid%3DDzfsli9Ny-t-SCMI7jsO0w%26yaw%3D64.1608705265159!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Hotel Kimura in Ikaho Onsen appears as background scenery in the Ikaho town scenes of Legend 3, part of the resort streetscape that Takumi passes through on his way to the course. Its traditional facade is visible in establishing shots of the onsen district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM3RTEA1jHmAR5V3tLlBLVxM",
+      "name": "Ikaho Forest Park",
+      "localName": "伊香保森林公園",
+      "coordinates": {
+        "lat": 36.482124999999996,
+        "lng": 138.9119493
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b321cd8b-2a61-4fa1-8e01-8a113b316eda.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b321cd8b-2a61-4fa1-8e01-8a113b316eda.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikaho Forest Park, Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4915133,138.9032898,3a,75y,73.51h,93.44t/data=!3m7!1e1!3m5!1sFOhMFqhq9hghGYoTC3xFKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.44068970191303%26panoid%3DFOhMFqhq9hghGYoTC3xFKQ%26yaw%3D73.50845359273283!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Ikaho Forest Park borders the mountain road course and its wooded edges appear in the tree-lined tunnel sections of the race in Legend 3, where Takumi uses his instinct and the AE86's lightness to hold his line. The dense forest atmosphere amplifies the sense of speed in these scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwZnOv0NjHmARQTqvjFziqhE",
+      "name": "the Yaseone Pass",
+      "localName": "ヤセオネ峠",
+      "coordinates": {
+        "lat": 36.482979,
+        "lng": 138.896413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f8ab309-ba5f-417e-987e-73f2765adbb5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f8ab309-ba5f-417e-987e-73f2765adbb5.webp"
+        },
+        {
+          "url": "media/cached-image_9f663709a8032bc57defc071e35be0b28823a5251d6d2f7ac3d1d2eca8808daa.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "the Yaseone Pass, Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4829787,138.89652,3a,49.3y,192.02h,94.12t/data=!3m7!1e1!3m5!1ssoddE3U26ZLyVBK0apSHJA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.120672893734735%26panoid%3DsoddE3U26ZLyVBK0apSHJA%26yaw%3D192.02240064831395!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yaseone Pass (Yaseone Toge) is the summit starting point of the Ikaho downhill course and the location where Takumi and Kyoichi Sudo line up at the beginning of their decisive battle in Legend 3. Standing at this pass, fans can look down the same road that Takumi descends in the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_10",
+      "name": "crush deck",
+      "localName": "ときめきデッキ",
+      "coordinates": {
+        "lat": 36.49182,
+        "lng": 138.92308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6bbe2f9-7d4d-4301-a34f-271292f26c29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6bbe2f9-7d4d-4301-a34f-271292f26c29.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4919486,138.9230364,3a,48.8y,64.67h,99.71t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq3febbw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0D2ffFx2R1vGPDxgXJOPyEq6kOaOmwVuPfIZUO0TSy6J9DXWJ2oVSbLVDJgGUKU4To2xNAtnc_EGz_DJ7gmjBIbEpHu5qtfvpqGjonJ8Eh70bzsZ6walOZgiIMRVM6qo5mC-zg%3Dw900-h600-k-no-pi-9.70958495468821-ya183.6671345839403-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Tokimeki Deck (crush deck) is a small viewing platform near Ikaho that appears briefly in Legend 3 as one of the overlook spots associated with the course. Pilgrimage fans visit it to see the mountain road from the perspective of spectators in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_11",
+      "name": "Curve 13",
+      "localName": "カーブ 13",
+      "coordinates": {
+        "lat": 36.49738,
+        "lng": 138.90438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e2fe7a13-e70c-4e5b-93db-cf7296af75c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e2fe7a13-e70c-4e5b-93db-cf7296af75c6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4974154,138.9043485,3a,63.4y,101.2h,91.13t/data=!3m7!1e1!3m5!1sBvzxIrq10vjRJ7pQCcsdEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1259604798577243%26panoid%3DBvzxIrq10vjRJ7pQCcsdEw%26yaw%3D101.20490800206564!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 13 is part of the upper portion of the Ikaho touge where the initial gap between Takumi and Sudo opens up in Legend 3. Fans photograph this bend because the road angle here matches the in-film angle used for the AE86's signature heel-and-toe downshift sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4fFYlLZ8HmARlYUvqkq8OxU",
+      "name": "Haruna Prefectural Park",
+      "localName": "県立榛名公園",
+      "coordinates": {
+        "lat": 36.471178099999996,
+        "lng": 138.8735362
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6936784c-9fa6-45b1-9a3d-d575146aff43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6936784c-9fa6-45b1-9a3d-d575146aff43.webp"
+        },
+        {
+          "url": "media/cached-image_964dcb4112469da711181b92e7a4c8bc60f59cd60aab71747c699f651838c1af.jpg"
+        },
+        {
+          "url": "media/cached-image_b5b45c133f92cbb94df861acdef1192cbe0af3540eb07c99f99b48860f86166c.jpg"
+        },
+        {
+          "url": "media/cached-image_51c9b49e272c0af55a88bcfb5d6226a21ccb474761a79293d5f25a86ac97bdb0.jpg"
+        },
+        {
+          "url": "media/cached-image_9b80e2070915d675ebb31f54b85528e7f13aa03d1b0ebf8adf94355351818661.jpg"
+        },
+        {
+          "url": "media/cached-image_a3b3d73140c98120c5fccd41938d083566315ef21a91dfd2b0e85fb78e8a4f6c.jpg"
+        }
+      ],
+      "type": "National park",
+      "categories": [
+        "National park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 180,
+      "priceLevel": null,
+      "address": "Haruna Prefectural Park, 内 845 Harunakomachi, Takasaki, Gunma 370-3348, Japan",
+      "city": "Takasaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4704115,138.8733545,3a,64.3y,177.47h,99.91t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4x8GbngE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2QhzPf-hTiDBEniPrgVcAHJThgyk4wqCUsLmDn32Kefs56uCQkuIoLGVVrATDjVk56jI7y3dZJJ0ZmxAY9qtdsy9oVwhPs--5CUgLQ7jwdBKk_GHM92m-jR12RqsyNCtjJytJa%3Dw900-h600-k-no-pi-9.906010403512141-ya38.47376212934549-ro0-fo100!7i10240!8i3434?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Haruna Prefectural Park surrounds Lake Haruna and the Haruna mountain road, which is central to the Legend trilogy as the home course of Ryosuke Takahashi's FC3S and is referenced in Legend 3 during the Emperor team's backstory. The lakeside scenery appears in transitional shots establishing the rival team's dominance on this circuit.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJZsT6LZ8HmARrJEoGq3Ffas",
+      "name": "Lake Haruna Boat landing",
+      "localName": "榛名湖ボート乗り場",
+      "coordinates": {
+        "lat": 36.470828499999996,
+        "lng": 138.87313229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a55e5d0-dc87-4908-bbde-fb96755d414a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a55e5d0-dc87-4908-bbde-fb96755d414a.webp"
+        },
+        {
+          "url": "media/cached-image_51c9b49e272c0af55a88bcfb5d6226a21ccb474761a79293d5f25a86ac97bdb0.jpg"
+        }
+      ],
+      "type": "Boat rental service",
+      "categories": [
+        "Boat rental service"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Boat landing, 内 845 Harunakomachi, Takasaki, Gunma 370-3348, Japan",
+      "city": "Takasaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4709634,138.8730859,3a,34.3y,157.84h,97.66t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEzoqaEA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0I8ashVkxHm2LQ4FeIb_mvtk3YLQKYh58VJXC4k91axCA6vlJUMaAY0kiPU9qJLlojX1Wimv8bp7QkX4WHWZETWqNWeoOgdawvfXNvWGTzTAOeBw7uKwdEmlcuTu1tiTLgV2VV%3Dw900-h600-k-no-pi-7.664444686778793-ya247.84095187424577-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Lake Haruna boat landing appears in quiet interlude shots in the Legend films, with the lake reflecting the volcanic cone of Mount Haruna and providing a calm counterpoint to the intense racing scenes. It is one of the most photographed spots by Initial D pilgrims visiting the Haruna circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_14",
+      "name": "Osakaya",
+      "localName": "大坂屋",
+      "coordinates": {
+        "lat": 36.49712,
+        "lng": 138.91625
+      },
+      "image": "https://cdn.animepilgrimage.com/places/838ae31a-f33a-46dd-b650-d47515cc0e5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/838ae31a-f33a-46dd-b650-d47515cc0e5d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4971205,138.9162721,3a,75y,215.71h,97.08t/data=!3m7!1e1!3m5!1scNLi2NEfaboGXrDJwzBW4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.075173637285815%26panoid%3DcNLi2NEfaboGXrDJwzBW4A%26yaw%3D215.70698043753993!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Osakaya is a traditional shop on the Ikaho Stone Steps street that appears in the Ikaho townscape shots of Legend 3, contributing to the atmosphere of the resort that sits quietly below the racing course. Fans stop here for koge-manju (burnt sugar buns), the local specialty seen in the background."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYb1ysX5jHmARZb8xE-nc9Oc",
+      "name": "Shibukawa Municipal Ishidan Al Wynn Park West Parking Lot",
+      "localName": "石段アルウィン公園西駐車場(P2)",
+      "coordinates": {
+        "lat": 36.4992428,
+        "lng": 138.916081
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e0fecaf-20c4-4782-9a82-bd388bd68bdc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e0fecaf-20c4-4782-9a82-bd388bd68bdc.webp"
+        },
+        {
+          "url": "media/cached-image_5c7669d389c699320fb5bd64c2c80595bb8bd861be384589d842716d3dee28c0.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibukawa Municipal Ishidan Al Wynn Park West Parking Lot, Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4991611,138.9159961,3a,73.2y,62.8h,91.5t/data=!3m7!1e1!3m5!1sCq91NJhBiV5XimwAlX_0bQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5040667008492505%26panoid%3DCq91NJhBiV5XimwAlX_0bQ%26yaw%3D62.79617904784824!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot near the Ikaho Stone Steps is the primary fan base camp for visiting the Ikaho touge, used in the film as an incidental background location. It is the most practical starting point for walking or driving the numbered curve pilgrimage route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_16",
+      "name": "Curve 30",
+      "localName": "カーブ 30",
+      "coordinates": {
+        "lat": 36.48594,
+        "lng": 138.89791
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60e89273-0ed2-4a56-9e65-27cef225e961.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60e89273-0ed2-4a56-9e65-27cef225e961.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4860199,138.8978943,3a,75y,172.71h,95.68t/data=!3m7!1e1!3m5!1sIN57E781R6qFa1cn4g9Iyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.679936294694869%26panoid%3DIN57E781R6qFa1cn4g9Iyg%26yaw%3D172.7063517974231!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 30 is one of the lowest and widest corners on the Ikaho descent and features in Legend 3 during the final phase of the race when both Takumi and Sudo are fully committed at the limit. Its wider radius makes it a spot where the speed differential between the two cars is most visible."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_17",
+      "name": "Curve 29",
+      "localName": "カーブ 29",
+      "coordinates": {
+        "lat": 36.48891,
+        "lng": 138.89678
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bb9d551f-6565-49d2-869a-f37154157869.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bb9d551f-6565-49d2-869a-f37154157869.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4887494,138.8967507,3a,75y,343.57h,99.32t/data=!3m7!1e1!3m5!1sktAFRhll2Sooukxj7wFSjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.318626537895298%26panoid%3DktAFRhll2Sooukxj7wFSjQ%26yaw%3D343.5728740915235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 29 sits just above Curve 30 and is part of the consecutive tight-corner section that forms the climax of the Ikaho battle in Legend 3. Fans visiting this section can feel the steep gradient that makes these corners so demanding at racing speed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_18",
+      "name": "Curve 28",
+      "localName": "カーブ 28",
+      "coordinates": {
+        "lat": 36.48651,
+        "lng": 138.89878
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8831998d-8bae-477b-a46a-ec83704c3e8b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8831998d-8bae-477b-a46a-ec83704c3e8b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4861902,138.8988234,3a,75y,351.44h,102.17t/data=!3m7!1e1!3m5!1s5CS6cys38W2s_kbLO8h-dQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.17385879751673%26panoid%3D5CS6cys38W2s_kbLO8h-dQ%26yaw%3D351.43979215798885!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 28 is depicted in Legend 3 as one of the sequence of corners where Takumi's tire control is tested to the limit against Sudo's all-wheel-drive Evo. The road surface here is a documented filming location for the Legend series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_19",
+      "name": "Curve 11",
+      "localName": "カーブ 11",
+      "coordinates": {
+        "lat": 36.49769,
+        "lng": 138.90502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ec75e8f2-c456-4868-aca7-727f2b7b0e43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ec75e8f2-c456-4868-aca7-727f2b7b0e43.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.497737,138.9048954,3a,75y,102.75h,93.31t/data=!3m7!1e1!3m5!1sUZc_fatG3kICPHjXylXPRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3061615141410527%26panoid%3DUZc_fatG3kICPHjXylXPRA%26yaw%3D102.74796647099862!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 11 on the Ikaho course is in the upper section and appears during the opening acceleration phase of Takumi's run in Legend 3, where the AE86's rear-wheel-drive balance gives Takumi a narrow advantage before the roads tighten further down."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_20",
+      "name": "Curve 12",
+      "localName": "カーブ 12",
+      "coordinates": {
+        "lat": 36.49832,
+        "lng": 138.90454
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4ebf64a9-6fe5-44c7-85f0-f121215a25b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4ebf64a9-6fe5-44c7-85f0-f121215a25b7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.497915,138.9044985,3a,49.6y,355.13h,92.4t/data=!3m7!1e1!3m5!1sHdtJ0b5UrQBsye8Haxgeaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3969557561626686%26panoid%3DHdtJ0b5UrQBsye8Haxgeaw%26yaw%3D355.12756754215565!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 12 is adjacent to Curve 11 near the top of the Ikaho course and is part of the early battle sequence in Legend 3 before the road descends into the more technical lower hairpins. Pilgrims note that this section shows the least barrier protection, matching the raw feel of the film's racing shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_21",
+      "name": "Curve 8",
+      "localName": "カーブ 8",
+      "coordinates": {
+        "lat": 36.50054,
+        "lng": 138.90736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c295a45a-3185-4007-98de-81075a0a6c06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c295a45a-3185-4007-98de-81075a0a6c06.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5006063,138.9072625,3a,75y,155h,95.15t/data=!3m7!1e1!3m5!1sfewY1gs2Nd4nab4y_sah-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.153642693800691%26panoid%3DfewY1gs2Nd4nab4y_sah-w%26yaw%3D154.99756657348738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 8 is in the upper-mid section of the Ikaho touge and is among the numbered corners that appear in Legend 3 during the sustained neck-and-neck phase between Takumi and Sudo. The actual asphalt and guardrail pattern here matches frames from the film closely enough that fans overlay screenshots on location photos."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_22",
+      "name": "Curve 7",
+      "localName": "カーブ 7",
+      "coordinates": {
+        "lat": 36.50113,
+        "lng": 138.90532
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a98b4b4e-2c28-4b31-b919-dd674593880a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a98b4b4e-2c28-4b31-b919-dd674593880a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5013541,138.905676,3a,52.5y,246.82h,95.56t/data=!3m7!1e1!3m5!1sbm0QCtsHezEF1wKzbNtMCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.563940564843605%26panoid%3Dbm0QCtsHezEF1wKzbNtMCw%26yaw%3D246.8234527435356!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 7 sits just above Curve 8 on the Ikaho course and is part of the same battle sequence in Legend 3. The sight line from Curve 7 down toward Curve 8 is one of the angles used in the film to show both cars in the same frame during the race."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_23",
+      "name": "Curve 16",
+      "localName": "カーブ 16",
+      "coordinates": {
+        "lat": 36.49347,
+        "lng": 138.90796
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e85754a-02e9-43d8-9ae5-b3573c0a705a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e85754a-02e9-43d8-9ae5-b3573c0a705a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4934766,138.9077982,3a,90y,82.2h,93.86t/data=!3m7!1e1!3m5!1sUZC4MF8pWPPd2Wyhrx_ZSA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.85736650816456%26panoid%3DUZC4MF8pWPPd2Wyhrx_ZSA%26yaw%3D82.20239877678392!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 16 is a mid-course corner on the Ikaho touge that appears in Legend 3 during the rhythm section of the race, where both drivers settle into a pattern before the decisive final corners. It is part of the documented pilgrimage route that fans complete to trace every numbered curve in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_24",
+      "name": "Curve 14",
+      "localName": "カーブ 14",
+      "coordinates": {
+        "lat": 36.49808,
+        "lng": 138.90411
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5943ee40-fb88-4957-97b9-b48977bbdecb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5943ee40-fb88-4957-97b9-b48977bbdecb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4979709,138.9042781,3a,75y,298.83h,101.1t/data=!3m7!1e1!3m5!1scBGBXssj0NwSlxFZCb8-ww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.10442934826257%26panoid%3DcBGBXssj0NwSlxFZCb8-ww%26yaw%3D298.82517261469087!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 14 is one of the tighter upper-course corners on the Ikaho touge and appears in Legend 3 during the phase where Sudo begins to apply pressure on Takumi's inside line. Pilgrims note the steep cut-bank on one side that gives this corner its distinctive look in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_25",
+      "name": "Curve 6",
+      "localName": "カーブ 6",
+      "coordinates": {
+        "lat": 36.50056,
+        "lng": 138.9103
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98791894-4810-41f2-9aea-61f599c14de2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98791894-4810-41f2-9aea-61f599c14de2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5002515,138.910305,3a,75y,0.44h,101.84t/data=!3m7!1e1!3m5!1sfelUVWRROUfogt5o-otMAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.837293915114685%26panoid%3DfelUVWRROUfogt5o-otMAQ%26yaw%3D0.4358113803823471!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 6 on the Ikaho course appears in Legend 3 as part of the sequence leading into the final decisive section of the race. At this point in the film Takumi's concentration is at its peak, and the corner's tighter radius signals the shift into the climactic final phase."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_26",
+      "name": "Curve 3",
+      "localName": "カーブ 3",
+      "coordinates": {
+        "lat": 36.49776,
+        "lng": 138.91304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd3c8ec6-6175-46a7-a08b-70a6e2a5800b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd3c8ec6-6175-46a7-a08b-70a6e2a5800b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.49788,138.9131276,3a,63.4y,240.8h,96.61t/data=!3m7!1e1!3m5!1shN-vgi9BtElplWfU4_hdxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.607580320376897%26panoid%3DhN-vgi9BtElplWfU4_hdxQ%26yaw%3D240.8004430429647!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 3 is near the top of the numbered section of the Ikaho course and appears early in the race sequence of Legend 3 as Takumi and Sudo establish their positions. Being one of the first major corners after the start at Yaseone Pass, it is where Sudo first makes his move in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOypygIRjHmAR9ukCAeSfY7M",
+      "name": "Ryokan Fukuzen",
+      "localName": "伊香保温泉 大衆旅館ふくぜん",
+      "coordinates": {
+        "lat": 36.5002703,
+        "lng": 138.925471
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b0875085-3127-4e6f-bcf1-d436f62e5cd8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b0875085-3127-4e6f-bcf1-d436f62e5cd8.webp"
+        },
+        {
+          "url": "media/cached-image_780758aed65dc536d9331d47c5c8a9010eb10327d9df52ba1d6eb9e5730a53d1.jpg"
+        },
+        {
+          "url": "media/cached-image_1be5bb21df16ca0fa229b16d4dc47c336d856a23311d5366d567879806bb3d09.jpg"
+        },
+        {
+          "url": "media/cached-image_5e1f635464f3a9d64611a841d2a5ca74a95c3861b3cee7f7d2db2be83b219660.jpg"
+        },
+        {
+          "url": "media/cached-image_cf393eec79a1e9f3b9c2ffe9ef8eca479d4cb29f8ee94875ac01894dee690adb.jpg"
+        },
+        {
+          "url": "media/cached-image_8ecb67d00994e68c63d01ddec18a08139dffc940c2d210ba91ad7389c38a5dba.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ryokan Fukuzen, 396-1 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5000482,138.9248851,3a,48.7y,54.6h,92.72t/data=!3m7!1e1!3m5!1s2qBYnPEg-y8eSW9-Ii7nAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7217388513511764%26panoid%3D2qBYnPEg-y8eSW9-Ii7nAg%26yaw%3D54.596746960674764!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Ryokan Fukuzen is a traditional inn on the Ikaho stone steps street that appears in background shots establishing the onsen town atmosphere in Legend 3. Its exterior is recognizable in the slow panning shots of the resort that bookend the racing sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXSbMJsR1HmARbgZNy4et-Sc",
+      "name": "FEELGOOD CANOE TOURS Lake Haruna",
+      "localName": "FEELGOOD CANOE TOURS 四万",
+      "coordinates": {
+        "lat": 36.6201236,
+        "lng": 138.7951455
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f98dbbc0-2892-425d-9c79-f7508187433a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f98dbbc0-2892-425d-9c79-f7508187433a.webp"
+        },
+        {
+          "url": "media/cached-image_42d1f6a03c5ee3fada29a002b56b16b342ef317542bd439cf3452d6e37ec662a.jpg"
+        }
+      ],
+      "type": "Canoe & kayak tour agency",
+      "categories": [
+        "Canoe & kayak tour agency"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒377-0601 Gunma, Agatsuma District, Nakanojo, Shima, 15-1 FEELGOOD CANOE TOURS 四万",
+      "city": "Nakanojo",
+      "region": "Agatsuma District, Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4711835,138.8731908,3a,43y,323.14h,99.47t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDExLrRJA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1m3Sy0Jh1R9XFKlPf5fmGuY5oJxhoKoT0L9Wwd9RM3-9Y0IyEFcV1_AsGfQZj7Xnw83kxuhvdv0dPunI10Qn4DJRgee0vq9soq5xrOqL8-IccNQ-W_wfAJaMKNPnMntYP89t4%3Dw900-h600-k-no-pi-9.470912708707871-ya293.1407969565845-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC7TVy3hjHmARRoVGHeHpOWo",
+      "name": "Gunma Bank Ikaho",
+      "localName": "群馬銀行 伊香保出張所",
+      "coordinates": {
+        "lat": 36.4998542,
+        "lng": 138.9188732
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab98dacc-990f-454c-9a3f-7a5bfb402064.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab98dacc-990f-454c-9a3f-7a5bfb402064.webp"
+        },
+        {
+          "url": "media/cached-image_b608d8cc280f1752d85b4f6fb754a58c18732f9d318062491dfb7aba21cc19ea.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gunma Bank Ikaho, 116-13 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4996415,138.9195231,3a,75y,273.34h,97.94t/data=!3m7!1e1!3m5!1sPI9e_ajHikG7RPHtHxQIjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.944733746185818%26panoid%3DPI9e_ajHikG7RPHtHxQIjg%26yaw%3D273.3439989926135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Gunma Bank Ikaho branch sits on the Ikaho resort street and is visible in the background of townscape shots in Legend 3 that establish the quiet normalcy of Ikaho before the night races begin. Its distinctive signage appears in at least one pan shot along the main street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_30",
+      "name": "Curve 10",
+      "localName": "カーブ 10",
+      "coordinates": {
+        "lat": 36.49964,
+        "lng": 138.90593
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8993949-ec89-4855-82aa-e47ab71411dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8993949-ec89-4855-82aa-e47ab71411dc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4992199,138.9058842,3a,33y,4.94h,96.96t/data=!3m7!1e1!3m5!1sAUi45eMu-wEPy3gJ0j-DYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.963617516361694%26panoid%3DAUi45eMu-wEPy3gJ0j-DYg%26yaw%3D4.937441981186453!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 10 is in the mid-upper section of the Ikaho course and features in Legend 3 during the intensifying phase of the battle where Sudo begins to push harder. Fans visiting this corner note that the road width narrows here, matching the claustrophobic feel of the race at this point in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-3_31",
+      "name": "Curve 23",
+      "localName": "カーブ 23",
+      "coordinates": {
+        "lat": 36.49254,
+        "lng": 138.90582
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8e2df90-c0b4-46b5-904c-a3c62bd8b6d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8e2df90-c0b4-46b5-904c-a3c62bd8b6d8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925373,138.9058269,3a,90y,185.55h,97.28t/data=!3m7!1e1!3m5!1s18NOXNRie8B0O4RK8rJE7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.28400426917915%26panoid%3D18NOXNRie8B0O4RK8rJE7w%26yaw%3D185.54976344307047!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 23 is near the Takane Observation Deck area of the Ikaho course and appears in Legend 3 as one of the corners overlooked by the hillside. It is a tighter bend where Takumi's weight transfer skill is highlighted in the animation."
+    }
+  ]
+}

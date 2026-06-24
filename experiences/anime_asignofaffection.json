@@ -1,0 +1,1224 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "A Sign of Affection",
+  "slug": "a-sign-of-affection",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_43f7b53d94c2aa1207acd6cdf4e66e944ab1c60de48257a5ddbaf3d47da5fb47.webp",
+  "image": "media/cached-image_43f7b53d94c2aa1207acd6cdf4e66e944ab1c60de48257a5ddbaf3d47da5fb47.webp",
+  "banner": null,
+  "primaryLocation": "Saitama, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.6581051515625,
+    "lng": 138.86028795625
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "A Sign of Affection"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_0",
+      "name": "Grand Blue",
+      "localName": "グランブルー",
+      "coordinates": {
+        "lat": 35.13545,
+        "lng": 136.87024
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebe48855-b630-419d-a109-1bda468949af.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebe48855-b630-419d-a109-1bda468949af.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/scsVy5CpWfhWXMbW8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "In episode 11, Itsuomi takes Yuki to Grand Blue, a jazz bar in Nagoya, marking a tender moment as he introduces her to his world outside Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi5sHEctwA2ARpP9nLuNuHZg",
+      "name": "Rockin' Robin Osu",
+      "localName": "ロッキンロビン 大須店",
+      "coordinates": {
+        "lat": 35.1578844,
+        "lng": 136.9045071
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a59acc7-9d69-44c2-9d60-911cefd99d86.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a59acc7-9d69-44c2-9d60-911cefd99d86.webp"
+        },
+        {
+          "url": "media/cached-image_edb4fff02148d60fcdf7a6aaf02496ca9e048e284e54babadc3dddd94a7fc883.webp"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Rockin' Robin Osu, 小田ビル 1F 3 Chome-44-20 Osu, Naka Ward, Nagoya, Aichi 460-0011, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/gzWbFBeXa73xrq3v5",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Rockin' Robin in Osu, Nagoya appears in the opening credits, representing Itsuomi's Nagoya roots and the wider world he inhabits beyond Yuki's quiet Saitama neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJew3LOwDrGGAR6yaVUYgPwPc",
+      "name": "Town Housing Urawa",
+      "localName": "URAWA THE TOWER",
+      "coordinates": {
+        "lat": 35.8576225,
+        "lng": 139.6564697
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4ab1963d-5530-41ca-b1e7-2eee14bf0c37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4ab1963d-5530-41ca-b1e7-2eee14bf0c37.webp"
+        },
+        {
+          "url": "media/cached-image_6625f5eb4eb929d54369250eb2e8d0651e36b960299a284210a5dbcdaf0a39e5.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0063 Saitama, Urawa Ward, Takasago, 1 Chome−10−8 URAWA THE TOWER",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wLdh6a8SFWVEi8bD9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The URAWA THE TOWER condominium is modeled as Yuki's apartment building, the home she returns to throughout the series as her relationship with Itsuomi deepens.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMROBbIHqGGARFkymtZquvEE",
+      "name": "Caffe Veloce Urawa Sakurasou-dori",
+      "localName": "カフェ・ベローチェ 浦和さくら草通り店",
+      "coordinates": {
+        "lat": 35.8579818,
+        "lng": 139.6542811
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0561c7b2-eb50-41a7-9324-e58a94e3ce1d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0561c7b2-eb50-41a7-9324-e58a94e3ce1d.webp"
+        },
+        {
+          "url": "media/cached-image_708b3444526e056d85e28d4295828001ef87692c92dbd560bbca7d3ab71d4967.jpg"
+        },
+        {
+          "url": "media/cached-image_c2f7e5848b99c87b5d09c89946c05fefa484e20f50c9791aaa9ac9270ebb70b0.jpg"
+        },
+        {
+          "url": "media/cached-image_ba549b792a001b0213d659312924543404100442ce71c030d03ca8aa0f30a4f8.jpg"
+        },
+        {
+          "url": "media/cached-image_eb803060fa18fb585ab98dac55ed4f5f0ff37c575402316b279fd9814c95bf4d.jpg"
+        },
+        {
+          "url": "media/cached-image_3c4417d2279ec9ed8ba9efcf8ee3a5733ceafa4318679a4adb8b9c98ee4121b8.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0063 Saitama, Urawa Ward, Takasago, 2 Chome−6−13 Caffe Veloce, ヨシナガビル 1F",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/FUyVbj8VV9nN8RLu8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "In episode 4, Yuki and her friend Rin meet at this Caffe Veloce near Urawa Station, a recurring neighborhood spot that grounds the story in everyday Saitama life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_4",
+      "name": "Oyaguchi Hikawa Shrine",
+      "localName": "大谷口 氷川神社",
+      "coordinates": {
+        "lat": 35.85763,
+        "lng": 139.69304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8cca9361-2740-4c05-9b22-4c6279739117.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8cca9361-2740-4c05-9b22-4c6279739117.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/LYYEXGdQFVHYY2qC7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "In episode 3, Yuki visits Oyaguchi Hikawa Shrine, a quiet neighborhood Shinto shrine that appears during a reflective walk as she processes her growing feelings for Itsuomi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq7x8s4byGGARr2H5WS5T8Ac",
+      "name": "My Basket Koenji Yamatorikkyo Shop",
+      "localName": "まいばすけっと 高円寺大和陸橋店",
+      "coordinates": {
+        "lat": 35.710013499999995,
+        "lng": 139.6544956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a697c59b-1211-49a5-93f1-0752ecbe4e46.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a697c59b-1211-49a5-93f1-0752ecbe4e46.webp"
+        },
+        {
+          "url": "media/cached-image_bd2b1e4f2d266cc664d9e0add6691b6d1e40ecd834357b0a17a64cdd912b3551.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "My Basket Koenji Yamatorikkyo Shop, グラーサ中野アルティスト 1 Chome-40-5 Nogata, Nakano City, Tokyo 165-0027, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jXsyjFpv2snBGo1x6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In episode 2, the My Basket convenience store near Koenji is shown as part of the neighborhood where Itsuomi and his roommate Rin live, establishing the Koenji area as their home turf."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkeYPub_zGGARUhL6Xhu8Ybc",
+      "name": "Regalis Koenji",
+      "localName": "NAMASTE INTERNATIONAL HALAL FOODS",
+      "coordinates": {
+        "lat": 35.7056724,
+        "lng": 139.64846
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c0d8b53-56dc-4c43-b0ad-cd217a620e03.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c0d8b53-56dc-4c43-b0ad-cd217a620e03.webp"
+        },
+        {
+          "url": "media/cached-image_86348abe0c67484da0e3c4e7fceb42ec292250d8d0a2d6b65ea0bffbed487b98.jpg"
+        }
+      ],
+      "type": "Asian grocery store",
+      "categories": [
+        "Asian grocery store"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Namaste International Halal Food, 3 Chome-2-17 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kfWXQVRPzTwL52HT8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The building near Koenji appears in episode 2 as part of Itsuomi and Rin's neighborhood, capturing the multicultural, lively atmosphere of Tokyo's Koenji district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJxxkTIjBGGARDxMhNBEiuc0",
+      "name": "Ecolo Park Minamiyonodai 1 Parking Lot",
+      "localName": "エコロパーク 南与野第1駐車場",
+      "coordinates": {
+        "lat": 35.8655241,
+        "lng": 139.6322719
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a2848c35-b78b-4f09-9951-06bea89b8809.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a2848c35-b78b-4f09-9951-06bea89b8809.webp"
+        },
+        {
+          "url": "media/cached-image_e680a4129901b67bf2f63e6785628e76fd5f9272c9b2d6a2f99a63e65436dbc6.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ecolo Park Minamiyonodai 1 Parking Lot, 1 Chome-507-1 Suzuya, Chuo Ward, Saitama, 338-0013, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GTRu57wVWgLiHjRVA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In episode 2, this parking lot near Minami-Yono appears in a scene connecting Yuki's daily commute route, part of the familiar suburban Saitama backdrop of her home area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0wGnm-u8BGARfonM4OJJvpo",
+      "name": "Suzuya Higashi Park",
+      "localName": "岡崎市東公園",
+      "coordinates": {
+        "lat": 34.9542299,
+        "lng": 137.19425239999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/629048c1-46f9-42e6-b116-3b90656e090f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/629048c1-46f9-42e6-b116-3b90656e090f.webp"
+        },
+        {
+          "url": "media/cached-image_ef36e042d25a1896b46c69c6a8ec5e83efe15be9b052785be204032edf4e222f.jpg"
+        },
+        {
+          "url": "media/cached-image_ee82237fd2ad1d00090a17534e129e2e683b11aaf7d19b50fff3a1640d2a017d.jpg"
+        },
+        {
+          "url": "media/cached-image_7937f572286ff89295590fec4a1ca4d951690e25e16e0359f47c4b9f6a3ea244.jpg"
+        },
+        {
+          "url": "media/cached-image_60bfd5092fa09df30ebc0cb6c4d9928b49dc886131b7bcd2a94f7b973bd93fb7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1951,
+      "priceLevel": null,
+      "address": "Okazaki City Higashi Park, Oyamada-1番地 Kakemachi, Okazaki, Aichi 444-0011, Japan",
+      "city": "Okazaki",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qznpRnZEtADjUHt26",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Okazaki City Higashi Park appears in episode 2, associated with an outdoor scene during the story's wider Japan settings, a large park with varied landscape used as backdrop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_9",
+      "name": "Monami",
+      "localName": "モナミ",
+      "coordinates": {
+        "lat": 35.02983,
+        "lng": 135.75925
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a6a6744-eb86-4914-b619-9c53df59b0b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a6a6744-eb86-4914-b619-9c53df59b0b3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0298016,135.7592552,3a,90y,351.46h,83.65t/data=!3m7!1e1!3m5!1sjPzy4WF66zU6I_ILle8bIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.349999999999994%26panoid%3DjPzy4WF66zU6I_ILle8bIg%26yaw%3D351.46!7i16384!8i8192?coh=277535&entry=tt",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Monami is a Kyoto cafe area restaurant appearing in episode 1, associated with the atmosphere Itsuomi describes when talking about his travels and language studies abroad."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZZx2VcDrGGARKrs_XVg99MA",
+      "name": "Matsumoto Kiyoshi matsukiyoLAB Urawa Takasago",
+      "localName": "薬 マツモトキヨシ matsukiyoLAB 浦和高砂店",
+      "coordinates": {
+        "lat": 35.8580207,
+        "lng": 139.6535988
+      },
+      "image": "https://cdn.animepilgrimage.com/places/560daadb-ac4a-4227-84b3-8c81c8cc9e1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/560daadb-ac4a-4227-84b3-8c81c8cc9e1c.webp"
+        },
+        {
+          "url": "media/cached-image_1455deb8f908469be188897c567c8d36bac6e777abc2fad9c1e1bf80f8a16c4f.jpg"
+        },
+        {
+          "url": "media/cached-image_1ab697e6c59a696c6703651e0c906023018256898922f59d037b495e069372a8.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0063 Saitama, Urawa Ward, Takasago, 2 Chome−9−1 薬 マツモトキヨシ matsukiyoLAB 浦和高砂店",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/k9nW3EVuq1rjE8Ns8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This drugstore near Urawa Station appears in episode 1, part of the familiar everyday streetscape Yuki passes through in her Takasago neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgXddfTSVGGARgdc1zQPOvLs",
+      "name": "Myobana Park",
+      "localName": "明花公園",
+      "coordinates": {
+        "lat": 35.8544658,
+        "lng": 139.6934796
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e52fbedd-0d68-4452-bd5a-6c9761829fe8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e52fbedd-0d68-4452-bd5a-6c9761829fe8.webp"
+        },
+        {
+          "url": "media/cached-image_501f415c6c4b4351158ba74b14ff47ebd27bb422d03ce531bf42a5fae820062c.jpg"
+        },
+        {
+          "url": "media/cached-image_2fd4ea686a54042ca550725607d7fbf7641010ebcc5055a3a59a3abb74ffea5c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Myobana Park, 明花地内-5732 Oyaguchi, Minami Ward, Saitama, 336-0042, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bpPYjnYyW2j8zFhj9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Myobana Park appears in episode 1 near Yuki's home in the Oyaguchi area of Saitama, one of the quiet local parks that anchor her daily neighborhood life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJR0ZtF4HqGGARjY-6az-VoUI",
+      "name": "Tully's Coffee Urawa Sakurasou-dori",
+      "localName": "タリーズコーヒー 浦和さくら草通り店",
+      "coordinates": {
+        "lat": 35.8577856,
+        "lng": 139.6536615
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5fb74753-d5ae-4843-83c4-5eab8bec8a5f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5fb74753-d5ae-4843-83c4-5eab8bec8a5f.webp"
+        },
+        {
+          "url": "media/cached-image_736f65a8391d165f585a623b7396a350cbec40f0e306f606b21a39f0df775baa.jpg"
+        },
+        {
+          "url": "media/cached-image_d15aae90b87d8c06576f0b65cb1a62a50cd164acae6a5bd5f4bc50b3a8dc0fe4.jpg"
+        },
+        {
+          "url": "media/cached-image_aecefe5131f1e57eeca0e0694ec17601d947bcaa9f25a5094275c5d81317c6ed.jpg"
+        },
+        {
+          "url": "media/cached-image_ba54611efbbf44a898cb76e179a350b42be05ba0c95b435f2ef3ec4ab354d9b4.jpg"
+        },
+        {
+          "url": "media/cached-image_d8496ad8ee5a1d5014fafc1c796a40de95802168d0b24b69912ad382f8bbd9a7.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tully's Coffee, 2 Chome-5-11 Takasago, Urawa Ward, Saitama, 330-0063, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZkJCV9aAaYnh5rPNA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tully's Coffee on Sakurasou-dori appears in episode 1 as a neighborhood landmark near Yuki's home in Urawa, part of the Takasago streetscape fans replicate on pilgrimage.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_13",
+      "name": "Urawa Eki Higashiguchi (Bus)",
+      "localName": "浦和駅東口（バス）",
+      "coordinates": {
+        "lat": 35.85794,
+        "lng": 139.65893
+      },
+      "image": "https://cdn.animepilgrimage.com/places/448a472f-b587-4b93-80f3-773c2cc3e839.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/448a472f-b587-4b93-80f3-773c2cc3e839.webp"
+        },
+        {
+          "url": "media/cached-image_55d53898f0c03e4a02b4711dfa30eef6fc97a334d41235883b426ea0ae370f0c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/T9MxhT82FJyXydwT7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Urawa Station East Exit bus stop appears in episode 11, a transit landmark Yuki passes during her neighborhood commute in the Urawa area of Saitama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_14",
+      "name": "Rockin' Robin Osu",
+      "localName": "ロッキンロビン 大須店",
+      "coordinates": {
+        "lat": 35.15789,
+        "lng": 136.90452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e5b891bd-9f9e-419b-8897-12662f0439d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e5b891bd-9f9e-419b-8897-12662f0439d1.webp"
+        },
+        {
+          "url": "media/cached-image_d634f85a4a0e13bc327aeaa92fe75dc5934bfd4c29dc52d62cda331e7b35ea43.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ePincNxvVm5sSZjX7",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Rockin' Robin in Osu, Nagoya appears in the opening credits, representing Itsuomi's Nagoya roots and the wider world he inhabits beyond Yuki's quiet Saitama neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoXyV9nEIAWARSKZ-7qmWidU",
+      "name": "Doshisha University",
+      "localName": "同志社大学",
+      "coordinates": {
+        "lat": 35.0300916,
+        "lng": 135.7606883
+      },
+      "image": "https://cdn.animepilgrimage.com/places/988c969d-96ae-4ac3-9905-b24990a67c19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/988c969d-96ae-4ac3-9905-b24990a67c19.webp"
+        },
+        {
+          "url": "media/cached-image_6d5cb653d19c586e81d718dbfce18157681df4a8cffdad1f6427fecbda4d396f.jpg"
+        }
+      ],
+      "type": "University",
+      "categories": [
+        "University"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Doshisha University, Kamigyo Ward, Kyoto, 602-0898, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UzzGEwYmYkb7MPGW9",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Doshisha University in Kyoto's Kamigyo Ward appears in the opening credits, representing the prestigious university setting tied to Itsuomi's multilingual, internationally-minded social circle.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJecQdtsHBGGAR21wh9S-MeYQ",
+      "name": "Minami-Yono Station",
+      "localName": "南与野駅",
+      "coordinates": {
+        "lat": 35.867494199999996,
+        "lng": 139.6311953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8efbdef9-3da2-4946-ab52-7ee8239cf906.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8efbdef9-3da2-4946-ab52-7ee8239cf906.webp"
+        },
+        {
+          "url": "media/cached-image_cf6841e69109dcc9a18ae6950d41d2dbe4f33dd6a4c8bf9c1178a83dfc3675f4.jpg"
+        },
+        {
+          "url": "media/cached-image_b87669045b671c1fb1e9a304395ce3f4f7d8b6c28c2ab9b4c8a20c668f163c20.jpg"
+        },
+        {
+          "url": "media/cached-image_8eaf5879026d37684f7a6a92a6187a1b3831ff7421bc9a8845585cf28e27a0ca.jpg"
+        },
+        {
+          "url": "media/cached-image_d2b11ba7b1eb3c2e2143cecf8a4af91dcdf2927fe1a27ead8c5a7e54b591fc3c.jpg"
+        },
+        {
+          "url": "media/cached-image_7dabb61b8a98015ca1606de8a46787fdd9ae0f78ae8403ee0fc220634983f6de.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.3,
+      "reviewCount": 65,
+      "priceLevel": null,
+      "address": "Minami-Yono Station, 2-chōme Suzuya, Chuo Ward, Saitama, 338-0013, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/c1uKdChgYwvDJvt1A",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Minami-Yono Station on the Saikyo Line appears in the opening credits as a key commuter stop near Yuki's home, representing her everyday journey and the train world where she first crosses paths with Itsuomi.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_17",
+      "name": "DoNA",
+      "localName": "イタリアンダイニングDONA 武蔵浦和店",
+      "coordinates": {
+        "lat": 35.84545,
+        "lng": 139.64713
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1acb593a-6219-451f-a3b7-b12134007ba5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1acb593a-6219-451f-a3b7-b12134007ba5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/3GvPnVn8ySgM6p3w6",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "DoNA Italian dining in Musashi-Urawa appears in episode 9 as a restaurant where characters share a meal, one of the casual Saitama dining spots woven into the slice-of-life fabric of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo4SWvWPqGGARIjo2BCgTi2A",
+      "name": "Musashi Urawa Maruetsu",
+      "localName": "マルエツ 武蔵浦和店",
+      "coordinates": {
+        "lat": 35.8455497,
+        "lng": 139.6467229
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9f06ab8d-a794-4f9a-8a94-88d7a1acea2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9f06ab8d-a794-4f9a-8a94-88d7a1acea2f.webp"
+        },
+        {
+          "url": "media/cached-image_18c3fba5383208d5973bf3a3610e12460f9e6001a761001d513830523fc71bb5.jpg"
+        },
+        {
+          "url": "media/cached-image_7301d49a593f34bdc6ab2b40917e94174501202b1a82fe0a0967b74108bfac8a.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Musahi Urawa Maruetsu, 7 Chome-12-1 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4tnViEsRsKF1GgiT9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Maruetsu supermarket in Musashi-Urawa appears in episode 9 as a mundane but warm domestic scene, showing the everyday Saitama life shared by the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu3NMYYPqGGARiAIajCoJi0k",
+      "name": "Nojima Urawa PARCO",
+      "localName": "ノジマ 浦和パルコ店",
+      "coordinates": {
+        "lat": 35.858829,
+        "lng": 139.65928119999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b444eaae-bef7-4969-8094-b7c93f2f2437.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b444eaae-bef7-4969-8094-b7c93f2f2437.webp"
+        },
+        {
+          "url": "media/cached-image_238ff21e8f8fbfa3047b380521a9de2beedb587b549a3f44db2496860b0b4332.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nojima, 浦和パルコ 2階, 11-1 Higashitakasagocho, Urawa Ward, Saitama, 330-0055, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7UtZS1AQHQAk6ubm7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Nojima electronics inside Urawa PARCO appears in episode 9 during a shopping errand, grounding the story in the real commercial landmarks of central Urawa."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_20",
+      "name": "Cake Shop Kashka Shu Saitama",
+      "localName": "ケーキ屋 カシュカシュ 埼玉",
+      "coordinates": {
+        "lat": 35.86844,
+        "lng": 139.63218
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37bfb2dd-f0c8-465f-826d-3a7d526a7338.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37bfb2dd-f0c8-465f-826d-3a7d526a7338.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/NpYBzNLEnHC6Lzw4A",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This Saitama cake shop appears in episode 6, associated with a sweet moment between characters as the story's romantic arc quietly builds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2yIeIJfqGGARm_cC4uE2j6Y",
+      "name": "Maeji 1-chome Daini Park",
+      "localName": "前地1丁目第二公園",
+      "coordinates": {
+        "lat": 35.854766,
+        "lng": 139.6668908
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da6cddcb-75ca-4b61-9e58-9edf815d47d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da6cddcb-75ca-4b61-9e58-9edf815d47d0.webp"
+        },
+        {
+          "url": "media/cached-image_eec12c0984c4bffa2821be5daa9b6bc12a30c6af3471a50dfd0b1126a5e99189.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maeji 1-chome Daini Park, 1 Chome-16-8 Maeji, Urawa Ward, Saitama, 330-0053, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Cpy5E4nVJFUqitG27",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Maeji 1-chome Daini Park in Urawa appears in episode 6, a small neighborhood park used as a quiet backdrop for an intimate conversation scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgw6xzw-aGGARw-3BbDEjn7A",
+      "name": "Costco Wholesale Shinmisato Warehouse",
+      "localName": "コストコホールセール 新三郷倉庫店",
+      "coordinates": {
+        "lat": 35.8611053,
+        "lng": 139.8641413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/baba476b-9127-4e99-9de5-1db1ce0233d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/baba476b-9127-4e99-9de5-1db1ce0233d2.webp"
+        },
+        {
+          "url": "media/cached-image_f6e35b07663e1f7662b25c55d092b1a66019e829cc579e0d874bee95c0a3f55e.jpg"
+        },
+        {
+          "url": "media/cached-image_2e7597a4bc508e15a6f361636fa5d4c89ee039c49cf7bd595ee51f5f3a4baa24.jpg"
+        },
+        {
+          "url": "media/cached-image_6c6c836b79f78c344b6ad15c361181e0eed67c802e2a5d5bcbdb594fc42c73b6.jpg"
+        },
+        {
+          "url": "media/cached-image_fe7022b289248852a9253aaa5a9a6eb0ed0cf80228f3d6047221b03b6c59ab4a.jpg"
+        }
+      ],
+      "type": "Warehouse club",
+      "categories": [
+        "Warehouse club"
+      ],
+      "rating": 3.9,
+      "reviewCount": 869,
+      "priceLevel": null,
+      "address": "Costco Wholesale Shinmisato Warehouse, 3 Chome-1-2 Shinmisatorara City, Misato, Saitama 341-0009, Japan",
+      "city": "Misato",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GBJjbvE6DaC7anbk9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "In episode 4, the Costco in Shin-Misato features in a group shopping outing, a playfully domestic scene that shows Yuki and Itsuomi navigating everyday life together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm7Tl7cvBGGARp3aJB0-6kMI",
+      "name": "Kita-Urawa Station",
+      "localName": "北浦和駅",
+      "coordinates": {
+        "lat": 35.8721715,
+        "lng": 139.6462228
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9467707-8d66-492a-9dc1-de22c37b3ce5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9467707-8d66-492a-9dc1-de22c37b3ce5.webp"
+        },
+        {
+          "url": "media/cached-image_6c4632befb3b47cdd16bf55c940385d8885c1106887a9e7777853c7e26eecccb.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kita-Urawa Station, 3-chōme-3 Kitaurawa, Urawa Ward, Saitama, 330-0074, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5aksFUBuRsn8a1yo7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Kita-Urawa Station appears in episode 4 during train scenes connecting Yuki's neighborhood movements, part of the JR Keihin-Tohoku Line corridor central to her daily Saitama life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrYPya4HqGGARjkVeo_2uA7w",
+      "name": "Edo-mae Gatten Sushi Urawa West Exit",
+      "localName": "江戸前がってん寿司 浦和西口店",
+      "coordinates": {
+        "lat": 35.8579436,
+        "lng": 139.6543467
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3cccdba2-2c2a-4b98-a031-1dae00c6bfaa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3cccdba2-2c2a-4b98-a031-1dae00c6bfaa.webp"
+        },
+        {
+          "url": "media/cached-image_d94930174eec1ec66c87150f4569795cf31f4579bcedf51bdbbacfbc722e5414.jpg"
+        }
+      ],
+      "type": "Sushi restaurant",
+      "categories": [
+        "Sushi restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0063 Saitama, Urawa Ward, Takasago, 2 Chome−6−13 江戸前がってん寿司 浦和西口店",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kbo9LhqqbtRezeRC7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This sushi restaurant near Urawa West Exit appears in episode 4 as part of the Takasago street block Yuki and friends frequent, adding texture to the series' hyper-local Urawa setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_25",
+      "name": "On Hair",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.14829,
+        "lng": 136.83355
+      },
+      "image": "https://cdn.animepilgrimage.com/places/454580be-93dc-4be6-82fb-0e0cc9b1387d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/454580be-93dc-4be6-82fb-0e0cc9b1387d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/YzYeu3sPNEomwPnd9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "On Hair is a hair salon appearing in episode 4, associated with a scene where a character visits for a cut, a brief slice-of-life beat in the Nagoya area portion of the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0-3eEKkkH2ARQ8C5Jl8PGmM",
+      "name": "Ashikaga Flower Park",
+      "localName": "あしかがフラワーパーク",
+      "coordinates": {
+        "lat": 36.3141561,
+        "lng": 139.5200222
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9b43ecb-a879-4e20-a819-dba2991fcbc7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9b43ecb-a879-4e20-a819-dba2991fcbc7.webp"
+        },
+        {
+          "url": "media/cached-image_0f0918e80cea4092af3a7db021c1c18c9131dce25813b377e329bd5e0845198d.jpg"
+        },
+        {
+          "url": "media/cached-image_443bbc8f9d70b4d6b33e4ff23813912c0af37524e64e5f1968300d5c5a3cfcfa.jpg"
+        },
+        {
+          "url": "media/cached-image_5a4800b2385acc71d59e9c96f50c8b42b4bd64a5fc6f8aaf22a88bdc1c02aaeb.jpg"
+        },
+        {
+          "url": "media/cached-image_a0d49bf80c0b425803f39f1dd5c10368f6e29d3f3ac8a2d32839e94b62b7af42.jpg"
+        },
+        {
+          "url": "media/cached-image_4b5b5c00216498a7920dc2c597ee0a7931013530b01b1200c43a4c8a5a0c9abf.jpg"
+        }
+      ],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": 177,
+      "priceLevel": null,
+      "address": "Ashikaga Flower Park, 607 Hasamacho, Ashikaga, Tochigi 329-4216, Japan",
+      "city": "Ashikaga",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Y2uhiT7qhkhbFj5h8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Ashikaga Flower Park's iconic wisteria tunnels appear in episode 12 as the breathtaking setting for Yuki and Itsuomi's climactic date, the most visually stunning and emotionally charged pilgrimage destination from the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf0U9bUeVGGAR-JbGLYqX-n4",
+      "name": "Higashi-Urawa Station",
+      "localName": "東浦和駅",
+      "coordinates": {
+        "lat": 35.8641332,
+        "lng": 139.7046531
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f309af41-dc31-482b-9027-5f3c4879ad93.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f309af41-dc31-482b-9027-5f3c4879ad93.webp"
+        },
+        {
+          "url": "media/cached-image_ba4760313ba6901fdc5f7f4697d0c03e166c9ab6c05d1cfd129f40327f89361f.jpg"
+        },
+        {
+          "url": "media/cached-image_58ac572e8644be76f66b886f43a67ca110a9ad03875140bd027edd0e31f6176b.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Higashi-Urawa Station, 1-chōme Higashiurawa, Midori Ward, Saitama, 336-0926, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/59XenXwW4Nernbz28",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Higashi-Urawa Station appears in episode 12 as part of the travel route sequence, a quiet suburban station on the Musashino Line used as a transitional scene location."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1-N2mYTqGGAR2gM2a_YKc90",
+      "name": "Urawa Eki Higashiguchi (Bus)",
+      "localName": "浦和駅東口（バス）",
+      "coordinates": {
+        "lat": 35.866670250000006,
+        "lng": 139.6434857
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3b3fe447-d059-4606-b683-543f64b9179f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3b3fe447-d059-4606-b683-543f64b9179f.webp"
+        },
+        {
+          "url": "media/cached-image_e71bdca9209e58ecc05477f73465997a444585012a30bee69d2fcd7b8caef36d.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "0x6018ea849976e3d7:0xdd730af66b3603da",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7MDUs9mQbWVbHjzr9",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Urawa Station East Exit bus stop appears in episode 11, a transit landmark Yuki passes during her neighborhood commute in the Urawa area of Saitama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh1DIhWjnAGARTPKIlOkMmY8",
+      "name": "Tokiwa Building",
+      "localName": "Tokiwa.Bld",
+      "coordinates": {
+        "lat": 34.659032499999995,
+        "lng": 135.503577
+      },
+      "image": "https://cdn.animepilgrimage.com/places/492030c5-a863-4356-b293-b1363cead065.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/492030c5-a863-4356-b293-b1363cead065.webp"
+        }
+      ],
+      "type": "Building",
+      "categories": [
+        "Building"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokiwa.Bld, 1-chōme-7 Nipponbashinishi, Naniwa Ward, Osaka, 556-0004, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2fiYLQyTGN36467n8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Tokiwa Building in Osaka's Namba-nishi area appears in episode 11 during Itsuomi's Osaka segment, a real street-level building used as background scenery for the city exploration scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBU_oTZXBGGARTnJyBjcPSJo",
+      "name": "Belc Saitama Minami-Yono",
+      "localName": "ベルク さいたま南与野店",
+      "coordinates": {
+        "lat": 35.869121199999995,
+        "lng": 139.6286896
+      },
+      "image": "https://cdn.animepilgrimage.com/places/48aedd22-ede3-4f12-a784-60a415b457f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/48aedd22-ede3-4f12-a784-60a415b457f2.webp"
+        },
+        {
+          "url": "media/cached-image_fd4edbc8b9966973021a09bb3248c60c791c5c3ce5c0b998517a362e4da94dca.jpg"
+        },
+        {
+          "url": "media/cached-image_0134296d827ec86926d79d3fa79fb668944df18fdc4f5c32b86e274d17956691.jpg"
+        },
+        {
+          "url": "media/cached-image_2c674e97c0205bcf810ee1872b35f1a6f12d6e76d588685899e26f390b761272.jpg"
+        },
+        {
+          "url": "media/cached-image_ae0dfe05d0e11f0e8bd81ff80323985f2d42fbe2c92c2100593ab4a83f74d331.jpg"
+        },
+        {
+          "url": "media/cached-image_d482a4768e4f8e2808f9fea28d17df1d218c13b8870f811d89e41d1e09f69180.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.8,
+      "reviewCount": 72,
+      "priceLevel": null,
+      "address": "Belc Saitama Minami-Yono, 2 Chome-631 Suzuya, Chuo Ward, Saitama, 338-0013, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/y4P8639iwQXVoaQVA",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Belc supermarket near Minami-Yono appears in episode 11 as a neighborhood grocery store, part of the familiar Saitama domestic backdrop the series returns to throughout."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-sign-of-affection_31",
+      "name": "Morgan's Standing Bar",
+      "localName": "立ち呑み モルガン",
+      "coordinates": {
+        "lat": 35.85818,
+        "lng": 139.65498
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b403be11-dec1-42c4-925f-b0e186b819a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b403be11-dec1-42c4-925f-b0e186b819a2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/qjTshNpgH6JFJsoLA",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Morgan's Standing Bar near Urawa Station appears in episode 11, a local izakaya-style spot adding to the slice-of-life nighttime Urawa streetscape in the series."
+    }
+  ]
+}

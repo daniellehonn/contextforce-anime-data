@@ -1,0 +1,699 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Barakamon",
+  "slug": "barakamon",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_67bb00d5b11607cd412b76a882956fdbcfa8c9dbbed2f80c9d09a3aa3afac681.webp",
+  "image": "media/cached-image_67bb00d5b11607cd412b76a882956fdbcfa8c9dbbed2f80c9d09a3aa3afac681.webp",
+  "banner": null,
+  "primaryLocation": "Nagasaki, Japan",
+  "primaryLocationCoords": {
+    "lat": 32.505982542105265,
+    "lng": 129.40797073157898
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Barakamon"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_0",
+      "name": "Tomie(Bus)",
+      "localName": "富江(バス)",
+      "coordinates": {
+        "lat": 32.61437,
+        "lng": 128.76753
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a125e1ff-cdae-40af-abdf-3870caccba91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a125e1ff-cdae-40af-abdf-3870caccba91.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.6144044,128.7675564,3a,90y,215.93h,99.23t/data=!3m7!1e1!3m5!1sHz54OLi9DrZbXsh4vxiTBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.227568730675358%26panoid%3DHz54OLi9DrZbXsh4vxiTBQ%26yaw%3D215.92652860171302!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Tomie bus stop area on Fukue Island is where Handa arrives and departs during his time on the island, marking the threshold between his city life and rural isolation. It represents his journey into the community that ultimately transforms his calligraphy and perspective."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ82MzdNqHFDURcFUeEv0xP-M",
+      "name": "STAND SUNNY",
+      "localName": null,
+      "coordinates": {
+        "lat": 32.615418,
+        "lng": 128.767247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6007fa19-08a4-42e2-bd73-7c3ea1f15c11.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6007fa19-08a4-42e2-bd73-7c3ea1f15c11.webp"
+        },
+        {
+          "url": "media/cached-image_ebc9f8bcf13a4c4044ef5048912f6b5ee24643128e9f01771e77909b16077579.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒853-0201 Nagasaki, Goto, Tomiemachi Tomie, 210 STAND SUNNY",
+      "city": "Goto",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@32.6155439,128.7673469,3a,75y,249.42h,98.04t/data=!3m7!1e1!3m5!1soCBZJDZYVaze74Wahe0vjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.039463106607442%26panoid%3DoCBZJDZYVaze74Wahe0vjg%26yaw%3D249.41812005200762!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This Tomie-area cafe appears in episode 10 as a background location in the Fukue Island town scenes, reflecting the small-town atmosphere that surrounds Handa during his rural exile."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_2",
+      "name": "Arikawa Fish Shop",
+      "localName": "有川鮮魚店",
+      "coordinates": {
+        "lat": 32.61856,
+        "lng": 128.76688
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf1c1e60-7bc8-4fe9-b099-b33590a58a7a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf1c1e60-7bc8-4fe9-b099-b33590a58a7a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.618614,128.7675677,3a,65.1y,274.13h,92.89t/data=!3m7!1e1!3m5!1sXcFceVR127LbrVZ6hW-KuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8911585875155765%26panoid%3DXcFceVR127LbrVZ6hW-KuQ%26yaw%3D274.13229789224886!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The local fish shop is part of the island's everyday commercial life that Handa encounters, representing the tight-knit community and self-sufficient island economy he becomes immersed in during his stay."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_3",
+      "name": "Roads in Tomiemachitake district",
+      "localName": "富江町岳地区の道路",
+      "coordinates": {
+        "lat": 32.588775,
+        "lng": 128.76719
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f44c747d-b82a-49d6-9f32-c989e7795175.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f44c747d-b82a-49d6-9f32-c989e7795175.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5888559,128.7671311,3a,90y,167.45h,95.33t/data=!3m7!1e1!3m5!1sVgl7mN3boc-MBPUXvN4rbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.328005726284758%26panoid%3DVgl7mN3boc-MBPUXvN4rbA%26yaw%3D167.44588434657362!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The rural roads of the Take district on Fukue Island appear in episode 3 as Handa explores the countryside, capturing the scenic island landscape and slow pace of life that begins to loosen his rigid, perfectionist outlook on calligraphy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_4",
+      "name": "Yamashita Post Office",
+      "localName": "山下簡易郵便局",
+      "coordinates": {
+        "lat": 32.5893,
+        "lng": 128.75606
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35319ae2-e27f-44bb-b140-92feb7327542.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35319ae2-e27f-44bb-b140-92feb7327542.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5893922,128.7561547,3a,64.3y,232.72h,96.56t/data=!3m7!1e1!3m5!1sQJHSDUoy7aiaXf9i9WotzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.559634823402291%26panoid%3DQJHSDUoy7aiaXf9i9WotzA%26yaw%3D232.71619110844432!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small island post office appears in episode 3 and stands in for the modest local services that tie the island community together, a setting Handa uses to stay connected to the outside world during his self-imposed rural exile."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_5",
+      "name": "Tomie Branch Office, Goto City Council of Social Welfare",
+      "localName": "五島市社会福祉協議会富江支所",
+      "coordinates": {
+        "lat": 32.61276,
+        "lng": 128.76333
+      },
+      "image": "https://cdn.animepilgrimage.com/places/594e949a-e118-4993-8e27-5d79ec709888.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/594e949a-e118-4993-8e27-5d79ec709888.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.6126565,128.7636164,3a,37.1y,298.49h,92.97t/data=!3m7!1e1!3m5!1sygHVZpUYMqqcp7vpYAXnvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9743964656798596%26panoid%3DygHVZpUYMqqcp7vpYAXnvg%26yaw%3D298.4922850000523!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Seen in episode 2 as part of Fukue Island's civic backdrop, this government welfare office represents the organized yet unhurried island administration that contrasts sharply with Handa's high-pressure Tokyo calligraphy world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_6",
+      "name": "Seishuu's house",
+      "localName": "清舟の家",
+      "coordinates": {
+        "lat": 32.5852,
+        "lng": 128.76615
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87ece234-de15-4403-93d1-59dc7ebcb9e5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87ece234-de15-4403-93d1-59dc7ebcb9e5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5851393,128.7662087,3a,78y,157.87h,91.04t/data=!3m7!1e1!3m5!1stTDSJRyV3LG8hgyY38wIEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0354956708328729%26panoid%3DtTDSJRyV3LG8hgyY38wIEQ%26yaw%3D157.8749740881179!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The old traditional house in the Take district is the central setting of the entire series, where Handa moves in episode 1 and where Naru and the village children constantly invade his space. It is here that Handa battles writer's block, bonds with Naru, and eventually breaks through to his most expressive calligraphy.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_7",
+      "name": "Wako Fishing Port",
+      "localName": "倭寇漁港",
+      "coordinates": {
+        "lat": 32.57832,
+        "lng": 128.77498
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7145ee0-9549-4870-b8ba-840a55e05e43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7145ee0-9549-4870-b8ba-840a55e05e43.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5784142,128.774951,3a,90y,170.72h,89.91t/data=!3m7!1e1!3m5!1sI58Bl0Ohdk2WWmSwRiYjXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.09133257753286728%26panoid%3DI58Bl0Ohdk2WWmSwRiYjXQ%26yaw%3D170.71702828363982!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small fishing port near Handa's house appears in episode 1 as part of the island's working waterfront, reflecting the fishermen's daily life that provides the authentic rural backdrop to Handa's new existence far from the Tokyo art world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_8",
+      "name": "Kasayamazaki Daiba",
+      "localName": "笠山崎台場",
+      "coordinates": {
+        "lat": 32.57659,
+        "lng": 128.77375
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d985b720-df11-4059-a558-a5151c5db828.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d985b720-df11-4059-a558-a5151c5db828.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5775438,128.7742199,3a,75y,168.32h,99.45t/data=!3m7!1e1!3m5!1sjuP_3WD_6vy5OawtmLLSVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.452368588204266%26panoid%3DjuP_3WD_6vy5OawtmLLSVA%26yaw%3D168.32014900628786!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This historic coastal fortification site appears in episode 1 and offers sweeping sea views that embody the vast, open natural scenery of Goto Islands, a stark contrast to Handa's cramped urban life that helps inspire his artistic renewal."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_9",
+      "name": "Ushise and Umase",
+      "localName": "牛瀬・馬瀬",
+      "coordinates": {
+        "lat": 32.64318,
+        "lng": 128.76851
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aebb97bd-17fa-4633-a1ca-a04db43770fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aebb97bd-17fa-4633-a1ca-a04db43770fb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.6435923,128.7688741,3a,90y,145.26h,105.82t/data=!3m7!1e1!3m5!1sjHr8gS1R-dupec8QF2KMIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.823687475389576%26panoid%3DjHr8gS1R-dupec8QF2KMIA%26yaw%3D145.26388421404965!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "These rocky coastal outcroppings near Tomie appear in episode 1 as part of Fukue Island's dramatic scenery, providing the kind of untamed natural beauty that visually punctuates Handa's early days adjusting to island life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfXDNT5CPFDURQ1Z16GiIMEE",
+      "name": "Fukue Airport (Gotō Tsubaki Airport)",
+      "localName": "福江空港（五島つばき空港）",
+      "coordinates": {
+        "lat": 32.6679278,
+        "lng": 128.8343104
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1c9d7854-f343-49d3-b4c5-486b7b9633fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1c9d7854-f343-49d3-b4c5-486b7b9633fd.webp"
+        },
+        {
+          "url": "media/cached-image_12665a52df9f11dc72263297216bd13f480ccaf926bc512167353e76fc972cdb.jpg"
+        },
+        {
+          "url": "media/cached-image_d995a78b065ebe7e849589c04841b7b6544834de136ed8ac02f91d8a967b28d5.jpg"
+        },
+        {
+          "url": "media/cached-image_9b9c8e0d8d8ffe872e6a1511cd294db8e5180c4ae59918de607f589b1741988a.jpg"
+        },
+        {
+          "url": "media/cached-image_74587b65f171a9d1a2b7d352fac9ae34e6739267be4b7e4c6a0b3ed2e2953114.jpg"
+        }
+      ],
+      "type": "Airport",
+      "categories": [
+        "Airport"
+      ],
+      "rating": 3.8,
+      "reviewCount": 125,
+      "priceLevel": null,
+      "address": "Fukue Airport (Gotō Tsubaki Airport), 2183 Kamiozucho, Goto, Nagasaki 853-0042, Japan",
+      "city": "Goto",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@32.6682021,128.8377241,3a,90y,314.27h,103.31t/data=!3m7!1e1!3m5!1sr-FfSqKrAAPPOjgT89UcWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.314426296193716%26panoid%3Dr-FfSqKrAAPPOjgT89UcWA%26yaw%3D314.27087794475966!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Fukue Airport is the gateway to Goto Islands shown in episode 1 as Handa first arrives, the real-world entry point fans use to reach the island where the entire anime is set. Its small regional scale immediately signals how far Handa is from Tokyo.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c06ddd61-09a2-4271-9f2c-11dc7fdf9d3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c06ddd61-09a2-4271-9f2c-11dc7fdf9d3d.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Odakyu Line ticket gate at Shinjuku Station appears in episode 11 as a Tokyo location, likely shown when Handa or a supporting character travels between the city and the island, underscoring the contrast between his two worlds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzfvrKp-bQTURl65fp6vRJLg",
+      "name": "Dazaifu Tenmangu",
+      "localName": "太宰府天満宮",
+      "coordinates": {
+        "lat": 33.52131,
+        "lng": 130.53491
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ff8b192-51af-46e9-8926-fc7c9e003aa3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ff8b192-51af-46e9-8926-fc7c9e003aa3.webp"
+        },
+        {
+          "url": "media/cached-image_07dbf43ea0e5c3e3b5c45524823f37bc3cb828506c2b736f3f7f30418463d730.jpg"
+        },
+        {
+          "url": "media/cached-image_99f49ca9c63b3c18f35e921e801e16bd8a194a8f7b38e8f697e3c58d05a1fec0.jpg"
+        },
+        {
+          "url": "media/cached-image_af9f4dd14f4d642dc59ff4c4f8485d241e8cca198b541a56921b7d0beef7965f.jpg"
+        },
+        {
+          "url": "media/cached-image_355dd4e4f50e4b87940dae535d7552b3d21bc4d41d1c79ef426bad3e9931e10d.jpg"
+        },
+        {
+          "url": "media/cached-image_78b21c960ecd82e0cf5d402d4036f8a2f94d6584b19e38b1a0c8ca61945dc094.jpg"
+        },
+        {
+          "url": "media/cached-image_cfe82dc26f20df0e372da0e33dfdd5648cddff8ff130c9d95fa7aa72d3272773.jpg"
+        },
+        {
+          "url": "media/cached-image_1ec4e35b6295cc607241e4bc757f04376ff93aa64a4bf4be42cf9c5d2f693e9a.jpg"
+        },
+        {
+          "url": "media/cached-image_2fc17d279cebecbcd95de7f1ddb4a953c762a817ae8b3516a79fbee2e50db9fe.jpg"
+        },
+        {
+          "url": "media/cached-image_2dd8065303a808fe3f6e4c1d549b6c8a2d40b53e6c5803d18bf0e6c10efed4e8.jpg"
+        },
+        {
+          "url": "media/cached-image_fde18ec45a1007fd9dc7ad183c0861e52813bba7daa04d483eb3546a5f25712e.jpg"
+        },
+        {
+          "url": "media/cached-image_68ea2ca2e57959160c893f5ff606cc072e539f8e6b1b0196bd2d51e90e3eb81d.jpg"
+        },
+        {
+          "url": "media/cached-image_e50ec1cd3caaa4f50e9d68db6f3c64973a810a98cf3837942b6cf7c278406172.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.5,
+      "reviewCount": 42892,
+      "priceLevel": null,
+      "address": "4 Chome-7-1 Saifu, Dazaifu, Fukuoka 818-0117, Japan",
+      "city": "Dazaifu",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LhrWsJ9Vc7RYLoqj6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Dazaifu Tenmangu, the famous shrine dedicated to the god of learning, appears in episode 10 and carries thematic resonance for Handa as a calligrapher seeking artistic mastery. The shrine's connection to scholarship and the arts mirrors Handa's own pursuit of his craft."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt6AOGe6GFDUR42UK-W1Ygto",
+      "name": "Tomie Pharmacy",
+      "localName": "富江薬局",
+      "coordinates": {
+        "lat": 32.6157551,
+        "lng": 128.7678631
+      },
+      "image": "https://cdn.animepilgrimage.com/places/741afcbd-2c0c-43d1-bd92-955436a5eca1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/741afcbd-2c0c-43d1-bd92-955436a5eca1.webp"
+        },
+        {
+          "url": "media/cached-image_80f9c7ef9bb2526eb672aece1bd4b639278815f002f7bdbb66c5b1d3c46b892f.jpg"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tomie Pharmacy, 294 Tomiemachi Tomie, Goto, Nagasaki 853-0201, Japan",
+      "city": "Goto",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@32.6155946,128.7678388,3a,35.7y,300.5h,89.62t/data=!3m7!1e1!3m5!1si_dYbQDZpAey_WDNZ8OYeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.38301474928715606%26panoid%3Di_dYbQDZpAey_WDNZ8OYeA%26yaw%3D300.4978481632692!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Tomie Pharmacy in the island's main town appears in episode 10 as part of the small commercial district Handa visits, one of the few modern conveniences on the island that grounds the series in everyday rural Japanese life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_14",
+      "name": "Kiku-chan Farm",
+      "localName": "きくちゃん農園",
+      "coordinates": {
+        "lat": 32.58773,
+        "lng": 128.78286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d006ad8-742d-41fe-ad27-99d437231389.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d006ad8-742d-41fe-ad27-99d437231389.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5878581,128.7825103,3a,48.7y,131.66h,94.91t/data=!3m7!1e1!3m5!1sf4185NDeXWNanvrcK5WBtQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.908290506815277%26panoid%3Df4185NDeXWNanvrcK5WBtQ%26yaw%3D131.66329306902315!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Kiku-chan's farm appears in episode 5 and reflects the agricultural life of Goto Islands that Handa is introduced to through the islanders, with Naru and the children often playing in and around such rural settings that feel worlds away from city life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_15",
+      "name": "Take Agricultural Training Facility",
+      "localName": "岳営農研修施設",
+      "coordinates": {
+        "lat": 32.58858,
+        "lng": 128.76687
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99328f2f-dc15-44ef-b6bc-7fd80cd27283.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99328f2f-dc15-44ef-b6bc-7fd80cd27283.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5884925,128.7668129,3a,90y,304.71h,92.19t/data=!3m7!1e1!3m5!1smHTEEYfY4w-zWBC1eAf1FA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.190004001327054%26panoid%3DmHTEEYfY4w-zWBC1eAf1FA%26yaw%3D304.70783849046353!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This local agricultural facility in the Take district is seen in episode 6, representing the community infrastructure of the island that Handa gradually becomes familiar with as he integrates into village life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_16",
+      "name": "Tomiemachitake District Cemetery",
+      "localName": "富江町岳地区の墓地",
+      "coordinates": {
+        "lat": 32.58751,
+        "lng": 128.76301
+      },
+      "image": "https://cdn.animepilgrimage.com/places/19c86b2a-a8f3-4682-a424-1119187c6f1b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/19c86b2a-a8f3-4682-a424-1119187c6f1b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5874545,128.7632676,3a,75y,285.54h,98.61t/data=!3m7!1e1!3m5!1san1JQ_5JvOd9oTXz6lgwvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.606868535086932%26panoid%3Dan1JQ_5JvOd9oTXz6lgwvg%26yaw%3D285.5405700630373!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Take district cemetery appears in episode 6 and is a poignant location where island traditions and the memory of past generations are honored, adding a layer of cultural depth to Handa's understanding of the tight community he has joined."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1eIL1WRD5DQRDU4hJhb09Y4",
+      "name": "Taroujima Beach",
+      "localName": "桃原ビーチ",
+      "coordinates": {
+        "lat": 26.7429724,
+        "lng": 128.1633834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e354d82-f5f0-4c4c-859e-1e7a76a16f26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e354d82-f5f0-4c4c-859e-1e7a76a16f26.webp"
+        },
+        {
+          "url": "media/cached-image_de8427788786e209659b080f06f6f8bb8de75ceee4519b6595673ca044506739.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tobaru Beach, Hentona, Kunigami, Kunigami District, Okinawa 905-1411, Japan",
+      "city": "Kunigami",
+      "region": "Kunigami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@32.6110004,128.7817247,3a,75y,93.95h,95.24t/data=!3m7!1e1!3m5!1sZsPMOFd1yIVAUKO7i2Wpow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.243050633839758%26panoid%3DZsPMOFd1yIVAUKO7i2Wpow%26yaw%3D93.9521634314433!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "A scenic beach location seen in episode 6, representing the stunning coastal scenery of the Goto Islands archipelago that surrounds Handa's daily life and provides the natural beauty that gradually inspires a freer, bolder style in his calligraphy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_barakamon_18",
+      "name": "Phu Quang Elementary School Old Take Branch Prospectus",
+      "localName": "富江小学校旧岳分校跡",
+      "coordinates": {
+        "lat": 32.58997,
+        "lng": 128.76684
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f77d260-e3d1-451d-8d1d-9d3b3776203f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f77d260-e3d1-451d-8d1d-9d3b3776203f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@32.5898684,128.766869,3a,90y,309.78h,90.39t/data=!3m7!1e1!3m5!1s_jQU0nkOmjWUZGn0baJJog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.38792847556800325%26panoid%3D_jQU0nkOmjWUZGn0baJJog%26yaw%3D309.783438382789!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The former Tomie Elementary School Take Branch site appears in episode 9, its abandoned schoolhouse a symbol of the island's declining rural population. Naru and friends play around such old structures, and for Handa it represents the fading but vibrant community spirit he has come to cherish."
+    }
+  ]
+}

@@ -1,0 +1,1851 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Hanasaku Iroha",
+  "slug": "hanasaku-iroha",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_06b15011471b9fd00ceb46725deed5d9592f4f77b926590ab663ac7d7a510ad4.webp",
+  "image": "media/cached-image_06b15011471b9fd00ceb46725deed5d9592f4f77b926590ab663ac7d7a510ad4.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.012443359375006,
+    "lng": 137.71820586770826
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Hanasaku Iroha"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJLTNAChyMGGARtOxRjwapRFw",
+      "name": "Welcia Holdings Co., Ltd.",
+      "localName": "ウエルシアホールディングス㈱",
+      "coordinates": {
+        "lat": 35.6995219,
+        "lng": 139.7678469
+      },
+      "image": null,
+      "images": [],
+      "type": "Holding company",
+      "categories": [
+        "Holding company"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Welcia Holdings Co., Ltd., 2 Chome-2-15 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6937518,139.6991508,3a,43y,88.6h,96.07t/data=!3m7!1e1!3m5!1sOvOIxEIJwGa_mjmOUNjfAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.069054327385132%26panoid%3DOvOIxEIJwGa_mjmOUNjfAQ%26yaw%3D88.59938727515332!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_1",
+      "name": "La fermata",
+      "localName": "ラ・フェルマータ",
+      "coordinates": {
+        "lat": 36.48833,
+        "lng": 136.75573
+      },
+      "image": "https://cdn.animepilgrimage.com/places/399fe2e3-19a0-4af9-893c-5bb620dbdb9e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/399fe2e3-19a0-4af9-893c-5bb620dbdb9e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4882636,136.7557622,3a,90y,72.95h,93.81t/data=!3m7!1e1!3m5!1sZlaO04VSI9gXXW2kMY2T7Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8085942769597807%26panoid%3DZlaO04VSI9gXXW2kMY2T7Q%26yaw%3D72.94568774968914!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This restaurant in the Yuwaku area appears in episode 2 as a location visited by characters in the Kanazawa outskirts. It is documented as a pilgrimage spot in anime location guides matching the show's background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_2",
+      "name": "Siii",
+      "localName": "Siii(シー)",
+      "coordinates": {
+        "lat": 36.51128,
+        "lng": 136.71273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f13e9d95-b04d-46ae-b506-f7e6d3855104.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f13e9d95-b04d-46ae-b506-f7e6d3855104.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5114339,136.7130123,3a,48.3y,233.03h,90.9t/data=!3m7!1e1!3m5!1sX1oi-x2nO1cc1ebfWmZEIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9029179169048405%26panoid%3DX1oi-x2nO1cc1ebfWmZEIw%26yaw%3D233.0252932659617!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Kanazawa-area spot appears in episode 2 and is listed in pilgrimage guides as a confirmed background location. Its exterior matches the anime's depiction of local establishments near Yuwaku Onsen."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm5xTY3OLGGARTTD8nHzd0xw",
+      "name": "Aiku Gakuen",
+      "localName": "愛育学園（特別支援学校）",
+      "coordinates": {
+        "lat": 35.6533496,
+        "lng": 139.7273521
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72b08145-7dbe-4418-be47-1b0b4d335330.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72b08145-7dbe-4418-be47-1b0b4d335330.webp"
+        },
+        {
+          "url": "media/cached-image_466b73d2d8b543bd074866742268a97a1e5c208493bd5544dbe6a278236e1a8c.jpg"
+        }
+      ],
+      "type": "Special education school",
+      "categories": [
+        "Special education school"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Aiiku Yogo School, 5 Chome-6-8 Minamiazabu, Minato City, Tokyo 106-0047, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.502558,136.7326241,3a,47.1y,324.91h,96.38t/data=!3m7!1e1!3m5!1s90wBP7wFU9BhYhnrulrjgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.382837774680723%26panoid%3D90wBP7wFU9BhYhnrulrjgQ%26yaw%3D324.90772514543454!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD785-FJeGWARQw_4R2priQM",
+      "name": "Shuhokaku",
+      "localName": "秀峰閣 湖月",
+      "coordinates": {
+        "lat": 35.5251759,
+        "lng": 138.7617564
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b594136-504f-4161-a7f7-5dae15300e13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b594136-504f-4161-a7f7-5dae15300e13.webp"
+        },
+        {
+          "url": "media/cached-image_a1a619ac52ae2d64b02eb736ff4c9ecfa2f665562c63bbdde278588573917029.jpg"
+        },
+        {
+          "url": "media/cached-image_3d44bbb99505caeef9233575a31e77ca0f5f8a205ed986e597d38629aed80681.jpg"
+        },
+        {
+          "url": "media/cached-image_d0c956406c690ea1150f2787c31d4097b4c2704d7f92d3f67dd4aa971db013e8.jpg"
+        },
+        {
+          "url": "media/cached-image_a1a2284c72c6ecc15df1ac13c55a027edb5fd15158d1b391779dcb2632c16883.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shuhoukaku Kogetsu, 2312 Kawaguchi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0304, Japan",
+      "city": "Fujikawaguchiko",
+      "region": "Minamitsuru District, Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4897956,136.7561321,3a,48.8y,339.33h,95.45t/data=!3m7!1e1!3m5!1scAqLNyx8PUSqn-neIhPpxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.445124961470327%26panoid%3DcAqLNyx8PUSqn-neIhPpxQ%26yaw%3D339.33095793799816!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7SZMIsE5-F8R_gf7dmEruwQ",
+      "name": "Yuwaku Inari Shrine",
+      "localName": "湯涌稲荷神社",
+      "coordinates": {
+        "lat": 36.4859449,
+        "lng": 136.75825509999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6af90aaf-3a54-489e-a3c8-67542fd33441.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6af90aaf-3a54-489e-a3c8-67542fd33441.webp"
+        },
+        {
+          "url": "media/cached-image_48989acf50dcf719b8c369fb6e567b613315fd5c27fc7e2cdd72fef63df01be9.jpg"
+        },
+        {
+          "url": "media/cached-image_b10930aa98be119024660877ec3d0a6ebeea4580499639a57bee009e95a85545.jpg"
+        },
+        {
+          "url": "media/cached-image_83cd49326b2a55e2246a7dc1757fe0a7dfa23b7799c372fa6d8323a4e0619e0a.jpg"
+        },
+        {
+          "url": "media/cached-image_dc96bb3df39f487d3521b409a28554c47c63b9b475930f8dd83bb0c2031ba912.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.1,
+      "reviewCount": 56,
+      "priceLevel": null,
+      "address": "Yuwakuinari Shrine, I-145 Yuwakumachi, Kanazawa, Ishikawa 920-1123, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4858705,136.7582011,3a,90y,31.23h,96.34t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgID40tTMkwE!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2NMCtMsjGqQQEjrcJYbGs9q6mt1KZ9uJzMvin9SG2tGd3RZuWSz4HdCr9P9-XpqYPp2kquNwPDmmjm3tqtadvuDDH8D4o2OvboYskcWMDctHDdqkmFbhREP4GcYlhuGd_P_IDV3w%3Dw900-h600-k-no-pi-6.344220321368638-ya4.753159825337651-ro0-fo100!7i8640!8i4320?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This small shrine in Yuwaku Onsen appears in episode 4 and is one of the most photographed pilgrimage spots for Hanasaku Iroha fans, representing the quiet spiritual atmosphere of the hot spring village that shapes Ohana's new life. Pilgrims visit to recreate the anime's scene compositions at the torii gate.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJob2rulsHAWARJs91x0-JNmY",
+      "name": "Nishigishi Post Office",
+      "localName": "京都西郵便局",
+      "coordinates": {
+        "lat": 35.013165799999996,
+        "lng": 135.6893301
+      },
+      "image": "https://cdn.animepilgrimage.com/places/592379db-1dee-49d5-ba34-a950167bfd41.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/592379db-1dee-49d5-ba34-a950167bfd41.webp"
+        },
+        {
+          "url": "media/cached-image_9156604ed78586868a09b1a52718f7b6b33fa9bcb4a08840a5e28c83c0f828f4.jpg"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kyoto Nishi Post Office, 1-64 Sagagotocho, Ukyo Ward, Kyoto, 616-8799, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@37.1474694,136.8747322,3a,90y,318.67h,98.4t/data=!3m7!1e1!3m5!1siJQ-q2IibImn73YTQCL-NA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.400765318711123%26panoid%3DiJQ-q2IibImn73YTQCL-NA%26yaw%3D318.66506503534373!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQb53gX40-F8RU3dpQzWhpHw",
+      "name": "Saigawa-Ohashi Bridge",
+      "localName": "犀川大橋",
+      "coordinates": {
+        "lat": 36.558476299999995,
+        "lng": 136.6504376
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05d1e800-a8ed-4e25-bd82-5da93c5c5953.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05d1e800-a8ed-4e25-bd82-5da93c5c5953.webp"
+        },
+        {
+          "url": "media/cached-image_d4e9ad0c6bea8797bf35c3a415ff35f7c685f8a47afcc7080d9ba17ae6ecbca4.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saigawa-Ōhashi Bridge, 1 Chome-1 Nomachi, Kanazawa, Ishikawa 921-8031, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5587097,136.6508133,3a,90y,239.76h,101.92t/data=!3m7!1e1!3m5!1sNF0qvOeP4_mLWuG7gbDyWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.921144086739531%26panoid%3DNF0qvOeP4_mLWuG7gbDyWg%26yaw%3D239.75614520036518!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This iconic Kanazawa bridge over the Sai River appears in episode 7 and is a well-documented pilgrimage location in the city. The bridge's iron railings and river view match the show's backgrounds when characters travel between Kanazawa and Yuwaku."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvccTx905-F8Ry5t_NVcvDd4",
+      "name": "Kanazawa Yuwaku Community Center",
+      "localName": "金沢市 湯涌公民館",
+      "coordinates": {
+        "lat": 36.492073999999995,
+        "lng": 136.7500596
+      },
+      "image": "https://cdn.animepilgrimage.com/places/824fe366-6750-4b8a-889d-2b462471f748.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/824fe366-6750-4b8a-889d-2b462471f748.webp"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Kanazawashi Yuwaku Community Center, I-５９ Shibaharamachi, Kanazawa, Ishikawa 920-1129, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4920549,136.7498738,3a,48.7y,125h,95.69t/data=!3m7!1e1!3m5!1sYpm11rIsPA3PbrFi9Ef6IA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.694339361437045%26panoid%3DYpm11rIsPA3PbrFi9Ef6IA%26yaw%3D124.99508688571058!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_9",
+      "name": "Saikawa Bridge Police Box",
+      "localName": "金沢中警察署 犀川大橋交番",
+      "coordinates": {
+        "lat": 36.5583,
+        "lng": 136.65014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/423c33fb-42e5-464b-a4b0-06be8fbf19a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/423c33fb-42e5-464b-a4b0-06be8fbf19a2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5581321,136.6499719,3a,48.6y,39.15h,94.56t/data=!3m7!1e1!3m5!1soJkjYAgOL3jX-2idp7SJng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.560029496088788%26panoid%3DoJkjYAgOL3jX-2idp7SJng%26yaw%3D39.15349039337925!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This police box near Saigawa-Ohashi Bridge in Kanazawa appears in episode 8 and is documented in pilgrimage location comparisons as a background detail in city scenes. It sits within the broader Kanazawa pilgrimage cluster fans walk."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSeKdpoEz-F8RPG8oe2XfO64",
+      "name": "Shiinoki Cultural Complex",
+      "localName": "石川県政記念しいのき迎賓館",
+      "coordinates": {
+        "lat": 36.562425999999995,
+        "lng": 136.6578269
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6ebd934-c31a-43eb-ac95-c6635b103411.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6ebd934-c31a-43eb-ac95-c6635b103411.webp"
+        },
+        {
+          "url": "media/cached-image_ce1febc89a723ecfc357e64e077dbf8ebaf3aa109804d28e8de07bbcd85d6715.jpg"
+        },
+        {
+          "url": "media/cached-image_ef1ef5c3a24e934308acfcfc12c1b48fc4237368d514e2239e58f5503789ca07.jpg"
+        },
+        {
+          "url": "media/cached-image_bab2e4a98ff2c3ce7773237780254d93e8b1a60b3b503f6b5fe859dc617a14d7.jpg"
+        },
+        {
+          "url": "media/cached-image_19a3f51b1cdcc58f8048a45c9b53ef83252e53ce8becb3681d7e08e0bf64673d.jpg"
+        }
+      ],
+      "type": "Convention center",
+      "categories": [
+        "Convention center"
+      ],
+      "rating": 4.4,
+      "reviewCount": 312,
+      "priceLevel": null,
+      "address": "Shiinoki Cultural Complex, しいのき迎賓館内 1F 2 Chome-1-1 Hirosaka, Kanazawa, Ishikawa 920-0962, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5622516,136.6586411,3a,90y,289.62h,105.36t/data=!3m7!1e1!3m5!1sDDJMfWuZEAswVNnAyQkZaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.358425221767803%26panoid%3DDDJMfWuZEAswVNnAyQkZaw%26yaw%3D289.6166672608417!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Kanazawa landmark near Kenroku-en appears in episode 8 and is recognizable in the anime's background art for city scenes. Its distinctive zelkova trees and colonial-era architecture feature in pilgrimage photo comparisons by fans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV0qrPXEz-F8R7SWQ0RQmHs4",
+      "name": "Lukina Kanazawa",
+      "localName": "LINNAS Kanazawa",
+      "coordinates": {
+        "lat": 36.570769,
+        "lng": 136.6598099
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4b27fac-4f7d-4f23-8895-a6f09567086b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4b27fac-4f7d-4f23-8895-a6f09567086b.webp"
+        },
+        {
+          "url": "media/cached-image_b1b4e5df43703a3aa590416588af234ecf24981d2f875240e93edd7170209946.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒920-0902 Ishikawa, Kanazawa, Owaricho, 1 Chome−2−8 LINNAS Kanazawa",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5766296,136.6512254,3a,75y,133.92h,102.76t/data=!3m7!1e1!3m5!1s0cC66iEWEzFEfA8443QUYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.761439963700624%26panoid%3D0cC66iEWEzFEfA8443QUYg%26yaw%3D133.92048790004986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_12",
+      "name": "PREGO",
+      "localName": "プレーゴ",
+      "coordinates": {
+        "lat": 36.56132,
+        "lng": 136.65344
+      },
+      "image": "https://cdn.animepilgrimage.com/places/40c2d53c-7e4a-43dd-b383-900e59780659.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/40c2d53c-7e4a-43dd-b383-900e59780659.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5613567,136.6533906,3a,90y,113.92h,100.23t/data=!3m7!1e1!3m5!1smI0pMSr5LMX818L5DGSjyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.232831161165024%26panoid%3DmI0pMSr5LMX818L5DGSjyw%26yaw%3D113.92411449798281!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsbx-AoEz-F8RJoGzV61OO98",
+      "name": "First Hotel Kanazawa",
+      "localName": "ファーストホテル金沢",
+      "coordinates": {
+        "lat": 36.5616395,
+        "lng": 136.657793
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86607cc4-b496-4a38-9043-a008ca122d0f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86607cc4-b496-4a38-9043-a008ca122d0f.webp"
+        },
+        {
+          "url": "media/cached-image_4fe868ea44a2aed75fc4ada78fef1533bdb1b392b4478e5214d75391a883e2f3.jpg"
+        },
+        {
+          "url": "media/cached-image_0d0a2253be27125e558506de72288a9a6aba69091458261a9d2398f6d817d1bb.jpg"
+        },
+        {
+          "url": "media/cached-image_3b7d21c7277ca6ec1355aec975e4a0640d36b9b0ca933121ce6af117812bd0ee.jpg"
+        },
+        {
+          "url": "media/cached-image_2db32b2725d18d1d4b3857f8bc2828fd2a0744a6f29718fa86ceb992a56f9b99.jpg"
+        },
+        {
+          "url": "media/cached-image_81cbf9af319160cadd1d62aaeeeb45a5fa9b42daa0c85408362463083ad71ded.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.9,
+      "reviewCount": 55,
+      "priceLevel": null,
+      "address": "First Hotel Kanazawa, 1 Chome-2-24 Hirosaka, Kanazawa, Ishikawa 920-0962, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5619613,136.657811,3a,90y,7.05h,106.26t/data=!3m7!1e1!3m5!1seDLJO1QwoQH9uScs05mMgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.26053654009631%26panoid%3DeDLJO1QwoQH9uScs05mMgg%26yaw%3D7.046868740250706!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGwrzquRfGGARWQ6JvkOy6kE",
+      "name": "McDonald's Shimo-maruko",
+      "localName": "マクドナルド 下丸子店",
+      "coordinates": {
+        "lat": 35.5710003,
+        "lng": 139.6859414
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d5994310-cd04-4f19-bc4a-bed97bba934b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d5994310-cd04-4f19-bc4a-bed97bba934b.webp"
+        },
+        {
+          "url": "media/cached-image_ebb464bd754217f3208f9dca5187e0dcea62783622a0f9a023deff177ae114ce.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's Shimo-maruko, 1F 3 Chome-6-7 Shimomaruko, Ota City, Tokyo 146-0092, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5710588,139.6858672,3a,90y,130h,107.52t/data=!3m7!1e1!3m5!1sj3jPmNt5VyhmoZA_j54UCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.52295229540549%26panoid%3Dj3jPmNt5VyhmoZA_j54UCw%26yaw%3D130.0024156991972!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1e7seJcGGARbDdyYvFJuuM",
+      "name": "Yamashita Park",
+      "localName": "山下公園",
+      "coordinates": {
+        "lat": 35.44555,
+        "lng": 139.64971
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_7281206f920b001f87a523c3c04e673b4f314e6a44ad3625dd412af5d8b493b3.jpg"
+        },
+        {
+          "url": "media/cached-image_b430298ec0c5a85862edb6aa8cd908481559847a6594052854680f5e8038241b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b4c287953132ce0f6742f4ac234768bbd1d6163cba83d75714fbdb74abf3f80.jpg"
+        },
+        {
+          "url": "media/cached-image_409e3fd7b20ccd618548395c527a7e7310a15fd6fde087cb61799c4a90eed76d.jpg"
+        },
+        {
+          "url": "media/cached-image_25bd26be6878dfa8b035d86cab10563c402db700ed322b30877332fc78547c40.jpg"
+        },
+        {
+          "url": "media/cached-image_2607f3f79ef882e8a6f3958548c164eead77a5f0d4eb47ca731bee38d61c4896.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2320,
+      "priceLevel": null,
+      "address": "279 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454931,139.6497994,3a,90y,309.78h,95.72t/data=!3m7!1e1!3m5!1sBbTlT5945dCtth4vFWB8gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.724795431178734%26panoid%3DBbTlT5945dCtth4vFWB8gQ%26yaw%3D309.7801928323015!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcTUvs5byGGARTgc0rPIEgVY",
+      "name": "Nakano Station",
+      "localName": "中野駅",
+      "coordinates": {
+        "lat": 35.7053029,
+        "lng": 139.6660099
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e2368b4-1544-4af1-a26c-5587b7125bea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e2368b4-1544-4af1-a26c-5587b7125bea.webp"
+        },
+        {
+          "url": "media/cached-image_35472ddc2ea3c4e3363e5fde4e1f6386ecbd0ab4002a588481b88ac4459ef599.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5 Chome-31-1 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7053029,139.6660099,3a,75y,299.15h,93.29t/data=!3m7!1e1!3m5!1shQa7jDoPvLpuWr3DYR_OVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DhQa7jDoPvLpuWr3DYR_OVg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D326.24258%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-zsDMGiNGGARHcNKXarrqJU",
+      "name": "JUNKUDO Ikebukuro",
+      "localName": "ジュンク堂書店 池袋本店",
+      "coordinates": {
+        "lat": 35.72698,
+        "lng": 139.71221
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05febfc6-a436-4bb6-ae21-c8d7aac02128.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05febfc6-a436-4bb6-ae21-c8d7aac02128.webp"
+        },
+        {
+          "url": "media/cached-image_d75c4671d6806fd6904d5d4e8de2b9b9c94bedcee9ca52f0bfaa9a8c28db8b6b.jpg"
+        },
+        {
+          "url": "media/cached-image_fd34e0172dcd629d1987b7140d94b0bf7ab0d436de988668780f5804acafae19.jpg"
+        },
+        {
+          "url": "media/cached-image_0e42ab44924650e5ea655ab17b73c324f79eeefa13805c3fd255a8ef2df9377e.jpg"
+        },
+        {
+          "url": "media/cached-image_4bfed1d585ed038adcec3efad0db8e9361df6e6d82cf146fb233581848b65957.jpg"
+        },
+        {
+          "url": "media/cached-image_5fcc92cff1da95b3c92acb259837cce8abaf634c00cad868c97fd8d34ca3dfdd.jpg"
+        },
+        {
+          "url": "media/cached-image_aba9ef24e08e8274c7c1eb35e0de42b058776ceecb73f40ce514bcd295112d9e.jpg"
+        },
+        {
+          "url": "media/cached-image_35ce520fe0fc8a2f54292f9a41b7fe18c4253075618a2740f287ceb2414956f7.jpg"
+        },
+        {
+          "url": "media/cached-image_603e569ebd9f23fb66415712ec0cb6e484e07117b87811e96a2845b3a4a31754.jpg"
+        },
+        {
+          "url": "media/cached-image_1de9dc9764741b42829262b88bd67f67af9d8ec1389ef7690a22ab74363299c7.jpg"
+        },
+        {
+          "url": "media/cached-image_216720b625a87182f0631a7a665e9f04f03e0cdbeac7d098ff73f7f1fd53bf97.jpg"
+        },
+        {
+          "url": "media/cached-image_7556112a231372cf885875b71c6fcb907cd5933d142ba29c939edbbc4630111f.jpg"
+        },
+        {
+          "url": "media/cached-image_8eb6b786f83bd9f233e7f9b02e6efbdaa5b635abb6ecd062308707eee2ed6abd.jpg"
+        }
+      ],
+      "type": "書店",
+      "categories": [
+        "書店"
+      ],
+      "rating": 4.4,
+      "reviewCount": 98,
+      "priceLevel": null,
+      "address": "2 Chome-15-5 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7269722,139.7121551,3a,90y,126.04h,92.77t/data=!3m7!1e1!3m5!1soizSxgZwLo4JQmElCK6rTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7747616217090467%26panoid%3DoizSxgZwLo4JQmElCK6rTA%26yaw%3D126.03959474458011!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa9ZGXgDnGGARxfFkevzkzWI",
+      "name": "ITALIAN RESORT PERTICA",
+      "localName": "ITALIAN RESORT PERTICA（ペルティカ） 小平",
+      "coordinates": {
+        "lat": 35.7307521,
+        "lng": 139.4779464
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55dce1f4-d0c7-402e-8afc-f17edebb00d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55dce1f4-d0c7-402e-8afc-f17edebb00d1.webp"
+        },
+        {
+          "url": "media/cached-image_0124e0d93b7d34ba602ad3654ffcefd006b1641e77757fa1838473616a3a0955.jpg"
+        },
+        {
+          "url": "media/cached-image_b13b22600d7e5bef733dea87fc9f0da46050a8bf72cc214001944d9f81848542.jpg"
+        },
+        {
+          "url": "media/cached-image_ed512593d2f0aac86c577acd1bf67e1364b6c8701b97bff2fb968c34fbea0505.jpg"
+        },
+        {
+          "url": "media/cached-image_886dc424f2ff6d69944ce5559bc50b973f29d5490b0d89954b272b6143dab0d1.jpg"
+        },
+        {
+          "url": "media/cached-image_0f423b8d2fcbb89caaca2bbd552e3e93c0bbe31c0d613265c75949bd6618bf7a.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ITALIAN RESORT PERTICA, 2 Chome-1813 Ogawachō, Kodaira, Tokyo 187-0032, Japan",
+      "city": "Kodaira",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7305145,139.4779268,3a,90y,358.87h,101.36t/data=!3m7!1e1!3m5!1sffS_-cZ0zEWqUdHPeqjUWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.355785560129817%26panoid%3DffS_-cZ0zEWqUdHPeqjUWg%26yaw%3D358.8747328340039!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvViFdd2MGGARTCXIxOB_cgo",
+      "name": "Tokyo Business Hotel",
+      "localName": "東京ビジネスホテル",
+      "coordinates": {
+        "lat": 35.6936296,
+        "lng": 139.71049059999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37d3e65b-0657-4494-918b-a019ac3a8c12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37d3e65b-0657-4494-918b-a019ac3a8c12.webp"
+        },
+        {
+          "url": "media/cached-image_c15abd8e89b5151fd0b78749119aa7c21ba7712bb7fb3be88217adb1312a640f.jpg"
+        },
+        {
+          "url": "media/cached-image_f12b95bb3ea69ac5c47aea5088d8714a9beee2d01762d13212b2fe72e05f12d0.jpg"
+        },
+        {
+          "url": "media/cached-image_fa97744711cdfd21c4127461e53717d088442c6fcb873daf46559a80c9540783.jpg"
+        },
+        {
+          "url": "media/cached-image_63ee0afc1af668b708ee1546cf897f230737a8da6f8df0cb3e138fea76d1104e.jpg"
+        }
+      ],
+      "type": "Japanese-style business hotel",
+      "categories": [
+        "Japanese-style business hotel"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Business Hotel, 6 Chome-3-2 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6933156,139.7103602,3a,90y,44.54h,115.69t/data=!3m7!1e1!3m5!1ssNeV-fnNPrnB5TTnzYoGdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.688711157290882%26panoid%3DsNeV-fnNPrnB5TTnzYoGdg%26yaw%3D44.542597303944504!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_TGT1A_uGGARr-etOu_Oe30",
+      "name": "西荻窪駅",
+      "localName": "西荻窪駅",
+      "coordinates": {
+        "lat": 35.70376445,
+        "lng": 139.59983875
+      },
+      "image": "https://cdn.animepilgrimage.com/places/69d3ab12-27e9-4f63-ad04-ff1f25f51432.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/69d3ab12-27e9-4f63-ad04-ff1f25f51432.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Nishi-Ogikubo+Station/@35.7036554,139.5989896,3a,74.7y,62.82h,92.43t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID43s2u3gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAB5caB9JqbVd58facLlPOyHoaoDAYoy2qPNZxNw7K7MoJ-dY1l3ZrH5oyWQmU8AOUIyj2f232mySfnhUGgOxMvFuGwlq4gBAIx0B-_JGCr46r0Q0oNZWYbWaB1mOxURE38L82xXQu9uzSQ%3Dw900-h600-k-no-pi-2.431148733922214-ya76.81890643056698-ro0-fo100!7i8704!8i4352!4m9!3m8!1s0x6018ee0e2abaa187:0xbd1133cfdad5045b!8m2!3d35.7038328!4d139.5994955!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bc5hkmm7?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3eLfDDbkGGARh1vtx-FTYLc",
+      "name": "Matsuya Kokubunji Kitaguchi",
+      "localName": "松屋 国分寺北口店",
+      "coordinates": {
+        "lat": 35.700742399999996,
+        "lng": 139.4816098
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2242a8f2-835f-4635-b5cc-6dbbe435d759.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2242a8f2-835f-4635-b5cc-6dbbe435d759.webp"
+        },
+        {
+          "url": "media/cached-image_716ffb4d1f741d294dc82c5f63ea3f7972cc5707da08a0b3c00603dfae8514c4.jpg"
+        },
+        {
+          "url": "media/cached-image_82de33be58fd1a4217d178acf2f4f0e79a28fb78f9cea9e7d1eda51f0f521071.jpg"
+        },
+        {
+          "url": "media/cached-image_fb2b85e5f9b83ff7105690839a63050354f9f10538229bb9803b9c4d38359cf3.jpg"
+        }
+      ],
+      "type": "Gyudon restaurant",
+      "categories": [
+        "Gyudon restaurant"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Matsuya Kokubunji Kitaguchi, cocobunji EAST106 2 Chome-2-1 Honcho, Kokubunji, Tokyo 185-0012, Japan",
+      "city": "Kokubunji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7008709,139.48151,3a,90y,231.89h,104.88t/data=!3m7!1e1!3m5!1s324kkawATlxYxNEUYF079A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.879031277376%26panoid%3D324kkawATlxYxNEUYF079A%26yaw%3D231.8860025737193!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnVHGdb28918RWAZMG7GqSVI",
+      "name": "Arisoumi Service Area (Southbound)",
+      "localName": "有磯海SA(上り)",
+      "coordinates": {
+        "lat": 36.770361699999995,
+        "lng": 137.39968199999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62b1330a-1fd1-4855-b3bc-b2fc2cce61bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62b1330a-1fd1-4855-b3bc-b2fc2cce61bf.webp"
+        },
+        {
+          "url": "media/cached-image_f9c334f5034b2f4f3eba2bc17a40475bed3ff945873e0ae9576d4a6481e650e9.jpg"
+        },
+        {
+          "url": "media/cached-image_209f9c460abfd9c9e7a206f9882f3c3258e4608ce208b21addcea05074d21617.jpg"
+        },
+        {
+          "url": "media/cached-image_ce06be3b3a3bb4d523afeab179074b54f5983e15e7b31b261aeddef5824a7277.jpg"
+        },
+        {
+          "url": "media/cached-image_1b58b3bb960ec379cf79fc4f1c65a80e97c67f6de8d5055094753e2ad4a96dd9.jpg"
+        },
+        {
+          "url": "media/cached-image_f4a36e98bd94d83b8764e3c1c51266155c44a79cc417d8db3c6c0daa54dd3f04.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.6,
+      "reviewCount": 871,
+      "priceLevel": null,
+      "address": "Japan, 〒936-0803 Toyama, Namerikawa, Kuriyama, Arisoumi Service Area (Southbound), 字松ヶ窪2913-10",
+      "city": "Namerikawa",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7702689,137.3999963,3a,75y,102.61h,97.64t/data=!3m7!1e1!3m5!1sFkCc0ysMK7uT4Mu2E98GhA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.639668670410444%26panoid%3DFkCc0ysMK7uT4Mu2E98GhA%26yaw%3D102.61044852165892!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCbGGqErGODURXh1vroTlM-U",
+      "name": "Holiday Inn Resort Miyazaki by IHG",
+      "localName": "ANA ホリデイ・イン リゾート 宮崎",
+      "coordinates": {
+        "lat": 31.8061106,
+        "lng": 131.46157639999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6b1a7b4-d952-44ce-80dc-daef0ec93926.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6b1a7b4-d952-44ce-80dc-daef0ec93926.webp"
+        },
+        {
+          "url": "media/cached-image_0933fd503a5e0118a3017d3664d4fad5c4423de3eef718b4b1414f1cb51ef69e.jpg"
+        },
+        {
+          "url": "media/cached-image_7eb9dcd27394d4d2e5e3b2ae3d3da58cb26d9a3cea0268ad33f8ebd700f639a8.jpg"
+        },
+        {
+          "url": "media/cached-image_fdca044831ac51f8dd8cc957d49bb203c887d8839c8adfafc4362a8a5c5633fa.jpg"
+        },
+        {
+          "url": "media/cached-image_f36c919e64788309ae9d525b180cac06f248ffaf843d34b23ff4f0a162ce456b.jpg"
+        },
+        {
+          "url": "media/cached-image_bd10c6fe6029256aadb80e281fce0b6fa46b59564f13cc379e128fd55a84d255.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.1,
+      "reviewCount": 71,
+      "priceLevel": null,
+      "address": "Holiday Inn Resort Miyazaki by IHG, 1 Chome-16-1 Aoshima, Miyazaki, 889-2162, Japan",
+      "city": "Miyazaki",
+      "region": "Miyazaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.8063526,131.4632406,3a,60y,274.12h,103.46t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqi-__YA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0fIrE0xqtGyOHfzSZlTdEhay3q8J_47tGMuYhH3-sjANE9I5dYN-aKPyz4vmsRmTP08ACkxS7AE0auxCfPxsctpGYzH62-Xz1nlKSykLnmiwK0CPjAmyjhMDVP5xuhoyf2Cirn%3Dw900-h600-k-no-pi-13.457785972257142-ya149.11585569250832-ro0-fo100!7i8192!8i4096?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_24",
+      "name": "Yayoi Bridge",
+      "localName": "弥生橋",
+      "coordinates": {
+        "lat": 31.80313,
+        "lng": 131.47148
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b85cacd5-c72f-43fb-be9d-554f06a40127.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b85cacd5-c72f-43fb-be9d-554f06a40127.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.8030955,131.4714929,3a,75y,69.96h,92.43t/data=!3m7!1e1!3m5!1sBA31bfS2UZgG-jWPHwBQgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4335667879797427%26panoid%3DBA31bfS2UZgG-jWPHwBQgA%26yaw%3D69.96452434696508!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_25",
+      "name": "StudioFragaria",
+      "localName": null,
+      "coordinates": {
+        "lat": 31.91023,
+        "lng": 131.42212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f8d30524-8acd-4a42-a1b7-6df31eed9905.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f8d30524-8acd-4a42-a1b7-6df31eed9905.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.9100657,131.4221195,3a,48.7y,3.85h,97.41t/data=!3m7!1e1!3m5!1sNXwNKyY0iDFs76A0a3qCyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.408862006632901%26panoid%3DNXwNKyY0iDFs76A0a3qCyA%26yaw%3D3.8468098988284964!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_26",
+      "name": "Shisha Cafe&Bar CHIMNEY",
+      "localName": "シーシャカフェ バー チムニー",
+      "coordinates": {
+        "lat": 36.56122,
+        "lng": 136.65398
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00b3ba48-6f5c-4feb-af12-f41189d35ef1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00b3ba48-6f5c-4feb-af12-f41189d35ef1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5611982,136.6540132,3a,75y,251.62h,94.39t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE1aXQbQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu3ZsjW_n2pycDVZ8r8CCXCzrdHPq9gXxBho1dI42JX98T0aTxoQmobIDHKfwcQfs-IzFS2CYdEsQ14j9AfSWAi4qgU1oBB8WchgOhzxZToEpmFWRzyyQ40OWPuKnSIJkVW1cvz9%3Dw900-h600-k-no-pi-4.390798742655704-ya133.70305279300277-ro0-fo100!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_27",
+      "name": "CHAMPION'S CURRY DINER",
+      "localName": "チャンカレダイナー",
+      "coordinates": {
+        "lat": 36.56032,
+        "lng": 136.65382
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61b14383-57c8-4bed-ba26-5c91cb4c29b2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61b14383-57c8-4bed-ba26-5c91cb4c29b2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5601912,136.653883,3a,90y,344.15h,102.02t/data=!3m7!1e1!3m5!1sln3P0pNYXOYrF3pbybgtAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.018949167424054%26panoid%3Dln3P0pNYXOYrF3pbybgtAQ%26yaw%3D344.1478732090571!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJudO36ow6918R70zgz6jkfTk",
+      "name": "Noto-Nakajima Station",
+      "localName": "能登中島駅",
+      "coordinates": {
+        "lat": 37.109153,
+        "lng": 136.8533481
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f492aff-b68c-4b45-9dad-a8c599f488d4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f492aff-b68c-4b45-9dad-a8c599f488d4.webp"
+        },
+        {
+          "url": "media/cached-image_326940956a741f9ebcaed1390a3b5636ac3e8b333093810bf3616cdf18ef108c.jpg"
+        },
+        {
+          "url": "media/cached-image_3684605498deb57ec1db791967326dff6d10e1c865e22c3314be85230d6252ed.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Noto-Nakajima Station, No Nakajimamachi Hamada, Nanao, Ishikawa 929-2241, Japan",
+      "city": "Nanao",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@37.1092353,136.8530843,3a,75y,115.91h,91.62t/data=!3m7!1e1!3m5!1sTBymMXyq0Ww3SzSLYlMG7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6224928982205284%26panoid%3DTBymMXyq0Ww3SzSLYlMG7A%26yaw%3D115.91218662944266!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 19
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0xPT93Az-F8RpTSlbHwo9L8",
+      "name": "Omicho Market",
+      "localName": "近江町市場",
+      "coordinates": {
+        "lat": 36.5717335,
+        "lng": 136.6558651
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8271fdd3-648d-495f-881c-4ab342fa2d76.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8271fdd3-648d-495f-881c-4ab342fa2d76.webp"
+        },
+        {
+          "url": "media/cached-image_a6e96a60036c4e1934db1df2c534d02a55e06350cee30882be86639335367f03.jpg"
+        },
+        {
+          "url": "media/cached-image_ad82ad82e559731e0fd14feb5f26860b5187684a8c54478cfb2d1e5399dded7d.jpg"
+        },
+        {
+          "url": "media/cached-image_cde4edc1884266aadd227b923443d58d2cf61aac5db14ea0fe6d5b7f636f8a29.jpg"
+        },
+        {
+          "url": "media/cached-image_2689fabe93c56b12d1da52068c8f01a6ff75496e1f5c249c375889702d415328.jpg"
+        },
+        {
+          "url": "media/cached-image_87b8b8a71bc8dda9bd6226eb8e43fe31fea1a499f8239d50abd2aa53160ed662.jpg"
+        }
+      ],
+      "type": "Fresh food market",
+      "categories": [
+        "Fresh food market"
+      ],
+      "rating": 3.8,
+      "reviewCount": 6276,
+      "priceLevel": null,
+      "address": "Omicho Market, 50 Kamiomicho, Kanazawa, Ishikawa 920-0905, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5712898,136.6562108,3a,90y,203.27h,102t/data=!3m7!1e1!3m5!1sqCwnaXnftuY4as2flCDAHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.997653632429191%26panoid%3DqCwnaXnftuY4as2flCDAHA%26yaw%3D203.26843801818384!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Kanazawa's historic covered market appears in episode 21 and captures the lively everyday city life that contrasts with the quiet Yuwaku onsen village. Ohana and colleagues are seen here in a market scene that showcases the town's seafood culture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF_3Dv2qNGGAR4OgDhoqPkzs",
+      "name": "Biblio.Classic",
+      "localName": "ビブリオ. クラシック",
+      "coordinates": {
+        "lat": 35.7209177,
+        "lng": 139.7129878
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c91a5843-3586-4957-82b1-77b1ac78de2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c91a5843-3586-4957-82b1-77b1ac78de2b.webp"
+        },
+        {
+          "url": "media/cached-image_71558dd8382001b96afe4a552623446adead7f3ee4dd9c211b81dc1b502ae455.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Biblio.Classic, サンライズビル ３Ｆ 3 Chome-7-2 Zoshigaya, Toshima City, Tokyo 171-0032, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7208431,139.7129041,3a,90y,250.94h,111.39t/data=!3m7!1e1!3m5!1sFqjfK53SFc619Mv6B6V4PA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.38650382676687%26panoid%3DFqjfK53SFc619Mv6B6V4PA%26yaw%3D250.9445965389452!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVXp5caMGGAR34cwnEDDvuo",
+      "name": "Docomo Tower",
+      "localName": "NTTドコモ代々木ビル(ドコモタワー)",
+      "coordinates": {
+        "lat": 35.684401199999996,
+        "lng": 139.70308509999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a1e4ec2-cd8a-4158-996f-cbc17f296806.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a1e4ec2-cd8a-4158-996f-cbc17f296806.webp"
+        },
+        {
+          "url": "media/cached-image_e506ebd7f3e60d9214b59c074ca7c34b527aa44e6602715a8265c43999efeb86.jpg"
+        },
+        {
+          "url": "media/cached-image_a163ea7d2b105dabeb03801bda9c7f7617e985da948ff525d84162e45cfd57e6.jpg"
+        }
+      ],
+      "type": "Business center",
+      "categories": [
+        "Business center"
+      ],
+      "rating": 3.6,
+      "reviewCount": 18,
+      "priceLevel": null,
+      "address": "Docomo Tower, 5 Chome-24-10 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6844526,139.7026898,3a,90y,75.13h,98.19t/data=!3m7!1e1!3m5!1sNn0cLJh_YZ2Rf0DgexZAVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.194688631245427%26panoid%3DNn0cLJh_YZ2Rf0DgexZAVw%26yaw%3D75.12668837064956!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 24
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCewJkL2LGGAR3Qmk0vCTGkg",
+      "name": "Tokyo Tower",
+      "localName": "東京タワー",
+      "coordinates": {
+        "lat": 35.6585805,
+        "lng": 139.7454329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5890586b-2aad-455b-8a82-8ff191732a72.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5890586b-2aad-455b-8a82-8ff191732a72.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": 479504,
+      "priceLevel": null,
+      "address": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tokyo+Tower/@35.6586633,139.7455355,2a,90y,35.65h,91.92t/data=!3m8!1e1!3m6!1sA4Pj25gifXP52eQPMmf7PA!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.920517690659949%26panoid%3DA4Pj25gifXP52eQPMmf7PA%26yaw%3D35.64805169877632!7i13312!8i6656!4m9!3m8!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329!10e5!14m1!1BCgIgARICCAI!16zL20vMDEzMl94?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "Tokyo Tower appears in episode 17 as a background landmark during scenes set in Tokyo, where Ohana's free-spirited mother Satsuki lives. The tower visually marks the contrast between the bustling city life Ohana left behind and the quiet inn world she has grown to love."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG-ebewA5-F8RFWgnbO4Dv90",
+      "name": "Kanazawa Yuwaku Yumeji-kan",
+      "localName": "金沢湯涌夢二館",
+      "coordinates": {
+        "lat": 36.4859559,
+        "lng": 136.75746039999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f22a133f-063d-4f20-a2d9-b2cd8915eb3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f22a133f-063d-4f20-a2d9-b2cd8915eb3d.webp"
+        },
+        {
+          "url": "media/cached-image_424ce5f174bb32054e9985870124935b8e6bfdc2e324ea295e38bc30aa188a89.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kanazawa Yuwaku Yumeji-kan, I-144 Yuwakumachi, Kanazawa, Ishikawa 920-1123, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4857643,136.7573071,3a,75y,106.49h,97.66t/data=!3m7!1e1!3m5!1sum6oxMJICZP2ndaZkvvwzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.655626292932098%26panoid%3Dum6oxMJICZP2ndaZkvvwzQ%26yaw%3D106.49408008164963!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 26,
+      "entityContext": "Located steps from Yuwaku Onsen, this museum dedicated to artist Yumeji Takehisa appears in episode 26 and is part of the core Yuwaku pilgrimage cluster. Its Meiji-era aesthetic matches the nostalgic mood Ohana reflects on as the Bonbori Festival approaches."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2aFRlU2-F8RFWLeb8RV8Y0",
+      "name": "Grass Matinee Kanazawa",
+      "localName": "金沢市",
+      "coordinates": {
+        "lat": 36.5597341,
+        "lng": 136.6520375
+      },
+      "image": "https://cdn.animepilgrimage.com/places/06f2c961-8800-427c-9b5d-e569674679fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/06f2c961-8800-427c-9b5d-e569674679fa.webp"
+        },
+        {
+          "url": "media/cached-image_1d38be272078b86d8f3fec07462ec28da9ea6fce26abce10a8032debfbefbe80.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kanazawa, Ishikawa, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5767543,136.6537691,3a,75y,0.09h,94.25t/data=!3m7!1e1!3m5!1sHOkDuAyve070pxHEyRQnTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.2496047367976075%26panoid%3DHOkDuAyve070pxHEyRQnTA%26yaw%3D0.08721719637588876!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 26
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK6u0_uwv918R6YnLVip4EsU",
+      "name": "Nishigishi Station",
+      "localName": "西岸駅",
+      "coordinates": {
+        "lat": 37.1474565,
+        "lng": 136.8747579
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6255d68f-7779-4a1f-ad5c-775b365378c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6255d68f-7779-4a1f-ad5c-775b365378c6.webp"
+        },
+        {
+          "url": "media/cached-image_441e26107c5c6b1555093ca5c6a2ba021ece2277f46c1c1d29840cc4e240789c.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "I Nakajimamachisode, Nanao, Ishikawa 929-2213, Japan",
+      "city": "Nanao",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@37.1474565,136.8747579,3a,75y,313.55h,97.04t/data=!3m7!1e1!3m5!1sgw3URMK9Z0i6JhxhKDOxZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dgw3URMK9Z0i6JhxhKDOxZg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D20.847456%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small rural station on the Noto Railway is the real-world model for Yuina-machi Station, where Ohana Matsumae arrives alone in episode 1 to begin her new life at Kissuiso. The weathered wooden platform captures the same quiet, isolated feeling Ohana experiences as she takes her first uncertain steps into her new world.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM9xJEHeLGGARAshMWUgC_ls",
+      "name": "Roppongi Hills",
+      "localName": "六本木ヒルズ",
+      "coordinates": {
+        "lat": 35.66074,
+        "lng": 139.73014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab824ced-5258-4ce2-9f2e-537726c56053.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab824ced-5258-4ce2-9f2e-537726c56053.webp"
+        },
+        {
+          "url": "media/cached-image_29fa16b40374f0673d14ee97d4b87122a63239baa9485631c8f7aac8ef137dbf.jpg"
+        }
+      ],
+      "type": "商業地",
+      "categories": [
+        "商業地"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-10-1 Roppongi, Minato City, Tokyo 106-6108, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2JhaiDr6pghMz86x7",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9ZPE2-NGGARwiJyx0Id61E",
+      "name": "Sunshine City",
+      "localName": "サンシャインシティ",
+      "coordinates": {
+        "lat": 35.72909,
+        "lng": 139.71944
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c5c28f38-96f8-4e26-9f2b-c385cee753e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c5c28f38-96f8-4e26-9f2b-c385cee753e6.webp"
+        },
+        {
+          "url": "media/cached-image_dee0bce855d85dd49a8f4e5e6cedd2f6e4bcb00f9a5afdd0ba665d7f713fe1a9.jpg"
+        },
+        {
+          "url": "media/cached-image_96dac805664937a57e00ba093700ee366e713de7e2ba1be6c116c5bd44baf9d0.jpg"
+        },
+        {
+          "url": "media/cached-image_1c61e65f52fd6660b2c9957e5459b21514f545b49e24eb048bf8b66c328d97f0.jpg"
+        },
+        {
+          "url": "media/cached-image_773977c5bf3bd8ec008b314557f2f1981c84cc10eaa5ecbb029cc2658c6a498d.jpg"
+        },
+        {
+          "url": "media/cached-image_3a0b000dfbe05f5864cf493488b8c17c7979750514decadfb45117ca3cc92042.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-1-2 Higashiikebukuro, Toshima City, Tokyo 170-8630, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7290416,139.7194856,3a,63.4y,125.51h,93.53t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4j5zc5wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c8FKMk57qNq304LDEADWuc5EUF4wmqhIJAbvEtWfkfEaDdpp62jCgStJ3lYeKtbhRXMynotuwcGLgkDNbhzJyh0sCJd62ITTAPVgNzw4lcABU9m7pn5XKe-vXcYqqecRsqwXrux%3Dw900-h600-k-no-pi-3.52814114721194-ya179.26255332884526-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+      "name": "Tokyo Station",
+      "localName": "東京駅",
+      "coordinates": {
+        "lat": 35.68121,
+        "lng": 139.76629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9a577577-8f38-482f-a6e2-33ed5f0cf55a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9a577577-8f38-482f-a6e2-33ed5f0cf55a.webp"
+        },
+        {
+          "url": "media/cached-image_b5f22fd988082df1769467e8e747c2737a689fff3e06a011ea50d2204b2d06b3.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812113,139.7662978,2a,75y,10.72h,96.24t/data=!3m7!1e1!3m5!1sXxaT2133gCbTBlJ9IJG8HA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.237910337800855%26panoid%3DXxaT2133gCbTBlJ9IJG8HA%26yaw%3D10.722069162988722!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBYa7A0Iz-F8R6qe7HgH2XV0",
+      "name": "Kanazawa Station",
+      "localName": "金沢駅",
+      "coordinates": {
+        "lat": 36.5780503,
+        "lng": 136.648509
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b82c841-955e-4f7c-8dfd-9a7f51d9e128.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b82c841-955e-4f7c-8dfd-9a7f51d9e128.webp"
+        },
+        {
+          "url": "media/cached-image_efc8a99cc728b3bac125030eaac08512a3faa3cd7139d0e3bf73906717ccb3c9.jpg"
+        },
+        {
+          "url": "media/cached-image_c815470b383f7bee8628c24d464c97eafc11871cb1b845b9a51e2b5d6ac906b7.jpg"
+        },
+        {
+          "url": "media/cached-image_d296fb2a4ef0d66a59ef8da7c48264ed6daeeb3ed596d5222d00760735e680a8.jpg"
+        },
+        {
+          "url": "media/cached-image_1de95e47bdfd9f54f85ea4e266eceb09f82e0f79fb8ef0b1cd0223634f405d44.jpg"
+        },
+        {
+          "url": "media/cached-image_d06e74bfcb0fbc52bac67f88d4dd58d89ea14afbd87dedff1421a304bc773ccb.jpg"
+        },
+        {
+          "url": "media/cached-image_2f9bcef320659cd6cc4a35ec677b400a7f47f98191cfb365504700c4db82eaac.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.3,
+      "reviewCount": 5794,
+      "priceLevel": null,
+      "address": "1番-1号 Kinoshinbomachi, Kanazawa, Ishikawa 920-0858, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5780503,136.648509,2a,90y,345.43h,100.68t/data=!3m6!1e1!3m4!1sKdqIjbkYdz-GKu9SdpQZBw!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kanazawa Station's famous Tsuzumi-mon drum gate appears in episode 8 as Ohana and other characters pass through the city. It serves as the main transit hub for anyone making the pilgrimage journey from Tokyo to Yuwaku Onsen."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_40",
+      "name": "Yuwaku Post Office",
+      "localName": "湯涌郵便局",
+      "coordinates": {
+        "lat": 36.48752,
+        "lng": 136.7562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f0669fb-7cf8-4ac8-b52f-7bd145798331.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f0669fb-7cf8-4ac8-b52f-7bd145798331.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4876706,136.7560966,3a,65.9y,150.06h,97.3t/data=!3m7!1e1!3m5!1spedL5-2A46ZWLdKGGz53Zw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.299121874461008%26panoid%3DpedL5-2A46ZWLdKGGz53Zw%26yaw%3D150.05692684517305!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Yuwaku Post Office appears in the opening sequence and is one of the landmark buildings fans spot while walking the village streets that inspired Kissuiso's surroundings. Its small-town feel anchors the rural onsen setting Ohana calls home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCx6jgqGMGGARpfB5UIap15k",
+      "name": "Omotesando Illumination",
+      "localName": "表参道ヒルズ",
+      "coordinates": {
+        "lat": 35.6672869,
+        "lng": 139.7086162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/66de57dc-07b1-4053-9bc0-13a47c1c2409.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/66de57dc-07b1-4053-9bc0-13a47c1c2409.webp"
+        },
+        {
+          "url": "media/cached-image_66b21b3bf9101a2bbd1393990ee2ccb81a59110892a3e137dc436ebec409c315.jpg"
+        },
+        {
+          "url": "media/cached-image_eab58d3d26023452526e0daeb2d119ebdf09a01de2890abd33a471f3c4413c8e.jpg"
+        },
+        {
+          "url": "media/cached-image_dce13b882f9b008924e1ea3d3fdb2de616973c58a99670e562396af7312361e5.jpg"
+        },
+        {
+          "url": "media/cached-image_35dfd451148fd4c0989d5916625454632cd2d17306279dbe631d1f4f16df59f6.jpg"
+        },
+        {
+          "url": "media/cached-image_7d9008f998b7f9e3e602685de745c963fd09177582a4e60712cdf6742d768bbd.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.4,
+      "reviewCount": 681,
+      "priceLevel": null,
+      "address": "Omotesando Hills, 4 Chome-12-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6672895,139.7080984,3a,90y,190.14h,99.87t/data=!3m7!1e1!3m5!1sxvBlNk_q9VeMtng2CQB37Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.865200005853481%26panoid%3DxvBlNk_q9VeMtng2CQB37Q%26yaw%3D190.14279576786217!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPY1tcf1uc18Rd5Z5CQ-GrgY",
+      "name": "Fukujin Bridge",
+      "localName": "福神橋",
+      "coordinates": {
+        "lat": 43.0931462,
+        "lng": 142.8328175
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4c8b70d-78ec-4e47-8697-f88a214a8df0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4c8b70d-78ec-4e47-8697-f88a214a8df0.webp"
+        },
+        {
+          "url": "media/cached-image_960bea58207928d6c18a6759c8d330ff13eb2788569c8ab807c9a727c193f85c.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukujin Bridge, Shintoku, Kamikawa District, Hokkaido, Japan",
+      "city": "Shintoku",
+      "region": "Kamikawa District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4886438,136.7555463,3a,75y,148.65h,93.59t/data=!3m7!1e1!3m5!1snJP9StYznZupa6DHK6ztdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5862494251770585%26panoid%3DnJP9StYznZupa6DHK6ztdQ%26yaw%3D148.6453904112922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_hanasaku-iroha_43",
+      "name": "Gyokusen Kobo",
+      "localName": "玉泉工房",
+      "coordinates": {
+        "lat": 36.4882,
+        "lng": 136.75572
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5294faa4-6485-4816-a368-bf84ba15189d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5294faa4-6485-4816-a368-bf84ba15189d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4881529,136.7558243,3a,48.7y,290.07h,87.18t/data=!3m7!1e1!3m5!1smsSpL96VjTkKFmfZt3DSSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8199766326723505%26panoid%3DmsSpL96VjTkKFmfZt3DSSw%26yaw%3D290.07154775390967!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This craft studio in Yuwaku Onsen appears in the ending credits, representing the quiet artisan character of the hot spring village. Fans walk past it as part of the Yuwaku Onsen pilgrimage loop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc9B8KcE5-F8RyKBxyN_DLJE",
+      "name": "Gyokusendo (Yuwaku Onsen)",
+      "localName": "湯涌温泉総湯 白鷺の湯",
+      "coordinates": {
+        "lat": 36.4855163,
+        "lng": 136.75765099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f99cc349-e7fa-4865-ba80-09149bab5747.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f99cc349-e7fa-4865-ba80-09149bab5747.webp"
+        }
+      ],
+      "type": "Sento",
+      "categories": [
+        "Sento"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yuwaku Onsen Public Bath, イ１３９-2 Yuwakumachi, Kanazawa, Ishikawa 920-1123, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4832885,136.7570318,3a,90y,101.56h,94.07t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID497a4eQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2D9rtRI39WPrwB4TUreiwnqG7okira1gzqO-nKOsb8v3fjTvX4vURh7gN1beX7DaxrSPKvZr2BFb7h3eKE0zNadpOKTMhIr131MTLsFT6evIN3IvP-JRcj7HHmfO40qaph0vBv%3Dw900-h600-k-no-pi-4.069067925586268-ya67.55778546586913-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This public bathhouse in Yuwaku Onsen, known as Shirasagi-no-Yu, is featured in the ending credits sequence and embodies the everyday onsen life at the heart of the series. Its traditional exterior is a beloved photo stop for fans completing the Hanasaku Iroha pilgrimage circuit.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK98beYTmGGAR_jNuf5sDyb8",
+      "name": "Drug SEIJO Hitotsubashi-Gakuen Station Front Shop",
+      "localName": "一橋学園駅",
+      "coordinates": {
+        "lat": 35.7217424,
+        "lng": 139.480057
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b52cebc-848d-44e7-87de-3d1f034ee991.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b52cebc-848d-44e7-87de-3d1f034ee991.webp"
+        },
+        {
+          "url": "media/cached-image_9b6cbdbde936e299ee2f784d211676b81533df305de68307ff414051a8f5078e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hitotsubashi-gakuen Station, 2 Chome-1-1 Gakuen Nishimachi, Kodaira, Tokyo 187-0045, Japan",
+      "city": "Kodaira",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7234341,139.4800905,3a,90y,78.02h,97.6t/data=!3m7!1e1!3m5!1sk81rYrd9rv3lUW7T6M89mQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.597635952436534%26panoid%3Dk81rYrd9rv3lUW7T6M89mQ%26yaw%3D78.02087840322446!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The area around Hitotsubashi-gakuen Station in Tokyo appears in episode 1 as part of the neighborhood where Ohana lives before she is sent to Yuwaku. It establishes the urban starting point of her journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3cFPK-aLGGARNaz58SuwM7M",
+      "name": "Motoyoshi Shokuryohinten",
+      "localName": "天ぷら元吉",
+      "coordinates": {
+        "lat": 35.6495351,
+        "lng": 139.7075519
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aaf036ec-ecec-4214-a9f7-533de8ab905a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aaf036ec-ecec-4214-a9f7-533de8ab905a.webp"
+        },
+        {
+          "url": "media/cached-image_c411985a0816ec0a53b82cb1b0e795b2c0809ef59b56e95fbd6ab76ef22e53bd.jpg"
+        }
+      ],
+      "type": "Tempura restaurant",
+      "categories": [
+        "Tempura restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tempura Motoyoshi, Granbell Ebisu IV, 3階 2 Chome-8-11 Ebisunishi, Shibuya, Tokyo 150-0021, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4860553,136.7571144,3a,75y,333h,93.43t/data=!3m7!1e1!3m5!1sXD1lmYorePEumDU1ewhCGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4308680505490656%26panoid%3DXD1lmYorePEumDU1ewhCGA%26yaw%3D333.0036601153197!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Yuwaku-area shop appears in episode 1 in the context of establishing the inn's local surroundings. It is documented in pilgrimage records as a background location match near Kokarian and the Yuwaku cluster."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58qtRsE5-F8R2nri0-8JzHA",
+      "name": "Kokarian",
+      "localName": "古香里庵",
+      "coordinates": {
+        "lat": 36.4864447,
+        "lng": 136.7569914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78c27291-a537-4d3b-a556-8a82745a3008.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78c27291-a537-4d3b-a556-8a82745a3008.webp"
+        },
+        {
+          "url": "media/cached-image_8e4209d969b9c15c6eca22f6c838e8384b20ff98e87549678feb5677c5352aa0.jpg"
+        },
+        {
+          "url": "media/cached-image_b041b97e67ec46ceba9278675b4b51002e48013a57d159e6473b53e2704af0dc.jpg"
+        },
+        {
+          "url": "media/cached-image_fd977747d8380aaa3f8cda57a22300d7a49ab276939d6f61d54a72a71552adca.jpg"
+        },
+        {
+          "url": "media/cached-image_24ea36b953454f3795b8491fe17a2bab32bcebc1e60a165ac70a8dcec42cce3c.jpg"
+        },
+        {
+          "url": "media/cached-image_4fa1793a63e487a9fc19b84af244177a049ec9841dcda9f2ed78267ff4cff6aa.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kokarian, I-６８ Yuwakumachi, Kanazawa, Ishikawa 920-1123, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4867062,136.7566895,3a,48.8y,153.23h,94.65t/data=!3m7!1e1!3m5!1soH18_fU5UUZJNpK7PuiafA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.651037241453082%26panoid%3DoH18_fU5UUZJNpK7PuiafA%26yaw%3D153.2325046016614!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This atmospheric Yuwaku Onsen ryokan directly inspired the look and spirit of Kissuiso, the inn where Ohana works under her strict grandmother Sui in episode 1. Walking its hallways gives fans the closest real-life feel for the show's central setting.",
+      "fanTopPick": true
+    }
+  ]
+}

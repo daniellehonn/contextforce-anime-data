@@ -1,0 +1,853 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Oomuro-ke: Dear Friends",
+  "slug": "oomuro-ke-dear-friends",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_5ce55f3c3fb41fe8101ec958ae986ae0ef580b3d7e33f9f8facfdc470387f10f.webp",
+  "image": "media/cached-image_5ce55f3c3fb41fe8101ec958ae986ae0ef580b3d7e33f9f8facfdc470387f10f.webp",
+  "banner": null,
+  "primaryLocation": "Toyama, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.580540737499994,
+    "lng": 137.31004660833332
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Oomuro-ke: Dear Friends"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_0",
+      "name": "Terada Orthodontics Clinic",
+      "localName": "寺田矯正歯科医院",
+      "coordinates": {
+        "lat": 36.73552,
+        "lng": 137.00404
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4da65a1b-b6d1-4f41-814f-36f038f0848f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4da65a1b-b6d1-4f41-814f-36f038f0848f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7355378,137.0040503,3a,49.6y,274.65h,94.38t/data=!3m7!1e1!3m5!1s-zy9-KG0nPWGlMCZT9w8QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.38268067483277%26panoid%3D-zy9-KG0nPWGlMCZT9w8QA%26yaw%3D274.65170901815594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The clinic's exterior appears in the opening sequence as Sakurako walks through her neighborhood, grounding the film's everyday Takaoka atmosphere from the very first frames."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_1",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73603,
+        "lng": 137.00136
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f8ceca8-fb90-4dee-b76a-9e1ed4007d46.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f8ceca8-fb90-4dee-b76a-9e1ed4007d46.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7359888,137.001347,3a,75y,10.85h,94.59t/data=!3m7!1e1!3m5!1sYr_OUZcwql1n43-6jvHU6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.585102207964866%26panoid%3DYr_OUZcwql1n43-6jvHU6Q%26yaw%3D10.85027562244402!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This neighborhood parking lot is one of several angles of the same Kizu-area lot used as a backdrop during the sisters' after-school wandering scenes in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ05gBfW2D918RZHEkR-OqfNc",
+      "name": "s. r-trois / エス エール トロワ",
+      "localName": "s. r-trois / エス エール トロワ",
+      "coordinates": {
+        "lat": 36.7387666,
+        "lng": 137.0059709
+      },
+      "image": "https://cdn.animepilgrimage.com/places/28444816-1e65-4ea0-afa0-024c7cb6a582.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/28444816-1e65-4ea0-afa0-024c7cb6a582.webp"
+        }
+      ],
+      "type": "Modern French restaurant",
+      "categories": [
+        "Modern French restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0866 Toyama, Takaoka, Shimizumachi, 3 Chome−5−58 2F s. r-trois / エス エール トロワ",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7389394,137.0055608,3a,48.7y,34.07h,95.21t/data=!3m7!1e1!3m5!1sSwKQWEsOhcOGZEjaHnZIIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.206543116852288%26panoid%3DSwKQWEsOhcOGZEjaHnZIIw%26yaw%3D34.074208927517624!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The stylish facade of this upscale French restaurant appears briefly in the film as the friends pass through Takaoka's shopping district, contrasting with the characters' everyday budget lifestyle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNz-lpa-C918Rml4uYGOn7AA",
+      "name": "Kanaya Ryokuchi Park",
+      "localName": "金屋緑地公園",
+      "coordinates": {
+        "lat": 36.750129199999996,
+        "lng": 137.0067364
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e99dfc7b-12df-4451-baf1-3bd750635eda.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e99dfc7b-12df-4451-baf1-3bd750635eda.webp"
+        },
+        {
+          "url": "media/cached-image_35a09ae13914484283ac0fc17b108d0b0152908990447a949d07a93af117af48.jpg"
+        },
+        {
+          "url": "media/cached-image_3851e4d34e392bfffd7c708105e350e4a53c2b076be7e5c8c71a9ede8fae3ad5.jpg"
+        },
+        {
+          "url": "media/cached-image_84af89746b01a4aaa32dc3307f7b3a913f2506bf7ea966e29bd660328687f0a5.jpg"
+        },
+        {
+          "url": "media/cached-image_ea087ef07dc5bf1227c212672afa65eae004ba04a7a766a09702b2b5bddbb86d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Kanaya Ryokuchi Park, 1-8 Kanayamachi, Takaoka, Toyama 933-0841, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7498764,137.0069254,3a,45.4y,34.68h,92.36t/data=!3m7!1e1!3m5!1sBhrselxtzSNN_dD-bg8bfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.363233985454272%26panoid%3DBhrselxtzSNN_dD-bg8bfQ%26yaw%3D34.68394745583107!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The park serves as a relaxed outdoor setting where the sisters spend time together on a day off, capturing the gentle, unhurried pace that defines the film's slice-of-life tone.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_4",
+      "name": "La Foret",
+      "localName": "喫茶 ラ・フォーレ",
+      "coordinates": {
+        "lat": 36.73951,
+        "lng": 137.00259
+      },
+      "image": "https://cdn.animepilgrimage.com/places/572562d7-ca2c-4e2a-bf12-75e6652b53f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/572562d7-ca2c-4e2a-bf12-75e6652b53f3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.739636,137.0025611,3a,39.2y,198.4h,93.55t/data=!3m7!1e1!3m5!1s8Q42cALMpaw3PAv7CRv2Cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5517911112951026%26panoid%3D8Q42cALMpaw3PAv7CRv2Cw%26yaw%3D198.40006610583924!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This retro kissaten is featured as a warm gathering spot where characters enjoy coffee and conversation, embodying the cozy old-town Takaoka ambiance central to the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW1lC8ZSC918RRANStYdd6EI",
+      "name": "V drug Takaoka Kizu Store",
+      "localName": "Ｖ・drug 高岡木津店",
+      "coordinates": {
+        "lat": 36.7385875,
+        "lng": 137.0012386
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1cf0b8fb-5ca0-4e54-b68f-6891315ea7f0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1cf0b8fb-5ca0-4e54-b68f-6891315ea7f0.webp"
+        },
+        {
+          "url": "media/cached-image_bf980620396c2863d268fcd75cf8e625c3e24a546e93822c7a063f3136a2f1e8.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "V drug, 458-14 Kizu, Takaoka, Toyama 933-0857, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7385503,137.0015466,3a,15.9y,28.39h,93.08t/data=!3m7!1e1!3m5!1sUABiOQ3Wm_u5WcekaTlO0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0779569347511284%26panoid%3DUABiOQ3Wm_u5WcekaTlO0g%26yaw%3D28.39148438267442!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The drugstore exterior appears in a slice-of-life errand scene, one of several ordinary Kizu neighborhood storefronts that give the film its grounded, realistic Takaoka setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_6",
+      "name": "La Foret",
+      "localName": "喫茶 ラ・フォーレ",
+      "coordinates": {
+        "lat": 36.73924,
+        "lng": 137.00268
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b2f5963-49ff-4609-b34a-a2485ed769bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b2f5963-49ff-4609-b34a-a2485ed769bd.webp"
+        },
+        {
+          "url": "media/cached-image_edc7ca3cbd07e88937d6b50501619932bb366b3e627a56c2cf351a51860c01b7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7393827,137.0026502,3a,43y,323.78h,95.75t/data=!3m7!1e1!3m5!1svJJfh8qVJsNmXvetXY-atg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.749075622055884%26panoid%3DvJJfh8qVJsNmXvetXY-atg%26yaw%3D323.7799331209928!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A second angle of the La Foret kissaten exterior, matched by fans to a scene where characters linger near the entrance before heading inside for a quiet moment together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvUaNCZaC918RkAIDNbt-YL8",
+      "name": "Senbogawa Ryokuchi Park",
+      "localName": "千保川緑地",
+      "coordinates": {
+        "lat": 36.741161999999996,
+        "lng": 137.0008372
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b498eae7-d72d-4fc6-bcb3-e938155f5ebe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b498eae7-d72d-4fc6-bcb3-e938155f5ebe.webp"
+        },
+        {
+          "url": "media/cached-image_a671adc75d1539d727b03e38720b8bd65e454b19f80ce05b5c3f905aad4fe2fd.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Senbogawa Ryokuchi Park, 1 Chome-10 Shimizumachi, Takaoka, Toyama 933-0866, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7419056,137.0002929,3a,48y,301.2h,97.91t/data=!3m7!1e1!3m5!1sxqIfngwZMWV85e0dxmV-EQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.911331639637851%26panoid%3DxqIfngwZMWV85e0dxmV-EQ%26yaw%3D301.2039085772213!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The riverside greenway along the Senbo River is where Sakurako and a friend walk side by side in one of the film's most peaceful and visually distinctive outdoor sequences.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQDcZlKLGGAR1kTxj0X0Eb8",
+      "name": "Green Bean to Bar Chocolate | Nakameguro",
+      "localName": "green bean to bar CHOCOLATE 中目黒本店",
+      "coordinates": {
+        "lat": 35.648889499999996,
+        "lng": 139.69406899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/682d36d1-f8d4-48e4-b371-d17a3cba747e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/682d36d1-f8d4-48e4-b371-d17a3cba747e.webp"
+        },
+        {
+          "url": "media/cached-image_7af63cfb9c34d69c910adf84000ae5900a0153854c6957f7c7bb22dfb015ce32.jpg"
+        }
+      ],
+      "type": "Chocolate shop",
+      "categories": [
+        "Chocolate shop"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Green Bean to Bar Chocolate | Nakameguro, 2 Chome-16-11 Aobadai, Meguro City, Tokyo 153-0042, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6487554,139.6940586,3a,90y,7.36h,101.25t/data=!3m7!1e1!3m5!1smXbH1ehE9OPTFyXdFaNtHw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.254648117186605%26panoid%3DmXbH1ehE9OPTFyXdFaNtHw%26yaw%3D7.361066489813851!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This artisan chocolate shop in Nakameguro appears during the film's Tokyo excursion segment, where the characters seek out a special gift, marking a rare departure from the Takaoka setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNeAQtceC918RYR-dbKQCBcg",
+      "name": "Lawson Takaoka Station",
+      "localName": "ローソン Ｓ高岡駅北口店",
+      "coordinates": {
+        "lat": 36.741741999999995,
+        "lng": 137.016073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d674f387-a286-4dcc-8af4-05d9678cf99f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d674f387-a286-4dcc-8af4-05d9678cf99f.webp"
+        },
+        {
+          "url": "media/cached-image_ac0ffde8c614ce87f8f56aa72719120708145f2fbf8c41dad2a2995ffd4c185e.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson S Takaoka Station North, 4-55 Shimozekimachi, Takaoka, Toyama 933-0021, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7431532,137.0164868,3a,90y,14.28h,96.95t/data=!3m7!1e1!3m5!1sQen6e6pgb_lRUdFm79xkig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.949089451886536%26panoid%3DQen6e6pgb_lRUdFm79xkig%26yaw%3D14.28418692241683!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Lawson near Takaoka Station is where Sakurako impulsively buys ice cream and snacks, a lighthearted convenience-store scene that fans cite as one of the film's charming everyday moments.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhS3MBbeC918RYzyRAUFFRXk",
+      "name": "Otayadori Pocket Park",
+      "localName": "御旅屋通ポケットパーク",
+      "coordinates": {
+        "lat": 36.745771399999995,
+        "lng": 137.015649
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b2649b3-7830-4f62-8828-94585cb1fde1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b2649b3-7830-4f62-8828-94585cb1fde1.webp"
+        },
+        {
+          "url": "media/cached-image_e6b9c889b0993a291c3b6e3a7b69aeb52f4713a26006dbbe60eaaaae19907a22.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Otayadori Pocket Park, 93 Otayamachi, Takaoka, Toyama 933-0029, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7457027,137.0159718,3a,75y,258.71h,104.19t/data=!3m7!1e1!3m5!1sw6pa_UNu5nEippbKjDs5fQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.188781927783111%26panoid%3Dw6pa_UNu5nEippbKjDs5fQ%26yaw%3D258.7094765010976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small pocket park on the Otayadori shopping promenade is used as a brief rest stop where characters chat between errands, contributing to the film's leisurely walking-around-town feel."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzX7PbreC918RnABM8OdX83I",
+      "name": "Otaya Serio",
+      "localName": "御旅屋セリオ",
+      "coordinates": {
+        "lat": 36.7455433,
+        "lng": 137.0139992
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc8f43b8-8c12-4699-bc97-72fcfb605c64.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc8f43b8-8c12-4699-bc97-72fcfb605c64.webp"
+        },
+        {
+          "url": "media/cached-image_ceafb6ec61dab485646abfa3e14b5e1d59064e0827a61c4b5779f693e714df41.jpg"
+        },
+        {
+          "url": "media/cached-image_308526f29aeb7d8255640e5ac5e6fcdd8b20ec2427370276b46b0c5cbb3d76ee.jpg"
+        },
+        {
+          "url": "media/cached-image_6e459d9c69ab011023c049c07491d29f0458348e3c4f63391c366b24181a4685.jpg"
+        },
+        {
+          "url": "media/cached-image_e208fb2b5143dfbd6554a7462e8d9c811161ded8cfc6da52320a10a8d79a3b8d.jpg"
+        },
+        {
+          "url": "media/cached-image_ada231b328a3809fcdc6fd690131ccbd23c8c93fef403a4efa38ef88dcd8bee4.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.2,
+      "reviewCount": 453,
+      "priceLevel": null,
+      "address": "Otaya Serio, 101 Otayamachi, Takaoka, Toyama 933-0029, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7453149,137.0143509,3a,49.6y,324.14h,91.94t/data=!3m7!1e1!3m5!1sIEx3-8-9HHBEoU9F2wuWrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9363599443372692%26panoid%3DIEx3-8-9HHBEoU9F2wuWrg%26yaw%3D324.142450846257!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Otaya Serio, Takaoka's central shopping complex, is a recurring background landmark in the film's downtown scenes, appearing as characters browse or meet up in the Otayamachi area.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_12",
+      "name": "At Park Daini Parking Lot",
+      "localName": "アットパーク第二駐車場",
+      "coordinates": {
+        "lat": 36.74508,
+        "lng": 137.01376
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f4e6172a-25d8-4c4c-b12a-9c01fcb34ea8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f4e6172a-25d8-4c4c-b12a-9c01fcb34ea8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7450855,137.0137558,3a,90y,63.32h,104.64t/data=!3m7!1e1!3m5!1sp7ekIX9205mvnjiKHP-nDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.63545407219135%26panoid%3Dp7ekIX9205mvnjiKHP-nDA%26yaw%3D63.31782675250171!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The parking lot adjacent to Otaya Serio appears as a transitional setting in the film, visible in street-level shots as characters move through the downtown shopping district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_13",
+      "name": "middle of an island",
+      "localName": "中の島",
+      "coordinates": {
+        "lat": 36.75062,
+        "lng": 137.02206
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b095bb2e-7f65-4d01-9407-fda9cadf7307.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b095bb2e-7f65-4d01-9407-fda9cadf7307.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7506478,137.0220092,3a,62.2y,140.28h,94.31t/data=!3m7!1e1!3m5!1s6jFBtybvbAJQf4xP5jlPEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.308024075334345%26panoid%3D6jFBtybvbAJQf4xP5jlPEQ%26yaw%3D140.28140352838145!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small riverside island area in Takaoka appears in the film as a quiet scenic spot, used for a contemplative outdoor moment between characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_14",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73542,
+        "lng": 137.00124
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eaa216e1-bc69-4c82-be2f-66b71ea9563e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eaa216e1-bc69-4c82-be2f-66b71ea9563e.webp"
+        },
+        {
+          "url": "media/cached-image_9c400b17388ab3c3a133904b30f693f57f5c11a486becf009c6192adf9ebe30d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7354417,137.0012498,3a,75y,258.63h,93.41t/data=!3m7!1e1!3m5!1swInRxvWVaZnRL6ckIj7x5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4129414095137918%26panoid%3DwInRxvWVaZnRL6ckIj7x5A%26yaw%3D258.6309985119923!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Another angle of the Kizu neighborhood parking lot, matched by pilgrimage visitors to background shots in the film's neighborhood-walk sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb6JXbp-LGGARspSRYwptUog",
+      "name": "Appa Hassu Ichibankan",
+      "localName": "一番館",
+      "coordinates": {
+        "lat": 35.655952,
+        "lng": 139.7353664
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e79910a9-ae78-44f2-8be6-17e77be154e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e79910a9-ae78-44f2-8be6-17e77be154e4.webp"
+        },
+        {
+          "url": "media/cached-image_a06c628fe5a222368dfd39eabdbcadcad05c8bb369809ad7160a6c8dda76e5f8.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ichibankan, タカデン麻布十番ビル 1F 1 Chome-8-11 Azabujuban, Minato City, Tokyo 106-0045, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7357382,137.00574,3a,73.2y,187.05h,100.41t/data=!3m7!1e1!3m5!1sTKj6KbRPe3IBHJz23RJQPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.413102318219714%26panoid%3DTKj6KbRPe3IBHJz23RJQPg%26yaw%3D187.04787893650106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This yakiniku restaurant in Azabu-Juban, Tokyo, appears in the opening credits sequence, representing one of the Tokyo-set locations that bookend the film's occasional city detours."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo8Uv4X54918RLvuB4w9D-jY",
+      "name": "Live Town Takaoka",
+      "localName": "高岡市",
+      "coordinates": {
+        "lat": 36.754111699999996,
+        "lng": 137.0257637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6cf87bc-c8ef-40d9-a182-bbf02dc6fffa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6cf87bc-c8ef-40d9-a182-bbf02dc6fffa.webp"
+        },
+        {
+          "url": "media/cached-image_509101c1d93ddf1db8613d38831e2ba9dc55d9b524d51336e42974e17409f6a8.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Takaoka, Toyama, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7356382,137.0026539,3a,90y,91.91h,102.89t/data=!3m7!1e1!3m5!1sDrDr3KpzJedYze7qEHWd2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.887116909533802%26panoid%3DDrDr3KpzJedYze7qEHWd2g%26yaw%3D91.90912135233091!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Live Town Takaoka area appears in the opening sequence as part of the pan across Takaoka's familiar cityscape, establishing the hometown atmosphere before the story begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_17",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.7353,
+        "lng": 137.00108
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3a66498-40fa-4027-9bee-5f159588bfbc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3a66498-40fa-4027-9bee-5f159588bfbc.webp"
+        },
+        {
+          "url": "media/cached-image_3868e22fb5e4bcc1bc839d22f3d19f39f71dfbce445fb4096846416f2e242a68.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7352751,137.0010497,3a,75y,44.79h,96.95t/data=!3m7!1e1!3m5!1sLCMs5_W10rHVK44I94qUxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.949381963547751%26panoid%3DLCMs5_W10rHVK44I94qUxg%26yaw%3D44.78599298589008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "One more angle of the Kizu-area parking lot, captured from a different vantage point and matched by fans to a specific shot in the film's street-level neighborhood footage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_18",
+      "name": "Urata Life Service",
+      "localName": "浦田ライフサービス",
+      "coordinates": {
+        "lat": 36.73572,
+        "lng": 137.00212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5030e5c5-0ce9-41ff-83e5-7fcfb39c1e9c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5030e5c5-0ce9-41ff-83e5-7fcfb39c1e9c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7357421,137.0020952,3a,90y,116.63h,99.34t/data=!3m7!1e1!3m5!1saEGr_WJFVC7h8wT_veDngg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.335268874001244%26panoid%3DaEGr_WJFVC7h8wT_veDngg%26yaw%3D116.63196473453162!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This local service shop exterior appears briefly in the opening sequence as Sakurako walks her home neighborhood, one of several ordinary Kizu-area storefronts that texture the film's setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_19",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73508,
+        "lng": 137.00083
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81d4ddd7-b907-4f82-b339-b225cbb8de7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81d4ddd7-b907-4f82-b339-b225cbb8de7c.webp"
+        },
+        {
+          "url": "media/cached-image_7afad37bec8599356b90c59605443ea140974bcc5cb832682e232cb88f76fc0b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7350733,137.0008209,3a,75y,220.52h,100.75t/data=!3m7!1e1!3m5!1s_fwckRw7JgIMn06MqzdFIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.752840168046149%26panoid%3D_fwckRw7JgIMn06MqzdFIA%26yaw%3D220.52295835163156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yet another angle of the same Kizu parking lot, part of the extensive visual documentation of this single block that pilgrimage fans have matched to multiple film shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_20",
+      "name": "Terada Orthodontics Clinic",
+      "localName": "寺田矯正歯科医院",
+      "coordinates": {
+        "lat": 36.73546,
+        "lng": 137.00483
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81d79093-1281-48a0-af45-a15cf2e5c4c0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81d79093-1281-48a0-af45-a15cf2e5c4c0.webp"
+        },
+        {
+          "url": "media/cached-image_f02c1412f0db26792aacecad13e9cb416b21942ade8c40bc95153c8a40d3bdac.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7354704,137.0047655,3a,90y,85.65h,100.81t/data=!3m7!1e1!3m5!1s0cCEaUddwfxA_xpypyf-kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.809604564455285%26panoid%3D0cCEaUddwfxA_xpypyf-kw%26yaw%3D85.65391452018957!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "A second angle of the Terada Orthodontics Clinic, matched to an opening-sequence shot where the camera follows Sakurako from a different direction along the same street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_21",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.7357,
+        "lng": 137.00128
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3b8d2296-4680-45c1-bd77-61dee643674c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3b8d2296-4680-45c1-bd77-61dee643674c.webp"
+        },
+        {
+          "url": "media/cached-image_78888b50162b6b03ca362ba2b12f8ce43655f3cd027636d7178f9617e2a7368a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7356885,137.0012751,3a,90y,262.27h,97.26t/data=!3m7!1e1!3m5!1sS_M-XSDYoipUyB3amx8D5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.259842978070026%26panoid%3DS_M-XSDYoipUyB3amx8D5Q%26yaw%3D262.26798370382346!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This angle of the Green Parking Lot near the sisters' neighborhood is one of the most-photographed pilgrimage spots, matched to a film shot looking east along the Kizu block."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-friends_22",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73519,
+        "lng": 137.00093
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6cad501-3efb-48e0-af08-bd076a3c45f9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6cad501-3efb-48e0-af08-bd076a3c45f9.webp"
+        },
+        {
+          "url": "media/cached-image_0a1b9852ce6cfb9dc30a53868a7555306193862376d01f476cad0d611d24a01b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7352148,137.0009795,3a,63.9y,225.65h,95.48t/data=!3m7!1e1!3m5!1sOHmj8k7PlbEdLijVLpOe7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.478929848072994%26panoid%3DOHmj8k7PlbEdLijVLpOe7A%26yaw%3D225.65424990253004!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The final listed angle of the Kizu parking lot, matched to a low-angle film shot that highlights the surrounding residential streetscape typical of the Oomuro family's home block."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaVCkkcOPGWARbHtDUfdBn9A",
+      "name": "ＮＩＷ（ニウ）",
+      "localName": "エヌアイウエル（株）",
+      "coordinates": {
+        "lat": 35.0784525,
+        "lng": 138.86661519999998
+      },
+      "image": null,
+      "images": [],
+      "type": "企業のオフィス",
+      "categories": [
+        "企業のオフィス"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒410-0822 Shizuoka, Numazu, Shimokanukishioba, 3070-2 ＮＩＷ（ニウ）",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7350195,137.0001431,3a,90y,69.68h,88.98t/data=!3m7!1e1!3m5!1skvb9Kbw6i0obmcn7zARDew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0188913337473195%26panoid%3Dkvb9Kbw6i0obmcn7zARDew%26yaw%3D69.67706177073227!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    }
+  ]
+}

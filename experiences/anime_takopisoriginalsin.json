@@ -1,0 +1,480 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Takopi's Original Sin",
+  "slug": "takopis-original-sin",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_49e3cbe235a421a075d906b14bf21e25e52eaec6fb859f7e8d77dc64f85bf58d.webp",
+  "image": "media/cached-image_49e3cbe235a421a075d906b14bf21e25e52eaec6fb859f7e8d77dc64f85bf58d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 37.22051440833334,
+    "lng": 139.77026199166664
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Takopi's Original Sin"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJRyXMVqyJGGARI8WZ2_Lfqag",
+      "name": "Park Tower Kinshicho",
+      "localName": "パークタワー錦糸町",
+      "coordinates": {
+        "lat": 35.6947332,
+        "lng": 139.81137099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33e8bdef-358f-4b54-8efd-85067ac37e11.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33e8bdef-358f-4b54-8efd-85067ac37e11.webp"
+        },
+        {
+          "url": "media/cached-image_cb067ece28f204be201716c72d870f0ef312abd820bc50de843f85a5e25aede3.jpg"
+        },
+        {
+          "url": "media/cached-image_b1159e6eb9584928833be6d8177d547f4de302ff328c8e69959a6e2421b0bbe9.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 4.8,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Park Tower Kinshicho, 2 Chome-9-5 Kotobashi, Sumida City, Tokyo 130-0022, Japan",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6948392,139.8113757,3a,43y,84.88h,90.9t/data=!3m7!1e1!3m5!1sRpPQeYLpoXT7oiEWDlSbjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8988249431070585%26panoid%3DRpPQeYLpoXT7oiEWDlSbjQ%26yaw%3D84.87663538269473!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This condominium tower in Kinshicho serves as the model for the apartment building in Shizuka's neighborhood, the central setting where Takopi first encounters her and begins trying to save her. The grim domestic backdrop makes the tower one of the most emotionally loaded locations in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
+      "name": "Tokyo Disneyland",
+      "localName": "東京ディズニーランド",
+      "coordinates": {
+        "lat": 35.63432,
+        "lng": 139.87957
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d2f058e4-e899-4f2b-89f9-9a4e82740cbc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d2f058e4-e899-4f2b-89f9-9a4e82740cbc.webp"
+        },
+        {
+          "url": "media/cached-image_15a9127299012e3cc196b654e90cda4e415a8f0af20b56fb04847c91a9ccfe55.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-1 Maihama, Urayasu, Chiba 279-0031, Japan",
+      "city": "Urayasu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6346104,139.8794227,3a,90y,152.41h,72.86t/data=!3m8!1e1!3m6!1sAF1QipMU2dvFXhZzHvsJrANGUqhtAnSNskptCkAppwf_!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMU2dvFXhZzHvsJrANGUqhtAnSNskptCkAppwf_%3Dw900-h600-k-no-pi17.13615057213562-ya177.0486018993599-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "In episode 4, Takopi uses his Happy Camera to recreate a trip to Tokyo Disneyland with Shizuka, one of the few moments of genuine joy in the series before tragedy reasserts itself. The park represents the childhood happiness Shizuka never truly got to experience.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCwbTk56OGGARRJJPe22ziWw",
+      "name": "Ueno Station",
+      "localName": "上野駅",
+      "coordinates": {
+        "lat": 35.713747,
+        "lng": 139.775786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/323374c2-f5fa-4c3d-9903-fab115256579.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/323374c2-f5fa-4c3d-9903-fab115256579.webp"
+        },
+        {
+          "url": "media/cached-image_7b47ee28803224c6e7662d082010b82f7164149710feb755e8726acaf39ffb50.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "7 Chome Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7139558,139.7759039,3a,48.8y,202.47h,92.94t/data=!3m6!1e1!3m4!1sBx9_YETkB7vmre1y-MdrmA!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Ueno Station appears as a transit point in episode 5 during Takopi and Shizuka's desperate journey, capturing the feeling of two lost figures moving through a vast, indifferent city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLxEb-ig0-F8Rfm-NspqGJk0",
+      "name": "Kyojuro Park",
+      "localName": "大乗寺丘陵公園",
+      "coordinates": {
+        "lat": 36.5304149,
+        "lng": 136.6567244
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_ef265c3f092561f48a23f74ff647457cb1a4e554087ad43fe50aa70e91ae5a08.jpg"
+        },
+        {
+          "url": "media/cached-image_bb0beb111080aa0041120c35de0375aa2f0016d1466e084576d02b44faa0c3b7.jpg"
+        },
+        {
+          "url": "media/cached-image_bd2a31adfe7ac31fa262385b8b8eb85330fb4e450236b5566024ed42775009f6.jpg"
+        },
+        {
+          "url": "media/cached-image_a7e0a82904ab81671a6301d9ac5d4fd1fda095df2dbacabf8cd5db88deab6970.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 36,
+      "priceLevel": null,
+      "address": "Daijoji Kyuryo Park, O-135 Nagasakamachi, Kanazawa, Ishikawa 921-8114, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@41.8955536,140.6832904,3a,90y,326.79h,97.01t/data=!3m7!1e1!3m5!1srv9vOBFvMnqswhpwVZnO9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.00516943419197%26panoid%3Drv9vOBFvMnqswhpwVZnO9g%26yaw%3D326.7905210468875!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Daijoji Kyuryo Park in Kanazawa appears in episode 1 as the hilly outdoor setting where Takopi arrives and first glimpses Shizuka's world, establishing the quiet yet unsettling tone of the opening."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4TOfGvH4nl8R3XQi2hpU-6I",
+      "name": "Shin-Hakodate-Hokuto Station",
+      "localName": "新函館北斗駅",
+      "coordinates": {
+        "lat": 41.9046983,
+        "lng": 140.6483763
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c98e9d4-0510-4fa3-ac29-e704a52c74e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c98e9d4-0510-4fa3-ac29-e704a52c74e6.webp"
+        },
+        {
+          "url": "media/cached-image_c7c01bbfb379a7cee20e77be71a79ad50feedf3f42ef872f447677684c8cccca.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shin-Hakodate Hokuto Station, 1-chome-1-1 Ichinowatari, Hokuto, Hokkaido 041-1242, Japan",
+      "city": "Hokuto",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@41.9037696,140.647148,3a,90y,56.66h,102.38t/data=!3m7!1e1!3m5!1slYtg7dHPxTaOqbNuevl_Jg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.378008587445223%26panoid%3DlYtg7dHPxTaOqbNuevl_Jg%26yaw%3D56.65501646817253!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "In episode 4, Shinkansen travel to Hokkaido brings Takopi and Shizuka to Shin-Hakodate-Hokuto Station as part of their escape journey northward, representing a fleeting hope of leaving their painful circumstances behind."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFWVNgqz2nl8REYa-JYypUNU",
+      "name": "Hakodate Terminal",
+      "localName": "函館ターミナル",
+      "coordinates": {
+        "lat": 41.8075633,
+        "lng": 140.7104598
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2bc538ba-d291-49ab-9778-0486223159c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2bc538ba-d291-49ab-9778-0486223159c8.webp"
+        },
+        {
+          "url": "media/cached-image_57a48d44415a5c95040290c0f3ec7f30ae489905fee5a48b8894077ac51b0128.jpg"
+        }
+      ],
+      "type": "Ferry terminal",
+      "categories": [
+        "Ferry terminal"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒041-0821 Hokkaido, Hakodate, Minatocho, 3 Chome−19−2 Hakodate Terminal, 函館フェリーターミナル 1F",
+      "city": "Hakodate",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@41.8074363,140.710373,3a,90y,146.23h,100.26t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgICEla6rNg!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbXeXxemDMkGa8GpM31p_Pqdw5w9zfQmTo67vhZKEdiXK7SdInfVLa2xkwFoeF1tRah43YdnpFNFMYmz9NgCdMcqURN_Bkk029uzNL7bYf5c5d7wyJegS-fFKB_zXmcUgJ4X9p2%3Dw900-h600-k-no-pi-10.257384349043576-ya101.86360363536357-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Hakodate ferry terminal appears in episode 5 as a waypoint during the characters' journey, evoking a sense of transience and the impossibility of truly running away from one's circumstances."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM2KVu06fm18RlvLFgauuWZg",
+      "name": "Shin-Aomori Station",
+      "localName": "新青森駅",
+      "coordinates": {
+        "lat": 40.8281932,
+        "lng": 140.6934715
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8136a80c-743c-438e-863c-630bb4be0f19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8136a80c-743c-438e-863c-630bb4be0f19.webp"
+        },
+        {
+          "url": "media/cached-image_ebdc60ffde7dc197c29e76a784898331557d45ca1b2daf2fe39ade83a1cef3a0.jpg"
+        },
+        {
+          "url": "media/cached-image_017d22f0d681901cafab0b62470fae2ef0e95a203530a35ebdcbb00e05ea84b3.jpg"
+        },
+        {
+          "url": "media/cached-image_79ae6aef903715159ba13a446e9371039e4973f2466af7c223602ba4207d3484.jpg"
+        },
+        {
+          "url": "media/cached-image_d6ec8287214316e0ab7c309d0404548ab2f28d2313a09d2c5a6306a1690327a6.jpg"
+        },
+        {
+          "url": "media/cached-image_c1a86c04a9b656e7ed28abfb3c5e63ae6d9f0115168c606f6a342ba1ecf72dbd.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1058,
+      "priceLevel": null,
+      "address": "Shin-Aomori Station, Takama-140-2 Ishie, Aomori, 038-0003, Japan",
+      "city": "Aomori",
+      "region": "Aomori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Shin-Aomori+Station/@40.8281932,140.6934715,3a,48.7y,337.41h,88.45t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDd55TRCg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ-GCJhofDfS1z_7pf0gt8QY1tTCrcmAhQx1Xnd9uJ_IxMQIxtKhz7YMzJf04cZZindTRzz4Q9KdQZjjZ93s9_FGMgQs4bj1C_5Q1GwSyOz2zDC5zqVm6PHPEoYMFoY-hi0W2k%3Dw900-h600-k-no-pi1.5516142415267637-ya337.4057204489013-ro0-fo100!7i6080!8i3040!4m9!3m8!1s0x5f9b9f4ebb956233:0x9859aeab81c5f296!8m2!3d40.8281932!4d140.6934715!10e5!14m1!1BCgIgARICCAI!16zL20vMDg3eGpy?entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Shin-Aomori Station features in episode 5 as a stop on the Shinkansen route traveled by the characters, part of the long northward journey that marks a desperate turning point in the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4dLYF8GOGGARpt8z1hTLcPA",
+      "name": "Kimuraya Ningyo-yaki Main Shop",
+      "localName": "木村家人形焼本舗",
+      "coordinates": {
+        "lat": 35.7131615,
+        "lng": 139.79665989999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/678cdedc-52aa-405d-b4e5-eb9e34f70233.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/678cdedc-52aa-405d-b4e5-eb9e34f70233.webp"
+        },
+        {
+          "url": "media/cached-image_511515f73f14824e5154c09d07cee5c7c261bde5d538b668ed0cd69a14cb682c.jpg"
+        }
+      ],
+      "type": "Japanese sweets restaurant",
+      "categories": [
+        "Japanese sweets restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kimura Ningyōyaki, 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/%E6%9C%A8%E6%9D%91%E5%AE%B6%E4%BA%BA%E5%BD%A2%E7%84%BC+%E6%9C%AC%E5%BA%97/@35.71352,139.7967496,2a,90y,116.48h,96.09t/data=!3m8!1e1!3m6!1sUJ4U2GSNac7LNwpb2ePu2w!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.089810369944445%26panoid%3DUJ4U2GSNac7LNwpb2ePu2w%26yaw%3D116.478859802651!7i13312!8i6656!4m9!3m8!1s0x60188ec1a5d72cb5:0xb24f4a07a3704829!8m2!3d35.713538!4d139.7966702!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tglyzvm?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Asakusa confectionery appears in episode 5 during the characters' time in the area, with the traditional ningyo-yaki sweets serving as a small tender moment amid the story's overwhelming darkness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr2cNBsGOGGARSX3xfkspQHc",
+      "name": "Asakusa Culture Tourist Information Center",
+      "localName": "浅草文化観光センター",
+      "coordinates": {
+        "lat": 35.7107074,
+        "lng": 139.7965461
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae7bbb10-d6d4-4562-b261-0f1019353ede.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae7bbb10-d6d4-4562-b261-0f1019353ede.webp"
+        },
+        {
+          "url": "media/cached-image_0d08cbb2817cca9062aca726c5f52c72355a75e63a4f518bbe58d5235c2c8cc0.jpg"
+        },
+        {
+          "url": "media/cached-image_e35d6843ee7fad0dab4e49074dd316baebd1d8ab99b7e852b1ff7fe4b8bbe893.jpg"
+        },
+        {
+          "url": "media/cached-image_5330e2c2962ee08e0cad1da58a2e7c43ebba8e7b6ad50f7aab4aed6b0cab1f08.jpg"
+        },
+        {
+          "url": "media/cached-image_0bb5716b8e7f51b42760c99c1affd32fb31e1563fd797ad3131f960f04b9c81c.jpg"
+        },
+        {
+          "url": "media/cached-image_fa671dd11a79c1a84fca28617fd59a8df2aeb2cbcac20dbd5d9cb9932eeebff4.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.5,
+      "reviewCount": 215,
+      "priceLevel": null,
+      "address": "Asakusa Culture Tourist Information Center, 浅草文化観光センタ 2 Chome-18-9 Kaminarimon, Taito City, Tokyo 111-0034, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7107554,139.7963308,3a,90y,77.23h,104.01t/data=!3m7!1e1!3m5!1s33kuwaToltsE8g42AmyEhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.008816420919786%26panoid%3D33kuwaToltsE8g42AmyEhw%26yaw%3D77.23444143843912!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The distinctive stepped facade of the Asakusa Culture Tourist Information Center is visible in episode 5 as Takopi and Shizuka move through the Asakusa district, its modern architecture contrasting with the ancient Senso-ji nearby."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJixCAPcyJGGARYCwPrOc6AtE",
+      "name": "Yanagishima Pedestrian Bridge",
+      "localName": "柳島歩道橋",
+      "coordinates": {
+        "lat": 35.707495,
+        "lng": 139.8201365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f2db751-0a94-4a85-8e80-c621ade78186.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f2db751-0a94-4a85-8e80-c621ade78186.webp"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒136-0071 Tokyo, 墨田区Bunka, 1 Chome−36 Yanagishima Pedestrian Bridge, 江東区亀戸3丁目 との間",
+      "city": "墨田区",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7075034,139.8202793,3a,90y,118.08h,81.19t/data=!3m7!1e1!3m5!1snclT7WSALlrbNS7YTsfskg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.807602760684944%26panoid%3DnclT7WSALlrbNS7YTsfskg%26yaw%3D118.08102411400311!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This pedestrian overpass near Kinshicho appears in episode 5 and is recognized by fans as a background location in the Sumida ward scenes, part of the mundane urban landscape that grounds the story's heavy themes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_takopis-original-sin_10",
+      "name": "Times Kinshicho Ekimae",
+      "localName": "タイムズ錦糸町駅前",
+      "coordinates": {
+        "lat": 35.69587,
+        "lng": 139.81258
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45e50808-2ed3-4290-9bd0-c935e83e6eea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45e50808-2ed3-4290-9bd0-c935e83e6eea.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6958614,139.8125296,3a,85.2y,82.38h,97.04t/data=!3m7!1e1!3m5!1scWuh70Ng76RKJ_JIccKV0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.042556312038499%26panoid%3DcWuh70Ng76RKJ_JIccKV0A%26yaw%3D82.38332816306823!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The parking lot in front of Kinshicho Station appears in episode 5 as part of the carefully recreated Kinshicho streetscape that forms the everyday setting of Shizuka's life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_VZaDRaJGGARUVVkgCdWDco",
+      "name": "trattorìa pioggia",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.705269099999995,
+        "lng": 139.84146239999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/40f82515-aa43-4dd7-aca4-ef7335d15e7a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/40f82515-aa43-4dd7-aca4-ef7335d15e7a.webp"
+        },
+        {
+          "url": "media/cached-image_b54e268ac6071be121f069efe0df7ead56b9290993a7f1b03e13a2ed94715890.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒132-0035 Tokyo, Edogawa City, Hirai, 3 Chome−28−1 東洋プラザ平井 102 trattorìa pioggia",
+      "city": "Edogawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7052177,139.8414446,3a,75y,299.77h,95.83t/data=!3m7!1e1!3m5!1sdSfPL5r6Ci_QOgsJ7u9F5g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.834385523736344%26panoid%3DdSfPL5r6Ci_QOgsJ7u9F5g%26yaw%3D299.7745853477819!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small Italian restaurant in Hirai, near the Kinshicho area, appears in episode 5 as a background location in the neighborhood scenes surrounding the main characters' story."
+    }
+  ]
+}

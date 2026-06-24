@@ -1,0 +1,656 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Yuri!!! on ICE",
+  "slug": "yuri-on-ice",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_d8e5862af80ac40bbf95a07636efd516651fc012639ecf7b86de0e999d6547ed.webp",
+  "image": "media/cached-image_d8e5862af80ac40bbf95a07636efd516651fc012639ecf7b86de0e999d6547ed.webp",
+  "banner": null,
+  "primaryLocation": "Saga, Japan",
+  "primaryLocationCoords": {
+    "lat": 33.70511129999999,
+    "lng": 131.20508588235293
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Yuri!!! on ICE"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJla3Kj1OBajURGYs-Akfg3Lc",
+      "name": "Drive-in Tori",
+      "localName": "ドライブイン鳥 伊万里本店",
+      "coordinates": {
+        "lat": 33.2869964,
+        "lng": 129.9023199
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1cf0f18-905f-477b-8232-c20fd17c0b2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1cf0f18-905f-477b-8232-c20fd17c0b2e.webp"
+        },
+        {
+          "url": "media/cached-image_b39b7deed511ac079d7cdc70fe686c7157f8ca2ad293fdd2bbcece7afe54174c.jpg"
+        }
+      ],
+      "type": "鶏料理店",
+      "categories": [
+        "鶏料理店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1384-2 Otsubocho, Imari, Saga 848-0021, Japan",
+      "city": "Imari",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.2869964,129.9023199,3a,75y,298.79h,95.21t/data=!3m6!1e1!3m4!1saXo9WdpqPIxM1QocqXdumA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Katsuki family's favourite chicken restaurant in Karatsu inspired the drive-in eatery seen in episode 1, where Yuri savours a comforting meal after returning home to Hasetsu, grounding the show's warm family atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxeQ_6q-MGGARexvt6BPzdG4",
+      "name": "Yoyogi 1st National Gymnasium",
+      "localName": "国立代々木競技場 第一体育館",
+      "coordinates": {
+        "lat": 35.66818,
+        "lng": 139.70161
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d413f931-4506-4e7a-b464-4291560e47dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d413f931-4506-4e7a-b464-4291560e47dd.webp"
+        },
+        {
+          "url": "media/cached-image_e94f65d7c38e0fd6130e18df7df3c13996f3e650c461cfb45747ff320a2ed0f1.jpg"
+        }
+      ],
+      "type": "アリーナ",
+      "categories": [
+        "アリーナ"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1-1 Jinnan, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3BACXXws2tJr8i9g9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This iconic Tange Kenzo-designed arena in Tokyo served as the visual model for the Grand Prix Final venue, the stage where a young Yuri first watched Viktor Nikiforov skate and vowed to one day compete at the same level.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkRwg6z7XQTURMlFAhbN2TgI",
+      "name": "Hamasakikaigan Park",
+      "localName": "浜崎海岸公園",
+      "coordinates": {
+        "lat": 33.45164,
+        "lng": 130.037216
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b73b73c-8105-4ade-b809-a986c8598d8c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b73b73c-8105-4ade-b809-a986c8598d8c.webp"
+        },
+        {
+          "url": "media/cached-image_9f96d3df4758b320553c2bfb4fce63aca419648c3c08c716232c30d89790fa1e.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hamasakikaigan Park, 1669-55 Hamatamamachi Hamasaki, Karatsu, Saga 849-5131, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.450667,130.0354346,3a,68.5y,25.72h,92.05t/data=!3m7!1e1!3m5!1sFzF7b3HtOXytvCzanEq5SQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0470911230867728%26panoid%3DFzF7b3HtOXytvCzanEq5SQ%26yaw%3D25.722081113807967!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This coastal park near Karatsu appears in the ending credits sequence, showing Yuri and Viktor running and playing along the shoreline in a recurring image that fans associate with the gentle, hopeful mood of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX9fhB6bXQTURcLhEWU1jLOU",
+      "name": "Kagamiyama Onsen",
+      "localName": "鏡山温泉茶屋 美人の湯",
+      "coordinates": {
+        "lat": 33.4368225,
+        "lng": 130.0172632
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c825b6f-c5a1-4b8d-8bc0-5a7abec57122.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c825b6f-c5a1-4b8d-8bc0-5a7abec57122.webp"
+        },
+        {
+          "url": "media/cached-image_bbce0bf7afc28d7d77f7bd665f27247dca3c83264188c207c46d3d493d11d632.jpg"
+        }
+      ],
+      "type": "Day-use onsen",
+      "categories": [
+        "Day-use onsen"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kagamiyama Onsen, 4733 Kagami, Karatsu, Saga 847-0022, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kagamiyama+Onsen/@33.4368415,130.0172466,3a,72.3y,250.02h,95.69t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC0hpbE2QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY4DLzXSqL6ABLRQVXi2RUCtCoyFQTlYKHcQJxXmtunSeQP9M86BpaYbu8eiLRyMcD5OHVb5xkDKzGLkNr50W1T5BU6iz3xrKxh8PIy6vaFE2kDCHOtpVIHMJmvMsvbgaGCAaHo%3Dw900-h600-k-no-pi-5.687623302989493-ya343.3265755460584-ro0-fo100!7i5000!8i2500!4m9!3m8!1s0x3541d7a607e1d75f:0xe52c634d5944b870!8m2!3d33.4368225!4d130.0172632!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tk9nk3_?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This day-use onsen in Karatsu is the real-world basis for Yu-topia Katsuki, the hot-spring inn run by Yuri's family. In episode 1, Viktor arrives here after watching Yuri's viral skating video and announces he will be Yuri's coach.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgS-KMGh5ajURQcGdemjdY3k",
+      "name": "Maizuru Bridge",
+      "localName": "舞鶴橋",
+      "coordinates": {
+        "lat": 33.451462899999996,
+        "lng": 129.9799089
+      },
+      "image": "https://cdn.animepilgrimage.com/places/480c2abd-62da-45ae-b183-a882da116427.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/480c2abd-62da-45ae-b183-a882da116427.webp"
+        },
+        {
+          "url": "media/cached-image_7ee854400d4a9fbf530b990e89a7ee5c49ef741d2977077e0a8bde7c4d246e6d.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maizuru Bridge, 1, Karatsu, Saga 847-0017, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4509492,129.9812169,3a,86.6y,295.48h,108.78t/data=!3m7!1e1!3m5!1s4F6uepqaTDB_X6ud7mT6CA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.778729290387616%26panoid%3D4F6uepqaTDB_X6ud7mT6CA%26yaw%3D295.4803446495833!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This bridge near Yu-topia Katsuki appears in the early Hasetsu scenes of episode 1, framing the seaside town atmosphere that defines Yuri's hometown and providing a backdrop for Viktor and Yuri's first morning jog together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz1XftAJ-QTUR5fb5IBxS4ME",
+      "name": "Iizuka Ice Palace",
+      "localName": "飯塚アイスパレス",
+      "coordinates": {
+        "lat": 33.6439538,
+        "lng": 130.7056395
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d319ab6-f2cf-4f3d-9f08-feca50afa856.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d319ab6-f2cf-4f3d-9f08-feca50afa856.webp"
+        },
+        {
+          "url": "media/cached-image_dec65b7fb702d0c919f9e47abe29d6bef2e236e47efdeef03658617b1171f138.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Iizuka Ice Palace, 56-1 Kayanomori, Iizuka, Fukuoka 820-0011, Japan",
+      "city": "Iizuka",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.6437236,130.7053621,3a,90y,97.01h,94.16t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4srfidw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha6qJjsa1JaYx5aDEc2QAyywGbuaElvLtfiBNUMMJj2QhQuaqT2KAdMXn_RAjmaK5vnhdzTqQ1P8hveFDw3a6HduTr37X4i5HF74mp9d1Usoif9eSS9izEQ5Mz6cxNNYwH7_I1x%3Dw900-h600-k-no-pi-4.159999999999997-ya29.680951843261724-ro0-fo100!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Iizuka Ice Palace is the real rink that inspired Ice Castle Hasetsu, the small hometown arena where Yuri trains under Viktor in episode 1 and where Yurio later shows up to challenge Yuri to perform his Agape program.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzWt8qnd4ajURRwrx1TDgdIc",
+      "name": "Wisteria at Karatsu Castle",
+      "localName": "唐津城のフジ",
+      "coordinates": {
+        "lat": 33.4532333,
+        "lng": 129.97869409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/14742f61-30f9-4f8f-b01b-877b7a67db1b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/14742f61-30f9-4f8f-b01b-877b7a67db1b.webp"
+        },
+        {
+          "url": "media/cached-image_9e1c9f973a905b712530901910bbe3597ed495dee30b58400775b8cf7c33c2a6.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wisteria at Karatsu Castle, 8-8 Higashijonai, Karatsu, Saga 847-0016, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4531245,129.9787119,3a,74.7y,119.15h,93.33t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICa-si3pgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYtklgzN_ygXcW1pLzZcRvt8AuKAgcDRx-9UJQRyfBBj_XcwsExHtOll4Gfy_AJS5MkhNrmSWfb6vouO46SALoWuAKZRhXtLNkn2hPHhr6P_Lch4186IlCqUUvkiXnkcEQqofZJeg%3Dw900-h600-k-no-pi-3.3307386113982034-ya164.66094914273037-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The wisteria trellis near Karatsu Castle provided the lush purple floral backdrop visible in episode 1 background shots of Hasetsu, reflecting the peaceful spring atmosphere as Yuri returns home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk2WZ-3Z4ajURR_Cyd8NIKE0",
+      "name": "Karatsu Castle",
+      "localName": "唐津城",
+      "coordinates": {
+        "lat": 33.4534129,
+        "lng": 129.9782295
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98a14629-6882-4be6-a32b-59de22378823.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98a14629-6882-4be6-a32b-59de22378823.webp"
+        },
+        {
+          "url": "media/cached-image_6d9d91d73b9490f72122e88f02b60e5c6eb245a6d6d0fc36fd9c9fd19a3fafe3.jpg"
+        },
+        {
+          "url": "media/cached-image_9e1c9f973a905b712530901910bbe3597ed495dee30b58400775b8cf7c33c2a6.jpg"
+        },
+        {
+          "url": "media/cached-image_ac313da023d12b05b00204e8a0f535782bbc67828fb004e70f834f466e99cf08.jpg"
+        },
+        {
+          "url": "media/cached-image_87e27fd23475b17bc8e7bf147b24a9e83b3c2dc479d3a3af0998ee24c227a21a.jpg"
+        },
+        {
+          "url": "media/cached-image_e5ebf94aa8a4a194d2b9d03ebffb161aee10832421796ef341aded0304274829.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.1,
+      "reviewCount": 55,
+      "priceLevel": null,
+      "address": "Karatsu Castle, 8-1 Higashijonai, Karatsu, Saga 847-0016, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4528979,129.9783723,3a,90y,273.51h,92.95t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICa-si0kQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYP13ke7nLhRiALLp7WEfyYt7ocdBPdRV06aGuDALbPbcEkmWl6AMiGsixplLgMTLBWtHf3Tjv5d5lZQwaanRd5aKezNjDY0aqALdg51vBHg7V101lysGPGtnniD3oSaVyiIW5ZCQ%3Dw900-h600-k-no-pi-2.9450443001897497-ya259.0144466417236-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Karatsu Castle overlooks the town that became Hasetsu, and its distinctive silhouette appears in episode 2 background shots as Viktor and Yuri explore the town together, establishing the castle as a symbol of Yuri's hometown roots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuri-on-ice_8",
+      "name": "Koga Furniture",
+      "localName": "古賀家具",
+      "coordinates": {
+        "lat": 33.44698,
+        "lng": 129.97053
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ead7139-8990-46b4-821f-86378924adca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ead7139-8990-46b4-821f-86378924adca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@33.4469789,129.9706587,3a,73.9y,276.6h,103.07t/data=!3m7!1e1!3m5!1sSox1yM7fF-ui4OXA_X7bww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.07200803231585%26panoid%3DSox1yM7fF-ui4OXA_X7bww%26yaw%3D276.60389069664393!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Karatsu storefront appears in episode 2 street scenes depicting Hasetsu's quiet shopping district, used by the animation team to capture the small-town feel of Yuri's hometown."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9fzBuKemQTUR8hY4708y1yQ",
+      "name": "Kurume Kasuri Women's Clothing Hagio",
+      "localName": "地場産くるめ",
+      "coordinates": {
+        "lat": 33.319392,
+        "lng": 130.5551816
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24d12200-7de5-43b1-a8f8-7870884feacd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24d12200-7de5-43b1-a8f8-7870884feacd.webp"
+        },
+        {
+          "url": "media/cached-image_44ef799b1a670c4b979a663b14bd72aeb827e6a2c292e9661c03127b7b3c870e.jpg"
+        }
+      ],
+      "type": "Gift shop",
+      "categories": [
+        "Gift shop"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurume Kasuri Museum, 地場産くるめ 2階 5 Chome-8-5 Higashiaikawa, Kurume, Fukuoka 839-0809, Japan",
+      "city": "Kurume",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4470101,129.9701216,3a,89.9y,58.51h,97.49t/data=!3m7!1e1!3m5!1sD0PSmUS6EmA-GBxOUkdkbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.4876686940765325%26panoid%3DD0PSmUS6EmA-GBxOUkdkbg%26yaw%3D58.50641533676404!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuri-on-ice_10",
+      "name": "Snack Shichifukujin",
+      "localName": "スナック七福人",
+      "coordinates": {
+        "lat": 33.44812,
+        "lng": 129.97154
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4074c5a6-ec83-45a4-877b-59c375b1da8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4074c5a6-ec83-45a4-877b-59c375b1da8d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@33.4481124,129.9716316,3a,90y,269.04h,90.31t/data=!3m7!1e1!3m5!1s7_rHTxApJPh1J4S1ou8_oA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.3086930965145598%26panoid%3D7_rHTxApJPh1J4S1ou8_oA%26yaw%3D269.03603936145777!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This local snack bar in Karatsu corresponds to the bar in episode 2 where Viktor wanders into town looking for Yuri, meeting Minako Okukawa and getting a taste of Hasetsu's lively after-hours neighbourhood scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV0jb3mJ4ajUR5JyT1oT3mP4",
+      "name": "Parakakaratsushi Kyomachi Dai 1 Parking Lot",
+      "localName": "パラカ唐津市京町第1",
+      "coordinates": {
+        "lat": 33.4471373,
+        "lng": 129.9699047
+      },
+      "image": "https://cdn.animepilgrimage.com/places/761e4516-834f-4961-a35d-1e87ad8c6fff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/761e4516-834f-4961-a35d-1e87ad8c6fff.webp"
+        },
+        {
+          "url": "media/cached-image_18290ca12cb3b9916440bb898185bb898ab0eb11cdaa9deea39153f2b53ca628.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Parakakaratsushi Kyomachi Dai 1 Parking Lot, 1763-1 Kyomachi, Karatsu, Saga 847-0045, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4470151,129.9700152,3a,90y,4.1h,93.11t/data=!3m7!1e1!3m5!1stPO1Btolv1BWOoQviv0GWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.110041675668299%26panoid%3DtPO1Btolv1BWOoQviv0GWQ%26yaw%3D4.101013030828824!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgbkxPzzUQTURb_CYVCiIn8E",
+      "name": "Mikaeri No Taki Falls",
+      "localName": "見帰りの滝",
+      "coordinates": {
+        "lat": 33.3679716,
+        "lng": 130.039795
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c031ba22-c6b8-447e-bd69-82550abaf407.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c031ba22-c6b8-447e-bd69-82550abaf407.webp"
+        },
+        {
+          "url": "media/cached-image_d001e069c84ac00a34edb536db25c1775b9afe7078f5cdd25110232a77fd43a8.jpg"
+        }
+      ],
+      "type": "Scenic spot",
+      "categories": [
+        "Scenic spot"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mikaeri No Taki Falls, Ochicho Ikisa, Karatsu, Saga 849-3223, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.3676359,130.0395314,3a,90y,65.94h,103.99t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqq-iT7gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ9JsAyMwwLEbUU_wNn3RW6MdVelfspMzxhoH2G1UKBjNT64hIhQeRRARBsidBS67lkTcx4SPr5F-bluC_YMPsxFKAdKhn-eaRWCQxOoTr8u-Aetp8DcOB1B_NwvE9l-ac1g57H%3Dw900-h600-k-no-pi-13.989999999999995-ya265.9387041629958-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Mikaeri no Taki is the real waterfall featured in episode 3 where Yuri and Yurio undertake a gruelling run up the steep steps as part of their stamina training under Viktor, a scene that highlights their fierce rivalry and determination.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGcOdssEHVDURtxiTax5OC_g",
+      "name": "Okayama Kokusai Skate Rink",
+      "localName": "岡山国際スケートリンク",
+      "coordinates": {
+        "lat": 34.6422308,
+        "lng": 133.9270641
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4ef57936-55a1-4937-97ba-5ad37d46e351.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4ef57936-55a1-4937-97ba-5ad37d46e351.webp"
+        },
+        {
+          "url": "media/cached-image_1b2a8faf7eb7f52dcfa3f6af067827b4b1da25908ea126099dfc0ff7f4b8d1b3.jpg"
+        },
+        {
+          "url": "media/cached-image_fff034ec4f09eabd4d6dfd0d9f0c976fddaca5fb10b33c4fdfe1542859d47b7d.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okayama Kokusai Skate Rink, 2 Chome-3-30 Konancho, Kita Ward, Okayama, 700-0866, Japan",
+      "city": "Okayama",
+      "region": "Okayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Okayama+Kokusai+Skate+Rink/@34.6421659,133.9273101,3a,90y,13.23h,91.08t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEoqy8HQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaKhSgoO_P2V4pFBdMQ1lfkid9pi-caiisL_Vpz5KRqamW7KnygIiSRDB2WuqhH7GI6OSM_OF0UfKiMP8q_OJrRTARrLGLKPRR2orp-drCU-Bf0BD3ICscOXwjty58JK0Ci4ns%3Dw900-h600-k-no-pi-1.0841654751867509-ya359.2284084654941-ro0-fo100!7i8192!8i4096!4m9!3m8!1s0x355407c1b29dc319:0xf80b4e1e6b9318b7!8m2!3d34.6422308!4d133.9270641!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F122np79_?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Okayama rink served as a reference location for the episode 5 Chugoku-Shikoku-Kyushu Regional Championship venue, where Yuri skates his short program and free skate to qualify for the Grand Prix series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrQFpQhaQQTURtx9OWEZ_5hY",
+      "name": "Fukuoka Airport",
+      "localName": "福岡空港",
+      "coordinates": {
+        "lat": 33.5849988,
+        "lng": 130.4490906
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c52c4cc-094b-4d59-ba0c-6923367702f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c52c4cc-094b-4d59-ba0c-6923367702f6.webp"
+        },
+        {
+          "url": "media/cached-image_18c9e21f0882e13082a4192b25b0b504a1baa8c5ea754a949219ed3dd2ae849d.jpg"
+        },
+        {
+          "url": "media/cached-image_2b28547e9bfeed1edc96bb8728fa41aee232a258602e777226677392a01a1fed.jpg"
+        },
+        {
+          "url": "media/cached-image_63c68fbd027f7097930ddf67f7588315d76c0a97ad74c6150bc6d9d31d2176cb.jpg"
+        },
+        {
+          "url": "media/cached-image_bbee34836c3f56893e75730fb959e26bb2e180186e0ffb78bed49a86dffba39a.jpg"
+        },
+        {
+          "url": "media/cached-image_861c4c71d4bd2828b6c68f6b6682ea55e25191a386de20e37ff10a773b8e37f9.jpg"
+        }
+      ],
+      "type": "Airport",
+      "categories": [
+        "Airport"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3245,
+      "priceLevel": null,
+      "address": "Fukuoka Airport (FUK), 778-1 Shimousui, Hakata Ward, Fukuoka, 812-0003, Japan",
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.5969967,130.4477155,2a,89.9y,195.06h,92.69t/data=!3m7!1e1!3m5!1szcz8Iq2Pt7hvj0_L9SfQAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6897023277029177%26panoid%3Dzcz8Iq2Pt7hvj0_L9SfQAw%26yaw%3D195.06199276856404!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Fukuoka Airport is where Yuri departs Japan in episode 9, heading to the Grand Prix Final in Barcelona. The airport farewell scene underscores the emotional weight of Yuri's journey away from home and toward his biggest competition."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ229cGJ4ajURBZQBZ-2ekpk",
+      "name": "Karatsu Station",
+      "localName": "唐津駅",
+      "coordinates": {
+        "lat": 33.4467445,
+        "lng": 129.9680343
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce10baac-c319-4e6f-9cd6-b6bccc43aecc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce10baac-c319-4e6f-9cd6-b6bccc43aecc.webp"
+        },
+        {
+          "url": "media/cached-image_f09f964a14b6ebe8095f97b4afd363d96bf59a67f5063e3f0dae362b980ac880.jpg"
+        },
+        {
+          "url": "media/cached-image_7f3be339277d3115a298156f05802ab5e3080583709f06be96d0b005933b6d6b.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Shinkōmachi, Karatsu, Saga 847-0818, Japan",
+      "city": "Karatsu",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4467445,129.9680343,3a,75y,203.9h,91.07t/data=!3m7!1e1!3m5!1ste6-3KTdsG4tWSne596Pow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dte6-3KTdsG4tWSne596Pow%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D281.01758%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Karatsu Station is the real model for Hasetsu Station, where the very first episode opens with Yuri arriving home after his devastating loss at the Grand Prix Final, dragging his luggage in the rain and feeling like a failure before his comeback begins.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs6pTYtLHAGARYWMZ9gW-Ye4",
+      "name": "Nishikinohama Beach Park",
+      "localName": "二色の浜海水浴場",
+      "coordinates": {
+        "lat": 34.4376153,
+        "lng": 135.3344386
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_80ac9f717bce411b20b849fd58848eb059e1e3d48e0891c7a699d81150d38f1b.jpg"
+        },
+        {
+          "url": "media/cached-image_a476d6ffbcbabb1727e27902663da0f7133b3c248a66c8651ba30f2e9fc7891d.jpg"
+        }
+      ],
+      "type": "Public beach",
+      "categories": [
+        "Public beach"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Nishikinohama Beach Park, Sawa, Kaizuka, Osaka 597-0062, Japan",
+      "city": "Kaizuka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.4547284,129.9750022,3a,75y,105.75h,104.3t/data=!3m7!1e1!3m5!1sEvk5BPkYkrx4cg7YKL5foQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.296998627193233%26panoid%3DEvk5BPkYkrx4cg7YKL5foQ%26yaw%3D105.74543768340735!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    }
+  ]
+}

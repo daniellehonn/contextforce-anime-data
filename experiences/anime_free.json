@@ -1,0 +1,808 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Free!",
+  "slug": "free",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_6c9ea6dab3e0842992b561a77a02cc808dec692b01657123c47b77569f0cdeab.webp",
+  "image": "media/cached-image_6c9ea6dab3e0842992b561a77a02cc808dec692b01657123c47b77569f0cdeab.webp",
+  "banner": null,
+  "primaryLocation": "Iwami District, Tottori, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.33489574090908,
+    "lng": 134.46583794545452
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Free!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_0",
+      "name": "Kyoseki",
+      "localName": "供積",
+      "coordinates": {
+        "lat": 35.57,
+        "lng": 134.33306
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2c580915-39d3-49be-a738-edf5351da361.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2c580915-39d3-49be-a738-edf5351da361.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5702066,134.3330228,3a,59.6y,174h,97.35t/data=!3m7!1e1!3m5!1sojwe9nr4U2G6bpc4n6SNBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.346382226410171%26panoid%3Dojwe9nr4U2G6bpc4n6SNBQ%26yaw%3D173.99876319826956!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The rocky coastal outcropping near Tajiri appears in episode 10 as the dramatic backdrop where Haruka and his teammates gaze out to sea after their summer training camp, capturing the quiet resolve shared between them."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHVGZF4Mp_l8RltlKAJ4afkQ",
+      "name": "Haneo Beach Resort",
+      "localName": "羽尾海岸",
+      "coordinates": {
+        "lat": 35.600494499999996,
+        "lng": 134.3498387
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4524ee9-3358-4a46-8a9a-989f641aca67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4524ee9-3358-4a46-8a9a-989f641aca67.webp"
+        },
+        {
+          "url": "media/cached-image_5e9be0f37c98109bb8f434646c16b1de571674ed131573353cc09fd8ee7a4ba6.jpg"
+        }
+      ],
+      "type": "Public beach",
+      "categories": [
+        "Public beach"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Haneo Beach Resort, 394 Kobaneo, Iwami, Iwami District, Tottori 681-0013, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6004356,134.3488869,3a,89.9y,318.05h,102.23t/data=!3m7!1e1!3m5!1st8GX_1IjquEs6u7rROAYyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.226483732329612%26panoid%3Dt8GX_1IjquEs6u7rROAYyw%26yaw%3D318.0500926410415!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Haneo Beach appears in episode 10 during the training camp arc, where the Iwatobi team swims in the open sea for the first time, a pivotal moment that tests their readiness before the regional tournament.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_2",
+      "name": "Tajiri Yakushido",
+      "localName": "田後薬師堂",
+      "coordinates": {
+        "lat": 35.59294,
+        "lng": 134.31265
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ec9d618-61a4-4692-aabe-1ceff68bba33.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ec9d618-61a4-4692-aabe-1ceff68bba33.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5929238,134.3126386,3a,90y,278.79h,96.35t/data=!3m7!1e1!3m5!1sAPfTliGgQ5T176MxzoMaeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.352746469353249%26panoid%3DAPfTliGgQ5T176MxzoMaeg%26yaw%3D278.79359432461746!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small roadside temple in the Tajiri fishing village appears in episode 9 as part of the atmospheric neighborhood where Rei discovers local life during the summer training camp, adding quiet depth to the show's coastal setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTRNLQccdRzURXiGsi5iO92g",
+      "name": "Minato Shrine",
+      "localName": "港神社(青い鳥居)",
+      "coordinates": {
+        "lat": 32.5907063,
+        "lng": 131.7179981
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e2a34a2f-8dec-451b-8229-a8297b26f0ae.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e2a34a2f-8dec-451b-8229-a8297b26f0ae.webp"
+        },
+        {
+          "url": "media/cached-image_5264bc506b2f1e4892830d44ec872411c12ed4fbc3543ac5fd6628336f562a23.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 91,
+      "priceLevel": null,
+      "address": "Minato Shrine, Tomimachi, Nobeoka, Miyazaki 882-0016, Japan",
+      "city": "Nobeoka",
+      "region": "Miyazaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5936508,134.3124847,3a,68.7y,68.56h,70.83t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqrYa1Vg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HavkQq37Dk2BC2YIkbZq_2u_1cT6MtydCSmw6cjPDSYex_82S6B1m24JX-C6jk1A0XbzUZgBVgS61F4TrK-o4ZTUJ9dcX63Us0oIeBcnqDYNeYFeqvAbfchIp2qUICB74kdePdz%3Dw900-h600-k-no-pi19.168265743644113-ya46.0636377763028-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_4",
+      "name": "Tajiri Fisheries Cooperative",
+      "localName": "田後漁業協同組合",
+      "coordinates": {
+        "lat": 35.59294,
+        "lng": 134.31348
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa773524-50d0-4b37-9afa-af63075a4f8f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa773524-50d0-4b37-9afa-af63075a4f8f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5929814,134.3136627,3a,90y,263.99h,105.57t/data=!3m7!1e1!3m5!1sikUPnHmzQ0dEQtzOM_yJ9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.571060563160998%26panoid%3DikUPnHmzQ0dEQtzOM_yJ9w%26yaw%3D263.98592742426865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The cooperative building near Tajiri harbor is seen in episode 9 as part of the fishing village backdrop during the team's training camp, grounding Iwatobi's fictional coastal town in the real texture of Tottori's working waterfront."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_5",
+      "name": "Tajiri Fisheries Cooperative",
+      "localName": "田後漁業協同組合",
+      "coordinates": {
+        "lat": 35.59317,
+        "lng": 134.31269
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98179023-8c1d-47be-822a-21a5d8475161.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98179023-8c1d-47be-822a-21a5d8475161.webp"
+        },
+        {
+          "url": "media/cached-image_9576baa567b30eb269627dce7e983a557f018edc6bdac6ac54e5a23c84565f4e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5931398,134.3127033,3a,73.9y,323.07h,91.53t/data=!3m7!1e1!3m5!1slILBWlU_i4uxqDYnu-hEZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5269133281071703%26panoid%3DlILBWlU_i4uxqDYnu-hEZA%26yaw%3D323.0698753123019!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The cooperative building near Tajiri harbor is seen in episode 9 as part of the fishing village backdrop during the team's training camp, grounding Iwatobi's fictional coastal town in the real texture of Tottori's working waterfront."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd0V_EMOPVTURA_1-AefTNBA",
+      "name": "Tottori Station",
+      "localName": "鳥取駅",
+      "coordinates": {
+        "lat": 35.4939993,
+        "lng": 134.2258965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d2f3842-5e17-4fcb-b564-e3ab11ad2572.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d2f3842-5e17-4fcb-b564-e3ab11ad2572.webp"
+        },
+        {
+          "url": "media/cached-image_1d302b576149e6936381d8fc4a341736c6b7ded4b91daca885157a1948e95628.jpg"
+        },
+        {
+          "url": "media/cached-image_2a3b070de3b89420372d5fab9acb8582d60330ac451044df3c850a57f8d6e0f4.jpg"
+        },
+        {
+          "url": "media/cached-image_2615c76fa58d277f7d09edcaef8fda12adb85961d60711f5d88fd866caf44a90.jpg"
+        },
+        {
+          "url": "media/cached-image_8594dc5259b1ab3f012356d7f8ac3ae9bd77a7ea4e5d8eaca5a7539a158f6cab.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 617,
+      "priceLevel": null,
+      "address": "Tottori Station, 111 Higashihonjicho, Tottori, 680-0835, Japan",
+      "city": "Tottori",
+      "region": "Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4942245,134.2261047,3a,69.1y,213.32h,90.8t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4w9Lsew!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaIWiPryTIQnSpY5zkqK6yEHQdtliYAfVl-09SqFwIda7Gu8yVcvbCQbHeYXn3tLYR1PWgEDEalCgXO0oPuoYYJyO-gmzRM_0oRIFXwwF1GmNWNrhfQiW7rE9hNxVrIbmGcfRA%3Dw900-h600-k-no-pi-0.8011298008165397-ya348.3219851157761-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Tottori Station stands in for Iwatobi Station in episode 7, the departure point where Haruka and Makoto catch the train, a brief but grounding scene that anchors the story in the real San'in Coast railway line."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_7",
+      "name": "Arasuna Shrine",
+      "localName": "荒砂神社",
+      "coordinates": {
+        "lat": 35.5909,
+        "lng": 134.32147
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6f58d39-eadd-4764-96c8-1ed1222d03d4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6f58d39-eadd-4764-96c8-1ed1222d03d4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5907341,134.321594,3a,36.4y,331.27h,91.13t/data=!3m7!1e1!3m5!1sKSPOR4E9wWfdvY-0sdaW-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1279249641752926%26panoid%3DKSPOR4E9wWfdvY-0sdaW-A%26yaw%3D331.26955892425116!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Arasuka Shrine, nestled in the coastal forest near Uradome, appears in episode 7 as the hillside shrine Haruka passes on his way to the sea, a quietly recurring landmark that ties his solitary swims to the spiritual character of the coastline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLV1cNHCHVTURb0GxaxV7E4Y",
+      "name": "Ajiro Tunnel",
+      "localName": "網代隧道",
+      "coordinates": {
+        "lat": 35.583036799999995,
+        "lng": 134.2941444
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ea20fb29-dbe9-4ab4-95fe-8a3d90ae8584.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ea20fb29-dbe9-4ab4-95fe-8a3d90ae8584.webp"
+        },
+        {
+          "url": "media/cached-image_b0372f074889e5e0d0d45d7d5c943d5cdd77af90b042b649af160b1a8c19cf45.jpg"
+        }
+      ],
+      "type": "Tunnel",
+      "categories": [
+        "Tunnel"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ajiro Tunnel, Ajiro, Iwami, Iwami District, Tottori 681-0074, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5824779,134.2944697,3a,85.8y,309.91h,96.66t/data=!3m7!1e1!3m5!1sYVOTOTP1IYYQJiFKjcJF6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.659999999999997%26panoid%3DYVOTOTP1IYYQJiFKjcJF6Q%26yaw%3D309.91!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The old stone Ajiro Tunnel appears in episode 7 as the atmospheric passage the characters bike through on their way to the coast, a beloved detail fans photograph to recreate the series' sun-drenched summer road feel.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFbQxve-3AGARGwEsBvAKyq4",
+      "name": "Tajiri Port",
+      "localName": "田尻漁港",
+      "coordinates": {
+        "lat": 34.397794499999996,
+        "lng": 135.28872149999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78610cf1-40b3-4f38-b109-abdb2c6afc6f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78610cf1-40b3-4f38-b109-abdb2c6afc6f.webp"
+        },
+        {
+          "url": "media/cached-image_331a94c6fb826feabb575418fd787bea3b3f11c35684a8ee6ba94c847980bed5.jpg"
+        }
+      ],
+      "type": "Boat ramp",
+      "categories": [
+        "Boat ramp"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tajiri Fishing Port, Rinkū Port Kita, Tajiri, Sennan District, Osaka 598-0093, Japan",
+      "city": "Tajiri",
+      "region": "Sennan District, Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5930486,134.3152429,3a,61.2y,336.99h,93.84t/data=!3m7!1e1!3m5!1sidTgkISR_EEOMKGaL7B3TQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.835426803931597%26panoid%3DidTgkISR_EEOMKGaL7B3TQ%26yaw%3D336.98728837757267!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The small working fishing harbor at Tajiri appears in episode 5 as the waterfront where Rei practices his butterfly stroke for the first time, the harbor's still waters serving as a gentler setting before he conquers open water."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWbhyrAcq_l8R2J4ZetRAh6I",
+      "name": "FamilyMart; Iwamicho Uradome",
+      "localName": "ファミリーマート 岩美町浦富店",
+      "coordinates": {
+        "lat": 35.5777182,
+        "lng": 134.3332967
+      },
+      "image": "https://cdn.animepilgrimage.com/places/29d59116-daa7-4ebe-a07f-6895a0143033.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/29d59116-daa7-4ebe-a07f-6895a0143033.webp"
+        },
+        {
+          "url": "media/cached-image_027bbb77107eaaaf3954a85c87e0b9aea972f6920bbc312b034c61ae0f7dfcc4.jpg"
+        },
+        {
+          "url": "media/cached-image_bec57a8a0e42a5c86e0e6ea28314fea7483b873812c33c34ba0fa63c58d5b1b6.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart; Iwamicho Uradome, 1049-62 Uradome, Iwami, Iwami District, Tottori 681-0003, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5778984,134.3328891,3a,85.7y,85.4h,98.86t/data=!3m7!1e1!3m5!1sR7sH0O3IjnjaWt0jxul_PQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.859454478108546%26panoid%3DR7sH0O3IjnjaWt0jxul_PQ%26yaw%3D85.39987154271711!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This convenience store near Uradome beach appears in episode 5 as the local stop where the club members pick up supplies before heading to the coast, one of the everyday background details that make Iwatobi feel like a real small Japanese town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMR8taDZx-F8R0_PSB4h6BR4",
+      "name": "Shirawara Observation Deck",
+      "localName": "ホワイトロード白川郷展望台",
+      "coordinates": {
+        "lat": 36.260438,
+        "lng": 136.8651994
+      },
+      "image": "https://cdn.animepilgrimage.com/places/64b9d9d2-83aa-4ae6-b5bf-43d8f54d5127.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/64b9d9d2-83aa-4ae6-b5bf-43d8f54d5127.webp"
+        },
+        {
+          "url": "media/cached-image_0cbbb71c3fc33572518d083091de841065ae1436a6fba51fccda32eafc72932c.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "White Road Shirakawago Observatory, Iijima, Shirakawa, Ono District, Gifu 501-5625, Japan",
+      "city": "Shirakawa",
+      "region": "Ono District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5910569,134.3090707,3a,90y,307.38h,92.26t/data=!3m7!1e1!3m5!1sGWxtUCNGdblPdTqrzvLMzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.257263157894741%26panoid%3DGWxtUCNGdblPdTqrzvLMzQ%26yaw%3D307.38394736842105!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRwDTSd0p_l8RaJLLGQOG_rg",
+      "name": "Tajiri Park Observation Deck",
+      "localName": "田後公園 展望台",
+      "coordinates": {
+        "lat": 35.5936208,
+        "lng": 134.3122636
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e6809047-51cd-4568-b5d2-cfa4a38cd944.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e6809047-51cd-4568-b5d2-cfa4a38cd944.webp"
+        },
+        {
+          "url": "media/cached-image_ad46b7420a01d15e4dfe185fb9a25c6b9d36950a626ff68a8ed3ddb6528a7cf8.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tajiri Park Observation Deck, 509 Tajiri, Iwami, Iwami District, Tottori 681-0071, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5934097,134.3119972,3a,90y,148.33h,93.51t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID6k7OVoQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbFKM3yC7_K77_0rlocJZLKJUv-ye3kthJivwpWPLhGgNfKUKUHxNKwfJbIuaNLSXQuD_3RfbNS7yIsKP5n_7DhkVVRLdSVVcyHdPhRACxGdm_MFzn8eSdHUunKVkuWRMQiI_8I%3Dw900-h600-k-no-pi-3.514549951113324-ya359.32937981216924-ro0-fo100!7i10240!8i5120?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This hilltop lookout above Tajiri fishing village appears in episode 1 as the vantage point overlooking the sea where Haruka stands alone, staring at the water in the show's iconic opening sequence that establishes his singular obsession with swimming.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_13",
+      "name": "Arasuna Shrine",
+      "localName": "荒砂神社",
+      "coordinates": {
+        "lat": 35.59067,
+        "lng": 134.3217
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13f4ea25-7609-4c9c-a5eb-1c86fe960fb1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13f4ea25-7609-4c9c-a5eb-1c86fe960fb1.webp"
+        },
+        {
+          "url": "media/cached-image_dc0037851634dd6a8a2d9378cf6c55e04ee92c4a7ee23957e630dac7cda67c65.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5904569,134.3220934,3a,41.5y,306.98h,95.42t/data=!3m7!1e1!3m5!1sY14yShIOpUHcNFnsuu0QjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.417591165921195%26panoid%3DY14yShIOpUHcNFnsuu0QjQ%26yaw%3D306.984611262373!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Arasuka Shrine, nestled in the coastal forest near Uradome, appears in episode 7 as the hillside shrine Haruka passes on his way to the sea, a quietly recurring landmark that ties his solitary swims to the spiritual character of the coastline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHccprPzFAGAR9bOEgRQfd-A",
+      "name": "Volunteer center, Kishiwada city Council of social welfare",
+      "localName": "岸和田市社会福祉協議会 ボランティアセンター",
+      "coordinates": {
+        "lat": 34.4584675,
+        "lng": 135.37886939999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b5f5e85-d026-402a-ac6b-f8227c4ae159.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b5f5e85-d026-402a-ac6b-f8227c4ae159.webp"
+        },
+        {
+          "url": "media/cached-image_8fef700c52144c65bab2efd73924cab25ebe1f904f6922e8ef0d04df95c26edb.webp"
+        }
+      ],
+      "type": "Volunteer organization",
+      "categories": [
+        "Volunteer organization"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Volunteer center, Kishiwada city Council of social welfare, 1 Chome-5-5 Nodacho, Kishiwada, Osaka 596-0076, Japan",
+      "city": "Kishiwada",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.4581313,135.3786438,3a,74.7y,110.74h,91.02t/data=!3m7!1e1!3m5!1sCjEmb1k_Nw0zTLZDrObOoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0222002457791888%26panoid%3DCjEmb1k_Nw0zTLZDrObOoQ%26yaw%3D110.7423972588268!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_free_15",
+      "name": "Tajiri Shrine",
+      "localName": "田後神社",
+      "coordinates": {
+        "lat": 35.59302,
+        "lng": 134.31208
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a97955a5-4ca4-48a1-a4b3-b559e5b9ae8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a97955a5-4ca4-48a1-a4b3-b559e5b9ae8a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5930099,134.3121033,3a,90y,284.8h,109.13t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqzabo4QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ0TEoqPIPNSNFGkm-27i9Tb9x56ZJTvfhBK5Q0na3TVUKCmNCWIwbBD4gg6X6-sjWJjITqZPUMnzV1eDs0DvYT3P2EI0mKKmti-bx8THZT1nqs_G1oQ58kwKjOQZEhSyVGbugnRg%3Dw900-h600-k-no-pi-19.126071557455987-ya329.7986365248585-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tajiri Shrine, the small local shrine at the heart of the fishing village, appears in episode 1 as a landmark in the neighborhood surrounding the characters' homes, helping establish the rural coastal atmosphere of the fictional town of Iwatobi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP1Q8wqeAVTURme2ZMsn8Q5c",
+      "name": "Uradome Coast",
+      "localName": "浦富海水浴場",
+      "coordinates": {
+        "lat": 35.590433499999996,
+        "lng": 134.325065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/faff84b1-20c4-4bc4-8960-4bfe4ae43969.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/faff84b1-20c4-4bc4-8960-4bfe4ae43969.webp"
+        },
+        {
+          "url": "media/cached-image_2ff1d9b0ffbc195475d4b6214daff5d6f8f6b3ea8aa46008fc5eecba0ce173b6.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Uradome Coast, Uradome, Iwami, Iwami District, Tottori 681-0003, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5905028,134.3220044,3a,76.9y,7.13h,94.14t/data=!3m7!1e1!3m5!1sTf-VWA9jeIpbZwODKZAQcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.142287243171509%26panoid%3DTf-VWA9jeIpbZwODKZAQcA%26yaw%3D7.127304891348812!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Uradome Coast is the scenic centrepiece of the Free! opening sequence, with shots of its clear turquoise water and dramatic rock formations that define the show's signature summer aesthetic and become immediately iconic to fans.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVRPL3T6HVTUREb66iISQMys",
+      "name": "Oiwa Station",
+      "localName": "大岩駅",
+      "coordinates": {
+        "lat": 35.5669697,
+        "lng": 134.3084635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3b7f534c-d3be-4cfe-8c3f-83516385cd3e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3b7f534c-d3be-4cfe-8c3f-83516385cd3e.webp"
+        },
+        {
+          "url": "media/cached-image_a2e6cd416a32112c372c0b85f9bb19c4d5dc0fb76aa8412bdd263cbedb993a85.jpg"
+        },
+        {
+          "url": "media/cached-image_09a7c5e818a3601cf7bf4f736632e7d8bc5bf7860c1ec1446d9360eeff719728.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Ōiwa Station, Ōtani, Iwami, Iwami District, Tottori 681-0073, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5669697,134.3084635,3a,90y,60.98h,92.85t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICc-4_-3QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaVViuQe2-iUx4hDarwCr2ablQwU735ySsqEk1jPsSDheLW4UDyqRhgDY5B0SazgXWymz4MK-K4EBVx7GDYYthO5HQJFgWl5JwS381-ndVsFGgCct9zepfbxopxTTuz_Q-DcFb0RQ%3Dw900-h600-k-no-pi-2.8489106346593616-ya60.9795853311743-ro0-fo100!7i8000!8i4000?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Oiwa Station, a quiet rural stop on the Sanin Line, appears in episode 3 as part of the train journey the characters take during their outing, the small unmanned station reinforcing the isolated charm of the Iwatobi setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpW51gqeAVTUR4yB_-5zrrtQ",
+      "name": "Iwami Station",
+      "localName": "岩美駅",
+      "coordinates": {
+        "lat": 35.5743925,
+        "lng": 134.335553
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ad3bdcac-2232-4612-a8d6-cd5402f31292.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ad3bdcac-2232-4612-a8d6-cd5402f31292.webp"
+        },
+        {
+          "url": "media/cached-image_ec475d5cab75f5163c9c31bb370754ece0930e4c3301d93f26d27cc1e21513a0.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iwami Station, Uradome, Iwami, Iwami District, Tottori 681-0003, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5744095,134.3357086,3a,90y,320.77h,91.78t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4w7rqvgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYmIvAyU2shle_Vj2uzVxU6Fq6M_XvDDwmpRt085DuUwt_9g53XiO7wImKtdIAsdvjmYD_2p9DVUZUxaYQ7Ke9U9XMHSl3R0ZndlfnUlBA5T-yfwHXLA2QGzKwaEnPG-cU4Bt8aUA%3Dw900-h600-k-no-pi-1.7822006847179068-ya275.7651584443577-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Iwami Station is the real-world model for Iwatobi Station, the main transit hub in the story. In episode 3 it is shown as the characters arrive and depart, and it is the single most recognizable real location that fans visit to feel the show's world come to life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcxEL_2uHVTURKTPwFSsGrQs",
+      "name": "Iwami Choritsu Oiwakoryu Center",
+      "localName": "岩美町立大岩交流センター",
+      "coordinates": {
+        "lat": 35.5774882,
+        "lng": 134.2999864
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6cf1fa8-e99f-4274-af87-4483aaffaf0d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6cf1fa8-e99f-4274-af87-4483aaffaf0d.webp"
+        },
+        {
+          "url": "media/cached-image_60084fa37a11c3b1eff680bc0dc4d609eb7b4a62fdddcb2c3af98e56e7d0623b.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iwami Choritsu Oiwakoryu Center, 2410 Otani, Iwami, Iwami District, Tottori 681-0073, Japan",
+      "city": "Iwami",
+      "region": "Iwami District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5785414,134.3000748,3a,57.5y,351.51h,90.72t/data=!3m7!1e1!3m5!1sEhdSjz6RTNEeFwSfAz784w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.7217322540268327%26panoid%3DEhdSjz6RTNEeFwSfAz784w%26yaw%3D351.50992558725767!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Oiwa community center appears in episode 9 as a background building in the Tajiri area during the training camp arc, part of the real Iwami streetscape that the animators faithfully reproduced for the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMfCxkouZVTUR6XNCyV2LeF0",
+      "name": "Hayabusa Station",
+      "localName": "隼駅",
+      "coordinates": {
+        "lat": 35.3887523,
+        "lng": 134.2700848
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b997560a-c0a0-41ce-9367-ecdad1b2e2f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b997560a-c0a0-41ce-9367-ecdad1b2e2f7.webp"
+        },
+        {
+          "url": "media/cached-image_7d8fc9746af7d03fac7f67840a35fde0c009a348db4b2816ff6c587d3cd46171.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hayabusa Station, Fukui, Yazu, Yazu District, Tottori 680-0403, Japan",
+      "city": "Yazu",
+      "region": "Yazu District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.388552,134.2700214,3a,90y,6.46h,94.3t/data=!3m7!1e1!3m5!1sWu2K-pFNDfmFHRO1aXR35g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.297052631578964%26panoid%3DWu2K-pFNDfmFHRO1aXR35g%26yaw%3D6.460263157894737!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Hayabusa Station, known locally for its Hayabusa motorcycle rally, appears in episode 3 as a stop during the team's train journey, a brief atmospheric shot that gives the characters' travels an authentic rural Tottori texture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjaCGOFYGAWARQaiGyw-jkbE",
+      "name": "Kyoto Aquarena",
+      "localName": "大興設備開発・京都アクアリーナ",
+      "coordinates": {
+        "lat": 34.9897542,
+        "lng": 135.71592379999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d71e14d-e8bb-485d-80f6-f088fd697a67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d71e14d-e8bb-485d-80f6-f088fd697a67.webp"
+        },
+        {
+          "url": "media/cached-image_02077bdfdf794f506645cc42b82754ffbe74d36401c4c8b89d09b77602eadc04.jpg"
+        },
+        {
+          "url": "media/cached-image_e9aff124d704614e7a0fdadc1eca2c8c9ee7dec8ffd5466e6a6b56b8e851f833.jpg"
+        },
+        {
+          "url": "media/cached-image_edb96e7e8ef0e4b3ae202a3fad4f76fa649a8d1c2b855b6c19cadd9917b38c36.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 3.9,
+      "reviewCount": 178,
+      "priceLevel": null,
+      "address": "Kyoto Aquarena, 64 Nishikyogoku Tokudaiji Dangodencho, Ukyo Ward, Kyoto, 615-0846, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9912239,135.7163088,3a,43.4y,208.97h,98.03t/data=!3m7!1e1!3m5!1swUKhnAw2-RjL3tmCWNkoQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.025707992436821%26panoid%3DwUKhnAw2-RjL3tmCWNkoQw%26yaw%3D208.96706939757019!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Kyoto Aquarena, a large indoor swimming complex in Ukyo Ward, served as the visual reference for the Prefectural Competition pool in episode 12, where the Iwatobi team competes in their first major relay race and Haruka swims free.",
+      "fanTopPick": true
+    }
+  ]
+}

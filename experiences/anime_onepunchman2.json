@@ -1,0 +1,458 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "One Punch Man Season 2",
+  "slug": "one-punch-man-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3c0526c9942bc71892e1bedb32b49c49fd6d14f9c65467963a557225e9c28544.webp",
+  "image": "media/cached-image_3c0526c9942bc71892e1bedb32b49c49fd6d14f9c65467963a557225e9c28544.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.68822312727273,
+    "lng": 139.6552993
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "One Punch Man Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWMYgdeMGGARm0MJqDbDkXo",
+      "name": "Niimura Main Store",
+      "localName": "とんかつ にいむら 本店",
+      "coordinates": {
+        "lat": 35.694595,
+        "lng": 139.701192
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d385dbb-2e94-4576-b5ff-37b5e661f07c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d385dbb-2e94-4576-b5ff-37b5e661f07c.webp"
+        },
+        {
+          "url": "media/cached-image_3c6c8624e5a7ab0e306baefd2d759abb1367b51c3ab4e8f6a97aab1f5da93fac.jpg"
+        },
+        {
+          "url": "media/cached-image_5e13c908746028d4419218344cdc9ac127835ac9f186456775c5ec77682e5337.jpg"
+        },
+        {
+          "url": "media/cached-image_e3f4e51f5b0088a2404279d6adf47cfa23fcb5686f87bf42e9d3b6472cd953b9.jpg"
+        },
+        {
+          "url": "media/cached-image_66f5e58147c24ee17b2034bde0e0560fb1cb48333ceeaee6afe866f78d0a6399.jpg"
+        },
+        {
+          "url": "media/cached-image_6a22e590a5c503380d48e29ec18a20a2c1d8dc462688582a06eb2d78c45eb34f.jpg"
+        }
+      ],
+      "type": "Tonkatsu restaurant",
+      "categories": [
+        "Tonkatsu restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Niimura Main Store, 1 Chome-23-10 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Dqp6GuX3bkQkcue17",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This long-established tonkatsu restaurant in Kabukicho, Shinjuku served as a background reference location in Episode 4 of Season 2, with its distinctive shopfront appearing in the show's depiction of Z-City's urban dining district. Fans of the series recognize it as one of several real Shinjuku-area eateries woven into the show's streetscapes.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV1QyaX3yGGARmKBMRY0pJCc",
+      "name": "Sushizanmai Koenji",
+      "localName": "すしざんまい 高円寺店",
+      "coordinates": {
+        "lat": 35.7047291,
+        "lng": 139.6495243
+      },
+      "image": "https://cdn.animepilgrimage.com/places/91f9d3f3-4d93-4abb-a4cd-3f5a78eab5ab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/91f9d3f3-4d93-4abb-a4cd-3f5a78eab5ab.webp"
+        },
+        {
+          "url": "media/cached-image_10492c8f8d7e90818cd86275898e8e4a813868bd980f0117b38a95d8d0605e45.jpg"
+        },
+        {
+          "url": "media/cached-image_420be1af7918d05c8da69a772552a4ebeef1cff4ea6ee4bccb09e03400b04ac2.jpg"
+        },
+        {
+          "url": "media/cached-image_1e1138c40ddf02d3c7abf4c2ddc5994a570ac8cd5df8b353a3fe4190a9e977f7.jpg"
+        }
+      ],
+      "type": "Sushi restaurant",
+      "categories": [
+        "Sushi restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sushizanmai Koenji, 富士建設ビル 1F 4 Chome-26-15 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NiGK8TTZRkWu2j8N6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Koenji branch of the popular sushi chain Sushizanmai appears as a background location in Episode 4 of Season 2, with the Koenji area serving as a key real-world reference for the everyday commercial streets that define Z-City's shopping district. Its bright signage is one of the recognizable street-level details fans spot on pilgrimage.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNeaKQ33yGGAR62p4gdpkGr0",
+      "name": "7-Eleven Koenji Ekimae Store",
+      "localName": "セブン-イレブン 高円寺駅前店",
+      "coordinates": {
+        "lat": 35.7042576,
+        "lng": 139.6494514
+      },
+      "image": "https://cdn.animepilgrimage.com/places/609fd9d4-184a-4598-bd60-1f296e811163.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/609fd9d4-184a-4598-bd60-1f296e811163.webp"
+        },
+        {
+          "url": "media/cached-image_dbdf9160a0c2289f1d29cd99e0d19d17fa82c922a372af846a613f3a7b8d33de.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 小野田ビル 1F 4 Chome-26-5 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/L1VfSmGXF4b9gzAR7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This 7-Eleven just outside Koenji Station's south exit is a confirmed pilgrimage spot from Episode 5 of Season 2, where the surrounding streetscape was used as a real-world reference for Z-City's commercial blocks. Convenience stores like this one are a recurring motif in Saitama's mundane daily life, making it a fun stop for fans walking the Koenji pilgrimage route.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2ZS2UX3yGGARsMt5rK-q9WE",
+      "name": "Kuriningu Tanpopo Koenji Minamiten",
+      "localName": "クリーニング たんぽぽ 高円寺南店",
+      "coordinates": {
+        "lat": 35.7038964,
+        "lng": 139.6497669
+      },
+      "image": "https://cdn.animepilgrimage.com/places/73097fa8-ebc9-4fac-a9fe-7a2c6fdd7137.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/73097fa8-ebc9-4fac-a9fe-7a2c6fdd7137.webp"
+        },
+        {
+          "url": "media/cached-image_a22b915c29a09a7cd6233eaf49d2b4466ea5e67ca8892f70f92438732464e29d.jpg"
+        }
+      ],
+      "type": "Dry cleaner",
+      "categories": [
+        "Dry cleaner"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kuriningu Tanpopo Koenji Minamiten, 高円寺パレスハイツ 4 Chome-27-2 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hHsK5Phs84tPicXz5",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small dry cleaner on Koenji's south side appears in Episode 5 of Season 2 as one of the ordinary neighborhood storefronts that give Z-City its lived-in residential character. The Koenji south exit area was used extensively by the production team as a real-world model for the slice-of-life backgrounds around where Saitama shops and walks.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXgpyp7vGGARvIKZrFnd3-o",
+      "name": "McDonald's Musashisakai North Exit",
+      "localName": "マクドナルド 武蔵境北口店",
+      "coordinates": {
+        "lat": 35.702553099999996,
+        "lng": 139.5446106
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4136893-bf66-447b-a0c9-64874c4740ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4136893-bf66-447b-a0c9-64874c4740ad.webp"
+        },
+        {
+          "url": "media/cached-image_7562fd92091876e539f8f221fd2f9f442278bb8a68976913b937b5d4a5dccedd.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's Musashisakai North Exit, 1 Chome-2-26 Sakai, Musashino, Tokyo 180-0022, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jFEzj9Ssi5m5b143A",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The McDonald's at Musashisakai Station's north exit was used as a background location reference in Episode 6 of Season 2, with the busy station-front plaza feeding into the show's depiction of Z-City's commercial hubs. The Musashisakai area in Musashino City contributed several real-world street references to Season 2's urban backgrounds.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJewQGByMGGARpyijWgWJNb0",
+      "name": "Myojin-shita Kandagawa Main Store",
+      "localName": "明神下 神田川 本店",
+      "coordinates": {
+        "lat": 35.7003719,
+        "lng": 139.7689829
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f37f877c-b827-45c8-bddd-098a2d8024f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f37f877c-b827-45c8-bddd-098a2d8024f6.webp"
+        },
+        {
+          "url": "media/cached-image_2b1a156683e3300db8ce546502d554d442fe823336cb94c2a68bff0c061ca4dd.jpg"
+        }
+      ],
+      "type": "Unagi restaurant",
+      "categories": [
+        "Unagi restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Myojin-shita Kandagawa Main Store, 2 Chome-5-11 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5G1fgUQiCkaz1SG58",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This historic unagi restaurant near Kanda Myojin shrine is a confirmed Season 2 pilgrimage spot, appearing in Episode 7 as a backdrop for a scene involving the Hero Association's world of affluence and power. The restaurant's century-old atmosphere and the Sotokanda neighborhood around it served as a refined counterpoint to Saitama's ordinary Z-City life.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eecdc399-fa96-4501-96fb-63b0a4b8aa72.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eecdc399-fa96-4501-96fb-63b0a4b8aa72.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The world-famous Shibuya Scramble Crossing is featured in Episode 8 of Season 2 as a large crowd scene backdrop, conveying the chaotic scale of Z-City when monster threats begin escalating and civilians swarm the streets. It is one of the most instantly recognizable real-world Tokyo landmarks to appear in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx1e971eLGGARum8w_tnpFwI",
+      "name": "Hachiko Memorial Statue",
+      "localName": "忠犬ハチ公像",
+      "coordinates": {
+        "lat": 35.6590566,
+        "lng": 139.700581
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10afa57a-02bb-4b4c-888b-1d075ab0ae7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10afa57a-02bb-4b4c-888b-1d075ab0ae7d.webp"
+        },
+        {
+          "url": "media/cached-image_9aeafde992cfe7812001137e44a618e0b3cc407c45a3313f58dba98cedc13a31.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6590566,139.700581,3a,75y,276.7h,87.88t/data=!3m7!1e1!3m5!1sAF1QipM-dvMecHDOgo4umvODD5qNQVT2m5WdYNvyEvLI!2e10!3e11!7i3584!8i1792?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The iconic Hachiko statue at Shibuya Station's west exit is a confirmed Season 2 pilgrimage spot appearing in Episode 4, where the busy plaza around it stands in for a crowded city meeting point. The statue and the surrounding pedestrian plaza are among the most recognized real-world Tokyo backdrops used in Season 2.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9wpiCwfzGGAR7DI43NVkyE4",
+      "name": "Repark Matsubara 1-Chome #2",
+      "localName": "三井のリパーク 松原１丁目第２駐車場",
+      "coordinates": {
+        "lat": 35.6703072,
+        "lng": 139.6515365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c715383-25fe-4ece-be08-7f04f06853f5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c715383-25fe-4ece-be08-7f04f06853f5.webp"
+        },
+        {
+          "url": "media/cached-image_2746da100c79f4b39a54df892d5752ff1afdfa4650038e8bb3cad4b9ba525286.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-39-15 Matsubara, Setagaya City, Tokyo 156-0043, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3BfhS8fDi8b53AnR7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This coin parking lot in Matsubara, Setagaya appears in Episode 2 of Season 2 and sits in the heart of the real-world neighborhood that models Saitama's Z-City. The Matsubara 1-chome area around Meidaimae Station is the most documented One Punch Man pilgrimage zone in Tokyo, and this parking lot is one of the street-level details fans match directly to anime frames.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqcuDM5nvGGARyd5DLbfLNL4",
+      "name": "Musashisakai Station",
+      "localName": "武蔵境駅",
+      "coordinates": {
+        "lat": 35.7021388,
+        "lng": 139.5436578
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bb0f8854-aa28-43bf-85b3-b718e629f7a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bb0f8854-aa28-43bf-85b3-b718e629f7a3.webp"
+        },
+        {
+          "url": "media/cached-image_bf1d6c5407a0925b5e3a108943456daf678ae66123992d9db8e949f0604423bf.jpg"
+        },
+        {
+          "url": "media/cached-image_8946ad6aa3f56537d363a03f87af4f4fb2459eef60699ee3593ec6097be71ea6.jpg"
+        },
+        {
+          "url": "media/cached-image_d9412e0c1d1815ee35d8184e74ed9791c9c4c2887c7f4385cfb7f459536ed0ff.jpg"
+        },
+        {
+          "url": "media/cached-image_c5eaf87a2791b7e6bb1cb327f11e34cd27bb4a727d514bd5fb75c1b2a9245a86.jpg"
+        },
+        {
+          "url": "media/cached-image_0422430f0cb264ef2d3b3c9e308cc5136dc108b073c82bc0b52fa9a40b4071e1.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 593,
+      "priceLevel": null,
+      "address": "Musashisakai Station, 2 Chome-1-12 Kyonancho, Musashino, Tokyo 180-0023, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RiNzc25LcwEAbZXa9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Musashisakai Station, a busy JR Chuo Line and Seibu Tama-gawa Line hub in Musashino City, appears as a background location in Episode 5 of Season 2. The station's plaza and surrounding commercial streets contributed to the show's depiction of Z-City's transit nodes, and the area is part of the broader west-Tokyo corridor that inspired One Punch Man's urban settings.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIY8KsanzGGAR_nsyrFLrxNQ",
+      "name": "BAR HICOTTO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6690287,
+        "lng": 139.64863889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/94f78254-45f9-43c2-bd28-29612f037c13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/94f78254-45f9-43c2-bd28-29612f037c13.webp"
+        },
+        {
+          "url": "media/cached-image_efeb8ace337cfa6aa3cfcbed6122f1fa907cbbc85b81d993e418255cec6863a7.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒156-0043 Tokyo, Setagaya City, Matsubara, 2 Chome−39−12 B1F BAR HICOTTO",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bJzpa79mPz8W6Xo58",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This basement bar on Matsubara 2-chome in Setagaya is a confirmed Episode 2 pilgrimage spot, located just a few blocks from the Via Meidaimae apartment building that inspired Saitama's own home. The entire Matsubara neighborhood in Setagaya is the real-world heart of Z-City, and BAR HICOTTO's surrounding streetscape appears in the opening episodes of Season 2 as a background for scenes set near Saitama's home turf.",
+      "fanTopPick": false
+    }
+  ]
+}

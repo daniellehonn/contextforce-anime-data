@@ -1,0 +1,1025 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tamako Love Story",
+  "slug": "tamako-love-story",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_c0cdd70405a1677f6123017a2e3bb610f09d952aed8895c45ba12475fa29830d.webp",
+  "image": "media/cached-image_c0cdd70405a1677f6123017a2e3bb610f09d952aed8895c45ba12475fa29830d.webp",
+  "banner": null,
+  "primaryLocation": "Kyoto, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.03070456206896,
+    "lng": 135.93896581724138
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tamako Love Story"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJvT7SlLQQA2ARUnUGRUpQz6Y",
+      "name": "Yoroken Main Store",
+      "localName": "養老軒 本店",
+      "coordinates": {
+        "lat": 35.4766131,
+        "lng": 137.0569012
+      },
+      "image": null,
+      "images": [],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yoroken Main Store, 273-1 Shimokawabe, Kawabe, Kamo District, Gifu 509-0306, Japan",
+      "city": "Kawabe",
+      "region": "Kamo District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0036334,135.7333138,3a,57.8y,174.82h,92.21t/data=!3m7!1e1!3m5!1sm4hTEQe68lsBPvSmG3XYEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.2080559427752604%26panoid%3Dm4hTEQe68lsBPvSmG3XYEA%26yaw%3D174.8191914823382!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7wKLka4IAWARCByidG5EGrY",
+      "name": "Kyoto Station",
+      "localName": "京都駅",
+      "coordinates": {
+        "lat": 34.9864205,
+        "lng": 135.758982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9b89e12-da45-46c7-b65d-aadb186997bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9b89e12-da45-46c7-b65d-aadb186997bb.webp"
+        },
+        {
+          "url": "media/cached-image_0472f43aa6b504d48603c1b2af9ac5ca8322d61f1d3caa5b83276eff44723ace.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9864205,135.758982,3a,75y,158.46h,98.21t/data=!3m6!1e1!3m4!1seLCEoiRDA8XStEuU6T3HgQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The climactic scene of the film takes place here, where Mochizou departs for Tokyo to pursue his filmmaking dreams, and Tamako races to the station to finally confess her feelings.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa3x5yDoJAWARGUhIDLgEF9c",
+      "name": "DELTA Bistro, Coffee Shop & Gallery by KYOTOGRAPHIE",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.030332099999995,
+        "lng": 135.7684542
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32c06185-450c-4f20-a654-6e8c819aedc1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32c06185-450c-4f20-a654-6e8c819aedc1.webp"
+        },
+        {
+          "url": "media/cached-image_e09e4c229bf1e212551bc81101d251019fc8ddc4f13e8b6de59de638b054735e.jpg"
+        },
+        {
+          "url": "media/cached-image_ed9e3d19d5c797bd9f5f83dee5cf3b562ce88986f15646ad8bf47421b2dcb77a.jpg"
+        },
+        {
+          "url": "media/cached-image_a4ee0a79aa52302938ec1592ad50817ee7dcd69b374518a6fb8e527de65b7423.jpg"
+        },
+        {
+          "url": "media/cached-image_9e21135daf61dd260a3fbea5afc9135c015966df4636a825140af4bdd2884d99.jpg"
+        },
+        {
+          "url": "media/cached-image_ac36f0ce6f48290db6fd925b4f1b6feafd63cff068b20bddfdb519fe60d49524.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒602-0826 Kyoto, Kamigyo Ward, Saneicho, 62 DELTA Bistro, Coffee Shop & Gallery by KYOTOGRAPHIE",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4bLoBrEtxoGoHb1e6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd9pWqK8IAWAR1L-X_-4WKew",
+      "name": "Nidec Kyoto Tower",
+      "localName": "ニデック京都タワー",
+      "coordinates": {
+        "lat": 34.987520499999995,
+        "lng": 135.7592518
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc015a35-3932-4e21-99ae-c6067f859d86.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc015a35-3932-4e21-99ae-c6067f859d86.webp"
+        },
+        {
+          "url": "media/cached-image_782748d57e5504b9ac4f7851b3e0f6b6a204b78e176f61e2135c48e6ad15dfb4.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nidec Kyoto Tower, 721-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NPyTwVz7WQd997F6A",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The tower appears prominently in background shots around Kyoto Station, grounding the film's departure sequence in the real cityscape Tamako and Mochizou know."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI6b_cWgIAWARZ8VqZO5UWFs",
+      "name": "Demachi Futaba",
+      "localName": "出町ふたば",
+      "coordinates": {
+        "lat": 35.030099899999996,
+        "lng": 135.7696183
+      },
+      "image": "https://cdn.animepilgrimage.com/places/041c06b7-f676-4967-b706-db5d3039a99b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/041c06b7-f676-4967-b706-db5d3039a99b.webp"
+        },
+        {
+          "url": "media/cached-image_de464930bf3954def3822e54ba840030a298adb9f80ebb12c4f0af5dbfebb91a.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Demachi Futaba, 236 Seiryucho, Kamigyo Ward, Kyoto, 602-0822, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0301168,135.769773,3a,75y,260.33h,93.36t/data=!3m7!1e1!3m5!1sNuH7HUJOd3qE_2va9roQMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.360182938321387%26panoid%3DNuH7HUJOd3qE_2va9roQMA%26yaw%3D260.33358325215244!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This celebrated mochi shop sits at the heart of the Demachi shopping arcade district that inspired Tama-ya's neighborhood, and fan pilgrimages here are closely linked to the film's mochi-shop setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt-Rgtl_mAGAR2oe8fOANJfM",
+      "name": "Ramen Kozo",
+      "localName": "極濃豚骨 らーめん小僧",
+      "coordinates": {
+        "lat": 34.693534,
+        "lng": 135.4854297
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e85e33e-b1dd-416c-954d-609bb2e6a897.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e85e33e-b1dd-416c-954d-609bb2e6a897.webp"
+        },
+        {
+          "url": "media/cached-image_66347443ff8dee9117c746c54138e25cfc884677491f8a3bff8cfcdf3c0aca1b.jpg"
+        },
+        {
+          "url": "media/cached-image_063401381b035aefa41beb950265340882e2521a60e92442a03fd8a3f31a9284.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ramen Kozō, 3 Chome-8-10 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.957645,135.7704689,3a,90y,12.83h,89.38t/data=!3m8!1e1!3m6!1sAF1QipN4Ycn02d4EoIlnmIDDukJd-5aZlDSJG423VgSs!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipN4Ycn02d4EoIlnmIDDukJd-5aZlDSJG423VgSs%3Dw900-h600-k-no-pi0.6168902639347351-ya282.60748025301586-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ4JH3HIPAWARbhNggin-YO4",
+      "name": "Fujinomori Station",
+      "localName": "藤森駅",
+      "coordinates": {
+        "lat": 34.9568812,
+        "lng": 135.7702771
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00602184-5ecc-4bcf-9bc5-456d990031b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00602184-5ecc-4bcf-9bc5-456d990031b3.webp"
+        },
+        {
+          "url": "media/cached-image_76bc615675553479c65219facd8ec5d13586a04756e3cf6f68173bbd97ee45ef.jpg"
+        },
+        {
+          "url": "media/cached-image_7d7f1cf1110452d9a1b8f521ef4a260c828d470f78a289f3c6b558e691c569cd.jpg"
+        },
+        {
+          "url": "media/cached-image_21cce20af7364d9b49455bf0e0772c94cf85da34a08208be49a885fe2bf2688f.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 13,
+      "priceLevel": null,
+      "address": "Fujinomori Station, Fukakusa Kitorochō, Fushimi Ward, Kyoto, 612-0025, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9570657,135.770343,3a,48.8y,257.47h,95.1t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICi-OC1twE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0Y-RPNCBzKo1L6e--LiorZbEOR9hmNcRaRI1eYZeDLoIwTQb0VNuHh2sY8LUPuvsC6HPfkej4dBjcS048KQtqBGg93TF03PrqrB2G7JGIdRjS6r2n93y4_GRWPgQr60hJpX2VS%3Dw900-h600-k-no-pi-5.097725227712047-ya257.3684719272573-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Kintetsu Kintetsu Fujinomori Station exterior was used as the model for the local train station scenes, where characters travel to and from the shopping arcade neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_7",
+      "name": "Day Care Center Hogaraka",
+      "localName": "デイケアセンターほがらか",
+      "coordinates": {
+        "lat": 34.95787,
+        "lng": 135.77065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/030428ab-40cf-47eb-a7ba-859e6bc25997.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/030428ab-40cf-47eb-a7ba-859e6bc25997.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9578574,135.7705494,3a,75y,96.48h,80.3t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE5PvdVQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2lncldJQr1-fMg3dUAxZxpjpRjg2R6I0pbBZir3uMPbfcqpAJD104W1YpPHg2tH-5vV5TSN1RwBN7dhOiLhPta8FFSGOuQiJqkaApo-p3dzrJOqjsvMpvd7fadbSPuaqdMR3Q%3Dw900-h600-k-no-pi9.69632748231264-ya2.013200633357627-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This building near Fujinomori Station was identified by pilgrimage fans as a background reference in neighborhood scenes set around the shopping arcade district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_8",
+      "name": "KIWIDog & CatHotel",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.95919,
+        "lng": 135.77042
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a6db91d-43ed-48df-9e79-de1f30ea8cc2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a6db91d-43ed-48df-9e79-de1f30ea8cc2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9592086,135.7706464,3a,75y,263.76h,95.23t/data=!3m7!1e1!3m5!1sUXjkLIi_tUItzeK8DC4O1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.229249573716231%26panoid%3DUXjkLIi_tUItzeK8DC4O1Q%26yaw%3D263.757720024256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Located close to Fujinomori Station, this building appears as a background structure in the film's street scenes around the station area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_9",
+      "name": "Sushi Fujii",
+      "localName": "寿司ふじ井",
+      "coordinates": {
+        "lat": 35.03024,
+        "lng": 135.76794
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44489afb-2130-4aea-aeb2-d5aa02563b7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44489afb-2130-4aea-aeb2-d5aa02563b7d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0303094,135.7679178,3a,90y,150.91h,94.23t/data=!3m7!1e1!3m5!1s98muLGAgakeG4d3RqOAt8g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.232501815043165%26panoid%3D98muLGAgakeG4d3RqOAt8g%26yaw%3D150.91275535186472!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Demachi-area restaurant was documented by pilgrimage fans as a storefront background visible in the shopping arcade neighborhood sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_10",
+      "name": "Yakiniku Sagaki",
+      "localName": "焼肉さが喜",
+      "coordinates": {
+        "lat": 35.03027,
+        "lng": 135.76807
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dee914f4-3e44-4e3c-b629-bcbbe9b4a2f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dee914f4-3e44-4e3c-b629-bcbbe9b4a2f7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0302963,135.7680109,3a,90y,139.79h,88t/data=!3m7!1e1!3m5!1s3Lb9DQuJSv1EKUQnqYPT6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.995708598110511%26panoid%3D3Lb9DQuJSv1EKUQnqYPT6Q%26yaw%3D139.78739813198018!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A restaurant in the Demachi shopping district that appears as a background shop reference in the film's depiction of the arcade neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSUQQreoIAWARkYoZLqBOPwk",
+      "name": "Izumoya",
+      "localName": "先斗町いづもや",
+      "coordinates": {
+        "lat": 35.0040701,
+        "lng": 135.77116089999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d64b63c-807f-4b6b-8ef0-29dc10b43610.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d64b63c-807f-4b6b-8ef0-29dc10b43610.webp"
+        },
+        {
+          "url": "media/cached-image_7365859367b161c7292739e5ac0f046db66ecc58d7e21ece5abafa692a475385.jpg"
+        }
+      ],
+      "type": "Unagi restaurant",
+      "categories": [
+        "Unagi restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pontocho Idumoya, 173-2 Kashiwayacho, Nakagyo Ward, Kyoto, 604-8014, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0302911,135.7682197,3a,90y,148.63h,85.79t/data=!3m7!1e1!3m5!1skysyDz_89_CJV2-KAmlUkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.212754390812748%26panoid%3DkysyDz_89_CJV2-KAmlUkA%26yaw%3D148.63160040501015!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_12",
+      "name": "Boai Bookstore",
+      "localName": "暮靄書房",
+      "coordinates": {
+        "lat": 35.03027,
+        "lng": 135.76833
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fb6e3dee-2367-4ef3-9d76-0976a142f632.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fb6e3dee-2367-4ef3-9d76-0976a142f632.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0302851,135.7683277,3a,90y,184.31h,91.25t/data=!3m7!1e1!3m5!1sYaMjN7XVTSwRuHD7cQzR_g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2495194225753323%26panoid%3DYaMjN7XVTSwRuHD7cQzR_g%26yaw%3D184.31042107845727!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This bookstore in the Demachi area appears in the background of shopping arcade scenes, part of the real-world cluster of shops that inspired the film's Tama-ya neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU-eiLAAJAWARflcGcHMwwhY",
+      "name": "S.O.U./Violet Claire",
+      "localName": "S.O.U./Violet&Claire",
+      "coordinates": {
+        "lat": 35.030253099999996,
+        "lng": 135.7683999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6526531-45ad-44bd-ad2e-754c5dd607eb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6526531-45ad-44bd-ad2e-754c5dd607eb.webp"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒602-0824 Kyoto, Kamigyo Ward, Isshincho, 65-1 2階 S.O.U./Violet&Claire",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0302844,135.7684173,3a,90y,202.05h,103.34t/data=!3m7!1e1!3m5!1sYJXxCLpmNk9Ly96JgO1CeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.335281999773002%26panoid%3DYJXxCLpmNk9Ly96JgO1CeA%26yaw%3D202.04806108145948!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5UsboeaLGGARV2ODxt0ic1I",
+      "name": "Matsuya Shokuryohinten",
+      "localName": "松屋銀座",
+      "coordinates": {
+        "lat": 35.6722621,
+        "lng": 139.7666526
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bdae168a-667b-4ed6-952c-f8912d8bcc85.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bdae168a-667b-4ed6-952c-f8912d8bcc85.webp"
+        },
+        {
+          "url": "media/cached-image_4090546ada0a9444fe8a7bf4310c674bb160dc50e9091053de1557eaf8b92022.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 2,
+      "reviewCount": 197,
+      "priceLevel": null,
+      "address": "Matsuya Ginza, 3 Chome-6-1 Ginza, Chuo City, Tokyo 104-8130, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0302844,135.7684173,3a,75y,83.74h,93.81t/data=!3m7!1e1!3m5!1sYJXxCLpmNk9Ly96JgO1CeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.807865284402837%26panoid%3DYJXxCLpmNk9Ly96JgO1CeA%26yaw%3D83.74360216887345!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_15",
+      "name": "Noro Main Store",
+      "localName": "野呂本店",
+      "coordinates": {
+        "lat": 35.03072,
+        "lng": 135.76788
+      },
+      "image": "https://cdn.animepilgrimage.com/places/38c8fc34-c6ac-4193-8f66-94050c9d9eeb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/38c8fc34-c6ac-4193-8f66-94050c9d9eeb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0307132,135.7678963,3a,75y,180.93h,97.07t/data=!3m7!1e1!3m5!1sw3JVsuSfCwdRhg8L_A14NA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.065946931981898%26panoid%3Dw3JVsuSfCwdRhg8L_A14NA%26yaw%3D180.9258262530603!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_16",
+      "name": "Stepping Stones",
+      "localName": "出町の飛び石",
+      "coordinates": {
+        "lat": 35.02939,
+        "lng": 135.77222
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e2908f6-e9c0-411b-8120-a96007f888c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e2908f6-e9c0-411b-8120-a96007f888c2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0294529,135.7718706,3a,47.7y,200.54h,91.1t/data=!3m8!1e1!3m6!1sAF1QipPN8p_SGrEo-8y15anT_gk_UwJtSP9AxXZkaDdG!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPN8p_SGrEo-8y15anT_gk_UwJtSP9AxXZkaDdG%3Dw900-h600-k-no-pi-1.1039880046400867-ya200.53553883413605-ro0-fo100!7i6528!8i3264?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Demachi tobishi stepping stones across the Kamo River appear in the film as a place where Tamako and her friends spend time, and the spot is a beloved pilgrimage landmark for fans recreating the film's riverside atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYfiJTR0JAWAR6aLRNJZqn-k",
+      "name": "Kamogawa Delta",
+      "localName": "鴨川デルタ",
+      "coordinates": {
+        "lat": 35.029858499999996,
+        "lng": 135.77176409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e8a62b5-3758-450a-85b5-7c5ab803e13d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e8a62b5-3758-450a-85b5-7c5ab803e13d.webp"
+        },
+        {
+          "url": "media/cached-image_5e720fb5eb50aabae3f1cf34df26deba246a606fe76fcf489c6d88226f328e01.jpg"
+        },
+        {
+          "url": "media/cached-image_e8bef124cbf54539b3d1b7b9418e41a94c9004ca8c09c8eeb1ee0d887c223525.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Kamogawa Delta, Shimogamo Miyakawacho, Sakyo Ward, Kyoto, 606-0801, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0294529,135.7718706,3a,50.2y,84.38h,93.28t/data=!3m8!1e1!3m6!1sAF1QipPN8p_SGrEo-8y15anT_gk_UwJtSP9AxXZkaDdG!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPN8p_SGrEo-8y15anT_gk_UwJtSP9AxXZkaDdG%3Dw900-h600-k-no-pi-3.28480473489671-ya84.38443966483406-ro0-fo100!7i6528!8i3264?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The confluence of the Kamo and Takano rivers forms the iconic triangular delta that stands in for the open riverside space where Tamako and Mochizou share important moments, making it the film's most emblematic outdoor location.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdaLw0pAIAWARHoMf_92w1fk",
+      "name": "Semmaruya honten",
+      "localName": "千丸屋本店 京湯葉鍋と京湯葉土産 [Senmaruya - Restaurant for Yuba Lunch in Kyoto]",
+      "coordinates": {
+        "lat": 35.004677799999996,
+        "lng": 135.763349
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77cb58b9-281e-473b-aa25-417c214abbfa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77cb58b9-281e-473b-aa25-417c214abbfa.webp"
+        },
+        {
+          "url": "media/cached-image_3908e032f1e452a5c44a1da616fa5c82937836281d1389897237d89f07167005.jpg"
+        }
+      ],
+      "type": "Japanese restaurant",
+      "categories": [
+        "Japanese restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Semmaruya honten, 541 Yaoyacho, Nakagyo Ward, Kyoto, 604-8123, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0047477,135.7632777,3a,90y,56.94h,99.07t/data=!3m7!1e1!3m5!1smL-Xm_-uPYRJMSY9lhF34A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.065524400056887%26panoid%3DmL-Xm_-uPYRJMSY9lhF34A%26yaw%3D56.942108206673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJddaa_GcIAWARZ9dbB1PlEKw",
+      "name": "Tanegen Honten",
+      "localName": "タネ源本店",
+      "coordinates": {
+        "lat": 35.0299404,
+        "lng": 135.7706674
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0b3add08-ee11-44db-912f-1fcae1a96b77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0b3add08-ee11-44db-912f-1fcae1a96b77.webp"
+        },
+        {
+          "url": "media/cached-image_970670e8712de196ad08614b93d68b318400926a5755838791942a1643de8814.jpg"
+        }
+      ],
+      "type": "Garden center",
+      "categories": [
+        "Garden center"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒602-0822 Kyoto, Kamigyo Ward, Seiryucho, 93 タネ源本店 出町東入, 桝形通",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0304433,135.7711874,3a,42.3y,238.41h,92.52t/data=!3m7!1e1!3m5!1s_ufNBBobfIX2EK_XOj2t0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.519811846178527%26panoid%3D_ufNBBobfIX2EK_XOj2t0w%26yaw%3D238.40878664735087!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This seed shop on the Masugata shopping street near Demachi was captured by fans as one of the real storefronts that informed the look of the film's shopping arcade."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_20",
+      "name": "gutsy pine",
+      "localName": "ど根性松",
+      "coordinates": {
+        "lat": 35.03024,
+        "lng": 135.77195
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da438205-deec-4152-9908-e5fd8ce4d06e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da438205-deec-4152-9908-e5fd8ce4d06e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0298371,135.7723256,3a,60.9y,329.73h,93.77t/data=!3m8!1e1!3m6!1sAF1QipOLvqgMxjMHI2mDA2SdhE-AmX4ApG8YTjYkFjlh!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOLvqgMxjMHI2mDA2SdhE-AmX4ApG8YTjYkFjlh%3Dw900-h600-k-no-pi-3.7721326510376514-ya321.1543020157404-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The lone pine tree growing from a gap in the pavement near the Kamogawa Delta is a local landmark that appears in the riverside scenery of the film, admired for its tenacity just as Tamako admires those around her."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tamako-love-story_21",
+      "name": "Koyama",
+      "localName": "コヤマ",
+      "coordinates": {
+        "lat": 34.95906,
+        "lng": 135.77064
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3703fcff-2194-4499-8b8a-ee9e14d21587.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3703fcff-2194-4499-8b8a-ee9e14d21587.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9589411,135.7704568,3a,75y,55.08h,93.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE5PujOw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2GOczd2iq5MlaSFgtCLgzhgaoQAkCCWJ649upXmAfFCGfrCfIwVp6YPksg5rH4-s5CKEZKAnnFf-WI7WnR-ALvTaFtBYxrHwPoYjmQGFOnPTSXX5dM-xy1AS42Z6TEbEifu5A%3Dw900-h600-k-no-pi-3.3643897117909347-ya337.8384186552107-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV1D32rUIAWARCHnEve24-Og",
+      "name": "FamilyMart Demachi store",
+      "localName": "ファミリーマート 京都七条本町店",
+      "coordinates": {
+        "lat": 34.9890347,
+        "lng": 135.76936279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dae7796d-6b01-4395-b19a-01dfafb1d7b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dae7796d-6b01-4395-b19a-01dfafb1d7b9.webp"
+        },
+        {
+          "url": "media/cached-image_a6783f8197c10cc2d16fbad864e7508b05b07cc41b04d514fbef7fe28e55cd92.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 6 Chome-6 Honmachi, Higashiyama Ward, Kyoto, 605-0981, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.030282,135.7696965,3a,90y,87.51h,97.64t/data=!3m7!1e1!3m5!1s5jtFl8MKUHt1ZKNEO-jWsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.643429978459409%26panoid%3D5jtFl8MKUHt1ZKNEO-jWsg%26yaw%3D87.50575601255713!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A convenience store in the Demachi neighborhood documented by fans as a background location near the shopping arcade area depicted in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI1GLoKIJAWARDR40BVv2JZI",
+      "name": "Saryo FUKUCHA - Kyoto Station",
+      "localName": "茶寮 FUKUCHA 京都駅店",
+      "coordinates": {
+        "lat": 34.9861156,
+        "lng": 135.7585331
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5772713d-56f5-4b32-8daf-4ac3bb900d0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5772713d-56f5-4b32-8daf-4ac3bb900d0c.webp"
+        },
+        {
+          "url": "media/cached-image_cfae207f9bf190ce9dc88cc7bfeb3dc5d550dc795298fb004f732c009c9d40f6.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒600-8216 Kyoto, Shimogyo Ward, Higashishiokojicho, 901 Kyoto Station Building, Saryo FUKUCHA Kyoto Sta. Branch, 中央口 2階",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9860782,135.7587754,2a,90y,57.96h,75.29t/data=!3m7!1e1!3m5!1sD2chFa1OWtSmWESocOHudg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.713586982331051%26panoid%3DD2chFa1OWtSmWESocOHudg%26yaw%3D57.96005239456091!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT5NvX64IAWARRtnsQ_oAekY",
+      "name": "Kyoto Station Building",
+      "localName": "京都駅ビル",
+      "coordinates": {
+        "lat": 34.986035799999996,
+        "lng": 135.75899809999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3c85682c-5411-4a37-b68d-812991338b1a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3c85682c-5411-4a37-b68d-812991338b1a.webp"
+        },
+        {
+          "url": "media/cached-image_8e62e3722fdce43a3387c8689cc79ec3b764d6b55d7272a83c4d53253ba9dc10.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kyoto Station Building, 901 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9860046,135.7589932,2a,64.3y,358.76h,106.62t/data=!3m7!1e1!3m5!1se4-M9uyCtHEGrFofZpAM1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.62206280446847%26panoid%3De4-M9uyCtHEGrFofZpAM1A%26yaw%3D358.76113250266246!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The station building's grand interior is part of the departure sequence where Tamako runs to catch Mochizou before his shinkansen leaves, giving the building emotional weight for fans of the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6_-QUq4IAWARKEu0EmXLE14",
+      "name": "Kyoto Shiyakusho Sangyokankokyoku Kyoto Total Information Centre",
+      "localName": "京都総合観光案内所「京なび」",
+      "coordinates": {
+        "lat": 34.9856511,
+        "lng": 135.7579638
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6b428e1-75c9-41e2-8c93-d1da96641e75.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6b428e1-75c9-41e2-8c93-d1da96641e75.webp"
+        },
+        {
+          "url": "media/cached-image_7345f28c213eedef0ae9d717abc8be3505206a7d1d597c506115bd7b9d0b0e4e.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kyoto Tourist Information Center Kyo-Navi, Kyoto Station Building, ２階 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9855713,135.758299,2a,90y,86.89h,95.35t/data=!3m7!1e1!3m5!1sPTPMEICEDwW-uNPvsY4zNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.350187339122797%26panoid%3DPTPMEICEDwW-uNPvsY4zNA%26yaw%3D86.8949328362617!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx9bIzwMJAWARAt7Zy8wEr3c",
+      "name": "JR-Central Ticket Office, Kyoto Station Shinkansen Central Entrance",
+      "localName": "JR東海 京都駅新幹線中央口 JR全線きっぷうりば (みどりの窓口)",
+      "coordinates": {
+        "lat": 34.9847106,
+        "lng": 135.7584221
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e24dd24a-ed25-4f8c-b8d7-34228ad0ab88.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e24dd24a-ed25-4f8c-b8d7-34228ad0ab88.webp"
+        },
+        {
+          "url": "media/cached-image_453966912a91e63543dbfe50ebf6550f38f4113343ecae3d9d98ab7f6d9990e7.jpg"
+        }
+      ],
+      "type": "Train ticket office",
+      "categories": [
+        "Train ticket office"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "JR-Central Ticket Office, Kyoto Station Shinkansen Central Entrance, 8 Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9847688,135.758312,2a,75y,21.07h,96.38t/data=!3m7!1e1!3m5!1sQEdWImR1RKXjb_guohRJyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.375266670268672%26panoid%3DQEdWImR1RKXjb_guohRJyQ%26yaw%3D21.066254174877663!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The shinkansen ticket gates and central entrance area are where Tamako rushes through in the film's emotional climax, trying to reach Mochizou before he boards his train to Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVRZcnq4IAWARbvubAG9f7qQ",
+      "name": "Hachijo Komachi",
+      "localName": "八条小町",
+      "coordinates": {
+        "lat": 34.984480399999995,
+        "lng": 135.7582296
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00b47e78-6a3d-41a3-bbca-d48a0afe3ad1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00b47e78-6a3d-41a3-bbca-d48a0afe3ad1.webp"
+        },
+        {
+          "url": "media/cached-image_a43f2ccb7113f2f3c48dd3cf66aed57f89a2e9fd7c682c1fd425007ca479e4cc.jpg"
+        }
+      ],
+      "type": "Souvenir store",
+      "categories": [
+        "Souvenir store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hachijo Komachi, Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9845883,135.7584408,2a,90y,71.23h,89.01t/data=!3m7!1e1!3m5!1sSjji1KH537tIx96qx7L0ow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.9935371696760313%26panoid%3DSjji1KH537tIx96qx7L0ow%26yaw%3D71.2302669405638!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP3bfSkwJAWARvOKbJ7yJGI8",
+      "name": "Perk Coffee - JR Kyoto Station Shinkansen Inbound Platform",
+      "localName": "PERK COFFEE JR京都駅新幹線上りホーム",
+      "coordinates": {
+        "lat": 34.984690799999996,
+        "lng": 135.759491
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b749a0bc-32b5-4cb2-9037-1e523c45d9d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b749a0bc-32b5-4cb2-9037-1e523c45d9d7.webp"
+        },
+        {
+          "url": "media/cached-image_42f75206e304693e6a2d42ebe4c7ae93a4cdcd78f2032bd0f955d61e8e047711.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Perk Coffee - JR Kyoto Station Shinkansen Inbound Platform, ８ Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9846624,135.7590842,2a,90y,358.22h,93.68t/data=!3m7!1e1!3m5!1sCkEVi7D7KMe9jcudMglVeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.680689147268737%26panoid%3DCkEVi7D7KMe9jcudMglVeg%26yaw%3D358.22348834229604!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    }
+  ]
+}

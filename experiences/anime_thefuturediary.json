@@ -1,0 +1,951 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Future Diary",
+  "slug": "the-future-diary",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_e42f8cc86d2a34d278309c9b32c622f3e27db07ba79a83d8b073c389e5ffaf68.webp",
+  "image": "media/cached-image_e42f8cc86d2a34d278309c9b32c622f3e27db07ba79a83d8b073c389e5ffaf68.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.129656608000005,
+    "lng": 139.58602031200002
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Future Diary"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ16CEQ3D7GGARGQg-vryhpkw",
+      "name": "Starbucks Coffee - Yomiuri Land Goodjoba!!",
+      "localName": "スターバックス コーヒー よみうりランドグッジョバ!!店",
+      "coordinates": {
+        "lat": 35.6319951,
+        "lng": 139.5171176
+      },
+      "image": "https://cdn.animepilgrimage.com/places/262aa128-ffb6-4d77-bb72-b96a184234ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/262aa128-ffb6-4d77-bb72-b96a184234ca.webp"
+        },
+        {
+          "url": "media/cached-image_14796201a7677911267dc3e2a3a59a086a735282160a73b861efa4844072e838.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": null,
+      "reviewCount": 146,
+      "priceLevel": null,
+      "address": "Japan, 〒206-8725 Tokyo, Inagi, Yanokuchi, 4015-1 Starbucks Coffee - Yomiuri Land Goodjoba!!, よみうりランド",
+      "city": "Inagi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Located inside Yomiuri Land, this Starbucks sits within the amusement park that served as the real-world model for the park where Yukiteru and Yuno go on their memorable date in Episode 3.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6234853,139.5182786,3a,89.8y,25.08h,96.22t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID5loO9Kg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYPZl3snQrqgIVq9Fp4-NRQxnpvGMS_OhVAJbKIUs_I213v81nsfbf7zgtpce0cn3dL6t_CntQToZOphY5d8Kne9exnZ2TjJBodFKghQ5upB85RhcnKv4CIhwyrap5S8nuQ3LNg%3Dw900-h600-k-no-pi-6.2219225124713375-ya109.77223709239254-ro0-fo100!7i5760!8i2880?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_1",
+      "name": "Toei Minamitanaka Apartment Building 21",
+      "localName": "都営南田中 アパート21号棟",
+      "coordinates": {
+        "lat": 35.73942,
+        "lng": 139.61117
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97a4f519-1683-455d-98e2-5a80e844901e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97a4f519-1683-455d-98e2-5a80e844901e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This government housing complex near Shakujii River in Nerima Ward served as the background model for the apartment block and bridge that Yukiteru crosses during his commute in Episode 2, establishing the everyday setting of Sakurami City.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7391467,139.611083,3a,48.5y,17.42h,93.62t/data=!3m7!1e1!3m5!1sEYEYTcnqE6BOtJvVrlMOsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.624100681057044%26panoid%3DEYEYTcnqE6BOtJvVrlMOsQ%26yaw%3D17.422729597076874!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9_FxdIj6GGARU_kzX6Xrguc",
+      "name": "Yomiuri Land",
+      "localName": "よみうりランド",
+      "coordinates": {
+        "lat": 35.6235374,
+        "lng": 139.5207931
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ea3fe868-7b7e-47bf-a3b2-004fb48ce98c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ea3fe868-7b7e-47bf-a3b2-004fb48ce98c.webp"
+        },
+        {
+          "url": "media/cached-image_ec636bd6cbd64e35ccdae8867ecfa0b6fef7704b2e1f7227ff92968370c6c9d3.jpg"
+        },
+        {
+          "url": "media/cached-image_fabf5d460bc45593456faf87c7fec6f357d2008ef657a245d551823f43d94a20.jpg"
+        },
+        {
+          "url": "media/cached-image_62b58d7179eddcf5d80bea30702e5b0aca7c0a04af656ab22ae694d47fea87a7.jpg"
+        },
+        {
+          "url": "media/cached-image_b8eb7480028f0fb3cff7cd5840f667ca5e87e22f523326757500e9cbc151ea1b.jpg"
+        },
+        {
+          "url": "media/cached-image_f14b2299f42e423f9e823f9cd1793985ea5dfd9a721792cee2ae4b3552a164ec.jpg"
+        },
+        {
+          "url": "media/cached-image_9c3850187859685e100394707bed6e9892eaaf7708420713d41859eccd520cfa.jpg"
+        }
+      ],
+      "type": "遊園地",
+      "categories": [
+        "遊園地"
+      ],
+      "rating": 4.3,
+      "reviewCount": 851,
+      "priceLevel": null,
+      "address": "1-4015-1 Yanokuchi, Tama Ward, Inagi, Tokyo 206-8725, Japan",
+      "city": "Inagi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Yomiuri Land amusement park is the real-world model for the park where Yukiteru and Yuno go on their iconic Episode 3 date, including the Ferris wheel scene where Yuno first reveals the depth of her obsession with Yukki. The ghost train and pool area from that episode are also drawn from this park.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6235374,139.5207931,3a,48.8y,347.67h,95.89t/data=!3m6!1e1!3m4!1sxa-KXENVxv-pVdwl3Ejo8A!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_3",
+      "name": "Yagisawa(Bus)",
+      "localName": "柳沢(バス)",
+      "coordinates": {
+        "lat": 35.72612,
+        "lng": 139.55171
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A bus stop near Nishi-Yagisawa in western Tokyo that appears as a background location in the OVA episode, set in the same residential area of Sakurami City that recurs throughout the series.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.726104,139.5517006,3a,90y,201.34h,96.14t/data=!3m7!1e1!3m5!1svL9Sb7DgkhN8W0rgmYfeOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.140991998664731%26panoid%3DvL9Sb7DgkhN8W0rgmYfeOw%26yaw%3D201.33638071591764!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OVA",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH-8n4hXvGGAReRr7YYh-SQ8",
+      "name": "Osenbei San Honpo Tonyu Seibu Yagisawa Ten",
+      "localName": "おせんべいやさん本舗 煎遊 西武柳沢店",
+      "coordinates": {
+        "lat": 35.7280304,
+        "lng": 139.55309839999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86c6fed8-9d63-49b7-a66f-73a56b147542.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86c6fed8-9d63-49b7-a66f-73a56b147542.webp"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osenbeiyasanhonpo Senyu Seibuyagisawaten, 1 Chome-15-3 Yagisawa, Nishitokyo, Tokyo 202-0022, Japan",
+      "city": "Nishitokyo",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This traditional senbei shop near Seibu Yagisawa Station in Nishitokyo appears as a background location in the OVA, part of the residential shopping street that formed the model for everyday Sakurami City street scenes.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7281307,139.5529006,3a,90y,163.69h,102.07t/data=!3m7!1e1!3m5!1s7sObG4nV2YqTVuPa8aV9eQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.0657209879341%26panoid%3D7sObG4nV2YqTVuPa8aV9eQ%26yaw%3D163.68751094022238!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OVA",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_5",
+      "name": "MUFG Bank Hashimoto Branch",
+      "localName": "三菱UFJ銀行橋本支店",
+      "coordinates": {
+        "lat": 35.57986,
+        "lng": 139.37064
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08c1abcf-d534-4d57-bf76-059146163345.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08c1abcf-d534-4d57-bf76-059146163345.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This MUFG Bank branch near Sagamihara Station appears in Episode 26, the finale, as part of the Sakurami Station area streetscape that serves as a major setting throughout the series.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5795822,139.3703657,3a,90y,254.75h,114.43t/data=!3m7!1e1!3m5!1sq_vhzv9hwZzzoPvbkg7DsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-24.434058798541898%26panoid%3Dq_vhzv9hwZzzoPvbkg7DsQ%26yaw%3D254.74930799945017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 26
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRyWtnrT-GGAR67j_4kb4O5o",
+      "name": "MACHIDA MARUI",
+      "localName": "町田マルイ",
+      "coordinates": {
+        "lat": 35.5425976,
+        "lng": 139.4450389
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d91def38-8b9f-4ed8-a18c-ef04affdf5a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d91def38-8b9f-4ed8-a18c-ef04affdf5a9.webp"
+        },
+        {
+          "url": "media/cached-image_3d167319ab0506a2e29aa7d37a12c1a5751abde55eb9ab17c4bb1a9dc0bc2d9e.jpg"
+        },
+        {
+          "url": "media/cached-image_a9509f4e282358718b22228847807f73a0748277428e881108db995f2c75dc9b.jpg"
+        },
+        {
+          "url": "media/cached-image_fa183bbccedee0316e1b773396852fa0b688b191874b56651e0399013c3c05cd.jpg"
+        },
+        {
+          "url": "media/cached-image_e373a27ed823164cf5619000a4f74e1afc105a460251d1e19913845d9d91d1c4.jpg"
+        },
+        {
+          "url": "media/cached-image_b2ff869603e7aed8e43e22fcb62db828e450a4a911fd1452982e7dae20cc6d4e.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.5,
+      "reviewCount": 543,
+      "priceLevel": null,
+      "address": "MACHIDA MARUI, 6 Chome-1-6 Haramachida, Machida, Tokyo 194-0013, Japan",
+      "city": "Machida",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Machida Marui shopping mall near Machida Station is referenced as background for the shopping district scenes in Episode 18, part of the broader Machida and Sagamihara area that models the fictional Sakurami City commercial zones.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5429348,139.4448218,3a,67.2y,148.94h,101.1t/data=!3m7!1e1!3m5!1sofpxJjYU_7-QN-zDXaMP9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.104796767327628%26panoid%3DofpxJjYU_7-QN-zDXaMP9A%26yaw%3D148.93589266545283!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9eWQGc2YH2ARfoGSjGstioE",
+      "name": "Asaya Hotel",
+      "localName": "鬼怒川温泉 あさや",
+      "coordinates": {
+        "lat": 36.8356758,
+        "lng": 139.71979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89a01a48-baa5-4a6e-b365-f5aa6ed98a8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89a01a48-baa5-4a6e-b365-f5aa6ed98a8d.webp"
+        },
+        {
+          "url": "media/cached-image_88ada8dd0047f4de859937d5a453d718497baacbb9028f6b10f9882dee5fa1be.jpg"
+        },
+        {
+          "url": "media/cached-image_e7714b301cc9718dfd25ab438ff4f213e375f440fc75cd809f37cc1601c7f43e.jpg"
+        },
+        {
+          "url": "media/cached-image_740233b95986bbdc34748569dad19e3e3dd5a5b19097e5a06060e3d1f4a46602.jpg"
+        },
+        {
+          "url": "media/cached-image_75ab5d31d2428fed92b08384da2b6d3c7e82c2ff8977ac13066d34aca020769f.jpg"
+        },
+        {
+          "url": "media/cached-image_ab74d52053d7cafa8acf6e67b677d4a9551c1bdb461789af65f1bc8d130310ca.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Asaya Hotel, 813 Kinugawaonsentaki, Nikko, Tochigi 321-2526, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Asaya Hotel is the real-world model for the hotel where Akise and the search party stay in Episode 13 while hunting for the kidnapped Yukiteru. The hotel's sky garden open-air bath Shoryu no Yu is depicted faithfully in the episode, and the building's dramatic atrium is immediately recognizable to pilgrims.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Asaya+Hotel/@36.8357268,139.7198658,3a,90y,301.49h,98.36t/data=!3m8!1e1!3m6!1sAF1QipMBDdWx12zKb6y-v6ojmhFEvdIPJFUbT5CMNTcA!2e10!3e2!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMBDdWx12zKb6y-v6ojmhFEvdIPJFUbT5CMNTcA%3Dw900-h600-k-no-pi-8.359393711618466-ya189.862078102804-ro0-fo100!7i13312!8i6656!4m13!3m12!1s0x601f98cd1990e5f5:0x818a2d6b8c92817e!5m3!1s2025-12-02!4m1!1i2!8m2!3d36.8356758!4d139.71979!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F120j3b0x?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB78p2zOfH2ARPFmfgd5AuA0",
+      "name": "Kinugawa Onsen Fureai Bridge",
+      "localName": "ふれあい橋",
+      "coordinates": {
+        "lat": 36.8298568,
+        "lng": 139.7184187
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87128ca8-6691-42d3-a430-2730ef1fc2e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87128ca8-6691-42d3-a430-2730ef1fc2e6.webp"
+        },
+        {
+          "url": "media/cached-image_0bcd6b464ea47ab332845ee312a759081c3dfab34d91db59949c1789b346e640.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kinugawa Onsen Fureai Bridge, 476-4 Kinugawaonsentaki, Nikko, Tochigi 321-2526, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This pedestrian bridge over the Kinugawa River appears in the Episode 13 Kinugawa Onsen arc, featured as one of the bridges Akise's group crosses while searching the resort town for Yukiteru's location.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kinugawa+Onsen+Fureai+Bridge/@36.8298568,139.7184187,3a,90y,55.09h,98.93t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICO-qr2Yg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha574vPP5MEx5dzcXWKWoJynHrzqwWvVIA84mmXiEKUpfmZcn_YvOpTiQ52xOZy-4bsjWTpBUa1UCS3gQlOOezZfYz8F35x7noQfxS_Ql83ipOjF-0XGh2oLPdNbnhd8jga2B8v%3Dw900-h600-k-no-pi-8.930000000000007-ya272.09000000000003-ro0-fo100!7i8673!8i3689!4m9!3m8!1s0x601f9f33db29bf07:0xdb840de819f593c!8m2!3d36.8298568!4d139.7184187!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn5nps10?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_9",
+      "name": "Yamamoto Shoe Shop",
+      "localName": "山本はきもの店",
+      "coordinates": {
+        "lat": 36.83406,
+        "lng": 139.71883
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1261d7d-e024-4416-99d1-ff977f167b17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1261d7d-e024-4416-99d1-ff977f167b17.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A small shoe shop on the Kinugawa Onsen shopping street that appears as background scenery in Episode 13 when the search party moves through the resort town looking for the hotel where Yuno is holding Yukiteru.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.8341044,139.7188046,3a,90y,178.82h,93.47t/data=!3m7!1e1!3m5!1sMO8wcI-dJdvVlKzvwQ1XgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4674915147481045%26panoid%3DMO8wcI-dJdvVlKzvwQ1XgA%26yaw%3D178.81594881889282!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_10",
+      "name": "Kinu Wind Cave",
+      "localName": "鬼怒の風穴",
+      "coordinates": {
+        "lat": 36.8357,
+        "lng": 139.72114
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc87e312-f7f5-4908-83ac-01caef907289.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc87e312-f7f5-4908-83ac-01caef907289.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This natural cave formation near Asaya Hotel in Kinugawa Onsen appears in Episode 13, contributing to the eerie atmosphere of the Kinugawa arc where abandoned hotels and dramatic natural scenery surround the search for Yukiteru.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.8357774,139.7212539,3a,78.7y,341.82h,93.05t/data=!3m7!1e1!3m5!1seM0EdT2zZYfQqtaoRAb6WQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.053653827686233%26panoid%3DeM0EdT2zZYfQqtaoRAb6WQ%26yaw%3D341.8177724110541!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_11",
+      "name": "Kinu Wind Cave",
+      "localName": "鬼怒の風穴",
+      "coordinates": {
+        "lat": 36.83676,
+        "lng": 139.72208
+      },
+      "image": "https://cdn.animepilgrimage.com/places/decb59c2-59f8-4a16-9dbc-a15d67a3ca9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/decb59c2-59f8-4a16-9dbc-a15d67a3ca9f.webp"
+        },
+        {
+          "url": "media/cached-image_e507afeca874cd644cec86740a056ae3648a1f758bf4a43cd4bdaaef9345d55a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A second viewpoint of the Kinu Wind Cave area featured in Episode 13, capturing the rocky cliff-face scenery along the Kinugawa River that gives the hot-spring resort arc its distinctive landscape.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.8367695,139.7220923,3a,85.7y,78.83h,101.64t/data=!3m7!1e1!3m5!1sZR00OC9qVlcgg-sKbQ6JDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.635457422373378%26panoid%3DZR00OC9qVlcgg-sKbQ6JDQ%26yaw%3D78.83018366799654!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_12",
+      "name": "Kinu Wind Cave",
+      "localName": "鬼怒の風穴",
+      "coordinates": {
+        "lat": 36.836,
+        "lng": 139.72141
+      },
+      "image": "https://cdn.animepilgrimage.com/places/54103e11-821e-45da-8769-7c42a7383248.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/54103e11-821e-45da-8769-7c42a7383248.webp"
+        },
+        {
+          "url": "media/cached-image_991487382ca80ab6f6f85db7a911919ecbc84fa65d2431f7ffe7fe47442ba3aa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A third angle of the Kinu Wind Cave location near Asaya Hotel, featured across the Episode 13 Kinugawa Onsen arc as part of the dramatic riverside setting where the hunt for Yukiteru unfolds.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.8360893,139.7214869,3a,90y,322.31h,92.17t/data=!3m7!1e1!3m5!1sfYyeiGokrX-LWfBsg0ZMvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.167791634357954%26panoid%3DfYyeiGokrX-LWfBsg0ZMvw%26yaw%3D322.30551687254865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8yD8dUmfH2ARwnQ1xD83OZE",
+      "name": "Kurogane Bridge",
+      "localName": "くろがね橋",
+      "coordinates": {
+        "lat": 36.8335082,
+        "lng": 139.7194777
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17286869-5819-4374-b91f-bb172dd7fbf4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17286869-5819-4374-b91f-bb172dd7fbf4.webp"
+        },
+        {
+          "url": "media/cached-image_b9020b41d683217006fde1812a2eded10f3d4644ed1a467e215aa7e261f8367f.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurogane Bridge, 1604 Fujihara, Nikko, Tochigi 321-2521, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The historic Kurogane Bridge (originally built in 1910 as an iron materials-transport bridge) appears in Episode 13 as one of the bridges the search party crosses through Kinugawa Onsen, and it is a well-documented stop on the Future Diary Kinugawa pilgrimage route.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.8334428,139.7199685,3a,89.2y,215.58h,81.6t/data=!3m7!1e1!3m5!1sywMyxe-gRPLB6AlptMGiHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.39815802183601%26panoid%3DywMyxe-gRPLB6AlptMGiHQ%26yaw%3D215.58058241530057!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLTTSYsiYH2ARJj7wxAlp-Os",
+      "name": "Osaru-no-yama",
+      "localName": "おさるの山",
+      "coordinates": {
+        "lat": 36.840956299999995,
+        "lng": 139.7137933
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c778eae9-4179-4d60-92d7-c9e2ba2a2946.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c778eae9-4179-4d60-92d7-c9e2ba2a2946.webp"
+        },
+        {
+          "url": "media/cached-image_a42a439dc14e517a38788a4563c93bfdd930fded8c23f9667dabd63b51147853.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osaru-no-yama, Kinugawaonsentaki, Nikko, Tochigi 321-2526, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This monkey park overlooking the Kinugawa Onsen valley is part of the resort area featured in Episode 13, included among the locations the rescue party moves through while searching for Yukiteru in the hot-spring town.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.8409563,139.7137933,3a,90y,203.18h,65.11t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDp2ZutiwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYO5nGgHAzP7mVJXnzRo7qJ8bY27MSC4zvqIXYRDPpuaXnT7cW9ReGkb1LLsy8SHMYq2VSouMwRQ9PSDeyijTAc5U8KfqUUIRxqq7uREX4nhkPqIWI7p1ZxJg5l_H6RhUi56rj9GQ%3Dw900-h600-k-no-pi24.88771592125471-ya203.18296437381852-ro0-fo100!7i5952!8i2976?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjzMjVzKfH2ARWD00mbxXdb4",
+      "name": "Hotel Kinugawa Gyoen",
+      "localName": "大江戸温泉物語 ホテル鬼怒川御苑",
+      "coordinates": {
+        "lat": 36.8306971,
+        "lng": 139.7196346
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90b9852e-60ea-4f83-92d3-48f6876b6271.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90b9852e-60ea-4f83-92d3-48f6876b6271.webp"
+        },
+        {
+          "url": "media/cached-image_75ab5d31d2428fed92b08384da2b6d3c7e82c2ff8977ac13066d34aca020769f.jpg"
+        },
+        {
+          "url": "media/cached-image_94d20de323f4155c043576c6efaf051b5726bd7b6f2df828d97f020e7315410b.jpg"
+        },
+        {
+          "url": "media/cached-image_d5f8758fbad1e22298170c6f6d0ed9709021dc8d105d6cbd6e07441d57ce2061.jpg"
+        },
+        {
+          "url": "media/cached-image_740233b95986bbdc34748569dad19e3e3dd5a5b19097e5a06060e3d1f4a46602.jpg"
+        },
+        {
+          "url": "media/cached-image_0889c7aaf6f048d9408fbbd5759fd90f4e090414cde7a2c738f25b97f9137bc3.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Kinugawa Gyoen, 1-1 Fujihara, Nikko, Tochigi 321-2521, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Hotel Kinugawa Gyoen is one of the Kinugawa Onsen hotels that appears in Episode 13 as part of the resort-town backdrop, situated along the river near the Fureai Bridge that the search party crosses.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.8301068,139.7197787,3a,90y,258.31h,109.01t/data=!3m7!1e1!3m5!1sTtpBJYcZWWbTxeak4xUKxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.011353814868627%26panoid%3DTtpBJYcZWWbTxeak4xUKxQ%26yaw%3D258.3073153347518!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsYLl8PSfH2ARF4CyTlkZ498",
+      "name": "Furukama Falls",
+      "localName": "古釜の滝",
+      "coordinates": {
+        "lat": 36.817907399999996,
+        "lng": 139.7070757
+      },
+      "image": "https://cdn.animepilgrimage.com/places/48eccef1-b02f-48e2-9846-d79049804647.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/48eccef1-b02f-48e2-9846-d79049804647.webp"
+        },
+        {
+          "url": "media/cached-image_5a8d9a3bb3144ee8757be912fddbf02d13611d740eec8bbc9460ad958be3150c.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Furukama Falls, Nikko, Tochigi 321-2525, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Furukama Falls is a small waterfall in the Kinugawa Onsen area that appears among the Episode 13 location backgrounds, part of the natural scenery surrounding the hot-spring resort where Yuno holds Yukiteru captive.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.8173072,139.706959,3a,88y,188.74h,96.48t/data=!3m7!1e1!3m5!1sm0JP0GAsYVg66afWm7XnRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.479805306399072%26panoid%3Dm0JP0GAsYVg66afWm7XnRQ%26yaw%3D188.74196895573917!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_17",
+      "name": "Jaguar's",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.72293,
+        "lng": 139.56548
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dbb3a52b-9983-4bce-ad98-02ffbafb64df.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dbb3a52b-9983-4bce-ad98-02ffbafb64df.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A building in the Nishitokyo residential area that appears in Episode 8 as background scenery for the Sakurami City streetscape scenes near the protagonist's neighborhood.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7229812,139.565593,3a,48.1y,241.93h,97.05t/data=!3m7!1e1!3m5!1sZSbKZqGfB4S5RY_RntO4Kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.054059572830653%26panoid%3DZSbKZqGfB4S5RY_RntO4Kw%26yaw%3D241.92840975085198!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_18",
+      "name": "Jaguar's",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.72284,
+        "lng": 139.56508
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba6502bf-9347-4132-a57f-508fb3a8d7e9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba6502bf-9347-4132-a57f-508fb3a8d7e9.webp"
+        },
+        {
+          "url": "media/cached-image_85de6a5a6b43091670b584fe918f83bd7ced6db2a83e27f763e2c5681a906ac4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A second viewpoint of the Jaguar's building in the Nishitokyo area, featured in Episode 8 as part of the same residential block used as background reference for the fictional Sakurami City.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7229356,139.5652928,3a,66.6y,241.17h,105.54t/data=!3m7!1e1!3m5!1sa4CbIhO__-Usp67llv99Zg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.54098418338775%26panoid%3Da4CbIhO__-Usp67llv99Zg%26yaw%3D241.16876725462845!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUUGwiQXvGGARtle0uxfZjek",
+      "name": "Musashino Central Park",
+      "localName": "武蔵野中央公園",
+      "coordinates": {
+        "lat": 35.7186275,
+        "lng": 139.5587114
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98d56875-2721-4cd0-b66d-a44b42179f6d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98d56875-2721-4cd0-b66d-a44b42179f6d.webp"
+        },
+        {
+          "url": "media/cached-image_62c5432a545c2c2636826c7c2557e8dfcf0f44f745ecd58d71957dee08a3c310.jpg"
+        },
+        {
+          "url": "media/cached-image_0b8f81c728c8fc6563fb8431dd6b5b69583420e604825dedd7f2a276ca8bc26b.jpg"
+        },
+        {
+          "url": "media/cached-image_ce09b26e78794b1d3a43cbda1582438ae1ac7b93612eb1237ec0d5d399686a3e.jpg"
+        },
+        {
+          "url": "media/cached-image_9ba76d28d227d6e9c69e45984ec6742848108f4526990f726af678cb9586268e.jpg"
+        },
+        {
+          "url": "media/cached-image_458240ea39c1f5d88d530c94b3303bc34ba32d5fce7c32537183fd7a6762af03.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 20,
+      "priceLevel": null,
+      "address": "Musashino Central Park, 2 Chome-4-22 Yahatacho, Musashino, Tokyo 180-0011, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Musashino Central Park in western Tokyo appears in Episode 8 as background scenery in the Musashino and Nishitokyo area that the anime uses extensively as the real-world template for Sakurami City's residential neighborhoods.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.717341,139.5581572,3a,48.5y,306.26h,86.37t/data=!3m7!1e1!3m5!1sPZuw5makP0cQ3Y4Q7rNaMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.627802122384864%26panoid%3DPZuw5makP0cQ3Y4Q7rNaMA%26yaw%3D306.2559005799918!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_20",
+      "name": "Japanese Cuisine Torashi",
+      "localName": "和食 とらし",
+      "coordinates": {
+        "lat": 35.57965,
+        "lng": 139.37044
+      },
+      "image": "https://cdn.animepilgrimage.com/places/891524b3-93cc-41d4-811d-4096497e7acc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/891524b3-93cc-41d4-811d-4096497e7acc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A Japanese restaurant near Sagamihara Station that appears in Episode 6, part of the Sakurami Station area streetscape where Yukiteru has an emotional reunion with his mother.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5796246,139.370394,3a,90y,303.57h,93.41t/data=!3m7!1e1!3m5!1sNX8G8HDBXkS9IB8qeg1xtQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4083157894736757%26panoid%3DNX8G8HDBXkS9IB8qeg1xtQ%26yaw%3D303.5661052631579!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_21",
+      "name": "MUFG Bank Hashimoto Branch",
+      "localName": "三菱UFJ銀行橋本支店",
+      "coordinates": {
+        "lat": 35.58,
+        "lng": 139.37074
+      },
+      "image": "https://cdn.animepilgrimage.com/places/932ef848-b93d-4d2f-ba88-141aab3bb4b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/932ef848-b93d-4d2f-ba88-141aab3bb4b6.webp"
+        },
+        {
+          "url": "media/cached-image_7159c54a405cdd3edd1f3267501639e98b75e4ea1bfc7e815c2c2e19d50931f7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This MUFG Bank branch in the Sagamihara area appears in Episode 26 as part of the Sakurami Station area that serves as the final arc's backdrop, among the handful of locations clustered near Sagamihara Station.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5799672,139.3706014,3a,42.4y,32.59h,95.84t/data=!3m7!1e1!3m5!1sIqhpGc8v0V5BNmYmSDEhCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.841241873953436%26panoid%3DIqhpGc8v0V5BNmYmSDEhCg%26yaw%3D32.59259074675469!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 26
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLUEEUGf9GGARwu64NB6wSWg",
+      "name": "Sagamihara Station",
+      "localName": "相模原駅",
+      "coordinates": {
+        "lat": 35.581494899999996,
+        "lng": 139.37071229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7d9d4018-cdaf-4914-803f-1d6ab6585597.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7d9d4018-cdaf-4914-803f-1d6ab6585597.webp"
+        },
+        {
+          "url": "media/cached-image_0791096f1f1efad52cef0b91f7abf1d0f644bf57f83d5268d3b3fc25f0c32a37.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sagamihara Station, 1-chōme-1 Sagamihara, Chuo Ward, Sagamihara, Kanagawa 252-0231, Japan",
+      "city": "Sagamihara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "JR Yokohama Line Sagamihara Station is the real-world model for Sakurami Station, the central hub of Yukiteru's everyday life in Episode 6, where he meets his mother. The station name even appears in the original anime background art, making this one of the most precisely referenced pilgrimage spots in the series.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5812461,139.3707281,3a,90y,143.01h,93.65t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC474XQdw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaYWuxw0Y9m22dstNh14aVGdmWygK9yIqDvE-We1vs2e3noZ2JGvVHiKbW9Rns8ozTHaFFDwYDJew1mOmCn2PR-Rro3f5Ok2DTrC1RQI0gZu2LAC6YXgmPM29BeCUzAxJAjSwLh%3Dw900-h600-k-no-pi-3.6457459384198074-ya305.01422569408567-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-future-diary_23",
+      "name": "Tampa Cafe",
+      "localName": "タンパ喫茶",
+      "coordinates": {
+        "lat": 35.71635,
+        "lng": 139.54959
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5880bfea-fd08-463b-ade5-e0acd7a10d64.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5880bfea-fd08-463b-ade5-e0acd7a10d64.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "A cafe in the Nishitokyo area near Musashino University that appears in Episode 3 as background scenery for the residential Sakurami City streets close to Yukiteru's school and home.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7163331,139.5497909,3a,62.4y,276.15h,97.39t/data=!3m7!1e1!3m5!1sNyMZDC57P3tR-Dz2ShChOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.385079302690059%26panoid%3DNyMZDC57P3tR-Dz2ShChOw%26yaw%3D276.1549014654142!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjXYaje7vGGARedSx8xaJZ6I",
+      "name": "Musashino Daigaku Parking Lot",
+      "localName": "武蔵野大学駐車場",
+      "coordinates": {
+        "lat": 35.7168407,
+        "lng": 139.5485361
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6118e057-d682-4ba3-8498-5c899f32dfad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6118e057-d682-4ba3-8498-5c899f32dfad.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Musashinodaigaku Parking Lot, 実習棟 1 Chome-1 Shinmachi, Nishitokyo, Tokyo 202-0023, Japan",
+      "city": "Nishitokyo",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The parking lot of Musashino University on the Musashino-Nishitokyo border appears in Episode 3, part of the campus and surrounding streets that provided background reference for Yukiteru's school and neighborhood in Sakurami City.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7170718,139.5492789,3a,90y,338.94h,94.17t/data=!3m7!1e1!3m5!1szHoIHb58QOM_SXlI4BufwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.167415710090694%26panoid%3DzHoIHb58QOM_SXlI4BufwQ%26yaw%3D338.9393526590557!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    }
+  ]
+}

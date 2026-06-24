@@ -1,0 +1,1460 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Yofukashi no Uta Season 2",
+  "slug": "yofukashi-no-uta-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_5a6cefff1cf40c58fac0e929364b0bd3c30f5eeb1ccaa8dd448d8982370bcc69.webp",
+  "image": "media/cached-image_5a6cefff1cf40c58fac0e929364b0bd3c30f5eeb1ccaa8dd448d8982370bcc69.webp",
+  "banner": null,
+  "primaryLocation": "Saitama, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.77655776410256,
+    "lng": 139.375025476923
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Yofukashi no Uta Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJeYw2-UPBGGARP6aNAerHkGk",
+      "name": "Kinki Nippon Tourist Omiya Store",
+      "localName": "クラブツーリズム 大宮店",
+      "coordinates": {
+        "lat": 35.908315699999996,
+        "lng": 139.6244695
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6577328e-60c6-40ce-a7f6-4d7f8d5df110.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6577328e-60c6-40ce-a7f6-4d7f8d5df110.webp"
+        },
+        {
+          "url": "media/cached-image_7b82827bfd5f20e63f458a4d383f050afaca3947b74a8acce418499db08e2092.jpg"
+        },
+        {
+          "url": "media/cached-image_4ec811b2dd60786f6ee4694ecb3f3f751eb05b362ea9a7cb986ffa913d285667.jpg"
+        },
+        {
+          "url": "media/cached-image_7663d1ac4ff43d44c4749465bbd54b55296fd880ec81b681b6b1ee8b27108d8d.jpg"
+        },
+        {
+          "url": "media/cached-image_b203460d1225ac5ac60bd7ab99d346d3a4c6a78e2a3df9760b7c12434d8dab82.jpg"
+        },
+        {
+          "url": "media/cached-image_4e57f438f2b8c72fce8eec5a12cb7b3368caa0f1e8c9717af98be49941a9964b.jpg"
+        }
+      ],
+      "type": "Travel agency",
+      "categories": [
+        "Travel agency"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kinki Nippon Tourist Omiya Store, 1 Chome-15 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9083188,139.6247546,3a,90y,72.55h,93.9t/data=!3m7!1e1!3m5!1sG7m_PpSOLWiVWOMMzyyY6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.896240981202496%26panoid%3DG7m_PpSOLWiVWOMMzyyY6g%26yaw%3D72.54898447476336!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The exterior of this travel agency in Omiya appears in Episode 9, visible in background street shots as Kou wanders the area on one of his late-night walks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg5fEkWTqGGARqFc23LGkFZU",
+      "name": "Lawson Saitama Bessho 7-chome Store",
+      "localName": "ローソン さいたま別所七丁目店",
+      "coordinates": {
+        "lat": 35.8461868,
+        "lng": 139.6443677
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8789d856-23a0-419f-827e-f045e1236bf7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8789d856-23a0-419f-827e-f045e1236bf7.webp"
+        },
+        {
+          "url": "media/cached-image_453b58bb92db698c0a755af8da97e93e032bcded7ff32f31ba17207f9e4f0128.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "LAWSON, 7 Chome-16-14 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8459976,139.6446013,3a,50.6y,153.8h,89.99t/data=!3m7!1e1!3m5!1sOGxdgMURb13vXwPm-SqqTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.005199045207277209%26panoid%3DOGxdgMURb13vXwPm-SqqTA%26yaw%3D153.80273749812196!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This Lawson convenience store is shown in Episode 12, a fitting night-time stop that captures the mundane comfort of the 24-hour spots Kou and Nazuna frequent during their nocturnal outings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_2",
+      "name": "Tajima Housing Complex 1st Ground",
+      "localName": "田島団地1グラウンド",
+      "coordinates": {
+        "lat": 35.8427,
+        "lng": 139.62951
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a78361b1-3c29-47a6-b5f5-aa976b69f248.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a78361b1-3c29-47a6-b5f5-aa976b69f248.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8424683,139.6295471,3a,50.1y,342.17h,95.83t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID-w42LqwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hbph35TO0xtqLNBd3ztLLd45Q6_gy2a598pbDqd1AIFopYuCOACjfPNOBiZatf_92AC0GYD4fJx-qCObufbX5FmG6SHfnVQJCzfDaXB816TvXw-Bd7yZBqNHuTU7znWXMFaYIUMfw%3Dw900-h600-k-no-pi-5.8335485994058445-ya342.1721063629891-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The open ground of the Tajima housing complex appears in Episode 12, reflecting the sprawling residential backdrop of the Sakura Ward area where much of Kou and Nazuna's nighttime wandering takes place."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-cd6SW3qGGARn2JrK8-eWd8",
+      "name": "Miyake Ear",
+      "localName": "三宅耳鼻咽喉科医院",
+      "coordinates": {
+        "lat": 35.84061,
+        "lng": 139.63063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31139036-97e2-4968-a117-51213a3286dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31139036-97e2-4968-a117-51213a3286dd.webp"
+        },
+        {
+          "url": "media/cached-image_fc7d2e638442da5e66bfa24c43ae4f69aa921216b81047b6036b0c150c4c7deb.jpg"
+        }
+      ],
+      "type": "耳鼻喉科医生",
+      "categories": [
+        "耳鼻喉科医生"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-2-7 Tajima, Sakura Ward, Saitama, 338-0837, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8406525,139.6305695,3a,90y,268.42h,91.28t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID-w9X3nAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ99KMslI_8p55TqDh0Cw1UJthlwutd5suhflRpWZ83hCre3e9X2x6oyDxSoFSFAlObwd3xlCzgJLC6RhkQCfpuf1vUj2pdbBty-CLNfMhbUMJaLgEjQrBfWhrpjkfBbn60YIqXyg%3Dw900-h600-k-no-pi-1.2809532336353016-ya268.41796112422116-ro0-fo100!7i5376!8i2688?hl=ko&entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This ear-nose-throat clinic exterior in Tajima, Sakura Ward, appears in Episode 2 as a background location during Kou's early nighttime walks through the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX5C6S2LqGGARaf8JhwLLCmY",
+      "name": "Musashi-Urawa Station",
+      "localName": "武蔵浦和駅",
+      "coordinates": {
+        "lat": 35.84616,
+        "lng": 139.64638
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa62a17c-6a8a-4318-bf2d-31efa64d5ced.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa62a17c-6a8a-4318-bf2d-31efa64d5ced.webp"
+        },
+        {
+          "url": "media/cached-image_041e94e85f0970367105a82527b298278fe37a56ccd3b06deff7e6a86ecbbcdb.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-chōme-12 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Musashi-Urawa+Station/@35.8454735,139.6470355,3a,75y,109.27h,93.41t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDtnLfKXQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0KCNUhe--uhh-Xlqqzno_0yi0PK-1qq0rdq8czm7-dHQ5E_WkUp3HEr4f1YoMCUx0FMPEKdQtvcR62SSyOodQjhYb6wl8nN3FWJWnHE__8LDpPqwKqMV0xD1vW50zJQ_ndNWI%3Dw900-h600-k-no-pi-3.4086949252304066-ya109.27185809056112-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6018ea624bba905f:0x660acb028709ff69!8m2!3d35.8454735!4d139.6470355!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bc5cgsqg?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Musashi-Urawa Station is a recurring landmark in the series, appearing in Episode 5 as a transit point on Kou's nocturnal wanderings through the Minami Ward area of Saitama.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVRiLQ23qGGAR9ajqNpYYvtI",
+      "name": "Sandi Nishiurawaten",
+      "localName": "サンディ 西浦和店",
+      "coordinates": {
+        "lat": 35.84189,
+        "lng": 139.63077
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fd3f104f-2bfb-45c7-aa7e-8c4f7cd2b58f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fd3f104f-2bfb-45c7-aa7e-8c4f7cd2b58f.webp"
+        },
+        {
+          "url": "media/cached-image_9829bc37eb9adf51e2e2155a862694e82d0aa8134bb5f2a6c988935d0c2b545c.jpg"
+        }
+      ],
+      "type": "ディスカウント スーパー",
+      "categories": [
+        "ディスカウント スーパー"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-2-11-1 Tajima, Sakura Ward, Saitama, 338-0837, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8420544,139.6306628,3a,90y,143.18h,98.46t/data=!3m7!1e1!3m5!1smSq75r_us0suoDi6_OLSbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.46127218930124%26panoid%3DmSq75r_us0suoDi6_OLSbA%26yaw%3D143.18167958120426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This discount supermarket in Tajima appears in Episode 6, part of the everyday Saitama streetscape that grounds Kou and Nazuna's nightly adventures in recognizable suburban reality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ06U-mgzBGGARamNTLnj04Os",
+      "name": "Serafina NEW YORK SAITAMASHINTOSHIN",
+      "localName": "Serafina NEW YORKさいたま新都心店",
+      "coordinates": {
+        "lat": 35.89332,
+        "lng": 139.63096
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fa9fe9b1-f992-4721-b0dd-d0d578eafe39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fa9fe9b1-f992-4721-b0dd-d0d578eafe39.webp"
+        },
+        {
+          "url": "media/cached-image_af921f8c0b3ad954edb41c0dc1d4632e8992ce4fcfa278e9b967e1bc90a585a9.jpg"
+        },
+        {
+          "url": "media/cached-image_39474f5c7c4da302a2aabab7d0e8a463051e7f0d3182e3d26fb37c7d8180a8b2.jpg"
+        },
+        {
+          "url": "media/cached-image_a165a39157fa8bc5e82133016b28c2cce6888312e08d58db74f0dd28bb61cced.jpg"
+        },
+        {
+          "url": "media/cached-image_99c02c1a7e95cfc9cdeb893004d00e894eb6fd829b0ac1f80218b938b1bac876.jpg"
+        },
+        {
+          "url": "media/cached-image_2dd7e7f75eebc2631eb51cbc8bb88aae0d18ab34f0efc374483ec05f5077ebb3.jpg"
+        },
+        {
+          "url": "media/cached-image_42a88237d23ee30b675acd495cf0cc1380d1149a0104df471d0c84655e042be6.jpg"
+        },
+        {
+          "url": "media/cached-image_cc28e4dda3b9f4ccf91fcdea5f9a9d73786b2c0b607852ea6817e88c747b6b68.jpg"
+        },
+        {
+          "url": "media/cached-image_e75b7086de11bc347254528ba9b6e018047402b94e7d589c46120b822af60b64.jpg"
+        },
+        {
+          "url": "media/cached-image_590944f1b3badbf5ce2b2b893c3f1e4e7542e04c8dc3d797056899ffb1b633fa.jpg"
+        },
+        {
+          "url": "media/cached-image_20a906697f31f6d7e54c306f1b3bb8524b0178727303dab4a8f7b03fce538df7.jpg"
+        },
+        {
+          "url": "media/cached-image_5c26bbbe758624157ec15c575e0531af53d3c5c97bd72d57f1354c551ab5e00c.jpg"
+        },
+        {
+          "url": "media/cached-image_aefee4671eec7e4e38392b1b13701e42204a66839fe9d601909fe01ad2ced34a.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": 206,
+      "priceLevel": null,
+      "address": "けやきひろば ３F, 10 Shintoshin, Chuo Ward, Saitama, 330-0081, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8928429,139.6310914,2a,90y,342.49h,104.28t/data=!3m7!1e1!3m5!1seqQYUjpoFkec4p8d9bjSWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.28234586530391%26panoid%3DeqQYUjpoFkec4p8d9bjSWg%26yaw%3D342.48735340888055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This restaurant inside the Keyaki Hiroba complex at Saitama Shintoshin appears in Episode 1, part of the upscale urban scenery Kou encounters when venturing outside his usual Minami Ward neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCwbTk56OGGARRJJPe22ziWw",
+      "name": "Ueno Station",
+      "localName": "上野駅",
+      "coordinates": {
+        "lat": 35.713747,
+        "lng": 139.775786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9cc9aa53-87fe-403a-9b95-6f5705bbc41c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9cc9aa53-87fe-403a-9b95-6f5705bbc41c.webp"
+        },
+        {
+          "url": "media/cached-image_7b47ee28803224c6e7662d082010b82f7164149710feb755e8726acaf39ffb50.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "7 Chome Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7139558,139.7759039,3a,48.8y,202.47h,92.94t/data=!3m6!1e1!3m4!1sBx9_YETkB7vmre1y-MdrmA!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ueno Station is seen in Episode 1, representing the wider Tokyo area that Kou ventures into, underlining how far a single night's wandering can take an insomniac teenager."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI4FMUm3qGGARPqYVtA24IfM",
+      "name": "Urawa-Tajima Post Office",
+      "localName": "浦和田島郵便局",
+      "coordinates": {
+        "lat": 35.84162,
+        "lng": 139.63017
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d00430ee-c24f-4d30-b9c0-359229d4b94b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d00430ee-c24f-4d30-b9c0-359229d4b94b.webp"
+        },
+        {
+          "url": "media/cached-image_74f5dbadd2bba28f0b976aa4aad2494b69fbe2fff5c0cf57f6f20e0fd9f4e756.jpg"
+        }
+      ],
+      "type": "郵局",
+      "categories": [
+        "郵局"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒338-0837 Saitama, Sakura Ward, Tajima, 6 Chome−2−25, 田島団地 住宅公団",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8416481,139.630249,3a,90y,156.1h,97.24t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID-w9WZzQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYNLVEdA9yhJfuGHCEWa58lPg-IS_WkHSCfINNlp5RVSticbS8s0EKXlwaghW82ANtYi5hbNMRHF6E80KSK2BkOo5EVHyKlYWt63oni9oH59Hr3AGlM8fdLdL4DMaXvhkF7VJko2g%3Dw900-h600-k-no-pi-7.244220370647156-ya156.10097235699774-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Urawa-Tajima Post Office in the Tajima housing complex area appears in Episode 12, one of the quiet local landmarks dotting Kou's familiar home neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZT9KFYmMGGAR0RHuH3Wk-Lw",
+      "name": "Yotsuya Park",
+      "localName": "四谷公園",
+      "coordinates": {
+        "lat": 35.84231,
+        "lng": 139.63635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/181f4365-e51d-44a2-8bd5-2a15bed54add.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/181f4365-e51d-44a2-8bd5-2a15bed54add.webp"
+        },
+        {
+          "url": "media/cached-image_65612f2aecb7ffdb6709e27653660fb31a731dd918ce206cc7382ce51e87243d.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-１２-12 Yotsuya, Shinjuku City, Tokyo 160-0004, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8423676,139.63647,3a,90y,229.13h,91.71t/data=!3m7!1e1!3m5!1sINXsNJ5LJxxpje_LN4G4Lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7101186684130028%26panoid%3DINXsNJ5LJxxpje_LN4G4Lg%26yaw%3D229.1289686600119!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This small neighborhood park appears in Episode 11, serving as a quiet outdoor space where Kou pauses during his late-night roaming, typical of the residential stops that define his nightly routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf2129yiMGGAR9I6Yoe-1uHY",
+      "name": "Ueno Zoological Gardens",
+      "localName": "恩賜上野動物園",
+      "coordinates": {
+        "lat": 35.7158087,
+        "lng": 139.7730344
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fd4e3982-e212-41c8-8306-90a2b5d13093.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fd4e3982-e212-41c8-8306-90a2b5d13093.webp"
+        },
+        {
+          "url": "media/cached-image_432b63b7cd6236b5962411436bc2e8e8fc6371eb06bb84a1b0805038f8ec28b8.jpg"
+        },
+        {
+          "url": "media/cached-image_15118b47f269c086492999876ed63e1c8ceb370c25dccb15a6181b2bd37dbc3b.jpg"
+        },
+        {
+          "url": "media/cached-image_8440e334bcab6371e38df47053ab4b6438a76ec7592065a3a25a7dfa145c9960.jpg"
+        },
+        {
+          "url": "media/cached-image_5ce92fdd9e69722c503b60e4ac44f4b4bb00f80548eafdb1dc40484c2e312db9.jpg"
+        },
+        {
+          "url": "media/cached-image_4da8bac0442512234fb9666c017b8f8455071805f76facf8b3218fb196ecc7ce.jpg"
+        },
+        {
+          "url": "media/cached-image_2b269a05b72ac48a319469122504984438381b4a5b775b3c0689232ebf66f7c1.jpg"
+        }
+      ],
+      "type": "Zoo",
+      "categories": [
+        "Zoo"
+      ],
+      "rating": 4.2,
+      "reviewCount": 259,
+      "priceLevel": null,
+      "address": "9-83 Uenokoen, Taito City, Tokyo 110-8711, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7158087,139.7730344,3a,90y,299.04h,102.63t/data=!3m6!1e1!3m4!1sZ1OoKJzJiD-cxaNNXw13-Q!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ueno Zoo appears in Episode 1 as a daytime landmark visible during Kou's early-episode excursion to the Ueno area of Tokyo, contrasting with the nighttime world he prefers."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+      "name": "Akihabara Radio Kaikan",
+      "localName": "秋葉原ラジオ会館",
+      "coordinates": {
+        "lat": 35.69812,
+        "lng": 139.77194
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1b206a0f-c708-4049-bb81-c987e83953ce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1b206a0f-c708-4049-bb81-c987e83953ce.webp"
+        },
+        {
+          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981869,139.7719398,3a,90y,168.82h,114.06t/data=!3m7!1e1!3m5!1s8sIi0xcNOuhg7GkIFqubGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8sIi0xcNOuhg7GkIFqubGw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D73.600174%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Akihabara Radio Kaikan is featured in Episode 6, a recognizable Tokyo landmark that appears as Kou and a companion explore the electric town during one of their nocturnal city excursions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOdnSt-XJHmARjf-bOnKbGCU",
+      "name": "Chichibu Park",
+      "localName": "秩父公園",
+      "coordinates": {
+        "lat": 35.99136,
+        "lng": 139.08397
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_c9c862ac855674293098b4fe04c7c52e358ce42036f05a35e7b27a3bd5ade850.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "2518 Nagaru, Ogano, Chichibu District, Saitama 368-0102, Japan",
+      "city": "Ogano",
+      "region": "Chichibu District, Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UKKgv9HnXBc4MzGK7",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Chichibu Park in Ogano appears in Episode 6, a rural Saitama location that stands out against the usual suburban Urawa backdrop, representing a longer nighttime journey in the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ7-7GxPqGGARUT0Y3xQUBbk",
+      "name": "FamilyMart Matsumoto 1-chome",
+      "localName": "ファミリーマート さいたま松本店",
+      "coordinates": {
+        "lat": 35.8387215,
+        "lng": 139.6282224
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a541d1b-e459-4c8c-88e6-cf57c9dce4ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a541d1b-e459-4c8c-88e6-cf57c9dce4ed.webp"
+        },
+        {
+          "url": "media/cached-image_f8329c4eec3c655757596c83408c7fb2963aab3a1ffd61bfff6eed734e52b13b.jpg"
+        },
+        {
+          "url": "media/cached-image_23024b2977f368c7f53a615985c42132aff0656f5f508fb2f894135e8fdcb46b.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Matsumoto 1-chome, 1 Chome-1-17 Matsumoto, Minami Ward, Saitama, 336-0035, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8391208,139.6281481,3a,90y,70.79h,108.45t/data=!3m7!1e1!3m5!1sFwIzxJ8fLrqjB811oNlJfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.452161760012075%26panoid%3DFwIzxJ8fLrqjB811oNlJfg%26yaw%3D70.7899389995965!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This FamilyMart in Matsumoto, Minami Ward, is featured in the opening sequence, one of the convenience stores that symbolize the 24-hour nightlife culture central to Kou's nocturnalism.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUfRUgAvBGGARpHVO0Tt1dNo",
+      "name": "Land Axis Tower",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.8934184,
+        "lng": 139.632562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce080762-b448-4578-a866-2c2a7d385ce9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce080762-b448-4578-a866-2c2a7d385ce9.webp"
+        },
+        {
+          "url": "media/cached-image_6e07e730620e0305c2528b039693b0063fb36f2fb3db9a7862bf4da88375ab39.jpg"
+        }
+      ],
+      "type": "Building",
+      "categories": [
+        "Building"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Land Axis Tower, Shintoshin, Chuo Ward, Saitama, 330-0081, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8931694,139.6332976,3a,90y,73.6h,97.55t/data=!3m7!1e1!3m5!1sMkzFZ_-2BlOQ7t3T3QQQrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.552083568345793%26panoid%3DMkzFZ_-2BlOQ7t3T3QQQrQ%26yaw%3D73.60265715889057!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The distinctive Land Axis Tower at Saitama Shintoshin appears in the opening animation, its imposing silhouette forming part of the nighttime Saitama skyline that sets the visual tone for the season.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8Ub2iGPqGGARJUTbvvAX3E8",
+      "name": "Musashi-Urawa Community Center",
+      "localName": "武蔵浦和コミュニティセンター",
+      "coordinates": {
+        "lat": 35.8453641,
+        "lng": 139.64537439999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/83efcc93-1051-47aa-ae01-9f677181dffa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/83efcc93-1051-47aa-ae01-9f677181dffa.webp"
+        },
+        {
+          "url": "media/cached-image_610be33196e12ed4bb945e5ed55586417899af68a0fc48d97459d3e93a9ed5a6.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Musashi-Urawa Community Center, 7 Chome-20-1, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8446859,139.6452258,3a,90y,347.07h,105.98t/data=!3m7!1e1!3m5!1saiG5nrfDYberV0B8TlUCVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.983343259901531%26panoid%3DaiG5nrfDYberV0B8TlUCVQ%26yaw%3D347.06651292373965!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Musashi-Urawa Community Center building appears in Episode 1, part of the station-adjacent streetscape that Kou passes through at the start of his nocturnal adventures in Minami Ward."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_16",
+      "name": "National Museum of Nature and Science",
+      "localName": "国立科学博物館",
+      "coordinates": {
+        "lat": 35.71667,
+        "lng": 139.77645
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6725418b-2712-405d-a541-f04d635903b8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6725418b-2712-405d-a541-f04d635903b8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7165699,139.7763828,3a,90y,28.36h,100.7t/data=!3m7!1e1!3m5!1sCIABIhAIN0uG5TlP7mfv1noACAUH!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbExgJD6d4dG7msknDst3G6h9KKN1Jvp8iDzcMpKR65Dambhcgj-fjOuew3gcXxibaNhqe4Uk0aOgWzJZYZI5snRHjjZY2_7Am92nDPvTvMb48P1-90EvfN2qX7JTYKREGku6JVNKEJvjt_%3Dw900-h600-k-no-pi-10.6996662876697-ya209.04960625224703-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The National Museum of Nature and Science near Ueno Park appears in Episode 1 as part of the Ueno area scenery Kou passes through, a daytime cultural landmark glimpsed during his nighttime wanderings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk1PAS56OGGARVMn_HyaIa20",
+      "name": "Kiminoen Tea Garden",
+      "localName": "茶の君野園東京",
+      "coordinates": {
+        "lat": 35.7101796,
+        "lng": 139.7744507
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ffb87a96-2001-4dd8-b9df-bc8b7f6fd969.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ffb87a96-2001-4dd8-b9df-bc8b7f6fd969.webp"
+        },
+        {
+          "url": "media/cached-image_8789cd811b949f4c065b65adafba8e301f56ce1f4da05fdd77e0576d941703ce.jpg"
+        }
+      ],
+      "type": "Tea store",
+      "categories": [
+        "Tea store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kiminoen Tea Garden, 4 Chome-9-13 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7102444,139.7745705,3a,90y,191.22h,103.98t/data=!3m7!1e1!3m5!1serR8sHOQvzvl1PixazBf3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.982030029617846%26panoid%3DerR8sHOQvzvl1PixazBf3g%26yaw%3D191.22029916684343!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional tea shop in Ueno appears in Episode 1, one of the atmospheric Ueno-area locations Kou encounters on his early excursion into Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-a5wfmuNGGARzUoiYL4QukA",
+      "name": "「Kumihimo Experience by DOMYO」",
+      "localName": "有職組紐 道明",
+      "coordinates": {
+        "lat": 35.701948699999996,
+        "lng": 139.7371408
+      },
+      "image": null,
+      "images": [],
+      "type": "Handicraft",
+      "categories": [
+        "Handicraft"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒162-0825 Tokyo, Shinjuku City, Kagurazaka, 6 Chome−75 「Kumihimo Experience by DOMYO」",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7091329,139.7713939,3a,90y,255.63h,106.68t/data=!3m7!1e1!3m5!1snX9aHRRpzoVdzerrUIvd0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.677230813546714%26panoid%3DnX9aHRRpzoVdzerrUIvd0w%26yaw%3D255.62839577867106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional kumihimo braided-cord craft shop in Kagurazaka appears in Episode 1, a culturally distinctive Tokyo location Kou encounters during his wide-ranging nocturnal explorations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnYPAEJIOHWAR5EjzkB7zNRg",
+      "name": "Nakamachi Street",
+      "localName": "中町商店街振興組合",
+      "coordinates": {
+        "lat": 36.2337121,
+        "lng": 137.97216849999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/103d9c4b-4e67-4cec-8928-d7397cd66128.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/103d9c4b-4e67-4cec-8928-d7397cd66128.webp"
+        },
+        {
+          "url": "media/cached-image_2ada087022c60bc7ef26e4cc095d427f44d5e4e32696f13d7375e6db197b5ffd.jpg"
+        }
+      ],
+      "type": "Association / Organization",
+      "categories": [
+        "Association / Organization"
+      ],
+      "rating": null,
+      "reviewCount": 197,
+      "priceLevel": null,
+      "address": "Nakamachi Shopping Street Promotion Association, 3 Chome-2-14 Central, Matsumoto, Nagano 390-0811, Japan",
+      "city": "Matsumoto",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7093653,139.7724317,3a,90y,78.44h,96.19t/data=!3m7!1e1!3m5!1sAOeP1eKWTbSlt9r7CFAsfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.18804512279678%26panoid%3DAOeP1eKWTbSlt9r7CFAsfg%26yaw%3D78.4364843776221!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Nakamachi shopping street in Matsumoto, Nagano, appears in Episode 1, a rare out-of-Saitama location suggesting a longer journey that broadens the geography of Kou's sleepless travels."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ43bJVmzqGGAR1piMRpngLzI",
+      "name": "7-Eleven Saitama Tajima 1-chome",
+      "localName": "セブン-イレブン さいたま田島１丁目店",
+      "coordinates": {
+        "lat": 35.8405554,
+        "lng": 139.6327126
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d585a186-6120-48fd-8563-9f323bed2088.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d585a186-6120-48fd-8563-9f323bed2088.webp"
+        },
+        {
+          "url": "media/cached-image_bf88e15b64c27c8213e509e44d842880461312ef9fd39b956a502d9a936e1011.jpg"
+        },
+        {
+          "url": "media/cached-image_d912b44edb83078648225a0a094e5fbde79011e112389968d4f790e524d10a90.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven Saitama Tajima 1-chome, 1 Chome-20-5 Tajima, Sakura Ward, Saitama, 338-0837, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8402743,139.6320391,3a,90y,61.54h,99.73t/data=!3m7!1e1!3m5!1sSjTeYJumNGNmy2AAubtrOg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.733335942434508%26panoid%3DSjTeYJumNGNmy2AAubtrOg%26yaw%3D61.542454566195595!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This 7-Eleven in the Tajima district appears in Episode 2, a neighborhood convenience store of the kind Kou and Nazuna stop at during their late-night walks through Sakura Ward."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbyAfb2PqGGARQc8AObkOSZw",
+      "name": "Katei Ryori Kawaji",
+      "localName": "家庭料理 かわじ",
+      "coordinates": {
+        "lat": 35.8471019,
+        "lng": 139.645857
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95ad1ccd-eaba-4f99-aa75-b1f02f6df972.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95ad1ccd-eaba-4f99-aa75-b1f02f6df972.webp"
+        },
+        {
+          "url": "media/cached-image_e955a10d149593e6524d5449aee1343c2116d165567d26ddf0ba61d6aade8b1a.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Katei Ryori Kawaji, 7 Chome-10-22 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8468872,139.6458081,3a,90y,138.58h,94.73t/data=!3m7!1e1!3m5!1sVwB5ZpMurj00ihuYaM4ktQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.72835803407699%26panoid%3DVwB5ZpMurj00ihuYaM4ktQ%26yaw%3D138.57856013981475!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This cozy izakaya near Musashi-Urawa Station appears in Episode 2, one of the local eateries and bars that populate the nighttime Saitama streetscape Kou wanders through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_22",
+      "name": "Crossfit",
+      "localName": "クロスフィット浦和",
+      "coordinates": {
+        "lat": 35.84734,
+        "lng": 139.6453
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5cc06d5b-9d9d-4381-b5f9-20404f7353d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5cc06d5b-9d9d-4381-b5f9-20404f7353d9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8473664,139.6452591,3a,90y,98.66h,105.95t/data=!3m7!1e1!3m5!1sFMOw2T21b9bNj9eJ8YgCsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.947843138377394%26panoid%3DFMOw2T21b9bNj9eJ8YgCsQ%26yaw%3D98.66415684079412!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Crossfit Urawa gym exterior appears in Episode 2 as a background location near Musashi-Urawa Station, part of the Bessho neighborhood scenery Kou moves through at night."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_23",
+      "name": "Bar & Kitchen Sawada",
+      "localName": "Bar & Kitchen 澤田",
+      "coordinates": {
+        "lat": 35.85392,
+        "lng": 139.63782
+      },
+      "image": "https://cdn.animepilgrimage.com/places/185a81df-1433-4f94-b8b7-604a939ed5cb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/185a81df-1433-4f94-b8b7-604a939ed5cb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8537539,139.6380511,3a,63.4y,309.6h,94.43t/data=!3m7!1e1!3m5!1s6y6xu0hkhN0sjabVM8oqBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.428366319699805%26panoid%3D6y6xu0hkhN0sjabVM8oqBA%26yaw%3D309.59653007552106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Bar and Kitchen Sawada appears in Episode 2, a small late-night bar whose presence hints at the adult nightlife landscape Kou is only beginning to brush up against on his nocturnal walks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_24",
+      "name": "Nisshin Yu",
+      "localName": "日進湯",
+      "coordinates": {
+        "lat": 35.90748,
+        "lng": 139.61679
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41429925-f5f1-4c34-9bd7-9ddd632afc2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41429925-f5f1-4c34-9bd7-9ddd632afc2a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.9075841,139.6167728,3a,90y,194.66h,104.61t/data=!3m7!1e1!3m5!1sU_dWpMu7uf-sza83pwZ7Hg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.613552040012948%26panoid%3DU_dWpMu7uf-sza83pwZ7Hg%26yaw%3D194.6554162928877!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Nisshin Yu is a traditional public bathhouse in Omiya that appears in Episode 2, representing the kind of nostalgic neighborhood fixture that gives the show's Saitama setting its lived-in character."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOaxP_WPqGGAR9CVB2kB58ck",
+      "name": "Okudo-san",
+      "localName": "おくどさん",
+      "coordinates": {
+        "lat": 35.8438942,
+        "lng": 139.6459266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7871592-7290-4e64-a011-f03b9c98c747.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7871592-7290-4e64-a011-f03b9c98c747.webp"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okudo-san, ナリアテラス1F 1 Chome-13-1 Numakage, Minami Ward, Saitama, 336-0027, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8440781,139.6454628,3a,90y,65.4h,95.67t/data=!3m7!1e1!3m5!1sfRPCIDJr0ZuWXUx8LrCDGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.674630214894506%26panoid%3DfRPCIDJr0ZuWXUx8LrCDGA%26yaw%3D65.39840246023931!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This izakaya near Musashi-Urawa appears in Episode 3, one of the local dining spots in the Numakage area that populate Kou's familiar home territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZQhAtf2tAGARppHdapIXHAs",
+      "name": "Wakayama Shiritsu Kishi Junior High School",
+      "localName": "和歌山市立貴志中学校",
+      "coordinates": {
+        "lat": 34.2678918,
+        "lng": 135.1441101
+      },
+      "image": null,
+      "images": [],
+      "type": "Middle school",
+      "categories": [
+        "Middle school"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wakayama Shiritsu Kishi Junior High School, 579-2 Umehara, Wakayama, 640-8452, Japan",
+      "city": "Wakayama",
+      "region": "Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8511447,139.6658441,3a,90y,188.96h,99.62t/data=!3m7!1e1!3m5!1s7nBfuV0ItyepBtsR38-3lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.619718471618427%26panoid%3D7nBfuV0ItyepBtsR38-3lg%26yaw%3D188.95779815952028!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp3fNlOuLGGARScYLWUpB5WI",
+      "name": "Hakata Tenjin Shinbashi 1",
+      "localName": "博多天神 新橋1号店",
+      "coordinates": {
+        "lat": 35.6672952,
+        "lng": 139.7562501
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4f5b14cf-c00f-42e9-906f-cdd192b76c21.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4f5b14cf-c00f-42e9-906f-cdd192b76c21.webp"
+        },
+        {
+          "url": "media/cached-image_a36277054d1c274497e33d20193f015057ff2b71138e27ce53815caf80021be5.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hakata Tenjin Shinbashi 1, ＮＳプラザ新橋ビル １Ｆ 2 Chome-8-15 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6672423,139.7562232,3a,90y,41.5h,97.66t/data=!3m7!1e1!3m5!1sZkhhwSWEWPqnneeQUhBNJA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.662176890247423%26panoid%3DZkhhwSWEWPqnneeQUhBNJA%26yaw%3D41.49730408439189!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Hakata ramen restaurant in Shinbashi, Tokyo, appears in Episode 5, a late-night dining stop that represents the broader Tokyo nightlife Kou encounters beyond his Saitama home base."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ22QtbR2MGGARkeHXKjICYWA",
+      "name": "Karaoke Pasela Akihabara Showa-dori",
+      "localName": "カラオケパセラ 秋葉原電気街店",
+      "coordinates": {
+        "lat": 35.698973099999996,
+        "lng": 139.7716346
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2797d829-4e3c-4b2f-8bc6-2a33f9645378.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2797d829-4e3c-4b2f-8bc6-2a33f9645378.webp"
+        },
+        {
+          "url": "media/cached-image_8c2c1509ea0716ef7d140df130b079df14ca25fe411faa02748455b104bd0110.jpg"
+        }
+      ],
+      "type": "Karaoke",
+      "categories": [
+        "Karaoke"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Karaoke PASELA Akihabara Electric Town, 1 Chome-13-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6980555,139.7761144,3a,90y,184.14h,124.53t/data=!3m7!1e1!3m5!1srB1Bc-iQF8C0d6nd4ftpsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-34.52593317648841%26panoid%3DrB1Bc-iQF8C0d6nd4ftpsQ%26yaw%3D184.14416057336845!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Karaoke Pasela in Akihabara appears in Episode 6, visited during a group outing to the electric town district, showing Kou experiencing the livelier side of Tokyo's nightlife."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4d4AzHfqGGARYgBkiiNJn-k",
+      "name": "Plaza Hotel Urawa",
+      "localName": "プラザホテル浦和",
+      "coordinates": {
+        "lat": 35.853356399999996,
+        "lng": 139.63824549999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/abab80c4-3f05-440b-ba13-826fea5cdfa8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/abab80c4-3f05-440b-ba13-826fea5cdfa8.webp"
+        },
+        {
+          "url": "media/cached-image_8e6fb9e825c743a69e3dee97722f2b7bfae4b1cfd0de735f25dc95f95baf67d6.jpg"
+        },
+        {
+          "url": "media/cached-image_b585e9d27b4d78c9fe9b33f3948438f588a2a7a5bcc78f40f0c7b4aef1675c2b.jpg"
+        },
+        {
+          "url": "media/cached-image_5e00997e8739f2e641996c953805d7c4095dc9f20c3376e391ef89fa2f3c2b42.jpg"
+        },
+        {
+          "url": "media/cached-image_a616cc11fdef3f486256c3c5f1118368fbbbb7cf404e36e80531c90398eb7ef4.jpg"
+        },
+        {
+          "url": "media/cached-image_46bc5b8ee69c4feda96275147e7af9b7dc0f48a176377a56f2bac4cbc6f3b509.jpg"
+        }
+      ],
+      "type": "Japanese-style business hotel",
+      "categories": [
+        "Japanese-style business hotel"
+      ],
+      "rating": 3.5,
+      "reviewCount": 497,
+      "priceLevel": null,
+      "address": "Plaza Hotel Urawa, 1 Chome-1-1 Shikatebukuro, Minami Ward, Saitama, 336-0031, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.85316,139.6384936,3a,75y,223.3h,103t/data=!3m7!1e1!3m5!1snF4cbUcNYS_U040b5PX5bw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.99744953401705%26panoid%3DnF4cbUcNYS_U040b5PX5bw%26yaw%3D223.29525260541433!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Plaza Hotel Urawa appears in Episode 6, a local hotel whose exterior is visible in the Minami Ward streetscape as Kou moves through the Urawa area at night."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO870GC_BGGARCN6XRv3AT50",
+      "name": "Tokyo Star Bank Omiya Branch",
+      "localName": "東京スター銀行 大宮支店ファイナンシャル・ラウンジ",
+      "coordinates": {
+        "lat": 35.9059442,
+        "lng": 139.6211554
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf826f77-e23c-4bfb-a50e-e2d6645bad73.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf826f77-e23c-4bfb-a50e-e2d6645bad73.webp"
+        },
+        {
+          "url": "media/cached-image_a604b3b00acbdba5fbc138f9daec401ecbca8f5719d63fda999a94eb88befccf.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0854 Saitama, Omiya Ward, Sakuragicho, 2 Chome−4−1 東京スター銀行 大宮支店ファイナンシャル・ラウンジ",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.905744,139.621302,3a,40.7y,339.89h,93.94t/data=!3m7!1e1!3m5!1s65LAgdu1CUqRPJY75Ma9Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.938305659164726%26panoid%3D65LAgdu1CUqRPJY75Ma9Ug%26yaw%3D339.88851129197934!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Tokyo Star Bank Omiya branch exterior appears in Episode 8, part of the commercial street scenery in Omiya that Kou passes through on his late-night wandering."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd4ivw_GOAGARJrUbf8QKkjA",
+      "name": "apollostation Self-Service Omiya Hongo SS",
+      "localName": "apollostation セルフ三宮SS",
+      "coordinates": {
+        "lat": 34.6949836,
+        "lng": 135.19960559999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1b35eba3-0401-45f4-9c7d-3a97f8aa406f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1b35eba3-0401-45f4-9c7d-3a97f8aa406f.webp"
+        },
+        {
+          "url": "media/cached-image_b8ce30be65fb4c681a3df9115838f443130556cf00fc8a558cbeaa386a84e950.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Idemitsu Self Sannomiya SS, 3 Chome-2-15 Onoedori, Chuo Ward, Kobe, Hyogo 651-0088, Japan",
+      "city": "Kobe",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9393006,139.6307362,3a,90y,282.35h,100.24t/data=!3m7!1e1!3m5!1sD54zbwYS0-9a5qS5llnGyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.241177701609686%26panoid%3DD54zbwYS0-9a5qS5llnGyg%26yaw%3D282.3452109261724!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtXhS_EPBGGARZJ4jY3ps_Mc",
+      "name": "Tendon Tenya Omiya Higashi",
+      "localName": "天丼てんや 大宮東店",
+      "coordinates": {
+        "lat": 35.9082198,
+        "lng": 139.62462539999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3055d35-58cf-4e76-bee2-2778da9a3460.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3055d35-58cf-4e76-bee2-2778da9a3460.webp"
+        }
+      ],
+      "type": "Tempura donburi restaurant",
+      "categories": [
+        "Tempura donburi restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tendon Tenya Omiyahigashi, 平和堂ビル １Ｆ 1 Chome-13 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9081513,139.6245712,3a,50.2y,73.92h,97.72t/data=!3m7!1e1!3m5!1skBltQd25HbZUV7Fug14HRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.722587088264845%26panoid%3DkBltQd25HbZUV7Fug14HRA%26yaw%3D73.9219044084911!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Tendon Tenya tempura rice bowl restaurant near Omiya Station appears in Episode 9, part of the Omiya commercial district Kou explores during a wider nighttime excursion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_zy4rkHBGGARRvlnPqCW6EM",
+      "name": "みずほ銀行 大宮支店",
+      "localName": "みずほ銀行 大宮支店 大宮駅前出張所",
+      "coordinates": {
+        "lat": 35.9070933,
+        "lng": 139.6269102
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e5cdb5c-ccf4-4aa8-8875-008d26791558.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e5cdb5c-ccf4-4aa8-8875-008d26791558.webp"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "みずほ銀行 大宮支店, 2 Chome-118 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9070864,139.6252105,3a,64.4y,54.33h,97.23t/data=!3m7!1e1!3m5!1sHLWkmZ89zz_Hudg6wDQdew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.225326539146451%26panoid%3DHLWkmZ89zz_Hudg6wDQdew%26yaw%3D54.33398079922398!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Mizuho Bank Omiya branch in Daimon-cho appears in Episode 9, part of the recognizable Omiya Station area streetscape that Kou navigates during his Episode 9 nighttime outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ358F-0PBGGARvIcg36jtDGU",
+      "name": "7-Eleven Omiya Station Ginza Street Store",
+      "localName": "セブン-イレブン 大宮駅銀座通り店",
+      "coordinates": {
+        "lat": 35.9081188,
+        "lng": 139.6246442
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e61f65b-bdfc-453c-96a2-9e979020be32.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e61f65b-bdfc-453c-96a2-9e979020be32.webp"
+        },
+        {
+          "url": "media/cached-image_f063b8e4d8da962be229b7fc7ae5a722d14f06072b7379f7185de1c0ed6271bf.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 1 Chome-9 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9081258,139.6248437,3a,90y,246.6h,96.93t/data=!3m7!1e1!3m5!1swz-bkB6U5EC2LyyubuOksA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.925486740708777%26panoid%3Dwz-bkB6U5EC2LyyubuOksA%26yaw%3D246.59730089830416!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This 7-Eleven on Ginza-dori near Omiya Station appears in Episode 9, one of the late-night convenience stores clustered around the busy Omiya east exit area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgQ1IZkHBGGARmnattbzFzQ8",
+      "name": "Doutor Omiya RAKUUN",
+      "localName": "大宮ラクーン",
+      "coordinates": {
+        "lat": 35.9077694,
+        "lng": 139.6255083
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9993af4c-e9aa-4aa0-8dd6-f2227fc323ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9993af4c-e9aa-4aa0-8dd6-f2227fc323ec.webp"
+        },
+        {
+          "url": "media/cached-image_2febbce682686103ad6a8447f3547d2c4db2073425a8bce31ca005703694d55e.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omiya RAKUUN, 1 Chome-60 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9077006,139.6250183,3a,90y,339.69h,99.87t/data=!3m7!1e1!3m5!1sb5sVTrWWR_YKn689hn0_Eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.872710852184369%26panoid%3Db5sVTrWWR_YKn689hn0_Eg%26yaw%3D339.6922067957147!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Omiya RAKUUN shopping mall appears in Episode 9, its familiar exterior part of the Omiya Station east exit commercial strip that forms the backdrop for Kou's outing in this episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJafQ_V0HBGGARcHV4NajYgqc",
+      "name": "Ikkenme Sakaba Omiya East Exit Branch",
+      "localName": "一軒め酒場 大宮東口店",
+      "coordinates": {
+        "lat": 35.9082552,
+        "lng": 139.6250272
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8b649af2-d768-44a5-b804-2ddc0d115d9b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8b649af2-d768-44a5-b804-2ddc0d115d9b.webp"
+        },
+        {
+          "url": "media/cached-image_4ab869ab48096bd387022933711f53fffbaf8fe4b915bd99fe891f8f49cd830e.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0802 Saitama, Omiya Ward, Miyacho, 1 Chome−48 一軒め酒場 大宮東口店",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9081649,139.6248254,3a,90y,70.67h,92.7t/data=!3m7!1e1!3m5!1sfx468sFZnjHStpI7zg0xQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6991161175446763%26panoid%3Dfx468sFZnjHStpI7zg0xQg%26yaw%3D70.67040372246298!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This izakaya near Omiya Station's east exit appears in Episode 9, a late-night drinking spot that anchors the busy Miyacho entertainment strip Kou wanders through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI-rdqUbBGGARMoVcwMgmTYM",
+      "name": "HUB Omiya East Exit",
+      "localName": "HUB大宮東口店",
+      "coordinates": {
+        "lat": 35.909017899999995,
+        "lng": 139.6247544
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ced378b6-b1a5-49b7-abf6-a9637124a50f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ced378b6-b1a5-49b7-abf6-a9637124a50f.webp"
+        },
+        {
+          "url": "media/cached-image_abe34f03d8b295ad5c84369d214deda564a050a4e3eff87946f97fc40e840a8f.jpg"
+        },
+        {
+          "url": "media/cached-image_71b146ab4cb9c041d790f240e10834e47bca7190088061527bac1b9c023ee98c.jpg"
+        },
+        {
+          "url": "media/cached-image_560d85d206fc95adee3dfd45b79dd4092ff4ecfc4991dcc4850a7f1a469f822c.jpg"
+        },
+        {
+          "url": "media/cached-image_714ab23cbc4a3fb21f702f868a3dee027fc9305c75dd9fd5dea4e1426b19405c.jpg"
+        },
+        {
+          "url": "media/cached-image_dba75b4083c5daedb8abb40288ddf64e4c4cdab0e8f6ab8e54979af6f80c592e.jpg"
+        }
+      ],
+      "type": "Pub",
+      "categories": [
+        "Pub"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "HUB Omiya East Exit, パイオランドホテル １Ｆ 1 Chome-３５-2 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9089678,139.6245825,3a,90y,257.96h,91.25t/data=!3m7!1e1!3m5!1sj7NnqAqOVlDbyq22oZedIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.248242000908462%26panoid%3Dj7NnqAqOVlDbyq22oZedIQ%26yaw%3D257.9561386644424!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The British-style HUB pub near Omiya Station's east exit appears in Episode 9, part of the lively nighttime bar district Kou navigates on his Omiya outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yofukashi-no-uta-2_38",
+      "name": "Times Musashi-Urawa Ekimae Building No. 3",
+      "localName": "タイムズ武蔵浦和駅前第３",
+      "coordinates": {
+        "lat": 35.84638,
+        "lng": 139.64441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e0bcf46d-a348-4438-ba99-9f6f67049020.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e0bcf46d-a348-4438-ba99-9f6f67049020.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8464431,139.6444753,3a,90y,215.51h,97.53t/data=!3m7!1e1!3m5!1sKOyWKTKK1CiwXBNbQ6-1sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.529834192760205%26panoid%3DKOyWKTKK1CiwXBNbQ6-1sw%26yaw%3D215.5142015748544!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Times parking lot near Musashi-Urawa Station appears in Episode 11, a mundane but faithfully reproduced background location in the station-front area Kou frequents throughout the series."
+    }
+  ]
+}

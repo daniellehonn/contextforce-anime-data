@@ -1,0 +1,1578 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Okitsura",
+  "slug": "okitsura",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_69ea002e592a2193c886b1a68a6a35f55a240866e64409293e62178d7f87624c.webp",
+  "image": "media/cached-image_69ea002e592a2193c886b1a68a6a35f55a240866e64409293e62178d7f87624c.webp",
+  "banner": null,
+  "primaryLocation": "Okinawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 26.371569342222216,
+    "lng": 127.86047825555559
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Okitsura"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJZY6M3qFs5TQRC4BY-FEzIcE",
+      "name": "Moon Ocean Ginowan Hotel & Residence",
+      "localName": "ムーンオーシャン宜野湾 ホテル＆レジデンス",
+      "coordinates": {
+        "lat": 26.2731505,
+        "lng": 127.7274975
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ad319fa4-8052-4bf9-84c1-494250a014be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ad319fa4-8052-4bf9-84c1-494250a014be.webp"
+        },
+        {
+          "url": "media/cached-image_906e7e61a2b036b56d94f9c9335d4b210073e1966c13330b392fcd6aed602c05.jpg"
+        },
+        {
+          "url": "media/cached-image_0f73928aa087809ca09330e77424759613d644ce2e9e6cba0c4a116b3ff5260a.jpg"
+        },
+        {
+          "url": "media/cached-image_5c5bb68088527b414d9939a0b095e2d23c979b47706b15c99e3bd955ddc2990f.jpg"
+        },
+        {
+          "url": "media/cached-image_2591408d617527c6bc5e1343068931edbef4864344a971db78dad65967a32a65.jpg"
+        },
+        {
+          "url": "media/cached-image_e9ee8a020ab5dd3a653abe79b9fe26f921d36932f429e0f0bcc98a9476c8bd83.jpg"
+        }
+      ],
+      "type": "Resort hotel",
+      "categories": [
+        "Resort hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 98,
+      "priceLevel": null,
+      "address": "Moon Ocean Ginowan Hotel & Residence, 3-chome-7-12 Uchidomari, Ginowan, Okinawa 901-2227, Japan",
+      "city": "Ginowan",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.2731647,127.726182,3a,75y,74.77h,102.58t/data=!3m7!1e1!3m5!1sHwHvZqKxS6uQFmrqagfQkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.583952971060086%26panoid%3DHwHvZqKxS6uQFmrqagfQkQ%26yaw%3D74.76713179903699!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This oceanfront hotel in Ginowan appears in episode 8 as a location the characters visit or pass through, reflecting the modern resort landscape along Okinawa's western coast."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_1",
+      "name": "Hamachidori Monument",
+      "localName": "浜千鳥の歌碑",
+      "coordinates": {
+        "lat": 26.36867,
+        "lng": 127.87479
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c34c6f86-943c-492e-a779-350159b0a896.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c34c6f86-943c-492e-a779-350159b0a896.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3689047,127.8747553,3a,23y,185.68h,91.48t/data=!3m7!1e1!3m5!1stY5edqE6JmDZo_ypuV7__w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.4769465428717155%26panoid%3DtY5edqE6JmDZo_ypuV7__w%26yaw%3D185.6823029622594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This stone monument inscribed with the Okinawan folk song 'Hamachidori' appears in episode 10 as a quiet contemplative location where a character reflects on Okinawan heritage and belonging."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl3R67gMP5TQRX0xSTEZuyw8",
+      "name": "Kanehide Gushikawa Branch",
+      "localName": "タウンプラザかねひで具志川店",
+      "coordinates": {
+        "lat": 26.378254,
+        "lng": 127.85745
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71d45b28-6457-498c-97a3-4f97f010418e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71d45b28-6457-498c-97a3-4f97f010418e.webp"
+        },
+        {
+          "url": "media/cached-image_693023b23193ffaca87620b2ae3061c543258d154a9f0f9ededa9d86d7977478.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kanehide Gushikawa Branch, 4 Chome-2-6 Midorimachi, Uruma, Okinawa 904-2215, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3785732,127.8572861,3a,45.4y,166.69h,98.62t/data=!3m7!1e1!3m5!1soFuZXjWP4EACKaPyBrbAIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.617498765348756%26panoid%3DoFuZXjWP4EACKaPyBrbAIQ%26yaw%3D166.69215928791743!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM1dQvecO5TQROeWEV5Atzx0",
+      "name": "Smilax Kurichi",
+      "localName": null,
+      "coordinates": {
+        "lat": 26.361556699999998,
+        "lng": 127.8710962
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96104c15-d330-41ea-a20f-e08fe8bf0205.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96104c15-d330-41ea-a20f-e08fe8bf0205.webp"
+        },
+        {
+          "url": "media/cached-image_4d1581eb9210e2e765388725341f7cfbee8298800a3ad0ca154c7611c1f31f14.jpg"
+        },
+        {
+          "url": "media/cached-image_d3b555e0beaed08ab61aeba89f4cd8418a6dd44971218c0d014c314fad6d5254.jpg"
+        },
+        {
+          "url": "media/cached-image_edeaa4a692cbb1408c358e7c0d8f6bd0f34534698a930bdc32c547479955fa51.jpg"
+        },
+        {
+          "url": "media/cached-image_ab8d37c2d1e8f08861cf2f690a2850f9d2e1b5986a9f81375dadc7158b85b1b6.jpg"
+        },
+        {
+          "url": "media/cached-image_cb7d0502a8164d18f25620c7dcd16f0e3d2537013480ce3c15bde027178bd7e4.jpg"
+        }
+      ],
+      "type": "Guest house",
+      "categories": [
+        "Guest house"
+      ],
+      "rating": 4.1,
+      "reviewCount": 98,
+      "priceLevel": null,
+      "address": "Japan, 〒904-2223 Okinawa, Uruma, Gushikawa, 3231-1 Smilax Kurichi",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3628274,127.8701642,3a,63.5y,133.33h,95.22t/data=!3m7!1e1!3m5!1sIshVmCsiTzJiWiHsQ6VJsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.221546578665084%26panoid%3DIshVmCsiTzJiWiHsQ6VJsw%26yaw%3D133.32573257300692!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_4",
+      "name": "Ikoi",
+      "localName": "いこい",
+      "coordinates": {
+        "lat": 26.3689,
+        "lng": 127.85126
+      },
+      "image": "https://cdn.animepilgrimage.com/places/133a006e-d598-4e35-90b5-35a6be23e73b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/133a006e-d598-4e35-90b5-35a6be23e73b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3688617,127.8512271,3a,75y,23.3h,92.95t/data=!3m7!1e1!3m5!1soGAE_wdihJCKVqeFE2o9jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9491038391395534%26panoid%3DoGAE_wdihJCKVqeFE2o9jQ%26yaw%3D23.296406979412843!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsS2LIQAP5TQRGDMaUbwb3tc",
+      "name": "Tsuha Shamisen Shop",
+      "localName": "津波三味線店",
+      "coordinates": {
+        "lat": 26.3681248,
+        "lng": 127.8506953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32029549-9baa-4533-b101-cef1e92ffbe8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32029549-9baa-4533-b101-cef1e92ffbe8.webp"
+        },
+        {
+          "url": "media/cached-image_a413350f4986983d6a5f0e47cdb0da384aae03d7040da92758d77794aa4cb446.jpg"
+        }
+      ],
+      "type": "Musical instrument store",
+      "categories": [
+        "Musical instrument store"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒904-2221 Okinawa, Uruma, Tairagawa, 184-1 津波三味線店",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.36803,127.8509011,3a,49.6y,302.39h,94.7t/data=!3m7!1e1!3m5!1sDcZt_iGEu7kcbYXT4mmLtw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.696959816539234%26panoid%3DDcZt_iGEu7kcbYXT4mmLtw%26yaw%3D302.3888030574675!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This real shamisen instrument shop in Uruma is featured in episode 12 as a nod to Okinawan musical culture, with a character stopping outside it in a scene that underscores the show's celebration of local traditions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_6",
+      "name": "Tahara Concrete Industry Co.",
+      "localName": "田原コンクリート工業",
+      "coordinates": {
+        "lat": 26.36454,
+        "lng": 127.86836
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d99c6d3f-149e-41c3-9146-d1b779280469.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d99c6d3f-149e-41c3-9146-d1b779280469.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3644712,127.8683322,3a,90y,60.85h,93.95t/data=!3m7!1e1!3m5!1sjw4iMqoB78ohH11h3fStTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.948744900298209%26panoid%3Djw4iMqoB78ohH11h3fStTA%26yaw%3D60.85395964437017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_7",
+      "name": "Chimu Dongdan School Children's Club",
+      "localName": "ちむどんどん学童クラブ",
+      "coordinates": {
+        "lat": 26.34576,
+        "lng": 127.8712
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3459085,127.8710593,3a,48.7y,134.44h,99.81t/data=!3m7!1e1!3m5!1sxgJKFdGHH-1kN2SH_SHAKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.809855604685481%26panoid%3DxgJKFdGHH-1kN2SH_SHAKA%26yaw%3D134.44381922151828!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_8",
+      "name": "Nago Fumie",
+      "localName": "名護フミエ",
+      "coordinates": {
+        "lat": 26.36314,
+        "lng": 127.87063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc776334-b660-4a3c-a2d1-b1b9897e32d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc776334-b660-4a3c-a2d1-b1b9897e32d5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3630759,127.8706316,3a,90y,343.48h,101.27t/data=!3m7!1e1!3m5!1sXT8fchWG5QoJ6YzZKipdMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.272787962236293%26panoid%3DXT8fchWG5QoJ6YzZKipdMA%26yaw%3D343.4756465162352!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyzTSm3gO5TQRPoX4WfuSPTQ",
+      "name": "Gushikawa Foods",
+      "localName": "イオン具志川店",
+      "coordinates": {
+        "lat": 26.3381209,
+        "lng": 127.8442492
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33b41831-baf3-4c16-9bd7-6c437c716ad0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33b41831-baf3-4c16-9bd7-6c437c716ad0.webp"
+        },
+        {
+          "url": "media/cached-image_8525e5548ab7eb8873a6c3f44a5fba1c11e0a537db44aa49f08108a9b26dd173.jpg"
+        },
+        {
+          "url": "media/cached-image_599be4042b8822b678d33fa1a0c0fdc9f54de1fe4cce5a402ad4cf2fa35d0bb0.jpg"
+        },
+        {
+          "url": "media/cached-image_78d918d7a05ab1f0b6574b7603586d201d39d251389839082adaaa12a5de1c02.jpg"
+        },
+        {
+          "url": "media/cached-image_e924be9eed3766612fecc96dfbdf783b59209f226f2c0e6f2b8b4063afe77e68.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 380,
+      "priceLevel": null,
+      "address": "AEON Gushikawa, うるま市字前原幸崎原, 303, Uruma, Okinawa 904-2235, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3626977,127.8700862,3a,75y,27.63h,99.1t/data=!3m7!1e1!3m5!1sAWllJ2ZE_dwbKRM4asQEKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.096657670959402%26panoid%3DAWllJ2ZE_dwbKRM4asQEKw%26yaw%3D27.63415628968782!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_10",
+      "name": "Furufuru",
+      "localName": "ふるふる",
+      "coordinates": {
+        "lat": 26.36318,
+        "lng": 127.86902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b429cffb-5865-4b5c-a0e2-41c65705c37e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b429cffb-5865-4b5c-a0e2-41c65705c37e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3630307,127.8689798,3a,75y,8.51h,94.53t/data=!3m7!1e1!3m5!1saiRb_m-QH46omDpnMbZoqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.530389633022793%26panoid%3DaiRb_m-QH46omDpnMbZoqg%26yaw%3D8.51171751267566!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp73-iN0O5TQRbWW3YQ8rX_M",
+      "name": "Gushikawa Coast",
+      "localName": "具志川ビーチ",
+      "coordinates": {
+        "lat": 26.3650093,
+        "lng": 127.8727569
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d00e179-544f-4fcd-80c7-07135a51d0a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d00e179-544f-4fcd-80c7-07135a51d0a1.webp"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gushikawa Beach, Gushikawa, Uruma, Okinawa 904-2223, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3639626,127.8729726,3a,48.7y,200.59h,92.72t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqq7jnQw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0EH2KbkDRIvB_dQZnx1vOoEQRvsixJpUBKHi_MA_DsXZJY0b7GF8u9Nj3avEKOTv-_0t3XanMQX7Lcl-hqSEMQOqT1mtciys7vea3YNIjsgAaY_Mc0MHJhmah4SbQ9lLQf-bAO%3Dw900-h600-k-no-pi-2.7195069264994345-ya123.58597380450985-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Gushikawa beach backdrop appears in episode 2 as the place where the group first hangs out together, capturing the carefree Okinawan summer atmosphere central to the show's tone. The rocky shoreline and turquoise water match the anime's iconic establishing shots.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_12",
+      "name": "Sun Rise Cafe para para",
+      "localName": "Sun Rise Cafe パラパラ",
+      "coordinates": {
+        "lat": 26.36396,
+        "lng": 127.87254
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e557949d-7ce6-4383-8b16-31a8be967edd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e557949d-7ce6-4383-8b16-31a8be967edd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3640792,127.8726883,3a,75y,223.53h,96.95t/data=!3m7!1e1!3m5!1sAQ3hDijomtIDLc9I7IgFKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.953567326209949%26panoid%3DAQ3hDijomtIDLc9I7IgFKA%26yaw%3D223.52992050941717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small cafe near the Gushikawa coast appears in episode 1 as a local hangout spot the characters visit, grounding the story in the everyday commercial life of Uruma City."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTy_oPtIJ5TQRY-th7ErEghc",
+      "name": "Teruma Beach",
+      "localName": "照間ビーチ",
+      "coordinates": {
+        "lat": 26.336187499999998,
+        "lng": 127.89456249999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c11cbc70-da45-4cce-a3d3-e51f7c0af478.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c11cbc70-da45-4cce-a3d3-e51f7c0af478.webp"
+        },
+        {
+          "url": "media/cached-image_8acf868ab0010ccc574e08bd83972d3d850ba175bbb28a5dd3cd643a14cc4292.jpg"
+        }
+      ],
+      "type": "Scenic spot",
+      "categories": [
+        "Scenic spot"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "8VPV+FR Teruma Beach, Uruma, Okinawa 904-2301, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3359712,127.8945773,3a,90y,50.7h,104.43t/data=!3m7!1e1!3m5!1sP2bbS2yZLIu4bjTmlS66TA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.42912385478104%26panoid%3DP2bbS2yZLIu4bjTmlS66TA%26yaw%3D50.69745320167562!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Teruma Beach appears in episode 1 as one of the first scenic Okinawan locations shown, establishing the series' sun-drenched island setting and introducing the summer break mood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6z_osjv65DQRNpoSOgG1iqM",
+      "name": "Bise-Fukugi Tree Road",
+      "localName": "備瀬のフクギ並木",
+      "coordinates": {
+        "lat": 26.701587399999998,
+        "lng": 127.8802247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc4a034c-a5d0-4bfe-a6fc-e31bfb55c562.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc4a034c-a5d0-4bfe-a6fc-e31bfb55c562.webp"
+        },
+        {
+          "url": "media/cached-image_694103a108e6b5b604e9420857b7be07f522e42ead73dcf92dde05fc16911a5b.jpg"
+        },
+        {
+          "url": "media/cached-image_e7899c36ad9eac504f27419ba1185299170d11bc12328ead8680e77f49e6683b.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": 23,
+      "priceLevel": null,
+      "address": "Bise-Fukugi Tree Road, 389 Bise, Motobu, Kunigami District, Okinawa 905-0207, Japan",
+      "city": "Motobu",
+      "region": "Kunigami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.7058221,127.881316,3a,89.4y,263.88h,94.29t/data=!3m7!1e1!3m5!1sjcegYLbtVvclBWaVAJAkoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.289530510879402%26panoid%3DjcegYLbtVvclBWaVAJAkoA%26yaw%3D263.88401565118846!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The iconic fukugi tree-lined road in Bise village, Motobu, is featured in the ending credits sequence, representing the lush natural scenery of Okinawa that frames the anime's pastoral mood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_15",
+      "name": "Tsuhakogumi Corporation",
+      "localName": "株式会社 津波古組",
+      "coordinates": {
+        "lat": 26.36689,
+        "lng": 127.87392
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dcf5f32a-55e1-4e08-91e8-f6dc12bc88d6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dcf5f32a-55e1-4e08-91e8-f6dc12bc88d6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3669556,127.8741285,3a,73.9y,133.15h,104.54t/data=!3m8!1e1!3m6!1sAF1QipNyulV0IYIf-Dcvt6XC_Zd-g3YNLzBydbN51SEp!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNyulV0IYIf-Dcvt6XC_Zd-g3YNLzBydbN51SEp%3Dw900-h600-k-no-pi-14.543857954271104-ya165.1483895694422-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhdybE2Zs5DQRzxHcm5GZqlw",
+      "name": "Okinawa Rail Observation Deck",
+      "localName": "ヤンバルクイナ展望台",
+      "coordinates": {
+        "lat": 26.862443499999998,
+        "lng": 128.26492349999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb50f094-8579-4015-9536-4a943be7ed37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb50f094-8579-4015-9536-4a943be7ed37.webp"
+        },
+        {
+          "url": "media/cached-image_a140ff5851daa0cc396d8eaaa990228d883493773b7be0ab31752098427b132d.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okinawa Rail Observation Deck, Hedo, Kunigami, Kunigami District, Okinawa 905-1421, Japan",
+      "city": "Kunigami",
+      "region": "Kunigami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.8626405,128.2650605,3a,90y,216.59h,115.61t/data=!3m8!1e1!3m6!1sCIABIhADydERiQA9n2fc-ucAA6N3!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2Y-NmqI6reogxCz-YRhrtp0_p7IOINPN8JqsEZGInqmk-UBW6BhOLAZxpqUTCEwYSpOg-hYsq7BoWXClevjlFVpmdnmtJ7bEmUobQV1yR-92Wrd-pd7BAgeHXqBD13K43RkO0WWsiJfMBx%3Dw900-h600-k-no-pi-25.609173976245557-ya164.46833933533773-ro0-fo100!7i5760!8i2880?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Yanbaru Kuina observation deck at Cape Hedo, Okinawa's northernmost tip, appears in the ending credits, evoking the full geographic sweep of the island the characters call home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJR1oRBIVX5DQRDtyLTSuvErA",
+      "name": "Kouri Bridge View Point",
+      "localName": "古宇利大橋 南詰展望所",
+      "coordinates": {
+        "lat": 26.6788164,
+        "lng": 128.0126263
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7eb22e8-5c80-404f-b531-d8b7f17a21bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7eb22e8-5c80-404f-b531-d8b7f17a21bf.webp"
+        },
+        {
+          "url": "media/cached-image_7231d73a943f48c5ce8cb67fe037eb44654b0ff9c07b093ee757a301eea75f87.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kouri Bridge South View Point, Sumuide, Nago, Okinawa 905-1635, Japan",
+      "city": "Nago",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.6787824,128.0126861,3a,57.1y,24.58h,101.61t/data=!3m8!1e1!3m6!1sAF1QipP0VeXpZrwwgAFJJdbRz1Ur0WCgHzCaqUhT3bpk!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipP0VeXpZrwwgAFJJdbRz1Ur0WCgHzCaqUhT3bpk%3Dw900-h600-k-no-pi-11.613159323401277-ya14.584861169092068-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The scenic viewpoint at the base of Kouri Bridge, with its sweeping ocean panorama, appears in the ending credits sequence as one of Okinawa's most picturesque landmarks woven into the show's visual identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ45Ky6--n5TQRixQMqWXGxJ8",
+      "name": "Kafu Banta",
+      "localName": "果報バンタ",
+      "coordinates": {
+        "lat": 26.360673199999997,
+        "lng": 127.9922613
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aaabe913-1e05-41e0-8f04-4410373e9ce1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aaabe913-1e05-41e0-8f04-4410373e9ce1.webp"
+        },
+        {
+          "url": "media/cached-image_a466d71d808284adc9c82bd48a0a3594910c3a61e21bf6086625c9edfa841974.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kafu Banta, 2768 Yonashiromiyagi, Uruma, Okinawa 904-2423, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3606904,127.9921811,3a,48.5y,63.52h,83.72t/data=!3m7!1e1!3m5!1sAF1QipPpnWLSbnLTJrOJVwrDZAS_2S6mrUICY3erT_DM!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPpnWLSbnLTJrOJVwrDZAS_2S6mrUICY3erT_DM%3Dw900-h600-k-no-pi6.281862691994334-ya358.6953227132055-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This dramatic sea cliff viewpoint on the Katsuren Peninsula is featured in the ending credits, representing the rugged coastal beauty of Uruma that forms the anime's home territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA7jAuf1r5TQR7zY_ObYBTk8",
+      "name": "Shureimon Gate",
+      "localName": "守礼門",
+      "coordinates": {
+        "lat": 26.2181408,
+        "lng": 127.71687519999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/555a1f59-6c84-4484-b38a-b1ebf52663f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/555a1f59-6c84-4484-b38a-b1ebf52663f3.webp"
+        },
+        {
+          "url": "media/cached-image_c2d201dce176e502dc932028b82eacf39428fd30c154b9b3073c5b53ac474766.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shureimon Gate, 1 Chome-7-1 Shurikinjocho, Naha, Okinawa 903-0826, Japan",
+      "city": "Naha",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.218161,127.7168466,3a,90y,100.6h,126.94t/data=!3m7!1e1!3m5!1sIY7RU0Au5eTOnC017Pjl4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-36.93765149787754%26panoid%3DIY7RU0Au5eTOnC017Pjl4g%26yaw%3D100.60479486799703!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The iconic Shureimon gate of Shuri Castle in Naha appears in the ending credits sequence, symbolizing Okinawa's deeper historical and cultural identity beneath the slice-of-life story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqYCn-P9l5TQRgXENPBvAMq8",
+      "name": "Tomori Stone Lion",
+      "localName": "富盛の石彫大獅子",
+      "coordinates": {
+        "lat": 26.1335718,
+        "lng": 127.72427979999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07bcf5fe-daeb-4722-9f3b-8bd5ad52f2fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07bcf5fe-daeb-4722-9f3b-8bd5ad52f2fa.webp"
+        },
+        {
+          "url": "media/cached-image_0ce121d20eee353636acb4c90ec56b8a865e45e6d60ab5cbc1737d894fdf857b.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tomori Stone Lion, 22 Tomori, Yaese, Shimajiri District, Okinawa 901-0402, Japan",
+      "city": "Yaese",
+      "region": "Shimajiri District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.1335474,127.7242679,3a,90y,11.22h,75.48t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDJ0_ysAg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1VILbaAXlRW8_wqonOSJx215kzFuvcXodJOh4uuPpB2RpRhYCHF8LCtuB-yk6QfgvPvE_LYjJ6wtGKOh_Jz1kTILzW9CC5rJIzbkhsl0JV9Ro3duT8LE8rw8fAD6gor90DPHA%3Dw900-h600-k-no-pi14.522196723370271-ya356.60643328588645-ro0-fo100!7i11968!8i5984?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Tomori stone shisa lion, one of Okinawa's oldest and most revered guardian figures, appears in the ending credits as a symbol of the island's traditional spiritual landscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_21",
+      "name": "Heart Rock",
+      "localName": "ハートロック",
+      "coordinates": {
+        "lat": 26.71391,
+        "lng": 128.01475
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d6f0563-9338-4a93-908c-62a50aaa7158.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d6f0563-9338-4a93-908c-62a50aaa7158.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.7137081,128.0148136,3a,36.7y,341.17h,95.96t/data=!3m8!1e1!3m6!1sAF1QipPszP-xF5Sgs8yMWpvMYtCPZurKGWSSJcsoiIDQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPszP-xF5Sgs8yMWpvMYtCPZurKGWSSJcsoiIDQ%3Dw900-h600-k-no-pi-5.959458756267253-ya4.166858220651363-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The famous heart-shaped rock formation on Kouri Island appears in the ending credits, used as a symbol of the romantic and scenic backdrop of Okinawa that the series evokes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_22",
+      "name": "First-class architect office e-craft.",
+      "localName": "一級建築士事務所 e-craft.",
+      "coordinates": {
+        "lat": 26.3661,
+        "lng": 127.87305
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9914502-3e22-4d28-b40c-040dd5c6cfdc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9914502-3e22-4d28-b40c-040dd5c6cfdc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3657603,127.8729115,3a,43.8y,34.69h,95.86t/data=!3m7!1e1!3m5!1s34nAE0soHdln8LYZ9kDcpg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.856062918867877%26panoid%3D34nAE0soHdln8LYZ9kDcpg%26yaw%3D34.68982324914935!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk5jkbZxs5TQR9YajcZ3aWXw",
+      "name": "A&W Makiminato",
+      "localName": "A&W 牧港店",
+      "coordinates": {
+        "lat": 26.266638699999998,
+        "lng": 127.7284454
+      },
+      "image": "https://cdn.animepilgrimage.com/places/464ec6a6-d884-489e-8109-75f4a8e7e3e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/464ec6a6-d884-489e-8109-75f4a8e7e3e6.webp"
+        },
+        {
+          "url": "media/cached-image_c3aa523f8e535282041e1d22e509550f7c9a13a16392693d5151f53aaaa329a9.jpg"
+        },
+        {
+          "url": "media/cached-image_c92632c07460820c1ef4ffe3565f5ccdf6f96d8391a5434f9e5badba000e43cd.jpg"
+        },
+        {
+          "url": "media/cached-image_1cfa1f83bc83f50d0c71c8c16b8466def856fbe49c64e0397b4ff1af2e9cd343.jpg"
+        },
+        {
+          "url": "media/cached-image_16f6b33ce4caf2aae0300db43b9e0212956b585140d680cc5f24670238b36ddd.jpg"
+        },
+        {
+          "url": "media/cached-image_7d6444699226c20cee2663d747e69a49c9d13cacf04552d4e0b86b804ca1cce3.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "A&W Makiminato, 4 Chome-9-1 Makiminato, Urasoe, Okinawa 901-2131, Japan",
+      "city": "Urasoe",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.2670826,127.7277451,3a,24.5y,126.85h,97.93t/data=!3m7!1e1!3m5!1sd0hwJQhu5iWAgoiyPa04kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.926778524731645%26panoid%3Dd0hwJQhu5iWAgoiyPa04kw%26yaw%3D126.85244864187749!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The A&W fast food restaurant in Makiminato, a beloved Okinawa-only chain with American roots, appears in episode 8 as a place the characters eat, emphasizing the unique American-influenced food culture of Okinawa."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJifUiMQds5TQRYPQjh1JVhvI",
+      "name": "Shuri Station",
+      "localName": "首里駅",
+      "coordinates": {
+        "lat": 26.2191655,
+        "lng": 127.72555539999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5091ad0d-f144-41c2-9def-7b2970731bf3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5091ad0d-f144-41c2-9def-7b2970731bf3.webp"
+        },
+        {
+          "url": "media/cached-image_b0c3ff364cb8f47434826f630823c970c7679bdf191fce844bf950f7adec6646.jpg"
+        }
+      ],
+      "type": "Monorail station",
+      "categories": [
+        "Monorail station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shuri Station, 3-chōme Shuriterachō, Naha, Okinawa 903-0806, Japan",
+      "city": "Naha",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.2192184,127.725773,2a,49.6y,255.55h,98.02t/data=!3m7!1e1!3m5!1sw73MvhPmB6eFxwXmw7LeZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.018573051190927%26panoid%3Dw73MvhPmB6eFxwXmw7LeZw%26yaw%3D255.54703708687862!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_25",
+      "name": "Hair Salon Life",
+      "localName": "ヘアーサロン・ライフ",
+      "coordinates": {
+        "lat": 26.36258,
+        "lng": 127.86921
+      },
+      "image": "https://cdn.animepilgrimage.com/places/efc37be4-7d6c-4b48-932d-68b0a2ad9f2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/efc37be4-7d6c-4b48-932d-68b0a2ad9f2f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3628674,127.8690221,3a,75y,138.27h,98.23t/data=!3m7!1e1!3m5!1sGHQU0nM9dNaoQpCvSc_YOA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.234969902266172%26panoid%3DGHQU0nM9dNaoQpCvSc_YOA%26yaw%3D138.27306133717408!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlyTNMyQT5TQROoXjzobUZdk",
+      "name": "Lawson Chatan Kitamae",
+      "localName": "ローソン 北谷町北前店",
+      "coordinates": {
+        "lat": 26.2963219,
+        "lng": 127.7602027
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a5cbed3-5dec-48cd-92ff-4a0c95422e2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a5cbed3-5dec-48cd-92ff-4a0c95422e2a.webp"
+        },
+        {
+          "url": "media/cached-image_dca4a40464130e72f82f8f320770e36b5b1ca588245d31135016fbf1a5395b21.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Chatan Kitamae, 240 Kitamae, Chatan, Nakagami District, Okinawa 904-0117, Japan",
+      "city": "Chatan",
+      "region": "Nakagami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.2962036,127.7606466,3a,41.5y,198.81h,96.45t/data=!3m7!1e1!3m5!1s3qXkkc_6kGlfwVFnAzFoAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.446131517609217%26panoid%3D3qXkkc_6kGlfwVFnAzFoAg%26yaw%3D198.81051236376075!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtQ0b6YAT5TQRZEWu_MLmtEk",
+      "name": "Gyomu Supermarket - Promart",
+      "localName": "プロマート業務用食品スーパー 北谷店",
+      "coordinates": {
+        "lat": 26.3087263,
+        "lng": 127.7636668
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6ddcbd66-dde9-4d43-bc01-ef8d0177c121.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6ddcbd66-dde9-4d43-bc01-ef8d0177c121.webp"
+        },
+        {
+          "url": "media/cached-image_bc33328e7a0af2995eb624a9623e6efa9200d870408a1b364dcd247ebf4e56c6.jpg"
+        },
+        {
+          "url": "media/cached-image_049844d186e4ecf41bd88104701a113bbcc8e9d07f3b1aae88b15b9521ca1462.jpg"
+        },
+        {
+          "url": "media/cached-image_28f5514ce45b53308b982b56c02a1b7415738f8533bd6d2e5c6041eb049eb7d3.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 4,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Gyomu Supermarket - Promart, 當山商事ビル 1階 1 Chome-３-1 Chatan, Nakagami District, Okinawa 904-0116, Japan",
+      "city": "Chatan",
+      "region": "Nakagami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3091368,127.763897,3a,90y,229.31h,104.29t/data=!3m7!1e1!3m5!1s3Zlivs0HV5azmymfwDaSLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.287725370124107%26panoid%3D3Zlivs0HV5azmymfwDaSLQ%26yaw%3D229.31137517216655!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_28",
+      "name": "BIKE SHOP DOC",
+      "localName": null,
+      "coordinates": {
+        "lat": 26.31082,
+        "lng": 127.76316
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e3e0b0ba-2d63-4c68-b168-4d8bc52242db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e3e0b0ba-2d63-4c68-b168-4d8bc52242db.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3108663,127.7632575,3a,48.7y,247.01h,97.24t/data=!3m7!1e1!3m5!1sGd_jbd4mP70HXTZ_vae1YA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.236894977181592%26panoid%3DGd_jbd4mP70HXTZ_vae1YA%26yaw%3D247.00701116406353!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_29",
+      "name": "LIB Adult Day Care",
+      "localName": "デイサービスLIB",
+      "coordinates": {
+        "lat": 26.36428,
+        "lng": 127.86834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74679fb9-7969-4d83-986a-9e253a8320d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74679fb9-7969-4d83-986a-9e253a8320d8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3642085,127.8684714,3a,48.8y,306.51h,90.72t/data=!3m7!1e1!3m5!1s0OtjyCPcUxrczD3ax8se4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.717708489046899%26panoid%3D0OtjyCPcUxrczD3ax8se4A%26yaw%3D306.5079011982637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd2wUANAJ5TQRBIweNM_taK8",
+      "name": "Mid-Sea Road Beach",
+      "localName": "海中道路ビーチ",
+      "coordinates": {
+        "lat": 26.3320488,
+        "lng": 127.9253622
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e17c1483-ee16-485b-9baf-c94f3a3dde89.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e17c1483-ee16-485b-9baf-c94f3a3dde89.webp"
+        },
+        {
+          "url": "media/cached-image_fedc20ac2c28552c6f3c3fe707ffa45b825fbc4a01a17ba968b01ab5da79428d.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mid-Sea Road Beach, Yonashiroyahira, Uruma, Okinawa 904-2427, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3320488,127.9253622,3a,21.7y,302.63h,94.87t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID-zM3SNQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0ZB7Q9ZRCpmaufsaopTYwDGkEIT3cZSeq8w2PmzW_VzntzXVZuRUgBvAuEjT8FNJ-q0To76eBE0vNpRiLBgMG5zm0i39SETf4R0iF5irxRymapzPAH7Mkm9nsE_9H5z7ZDfPFj%3Dw900-h600-k-no-pi-4.866949198977011-ya295.6344395096388-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The beach along Kaichu-doro, the road that connects the island chain east of Okinawa, appears in episode 8 as a scenic driving destination the characters visit, highlighting one of Uruma's most distinctive local landmarks.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_31",
+      "name": "Bake House Lotti",
+      "localName": null,
+      "coordinates": {
+        "lat": 26.34298,
+        "lng": 127.87806
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c29998bc-38e4-4536-8bfc-86d69b6e8ec9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c29998bc-38e4-4536-8bfc-86d69b6e8ec9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3430103,127.8780024,3a,90y,329.43h,103.46t/data=!3m7!1e1!3m5!1snorSepkTwUgJ26baEHPerg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.462231096848313%26panoid%3DnorSepkTwUgJ26baEHPerg%26yaw%3D329.4304616666103!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGWURHVES5TQRoE9xsLeMjrg",
+      "name": "Fresh Plaza Union Agena",
+      "localName": "フレッシュプラザユニオン 北谷店",
+      "coordinates": {
+        "lat": 26.326195,
+        "lng": 127.77417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b717e77-6dbe-4203-913c-2c82d2c6eee3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b717e77-6dbe-4203-913c-2c82d2c6eee3.webp"
+        },
+        {
+          "url": "media/cached-image_84acb4b92a03cea00e630330b6a0078a8c57b51299884e666771565175063b04.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fresh Plaza Union Chatan, 517-1 Kuwae, Chatan, Nakagami District, Okinawa 904-0103, Japan",
+      "city": "Chatan",
+      "region": "Nakagami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3772704,127.8569653,3a,25.3y,245.23h,95.42t/data=!3m7!1e1!3m5!1sWLepiu_OSKg02cOQ1Ic8dA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.421795746691359%26panoid%3DWLepiu_OSKg02cOQ1Ic8dA%26yaw%3D245.22856439407246!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_33",
+      "name": "Waraku",
+      "localName": "和樂",
+      "coordinates": {
+        "lat": 26.35944,
+        "lng": 127.86956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0b3dcbbb-8fef-449f-99b1-e88550749b21.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0b3dcbbb-8fef-449f-99b1-e88550749b21.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3595635,127.8694494,3a,46.2y,116.94h,98.11t/data=!3m7!1e1!3m5!1sVG3E5vsQmC0P--FxovYjjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.11276392193615%26panoid%3DVG3E5vsQmC0P--FxovYjjQ%26yaw%3D116.94249489449194!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcSYOGAAT5TQRi_AL51oIdMo",
+      "name": "Soba Restaurant Gushikawa Soba",
+      "localName": "沖縄そばと和牛焼肉〜すながわ製麺所〜",
+      "coordinates": {
+        "lat": 26.315740299999998,
+        "lng": 127.7555405
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_317e6ccde98ddbf61692f4376fdad316d69a24f38111726646aadb0a1e1ab8b9.jpg"
+        },
+        {
+          "url": "media/cached-image_a5aa0744d0751752b7e067c7f4d69ab424c96be453fe2662ce81228ea5bdf4f6.jpg"
+        },
+        {
+          "url": "media/cached-image_3ed153774f4f08a284f1afabc01bf57ca4d0eb58bf3e8b0bb05261e399923188.jpg"
+        },
+        {
+          "url": "media/cached-image_66ba950a407b8f3357eaf9ee12dc0bd5dc9108317485be8364f044529a57da93.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okinawan Soba and Wagyu Beef YakinikuSunagawa Noodle Factory, プラザF 1階 9-7 Mihama, Chatan, Nakagami District, Okinawa 904-0115, Japan",
+      "city": "Chatan",
+      "region": "Nakagami District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3491078,127.8702677,3a,90y,224.21h,112.67t/data=!3m7!1e1!3m5!1sSNWV2k2MTwCboL72I_XTgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.67325218486485%26panoid%3DSNWV2k2MTwCboL72I_XTgw%26yaw%3D224.20776739488534!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_35",
+      "name": "San-A V21 Food Hall Taba",
+      "localName": "サンエーＶ２１食品館 田場店",
+      "coordinates": {
+        "lat": 26.36413,
+        "lng": 127.86855
+      },
+      "image": "https://cdn.animepilgrimage.com/places/690a266a-97c9-4c70-b223-4a7f9c022540.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/690a266a-97c9-4c70-b223-4a7f9c022540.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3642085,127.8684714,3a,75y,139.17h,97.86t/data=!3m7!1e1!3m5!1s0OtjyCPcUxrczD3ax8se4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.855137709958811%26panoid%3D0OtjyCPcUxrczD3ax8se4A%26yaw%3D139.17187642442903!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_36",
+      "name": "Gushikawa Community Center",
+      "localName": "具志川公民館",
+      "coordinates": {
+        "lat": 26.35839,
+        "lng": 127.8702
+      },
+      "image": "https://cdn.animepilgrimage.com/places/684cb6dc-dd7e-4782-a3e8-db7190108740.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/684cb6dc-dd7e-4782-a3e8-db7190108740.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.358295,127.8701887,3a,75y,14.27h,91.74t/data=!3m7!1e1!3m5!1s1IBFRJusQhMeUt87RNaYbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7421489622751665%26panoid%3D1IBFRJusQhMeUt87RNaYbg%26yaw%3D14.265292503065734!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Gushikawa public community hall appears in episode 5 as a location for a local community event scene, illustrating the tight-knit neighborhood life in the Gushikawa area of Uruma."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8Xmz7g0O5TQRd14HIT_wjtw",
+      "name": "San-A Gushikawa Main City",
+      "localName": "サンエー 具志川メインシティ",
+      "coordinates": {
+        "lat": 26.3527289,
+        "lng": 127.8256907
+      },
+      "image": "https://cdn.animepilgrimage.com/places/70020780-ef0d-4167-b831-ac3a4aa6e080.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/70020780-ef0d-4167-b831-ac3a4aa6e080.webp"
+        },
+        {
+          "url": "media/cached-image_81d9ed20385d88bf7df11053b26bf63999851e2b9e1edb6aba47388543ebd16c.jpg"
+        },
+        {
+          "url": "media/cached-image_008ec31017a9cb3c2d0c21ceb5bcbf5c39367de33f02efd29a756da4ace58e10.jpg"
+        },
+        {
+          "url": "media/cached-image_bd60300c5a149965fcc6667f3e0a33c52dc6531ff7d75c2ce44b1cbfc431cb2d.jpg"
+        },
+        {
+          "url": "media/cached-image_498868b264e22b8147dba875b59401bc78031ae3312a35ae85d1ad9d6f82e6b9.jpg"
+        },
+        {
+          "url": "media/cached-image_cbdb0d981ca215121c9d1cd37732db6582eed1b0e0c83340e95d7764c6b24364.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.1,
+      "reviewCount": 577,
+      "priceLevel": null,
+      "address": "San-A Gushikawa Main City, 450ｰ1 Esu, Uruma, Okinawa 904-2244, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3536155,127.826273,3a,75y,210.5h,113.65t/data=!3m7!1e1!3m5!1sFsg1xt_VNElEK9UIvXDX-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-23.650565170057547%26panoid%3DFsg1xt_VNElEK9UIvXDX-Q%26yaw%3D210.50051515841088!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "San-A's flagship Gushikawa shopping mall appears in episode 5 as a central commercial hub where characters run errands, capturing the everyday suburban life of Uruma City that the anime depicts with affection."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_38",
+      "name": "Kumon Maths & English",
+      "localName": "公文式うるま具志川教室",
+      "coordinates": {
+        "lat": 26.36339,
+        "lng": 127.86875
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9773632a-3380-43d6-84ce-3d0fe788367a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9773632a-3380-43d6-84ce-3d0fe788367a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3634022,127.8688658,3a,90y,245.34h,97.02t/data=!3m7!1e1!3m5!1s9Q7-RbuYUmc2J9dNDBrOWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.023100847740693%26panoid%3D9Q7-RbuYUmc2J9dNDBrOWQ%26yaw%3D245.3408231496923!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1UfVePsO5TQRFCoHjUHRknk",
+      "name": "Family Mart Uruma Taba",
+      "localName": "ファミリーマート うるま田場店",
+      "coordinates": {
+        "lat": 26.3680524,
+        "lng": 127.8593786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f37c501-633d-43d5-ae09-3c4ab1457849.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f37c501-633d-43d5-ae09-3c4ab1457849.webp"
+        },
+        {
+          "url": "media/cached-image_c720c4b71f7101ef9a25dfd73026e591acdcef6544c2cf92071bb3d654905917.jpg"
+        },
+        {
+          "url": "media/cached-image_0477d4adf325ae8bb0172c39d7f723ca0f6c6a8240ee1d10c650f6928f24ae22.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Family Mart Uruma Taba, 1406-1 Taba, Uruma, Okinawa 904-2213, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3685978,127.8594919,3a,90y,181.33h,102.67t/data=!3m7!1e1!3m5!1sL1l4XHiHh1uQMRh2_qO3gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.670287701137823%26panoid%3DL1l4XHiHh1uQMRh2_qO3gQ%26yaw%3D181.33112384972767!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_40",
+      "name": "Banshoato Park",
+      "localName": "番所跡公園",
+      "coordinates": {
+        "lat": 26.359,
+        "lng": 127.86937
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5f0780fd-8d65-4835-9be9-40a123619c8c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5f0780fd-8d65-4835-9be9-40a123619c8c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3588746,127.8694165,3a,38.5y,323.84h,96.45t/data=!3m7!1e1!3m5!1sIFzWniOS-ldmsDYT6TQ75g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.453727240577223%26panoid%3DIFzWniOS-ldmsDYT6TQ75g%26yaw%3D323.8401888280162!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This small park on the historic site of a former checkpost appears in episode 4 as a quiet spot the characters visit in the Gushikawa neighborhood, tying everyday life to the area's historical layering."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJozdsT0UJ5TQRCOYZPzh7lgU",
+      "name": "Yonashiro Athletic Park",
+      "localName": "与那城総合公園",
+      "coordinates": {
+        "lat": 26.3295058,
+        "lng": 127.9055408
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8eb80239-90d9-4cb9-8cf7-aa00bd63424c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8eb80239-90d9-4cb9-8cf7-aa00bd63424c.webp"
+        },
+        {
+          "url": "media/cached-image_5a4185bef15ee357f345a759eae8f5442b5fe838152aff47ff19e52a4845887b.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yonashiro Athletic Park, 4 Yonashirochuo, Uruma, Okinawa 904-2305, Japan",
+      "city": "Uruma",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@26.3281744,127.9069667,3a,37.9y,107.92h,100.85t/data=!3m8!1e1!3m6!1sAF1QipMxu_fPBO-7q-ITnTjcZ49cdpXUqsdpFOgn8S5P!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMxu_fPBO-7q-ITnTjcZ49cdpXUqsdpFOgn8S5P%3Dw900-h600-k-no-pi-10.846541932129043-ya117.92199640346848-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Yonashiro's multipurpose park appears in episode 4 as an outdoor activity setting for the characters, reflecting the public green spaces of eastern Uruma where much of the story takes place."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_42",
+      "name": "Zenzai Specialist~.",
+      "localName": "ぜんざい専門家～",
+      "coordinates": {
+        "lat": 26.33946,
+        "lng": 127.88008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6e7a83e3-716c-4528-b1de-6891bced6b29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6e7a83e3-716c-4528-b1de-6891bced6b29.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3393955,127.8799286,3a,43.8y,66.84h,93.3t/data=!3m7!1e1!3m5!1smCCXLlAk2k3Em8oacnWX4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3006085714086453%26panoid%3DmCCXLlAk2k3Em8oacnWX4Q%26yaw%3D66.8406629878328!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_43",
+      "name": "Relaxation maju",
+      "localName": "リラクゼーションmaju",
+      "coordinates": {
+        "lat": 26.35631,
+        "lng": 127.87074
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b8c4e53-e282-4515-82ac-3b0f52ab1c1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b8c4e53-e282-4515-82ac-3b0f52ab1c1c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3563262,127.8707068,3a,75y,59.72h,92.18t/data=!3m7!1e1!3m5!1sYqNbM426vmNemx1kg98MVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.183438695651091%26panoid%3DYqNbM426vmNemx1kg98MVw%26yaw%3D59.721489066011934!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_okitsura_44",
+      "name": "Okitsura Bench",
+      "localName": "沖ツラベンチ",
+      "coordinates": {
+        "lat": 26.36403,
+        "lng": 127.87293
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1b889c8d-17f1-4d33-a9d1-ef5a8c6e29d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1b889c8d-17f1-4d33-a9d1-ef5a8c6e29d5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@26.3641925,127.8727364,3a,49.6y,128.05h,95.58t/data=!3m7!1e1!3m5!1s5QV_PiCAb_rik_PjFPscog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.580574864676194%26panoid%3D5QV_PiCAb_rik_PjFPscog%26yaw%3D128.04684836513334!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This seafront bench on the Gushikawa coast serves as the recurring gathering spot where the main characters meet, talk, and watch the ocean, making it the emotional anchor of the series. Fans treat it as the definitive pilgrimage stop for the anime.",
+      "fanTopPick": true
+    }
+  ]
+}

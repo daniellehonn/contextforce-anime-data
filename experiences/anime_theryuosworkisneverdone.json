@@ -1,0 +1,886 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Ryuo's Work is Never Done!",
+  "slug": "the-ryuos-work-is-never-done",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_e0a0341eb4920670ff7d3bf3f2f0a8a851b0b6bc7035ee71603562c287bd2e70.webp",
+  "image": "media/cached-image_e0a0341eb4920670ff7d3bf3f2f0a8a851b0b6bc7035ee71603562c287bd2e70.webp",
+  "banner": null,
+  "primaryLocation": "Osaka, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.118045743478255,
+    "lng": 136.88136638695656
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Ryuo's Work is Never Done!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-ryuos-work-is-never-done_0",
+      "name": "Kamifuku Pharmacy",
+      "localName": "かみふく薬局",
+      "coordinates": {
+        "lat": 34.69735,
+        "lng": 135.48661
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81568a60-cfb1-42b4-bb8d-4f98cf1d5590.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81568a60-cfb1-42b4-bb8d-4f98cf1d5590.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.6973616,135.4864845,3a,75y,103.25h,98.99t/data=!3m7!1e1!3m5!1sV-T0Sic14UImfS5GmlLiqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.994006465578721%26panoid%3DV-T0Sic14UImfS5GmlLiqw%26yaw%3D103.24648255007979!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This pharmacy near Kansai Shogi Hall appears in episode 1 as a neighborhood landmark close to where Yaichi Kuzuryu lives and trains, grounding the story in the real Fukushima ward streetscape fans recognize."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4Wa_X085918RrR7icQJBJuk",
+      "name": "kagayama Bridge",
+      "localName": "加賀山橋",
+      "coordinates": {
+        "lat": 37.0581324,
+        "lng": 136.8420496
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "kagayama Bridge, Tokuda, Shika, Hakui District, Ishikawa 925-0212, Japan",
+      "city": "Shika",
+      "region": "Hakui District, Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@37.0900434,136.9152195,3a,90y,311.45h,107.93t/data=!3m7!1e1!3m5!1slhAIByaJfXnnDR3r7EfXEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.9319557156242%26panoid%3DlhAIByaJfXnnDR3r7EfXEw%26yaw%3D311.4510894573104!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPyOTG8KMGGARh_IXobWxHmo",
+      "name": "Shinjuku Gyoen National Garden",
+      "localName": "新宿御苑",
+      "coordinates": {
+        "lat": 35.685176299999995,
+        "lng": 139.71005169999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55235419-9c48-41ac-b486-aa4c91d6a462.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55235419-9c48-41ac-b486-aa4c91d6a462.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": 412544,
+      "priceLevel": null,
+      "address": "Shinjuku Gyoen National Garden, 11 Naitomachi, Shinjuku City, Tokyo 160-0014",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6839222,139.7107222,3a,90y,283.24h,94.35t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4paWFowE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hann4sjo3F1YJYso6kYArlxcNP9oV4rRl_FW2PaHBXk8rdC7ed_BD1sQG3Yaagj1_jwH8wU3ZsdTVwhnoAfCqaf7hMUzgP7gNiyP0vPPEgbUuJv5d0JKzNu0S04rE456LbxIlWNvQ%3Dw900-h600-k-no-pi-4.346763695471992-ya3.2407132615713294-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Featured in episode 9, the garden's broad walkways and greenery serve as a backdrop for a quiet character moment, offering a breath of calm amid the pressures of professional shogi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-ryuos-work-is-never-done_3",
+      "name": "Brahms Path",
+      "localName": "ブラームスの小径",
+      "coordinates": {
+        "lat": 35.67112,
+        "lng": 139.704
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87c593ff-7caa-4923-bb3f-82d95324c9a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87c593ff-7caa-4923-bb3f-82d95324c9a3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6711292,139.7039888,3a,90y,117.42h,96.4t/data=!3m7!1e1!3m5!1suKgv_qSlWtQq5p2uTAT60A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.403647535000346%26panoid%3DuKgv_qSlWtQq5p2uTAT60A%26yaw%3D117.42384847775699!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This tree-lined path in Sendagaya appears in episode 8 during a walk scene, its name evoking classical music and the contemplative mood that surrounds Yaichi and Ginko's evolving relationship."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ-BPQL6MGGARkAhYq-0roAw",
+      "name": "Chaco Amemiya",
+      "localName": "CHACO あめみや",
+      "coordinates": {
+        "lat": 35.6786023,
+        "lng": 139.710098
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd02cfe3-8cea-413c-8fbe-1d375e355ce3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd02cfe3-8cea-413c-8fbe-1d375e355ce3.webp"
+        },
+        {
+          "url": "media/cached-image_d26fe7cee603366649b66efc33caa2c1a2101c28abd96a49d20321c0edd0778f.jpg"
+        }
+      ],
+      "type": "Steak house",
+      "categories": [
+        "Steak house"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chaco Amemiya, 1 Chome-7-12 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6786221,139.7100201,3a,75y,99.11h,90.91t/data=!3m7!1e1!3m5!1sdqHVXiyUkq5fEBCZOExS4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9139581198826363%26panoid%3DdqHVXiyUkq5fEBCZOExS4Q%26yaw%3D99.11270833521108!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The steak restaurant in Sendagaya is visited in episode 8, where the meal becomes a backdrop for a tense conversation reflecting the characters' rivalries and bonds outside the shogi board."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6pq-g2MGGARk6-1IehS1Es",
+      "name": "Palace Side Building",
+      "localName": "パレスサイドビル",
+      "coordinates": {
+        "lat": 35.6909358,
+        "lng": 139.7575803
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7d55ac8f-60eb-4f76-9ce3-b2209f8022f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7d55ac8f-60eb-4f76-9ce3-b2209f8022f6.webp"
+        },
+        {
+          "url": "media/cached-image_1b73dbdd35e1d496dfe42640ce756cab75e9ca0e293997141f65044d025525f3.jpg"
+        },
+        {
+          "url": "media/cached-image_145d258c3547142f7b2a0930f702e1d576bc09b248119668f3985e90a7340f1c.jpg"
+        },
+        {
+          "url": "media/cached-image_73a69060133f1d2282ad4948de749e0a4655c82537eb67205e73636db483d8d9.jpg"
+        },
+        {
+          "url": "media/cached-image_d298b940d7f5320fc1791060d5b9fb46ac5b6abb60142813938ed1594ea3ea80.jpg"
+        },
+        {
+          "url": "media/cached-image_bd806712da87aedcd2b89f8ad87b3a50d43162838f147b8a8565c66c66450679.jpg"
+        }
+      ],
+      "type": "Business center",
+      "categories": [
+        "Business center"
+      ],
+      "rating": 3.7,
+      "reviewCount": 404,
+      "priceLevel": null,
+      "address": "Palace Side Building, 1 Chome-1-1 Hitotsubashi, Chiyoda City, Tokyo 100-0003, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6902371,139.7587961,3a,75y,317.08h,115.1t/data=!3m7!1e1!3m5!1sAT1X7HqGlJKIbKnhOyuEMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.100600630649154%26panoid%3DAT1X7HqGlJKIbKnhOyuEMw%26yaw%3D317.08489610128134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This landmark office building in Chiyoda appears in episode 8 as a location establishing the Tokyo side of the story, used to depict the professional world surrounding high-level shogi matches."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa1VNQIrmAGARyNID98AGJ0g",
+      "name": "Kamifukushima Higashi Park",
+      "localName": "上福島東公園",
+      "coordinates": {
+        "lat": 34.6993837,
+        "lng": 135.48881269999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dba82a61-7742-4dd8-8ad2-7912b4239402.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dba82a61-7742-4dd8-8ad2-7912b4239402.webp"
+        },
+        {
+          "url": "media/cached-image_29ca9c5f9d3ce377709cb9c714f48d227989b3653bff4ed31f7faf837e4fb6f9.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamifukushima Higashi Park, 6 Chome-7 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6992499,135.4885839,3a,42.3y,23.31h,93.03t/data=!3m7!1e1!3m5!1s9ZI2tZpCmaznPfdSmbNgqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0287797931751186%26panoid%3D9ZI2tZpCmaznPfdSmbNgqg%26yaw%3D23.311524388533183!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This small Osaka park in the Fukushima district appears in episode 7 as a neighborhood gathering spot tied to Yaichi's home territory, where local life and shogi culture intersect."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx37-KNjgAGAROzfD4x47aTY",
+      "name": "Kyobashi-sakaba Jonetsu Horumon",
+      "localName": "京橋酒場 情熱ホルモン",
+      "coordinates": {
+        "lat": 34.6978311,
+        "lng": 135.534773
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aee00c28-8582-466f-a5d2-d30999f00920.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aee00c28-8582-466f-a5d2-d30999f00920.webp"
+        },
+        {
+          "url": "media/cached-image_a7857fde70367fe1a1921ec79b88e842a1cc43235e2fb9b42b7d02874dabc74d.jpg"
+        },
+        {
+          "url": "media/cached-image_f08c0c60fac0b109af45ab78a9a28cd247e6c0b9af9a65d388874f443eee69b7.jpg"
+        },
+        {
+          "url": "media/cached-image_3e6f409dbf9993133c3832dd181223a83430d4c2d3d1d9d91c56f342b1826461.jpg"
+        },
+        {
+          "url": "media/cached-image_f0dc6ec02f49f97ef0452847d11514d1f1171d638bd7a666e01458725c941216.jpg"
+        }
+      ],
+      "type": "Offal barbecue restaurant",
+      "categories": [
+        "Offal barbecue restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kyobashi-sakaba Jonetsuhorumon, 3 Chome-3-6 Higashinodamachi, Miyakojima Ward, Osaka, 534-0024, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6978672,135.5346874,3a,90y,110.67h,107.67t/data=!3m7!1e1!3m5!1svHaxbGum4cRWjYRQbwD0IA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.66987290204831%26panoid%3DvHaxbGum4cRWjYRQbwD0IA%26yaw%3D110.66570878033114!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This izakaya-style horumon restaurant in Osaka's Kyobashi area appears in episode 6 as a lively dining location, reflecting the working-class Osaka atmosphere that shapes the show's tone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHdYndTKLGGARBa3u6whn00U",
+      "name": "7-Eleven El Kyobashi",
+      "localName": "セブン-イレブン 京橋駅前店",
+      "coordinates": {
+        "lat": 35.676763,
+        "lng": 139.7703074
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d9f5d21-479e-43e0-b1a4-db86ce79c687.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d9f5d21-479e-43e0-b1a4-db86ce79c687.webp"
+        },
+        {
+          "url": "media/cached-image_9b013320b3b8949019740d77c0a78ea311d618813d46e13fe170c3a1e353851c.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 2 Chome-6-21 Kyobashi, Chuo City, Tokyo 104-0031, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6977387,135.5342661,3a,49.6y,72.52h,96.23t/data=!3m7!1e1!3m5!1spe3HLEP8dQwB-ZEzENlvlg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.231212837131565%26panoid%3Dpe3HLEP8dQwB-ZEzENlvlg%26yaw%3D72.52218810835487!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcQyrkdfgAGAR4ooTOuqus7o",
+      "name": "Kushikatsu Marufuji",
+      "localName": "串かつ 丸藤",
+      "coordinates": {
+        "lat": 34.6976227,
+        "lng": 135.53391729999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de31eeb4-d065-4911-bb0b-2983b38d4609.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de31eeb4-d065-4911-bb0b-2983b38d4609.webp"
+        },
+        {
+          "url": "media/cached-image_6778e8d08490d527bc8824555e78a1d8438c99a97fe805e09e50947afa34a261.jpg"
+        }
+      ],
+      "type": "Kushiage and kushikatsu restaurant",
+      "categories": [
+        "Kushiage and kushikatsu restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kushikatsu Marufuji, 3 Chome-5-1 Higashinodamachi, Miyakojima Ward, Osaka, 534-0024, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6975676,135.5338461,3a,90y,53.23h,102.02t/data=!3m7!1e1!3m5!1s3RYmILmUBiwKvA1S-PvyAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.015506688614181%26panoid%3D3RYmILmUBiwKvA1S-PvyAA%26yaw%3D53.23462395478131!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This kushikatsu restaurant near Kyobashi appears in episode 6, capturing the Osaka street-food culture that flavors the everyday life of Yaichi and the people around him."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHTg6TUl9AWARMwGZxr5izjQ",
+      "name": "Enmei-yu",
+      "localName": "延命湯",
+      "coordinates": {
+        "lat": 35.112111,
+        "lng": 136.194782
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41b53717-176d-4024-af8b-a019b86d9ab3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41b53717-176d-4024-af8b-a019b86d9ab3.webp"
+        }
+      ],
+      "type": "Sento",
+      "categories": [
+        "Sento"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enmei-yu, 11-9 Yokaichihonmachi, Higashiomi, Shiga 527-0012, Japan",
+      "city": "Higashiomi",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6961273,135.4863956,3a,90y,313.45h,94.52t/data=!3m7!1e1!3m5!1s0BSrNXM4tqpJMdL4boHxLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.524111633263658%26panoid%3D0BSrNXM4tqpJMdL4boHxLw%26yaw%3D313.44683614371695!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrRQUVgDnAGARTFxgXcGr3vY",
+      "name": "Umeda Go Center",
+      "localName": "梅田囲碁センター",
+      "coordinates": {
+        "lat": 34.7020033,
+        "lng": 135.5026134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebd28b0e-1a35-4830-8805-5c630c8d96c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebd28b0e-1a35-4830-8805-5c630c8d96c4.webp"
+        },
+        {
+          "url": "media/cached-image_c8e9ccd0a461951feec393c6e482c031a239f37a8888fe14d9dd73e76d4bf019.jpg"
+        }
+      ],
+      "type": "Go club",
+      "categories": [
+        "Go club"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Umeda Go Center, 日野商事ビル 6-9 Taiyujicho, Kita Ward, Osaka, 530-0051, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7021164,135.5026474,3a,75y,48.41h,119.83t/data=!3m7!1e1!3m5!1sSSS8JRGjfwWFIJuk9qozaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-29.831894752198366%26panoid%3DSSS8JRGjfwWFIJuk9qozaA%26yaw%3D48.40686414154858!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Umeda Go Center in Osaka appears in episode 4, referenced as a hub of board-game culture in the city and used to draw parallels between go and shogi as serious competitive pursuits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzRBvr2DnAGARhuOO7UxB0o0",
+      "name": "Police Station Shinsekai Police Box",
+      "localName": "大阪府 浪速警察署",
+      "coordinates": {
+        "lat": 34.6546838,
+        "lng": 135.50592699999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/208ccd7e-60e2-43fb-8e80-0679725b7ed5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/208ccd7e-60e2-43fb-8e80-0679725b7ed5.webp"
+        },
+        {
+          "url": "media/cached-image_6557efdf4041c9d1fe2e71a7daf62286d7912f9dfde1c8d610333f0312552f98.jpg"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Naniwa Police Station, 5 Chome-5-11 Nipponbashi, Naniwa Ward, Osaka, 556-0005, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6491306,135.5058339,3a,90y,135.15h,84.69t/data=!3m7!1e1!3m5!1spn9kSHSZmpprSzwJ4g_3rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.309668681373765%26panoid%3Dpn9kSHSZmpprSzwJ4g_3rw%26yaw%3D135.14592707359046!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Naniwa Police Station near Shinsekai appears in episode 4, providing an Osaka civic landmark backdrop as events in the neighborhood surrounding Tsutenkaku spill into the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-5_CtYrdAGARtbanSXYA76Y",
+      "name": "Janjan-Yokocho (Nanyo-dori Shopping Street)",
+      "localName": "ジャンジャン横丁（南陽通商店街）",
+      "coordinates": {
+        "lat": 34.6493222,
+        "lng": 135.5058947
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba1bf057-e97a-4008-93b3-eef233b8a802.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba1bf057-e97a-4008-93b3-eef233b8a802.webp"
+        },
+        {
+          "url": "media/cached-image_ed06422c628926388222f9a5c83e7c19c903c8a4608daea7653daf62732371e9.jpg"
+        },
+        {
+          "url": "media/cached-image_76165cfdc22916e29902b39c4be9a03d395221e9073f51e3e8b2e9d60658bd99.jpg"
+        },
+        {
+          "url": "media/cached-image_e3acee2cf268b2e93f9b73af055f0e9349725f61adc814b447495f88b375b260.jpg"
+        },
+        {
+          "url": "media/cached-image_84c325ebf6a9daa3858767d2ae36c37effefb5f1aa19baa1dee2acd21d67ad42.jpg"
+        },
+        {
+          "url": "media/cached-image_4f32e3074eb97c3179b3378f5d4eb94b95c0f49af4e8dc5813f9a8a5803f0d17.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 3882,
+      "priceLevel": null,
+      "address": "Janjan-Yokocho (Nanyo-dori Shopping Street), 3 Chome-3 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6498075,135.5061034,3a,75y,174.58h,91.56t/data=!3m7!1e1!3m5!1s5KzziMeghK69IbG3dWlyxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.560353273941928%26panoid%3D5KzziMeghK69IbG3dWlyxw%26yaw%3D174.5767918466644!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This iconic covered alley in Shinsekai is visited in episode 4, its old-school Osaka shogi parlor culture making it a natural pilgrimage stop for fans connecting the anime's competitive spirit to the street's real history.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS_cu2WHmAGAR5I9yFGaBj-s",
+      "name": "Senbero Yuji",
+      "localName": "せんべろゆうじ",
+      "coordinates": {
+        "lat": 34.698608799999995,
+        "lng": 135.4873108
+      },
+      "image": "https://cdn.animepilgrimage.com/places/937a8250-b9b1-4424-baef-d411cafb9198.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/937a8250-b9b1-4424-baef-d411cafb9198.webp"
+        },
+        {
+          "url": "media/cached-image_09c4491821d43eb90ee97b3a234dffe637ca6948a876beeabdfc406a7dde20b5.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Senbero Yuji, 6 Chome-3-８ Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6986237,135.4870993,3a,48.7y,89.13h,93.17t/data=!3m7!1e1!3m5!1sOtrgM-K9PFdhhlgBsC7XEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1664373544003865%26panoid%3DOtrgM-K9PFdhhlgBsC7XEg%26yaw%3D89.1254948568813!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Fukushima izakaya appears in episode 2 as a local watering hole that reflects the working-class neighborhood surrounding the Kansai Shogi Hall, where professional players and locals mingle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58vH32HmAGARw_J9KjIUlSs",
+      "name": "Kansai Shogi Hall shogi dojo",
+      "localName": "関西将棋会館",
+      "coordinates": {
+        "lat": 34.6989145,
+        "lng": 135.48736739999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd384773-dd31-4aec-95e3-e861e8699595.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd384773-dd31-4aec-95e3-e861e8699595.webp"
+        },
+        {
+          "url": "media/cached-image_6daf5c052e80c844023a648f0e01f869dfad7112f0af27f50ea7f94d15bed9ec.jpg"
+        }
+      ],
+      "type": "Shogi lesson",
+      "categories": [
+        "Shogi lesson"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kansai Shogi Hall shogi dojo, 6 Chome-3-11 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6988604,135.4871184,3a,75y,93.96h,93.73t/data=!3m7!1e1!3m5!1syccS7DtMaxaTZGgD3OwE4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7297498882435036%26panoid%3DyccS7DtMaxaTZGgD3OwE4Q%26yaw%3D93.96424915267673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The real Kansai Shogi Hall in Fukushima, Osaka is the professional home of Yaichi Kuzuryu as a Kansai-based title holder and appears in episode 1 as the anchor location of the entire series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-ryuos-work-is-never-done_16",
+      "name": "Kurata Printing Co.",
+      "localName": "倉田印刷株式会社",
+      "coordinates": {
+        "lat": 34.69844,
+        "lng": 135.4877
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0ed9aad-1c9b-4e57-a690-1990e5758a42.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0ed9aad-1c9b-4e57-a690-1990e5758a42.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.6984901,135.4876468,3a,90y,180.86h,92.71t/data=!3m7!1e1!3m5!1s45RDShReu2mcQa9SIlvv-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.714906669549862%26panoid%3D45RDShReu2mcQa9SIlvv-Q%26yaw%3D180.85928106936524!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This printing company building in Fukushima appears in episode 1 as a neighborhood structure visible from the streets around the Kansai Shogi Hall, part of the authentic streetscape recreated in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC6fjlY3mAGARSshZ6CLIrhs",
+      "name": "Osaka Station",
+      "localName": "大阪駅",
+      "coordinates": {
+        "lat": 34.7024854,
+        "lng": 135.4959506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c697cb56-1fff-4f07-ac58-978bf41028d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c697cb56-1fff-4f07-ac58-978bf41028d0.webp"
+        },
+        {
+          "url": "media/cached-image_eeadf08811ad608930027f08e038a13b651b745a5caa48ceca258c2cdc8c75f3.jpg"
+        },
+        {
+          "url": "media/cached-image_669adb3fe470a7a738f5628bf587023b36d69f46ff2dfe6b0cbc559a9ff2ab8e.jpg"
+        },
+        {
+          "url": "media/cached-image_b281d3919874e4a8cfbe13c5c4f8d99da1bbe0f5d2c24bae995a3a6afebfb6e6.jpg"
+        },
+        {
+          "url": "media/cached-image_80a7647d825e14556d9d4e99d04cfb157921552c75de9483b4cd70d1b9456145.jpg"
+        },
+        {
+          "url": "media/cached-image_d40c64806f609ddc6ecd4daed15b17a8a762dec67a67c20cdbb0e967618a473a.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 18285,
+      "priceLevel": null,
+      "address": "Osaka Station, 3 Chome-1-1 Umeda, Kita Ward, Osaka, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7029155,135.4977121,3a,90y,241.67h,94.45t/data=!3m7!1e1!3m5!1syC9bynDXq47Gs3fES28-XQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.448976818232708%26panoid%3DyC9bynDXq47Gs3fES28-XQ%26yaw%3D241.6728639354222!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Osaka Station appears in the opening sequence as an establishing landmark anchoring the series in Osaka, the city where Yaichi's professional shogi career is rooted."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
+      "name": "Tsutenkaku",
+      "localName": "通天閣",
+      "coordinates": {
+        "lat": 34.6524992,
+        "lng": 135.5063058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aefbd5b7-aa54-4e20-ba23-4cfc33c831a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aefbd5b7-aa54-4e20-ba23-4cfc33c831a9.webp"
+        },
+        {
+          "url": "media/cached-image_554bb827c6539672f2637caee2375182f4204b6813d9a415a2f71944c24013cd.jpg"
+        },
+        {
+          "url": "media/cached-image_7bb5dc9bedd572e9d4a860d788a2fa09aabde1e1a9749142510681af585c0e81.jpg"
+        },
+        {
+          "url": "media/cached-image_485a23ce8127341b679bb644cbbf3e694fe63c29e17f2e245cb5cc04e7a6a586.jpg"
+        },
+        {
+          "url": "media/cached-image_7360c75f712bf48ab71710baf800a844741d8c345f66a3bbcba0032144833194.jpg"
+        },
+        {
+          "url": "media/cached-image_914c8a71310d71505e1221cbc781ff05275b0b44a760dfa8261a85e46147f247.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.1,
+      "reviewCount": 588,
+      "priceLevel": null,
+      "address": "Tsutenkaku, 1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pH7qKkcojFG65KyM6",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Tsutenkaku, the iconic Osaka tower in Shinsekai, is featured in the opening as a skyline symbol of the city's working-class identity, tying the anime's Osaka pride to one of its most recognizable landmarks.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
+      "name": "Osaka Castle",
+      "localName": "大阪城",
+      "coordinates": {
+        "lat": 34.6872571,
+        "lng": 135.5258546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8a69a914-44af-40a8-ba1b-b5411bb019b4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8a69a914-44af-40a8-ba1b-b5411bb019b4.webp"
+        },
+        {
+          "url": "media/cached-image_b477095b2654e3257c2f92293fdf4044861a6dfb32c6c704940f2e903997015a.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osaka Castle, 1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bH1q7FnDQSKG2o4M7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Osaka Castle appears in episode 12 as a backdrop marking a climactic moment in the story, its grandeur underscoring the high stakes of the shogi title matches at the heart of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoZJYJQADAWARtZq7AVo0hhY",
+      "name": "Kansai Shogi Hall shogi dojo",
+      "localName": "関西将棋会館",
+      "coordinates": {
+        "lat": 34.8506922,
+        "lng": 135.614472
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e4cf8a2e-0b7e-4059-b0a7-0ea78633e2e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e4cf8a2e-0b7e-4059-b0a7-0ea78633e2e7.webp"
+        },
+        {
+          "url": "media/cached-image_24434119ae10a9a18fd70b3d2c167c5b5dd3f5df0f5ad8e1af36cf3e46d435ac.jpg"
+        }
+      ],
+      "type": "Cultural association",
+      "categories": [
+        "Cultural association"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒569-1123 Osaka, Takatsuki, Akutagawacho, 2 Chome−2−6 関西将棋会館",
+      "city": "Takatsuki",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9toibt35xdZioVzj9",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The new Kansai Shogi Hall in Takatsuki, Osaka Prefecture appears in the opening sequence as the institutional home of Kansai-based professional shogi, establishing the organizational world Yaichi inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsRZneb6MGGARJhdlem3RTQc",
+      "name": "Shogi Hall",
+      "localName": "日本将棋連盟本部 将棋会館",
+      "coordinates": {
+        "lat": 35.6772529,
+        "lng": 139.7094664
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dac77994-ef1b-4c1f-8b14-b77472aa79b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dac77994-ef1b-4c1f-8b14-b77472aa79b7.webp"
+        }
+      ],
+      "type": "Shogi lesson",
+      "categories": [
+        "Shogi lesson"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shogi Hall, 2 Chome-39-9 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YbXGXLDFxzx2pmVZA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Japan Shogi Federation headquarters in Sendagaya appears in episode 8 as the site of high-stakes title matches in Tokyo, where Yaichi must defend his Ryuou title before an audience of the shogi world's elite.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmUOGYr6MGGARQsQR0O1SPbo",
+      "name": "Hatonomori Hachiman Shrine",
+      "localName": "鳩森八幡神社",
+      "coordinates": {
+        "lat": 35.6778644,
+        "lng": 139.7095822
+      },
+      "image": "https://cdn.animepilgrimage.com/places/093b04aa-aa21-4302-9e57-05d981841207.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/093b04aa-aa21-4302-9e57-05d981841207.webp"
+        },
+        {
+          "url": "media/cached-image_b0e3bcb4172d21b69409bb5136d015c760f2dc81796714234229c975b162bff3.jpg"
+        },
+        {
+          "url": "media/cached-image_1a16144f53d45d8d724e2204f8e826e20006d9b3990042577e267681284e8a21.jpg"
+        },
+        {
+          "url": "media/cached-image_6e7a1d48898fada28dc033940718289fd85226eb09d3ddaef7f66042f89a63a5.jpg"
+        },
+        {
+          "url": "media/cached-image_44de21a25fbf2b62168d6c4b0b232d0e1ab33e692f98ae35863f282944dd9a36.jpg"
+        },
+        {
+          "url": "media/cached-image_0219e4dd34943f9c251c0663c04e0cdaf061093626127e61f28495a3aa4a19c9.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2552,
+      "priceLevel": null,
+      "address": "Hatonomori Hachiman Shrine, 1 Chome-1-24 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6784312,139.7096587,3a,90y,217.73h,98.8t/data=!3m7!1e1!3m5!1sRwcfvtpFuoYPdKwNvHrYmg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.80030027182795%26panoid%3DRwcfvtpFuoYPdKwNvHrYmg%26yaw%3D217.7280003921926!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Hatonomori Hachiman Shrine in Sendagaya appears in episode 8, located steps from the Shogi Hall, and is visited in a quiet scene that lets characters reflect before or after the tension of a critical match."
+    }
+  ]
+}

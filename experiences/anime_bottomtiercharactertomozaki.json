@@ -1,0 +1,1860 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Bottom-tier Character Tomozaki",
+  "slug": "bottom-tier-character-tomozaki",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_b6531cfcda4b57cd4f0f9c47c7df9b89921ed40625ab3ea4bf10fc65faf5c5a6.webp",
+  "image": "media/cached-image_b6531cfcda4b57cd4f0f9c47c7df9b89921ed40625ab3ea4bf10fc65faf5c5a6.webp",
+  "banner": null,
+  "primaryLocation": "Saitama, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.99418163799999,
+    "lng": 139.585442496
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Bottom-tier Character Tomozaki"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJpWpKPtOJGGARcpEvh7g8J9c",
+      "name": "My Basket Yono Hommachi Ekihigashi Shop",
+      "localName": "まいばすけっと 東日本橋１丁目店",
+      "coordinates": {
+        "lat": 35.6904069,
+        "lng": 139.7849607
+      },
+      "image": null,
+      "images": [],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "My Basket Higashinihonbashi 1-chome Shop, 第二ビル, ５ 京王, 1 Chome-1-1 Higashinihonbashi, Chuo City, Tokyo 103-0004, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/U4PGr5tGkTf2kgU28",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKfdulKHBGGARA53PwX324ZY",
+      "name": "TEPCO Power Grid Yono substation",
+      "localName": "東京電力パワーグリッド（株）与野変電所",
+      "coordinates": {
+        "lat": 35.8880292,
+        "lng": 139.6287317
+      },
+      "image": "https://cdn.animepilgrimage.com/places/052bf5ee-73a1-4104-901d-38217137eb17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/052bf5ee-73a1-4104-901d-38217137eb17.webp"
+        },
+        {
+          "url": "media/cached-image_cfb7b8ebec50cd3bbef4f39273b0cde9640b42edb428df5969191b74c1d6f2f0.jpg"
+        }
+      ],
+      "type": "Electrical substation",
+      "categories": [
+        "Electrical substation"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TEPCO Power Grid Yono substation, 4 Chome-21 Shimoochiai, Chuo Ward, Saitama, 338-0002, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/He5RJsnYovJoup9t9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The distinctive TEPCO substation building in Yono appears in Episode 2 background shots of the Kita-Yono area, grounding the anime's slice-of-life aesthetic in the real Saitama suburbs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-ecEKX_BGGARfdCF5ncrxpY",
+      "name": "Gong Cha Arshe Omiya Store",
+      "localName": "ゴンチャ 大宮東口店 (Gong cha)",
+      "coordinates": {
+        "lat": 35.9074472,
+        "lng": 139.6249928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd815dde-a695-4349-9617-ddc88fc94f2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd815dde-a695-4349-9617-ddc88fc94f2e.webp"
+        },
+        {
+          "url": "media/cached-image_2af0b0081b76fb7bc0594512c9d2fa5998937388e0d11c9bf89bc47e3b40e135.jpg"
+        }
+      ],
+      "type": "Bubble tea store",
+      "categories": [
+        "Bubble tea store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gong Cha, 第三やすなビル 1 Chome-94 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Zj2isCNoJE1nMb6r8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Gong Cha bubble tea shop near Omiya Station's East Exit appears in Episode 9 when characters stop for drinks during a social outing, capturing the casual cafe culture woven through the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfaSg8be4GGARZbJKA34_BIA",
+      "name": "Gusto Higashi-Iwatsuki",
+      "localName": "ガスト 東岩槻店",
+      "coordinates": {
+        "lat": 35.9657397,
+        "lng": 139.7107442
+      },
+      "image": "https://cdn.animepilgrimage.com/places/541b83f5-59e1-4a43-8798-3252a959f010.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/541b83f5-59e1-4a43-8798-3252a959f010.webp"
+        },
+        {
+          "url": "media/cached-image_12797a0ea8b5f6da9addc40cd98e04429a8e64806ae22a55b45ee54ebc918f01.jpg"
+        },
+        {
+          "url": "media/cached-image_512b3e929ddcded8acedc8c9d4314f3970dff161847a38620473fa515005a671.jpg"
+        },
+        {
+          "url": "media/cached-image_3bed5ccbaf8a1408e7c301eefab29206cc3c147c968b5c9f52b7c10b40374cc1.jpg"
+        },
+        {
+          "url": "media/cached-image_165a065bfe995aba3a6d9d79689953c62dc7de162a4119273551bf80849ce5f0.jpg"
+        },
+        {
+          "url": "media/cached-image_773fccad183bd36aa523a89837d23d9fd84150ae92ce38fc99d074abaee0bcb0.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ガスト 東岩槻店, 2 Chome-7-1 Higashiiwatsuki, Iwatsuki Ward, Saitama, 339-0005, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XDLqi29gzDvQSWop8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Gusto family restaurant in Higashi-Iwatsuki is used in Episode 8 as a casual dining spot where characters meet and talk, reflecting the everyday hangout culture central to the story's social dynamics.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwYRQcla5GGARIWnkpzHBWV0",
+      "name": "Omotejionji Danchi Maeno Park",
+      "localName": "表慈恩寺団地 前の公園",
+      "coordinates": {
+        "lat": 35.9689216,
+        "lng": 139.7127135
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c637d28b-8f12-413c-84b1-58d22081d246.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c637d28b-8f12-413c-84b1-58d22081d246.webp"
+        },
+        {
+          "url": "media/cached-image_e48b9c43303ac816550ab733063feb9361d95797d34bec485c795a8ec0ae37d1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omotejionji Danchi Maeno Park, 556-1 Omotejionji, Iwatsuki Ward, Saitama, 339-0008, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HGuxfaY8GsL7Ak5W6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small park in front of the Omotejionji housing complex near Higashi-Iwatsuki appears in Episode 8 as a quiet outdoor space used for character conversations in the Iwatsuki residential area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOwqEg3-GGGARoC7q0fBb8uQ",
+      "name": "Espoir Iwatsuki",
+      "localName": "Espoir",
+      "coordinates": {
+        "lat": 35.736522099999995,
+        "lng": 139.89342919999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc408212-0215-4292-885e-81ad5aa5c782.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc408212-0215-4292-885e-81ad5aa5c782.webp"
+        },
+        {
+          "url": "media/cached-image_2c89b2a0c4c900324aeedc5c030d8fba60b048bbfc87bf66779e902239dc2e9b.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒133-0051 Tokyo, Edogawa City, Kitakoiwa, 3-chōme−15 Espoir",
+      "city": "Edogawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VhJ7L3z2wjk1Vjrz7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Espoir, a building in Edogawa/Iwatsuki area, appears in Episode 8 background shots as part of the residential scenery around Tomozaki's neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHVwyhqEpC18Rf_rOkEhWeJs",
+      "name": "My Basket Yono Hommachi Ekihigashi Shop",
+      "localName": "まいばすけっと北5条西10丁目店",
+      "coordinates": {
+        "lat": 43.0662562,
+        "lng": 141.33969489999998
+      },
+      "image": null,
+      "images": [],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "My Basket, 10 Chome-５番地１ Kita 5 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0005, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TxyPAbEMrfRWK98Y8",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP95t1aZgAGARtnVU-VDuXz8",
+      "name": "Nishitani Park",
+      "localName": "兵庫県立宝塚西谷の森公園",
+      "coordinates": {
+        "lat": 34.8982339,
+        "lng": 135.2959469
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6f4ff8e4-0ffc-4278-8e45-e71ec561e2ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6f4ff8e4-0ffc-4278-8e45-e71ec561e2ff.webp"
+        },
+        {
+          "url": "media/cached-image_a721f4baa509eb16d5be4732772b3875569886deaccc593b7a1c5988d56eb319.jpg"
+        },
+        {
+          "url": "media/cached-image_d686b75a5a78b0de5155aee1609a03c3b07a8bea49ea3856ecda85d5e0c0a6d2.jpg"
+        },
+        {
+          "url": "media/cached-image_45764faef2d22192f6ba508e9b965b91204ad16eb9d871679ad21d1c1a70d1e6.jpg"
+        },
+        {
+          "url": "media/cached-image_801a8bba6b0cb908ab62ce0cfb3d0c80303e6f916f33e8f28457f09c4c90e3d8.jpg"
+        },
+        {
+          "url": "media/cached-image_c59472d9809ad2cd4f356291d48d846d1af01354ef4d766eadf45922512a1b51.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 16,
+      "priceLevel": null,
+      "address": "Hyogo Prefectural Takarazuka Nishitani no Mori Park, Hoyodani-14-1 Sakaino, Takarazuka, Hyogo 669-1222, Japan",
+      "city": "Takarazuka",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KSvSVjMiCv8Bt5cZ6",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Hyogo Prefectural Nishitani no Mori Park in Takarazuka appears in Episode 6 during a group outing into nature, where the characters share outdoor experiences that deepen their social bonds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJocQD50LBGGARPKXH8gCdHSw",
+      "name": "Bic Camera Omiya Nishiguchi Sogo",
+      "localName": "ビックカメラ 大宮西口そごう店",
+      "coordinates": {
+        "lat": 35.904401899999996,
+        "lng": 139.62098269999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd4483bf-2888-47ed-b3a5-2b1fd69cb090.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd4483bf-2888-47ed-b3a5-2b1fd69cb090.webp"
+        },
+        {
+          "url": "media/cached-image_e6cc3f41565c5a2ed3b96227ace055f10c16656b8e4d33430058e10e0636d25d.jpg"
+        },
+        {
+          "url": "media/cached-image_9c70fb65b93bf42542edeaf691bc6af10937629cfd07ff8347334bdafde25493.jpg"
+        },
+        {
+          "url": "media/cached-image_46bd11965e662c360455763eb5638a8a7a4cc429f7af2b2ea18d66574908caf1.jpg"
+        },
+        {
+          "url": "media/cached-image_8adbe5876f921eb781c0bb768e7b81466624ac58f33790e963f877b17e361802.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 3.6,
+      "reviewCount": 145,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0854 Saitama, Omiya Ward, Sakuragicho, 1 Chome−8−4 Bic Camera Omiya Nishiguchi Sogo, そごう大宮店 パーキング館 1F～3F",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/V3C4DJKkwWa8dLNJ6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Bic Camera at Omiya Sogo appears in Episode 5 when Tomozaki and friends visit the electronics and department store area near Omiya Station, capturing everyday youth activities in the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4yHVmEPBGGARS-MIl52AQcc",
+      "name": "Omiya Ward",
+      "localName": "大宮区",
+      "coordinates": {
+        "lat": 35.908649,
+        "lng": 139.6248081
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35565f8f-bbcc-4252-b83b-82ca5c48a11e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35565f8f-bbcc-4252-b83b-82ca5c48a11e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Omiya Ward, Saitama, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1DF7qwwDCCqRRqEAA",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Omiya Ward in Saitama is the central setting for the series, and Episode 5 uses its recognizable streets and landmarks as Tomozaki works through Hinami's social challenges in familiar local surroundings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJezfO4InBGGARdURdRQvzmNg",
+      "name": "Lumine Omiya Okujo Teien Green Peace Garden",
+      "localName": "ルミネ大宮屋上庭園 グリーンピースガーデン",
+      "coordinates": {
+        "lat": 35.906303,
+        "lng": 139.624438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0af7709b-c863-439f-9e6e-49cd582040d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0af7709b-c863-439f-9e6e-49cd582040d1.webp"
+        }
+      ],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lumine Omiyaokujoteien Green Peace Garden, ルミネ大宮 LUMINE2 4F 630 Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/f2vyX5DAvNkvvDbN8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The rooftop garden atop Lumine Omiya appears in Episode 5 as an elevated quiet space in the shopping complex, used for reflective moments between characters above the busy station area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_11",
+      "name": "fino",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.88952,
+        "lng": 139.62964
+      },
+      "image": "https://cdn.animepilgrimage.com/places/982e53ee-29db-4cbf-bfb4-539d8870fc28.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/982e53ee-29db-4cbf-bfb4-539d8870fc28.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/hhc3kCEBQYPs1SoP9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This shop near Kita-Yono appears in Episode 4 as a background location in the Saitama shopping area scenes during Tomozaki's ongoing social-skill training missions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_12",
+      "name": "Auto Shop Quick",
+      "localName": "オートショップQuick",
+      "coordinates": {
+        "lat": 35.96709,
+        "lng": 139.71265
+      },
+      "image": "https://cdn.animepilgrimage.com/places/909e6a4e-66ea-403d-bf5c-bb414fe24d8e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/909e6a4e-66ea-403d-bf5c-bb414fe24d8e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ktsC1ebYYu2cteMu6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This auto shop near the Hanazumi/Higashi-Iwatsuki area appears in Episode 4 street exterior shots, part of the quiet residential roadside scenery around Tomozaki's neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx2YZ6Mm4GGARy3B8HbHjsNI",
+      "name": "Higashi-Iwatsuki Station",
+      "localName": "東岩槻駅",
+      "coordinates": {
+        "lat": 35.9633724,
+        "lng": 139.7122721
+      },
+      "image": "https://cdn.animepilgrimage.com/places/65f24463-173f-4b02-bfb4-787954f628da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/65f24463-173f-4b02-bfb4-787954f628da.webp"
+        },
+        {
+          "url": "media/cached-image_c4216216be1e457fd61c87fab75149ab33728737e21f85cb5d3b4129313ddd89.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, Saitama, Higashi-Iwatsuki Station, さいたま市岩槻区東岩槻1丁目12−1",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ARzdbkywcXoP5st68",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Higashi-Iwatsuki Station on the Tobu Urban Park Line is a key location in Episode 3, serving as the station Tomozaki uses daily and a meeting spot that grounds the story in real Saitama commuter life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSTFRykPBGGARTAoCqWLlZrM",
+      "name": "BEAMS OMIYA",
+      "localName": "ビームス 大宮",
+      "coordinates": {
+        "lat": 35.9061474,
+        "lng": 139.6241337
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba8065d6-a46b-4f0f-a69d-062051b2db54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba8065d6-a46b-4f0f-a69d-062051b2db54.webp"
+        },
+        {
+          "url": "media/cached-image_0a768c92b1f292ff860ca7a9b1109a353c51d460472b0e164684fbdf37c2d806.jpg"
+        },
+        {
+          "url": "media/cached-image_2bb23f5caab5283902a1a526b656da1a3e6e8ab711b34f29a883c80bd9a920c3.jpg"
+        },
+        {
+          "url": "media/cached-image_7fa7b8ee3ecdd1962eeaaced7a72be6aa8dab6ecbf3948ad9b69e89d31ab74c7.jpg"
+        },
+        {
+          "url": "media/cached-image_de3119af9fb510bc545f1557f788cf97d80c2dd441abb9dc6fe7e681362dd6d1.jpg"
+        },
+        {
+          "url": "media/cached-image_61574f95954479df2a58586cdcd851891db7a01261c2a31ff6b10d55a8ed4340.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "BEAMS OMIYA, ルミネ大宮ルミネ, 2 2F, 630 Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aKpiW85XBSwshYMA7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "BEAMS in Lumine Omiya is featured in Episode 3 as the fashion store where Tomozaki gets a style makeover as part of Hinami's plan to improve his appearance and confidence.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_15",
+      "name": "Keyaki Pharmacy",
+      "localName": "ケヤキ薬局",
+      "coordinates": {
+        "lat": 35.88242,
+        "lng": 139.6291
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5dfc901a-f992-409f-b4eb-fdd2ca8da75b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5dfc901a-f992-409f-b4eb-fdd2ca8da75b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Am4ygv7RpuSiywu46",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small pharmacy near Kita-Yono Station appears in Episode 2 street scenes as Tomozaki navigates the local neighborhood during his early social-skills training with Hinami."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTfaVEp_BGGARBkSLNg4mSbg",
+      "name": "Shimoochiai Hikawa Shrine",
+      "localName": "Shimochiaihikawa Shrine",
+      "coordinates": {
+        "lat": 35.8843779,
+        "lng": 139.6285417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5d22615-41c3-4e4b-86d9-8d415099df63.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5d22615-41c3-4e4b-86d9-8d415099df63.webp"
+        },
+        {
+          "url": "media/cached-image_e162d2fc4dc889bc59f70f39f3291e566376a4c39eb13c190738183d3bab4b28.jpg"
+        },
+        {
+          "url": "media/cached-image_d03b42003baaa80cbe6dee2b2734511606b31a5a1b2d3d121b7d641e4541e164.jpg"
+        },
+        {
+          "url": "media/cached-image_7b59c01b3991781511d6c4b8812c185256c0d49241be0d829b207f269940b119.jpg"
+        },
+        {
+          "url": "media/cached-image_e0aafd3cb876ef82590b48ac41e06a10c17c104ef2ce0cfd9da91b345575e551.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 17,
+      "priceLevel": null,
+      "address": "Shinjuku City, Tokyo 161-0033",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eHxWHNQce4Lbzfxt5",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This local Hikawa Shrine in the Ochiai district of Saitama appears in Episode 2, providing a quiet neighborhood landmark in the backdrop of Tomozaki and Hinami's walking conversations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx1e971eLGGARum8w_tnpFwI",
+      "name": "Hachiko Memorial Statue",
+      "localName": "忠犬ハチ公像",
+      "coordinates": {
+        "lat": 35.6590566,
+        "lng": 139.700581
+      },
+      "image": "https://cdn.animepilgrimage.com/places/88379c20-dc75-4382-8450-46198905a2a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/88379c20-dc75-4382-8450-46198905a2a3.webp"
+        },
+        {
+          "url": "media/cached-image_9aeafde992cfe7812001137e44a618e0b3cc407c45a3313f58dba98cedc13a31.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6590566,139.700581,3a,75y,276.7h,87.88t/data=!3m7!1e1!3m5!1sAF1QipM-dvMecHDOgo4umvODD5qNQVT2m5WdYNvyEvLI!2e10!3e11!7i3584!8i1792?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The iconic Hachiko statue at Shibuya appears in Episode 9 as a meeting landmark when Tomozaki and classmates venture into Tokyo, one of the series' more recognizable real-world pilgrimage moments.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW1jvW1nBGGAR9RegCOjBitY",
+      "name": "The Alley - Lumine Omiya",
+      "localName": "THE ALLEY ルミネ大宮店",
+      "coordinates": {
+        "lat": 35.9064604,
+        "lng": 139.6226072
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d0db1d27-86dc-486f-b04e-eb315535a839.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d0db1d27-86dc-486f-b04e-eb315535a839.webp"
+        },
+        {
+          "url": "media/cached-image_68ada2ab24decf216c981d345fd51954670697f2b09e100a6a1030df7741993a.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The Alley - Lumine Omiya, ルミネ大宮 LUMINE2 1F 630 Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LQ2oKPJVH5eG197c6",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "THE ALLEY tapioca drink shop in Lumine Omiya 1F is shown in the opening sequence, representing the trendy Omiya shopping area that frames the characters' social lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_19",
+      "name": "Hanazumi No. 1 Parking Lot",
+      "localName": "花積第一駐車場",
+      "coordinates": {
+        "lat": 35.96866,
+        "lng": 139.71354
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e947b98-7db0-40a2-9438-392fbb2f101b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e947b98-7db0-40a2-9438-392fbb2f101b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/jqu4gQEiosfWaUbd9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This parking lot in the Hanazumi area near Higashi-Iwatsuki appears in Episode 1 exterior shots, part of the quiet residential backdrop that defines Tomozaki's everyday starting point."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_20",
+      "name": "Auto Shop Quick",
+      "localName": "オートショップQuick",
+      "coordinates": {
+        "lat": 35.96742,
+        "lng": 139.71304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4dc5778e-077b-434a-b845-2afce4899fe6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4dc5778e-077b-434a-b845-2afce4899fe6.webp"
+        },
+        {
+          "url": "media/cached-image_f63d83d157a18e042a9271bf991a398d86f212671b3b11cb94c7e32d802132ca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/gZNCXtYWNPfPbgRD6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This auto shop near Higashi-Iwatsuki appears in Episode 4 background shots, a roadside business that fans recognize as part of the real Saitama streetscape faithfully recreated in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJed5MGbi4GGARWPNw-B32YZc",
+      "name": "Drugstore Seki Higashi-Iwatsuki",
+      "localName": "ドラッグストアセキ 東岩槻店",
+      "coordinates": {
+        "lat": 35.9662517,
+        "lng": 139.710644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/85455c38-5fee-4cf5-b732-986655fbd6c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/85455c38-5fee-4cf5-b732-986655fbd6c7.webp"
+        },
+        {
+          "url": "media/cached-image_32988dc9ec1a1ce81482679294f98896aee44a76582a98bf515f8ad4c3f03942.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒339-0007 Saitama, Iwatsuki Ward, Suwa, 1 Chome−２−3 ドラッグストアセキ 東岩槻店",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TWG2ayDg7UHRyrLc6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The streets near this drugstore appear in Episode 1 as part of the Higashi-Iwatsuki neighborhood backdrop where Tomozaki lives, establishing the ordinary suburban setting he begins to navigate on his self-improvement quest."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVaFNMUzBGGARFj-1fwXGis0",
+      "name": "Sundrug Omiya East Exit Station Store",
+      "localName": "サンドラッグ 大宮東口駅前店",
+      "coordinates": {
+        "lat": 35.907542899999996,
+        "lng": 139.6249722
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3f83148-bb7b-4204-8ad1-6cdd6e9ad8c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3f83148-bb7b-4204-8ad1-6cdd6e9ad8c9.webp"
+        },
+        {
+          "url": "media/cached-image_3e1ff0de5de41ee9880d26eac16705d5bd6e5e0b8d87dde0e9d9a4bce2f42baf.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0802 Saitama, Omiya Ward, Miyacho, 1-2 サンドラッグ 大宮東口駅前店",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wfJQtbQabn5GsFzA6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This drugstore near Omiya Station's east exit appears in Episode 1 street scenes, part of the Omiya area that becomes Tomozaki and Hinami's training ground for social skills missions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKaRJXEHBGGARDniQPUO5A0Q",
+      "name": "Ministop Omiya East Exit Store",
+      "localName": "ミニストップ 大宮東口店",
+      "coordinates": {
+        "lat": 35.907828599999995,
+        "lng": 139.6251958
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d59ee69a-1575-4173-9fa9-6b92ab7ab014.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d59ee69a-1575-4173-9fa9-6b92ab7ab014.webp"
+        },
+        {
+          "url": "media/cached-image_537ce4fbc1cb734847b12e4ec0030f8c5a5530ddafb116a216199cd465b8272e.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ministop, 1 Chome-59 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7YKEorYnBrgYCxRJA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This convenience store near Omiya Station's east exit is featured in Episode 1 street-level scenes around the hub area where Tomozaki begins executing Hinami's social-improvement missions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9TVagUHBGGAR1gIE1e7hN-I",
+      "name": "Omiya Eki Higashiguchi",
+      "localName": "大宮駅東口",
+      "coordinates": {
+        "lat": 35.906268,
+        "lng": 139.6252097
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3358f46f-96eb-415a-973d-aed583757f42.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3358f46f-96eb-415a-973d-aed583757f42.webp"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omiya Eki Higashiguchi, 1-chōme Daimonchō, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1vmq1HwyN4CzSP7B9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Omiya Station's East Exit plaza is a recurring landmark in the series, appearing in Episode 2 as a meeting and transit point for Tomozaki and classmates during his social skill missions.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_25",
+      "name": "Hanazumi Tanaka Parking Lot",
+      "localName": "花積田中駐車場",
+      "coordinates": {
+        "lat": 35.97,
+        "lng": 139.71274
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e802ebfe-a03e-44fd-a01e-5b03d972d411.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e802ebfe-a03e-44fd-a01e-5b03d972d411.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ibsoU6Z4wj2Tsyqz9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small parking lot in the Hanazumi district features in Episode 2 exterior scenes near Tomozaki's home area, part of the understated neighborhood geography the anime faithfully recreates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLUD93k_BGGAR7fLfFLHIr3M",
+      "name": "Alusa Kita-Yono Porte 29",
+      "localName": "アルーサ北与野ポルテ29",
+      "coordinates": {
+        "lat": 35.8896545,
+        "lng": 139.6284216
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45b3c8c0-fcbb-4dbb-b5b2-e6a13348b899.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45b3c8c0-fcbb-4dbb-b5b2-e6a13348b899.webp"
+        },
+        {
+          "url": "media/cached-image_141ef5cf09a9594a6db683a3af422037250d264870ef4a72024e86ee65767c49.jpg"
+        },
+        {
+          "url": "media/cached-image_4fd2716e2c9aa4353ebea005fa452bf658d9ad8af42cdc2f546c4a53cbe2102a.jpg"
+        },
+        {
+          "url": "media/cached-image_2e184c081540985805f3d343a4d39a7a4f3e131375e3493e3fa09ca566e50749.jpg"
+        },
+        {
+          "url": "media/cached-image_ca5994b3ba657c643ad792938369b6bdba1cbfbc6a115ad0cd6bf79205d9a40a.jpg"
+        },
+        {
+          "url": "media/cached-image_d74c61c079fd838c97a6872d9b81fe9cd290ff85853fe57a3c44c86d724eb35e.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 3.4,
+      "reviewCount": 166,
+      "priceLevel": null,
+      "address": "Japan, 〒338-0001 Saitama, Chuo Ward, Kamiochiai, 2 Chome−2−11 アルーサ北与野ポルテ29",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dQ4Lf2F9Jk4uuYcJA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This residential high-rise near Kita-Yono Station appears in Episode 2 background shots, part of the recognizable Saitama cityscape that frames Tomozaki's daily commute and growth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG3ZCBXXBGGAR6X1G5ItbS4A",
+      "name": "Kamiochiai Orthopaedic Surgeon and Internal Medicine",
+      "localName": "上落合整形外科・内科",
+      "coordinates": {
+        "lat": 35.8891965,
+        "lng": 139.6279952
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0025fd8c-d6ed-4229-a2b0-df77e4ff4e2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0025fd8c-d6ed-4229-a2b0-df77e4ff4e2e.webp"
+        },
+        {
+          "url": "media/cached-image_0e69f7c4910583a1a164c3ffbe1d974bad7503a4a09f417b9475074c2b1ce406.jpg"
+        }
+      ],
+      "type": "Orthopedic surgeon",
+      "categories": [
+        "Orthopedic surgeon"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamiochiai Orthopaedic Surgeon and Internal Medicine, 2 Chome-11-28 Kamiochiai, Chuo Ward, Saitama, 338-0001, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kPeV28bUnid6KvHg7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This clinic near Kita-Yono Station appears in Episode 2 street-level background shots depicting the everyday Saitama neighborhood where Tomozaki carries out Hinami's assigned social tasks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_28",
+      "name": "View Site Tower",
+      "localName": "びゅうサイトタワー",
+      "coordinates": {
+        "lat": 35.88845,
+        "lng": 139.62829
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4409aa4-2200-4aa8-b3a6-71bf40043440.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4409aa4-2200-4aa8-b3a6-71bf40043440.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/QM2zmX97DAngGyZF8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The View Site Tower residential building near Kita-Yono features in Episode 2 as one of the urban landmarks visible during Tomozaki and Hinami's neighborhood scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_29",
+      "name": "Palm Cottage V",
+      "localName": "パームコテージⅤ",
+      "coordinates": {
+        "lat": 35.88728,
+        "lng": 139.62882
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5595a1db-504b-4021-9956-f5070714eda5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5595a1db-504b-4021-9956-f5070714eda5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/vxQNzucdwmnTkBay6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This apartment building near Kita-Yono Station appears in Episode 2 background frames alongside other Saitama landmarks that anchor the anime's realistic suburban setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd-lyW0DBGGARnUmHO3vhfBc",
+      "name": "Saitama Resona Bank, Omiya Branch",
+      "localName": "埼玉りそな銀行 大宮支店",
+      "coordinates": {
+        "lat": 35.907286299999996,
+        "lng": 139.6282475
+      },
+      "image": null,
+      "images": [],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saitama Resona Bank, Omiya Branch, 3 Chome-７２ Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cL5eyetqKmAX536KA",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Saitama Resona Bank branch near Omiya Station appears in Episode 5 street scenes, part of the Omiya shopping district exterior faithfully recreated in the anime's Saitama setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX5C6S2LqGGARaf8JhwLLCmY",
+      "name": "Musashi-Urawa Station",
+      "localName": "武蔵浦和駅",
+      "coordinates": {
+        "lat": 35.84616,
+        "lng": 139.64638
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e06503ad-5153-4031-8188-6228181fe84d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e06503ad-5153-4031-8188-6228181fe84d.webp"
+        },
+        {
+          "url": "media/cached-image_041e94e85f0970367105a82527b298278fe37a56ccd3b06deff7e6a86ecbbcdb.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-chōme-12 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Musashi-Urawa+Station/@35.8454735,139.6470355,3a,75y,109.27h,93.41t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDtnLfKXQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0KCNUhe--uhh-Xlqqzno_0yi0PK-1qq0rdq8czm7-dHQ5E_WkUp3HEr4f1YoMCUx0FMPEKdQtvcR62SSyOodQjhYb6wl8nN3FWJWnHE__8LDpPqwKqMV0xD1vW50zJQ_ndNWI%3Dw900-h600-k-no-pi-3.4086949252304066-ya109.27185809056112-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6018ea624bba905f:0x660acb028709ff69!8m2!3d35.8454735!4d139.6470355!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bc5cgsqg?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Musashi-Urawa Station appears in Episode 1 as a transit location reflecting Tomozaki's commuter life before his social transformation begins under Hinami's coaching."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhVIszEPBGGARE9TlMlpmDyg",
+      "name": "Omiya Station",
+      "localName": "大宮駅",
+      "coordinates": {
+        "lat": 35.90565,
+        "lng": 139.62441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd7890b6-0df4-4f2b-8aec-6b5335445f78.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd7890b6-0df4-4f2b-8aec-6b5335445f78.webp"
+        },
+        {
+          "url": "media/cached-image_fd2fb12b7a66111972ee39043d5bfd2c5839baf9ba60c3e3ddc95aba2f4608d2.jpg"
+        },
+        {
+          "url": "media/cached-image_be418c696067e5665d7f8634484c431ca394ae2eb7b8da21ac9f8039ef75baab.jpg"
+        },
+        {
+          "url": "media/cached-image_02583507ce726671c94975817034a44e6c361c23a660e08a154345bc42bdc427.jpg"
+        },
+        {
+          "url": "media/cached-image_49a53fb3f6b14fd543778783ae8c5cac7da07271258e54979141708c0298f587.jpg"
+        },
+        {
+          "url": "media/cached-image_b0f44b772e4d04e030bb9cafe65782ebe41ede2529288ca8702c6f4d702616e9.jpg"
+        },
+        {
+          "url": "media/cached-image_d2017242111ae1ddce1934541c17a597957a1f2e246dab1d43971ce71d0538d4.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": 6183,
+      "priceLevel": null,
+      "address": "Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9053179,139.6245679,3a,35.7y,310.27h,94.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE3pm0-QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0VtwD81ICpWtCZPFGNy6nxpMtXqljwPOtyiMUZcrjQT_dtLBtn5eV_cWShf0DN2yZWEosVkuVUe2cKViQbxyMoVfyy4QWJDREF0tKcbH3EAVxSgGNn4JATxnz25QqmfLeleTDWcA%3Dw900-h600-k-no-pi-4.184659957759592-ya249.11349605482326-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Omiya Station is one of the most frequently appearing locations throughout the series, serving as the main transit hub where characters meet, part ways, and where Tomozaki's social journey repeatedly converges.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ81y5hEkmGWARLH7GkpijfK4",
+      "name": "Hanno Station",
+      "localName": "飯能駅",
+      "coordinates": {
+        "lat": 35.85103,
+        "lng": 139.31929
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2c4e077a-af7e-409c-844f-4e84d857e558.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2c4e077a-af7e-409c-844f-4e84d857e558.webp"
+        },
+        {
+          "url": "media/cached-image_9fb9582b26c1e51c00f016e669c2cc479de497ca92866ba2ccd8c1deeed8f7ea.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Minamimachi, Hanno, Saitama 357-0036, Japan",
+      "city": "Hanno",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8511379,139.3193363,2a,37.8y,184.56h,87.29t/data=!3m7!1e1!3m5!1sRPyTD5Cpi7JuxGdW4QWJwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7071395566193956%26panoid%3DRPyTD5Cpi7JuxGdW4QWJwQ%26yaw%3D184.5619939383165!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Hanno Station on the Seibu Ikebukuro Line appears in Episode 10 as the departure point for the characters' nature excursion into the mountains west of Saitama, marking a shift to outdoor adventure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3eBDQF2NGGARTQMrXdJ1NyE",
+      "name": "Ikebukuro Station",
+      "localName": "池袋駅",
+      "coordinates": {
+        "lat": 35.731,
+        "lng": 139.71007
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24d7c036-e746-40b4-a1d5-09662c2359d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24d7c036-e746-40b4-a1d5-09662c2359d9.webp"
+        },
+        {
+          "url": "media/cached-image_016a3bdcd7381dbf9f9307435499bb52f462aa7d9cea2356125ed45d9e909f95.jpg"
+        },
+        {
+          "url": "media/cached-image_70ad273cc45c00cabc808637e8b2523bc65b26aae1ab9cda02ed59cf71710f03.jpg"
+        },
+        {
+          "url": "media/cached-image_a09e8026e2cbd7fd1f78b04921531fb1050def58d23dd17a466686c89b4fe233.jpg"
+        },
+        {
+          "url": "media/cached-image_fe630a611edf0abb2ff070b21705126ba2dce7e5a83b946b2029b7b4ad561706.jpg"
+        },
+        {
+          "url": "media/cached-image_5e5db3edb7673e2a654bd6020a3bc8c3a89db24cc8b72657e8f9c636fde2ca33.jpg"
+        },
+        {
+          "url": "media/cached-image_d19f18553d5c81c8baedd97636ec5e0d41a1b42c5d31b0d55f66944894585a2f.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 2858,
+      "priceLevel": null,
+      "address": "1 Chome Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7310175,139.7100032,3a,90y,124.29h,98.88t/data=!3m7!1e1!3m5!1sp3Z0vj64bhQM4De7PB1whA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.883603044283646%26panoid%3Dp3Z0vj64bhQM4De7PB1whA%26yaw%3D124.28964512137593!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Ikebukuro Station appears in Episode 10 as a transit hub connecting the characters from Saitama to the Seibu Ikebukuro Line heading toward Hanno for their outdoor excursion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq-09_qiMGGAROyl4SkF4H0Y",
+      "name": "Spain-zaka Slope",
+      "localName": "スペイン坂",
+      "coordinates": {
+        "lat": 35.66151,
+        "lng": 139.69885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f140a3a-d953-4e1e-9f7d-0a7cb9155201.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f140a3a-d953-4e1e-9f7d-0a7cb9155201.webp"
+        },
+        {
+          "url": "media/cached-image_b05ab771c056fd721f1e018570e3b72c149d13a5114762d50facd106cc421a8d.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "16-15 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6614663,139.6988908,3a,75y,330.03h,102.69t/data=!3m7!1e1!3m5!1szfNOz2MzlbyJwsUSEdZbAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.687823983249942%26panoid%3DzfNOz2MzlbyJwsUSEdZbAQ%26yaw%3D330.02871043464137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Spain-zaka (Spain Slope) in Shibuya's Udagawacho district appears in Episode 9 during the group's Tokyo outing, a fashionable pedestrian alley that marks a milestone in Tomozaki's social confidence.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ_uPk0HBGGARHVWBSHdWfAs",
+      "name": "Karaoke Big Echo Omiya Minami Ginza Street",
+      "localName": "カラオケ ビッグエコー大宮南銀通り店",
+      "coordinates": {
+        "lat": 35.9058133,
+        "lng": 139.62570449999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cfc11963-5c5b-494d-8e2b-b52151765242.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cfc11963-5c5b-494d-8e2b-b52151765242.webp"
+        },
+        {
+          "url": "media/cached-image_4b94a51bc860606f6fbe6733906b5c94b0899784be890138e773bfa12d80e091.jpg"
+        },
+        {
+          "url": "media/cached-image_35d987982c3a7f902a939720de1705dcafee463a13599b3725202fd886e468a3.jpg"
+        }
+      ],
+      "type": "Karaoke bar",
+      "categories": [
+        "Karaoke bar"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "DINING BIG ECHO 大宮南銀通り店, ＤＫ大宮ビル 1 Chome-61-1 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aaKf3Kdfp9QaZH1m6",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Big Echo karaoke in Omiya's Minami Ginza Street appears in Episode 12 during a group karaoke outing, one of the key social bonding moments that marks Tomozaki's growth into a genuine friend-group member.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVZBuGqXBGGAR6_RN1XIicus",
+      "name": "Ootoya Omiya Suzuran-dori",
+      "localName": "大戸屋ごはん処 大宮すずらん通り店",
+      "coordinates": {
+        "lat": 35.907071099999996,
+        "lng": 139.62642449999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e5fa1ee-bed8-4d02-9313-152537cd25d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e5fa1ee-bed8-4d02-9313-152537cd25d0.webp"
+        },
+        {
+          "url": "media/cached-image_571824bb07136165c744fd50358493c2d6cf8254a1ce06e753c90518c4322833.jpg"
+        }
+      ],
+      "type": "Syokudo and Teishoku restaurant",
+      "categories": [
+        "Syokudo and Teishoku restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ootoya, ＡＲＣＨＥ Ｃｕｂｅ1 2F, 1 Chome-19-1 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/byBRatpyhzzHomeE6",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Ootoya restaurant on Omiya's Suzuran-dori shopping street appears in Episode 12 as a group dining spot, reflecting the characters' use of the Omiya shopping district for social gatherings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFTjMUUHBGGAR-16ceF8shTs",
+      "name": "Coffee house Hakushaku Tei",
+      "localName": "カフェ&デリ 伯爵邸",
+      "coordinates": {
+        "lat": 35.9084602,
+        "lng": 139.62536889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d41b5a7-4af2-4c78-b435-f3d1f750de30.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d41b5a7-4af2-4c78-b435-f3d1f750de30.webp"
+        },
+        {
+          "url": "media/cached-image_841baf69bd654b135304f9c172cf4e1f1960d112652e498639127fb679f14020.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Coffee house Hakushaku Tei, 大宮蓮見ビル 1 Chome-４６-46 Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1XiotDZ8a6iob7PP7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Coffee House Hakushaku Tei near Omiya Station appears in Episode 12 as a cafe where characters hold conversations, fitting the series' pattern of using real Omiya venues for character-driven scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_39",
+      "name": "“Soaring Together and Participating in Peace”",
+      "localName": "「飛翔ふれあいと参加平和」",
+      "coordinates": {
+        "lat": 35.9059,
+        "lng": 139.62246
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37779fa8-8aa9-42a3-bb20-de8a4641ad19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37779fa8-8aa9-42a3-bb20-de8a4641ad19.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/BDiq4kgkYQabBUJc8",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt84xg1rrGGARCNybLIkLLBc",
+      "name": "Toda Koen Eki Higashi Guchi Ryokuchi Park",
+      "localName": "戸田公園駅東口緑地",
+      "coordinates": {
+        "lat": 35.805909,
+        "lng": 139.68068209999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1c10533c-7f48-497f-995e-f26ccd7756c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1c10533c-7f48-497f-995e-f26ccd7756c6.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toda Koen Ekihigashiguchi Ryokuchi Park, 4 Chome-8 Honcho, Toda, Saitama 335-0023, Japan",
+      "city": "Toda",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/akUZUHLb4idMkfzZ8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The small park at Toda-Koen Station's East Exit appears in Episode 11 as an outdoor gathering spot reflecting the everyday park culture along the Keihin-Tohoku Line in southern Saitama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_0cL5ETrGGARAYMWbFM2Ezw",
+      "name": "Toda-Koen Station",
+      "localName": "戸田公園駅",
+      "coordinates": {
+        "lat": 35.8080807,
+        "lng": 139.6780402
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2aa85ac8-ecfa-4262-a428-5fc0077fd63f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2aa85ac8-ecfa-4262-a428-5fc0077fd63f.webp"
+        },
+        {
+          "url": "media/cached-image_4fc1aed3fb757168b53768b0e2e91e4898e45987fbdc91feed63294b0eedb59d.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toda-Kōen Station, 4-chōme-15 Honchō, Toda, Saitama 335-0023, Japan",
+      "city": "Toda",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/WevRHHa9YgG1BBWf7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Toda-Koen Station appears in Episode 11 as a meeting point for characters, part of the realistic train network that connects Tomozaki's Saitama world and grounds the series in actual commuter geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ50WUx2SOGGAR1vHiVUcpso8",
+      "name": "Arakawa Undo Park",
+      "localName": "荒川公園",
+      "coordinates": {
+        "lat": 35.7358324,
+        "lng": 139.783956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bef238ed-f87e-41c1-8cd0-c29a101a789a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bef238ed-f87e-41c1-8cd0-c29a101a789a.webp"
+        },
+        {
+          "url": "media/cached-image_27955304c9587e15a9d5582aeab7676dbbbeffc7e7d122fd60835d908abb85a2.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Arakawa Park, 2 Chome-2-3 Arakawa, Arakawa City, Tokyo 116-0002, Japan",
+      "city": "Arakawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3ZiPtTdJKQPxpCqC8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Arakawa Park in Tokyo's Arakawa ward appears in Episode 11 as an outdoor recreation spot, used for athletic or leisurely scenes that complement the episode's focus on physical self-improvement challenges."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmRjYBJUxGWARhrZPYKYU0Ys",
+      "name": "Sawarabino-yu",
+      "localName": "さわらびの湯",
+      "coordinates": {
+        "lat": 35.8712934,
+        "lng": 139.1808914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10a613d4-fd0c-4ad5-9b94-d08257c5f62e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10a613d4-fd0c-4ad5-9b94-d08257c5f62e.webp"
+        },
+        {
+          "url": "media/cached-image_25984040d158bc42b633a2f9002a36ae46c7e467a733b1347338616f1d160283.jpg"
+        },
+        {
+          "url": "media/cached-image_162345f0d83eacc02fa1a42cab3c2daef5417ca053b299bd2d202c645eee25a1.jpg"
+        },
+        {
+          "url": "media/cached-image_71758306a2e60a5e496f932f1d8d2c6249708a4f3c5aa0a3819b54aa3f30b991.jpg"
+        },
+        {
+          "url": "media/cached-image_6e1bc7fa4eefd6029392d7b4e8c0e491889373f2bd86215b8429a63a7a4b9eef.jpg"
+        }
+      ],
+      "type": "Onsen",
+      "categories": [
+        "Onsen"
+      ],
+      "rating": 3.8,
+      "reviewCount": 42,
+      "priceLevel": null,
+      "address": "Japan, 〒357-0112 Saitama, Hanno, Shimonaguri, 685 さわらびの湯",
+      "city": "Hanno",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1P6E9r82Kpj6kZNH8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Sawarabino-yu onsen in Hanno appears in Episode 10 as the hot spring destination after the group's hiking trip, providing a warm communal moment that deepens friendships among the cast.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ215GrPIxGWAR615_mKq14TQ",
+      "name": "Kenny's Family Village Auto Campground",
+      "localName": "ケニーズ・ファミリー・ビレッジ/オートキャンプ場",
+      "coordinates": {
+        "lat": 35.8799081,
+        "lng": 139.1830472
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2392d8a0-3f4e-446b-8e36-05e262d32c02.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2392d8a0-3f4e-446b-8e36-05e262d32c02.webp"
+        },
+        {
+          "url": "media/cached-image_ff3369ae463e1fa82a309fad9eec5ae4b87bf7323c7d38e762cb31d7841f650d.jpg"
+        },
+        {
+          "url": "media/cached-image_109fd9afb9b2c486592c0b8455944d0a32ac9b15df0334535966d21dce4d1950.jpg"
+        },
+        {
+          "url": "media/cached-image_22bf5bd17fdbf503ea4b3e8ebe9c6ae66ebed6ff1c0698ae7d84370509d68e7a.jpg"
+        },
+        {
+          "url": "media/cached-image_cbbc4a93afdb75e13cef26a9d9d4a8b3dcf265a5a9b919bbc1e875cad95e6c36.jpg"
+        },
+        {
+          "url": "media/cached-image_b5802c601683646be1d0c1350becfea18dea52dd8c385502647599228d23752a.jpg"
+        }
+      ],
+      "type": "RV park",
+      "categories": [
+        "RV park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kenny's Family Village Auto Campground, 3196 Kaminaguri, Hanno, Saitama 357-0111, Japan",
+      "city": "Hanno",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4hDd9qqTsaDvmb8W6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kenny's Family Village campground in Hanno appears in Episode 10 as the outdoor camping location where Tomozaki and his friends bond over nature activities, a memorable change of pace from their urban school life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVWhXKmMGGARHcWNKVYnrGE",
+      "name": "Lipps Shibuya",
+      "localName": "LIPPS hair 渋谷",
+      "coordinates": {
+        "lat": 35.6619692,
+        "lng": 139.6967893
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc5cfcb4-e9ef-444e-9f6a-b6f8bce662a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc5cfcb4-e9ef-444e-9f6a-b6f8bce662a9.webp"
+        },
+        {
+          "url": "media/cached-image_7c21ba87f3f8dd9cbc15411d79cfcce80131f50273d0de33bced258e7464db0b.jpg"
+        }
+      ],
+      "type": "Hairdresser",
+      "categories": [
+        "Hairdresser"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lipps Shibuya, Nabata Bldg., 1f, 36-19 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fJgJyJLFf127kP3x5",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "LIPPS hair salon in Shibuya's Udagawacho appears in Episode 9 when Tomozaki gets his hair styled as part of his ongoing image transformation under Hinami's guidance.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_46",
+      "name": "WWW",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66163,
+        "lng": 139.69875
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86e82db9-0ac5-44f4-bbfe-edaf42738991.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86e82db9-0ac5-44f4-bbfe-edaf42738991.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/M6xioudxH2bBAQLr5",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "WWW, a live music venue near Spain-zaka in Shibuya, appears in Episode 9 during the characters' Tokyo excursion, contributing to the episode's youthful exploration of the city's entertainment district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4dTlv3TBGGARJr2Ss5EJJ30",
+      "name": "Kita-Yono Station",
+      "localName": "北与野駅",
+      "coordinates": {
+        "lat": 35.8907795,
+        "lng": 139.62868079999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d6b41f7-f3ae-4318-92c6-3758f68e4dad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d6b41f7-f3ae-4318-92c6-3758f68e4dad.webp"
+        },
+        {
+          "url": "media/cached-image_77090448242346612185170f020489d42806b344c08b8fe6f2e5ee082c1dfc68.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kita-Yono Station, 2-chōme-3 Kamiochiai, Chuo Ward, Saitama, 338-0001, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ySgaKvsCpeCGZ7uh7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kita-Yono Station on the Saikyo Line appears in Episode 9 as a transit stop in Tomozaki's familiar Saitama commuter network, part of the realistic train geography the series depicts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPZhJykPBGGARaJOILkPYrAo",
+      "name": "Starbucks Coffee - Lumine Omiya LUMINE 2",
+      "localName": "スターバックス コーヒー ルミネ大宮 LUMINE2店",
+      "coordinates": {
+        "lat": 35.9064311,
+        "lng": 139.6246955
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c73f4e6-9c6d-4b46-9e17-6fb69e24d687.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c73f4e6-9c6d-4b46-9e17-6fb69e24d687.webp"
+        },
+        {
+          "url": "media/cached-image_557833c0c3b5400e188b2ccaa82a6e16c9069caeb8e6ac2a0dc175f7805b3156.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Starbucks Coffee - Lumine Omiya LUMINE 2, ルミネ大宮 LUMINE2 3F 630 Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bV3RcebdgSWdnCXX8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Starbucks on the 3rd floor of Lumine 2 in Omiya appears in Episode 9 as a meeting spot for characters, reflecting the shopping complex's role as a social hub in the Omiya station area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bottom-tier-character-tomozaki_49",
+      "name": "Handmade Goods and Accessories Shop mini*",
+      "localName": "ハンドメイドと雑貨のお店mini*",
+      "coordinates": {
+        "lat": 35.90946,
+        "lng": 139.62955
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49fdb72e-e07b-44b8-8882-1f1e22646684.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49fdb72e-e07b-44b8-8882-1f1e22646684.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/zyMXwSVQKc6A5riWA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small handmade goods shop near Omiya appears in Episode 9 as a local spot reflecting the characters' exploration of their home area alongside their Tokyo day trip."
+    }
+  ]
+}

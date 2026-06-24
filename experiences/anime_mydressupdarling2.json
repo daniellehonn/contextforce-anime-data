@@ -1,0 +1,1345 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "My Dress-Up Darling Season 2",
+  "slug": "my-dress-up-darling-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_57e8b95004f4762ce413fa560cad233e46f3ea12a4bf10dbb6cd01edf23593da.webp",
+  "image": "media/cached-image_57e8b95004f4762ce413fa560cad233e46f3ea12a4bf10dbb6cd01edf23593da.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.80954417058823,
+    "lng": 139.69136121764703
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "My Dress-Up Darling Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJC6VOlUDBGGARW344R-IpFoM",
+      "name": "Pon Megane Omiya",
+      "localName": "ポンメガネ大宮",
+      "coordinates": {
+        "lat": 35.909026,
+        "lng": 139.62867599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c44a756-e370-4e24-8a4d-2a377e38cb74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c44a756-e370-4e24-8a4d-2a377e38cb74.webp"
+        },
+        {
+          "url": "media/cached-image_96f4c0889e003a8154d12858eed26644681f6b3e1bdb1cd7df734a42f1341559.jpg"
+        },
+        {
+          "url": "media/cached-image_248bd877f4ac09bea6176d0bef3462d7bd5f8a209024c21e2ab428afd069a041.jpg"
+        }
+      ],
+      "type": "Optician",
+      "categories": [
+        "Optician"
+      ],
+      "rating": 2.1,
+      "reviewCount": 32,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0846 Saitama, Omiya Ward, Daimoncho, 3 Chome−195 美幸ビル ポンメガネ大宮",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9091112,139.6286465,3a,90y,162.72h,95.04t/data=!3m7!1e1!3m5!1s2Q1_lVZaBUcGmcX9dhKlAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.041456679280188%26panoid%3D2Q1_lVZaBUcGmcX9dhKlAA%26yaw%3D162.7173073827646!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Wakana visits this optician in Omiya's doll district area during the Iwatsuki pilgrimage episodes, as the neighborhood's old-fashioned shopfronts double for the traditional craftsman town atmosphere that inspires his hina-doll work."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgapIQAlK9V8Rb40q3i_B3h0",
+      "name": "西田精機(株)",
+      "localName": "（有）西電機製作所",
+      "coordinates": {
+        "lat": 37.599737,
+        "lng": 139.6601631
+      },
+      "image": null,
+      "images": [],
+      "type": "Metalworking",
+      "categories": [
+        "Metalworking"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒969-4401 Fukushima, Yama District, Nishiaizu, Tosejima, Uenodaiotsu−2696 西田精機(株)",
+      "city": "Nishiaizu",
+      "region": "Yama District, Fukushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5511663,139.6118167,3a,74.7y,26.25h,93.13t/data=!3m7!1e1!3m5!1sn8RxymGQj2dHCoH8ivVo5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.128624305347458%26panoid%3Dn8RxymGQj2dHCoH8ivVo5A%26yaw%3D26.24643050479552!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfSVpzaq4GGARB7qBXYHvgw0",
+      "name": "Iwatsuki Station",
+      "localName": "岩槻駅",
+      "coordinates": {
+        "lat": 35.95012,
+        "lng": 139.69294
+      },
+      "image": "https://cdn.animepilgrimage.com/places/80841668-05c2-4472-b4fe-81faf68c8d54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/80841668-05c2-4472-b4fe-81faf68c8d54.webp"
+        },
+        {
+          "url": "media/cached-image_7183905c0173937e70fa97ba552cb20194af01111a21a33c2f98bb97c9349517.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-1 Honchō, Iwatsuki Ward, Saitama, 339-0057, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9501408,139.6930011,3a,60.3y,212.15h,85.16t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDiyIaoZg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c9IR1Kf2AgSjvHf-0jy3iBnlDkOK12nW2jgi05Gv4QCA8Yq623zfVBKfP2Po7R7B1liipC5TqUcu8jr8QiG16Ou9X-nSscak_mjJm5RAbgntnM7bt0lio88rPNCO-nocXSZLeE%3Dw900-h600-k-no-pi4.839720414428172-ya332.00271525571384-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Wakana and Marin arrive at Iwatsuki Station in Episode 10 to visit the doll-maker district, where Wakana traces the roots of the traditional craft his grandfather taught him.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhVIszEPBGGARE9TlMlpmDyg",
+      "name": "Omiya Station",
+      "localName": "大宮駅",
+      "coordinates": {
+        "lat": 35.90565,
+        "lng": 139.62441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8f6add3b-fbef-482b-8891-c43462e2be12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8f6add3b-fbef-482b-8891-c43462e2be12.webp"
+        },
+        {
+          "url": "media/cached-image_fd2fb12b7a66111972ee39043d5bfd2c5839baf9ba60c3e3ddc95aba2f4608d2.jpg"
+        },
+        {
+          "url": "media/cached-image_be418c696067e5665d7f8634484c431ca394ae2eb7b8da21ac9f8039ef75baab.jpg"
+        },
+        {
+          "url": "media/cached-image_02583507ce726671c94975817034a44e6c361c23a660e08a154345bc42bdc427.jpg"
+        },
+        {
+          "url": "media/cached-image_49a53fb3f6b14fd543778783ae8c5cac7da07271258e54979141708c0298f587.jpg"
+        },
+        {
+          "url": "media/cached-image_b0f44b772e4d04e030bb9cafe65782ebe41ede2529288ca8702c6f4d702616e9.jpg"
+        },
+        {
+          "url": "media/cached-image_d2017242111ae1ddce1934541c17a597957a1f2e246dab1d43971ce71d0538d4.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": 6183,
+      "priceLevel": null,
+      "address": "Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9053179,139.6245679,3a,35.7y,310.27h,94.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE3pm0-QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0VtwD81ICpWtCZPFGNy6nxpMtXqljwPOtyiMUZcrjQT_dtLBtn5eV_cWShf0DN2yZWEosVkuVUe2cKViQbxyMoVfyy4QWJDREF0tKcbH3EAVxSgGNn4JATxnz25QqmfLeleTDWcA%3Dw900-h600-k-no-pi-4.184659957759592-ya249.11349605482326-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Omiya Station appears as a transit hub in the final episodes as characters travel across Saitama, grounding the show's Saitama-set storyline in a recognizable real-world landmark."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9ZPE2-NGGARwiJyx0Id61E",
+      "name": "Sunshine City",
+      "localName": "サンシャインシティ",
+      "coordinates": {
+        "lat": 35.72909,
+        "lng": 139.71944
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e57b387b-a115-47c1-b889-cc4411036760.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e57b387b-a115-47c1-b889-cc4411036760.webp"
+        },
+        {
+          "url": "media/cached-image_dee0bce855d85dd49a8f4e5e6cedd2f6e4bcb00f9a5afdd0ba665d7f713fe1a9.jpg"
+        },
+        {
+          "url": "media/cached-image_96dac805664937a57e00ba093700ee366e713de7e2ba1be6c116c5bd44baf9d0.jpg"
+        },
+        {
+          "url": "media/cached-image_1c61e65f52fd6660b2c9957e5459b21514f545b49e24eb048bf8b66c328d97f0.jpg"
+        },
+        {
+          "url": "media/cached-image_773977c5bf3bd8ec008b314557f2f1981c84cc10eaa5ecbb029cc2658c6a498d.jpg"
+        },
+        {
+          "url": "media/cached-image_3a0b000dfbe05f5864cf493488b8c17c7979750514decadfb45117ca3cc92042.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-1-2 Higashiikebukuro, Toshima City, Tokyo 170-8630, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7290416,139.7194856,3a,63.4y,125.51h,93.53t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4j5zc5wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c8FKMk57qNq304LDEADWuc5EUF4wmqhIJAbvEtWfkfEaDdpp62jCgStJ3lYeKtbhRXMynotuwcGLgkDNbhzJyh0sCJd62ITTAPVgNzw4lcABU9m7pn5XKe-vXcYqqecRsqwXrux%3Dw900-h600-k-no-pi-3.52814114721194-ya179.26255332884526-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Sunshine City complex in Ikebukuro serves as a backdrop for Marin and Wakana's early Season 2 outings, its busy mall corridors and event spaces capturing the couple's tentative steps beyond just cosplay.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN-u6VmaNGGAR-4pQ46rRzjM",
+      "name": "Yuzawaya WACCA Ikebukuro Store",
+      "localName": "ユザワヤ WACCA池袋店",
+      "coordinates": {
+        "lat": 35.73152,
+        "lng": 139.71458
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77d7d29a-bf4a-483e-adb9-8966533423d6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77d7d29a-bf4a-483e-adb9-8966533423d6.webp"
+        },
+        {
+          "url": "media/cached-image_3df137a173d9e2e4f871a801743a4bde164b98c306da0e116e6b487b213de905.jpg"
+        },
+        {
+          "url": "media/cached-image_d71f15424e907fcfd22c25cf8d5581cefd7a03831eec4d20f0bc5a8d23253f27.jpg"
+        },
+        {
+          "url": "media/cached-image_8f8012b108f87c0355a8d8f46bd540bf84838dabb5ac5856bee04cf93642da40.jpg"
+        },
+        {
+          "url": "media/cached-image_ea7df5c0cf43122b3e316aa0bd3d03d2f7a9d057799e14a5446f92a6d40d9ed4.jpg"
+        },
+        {
+          "url": "media/cached-image_17fb9d93925b4c3766a096db2ecb71c3bae61161512e55a213d56297699ec6d3.jpg"
+        },
+        {
+          "url": "media/cached-image_9633439117161c95cc245b888d397bbaaab2e7b27be5c0b066eec182c262b249.jpg"
+        }
+      ],
+      "type": "手芸用品店",
+      "categories": [
+        "手芸用品店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "WACCA池袋 3F, 1 Chome-8-1 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7315774,139.7146007,2a,90y,1.04h,91.88t/data=!3m7!1e1!3m5!1srh-25dhy19nzTp8LRQCBzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8809911770252654%26panoid%3Drh-25dhy19nzTp8LRQCBzA%26yaw%3D1.0370217817396754!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "In Episode 1 Marin drags Wakana to Yuzawaya to hunt for specialty fabrics for her next cosplay project, the towering shelves of lace and trim making it the perfect stand-in for the series' love of craft detail.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhT_wQW-NGGARyeOCR2L-W-I",
+      "name": "Sunshine Aquarium",
+      "localName": "サンシャイン水族館",
+      "coordinates": {
+        "lat": 35.7288022,
+        "lng": 139.7200341
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18669ea5-f255-4428-9c05-eaed6aba9eea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18669ea5-f255-4428-9c05-eaed6aba9eea.webp"
+        },
+        {
+          "url": "media/cached-image_dba72ee52b497c23c61427f868921bc2f0d735cd0ad135392a29cb39fedf1ee5.jpg"
+        },
+        {
+          "url": "media/cached-image_334cba2ebbfcae7ae349b6dc7e1923f16e8f92e504e1bce5b4947aede80585e5.jpg"
+        },
+        {
+          "url": "media/cached-image_4b0ee23042d100856eff3cee1c2965fb2e1c82824e7b0d569b358b56db306037.jpg"
+        },
+        {
+          "url": "media/cached-image_10fd689b238dfe90b8b8ca385a3fb4518bc67fe94f7bfa8a822417ccd420bda0.jpg"
+        },
+        {
+          "url": "media/cached-image_44f72bfc42c534ab5ea97cae7699eeb2374636756abf2dfe4547df67f38faf30.jpg"
+        },
+        {
+          "url": "media/cached-image_db283f753e5634feba145c5d7d895525a345f134ae7401bd11424fd0a193c86c.jpg"
+        },
+        {
+          "url": "media/cached-image_56219b075e26854206a97fbec1aff48f193ac0d27dbad28c2da99d6e27ee4e81.jpg"
+        },
+        {
+          "url": "media/cached-image_8dd54ec3846a71418741502ba2629031d2ee152e7155d2e2607bad542a80ec45.jpg"
+        },
+        {
+          "url": "media/cached-image_4b4cc9830fbe891ff901560384dcf2944108957ffaa47fe94557c4b87b6d8cbe.jpg"
+        },
+        {
+          "url": "media/cached-image_6dfd2988d7dedf1ac0523c2153f33526d66f429cfcdeed13ad60e9720fbe671c.jpg"
+        },
+        {
+          "url": "media/cached-image_6885be6a4fc89d929646fd41d1e89ada6c73fd2a652f778b4307b6540bd8c99f.jpg"
+        }
+      ],
+      "type": "水族館",
+      "categories": [
+        "水族館"
+      ],
+      "rating": 4.2,
+      "reviewCount": 70,
+      "priceLevel": null,
+      "address": "サンシャインシティワールドインポートマートビル 屋上, 3 Chome-1-1 Higashiikebukuro, Toshima City, Tokyo 170-8630, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7288022,139.7200341,2a,90y,126.26h,95.54t/data=!3m6!1e1!3m4!1saE7nAuU98PWhsOFhoqPlCw!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The rooftop Sunshine Aquarium is the setting for a key Episode 2 outing where Marin and Wakana share a quiet, intimate moment watching the penguins and jellyfish, marking one of the season's most tender character beats.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3eBDQF2NGGARTQMrXdJ1NyE",
+      "name": "Ikebukuro Station",
+      "localName": "池袋駅",
+      "coordinates": {
+        "lat": 35.731,
+        "lng": 139.71007
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3a75cc66-82dd-40b8-8e14-e3a81df1af5f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3a75cc66-82dd-40b8-8e14-e3a81df1af5f.webp"
+        },
+        {
+          "url": "media/cached-image_016a3bdcd7381dbf9f9307435499bb52f462aa7d9cea2356125ed45d9e909f95.jpg"
+        },
+        {
+          "url": "media/cached-image_70ad273cc45c00cabc808637e8b2523bc65b26aae1ab9cda02ed59cf71710f03.jpg"
+        },
+        {
+          "url": "media/cached-image_a09e8026e2cbd7fd1f78b04921531fb1050def58d23dd17a466686c89b4fe233.jpg"
+        },
+        {
+          "url": "media/cached-image_fe630a611edf0abb2ff070b21705126ba2dce7e5a83b946b2029b7b4ad561706.jpg"
+        },
+        {
+          "url": "media/cached-image_5e5db3edb7673e2a654bd6020a3bc8c3a89db24cc8b72657e8f9c636fde2ca33.jpg"
+        },
+        {
+          "url": "media/cached-image_d19f18553d5c81c8baedd97636ec5e0d41a1b42c5d31b0d55f66944894585a2f.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 2858,
+      "priceLevel": null,
+      "address": "1 Chome Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7310175,139.7100032,3a,90y,124.29h,98.88t/data=!3m7!1e1!3m5!1sp3Z0vj64bhQM4De7PB1whA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.883603044283646%26panoid%3Dp3Z0vj64bhQM4De7PB1whA%26yaw%3D124.28964512137593!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Ikebukuro Station's east-exit plaza is the recurring transit point where Marin and Wakana part ways after outings, its crowd and neon backdrop underscoring the tension of unspoken feelings in the season's final stretch."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJibKDcm-NGGARKgwl3cYaJpE",
+      "name": "East Ikebukuro Central Park",
+      "localName": "豊島区立東池袋中央公園",
+      "coordinates": {
+        "lat": 35.7301301,
+        "lng": 139.7186407
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57112c67-7fae-4917-af8d-38d256ac44a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57112c67-7fae-4917-af8d-38d256ac44a5.webp"
+        },
+        {
+          "url": "media/cached-image_741984bc9d36802d34eb80fb22e9a78e96a9d53ce2ef220519afef46686738ec.jpg"
+        },
+        {
+          "url": "media/cached-image_5a75284d44ecdd38e08692c3e65aca5bb47b5de26674a5ce3a742d6d3dec571f.jpg"
+        },
+        {
+          "url": "media/cached-image_d9e1fdaa748dd958efd3b063b8a2c996cdb4f1f14f858df3597c415d138bfade.jpg"
+        },
+        {
+          "url": "media/cached-image_ed63aea2844690f662d320e72512e3b6fba5891cbd32ab53e0f9339938bcce89.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.7,
+      "reviewCount": 146,
+      "priceLevel": null,
+      "address": "3 Chome-1-6 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7301301,139.7186407,3a,90y,103.37h,97.99t/data=!3m6!1e1!3m4!1sAXKCN_ZxDE66E7P-U2UB_A!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "East Ikebukuro Central Park appears in Episode 3 as a casual meeting spot near Sunshine City, where characters briefly rest between cosplay errands and the park's open lawn gives a rare quiet contrast to the busy mall scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCyb7E2-NGGARoYgEblgQu_M",
+      "name": "FamilyMart Sunshine West Store",
+      "localName": "ファミリーマート サンシャイン西店",
+      "coordinates": {
+        "lat": 35.7296205,
+        "lng": 139.7169673
+      },
+      "image": "https://cdn.animepilgrimage.com/places/becdf57b-e4dd-4af6-bbf4-d38920aa6d10.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/becdf57b-e4dd-4af6-bbf4-d38920aa6d10.webp"
+        },
+        {
+          "url": "media/cached-image_02b1b132b6084cdccfb96150800a2e8b1feb6a4190df7d5985ac6b0339e12014.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "サンシャインシティ アルパ 2F, 3 Chome-1-1 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7296205,139.7169673,3a,75y,89.53h,91.1t/data=!3m7!1e1!3m5!1sxzKiQOrIJ1jlrFig4O4CsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DxzKiQOrIJ1jlrFig4O4CsQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D163.41553%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This FamilyMart inside Sunshine City's Alpa mall appears in Episode 8 as the mundane convenience-store stop that contrasts with the episode's more emotionally charged hotel event scenes nearby."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJncY_0meNGGAROPyHhuKocOk",
+      "name": "KaraokeKan Ikebukuro East Exit Main Store",
+      "localName": "カラオケ館 池袋東口本店",
+      "coordinates": {
+        "lat": 35.729773099999996,
+        "lng": 139.7138914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fb3ec5ab-882c-483b-879b-787b6a30263c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fb3ec5ab-882c-483b-879b-787b6a30263c.webp"
+        },
+        {
+          "url": "media/cached-image_772668edc7646442f4c98c59fd94911107ee14041b67de725ea78e80fe798898.jpg"
+        }
+      ],
+      "type": "Karaoke",
+      "categories": [
+        "Karaoke"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KaraokeKan, 池袋B&Vビル 1 Chome-2-12 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7296737,139.71403,3a,90y,307.56h,101.25t/data=!3m7!1e1!3m5!1sirMXRSjw_5i40-4HkqzRKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.245872655163382%26panoid%3DirMXRSjw_5i40-4HkqzRKQ%26yaw%3D307.56378257872245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "In Episode 9 Marin leads a group karaoke session at this Ikebukuro venue, her over-the-top singing energy becoming a comedic character moment that lets the supporting cast shine."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiw37u6mMGGARSgTdDRm1RvM",
+      "name": "G-CLUB Shibuya",
+      "localName": "(株)黒澤楽器店 G-CLUB Shibuya",
+      "coordinates": {
+        "lat": 35.6600895,
+        "lng": 139.69777639999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23b2f307-c415-4cff-9962-95bb723f5b55.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23b2f307-c415-4cff-9962-95bb723f5b55.webp"
+        },
+        {
+          "url": "media/cached-image_18a6f9ed97ae8af74b4174e19135ab8f75639e6cbcfeedd8674948d5638a44ad.jpg"
+        }
+      ],
+      "type": "Musical instrument store",
+      "categories": [
+        "Musical instrument store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "G-CLUB Shibuya, 2 Chome-29-17 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6602102,139.6977485,3a,90y,184.64h,102.64t/data=!3m7!1e1!3m5!1sAIpvgu5ZpvzMzgJRvxNJjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.641447372755167%26panoid%3DAIpvgu5ZpvzMzgJRvxNJjg%26yaw%3D184.64343719154922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "G-CLUB Shibuya appears in Episode 1 as a prop-sourcing stop on Marin's cosplay supply run, its walls of guitars and music equipment providing visual texture for the episode's Shibuya shopping montage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV4TDwfeLGGARZZY83rpWpSA",
+      "name": "Wadakura Fountain National Park",
+      "localName": "和田倉噴水公園",
+      "coordinates": {
+        "lat": 35.6833415,
+        "lng": 139.7608736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/068b6554-5077-4531-aeab-7b796cd2a83c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/068b6554-5077-4531-aeab-7b796cd2a83c.webp"
+        },
+        {
+          "url": "media/cached-image_e2cf9ba67b079a0c793b3890c9a72ac2c661548321fd49b2043c05f0ca08353a.jpg"
+        },
+        {
+          "url": "media/cached-image_f776ade202dc7820e747ed2cc44fc92b00ebd6b7980d26245bd56b50a8212d11.jpg"
+        },
+        {
+          "url": "media/cached-image_2f353cf3cca91d482214af5f358c7ad054cdf1d5201ff9d15dfb3fa69c63381a.jpg"
+        },
+        {
+          "url": "media/cached-image_372d44547adff089de8e769cb88a9aadfcc17aa2788f1224b1774dc9cf56c172.jpg"
+        },
+        {
+          "url": "media/cached-image_e963cc1422aa0929d5430347eed1a8de006766c26ba402a7419a44b8a5b94f90.jpg"
+        }
+      ],
+      "type": "National park",
+      "categories": [
+        "National park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1185,
+      "priceLevel": null,
+      "address": "Wadakura Fountain Park, 3-1 Kokyogaien, Chiyoda City, Tokyo 100-0002, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1mqmiPnsWtbtv8uR8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Wadakura Fountain Park near the Imperial Palace appears in Episode 3 as a scenic detour during the characters' day out, its ornate fountain serving as a picturesque backdrop for a lighthearted moment between Marin and Wakana."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2dPESnyNGGARPoUPX5Prz1U",
+      "name": "Ikefukurou",
+      "localName": "いけふくろう",
+      "coordinates": {
+        "lat": 35.7308005,
+        "lng": 139.71212169999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a0cf43e-cce6-413a-90b6-9f6cd284161f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a0cf43e-cce6-413a-90b6-9f6cd284161f.webp"
+        },
+        {
+          "url": "media/cached-image_e21e762d35ee314920b5b0d450bcb78fe40bf3b19b3358f3f714dd2658a3eca8.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikefukurou, 1 Chome-1-28-2 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7307928,139.7122167,2a,75y,299.03h,95.36t/data=!3m7!1e1!3m5!1sLd3_j_e6Do_E5medk0_7sQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.361509388495207%26panoid%3DLd3_j_e6Do_E5medk0_7sQ%26yaw%3D299.03424996628655!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The iconic Ikefukurou owl statue at Ikebukuro's east exit is the meeting point Marin specifies in Episode 3, a classic Ikebukuro rendezvous landmark that fans instantly recognize.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9YlJZMKMGGARObc_xcAKA9M",
+      "name": "Shinjuku-gyoemmae Sta.",
+      "localName": "新宿御苑前駅",
+      "coordinates": {
+        "lat": 35.688570299999995,
+        "lng": 139.7108537
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3d05b92-473c-4367-9c04-e9da92a97118.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3d05b92-473c-4367-9c04-e9da92a97118.webp"
+        },
+        {
+          "url": "media/cached-image_94844f7171b66dc46d86bae3c74f321fd04bf9ebb967ada155be14268553c4f0.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shinjuku-gyoemmae Sta., 1-chōme-8 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6883167,139.7121106,3a,86.2y,308.52h,95.33t/data=!3m7!1e1!3m5!1sYW9OB-Y51PhgVAngFxbfDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.333233204292995%26panoid%3DYW9OB-Y51PhgVAngFxbfDw%26yaw%3D308.5171852411674!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Shinjuku-gyoemmae Station appears in Episode 1 near Studio Macaron night as Marin and Wakana travel to their first Season 2 photo shoot location, the station exit signage matching pilgrimage comparison screenshots shared by fans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb3QurxCNGGARIH1NtcvTsQU",
+      "name": "Studio Macaron night",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.688485199999995,
+        "lng": 139.7122197
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc6b98b2-3aaf-48e6-87f1-1cdb27e11c13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc6b98b2-3aaf-48e6-87f1-1cdb27e11c13.webp"
+        },
+        {
+          "url": "media/cached-image_ff5bd6556ce8a0f055dcf41698aa7cab99be17a9c0b5a764005bc4308bf10971.jpg"
+        }
+      ],
+      "type": "Photography studio",
+      "categories": [
+        "Photography studio"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 1 Chome−9−4 中公ビル御苑グリーンハイツ 405/406/407 Studio Macaron night",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6883167,139.7121106,3a,60.9y,29.03h,96.26t/data=!3m7!1e1!3m5!1sYW9OB-Y51PhgVAngFxbfDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.262817210006276%26panoid%3DYW9OB-Y51PhgVAngFxbfDw%26yaw%3D29.032503614308407!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Studio Macaron night is the photography studio used in Episode 1 for Marin's cosplay shoot, its intimate rooms and professional lighting equipment making it the season's first major cosplay production scene.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9VlEIwCNGGARauQmtBwoWSI",
+      "name": "Animate Annex",
+      "localName": "池袋PACKS",
+      "coordinates": {
+        "lat": 35.7300233,
+        "lng": 139.7176268
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3b9e879d-cc9b-45ba-8b8e-e77f5c733b67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3b9e879d-cc9b-45ba-8b8e-e77f5c733b67.webp"
+        },
+        {
+          "url": "media/cached-image_27cd2f90b2808acd4efa3d01a972ba035c613321595d2fba22ea6dad853ef7da.jpg"
+        }
+      ],
+      "type": "Tenant ownership",
+      "categories": [
+        "Tenant ownership"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Animate Annex, 3 Chome-2-1 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7299921,139.7178422,3a,90y,123.45h,105.78t/data=!3m7!1e1!3m5!1s673Jz33EVTvB9_Be-uswwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.783379499819333%26panoid%3D673Jz33EVTvB9_Be-uswwA%26yaw%3D123.45339751542991!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Animate Annex building in Ikebukuro appears in Episode 3 as Marin enthusiastically browses anime merchandise, her fan-girl excitement here providing comic relief and character warmth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn_Bp6PeLGGARAfpWo7lBTcA",
+      "name": "Wadakura-mon Gate",
+      "localName": "和田倉門跡",
+      "coordinates": {
+        "lat": 35.683603399999996,
+        "lng": 139.76159959999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd0651d1-cce5-4abb-96f1-0ba6051862ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd0651d1-cce5-4abb-96f1-0ba6051862ec.webp"
+        },
+        {
+          "url": "media/cached-image_2f353cf3cca91d482214af5f358c7ad054cdf1d5201ff9d15dfb3fa69c63381a.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wadakura-mon Gate, 3-1 Kokyogaien, Chiyoda City, Tokyo 100-0002, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6835347,139.7622545,2a,90y,104.56h,98.69t/data=!3m7!1e1!3m5!1sj0sBzR0r8jdOO1L0TMxzTg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.68793361243604%26panoid%3Dj0sBzR0r8jdOO1L0TMxzTg%26yaw%3D104.56291963538546!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The historic Wadakura-mon Gate ruins appear alongside the fountain park in Episode 3 as part of the characters' Imperial Palace-area stroll, the stone walls adding a classical contrast to Marin's vibrant cosplay hobby."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj4LOHE-LGGARH0ZShschL8M",
+      "name": "CERISIER 7",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.647,
+        "lng": 139.699007
+      },
+      "image": "https://cdn.animepilgrimage.com/places/25d90aca-d5b6-4d65-8aaf-24ce838ea9f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/25d90aca-d5b6-4d65-8aaf-24ce838ea9f8.webp"
+        },
+        {
+          "url": "media/cached-image_84475c328a267c61935eec7f9a3eef200693ecbb570d4a2bef19b79565a51f69.jpg"
+        }
+      ],
+      "type": "Hair salon",
+      "categories": [
+        "Hair salon"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒153-0051 Tokyo, Meguro City, Kamimeguro, 1 Chome−10−5 フィールドストーン 103 CERISIER 7",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6470063,139.6991021,3a,90y,290.01h,95.74t/data=!3m7!1e1!3m5!1sATZHNNM_ZtZKHUFy-MUj-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.735790949430495%26panoid%3DATZHNNM_ZtZKHUFy-MUj-Q%26yaw%3D290.00665341992914!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "CERISIER 7 in Meguro is the hair salon referenced in Episode 7's Kuroe storyline, where Wakana accompanies Marin to research wig styling techniques from a professional stylist, deepening Wakana's understanding of cosplay craft."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_19",
+      "name": "Koji Ningyo",
+      "localName": "(株)公司人形",
+      "coordinates": {
+        "lat": 35.95492,
+        "lng": 139.69587
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9104758-bcd8-45c9-9569-f58d8e0c9a6d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9104758-bcd8-45c9-9569-f58d8e0c9a6d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.954848,139.6959305,3a,90y,356.21h,109.31t/data=!3m7!1e1!3m5!1stbjBBwnCsuN0qI-ZD22vIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.314002180897063%26panoid%3DtbjBBwnCsuN0qI-ZD22vIA%26yaw%3D356.21030066320253!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Koji Ningyo in Iwatsuki is one of the traditional doll-maker workshops Wakana visits in Episode 7, the sight of master craftsmen shaping hina dolls directly connecting to his own grandfather's legacy and his personal identity arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_20",
+      "name": "Plandole Atago",
+      "localName": "プランドール愛宕",
+      "coordinates": {
+        "lat": 35.95421,
+        "lng": 139.69643
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d761aa17-c64f-40ff-901d-af29be913d82.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d761aa17-c64f-40ff-901d-af29be913d82.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.9540168,139.6963333,3a,23.7y,23.45h,91.98t/data=!3m7!1e1!3m5!1sp1cdcwptvcYQCvL9pv4pfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9843777960793432%26panoid%3Dp1cdcwptvcYQCvL9pv4pfQ%26yaw%3D23.445508803189053!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Plandole Atago is a doll display shop in Iwatsuki visited in Episode 7 alongside Koji Ningyo, its window full of elaborately dressed dolls visually echoing the cosplay costumes Wakana crafts and reinforcing the thematic link between dolls and cosplay."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiwvhtzfBGGARi2dcYoVOS-o",
+      "name": "Omiya Park",
+      "localName": "大宮公園",
+      "coordinates": {
+        "lat": 35.918824199999996,
+        "lng": 139.6314088
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a2d0cff-7e9d-4512-b26d-4a3e7b8b35e3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a2d0cff-7e9d-4512-b26d-4a3e7b8b35e3.webp"
+        },
+        {
+          "url": "media/cached-image_5f21135754a5ef2d4f67191aa1c5a25a19798df2314f682f8bb57a97c0963511.jpg"
+        },
+        {
+          "url": "media/cached-image_8939b577518ec5adc5501f0edf037dc1f4bfa96f8b190fd9a5f3a33d4b67c36e.jpg"
+        },
+        {
+          "url": "media/cached-image_f618e19c1b6690f6f3caf99d68954544bcd978b54615bcffc08cc71d986c879b.jpg"
+        },
+        {
+          "url": "media/cached-image_3d2006c95574f5a97f1e38f453b149b2c10fd6801af713fb1cca30c172ba91ef.jpg"
+        },
+        {
+          "url": "media/cached-image_efda7b3ada2348fe3991299675902223266836d72780d588b06841de53cec475.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1792,
+      "priceLevel": null,
+      "address": "Omiya Park, 4 Chome Takahanacho, Omiya Ward, Saitama, 330-0803, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9183367,139.6317071,3a,90y,77.69h,89.94t/data=!3m7!1e1!3m5!1sknbKAwHV7VRoOGp0XPC9MQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.05918229421968135%26panoid%3DknbKAwHV7VRoOGp0XPC9MQ%26yaw%3D77.68574586587005!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Omiya Park appears in Episode 7 as a leisurely stop during Wakana and Marin's Saitama day trip, its cherry-blossom-lined paths providing a relaxed outdoor scene before the more emotionally weighty doll-district visit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq9y3qW-NGGARDKwO8EL9BX4",
+      "name": "Sunshine City Prince Hotel",
+      "localName": "サンシャインシティプリンスホテル",
+      "coordinates": {
+        "lat": 35.7295337,
+        "lng": 139.7195456
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6b881b60-2195-4b43-bd71-2484f881ca7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6b881b60-2195-4b43-bd71-2484f881ca7c.webp"
+        },
+        {
+          "url": "media/cached-image_e01ecd1db739be868168b63a0ce01116d37fb51a39a927feeb4514da04b10fc2.jpg"
+        },
+        {
+          "url": "media/cached-image_2da7bff7f48cec372113adeb97cd7978a0ac82cb9164c5c4196ce43dd5c46f5e.jpg"
+        },
+        {
+          "url": "media/cached-image_93116d1e49131337f21df1f9231450e6fc2669d265a0353ba3d368c21912bc2c.jpg"
+        },
+        {
+          "url": "media/cached-image_1e52b40005091520f41127b848a1171586338612b67f8b51b75233d5ac0d2e56.jpg"
+        },
+        {
+          "url": "media/cached-image_0ac965471e62b21a4fccb434fb25601d3cd2076f1b251aed3363049e854cfa47.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sunshine City Prince Hotel, 3 Chome-1-5 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7298464,139.7198964,3a,75.3y,200.19h,114.61t/data=!3m7!1e1!3m5!1sOfhDWCbZHqnt4lnAOMxPdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-24.610562414426653%26panoid%3DOfhDWCbZHqnt4lnAOMxPdQ%26yaw%3D200.18830756587275!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Sunshine City Prince Hotel hosts a cosplay event in Episode 8 that Marin and her friends attend, the hotel's large convention spaces serving as the venue where Marin shows off her latest costume to an enthusiastic crowd."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW31c3Bz1GGAR4KwpF4Yv7Bw",
+      "name": "SOLSO HOME",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6113967,
+        "lng": 139.6296768
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e94c811c-89f3-437c-8117-7b78b1b3115d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e94c811c-89f3-437c-8117-7b78b1b3115d.webp"
+        },
+        {
+          "url": "media/cached-image_6d89a0fd436f58a338ada4d48ba09ca2576ba34fee073f930e925f100c1e8e47.jpg"
+        }
+      ],
+      "type": "Garden center",
+      "categories": [
+        "Garden center"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒158-0094 Tokyo, Setagaya City, Tamagawa, 1 Chome−14−1 SOLSO HOME, 二子玉川ライズ S.C. テラスマーケット 2F 二子玉川 蔦屋家電",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6113769,139.6297939,2a,90y,16.34h,97.99t/data=!3m7!1e1!3m5!1sndDVbjkyGXVMC92OUsMGDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.994693550065122%26panoid%3DndDVbjkyGXVMC92OUsMGDA%26yaw%3D16.337638238185203!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "SOLSO HOME at Futako-Tamagawa appears in Episode 8 as a plant and lifestyle goods store Marin visits to find natural materials for wig and accessory crafting, her eye for detail as a cosplayer drawing her to the shop's botanical displays."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIUwjZkHBGGARj4EKDBEEYyY",
+      "name": "Don Quijote Omiya Station East Entrance Store",
+      "localName": "ドン・キホーテ 大宮東口店",
+      "coordinates": {
+        "lat": 35.9077124,
+        "lng": 139.6252245
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96ecd7b5-4f7f-40c8-986a-5d14d32b5c31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96ecd7b5-4f7f-40c8-986a-5d14d32b5c31.webp"
+        },
+        {
+          "url": "media/cached-image_664717f8566501acc7fd489f977ca0df01c897929d904982e6de0338937b722e.jpg"
+        },
+        {
+          "url": "media/cached-image_e29901e3b3555840068fc03a031b50673f4f234dc7686d9342e659a2d0c0ae2e.jpg"
+        }
+      ],
+      "type": "Discount store",
+      "categories": [
+        "Discount store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Don Quijote Omiya Station East Entrance Store, 1 Chome-６０ Miyacho, Omiya Ward, Saitama, 330-0802, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9075881,139.6250598,3a,90y,50.75h,121.35t/data=!3m7!1e1!3m5!1s1jAz7PnqGU94KjyX4YNTLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-31.347331744325402%26panoid%3D1jAz7PnqGU94KjyX4YNTLw%26yaw%3D50.748085800642464!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Don Quijote's Omiya branch appears in Episode 9 as a late-night shopping stop where characters pick up event supplies, its chaotic variety-store atmosphere providing an energetic backdrop for group banter."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_25",
+      "name": "Pinocchio Hair Salon",
+      "localName": "美容室ピノキオ",
+      "coordinates": {
+        "lat": 35.95118,
+        "lng": 139.69413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32a78445-7ce6-4377-ac8a-0184d7997d0d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32a78445-7ce6-4377-ac8a-0184d7997d0d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.9511921,139.6940773,3a,73.9y,132.61h,94.14t/data=!3m7!1e1!3m5!1swhTcXZUf67X0lck4HbnNgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.139177957146401%26panoid%3DwhTcXZUf67X0lck4HbnNgw%26yaw%3D132.61181684705707!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Pinocchio Hair Salon in Iwatsuki appears in Episode 10 near Iwatsuki Station as a local neighborhood landmark in scenes establishing the traditional town character of the doll-making district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoYreFi7BGGARz-mkaJyiW0M",
+      "name": "Omiya Kadomachi",
+      "localName": "大宮門街",
+      "coordinates": {
+        "lat": 35.907204799999995,
+        "lng": 139.6277922
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49972dfe-d9e2-4296-85db-c0ed30c95ba2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49972dfe-d9e2-4296-85db-c0ed30c95ba2.webp"
+        },
+        {
+          "url": "media/cached-image_fe6388abc4eafef28bb2f044b46a1293bd5342c075c784d58d4a0ce348e1855b.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omiya Kadomachi, 2 Chome-118 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9068763,139.627386,3a,51.7y,4.64h,94.61t/data=!3m7!1e1!3m5!1scZIQAlFbVQWB46W5eCoRDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.610315726074617%26panoid%3DcZIQAlFbVQWB46W5eCoRDg%26yaw%3D4.644738684587243!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Omiya Kadomachi shopping complex appears in Episode 10 as the modern commercial anchor near Omiya Station, contrasting with the older doll-district streets and grounding the Saitama arc in recognizable contemporary urban space."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ83fl_2eNGGARAeCn0eR8MwU",
+      "name": "Aoyama Flower Market Ikebukuro East Exit Store",
+      "localName": "青山フラワーマーケット池袋東口店",
+      "coordinates": {
+        "lat": 35.730154899999995,
+        "lng": 139.71191199999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/01baa927-2e57-4790-9fff-c5e31179b0bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/01baa927-2e57-4790-9fff-c5e31179b0bb.webp"
+        },
+        {
+          "url": "media/cached-image_415adad43af85d43b9f05fe3262257e7dd86bc9986c7f8cd55a030a78292fa4f.jpg"
+        }
+      ],
+      "type": "Florist",
+      "categories": [
+        "Florist"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Aoyama Flower Market, B1F 1 Chome-28-1 Minamiikebukuro, Toshima City, Tokyo 171-8569, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7303933,139.711945,2a,90y,136.06h,89.39t/data=!3m7!1e1!3m5!1sRfXFx4AYRNAhNqUEQpUK-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.6108858893403948%26panoid%3DRfXFx4AYRNAhNqUEQpUK-g%26yaw%3D136.0623665256429!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Aoyama Flower Market at Ikebukuro's east exit appears in Episode 11 where Marin buys flowers as a small gift, the gesture marking one of the season's quiet romantic moments that fans highlight in pilgrimage posts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMRScGGqTGGARXYHWYjI4HyU",
+      "name": "guest house MOSHIMO/ゲストハウスモシモ",
+      "localName": "ゲストハウスモシモ",
+      "coordinates": {
+        "lat": 35.779065599999996,
+        "lng": 139.734678
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7fb3fbc1-34aa-4440-8c16-38bb46efc57d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7fb3fbc1-34aa-4440-8c16-38bb46efc57d.webp"
+        }
+      ],
+      "type": "Retail space rental agency",
+      "categories": [
+        "Retail space rental agency"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒115-0042 Tokyo, Kita City, Shimo, 3 Chome−27−2 guest house MOSHIMO/ゲストハウスモシモ",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7787658,139.7347577,3a,34.3y,344.39h,94.93t/data=!3m7!1e1!3m5!1sNTdMwtOU6rRXdaA2-cy7dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.926163848498632%26panoid%3DNTdMwtOU6rRXdaA2-cy7dw%26yaw%3D344.39023592367164!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_29",
+      "name": "A STUDIO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.55074,
+        "lng": 139.61129
+      },
+      "image": "https://cdn.animepilgrimage.com/places/674c1f44-1e18-4525-8cbb-f109c2f74fa4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/674c1f44-1e18-4525-8cbb-f109c2f74fa4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5506332,139.6116537,3a,75y,290.98h,101.15t/data=!3m7!1e1!3m5!1sTjrD0MUVWvQZuV572pdHkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.145953146356476%26panoid%3DTjrD0MUVWvQZuV572pdHkw%26yaw%3D290.9812671874911!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_30",
+      "name": "Zen'yu Kogyo Co., Ltd.",
+      "localName": "全友興業（株）",
+      "coordinates": {
+        "lat": 35.551,
+        "lng": 139.61284
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a0618d6-4473-4f32-9652-935830886557.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a0618d6-4473-4f32-9652-935830886557.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5513582,139.6130884,3a,45.4y,205.72h,97.6t/data=!3m7!1e1!3m5!1s4GbvO5kbl_tMz26XZmgT4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.600141519031951%26panoid%3D4GbvO5kbl_tMz26XZmgT4g%26yaw%3D205.7191113688969!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_my-dress-up-darling-2_31",
+      "name": "Tsuda Manufacturing Co., Ltd.",
+      "localName": "（株）津田製作所",
+      "coordinates": {
+        "lat": 35.55056,
+        "lng": 139.61433
+      },
+      "image": "https://cdn.animepilgrimage.com/places/246f4e55-8a2c-40b8-9454-238a60deacd3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/246f4e55-8a2c-40b8-9454-238a60deacd3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.5498787,139.6155558,3a,55.6y,303.5h,96.71t/data=!3m7!1e1!3m5!1sUQq5TdwXWNzeQfqSMzWXAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.713361314359318%26panoid%3DUQq5TdwXWNzeQfqSMzWXAQ%26yaw%3D303.50283446418865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6XuHo8aOGGARoz7NXcqPyWU",
+      "name": "Tobu Tourist Information Center Ikebukuro",
+      "localName": "東武ツーリストインフォメーションセンター浅草",
+      "coordinates": {
+        "lat": 35.7115064,
+        "lng": 139.797966
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f5d3b11-f216-4973-b704-ee907b01654d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f5d3b11-f216-4973-b704-ee907b01654d.webp"
+        },
+        {
+          "url": "media/cached-image_88049c65f19584cc24caa4a2ff8a5bea5a36b884d6af3907587a20f678ea0604.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tobu Tourist Information Center Asakusa, 1 Chome-4-1 Hanakawado, Taito City, Tokyo 111-0033, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7305135,139.7105054,2a,90y,199.18h,93.79t/data=!3m7!1e1!3m5!1spB2WYgt_inx1eaCbEGd_0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7940052394944956%26panoid%3DpB2WYgt_inx1eaCbEGd_0Q%26yaw%3D199.18291784686048!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Tobu Tourist Information Center at Asakusa appears in Episode 12 as a transit reference point when characters plan travel, its role as a wayfinding hub mirroring the episode's theme of characters finding direction in their relationships."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMduUGS2NGGARz2G23pm6-Yw",
+      "name": "JR East Ikebukuro ticket office",
+      "localName": "池袋駅 みどりの窓口",
+      "coordinates": {
+        "lat": 35.730110499999995,
+        "lng": 139.71129639999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96013577-a225-49c8-94a8-d051d797b18a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96013577-a225-49c8-94a8-d051d797b18a.webp"
+        },
+        {
+          "url": "media/cached-image_fe4bd4c3c584908914a2787854822b6c31136dab8a532106b32944c0d7ba8510.jpg"
+        }
+      ],
+      "type": "Train ticket office",
+      "categories": [
+        "Train ticket office"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "JR East Ikebukuro ticket office, 池袋駅 1 Chome-28-1 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7302378,139.7113023,2a,28.9y,215.25h,88.92t/data=!3m7!1e1!3m5!1s93q2ggJ9GpSMX-S-tUAxLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0755315933069909%26panoid%3D93q2ggJ9GpSMX-S-tUAxLA%26yaw%3D215.24605163291466!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The JR Ikebukuro ticket office (Midori no Madoguchi) appears in Episode 12 as Wakana purchases a ticket for a meaningful journey, the mundane act of buying a train ticket charged with emotional weight in the season's climax."
+    }
+  ]
+}

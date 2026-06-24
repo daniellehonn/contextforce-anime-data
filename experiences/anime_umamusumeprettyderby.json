@@ -1,0 +1,906 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Uma Musume Pretty Derby",
+  "slug": "uma-musume-pretty-derby",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_915e2680328684bfb3cbf24bccb035447eae00e7d68010ef8344f08d9d1d148d.webp",
+  "image": "media/cached-image_915e2680328684bfb3cbf24bccb035447eae00e7d68010ef8344f08d9d1d148d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.907608568181814,
+    "lng": 139.28646266363637
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Uma Musume Pretty Derby"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-pretty-derby_0",
+      "name": "Fujitaya",
+      "localName": "藤田屋",
+      "coordinates": {
+        "lat": 37.09696,
+        "lng": 140.00136
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d75814d-71bf-4413-af74-5f15f2ccaa8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d75814d-71bf-4413-af74-5f15f2ccaa8a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@37.0968975,140.0014264,3a,90y,101.74h,103.29t/data=!3m7!1e1!3m5!1sGhhQZxBcObXMTtgR45JtuA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.289410983763815%26panoid%3DGhhQZxBcObXMTtgR45JtuA%26yaw%3D101.74066457027402!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJodOaRt-MGGAR9lrfooNUIR4",
+      "name": "Pepper Lunch Tokyo Racecourse",
+      "localName": "ペッパーランチ 東新宿店",
+      "coordinates": {
+        "lat": 35.6983726,
+        "lng": 139.70731899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b5efd88-f2b5-43fc-b9a9-46dd10ccdd0f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b5efd88-f2b5-43fc-b9a9-46dd10ccdd0f.webp"
+        },
+        {
+          "url": "media/cached-image_5cee8197c5edfa8eebfdcbb046c876a30fbcd3f346b73e4bce47f8ded39a497f.jpg"
+        },
+        {
+          "url": "media/cached-image_5fa05a8bea3eb186538a8ad1a5246a92ab0806a74022bcd126da48fe741537c2.jpg"
+        },
+        {
+          "url": "media/cached-image_c6b2487ea354e87911950baf5a1c72d00e33ca597fbbd06f3362b448a8605bf0.jpg"
+        },
+        {
+          "url": "media/cached-image_89a96eb8cd037cd7cae3fbf096a7bc7ceab2922f6adfe2ae67f518deedb4a136.jpg"
+        },
+        {
+          "url": "media/cached-image_57718a64ba3eb36b616f3cf3107f7d5f380be72400774fdfc01408c6775116eb.jpg"
+        }
+      ],
+      "type": "Steak house",
+      "categories": [
+        "Steak house"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pepper Lunch, 1 Chome-1-49 Okubo, Shinjuku City, Tokyo 169-0072, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659334,139.4845555,3a,31.8y,227.38h,91.78t/data=!3m7!1e1!3m5!1sIjO4iw4GV1nAE4i4h7XnTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7761703440438765%26panoid%3DIjO4iw4GV1nAE4i4h7XnTQ%26yaw%3D227.38124169310936!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "In episode 1, Special Week and her new teammates celebrate her arrival near the racecourse at Pepper Lunch, establishing the lively food culture around Tokyo Racecourse that the horse girls enjoy between training sessions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-pretty-derby_2",
+      "name": "Golden Horse (Ahalteke)",
+      "localName": "黄金の馬(アハルテケ)像",
+      "coordinates": {
+        "lat": 35.66795,
+        "lng": 139.4847
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e342da4-334b-4b55-92ca-ed4133828c01.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e342da4-334b-4b55-92ca-ed4133828c01.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6680283,139.4847111,3a,42.3y,172.31h,89.88t/data=!3m7!1e1!3m5!1sNpwQRueRIRtsWQZn3NqBuA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.12087863730401693%26panoid%3DNpwQRueRIRtsWQZn3NqBuA%26yaw%3D172.31138357587471!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The gleaming Ahalteke statue outside Tokyo Racecourse appears in episode 1 as Special Week first lays eyes on the legendary track, her wide-eyed wonder setting the tone for her dream to become the greatest horse girl in Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5TAr7vrkGGARXOK4SVnLw0g",
+      "name": "Kiraboshi Bank Fuchu Branch",
+      "localName": "きらぼし銀行 府中支店",
+      "coordinates": {
+        "lat": 35.672809099999995,
+        "lng": 139.4789966
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0eceb40d-55a0-441a-aec3-3be901225562.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0eceb40d-55a0-441a-aec3-3be901225562.webp"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kiraboshi Bank Fuchu Branch, 1 Chome-１ Kotobukicho, Fuchu, Tokyo 183-0056, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6728252,139.4808456,3a,90y,150.58h,96.34t/data=!3m7!1e1!3m5!1sBBr28AgOoB4h0E6bQCAZYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.336918081551346%26panoid%3DBBr28AgOoB4h0E6bQCAZYg%26yaw%3D150.57654628030775!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Kiraboshi Bank branch in Fuchu appears in episode 1 as a recognizable background building in the streets near Tokyo Racecourse, part of the detailed Fuchu cityscape that pilgrimage visitors can match to the animated scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM2WAexjlGGARfmb0bmlQHYs",
+      "name": "Higashi-fuchu Station",
+      "localName": "東府中駅",
+      "coordinates": {
+        "lat": 35.6689181,
+        "lng": 139.4950907
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a4feb35d-0482-4514-83f5-3eb9adf214ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a4feb35d-0482-4514-83f5-3eb9adf214ee.webp"
+        },
+        {
+          "url": "media/cached-image_890bbd8777038ce293d539f497566dab8b3c9fb31b153fdc01cc52f7880eb588.jpg"
+        },
+        {
+          "url": "media/cached-image_8b178a540cc6f52493bb7cbc32e3960ccc9c978d639220f502fc0213f0014f4d.jpg"
+        },
+        {
+          "url": "media/cached-image_898c56a786f568a9cbb947d49413bec46286b092226158c3f15922f3dabfae2c.jpg"
+        },
+        {
+          "url": "media/cached-image_221d2c2622226409467912bed30087bab58fbf60640828ce61c0af96c4b0a856.jpg"
+        },
+        {
+          "url": "media/cached-image_300edc8c7c4fa985601d06004d46c5242df6db901b24117b9688ca248612bba8.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 285,
+      "priceLevel": null,
+      "address": "Higashi-fuchū Station, 1-chōme Shimizugaoka, Fuchu, Tokyo 183-0015, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6689502,139.4950571,2a,90y,115.8h,94.95t/data=!3m7!1e1!3m5!1sH2TE2UraMlA3WfCA9BoCXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.950374761170835%26panoid%3DH2TE2UraMlA3WfCA9BoCXA%26yaw%3D115.79653432354453!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "In episode 1, Special Week mistakenly gets off one stop too early at Higashi-Fuchu instead of the racecourse gate station, a charming debut blunder that cements the station as a beloved pilgrimage spot for fans retracing her first day in Tokyo.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5Wq3tqytdV8RGdtIUCLAZlY",
+      "name": "Hidaka Taiyo Ranch",
+      "localName": "日高大洋牧場",
+      "coordinates": {
+        "lat": 42.48623,
+        "lng": 142.110971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/64bbd2c3-d327-47f5-a786-394d1e5f075c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/64bbd2c3-d327-47f5-a786-394d1e5f075c.webp"
+        },
+        {
+          "url": "media/cached-image_7808e00891fb1f000bf75ab44cc17f68384d9f6f0881169926267d92e6d53258.jpg"
+        }
+      ],
+      "type": "Ranch",
+      "categories": [
+        "Ranch"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hidaka Taiyo Ranch, 36 Asahimachi, Hidaka, Saru District, Hokkaido 059-2127, Japan",
+      "city": "Hidaka",
+      "region": "Saru District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.4855729,142.1130947,3a,75y,359.74h,95.7t/data=!3m7!1e1!3m5!1s8AkvMEAyobOsg1lmcJmE4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.702606929902132%26panoid%3D8AkvMEAyobOsg1lmcJmE4A%26yaw%3D359.7409697590466!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The lush Hokkaido ranch landscape of the opening sequence evokes Special Week's rural upbringing, where she grew up watching horse racing on television and dreaming of the big stages in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf0wGvh3ACl8RVm0AYumCTCk",
+      "name": "Ginzan Station",
+      "localName": "銀山駅",
+      "coordinates": {
+        "lat": 43.041028499999996,
+        "lng": 140.7151829
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4bf8d3b0-126b-445f-8a93-19ec61178a67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4bf8d3b0-126b-445f-8a93-19ec61178a67.webp"
+        },
+        {
+          "url": "media/cached-image_00efb3ea7afcfb178938c2e803fd34734a39447526e910c04e8bc6b7d30efe7d.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ginzan Station, 1-chōme Ginzan, Niki, Yoichi District, Hokkaido 048-2335, Japan",
+      "city": "Niki",
+      "region": "Yoichi District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Ginzan+Station/@43.0410402,140.7152568,3a,90y,325.23h,113.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICE57jzuAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ-e0cENKFadnFXtIxVtl67x1lyE_k2Z1gjcnSoh1TcdN-iriK_3Vu1mNCEBY8rIYaI8I5vsyPTc8FDVVeWTvGNk7XufUnG-vJS6YMb2uvvhigBZfPEZsMV98R_qry7iEKjx_TJMA%3Dw900-h600-k-no-pi-23.175390882767914-ya324.5547728978769-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x5f0ac01dbe064c7f:0x294c82e962006d56!8m2!3d43.0410285!4d140.7151829!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F05zjs1_?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Ginzan Station in Hokkaido appears in the opening sequence as the remote rural departure point tied to Special Week's real-life counterpart, who was also bred in Hokkaido before heading to the capital to compete."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ25tiKOKAGGARJ43koRMjYu0",
+      "name": "Nakayama Racecourse",
+      "localName": "中山競馬場",
+      "coordinates": {
+        "lat": 35.7251681,
+        "lng": 139.9599188
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e1af305-d323-4a55-9331-31ef8729318b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e1af305-d323-4a55-9331-31ef8729318b.webp"
+        },
+        {
+          "url": "media/cached-image_f8a0e8811c5fad0587e8d7308c4c49ac8b449bc5a06bb4f111358003dc28a204.jpg"
+        },
+        {
+          "url": "media/cached-image_95aae8f4fc306f6155acef3b9610a3d6f97558b17539ccd56e62abe6661001c3.jpg"
+        },
+        {
+          "url": "media/cached-image_66d6eb094b9127a69f77334a8b9ab76cc8901a64bbb1f4976d565ba233bbaa71.jpg"
+        },
+        {
+          "url": "media/cached-image_370c226b6b0216f480160976148ac9c4d9b65356885ac39555171a8f9708df10.jpg"
+        },
+        {
+          "url": "media/cached-image_ae575637a5064ff21efac74576ce3510f7ddea2d32ba4d04d879abbfffdbed4f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 137,
+      "priceLevel": null,
+      "address": "Nakayama Racecourse, 1 Chome-1-1 Kosaku, Funabashi, Chiba 273-0037, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/v8bhg8gnxfD8g7C16",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Nakayama Racecourse is featured in episode 3, serving as the setting for the Satsuki Sho race where the rivalry between the horse girls intensifies and the stakes of the Triple Crown campaign become clear.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFwCwXLvlGGAR0q3LOF_upBs",
+      "name": "Paddock in Tokyo racecourse",
+      "localName": "東京競馬場 パドック",
+      "coordinates": {
+        "lat": 35.665802299999996,
+        "lng": 139.483479
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ed6f20f-4489-4952-a92d-e4531e5c08df.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ed6f20f-4489-4952-a92d-e4531e5c08df.webp"
+        },
+        {
+          "url": "media/cached-image_17a6a51a3d10532f71b66095bd602dd89477970b1a2590e01a532e0f064428ab.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Paddock in Tokyo racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6654663,139.4832826,3a,46.3y,356.32h,88.7t/data=!3m7!1e1!3m5!1sOf9tUVkYeGy4sx4FTSnxCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3016032844548988%26panoid%3DOf9tUVkYeGy4sx4FTSnxCQ%26yaw%3D356.3215858703565!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Tokyo Racecourse paddock appears from episode 1 onward as the charged pre-race arena where fans line up to watch the horse girls parade, capturing the electric atmosphere of race day that defines the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNaals-HkGGARUfk8jRYyt0k",
+      "name": "JRA Tokyo Racecourse",
+      "localName": "東京競馬場",
+      "coordinates": {
+        "lat": 35.6637899,
+        "lng": 139.4832255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87de443d-41f1-4be6-82cb-2c60b83bbfc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87de443d-41f1-4be6-82cb-2c60b83bbfc4.webp"
+        },
+        {
+          "url": "media/cached-image_af9ad566ad4cdb93083b17e3fa1ff2d76f5abf69d99e7b021bfab1f32aacd970.jpg"
+        },
+        {
+          "url": "media/cached-image_07996f8342ef99fd8b920c0f139c53a92c3befa0d756e06afeb559cd5917c25a.jpg"
+        },
+        {
+          "url": "media/cached-image_88d950353bc231d108d9bed1c7b4e6aadf2b6f130792fa28c50981d9267301fe.jpg"
+        },
+        {
+          "url": "media/cached-image_af64085ec3c8746a78b7d99afd58ddab620af38a1438487cfe0df43b02584a2d.jpg"
+        },
+        {
+          "url": "media/cached-image_a368680eeba293bbb5d9e2f52938f44d71b83b1b0ba1e35b071a191274baf5a9.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": 597,
+      "priceLevel": null,
+      "address": "JRA Tokyo Racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659143,139.4846136,3a,75y,10.35h,96.43t/data=!3m7!1e1!3m5!1sZSPwztEqxtU2GTAKCtr31Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.434030561449447%26panoid%3DZSPwztEqxtU2GTAKCtr31Q%26yaw%3D10.346284680204406!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tokyo Racecourse is the central stage of the entire series, hosting Special Week's most defining races including the Japan Cup climax, and the track she vows to conquer when she first arrives in episode 1.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU4_tM-jzAGARDEr9DdyHaLo",
+      "name": "Hanshin Racecourse",
+      "localName": "阪神競馬場",
+      "coordinates": {
+        "lat": 34.7789941,
+        "lng": 135.3611273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e48f4fb8-ba7f-4112-afa6-7be4c043621f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e48f4fb8-ba7f-4112-afa6-7be4c043621f.webp"
+        },
+        {
+          "url": "media/cached-image_77ae47d0ac4cade6b5ec72c23df28d0d675d7975030c8ce19bf7de790fc77939.jpg"
+        },
+        {
+          "url": "media/cached-image_78894d71e81db11250fe3345864da4410744949995e1612bb396514ec6f56637.jpg"
+        },
+        {
+          "url": "media/cached-image_557799cad84e592ce16726dd8fedb27a16ca2fc47b869b498bbb977be6714b2a.jpg"
+        },
+        {
+          "url": "media/cached-image_f64ef1aa47b610c9e6df9566df3a53f7c99913b7a6939f61c3a4a100945962ad.jpg"
+        },
+        {
+          "url": "media/cached-image_19cc628d22eeed77bc413b7c327ae867f2ec20239a89e270883f765fabfafd7f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 222,
+      "priceLevel": null,
+      "address": "Hanshin Racecourse, 1-1 Komanocho, Takarazuka, Hyogo 665-0053, Japan",
+      "city": "Takarazuka",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7796261,135.3603216,3a,90y,25.08h,104.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq85S4ZQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY7NkRzizAomLA9WB7ONzdm5uc35UGJwlfG83iwwmbZJY5quGwhByvpXsxMuo1i3l8xiSQfhc6F4lVOCG4Uz44e3CezNIiOUmnpcvexAjshWzSKTF_2d4ogjE6q6YEsPMiv3yPR%3Dw900-h600-k-no-pi-14.363096909493805-ya21.5608794040896-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Hanshin Racecourse appears in episode 2 as the venue for Silence Suzuka's triumphant race, where her flowing, solitary running style captivates Special Week and becomes the emotional catalyst for their bond.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlSj0rD4FAWAR2g59hNCbCT8",
+      "name": "JRA Kyoto Racecourse",
+      "localName": "京都競馬場",
+      "coordinates": {
+        "lat": 34.9070391,
+        "lng": 135.7245324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cccfc369-bab9-4603-baf5-c3ebff0212c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cccfc369-bab9-4603-baf5-c3ebff0212c6.webp"
+        },
+        {
+          "url": "media/cached-image_8b86ee6fe6bc88093e3ee0a6667064a36aec69bcdf61a93d4c2166775beb88b4.jpg"
+        },
+        {
+          "url": "media/cached-image_6fb5009bfca7ca21469091232d9684c95582c273ce890d6bb7cd197e18a2319f.jpg"
+        },
+        {
+          "url": "media/cached-image_9fae9c8dadcdf9294cef2a47e8577fa8b42b15b6aff62d1ab6ec23f4188de293.jpg"
+        },
+        {
+          "url": "media/cached-image_631570010131b437a7f036b6eef5629b5271d118f1463907b997f14e9f99b5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_33bd7a4c4468cd1b9c0b6064945d18d3836d017579df87680f71a545223d4ed2.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "JRA Kyoto Racecourse, 32 Yoshijima Watashibajimacho, Fushimi Ward, Kyoto, 612-8265, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JRA+Kyoto+Racecourse/@34.907505,135.7261062,3a,90y,68.11h,111.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC448afgAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbUflDmlRuAYKHPCoXBsBSpc437EOqZMRKWqX7M8I_POpDtt0yqUFM6jiFUmK7QHcj0Xadf47o7LTQJsCMRj2dcJdMHDaM-TMLKVHwNtZ9Gr-lfT2lyj8mEo3pjt13BUC8QJkwSLw%3Dw900-h600-k-no-pi-21.823584427852026-ya68.11358954036882-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6001053eacf42895:0x3f099bd0847d0eda!8m2!3d34.9070391!4d135.7245324!10e5!14m1!1BCgIgARICCAI!16zL20vMDcycThy?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Kyoto Racecourse is referenced in episode 7 as a key race venue in the classic circuit, drawing the characters into the high-pressure prestige races that define the second half of their season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt81PBzFjA2ARX8IW-4GVQIg",
+      "name": "West Entrance Gate of Chukyo Racecourse",
+      "localName": "中京競馬場",
+      "coordinates": {
+        "lat": 35.0656726,
+        "lng": 136.9872765
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9a0fef66-f13a-472e-a7c4-5aa6031c45b1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9a0fef66-f13a-472e-a7c4-5aa6031c45b1.webp"
+        },
+        {
+          "url": "media/cached-image_9ade132f826e097b5af5c49e1f0d7cd221cde4458bdba3fcc7f3db6828b9ea73.jpg"
+        },
+        {
+          "url": "media/cached-image_f640782abd07c0c3bf7e28717b9fda0bdef425c86f8faf72aa7ac0039959182f.jpg"
+        },
+        {
+          "url": "media/cached-image_17d7f2ef525121296df23251183de32a55ca09d3d0a45470688277883003a4c0.jpg"
+        },
+        {
+          "url": "media/cached-image_bbdee884e2aa7aa48d19f046337a221207a99d72829a948b48f800df72de7957.jpg"
+        },
+        {
+          "url": "media/cached-image_8623e1a9030b9a5a57c22336e6db3a9295910b3c1b4697b1a3f388f693646b98.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.1,
+      "reviewCount": 54,
+      "priceLevel": null,
+      "address": "JRA Chukyo Racecourse, Shikita-1225 Magomecho, Toyoake, Aichi 470-1132, Japan",
+      "city": "Toyoake",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0650997,136.986842,3a,48.7y,25.87h,93.44t/data=!3m7!1e1!3m5!1s7joCYd9t1JwmaICY49zszg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4357147753296857%26panoid%3D7joCYd9t1JwmaICY49zszg%26yaw%3D25.871893640120152!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chukyo Racecourse appears in episode 3 as part of the spring classics circuit, its distinctive entrance gate visible as the horse girls compete in major races away from Tokyo for the first time."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVze90XnzImARoRp3YqEpbtU",
+      "name": "Narita International Airport",
+      "localName": "成田国際空港",
+      "coordinates": {
+        "lat": 35.770178,
+        "lng": 140.3843215
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9fc4d24-9122-4a0b-8755-c9f1e518c474.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9fc4d24-9122-4a0b-8755-c9f1e518c474.webp"
+        },
+        {
+          "url": "media/cached-image_1877fbe78620c311bb460957e21a14e1f401dc693bed9c77e82f442fd165e419.jpg"
+        },
+        {
+          "url": "media/cached-image_1b579a15c77901b450ae4286f34672c3ff7787918fab1bae7c369b12208f3312.jpg"
+        },
+        {
+          "url": "media/cached-image_3b97227bd22e27a4848a0b41eb53fa97481976fdadc1f5c1a875da193c0d32b8.jpg"
+        },
+        {
+          "url": "media/cached-image_0335ec029bf24a3b978a678176bf1c96982f4f24dee95c6d3dcede9d39ba19f0.jpg"
+        },
+        {
+          "url": "media/cached-image_72c965f66e7ce50035cc64e20386b7cafffed3b4a1bc2e39f77c8585d0766fe2.jpg"
+        }
+      ],
+      "type": "International airport",
+      "categories": [
+        "International airport"
+      ],
+      "rating": 4.3,
+      "reviewCount": 3349,
+      "priceLevel": null,
+      "address": "Narita International Airport (NRT), 1-1 Furugome, Narita, Chiba 282-0004, Japan",
+      "city": "Narita",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7633731,140.3863095,3a,90y,202.43h,101.22t/data=!3m8!1e1!3m6!1sAF1QipM6KC1mbGnpdtDQEtvE0u4Ub8Im9yWJO1x52ts!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM6KC1mbGnpdtDQEtvE0u4Ub8Im9yWJO1x52ts%3Dw900-h600-k-no-pi-11.223808937047693-ya337.4325160927074-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Narita Airport appears in episode 13, the season finale, as the backdrop for a consequential departure scene marking a pivotal transition for one of the central characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk-5rPFmJGGARLTzzx8aMv-o",
+      "name": "Menya Shichisai",
+      "localName": "麺や 七彩",
+      "coordinates": {
+        "lat": 35.677177199999996,
+        "lng": 139.7763297
+      },
+      "image": null,
+      "images": [],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Menya Shichisai, 2 Chome-13-2 Hatchobori, Chuo City, Tokyo 104-0032, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6656667,139.4847059,3a,75y,128.82h,93.9t/data=!3m7!1e1!3m5!1s5yVvnZrTH_VkO94YJ9Tc0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8988231447170563%26panoid%3D5yVvnZrTH_VkO94YJ9Tc0w%26yaw%3D128.81980689381737!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This ramen restaurant near the racecourse district appears in episode 1 as a background location in the Fuchu area, part of the everyday urban texture surrounding the horse girls' training life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCyFdX-HkGGARnZ8I5xaUxZA",
+      "name": "Spot Park Miyahigashi",
+      "localName": "スポットパークみやひがし",
+      "coordinates": {
+        "lat": 35.6683506,
+        "lng": 139.4832218
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f7e49bef-5cef-437e-91ff-0382b70b94c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f7e49bef-5cef-437e-91ff-0382b70b94c7.webp"
+        },
+        {
+          "url": "media/cached-image_2ae8e5e8db5b14efb5de4f585681b22ed698d2aeecd369d1e46cea90aeef17e6.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 1.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Spot Park Miyahigashi, 2 Chome-２５-11 Miyamachi, Fuchu, Tokyo 183-0023, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6683261,139.4833039,3a,75y,354.03h,99.59t/data=!3m7!1e1!3m5!1sHNa4PBkVYmYSgAom9pBSpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.58795011323096%26panoid%3DHNa4PBkVYmYSgAom9pBSpQ%26yaw%3D354.0270404297221!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This small park near Tokyo Racecourse appears in episode 13, used as a quiet outdoor setting for a reflective character scene close to the end of the season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNe6KO6spC18Rv6ISpXvc_7o",
+      "name": "JRA Sapporo Racecourse",
+      "localName": "札幌競馬場",
+      "coordinates": {
+        "lat": 43.0779224,
+        "lng": 141.3251626
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d2545c4-5572-4df9-8ab9-91a6c446e202.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d2545c4-5572-4df9-8ab9-91a6c446e202.webp"
+        },
+        {
+          "url": "media/cached-image_59327eadae440d3987ec9edf112514683cc430cb1541ba14b4fb2e058f2d9c90.jpg"
+        },
+        {
+          "url": "media/cached-image_f36b6cbea3ae9cf2118291095e023e6638203c5c7aae48f0a65ff6cf0a355260.jpg"
+        },
+        {
+          "url": "media/cached-image_756776ed726347ad4d67bcd3d186dca21d5b8ccf36f243fb1ff8ce0cdda811b6.jpg"
+        },
+        {
+          "url": "media/cached-image_5eed3d7d98de9b780e69b1df58d5d7df7206601eb0ada39ea818cb2fe0cddbf6.jpg"
+        },
+        {
+          "url": "media/cached-image_05b44bcbc924c30a5cd9aef4d21b10dc48f6e7f18e07f1f564797c2d99246afe.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "JRA Sapporo Racecourse, 16 Chome-1-1 Kita 16 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0016, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JRA+Sapporo+Racecourse/@43.076171,141.3240145,3a,63.4y,359.67h,96.98t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDSiq-BQw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYAWCTOlHLxBUeyFohIlT8NnU2dctlzhdWA_iz5IBQfi_94W4svP847QuRjTAjZbWvix55sCE9J5I3_r_iQUBgKuF4dWVPBjE1VIBjK1UtwNBMXP-_vt_Yqqzo_fT5nwJTp4BE%3Dw900-h600-k-no-pi-6.975379558646225-ya270.89406797778844-ro0-fo100!7i11980!8i5990!4m9!3m8!1s0x5f0b29ab3b8aee35:0xbaffdc7ba512a2bf!8m2!3d43.0779224!4d141.3251626!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F02z8w4d?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Sapporo Racecourse appears in episode 10 as the venue for the summer Hokkaido race, a turning point episode where the characters compete on northern turf far from their Tokyo home base."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz_oI59Pgn18RDOtypXfWYb0",
+      "name": "Hidaka-Mombetsu Station",
+      "localName": "伊達紋別駅",
+      "coordinates": {
+        "lat": 42.4693362,
+        "lng": 140.85620219999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95f47b16-3e67-4fdc-807f-0408ef3466f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95f47b16-3e67-4fdc-807f-0408ef3466f1.webp"
+        },
+        {
+          "url": "media/cached-image_4ec911baf43615a51599391a4e2a86009d90af41d02f3dc42b371bbd55628058.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Datemombetsu Station, Yamashitachō, Date, Hokkaido 052-0032, Japan",
+      "city": "Date",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.4808998,142.0727053,3a,75y,9.53h,96.11t/data=!3m7!1e1!3m5!1s3g-cYUy9IyzNZzYXIFhTnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.109169069292946%26panoid%3D3g-cYUy9IyzNZzYXIFhTnA%26yaw%3D9.531798866889451!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This Hokkaido station appears in episode 10 during the characters' northern travel sequence, grounding the summer race arc in the real geography of Hokkaido's horse-breeding heartland."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-bSCy2bvGGARJhTv9oDKwSY",
+      "name": "Musashino Tokushukai Hospital",
+      "localName": "武蔵野徳洲会病院",
+      "coordinates": {
+        "lat": 35.7174249,
+        "lng": 139.5334851
+      },
+      "image": "https://cdn.animepilgrimage.com/places/376617cd-6dbc-4544-99c6-4b50d81667a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/376617cd-6dbc-4544-99c6-4b50d81667a3.webp"
+        },
+        {
+          "url": "media/cached-image_251729ac863c07e4b3b80bea96f090f6a4c4a8c32fff241a24ba9ca6e4eb53a3.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Musashino Tokushukai Hospital, 3 Chome-5-48 Mukodaicho, Nishitokyo, Tokyo 188-0013, Japan",
+      "city": "Nishitokyo",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7170657,139.5328393,3a,33.7y,69.45h,92.75t/data=!3m7!1e1!3m5!1sUER9i6uHbTVHQOcr8Ty4Pg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7538096461396293%26panoid%3DUER9i6uHbTVHQOcr8Ty4Pg%26yaw%3D69.44596816021563!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The hospital appears in episode 9 as the site where Silence Suzuka is rushed to after her devastating race injury, one of the most emotionally wrenching moments in the series that reframes Special Week's entire motivation.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJceHc0AmoAWARLsqeCrglA1o",
+      "name": "Kamo Shrine",
+      "localName": "上賀茂神社",
+      "coordinates": {
+        "lat": 35.060377599999995,
+        "lng": 135.7527293
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21c7fbd7-2988-43e5-bd8a-7ae81d59c08d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21c7fbd7-2988-43e5-bd8a-7ae81d59c08d.webp"
+        },
+        {
+          "url": "media/cached-image_68a0809a0864e307b822fd28a03cc5b4d832c880cb4b3a4a247bed0e349e7183.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 8867,
+      "priceLevel": null,
+      "address": "Kamigamo Shrine, 339 Kamigamo Motoyama, Kita Ward, Kyoto, 603-8047, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.124695,136.0654791,3a,24.6y,64.95h,94.26t/data=!3m7!1e1!3m5!1sbCY0uW63rip9ggCA4FrBVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.261533539918759%26panoid%3DbCY0uW63rip9ggCA4FrBVQ%26yaw%3D64.95207720679763!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kamo Shrine (Kamigamo Shrine) in Kyoto appears in episode 8 as a serene backdrop during the characters' Kyoto visit, where the ancient shrine atmosphere provides a contemplative contrast to the high-energy race scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDQ6nF9TlGGAROAJsGuC-nlI",
+      "name": "Inageya Kodaira Megurita",
+      "localName": "いなげや小平回田店",
+      "coordinates": {
+        "lat": 35.718529,
+        "lng": 139.491669
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd23ae4a-d746-4bde-925b-91143dc8406c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd23ae4a-d746-4bde-925b-91143dc8406c.webp"
+        },
+        {
+          "url": "media/cached-image_f9710afde800d5564afbf395401ee0dd5243adfd021b1ab089e7ea32627e6968.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Inageya, 92-1 Meguritacho, Kodaira, Tokyo 187-0013, Japan",
+      "city": "Kodaira",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7182077,139.4914258,3a,75y,61.25h,93.54t/data=!3m7!1e1!3m5!1s0n-HgbkZySDV4zIu_jqbGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5395213149244427%26panoid%3D0n-HgbkZySDV4zIu_jqbGw%26yaw%3D61.25109172767126!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This neighborhood grocery store near the training grounds appears in episode 8 as a slice-of-life location, showing the horse girls doing ordinary shopping as part of their daily routine between races."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNQp_mqSMGGARo7ToygR9ON0",
+      "name": "ABC-MART GRAND STAGE Harajuku Store",
+      "localName": "ABC-MART GRAND STAGE Harajuku Shop",
+      "coordinates": {
+        "lat": 35.6693582,
+        "lng": 139.7058777
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90dece1b-238b-490a-ac68-6932b9d8a72e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90dece1b-238b-490a-ac68-6932b9d8a72e.webp"
+        },
+        {
+          "url": "media/cached-image_6e689d616af3d3a01712e89c5081103c5d546806f216884a1de21d4f140b9c13.jpg"
+        }
+      ],
+      "type": "Shoe store",
+      "categories": [
+        "Shoe store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ABC-MART GRAND STAGE 原宿店, １Ｆ 1 Chome-9-18 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6694226,139.7061396,3a,75y,267.19h,108.53t/data=!3m7!1e1!3m5!1sSdIGdh0mw5AKwOSBQPx7vQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.52726071152742%26panoid%3DSdIGdh0mw5AKwOSBQPx7vQ%26yaw%3D267.1899230205134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The ABC-MART Harajuku store appears in episode 3 during a shopping scene where the characters look for running shoes, blending the fashion energy of Harajuku with the athletic focus of their training life."
+    }
+  ]
+}

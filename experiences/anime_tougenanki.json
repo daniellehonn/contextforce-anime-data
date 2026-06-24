@@ -1,0 +1,595 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tougen Anki",
+  "slug": "tougen-anki",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_05496171b4d19296dd1012bee020209701f171f49c9f8f023ee6e74ee7340111.webp",
+  "image": "media/cached-image_05496171b4d19296dd1012bee020209701f171f49c9f8f023ee6e74ee7340111.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.69227848571428,
+    "lng": 139.38165902857142
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tougen Anki"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0aqz-CvtGGARwPH-rnfmGgg",
+      "name": "Fureai-no-michi Boulevard, Hikarigaoka Park",
+      "localName": "光が丘公園 ふれあいの径",
+      "coordinates": {
+        "lat": 35.7599443,
+        "lng": 139.6290817
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10b0f1ad-802c-4da0-8604-190d6eacd39f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10b0f1ad-802c-4da0-8604-190d6eacd39f.webp"
+        },
+        {
+          "url": "media/cached-image_b19cb1f866c81a2af47c23542c08ea504b8c887e51ca4a6045900d8b7d0ca6f7.jpg"
+        },
+        {
+          "url": "media/cached-image_8bc41f4b60377d83d4505090e9cef03405a1fd44d5ee05fa6e0ec7578f7a1a13.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Fureai-no-michi Boulevard, Hikarigaoka Park, 5 Chome-1-1 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7597025,139.6290865,3a,72.1y,178.82h,105.45t/data=!3m7!1e1!3m5!1sNrhYUEEE2-qLrdjEvptsTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.450000000000003%26panoid%3DNrhYUEEE2-qLrdjEvptsTA%26yaw%3D178.82!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This tree-lined boulevard in Hikarigaoka Park serves as a recurring backdrop for Shiki's daily life scenes in the anime, capturing the quiet residential atmosphere of the neighborhood where he and his companions navigate their oni-human conflicts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_vchdMIAWARujTEUIZlr2I",
+      "name": "Kiyomizu-dera",
+      "localName": "清水寺",
+      "coordinates": {
+        "lat": 34.9946617,
+        "lng": 135.78495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6bdac95-2e6b-4323-9032-677d09585c7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6bdac95-2e6b-4323-9032-677d09585c7e.webp"
+        },
+        {
+          "url": "media/cached-image_8b498aee3b782a0ae03598d42a0c1e6a1e151818d09589575d1229ccd68d846d.jpg"
+        },
+        {
+          "url": "media/cached-image_869a47767434dfd1da8931b21343c036c69172f2b30c9214e86976fd0269be32.jpg"
+        },
+        {
+          "url": "media/cached-image_c921480b8da04b696046a464a72891139aaa0c3e1a02990808d4659a6b090bcb.jpg"
+        },
+        {
+          "url": "media/cached-image_467b678d95fc44298d096d61969961b3469b2c95f3e1ff3503659fd8bd927380.jpg"
+        },
+        {
+          "url": "media/cached-image_694741ead0d176d55ce5808f76a2b4664abea5fa085675b14032e771d1093eff.jpg"
+        },
+        {
+          "url": "media/cached-image_66f6ae2f41bdadad392468deda410d8379dda2abf3758e5786e256b7468363cd.jpg"
+        },
+        {
+          "url": "media/cached-image_be09727e367c8a9273d0cca5dcd69c4d9c9eebb14be2154e7039cff6da902735.jpg"
+        },
+        {
+          "url": "media/cached-image_a658adabe4c23698e8cd97121576bebf8b65be9b5afec991b90e95609ac25743.jpg"
+        },
+        {
+          "url": "media/cached-image_3c709a73106cc2fe87f58cfa35e130f1c6b8fb631bbbc0db90be50f7a1a2a5c5.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe232e07d062e393cfe22158e0166fe209459d31605c7772e958b74dd06b28.jpg"
+        },
+        {
+          "url": "media/cached-image_ee9b880437365e02e77d9ef2f512205e91eb62394eb69d811ec5b10da07c92d1.jpg"
+        },
+        {
+          "url": "media/cached-image_ce72f4651389c6cc3a30016a6b99a66801a7f3c75d6f66706a2b8eee37f1bf45.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67991,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9946617,135.78495,3a,75y,53.75h,94.43t/data=!3m8!1e1!3m6!1sAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc%3Dw203-h100-k-no-pi-0-ya263.58844-ro-0-fo100!7i6720!8i3360?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kiyomizu-dera appears during the Kyoto arc of Tougen Anki, where Shiki and allies travel to investigate oni activity connected to the region's ancient spiritual heritage. The temple's iconic wooden stage provides a visually striking setting for confrontations in that story arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM4s1NhXsGGARWP9rI1Sea1o",
+      "name": "Olive Tree Hikarigaoka Store",
+      "localName": "オリーブの木 光が丘店",
+      "coordinates": {
+        "lat": 35.7605053,
+        "lng": 139.6293157
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97709116-6cf9-463d-8654-dc3ca129c181.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97709116-6cf9-463d-8654-dc3ca129c181.webp"
+        },
+        {
+          "url": "media/cached-image_b670a62357a2ed57b3cd652d6c494d446a8716464bef173846379fdccf879e05.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Olive Tree, IMA東館 2F 2 Chome-10-2 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7604527,139.6290788,3a,46.6y,96.57h,92.73t/data=!3m7!1e1!3m5!1s2NZxZ26Hd52Yq2bgKiExeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7284348539893557%26panoid%3D2NZxZ26Hd52Yq2bgKiExeg%26yaw%3D96.56582736275516!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This Italian restaurant in the IMA shopping complex near Hikarigaoka Park is featured in episode 13 as a location tied to characters' everyday life in the Nerima area, grounding the supernatural story in the mundane details of the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI-L8DgztGGARwuUgk3ailvk",
+      "name": "Nerima Fire Station",
+      "localName": "東京消防庁 練馬消防署",
+      "coordinates": {
+        "lat": 35.737311999999996,
+        "lng": 139.65587399999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ffe0fb19-3f6d-41a9-901e-7c7bec99dd12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ffe0fb19-3f6d-41a9-901e-7c7bec99dd12.webp"
+        },
+        {
+          "url": "media/cached-image_dbe264f343f46cc5389b60cfa089e0b2ca6fb1c7d5918ca97712c0d21d9c0a6d.jpg"
+        }
+      ],
+      "type": "Fire station",
+      "categories": [
+        "Fire station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nerima Fire Station, 東京消防庁練馬消防署 5 Chome-1-8 Toyotamakita, Nerima City, Tokyo 176-0012, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/R7QqBP6Q18qmyjgb7",
+      "episodeType": "EP",
+      "episodeNumber": 19,
+      "entityContext": "The Nerima Fire Station exterior is used as a background location in episode 19 to establish the Nerima area's urban streetscape during scenes involving Shiki's activities in the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbdBX3gvtGGARXGcOoEg5atg",
+      "name": "Doutor Nerima Sengawa-dori",
+      "localName": "ドトールコーヒーショップ 練馬千川通り店",
+      "coordinates": {
+        "lat": 35.737151,
+        "lng": 139.6539679
+      },
+      "image": "https://cdn.animepilgrimage.com/places/80b6fe78-617f-4ec3-84ae-ed1ae75dbc37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/80b6fe78-617f-4ec3-84ae-ed1ae75dbc37.webp"
+        },
+        {
+          "url": "media/cached-image_30543f5835a7c9d3df8f55c6955bc60abb18df83b388ce910ff9f1e7981cc220.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Doutor Nerima Sengawa-dori, Kohno Bld., １Ｆ 5 Chome-18-9 Toyotamakita, Nerima City, Tokyo 176-0012, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wj5sojTao4kczNiX6",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "This Doutor coffee shop on Sengawa-dori appears in episode 17 as a street-level location in Nerima, used to depict the ordinary city environment that Shiki and the other characters move through between their encounters with oni."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1xirLo-NGGARIJFDSkQLIfQ",
+      "name": "Ginkgo Trees formerly of Tokyo City Hall",
+      "localName": "東京大学本郷キャンパス 銀杏並木",
+      "coordinates": {
+        "lat": 35.713309699999996,
+        "lng": 139.76099929999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/efddb6ac-ffb7-499a-ad4e-3df164a06bf1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/efddb6ac-ffb7-499a-ad4e-3df164a06bf1.webp"
+        },
+        {
+          "url": "media/cached-image_e64bf10d05a5da172e4a34f8fd4ae5b545387fe3ce6219450e4f485973b53145.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ginkgo Trees, Hongo Campus, University of Tokyo, 7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7615141,139.6290674,3a,48.4y,357.68h,96.8t/data=!3m7!1e1!3m5!1sQywPsqYpGZihn6Ly9ctMqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.80026667623892%26panoid%3DQywPsqYpGZihn6Ly9ctMqQ%26yaw%3D357.6821122849278!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The famous ginkgo tree avenue at the University of Tokyo's Hongo Campus appears in episode 13, providing a scenic backdrop that contrasts the university's elegant historic atmosphere with the supernatural events unfolding around Shiki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlcUOYD3sGGARCLUNovUEpyk",
+      "name": "Hotel Cadenza Tokyo",
+      "localName": "ホテルカデンツァ東京",
+      "coordinates": {
+        "lat": 35.7558733,
+        "lng": 139.6210634
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07b13bc0-f4ba-4cb7-b340-1830b01fe804.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07b13bc0-f4ba-4cb7-b340-1830b01fe804.webp"
+        },
+        {
+          "url": "media/cached-image_b5700376ac525146db710a5c11f632d18f3875376b8d88e864bc65c5ae6a80cc.jpg"
+        },
+        {
+          "url": "media/cached-image_e7c2f1abe3f5e174be698b3dc9e789c57963222c40bf08138ec833652fe035a2.jpg"
+        },
+        {
+          "url": "media/cached-image_8d91a97dcb8539035dab3bd93aa4e2ba719e41283a540698666e1c487f5a9ea9.jpg"
+        },
+        {
+          "url": "media/cached-image_2ad27d38d74f99bb97c31bf485f6b99b1c116f9a2169d461477b3f9255d1e83a.jpg"
+        },
+        {
+          "url": "media/cached-image_a020b274d9ae60dc06f2ccc8d6ca18543922542ccab92a331b153ae31ed7cb19.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.7,
+      "reviewCount": 147,
+      "priceLevel": null,
+      "address": "Hotel Cadenza Tokyo, CITY 5 Chome-8-5 Takamatsu, Nerima City, Tokyo 179-0075, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7556561,139.6205452,3a,90y,53.47h,110.03t/data=!3m7!1e1!3m5!1shIcAfo3sKOWzam7UejgVDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.034844626614287%26panoid%3DhIcAfo3sKOWzam7UejgVDQ%26yaw%3D53.47140430425424!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Hotel Cadenza Tokyo in Nerima appears in episode 13 as a location in the Hikarigaoka neighborhood, featured during scenes that establish the local area where Shiki's story is set."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ61_u4zDtGGARJdls-6VmOF0",
+      "name": "Hikarigaoka Park",
+      "localName": "光が丘公園",
+      "coordinates": {
+        "lat": 35.766377,
+        "lng": 139.629484
+      },
+      "image": "https://cdn.animepilgrimage.com/places/305a979f-1cef-4835-8590-8dbc8a3c8812.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/305a979f-1cef-4835-8590-8dbc8a3c8812.webp"
+        },
+        {
+          "url": "media/cached-image_497c179f3edcb1c7db00c02dbaca7b44b11cfe480abce2ccc3dfbf14af49586f.jpg"
+        },
+        {
+          "url": "media/cached-image_b555aab5a46aad25efdc84c5e4403eddf734057511e97fa8ccce24af3e924b2f.jpg"
+        },
+        {
+          "url": "media/cached-image_7784a5fb5f94f75dda4f706f341911adb44df4afe81a25d6d6cf43c2a6cfdd6e.jpg"
+        },
+        {
+          "url": "media/cached-image_7e03ec8159237d7bef1d8c983e70d5f97ffe32b653ee25309ec041d90935b617.jpg"
+        },
+        {
+          "url": "media/cached-image_9e8dc0a7e4079507bb6c1c895abba9464f785bc7f2d68a9b51108ef091a89534.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 661,
+      "priceLevel": null,
+      "address": "Hikarigaoka Park, 4 Chome-1-1 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7644153,139.6289642,3a,61.9y,128.56h,92.52t/data=!3m7!1e1!3m5!1s18_jLLMzyMUs7muHr1Bc1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.515946726006746%26panoid%3D18_jLLMzyMUs7muHr1Bc1A%26yaw%3D128.55889592056593!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Hikarigaoka Park is one of the most frequently depicted locations in Tougen Anki, serving as a central gathering point where Shiki has key encounters and where the contrast between peaceful suburban Tokyo and the hidden oni world is most strongly felt.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLwivwj_sGGARKDFtqk31m20",
+      "name": "Hikarigaoka Station",
+      "localName": "光が丘駅",
+      "coordinates": {
+        "lat": 35.7585093,
+        "lng": 139.6289329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ad9637c6-d355-4da4-b7bd-5d20d552ec12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ad9637c6-d355-4da4-b7bd-5d20d552ec12.webp"
+        },
+        {
+          "url": "media/cached-image_5863b2150c0a49c8bd5180d895e41351a8721584e0e670698a41a77b6528d9ad.jpg"
+        },
+        {
+          "url": "media/cached-image_4af602ca1259c89e5886bd081150b10ddf3005768964921ec3a83afc79d7ae46.jpg"
+        },
+        {
+          "url": "media/cached-image_1b21e76fb5d1c4163655e9eb9ce515951306184e4af45384f375169195cb8e72.jpg"
+        },
+        {
+          "url": "media/cached-image_df93eb6a2aa44b420bc42a1748b0b5f6776cd7538c896041208c6ec97de99a0d.jpg"
+        },
+        {
+          "url": "media/cached-image_58e7c79e6f95ab7b6710c0b5c4f42d4c31455783f556231828a4dde34d4278ca.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Hikarigaoka Station, 3-chōme-10 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.758631,139.6291602,2a,48.8y,274.17h,92.7t/data=!3m7!1e1!3m5!1scgM2LD7YKjqqDYw_OTNdXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7045080243359507%26panoid%3DcgM2LD7YKjqqDYw_OTNdXQ%26yaw%3D274.1718550610726!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Hikarigaoka Station, the terminus of the Toei Oedo Line, is depicted in episode 13 as Shiki's home station and a gateway to the Nerima neighborhood that forms the heart of the anime's setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfQjvBwztGGAR-BADLPxTIFM",
+      "name": "Sumitomo Mitsui Bank, Nerima Branch",
+      "localName": "三井住友銀行 練馬支店",
+      "coordinates": {
+        "lat": 35.737449999999995,
+        "lng": 139.6541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f45dc619-0438-41fb-a8b3-dc69ee8a11c1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f45dc619-0438-41fb-a8b3-dc69ee8a11c1.webp"
+        },
+        {
+          "url": "media/cached-image_18058cf043d989d5e43ab86ebb16a95912988fdcc3647054d010c0e63f53b1d7.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sumitomo Mitsui Bank, Nerima Branch, 1 Chome-4-6 Nerima, Nerima City, Tokyo 176-0001, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7372364,139.6538977,3a,70.4y,40.58h,105.88t/data=!3m7!1e1!3m5!1sqUpXkH0Ek75tkYOUE0lOCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.87771251792833%26panoid%3DqUpXkH0Ek75tkYOUE0lOCQ%26yaw%3D40.57563029826974!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "The Sumitomo Mitsui Bank Nerima Branch exterior appears in episode 14 as part of the street scenery around Nerima station, used to depict the everyday urban environment surrounding Shiki's activities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tougen-anki_10",
+      "name": "Yunagi Bridge",
+      "localName": "ゆうなぎ橋",
+      "coordinates": {
+        "lat": 35.75843,
+        "lng": 139.62368
+      },
+      "image": "https://cdn.animepilgrimage.com/places/646013c9-a6ae-404b-bc3a-a3dc1322f13c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/646013c9-a6ae-404b-bc3a-a3dc1322f13c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7585814,139.6235435,3a,88.8y,148.21h,115.2t/data=!3m7!1e1!3m5!1s3jO4oOsO40ZilA6yePAmig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.202652739420714%26panoid%3D3jO4oOsO40ZilA6yePAmig%26yaw%3D148.21413057337483!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Yunagi Bridge over a canal near Hikarigaoka appears in episode 14 as a location where characters cross paths during a tense sequence, with the quiet bridge setting amplifying the sense of unease in the scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tougen-anki_11",
+      "name": "Tenbin Bridge",
+      "localName": "てんびん橋",
+      "coordinates": {
+        "lat": 35.75853,
+        "lng": 139.62552
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6fac5ae8-d9e2-402f-b1d3-88ba4bb3cd7f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6fac5ae8-d9e2-402f-b1d3-88ba4bb3cd7f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7586029,139.6254471,3a,86.7y,146.86h,95.05t/data=!3m7!1e1!3m5!1stlaE5W2wxnIiSkF_7XH21A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.0477995078232%26panoid%3DtlaE5W2wxnIiSkF_7XH21A%26yaw%3D146.86029617453926!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Tenbin Bridge, close to Yunagi Bridge near Hikarigaoka, is featured in episode 14 alongside other canal bridges in the area, appearing during the same stretch of action that takes characters through the Nerima waterway routes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSedfnsCOGGARlraihBn1VoI",
+      "name": "Torijin Asakusa Underground Street Store",
+      "localName": "鳥じん 浅草地下街店",
+      "coordinates": {
+        "lat": 35.711447899999996,
+        "lng": 139.7976986
+      },
+      "image": "https://cdn.animepilgrimage.com/places/104f953c-f901-4eb3-9663-b54944b99b1b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/104f953c-f901-4eb3-9663-b54944b99b1b.webp"
+        },
+        {
+          "url": "media/cached-image_7c3ad8d35d7a1830b8361ee58c1c6693989fb35543bff228e2158174186f7e66.jpg"
+        }
+      ],
+      "type": "Yakitori restaurant",
+      "categories": [
+        "Yakitori restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Torijin, 地下街 1 Chome-1-12 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Asakusa+Underground+Street/@35.7114677,139.797699,3a,76.8y,165.58h,94.24t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4w8LCiQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c-sPEhJMCBNkbtTDjc-J0v8aT8nsPXjctdlqrOKgFpsyFwIP6kB9K-D2VscNL7jbn7VvLeIHYHASEOzEMWxP9eph51hGq-oHRiRe6nOFW2XdQ5fmGVhI9HXwG0BDr_Q8woKgyJF%3Dw900-h600-k-no-pi-4.239999999999995-ya313.38000305175785-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188ec6985348d9:0xe748562bd18595cb!8m2!3d35.7114596!4d139.7977801!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tftwz1q?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This yakitori restaurant in the Asakusa Underground Street appears in episode 13, used as a lively dining location that contrasts with the Nerima suburban setting, showing characters venturing into central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJia9CsantGGARFW68KtJvuzg",
+      "name": "United Cinemas Toshimaen",
+      "localName": "ユナイテッド・シネマとしまえん",
+      "coordinates": {
+        "lat": 35.7423973,
+        "lng": 139.64855889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/79dbd580-7b05-4956-bee6-91674135fb00.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/79dbd580-7b05-4956-bee6-91674135fb00.webp"
+        },
+        {
+          "url": "media/cached-image_34014129741f986ce35bc7763386dc86e46cb3a919fc1111f16933b03df7d84a.jpg"
+        },
+        {
+          "url": "media/cached-image_794362f8da9d574baddef24e620c2e8d0a67762514f8e8e15b9927f343ef8c83.jpg"
+        },
+        {
+          "url": "media/cached-image_57200c7df13164f4644847393c181a459a4c023db7f3221e7f8da5394f41a4d9.jpg"
+        }
+      ],
+      "type": "Movie theater",
+      "categories": [
+        "Movie theater"
+      ],
+      "rating": 4.1,
+      "reviewCount": 14,
+      "priceLevel": null,
+      "address": "United Cinemas Toshimaen, ユナイテッド・シネマとしまえん 4 Chome-15-20 Nerima, Nerima City, Tokyo 176-0001, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7424029,139.6491441,3a,83.8y,272.73h,86.28t/data=!3m7!1e1!3m5!1sVxQv9H7UhDb1kdB1f3reLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.72125438471501%26panoid%3DVxQv9H7UhDb1kdB1f3reLw%26yaw%3D272.73064369571927!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "United Cinemas Toshimaen near the former Toshimaen site in Nerima appears in episode 13, serving as a neighborhood landmark that reinforces the anime's Nerima City setting."
+    }
+  ]
+}

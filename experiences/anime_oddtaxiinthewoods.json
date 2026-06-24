@@ -1,0 +1,542 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Odd Taxi: In the Woods",
+  "slug": "odd-taxi-in-the-woods",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_eab89ba861b8141bea6f89cf73e416f166ef8c98f175b401c7de3a33566a5919.webp",
+  "image": "media/cached-image_eab89ba861b8141bea6f89cf73e416f166ef8c98f175b401c7de3a33566a5919.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.65717919285714,
+    "lng": 139.72071980714284
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Odd Taxi: In the Woods"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJL7oFpizzGGARH-npuiADZeQ",
+      "name": "Chuo Park",
+      "localName": "新宿中央公園",
+      "coordinates": {
+        "lat": 35.6893011,
+        "lng": 139.68989779999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6ba6da7-cf1b-4ef1-985a-348f74a53378.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6ba6da7-cf1b-4ef1-985a-348f74a53378.webp"
+        },
+        {
+          "url": "media/cached-image_fc60d23b825b7a6aec92b2b1abb5f393305153c82539540bcc997b3dc69996b1.jpg"
+        },
+        {
+          "url": "media/cached-image_760e0c37d2389ae414227a8192a07c677124f806491e941409270bd91a750a58.jpg"
+        },
+        {
+          "url": "media/cached-image_d71926cb89a1474fded36ac8e26e2e99697220da0736b455f73a2ac7f7840158.jpg"
+        },
+        {
+          "url": "media/cached-image_9231d63cf0c58fbe8679f97eb03c58bf50ee4cb5b9738df6f74cf01751c951ac.jpg"
+        },
+        {
+          "url": "media/cached-image_feab7a503271f506f3e3d1398217b37d049cdc00a5d53497bd016cf6f7b01b49.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 315,
+      "priceLevel": null,
+      "address": "Shinjuku Chūō Park, 2 Chome-11 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.594402,130.5542871,3a,90y,282.01h,97.5t/data=!3m7!1e1!3m5!1s3gB8O186J5gy16Qck26DQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.499279602130343%26panoid%3D3gB8O186J5gy16Qck26DQg%26yaw%3D282.01027923004347!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Chuo Park in Shinjuku appears as the area where the homeless man Baba lives, and Odokawa's late-night drives through this district establish the quiet, lonely rhythm of his world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi_eNH6qMGGARJKC7yncMW2w",
+      "name": "SHIBUYA Hyakkendana",
+      "localName": "しぶや百軒店",
+      "coordinates": {
+        "lat": 35.6588615,
+        "lng": 139.697183
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5fa2e5e5-1b1a-4a4c-8eca-5926e1522d7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5fa2e5e5-1b1a-4a4c-8eca-5926e1522d7e.webp"
+        },
+        {
+          "url": "media/cached-image_c2a8cd17a747c78fe8d76a8a50572cb6597bc72e082731a00c9fd9feb56dda35.jpg"
+        },
+        {
+          "url": "media/cached-image_f3c0f6a28b1bca3c9b2af0627477ec36f2e886ff22c37b35a94b65ab1526b9e0.jpg"
+        },
+        {
+          "url": "media/cached-image_7dd3fc74e596a1d4bee39d1e0ec3df504e29b84dc8681e08576093a5aa072a2a.jpg"
+        },
+        {
+          "url": "media/cached-image_8d3be185121a0b705b741e9d7642cd923125b92d10ccca35823c717d0ebae0e2.jpg"
+        },
+        {
+          "url": "media/cached-image_914ddd6ff047b6a44e8b71e64c64663f3821709795f8f584002cde7ce68ae997.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 3426,
+      "priceLevel": null,
+      "address": "SHIBUYA Hyakkendana, 2 Chome-18-16-2 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6587906,139.6972492,3a,90y,313.87h,138.16t/data=!3m7!1e1!3m5!1spQdcibRycfKI1zB-90wTrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-48.162481723705014%26panoid%3DpQdcibRycfKI1zB-90wTrg%26yaw%3D313.873040283014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The narrow lantern-lit alley of Hyakkendana is where the shady fixer Dobu operates, and several tense underworld dealings between characters play out in its backstreets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9aeqHiCKGGARFh-fljrxUT0",
+      "name": "Daiba Park",
+      "localName": "台場公園",
+      "coordinates": {
+        "lat": 35.633554499999995,
+        "lng": 139.77207819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/968f8685-4e5d-4242-8899-b2fb67575b49.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/968f8685-4e5d-4242-8899-b2fb67575b49.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 15243,
+      "priceLevel": null,
+      "address": "Daiba Park, 1 Chome-10-1 Daiba, Minato City, Tokyo 135-0091",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.63177,139.7733608,3a,55.7y,332.93h,97.75t/data=!3m8!1e1!3m6!1sAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G%3Dw900-h600-k-no-pi-7.753813955402322-ya167.93335639293383-ro0-fo100!7i7168!8i3584?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Daiba Park on the Odaiba waterfront is part of the area where the story converges for its climactic confrontations, with characters converging near Tokyo Bay as the final truth is exposed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ18IK6x2KGGARKTc2yLS-030",
+      "name": "Odaiba Marine Park",
+      "localName": "お台場海浜公園",
+      "coordinates": {
+        "lat": 35.6301524,
+        "lng": 139.7753413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39371d36-096f-4968-9c25-a266e047212b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39371d36-096f-4968-9c25-a266e047212b.webp"
+        },
+        {
+          "url": "media/cached-image_074b321197fb1c0a73652ba559d05ddaa3a669e08ec544a178cdb54d40475d42.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6301524,139.7753413,3a,75y,316.1h,96.7t/data=!3m6!1e1!3m4!1sTi_o_3j5YzuIjG9GYj5-ag!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Odaiba Marine Park serves as the dramatic final meeting ground where key revelations about the missing girl Sakura come to a head, with the Rainbow Bridge and Tokyo skyline as backdrop.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/adf792dd-ea2c-4266-ba80-eed32d25b0a6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/adf792dd-ea2c-4266-ba80-eed32d25b0a6.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The scramble crossing appears as a recurring symbol of the crowded, indifferent city that surrounds Odokawa, and several characters cross paths here without knowing how their fates are intertwined.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_odd-taxi-in-the-woods_5",
+      "name": "Rainbow Bridge",
+      "localName": "レインボーブリッジ",
+      "coordinates": {
+        "lat": 35.63672,
+        "lng": 139.76314
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7c254ec3-8537-47d7-8468-eadee37f7132.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7c254ec3-8537-47d7-8468-eadee37f7132.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.636966,139.7627832,3a,90y,24.04h,87.85t/data=!3m7!1e1!3m5!1sQvywScTYp6TKQ6_mO4biLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.1529387935898967%26panoid%3DQvywScTYp6TKQ6_mO4biLg%26yaw%3D24.035931041174095!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Rainbow Bridge looms over the Odaiba waterfront scenes and its illuminated arc frames the climactic night where Odokawa and the detectives close in on the truth about Sakura.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_aUjTnaLGGARucw6DTL3hq0",
+      "name": "Roppongi Hills Arena",
+      "localName": "六本木ヒルズアリーナ",
+      "coordinates": {
+        "lat": 35.6597066,
+        "lng": 139.73010539999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f47e5892-c602-490f-bff7-9ac2aef4fc4c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f47e5892-c602-490f-bff7-9ac2aef4fc4c.webp"
+        },
+        {
+          "url": "media/cached-image_be526dfe0752efb12a5ac1eb171b5aa47da4b8eb5178649eeade9d711b1dc7fd.jpg"
+        }
+      ],
+      "type": "Fairground",
+      "categories": [
+        "Fairground"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Roppongi Hills Arena, 6 Chome-10-1 Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6593638,139.730053,3a,90y,193.67h,96.68t/data=!3m7!1e1!3m5!1srOKrz_qYMHaPe0xvbpPyEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.678721479048463%26panoid%3DrOKrz_qYMHaPe0xvbpPyEA%26yaw%3D193.66545708163252!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Roppongi Hills Arena is the venue for the idol group Mystery Kiss event that several characters attend, making it a convergence point where multiple storylines intersect in one night.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCcnfSPOLGGART71iQ-NarM8",
+      "name": "Tokyo District Court",
+      "localName": "東京地方裁判所",
+      "coordinates": {
+        "lat": 35.6749492,
+        "lng": 139.75270279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a63ece1a-6a17-4ff9-822b-f7d2000d256c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a63ece1a-6a17-4ff9-822b-f7d2000d256c.webp"
+        },
+        {
+          "url": "media/cached-image_39c38e40f5375a37f86087a1825bc0d27dceb397818307fb473e39a950ea09f9.jpg"
+        }
+      ],
+      "type": "Courthouse",
+      "categories": [
+        "Courthouse"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo District Court, 1 Chome-1-4 Kasumigaseki, Chiyoda City, Tokyo 100-8920, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6752472,139.7519906,3a,42.7y,57.43h,92.08t/data=!3m7!1e1!3m5!1skQsL8ZqV68sIpylJ2X_ZOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0837985900813436%26panoid%3DkQsL8ZqV68sIpylJ2X_ZOQ%26yaw%3D57.429937455694066!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Tokyo District Court is referenced as the looming legal endpoint of the criminal conspiracies in the story, with characters facing prosecution for the crimes uncovered by Odokawa."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1dHcUoaLGGARpaZrU6UUGrA",
+      "name": "FamilyMart Akasaka-Mitsuke Station Front Store",
+      "localName": "ファミリーマート 赤坂見附駅前店",
+      "coordinates": {
+        "lat": 35.6764795,
+        "lng": 139.7369253
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5112d18f-73ac-4d97-82f3-1cdd50f2a695.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5112d18f-73ac-4d97-82f3-1cdd50f2a695.webp"
+        },
+        {
+          "url": "media/cached-image_d29a28a5db0605ff68a8cca50903157c82fbde0ecfaaac3e653ef616859d2617.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 赤坂アルトビル 1F 3 Chome-8-1 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6761457,139.7369764,3a,86.7y,336.37h,95.76t/data=!3m7!1e1!3m5!1sW5JK6DikrxSj2jV3CdXgGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.761680209045849%26panoid%3DW5JK6DikrxSj2jV3CdXgGQ%26yaw%3D336.3651490343158!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This convenience store near Akasaka-Mitsuke appears as a mundane stop on Odokawa's taxi route, representing the ordinary urban texture through which he quietly observes his passengers' lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_odd-taxi-in-the-woods_9",
+      "name": "PANDORA",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66022,
+        "lng": 139.69915
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93b4e72d-257c-4fa3-9b95-b5ba125a05b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93b4e72d-257c-4fa3-9b95-b5ba125a05b0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "http://google.com/maps/@35.6602163,139.6991071,3a,90y,341.98h,101.18t/data=!3m7!1e1!3m5!1sFArY6kxQzQD8NG4GLkiczQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.175528852457433%26panoid%3DFArY6kxQzQD8NG4GLkiczQ%26yaw%3D341.98182783754874!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "PANDORA is the club in Shibuya linked to the yakuza and entertainment underworld, and it is central to the criminal subplot involving blackmail and the events that set the whole mystery in motion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_78S7leLGGARD8G0piZv1F8",
+      "name": "Shibuya Station Hachiko Square Lottery Ticket Counter",
+      "localName": "渋谷ハチ公広場宝くじ売場",
+      "coordinates": {
+        "lat": 35.6589455,
+        "lng": 139.7006213
+      },
+      "image": "https://cdn.animepilgrimage.com/places/762d361e-f708-4283-a4db-21ba0d3dda6d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/762d361e-f708-4283-a4db-21ba0d3dda6d.webp"
+        },
+        {
+          "url": "media/cached-image_688832e398b73101199e04a9251d722a151f65ee7f1a4ac21ef1f0c7a7dfc344.jpg"
+        },
+        {
+          "url": "media/cached-image_8724ef678d44f2507ccc4e422a55daef77e7c4cbe3537fa0049291e14cac9d39.jpg"
+        }
+      ],
+      "type": "Lottery retailer",
+      "categories": [
+        "Lottery retailer"
+      ],
+      "rating": 3.4,
+      "reviewCount": 126,
+      "priceLevel": null,
+      "address": "Shibuya Station Hachiko Square Lottery Ticket Counter, 2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6590703,139.7004749,3a,65.8y,138.36h,96.3t/data=!3m7!1e1!3m5!1sC4Fb1Jo2Gc10WBB3W5_clQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.298018360350014%26panoid%3DC4Fb1Jo2Gc10WBB3W5_clQ%26yaw%3D138.35503360902024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Hachiko Square lottery counter is tied to Kakihana, the hapless office worker obsessed with winning the lottery, whose desperate attempts to change his luck pull him into dangerous company.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcVvmBFiLGGARGPiknBrZsiw",
+      "name": "Mizuho Bank Shibuya Branch",
+      "localName": "みずほ銀行 渋谷支店",
+      "coordinates": {
+        "lat": 35.659788999999996,
+        "lng": 139.70177379999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0765321-6b3d-4e55-96b8-45c0cf46d226.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0765321-6b3d-4e55-96b8-45c0cf46d226.webp"
+        },
+        {
+          "url": "media/cached-image_23aac0925e28439844e053fa2a70859892e0bf4fac61a7c67f8d347f28ddf040.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mizuho Bank Shibuya Branch, 1 Chome-24-16 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595192,139.7018996,3a,90y,322.26h,95.5t/data=!3m7!1e1!3m5!1sY99PxIeUsSX5-IUO_Hwchw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.49998407704831%26panoid%3DY99PxIeUsSX5-IUO_Hwchw%26yaw%3D322.2573122710479!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Shibuya branch of Mizuho Bank appears in scenes connected to the financial desperation of several characters, underscoring how money and debt quietly drive the story's criminal threads."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0Qgx67KMGGARd2ZbObLZHPE",
+      "name": "Eco-Park Shibuya No. 1",
+      "localName": "渋谷区",
+      "coordinates": {
+        "lat": 35.6619707,
+        "lng": 139.70379499999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90a77770-3932-44f1-860d-23a4839dd0c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90a77770-3932-44f1-860d-23a4839dd0c7.webp"
+        },
+        {
+          "url": "media/cached-image_56901ce6e9e3292ede7cb41244b69961bb69df5678fa3038365607c15879dd9a.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6604445,139.7042798,3a,55.2y,158.75h,92.66t/data=!3m7!1e1!3m5!1sufB6BCOzV4N_lpF5jSnIjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.659926652369407%26panoid%3DufB6BCOzV4N_lpF5jSnIjA%26yaw%3D158.75046563964779!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE2RsFZn0GGARULrEiEgg57Y",
+      "name": "Setagaya Police Station",
+      "localName": "警視庁 世田谷警察署",
+      "coordinates": {
+        "lat": 35.6403387,
+        "lng": 139.6670134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f6cae9e8-990d-4c1d-821d-3f0f84107fe9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f6cae9e8-990d-4c1d-821d-3f0f84107fe9.webp"
+        },
+        {
+          "url": "media/cached-image_cf133fd02ab463327d21da224ca319c1691b7f20223f75646199aa936151302b.jpg"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": 3.8190186,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Setagaya Police Station, 2 Chome-4-4 Sangenjaya, Setagaya City, Tokyo 154-0024, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.640028,139.6672794,3a,90y,334.5h,110.83t/data=!3m7!1e1!3m5!1sYOK1qFvp6jAhJkWasckuMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.826321592772373%26panoid%3DYOK1qFvp6jAhJkWasckuMw%26yaw%3D334.50276100575724!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Setagaya Police Station is the base for detectives Goriki and Tanaka, whose dogged investigation of Odokawa runs in parallel with his own piecing together of the truth about his passengers."
+    }
+  ]
+}

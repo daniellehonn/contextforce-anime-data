@@ -1,0 +1,867 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Disappearance of Haruhi Suzumiya",
+  "slug": "the-disappearance-of-haruhi-suzumiya",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_68af2812d004e084ed4be6aa09a56452cf4ab9e47e3b40d5976930318b00963b.webp",
+  "image": "media/cached-image_68af2812d004e084ed4be6aa09a56452cf4ab9e47e3b40d5976930318b00963b.webp",
+  "banner": null,
+  "primaryLocation": "Hyogo, Japan",
+  "primaryLocationCoords": {
+    "lat": 34.76576832,
+    "lng": 135.346204908
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Disappearance of Haruhi Suzumiya"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_0",
+      "name": "cafe shin",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.76039,
+        "lng": 135.33117
+      },
+      "image": "https://cdn.animepilgrimage.com/places/455d983b-f5dd-425a-92df-e2e179bc7caa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/455d983b-f5dd-425a-92df-e2e179bc7caa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/b9XGUNrzyeUB4gHu8",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Koyoen shopping street area near this cafe serves as the backdrop for Kyon's disoriented winter walks as he searches for answers in a world where Haruhi never existed. The familiar neighborhood feels eerily empty without her presence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu3klOAnzAGARdkU-gdt67vw",
+      "name": "Koyoen Community Center",
+      "localName": "西宮市甲陽園市民館",
+      "coordinates": {
+        "lat": 34.7607587,
+        "lng": 135.3328842
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2dcd7858-89aa-4cb7-bab0-1ae66cbf7bf4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2dcd7858-89aa-4cb7-bab0-1ae66cbf7bf4.webp"
+        },
+        {
+          "url": "media/cached-image_3d2586e11abd8558322c47214d313919ab65bac1c660436c335fd592c810ec41.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Koyoen Community Center, 1-75 Koyoenhonjocho, Nishinomiya, Hyogo 662-0015, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/THhy6hNVTKoykEtR7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This community center building appears in the film as part of the Koyoen residential area that Kyon traverses while piecing together the altered reality, with its quiet civic architecture contrasting the supernatural confusion unfolding around him."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_2",
+      "name": "Cercle Dish and Coffee",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.75548,
+        "lng": 135.32744
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7bcabb71-107e-4914-8fc5-344a19fcfc87.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7bcabb71-107e-4914-8fc5-344a19fcfc87.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/V6XzovsBvz8dVWpQ6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This cafe in the Koyoen neighborhood appears in the film's background during Kyon's winter walks through the altered version of his hometown, lending atmosphere to the cold December setting where nothing feels right."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtZeQuq4IAWARUXkhRKV3ATo",
+      "name": "FamilyMart Koyo-en Ekimae Store",
+      "localName": "ファミリーマート 近鉄京都駅店",
+      "coordinates": {
+        "lat": 34.9844491,
+        "lng": 135.7575001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/34ca7bc3-0cb3-4942-8aa4-0e9093dfa79d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/34ca7bc3-0cb3-4942-8aa4-0e9093dfa79d.webp"
+        },
+        {
+          "url": "media/cached-image_01db42ae859a76af842c0b81e9a5d6f49a4f8601e9d2ba6649da0bc50dcdd4d1.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 近鉄京都駅構内 ３１-1 Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YkBdRGpLJVETcfZN7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A convenience store near Koyoen station serves as a key setting in the film where Kyon encounters a version of Haruhi who does not know him, marking one of the film's most disorienting early scenes as the altered world's reality sinks in.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_4",
+      "name": "Koyoen Minami City House",
+      "localName": "甲陽園南シティハウス",
+      "coordinates": {
+        "lat": 34.75884,
+        "lng": 135.3318
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89bfa975-feb3-4fb3-ae13-80b757db4a06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89bfa975-feb3-4fb3-ae13-80b757db4a06.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/GrtWUC5ZxmADrt5f9",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This residential building in Koyoen appears as part of the suburban Nishinomiya landscape Kyon moves through during the film's opening act, establishing the ordinary world that has been mysteriously stripped of Haruhi and the SOS Brigade."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_5",
+      "name": "Otowa Deli",
+      "localName": "音羽DELI",
+      "coordinates": {
+        "lat": 34.75439,
+        "lng": 135.33015
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2081af0a-e74e-4fce-99cf-a04a516e81d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2081af0a-e74e-4fce-99cf-a04a516e81d0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/QpU2ng73FabwzTHN6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Otowa Deli appears in the Koyoen area scenes during the film, part of the quiet neighborhood Kyon navigates as he tries to confirm the scope of the world-altering changes Yuki Nagato has made."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNdaJJgDzAGARreXlFuPDL7w",
+      "name": "Kamizonominami Park",
+      "localName": "神園南公園",
+      "coordinates": {
+        "lat": 34.7570747,
+        "lng": 135.33186129999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9d011ac-672d-48fb-95ca-a9d5991aa1f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9d011ac-672d-48fb-95ca-a9d5991aa1f3.webp"
+        },
+        {
+          "url": "media/cached-image_27062459b7bf722821c9e52946f6d2d164d0357db098644c2d3c6c690f08795c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kamizonominami Park, 2-2 Kamizonocho, Nishinomiya, Hyogo 662-0027, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hrdS7a81mPm8vHE39",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small park in Nishinomiya appears in the film as part of the Koyoen residential landscape, where Kyon walks through familiar streets now populated by strangers, underscoring his isolation in the altered December world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBcLpbeLzAGAR3HXRLZQsfkg",
+      "name": "Times Koyoen Wakaecho",
+      "localName": "DIVERSITY KOYOEN",
+      "coordinates": {
+        "lat": 34.7626286,
+        "lng": 135.33111019999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/295a14de-6674-4078-8e72-3538588987d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/295a14de-6674-4078-8e72-3538588987d1.webp"
+        },
+        {
+          "url": "media/cached-image_a37b48e0c3d13e165f1ab4ef312ec73f25fcde99d7eb3ecb591e88d1ab9859eb.jpg"
+        },
+        {
+          "url": "media/cached-image_a1871ac61ce85896540fef4a970ed226374df64f936b3ca1860d177eaf9b521d.jpg"
+        }
+      ],
+      "type": "Apartment building",
+      "categories": [
+        "Apartment building"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒662-0015 Hyogo, Nishinomiya, Koyoenhonjocho, 6−52 DIVERSITY KOYOEN",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5QwzUzEEvYnSoYJ27",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This building near Koyoen station is part of the pilgrimage area fans visit to recreate the film's December street scenes, where Kyon moves through a version of his neighborhood in which the SOS Brigade has ceased to exist."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSUz6hXrzAGAROoU7WWoL2pk",
+      "name": "Mitsuinoripaku Koyoen Ekimae Dai 3 Chushajo",
+      "localName": "三井のリパーク 甲陽園駅前第３ 駐車場",
+      "coordinates": {
+        "lat": 34.7606319,
+        "lng": 135.3299644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6e413046-e1fb-401c-9d7f-1c81b6ff684b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6e413046-e1fb-401c-9d7f-1c81b6ff684b.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mitsuinoripaku Koyoen Ekimae Dai 3 Chushajo, 6-16 Koyoenwakaecho, Nishinomiya, Hyogo 662-0016, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9MJE3EDhham885NA7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The area around Koyoen station, including this parking lot location, is part of the pilgrimage route fans walk to trace Kyon's path through the altered Nishinomiya, where the familiar streets feel wrong without Haruhi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd8hSpp3zAGARaU3kPSTzfE0",
+      "name": "Times Koyoen Ekimae #3",
+      "localName": "タイムズ甲陽園駅前第３",
+      "coordinates": {
+        "lat": 34.760405999999996,
+        "lng": 135.329208
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb15d2b1-ad20-4038-9b68-86e6527ab67e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb15d2b1-ad20-4038-9b68-86e6527ab67e.webp"
+        },
+        {
+          "url": "media/cached-image_38097542733263a729d93ee8ee8214a1c360e313027783b468c508356093d0a6.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Times Koyoen Ekimae #3, 4-4 Koyoenwakaecho, Nishinomiya, Hyogo 662-0016, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4gUNEZQRFsJmaNLC9",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This site near Koyoen station is part of the immediate neighborhood Kyon crosses in the film during his disoriented first day in the alternate reality, a location fans visit to stand where he stood as the scale of the change became clear."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqzKNmk_zAGARwygKMI6-VoY",
+      "name": "Mitsuiripaku Nishinomiyakamizonocho Chushajo",
+      "localName": "三井のリパーク 西宮神園町 駐車場",
+      "coordinates": {
+        "lat": 34.7549436,
+        "lng": 135.3340428
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b501024f-aa40-4c60-b92a-7797ad8a2d43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b501024f-aa40-4c60-b92a-7797ad8a2d43.webp"
+        },
+        {
+          "url": "media/cached-image_9b3e14993c94349658636f64379383a7039712aae746e66f16b9622bd6cd561a.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒662-0027 Hyogo, Nishinomiya, Kamizonocho, ６ Mitsuiripaku Nishinomiyakamizonocho Chushajo, および１２",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QFp5A6TGnPa89ELT7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Located in the Kamizonocho district of Nishinomiya, this area appears in the film as part of the residential neighborhoods Kyon traverses while searching for traces of the SOS Brigade in the altered world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO2jjJ8vzAGARuu7HOb1YqRs",
+      "name": "Anytime Fitness Nishinomiya Uegahara Store",
+      "localName": "エニタイムフィットネス 西宮上ヶ原店",
+      "coordinates": {
+        "lat": 34.7600038,
+        "lng": 135.3427045
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f6eec41a-d347-4ead-bde4-0b013b08337a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f6eec41a-d347-4ead-bde4-0b013b08337a.webp"
+        },
+        {
+          "url": "media/cached-image_69c0df3a468e2dbbaa3714abffca080b1e21903999901f90bc9128799a0cb065.jpg"
+        }
+      ],
+      "type": "Gym",
+      "categories": [
+        "Gym"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anytime Fitness Nishinomiya Uegahara Store, 2-102 Uegahara 9bancho, Nishinomiya, Hyogo 662-0883, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RXbvjXaC8LGCauVL8",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_12",
+      "name": "City Central Library",
+      "localName": "西宮市立中央図書館",
+      "coordinates": {
+        "lat": 34.731,
+        "lng": 135.32987
+      },
+      "image": "https://cdn.animepilgrimage.com/places/190ec0eb-2aaf-4396-8a16-253ca324cb62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/190ec0eb-2aaf-4396-8a16-253ca324cb62.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/s9p9DV5kozp4xxVd6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Nishinomiya Central Library is the pivotal location where Kyon finds Yuki Nagato working as an ordinary human librarian, stripped of her alien nature. His conversation with her here is one of the film's most emotionally resonant scenes, and she quietly slips him a program that will let him undo the world change.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3-IZrbbzAGARnnTocUyrJGs",
+      "name": "Ginsui Bridge",
+      "localName": "銀水橋",
+      "coordinates": {
+        "lat": 34.76072,
+        "lng": 135.3239941
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebbe40c8-ecf5-484d-9fe0-65e037b3903e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebbe40c8-ecf5-484d-9fe0-65e037b3903e.webp"
+        },
+        {
+          "url": "media/cached-image_65ff287892d25dfc0a76334a3431f0b39b625084ec4e5c044cb810f9bb5ebbf0.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ginsui Bridge, 16 Shishigaguchicho, Nishinomiya, Hyogo 662-0092, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fsokbU142TKYxMF99",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Ginsui Bridge over the Shukugawa river appears in the film during Kyon's winter wandering sequences, its quiet span over cold water reflecting the melancholy isolation he feels in the world without Haruhi. Pilgrims visit to photograph the same bridge framed by winter trees.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlWJ02kDzAGARB1KTRgjamKQ",
+      "name": "Kurakuen Miharashi Park",
+      "localName": "苦楽園みはらし公園",
+      "coordinates": {
+        "lat": 34.7595421,
+        "lng": 135.31407009999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/832c482f-d224-4872-802f-17eaecf3d2a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/832c482f-d224-4872-802f-17eaecf3d2a9.webp"
+        },
+        {
+          "url": "media/cached-image_b29b717d3239d844a9efe26755a4940892756051f5de62486118e303887ae29c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurakuen Miharashi Park, 16-20 Kurakuen 2bancho, Nishinomiya, Hyogo 662-0082, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/G7E9zL8KRZx9PzgFA",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This elevated park in Kurakuen appears in the film's quiet winter scenes, offering the kind of residential hilltop view that frames Kyon's introspection as he weighs whether to restore the original world and accept Haruhi's chaotic presence in his life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0R6nOmbyAGARVYbQwT9lJRs",
+      "name": "Nishinomiya Municipal Inclusion Center Kurakuen Inclusion Center",
+      "localName": "西宮市総合福祉センター",
+      "coordinates": {
+        "lat": 34.7338883,
+        "lng": 135.3457745
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b59c85af-10da-477e-981f-70f5cc1de6db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b59c85af-10da-477e-981f-70f5cc1de6db.webp"
+        },
+        {
+          "url": "media/cached-image_b440ad3dd9720fbc5b2c6da8ab4415030b433b56de63774f153015a938d9b3e0.jpg"
+        }
+      ],
+      "type": "Disability services and support organization",
+      "categories": [
+        "Disability services and support organization"
+      ],
+      "rating": 3.6,
+      "reviewCount": 79,
+      "priceLevel": null,
+      "address": "Japan, 〒662-0913 Hyogo, Nishinomiya, Somedonocho, 8−１７ 西宮市総合福祉センター",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nvisA8JS9jRAtrSW7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_16",
+      "name": "Coffee Lounge Yakata",
+      "localName": "コーヒーラウンジ 館",
+      "coordinates": {
+        "lat": 34.75999,
+        "lng": 135.32629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72e1f2c5-15b6-403a-878b-8019ae74c4ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72e1f2c5-15b6-403a-878b-8019ae74c4ea.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/USdrY2chacGmLK9F7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This coffee lounge near Koyoen station appears in the film's Nishinomiya street scenes, part of the atmospheric December neighborhood that fans retrace on pilgrimage to experience the quiet, wintry mood the film captures so distinctively."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ1fpABPzAGARdie_U9MHvEQ",
+      "name": "Nishinomiya Fudousan Hanbai Co.,Ltd.",
+      "localName": "西宮不動産販売㈱",
+      "coordinates": {
+        "lat": 34.7600592,
+        "lng": 135.3267304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/699a7619-5675-4923-a74c-21e220ae5331.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/699a7619-5675-4923-a74c-21e220ae5331.webp"
+        },
+        {
+          "url": "media/cached-image_b019f3315400fdf6719bfa0a64b60269be3800c0b5b3bcbaea9457b6e0d9107a.jpg"
+        }
+      ],
+      "type": "Real estate agency",
+      "categories": [
+        "Real estate agency"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nishinomiya Fudousan Hanbai Co.,Ltd., 15-22-101 Kamizonocho, Nishinomiya, Hyogo 662-0027, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tgnTwztdjvKVnsme8",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This building near Koyoen appears in the film as part of the Kamizonocho street environment, a background location fans recognize from the film's careful recreation of the Nishinomiya neighborhood in its altered December state."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7fLSoLjzAGARPDnrKfrKDLM",
+      "name": "Kurakuen Nibancho Sumiishi Park",
+      "localName": "苦楽園二番町角石公園",
+      "coordinates": {
+        "lat": 34.7615159,
+        "lng": 135.31714119999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/639168dd-62f7-4d0e-83a9-bb62d55b49cb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/639168dd-62f7-4d0e-83a9-bb62d55b49cb.webp"
+        },
+        {
+          "url": "media/cached-image_a671adc75d1539d727b03e38720b8bd65e454b19f80ce05b5c3f905aad4fe2fd.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurakuen Nibancho Sumiishi Park, 19-38 Kurakuen 2bancho, Nishinomiya, Hyogo 662-0082, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/s7an9Q3WS9cqpSkX7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small park in Kurakuen appears in the film as part of the residential area Kyon walks through, a quiet corner of Nishinomiya rendered lonely by the absence of the SOS Brigade in the altered timeline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnwIebBPzAGARcpHX8vU9TWA",
+      "name": "Koshikiiwa Ginsui Bridge Park",
+      "localName": "こしきいわ銀水橋公園",
+      "coordinates": {
+        "lat": 34.7607291,
+        "lng": 135.3237557
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d7680e1-131e-4ecd-ad81-ebefba5bed6e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d7680e1-131e-4ecd-ad81-ebefba5bed6e.webp"
+        },
+        {
+          "url": "media/cached-image_e2991bd3ada4d29572b7709b05b1b62fb67f3476bb229e2562c27c4e940cb2cc.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Koshikiiwa Ginsui Bridge Park, 10 Koshikiiwacho, Nishinomiya, Hyogo 662-0092, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/U8sVe6P7dgYtuKth8",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Adjacent to Ginsui Bridge, this riverside park is part of the Shukugawa waterway area featured in the film's atmospheric winter sequences, where the cold light and bare trees create the melancholy visual tone that defines the film's altered-world chapters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9UMkID7yAGARJEzacV0UlpI",
+      "name": "THE NORTH FACE/HELLY HANSEN (ザ・ノース・フェイス / ヘリーハンセン) 阪急西宮",
+      "localName": "THE NORTH FACE/HELLY HANSEN (ザ・ノース・フェイス / ヘリーハンセン) 阪急西宮",
+      "coordinates": {
+        "lat": 34.743466999999995,
+        "lng": 135.35870119999998
+      },
+      "image": null,
+      "images": [],
+      "type": "アウトドア衣料・用品店",
+      "categories": [
+        "アウトドア衣料・用品店"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "HELLY HANSEN, 西宮阪急 4F 14-1 Takamatsucho, Nishinomiya, Hyogo 663-8204, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eNsXFMTL9ka5Uxwd9",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_21",
+      "name": "CI Mansion Koyoen",
+      "localName": "シーアイマンション甲陽園",
+      "coordinates": {
+        "lat": 34.76034,
+        "lng": 135.32531
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4909d39-eba4-4603-a9f2-c500a9b5bc84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4909d39-eba4-4603-a9f2-c500a9b5bc84.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4HqH3s4vacgs1LNf6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This residential building in the Koyoen area appears as part of the suburban Nishinomiya backdrop that Kyon moves through during the film, part of the familiar neighborhood now rendered uncanny by Haruhi's absence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_22",
+      "name": "Kurakuen No.3 Children's Park",
+      "localName": "苦楽園三番児童遊園",
+      "coordinates": {
+        "lat": 34.76101,
+        "lng": 135.31193
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8af041c5-169c-4201-8d01-2a12ceccbf3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8af041c5-169c-4201-8d01-2a12ceccbf3b.webp"
+        },
+        {
+          "url": "media/cached-image_79e5fddf438b0c129139a590ef7dd7a60803aee38b8118955f2cea078a674e80.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/kR3XM1sKHN8bA2NE7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This children's park in Kurakuen is part of the residential neighborhood fans walk during pilgrimage, tracing the quiet streets and small parks that give the film its distinctive wintry small-town atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_23",
+      "name": "Kurakuen No.3 Children's Park",
+      "localName": "苦楽園三番児童遊園",
+      "coordinates": {
+        "lat": 34.76086,
+        "lng": 135.31195
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9e1c5e5-f47c-4652-b103-bf6907a45cf5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9e1c5e5-f47c-4652-b103-bf6907a45cf5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/dd9Sw6SGAAQvY93F9",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This children's park in Kurakuen is part of the residential neighborhood fans walk during pilgrimage, tracing the quiet streets and small parks that give the film its distinctive wintry small-town atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-disappearance-of-haruhi-suzumiya_24",
+      "name": "Ikari",
+      "localName": "いかり 甲陽園店",
+      "coordinates": {
+        "lat": 34.76109,
+        "lng": 135.32977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c55cae5-fd2c-446b-a41d-72b1f27d6b45.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c55cae5-fd2c-446b-a41d-72b1f27d6b45.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/z84FFiua5RF78sZJ6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Ikari supermarket in Koyoen is a local landmark that appears in the film's neighborhood scenes, part of the ordinary commercial life of the district that continues unchanged even as Kyon's world has been fundamentally altered around him."
+    }
+  ]
+}

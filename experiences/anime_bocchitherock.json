@@ -3,1431 +3,20 @@
   "entityType": "anime",
   "entityName": "BOCCHI THE ROCK!",
   "slug": "bocchi-the-rock",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_5416521c8fa983d0a6df61301389f78cc74a35a53f72d0aaac845c6643a8d436.webp",
-  "image": "media/cached-image_5416521c8fa983d0a6df61301389f78cc74a35a53f72d0aaac845c6643a8d436.webp",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cache.contextforce.com/media/cached-image_5416521c8fa983d0a6df61301389f78cc74a35a53f72d0aaac845c6643a8d436.webp",
+  "image": "https://cache.contextforce.com/media/cached-image_5416521c8fa983d0a6df61301389f78cc74a35a53f72d0aaac845c6643a8d436.webp",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130003-FEBlngeJSTEm.jpg",
   "primaryLocation": "Tokyo, Japan",
   "primaryLocationCoords": {
-    "lat": 35.532365544,
-    "lng": 139.624123572
+    "lat": 35.53236554400001,
+    "lng": 139.62412357200003
   },
   "metadata": {
     "entityType": "anime",
     "entityName": "BOCCHI THE ROCK!"
   },
   "ingredients": [
-    {
-      "kind": "poi",
-      "placeId": "ChIJeTglaGrzGGARfQv3TFqoe84",
-      "name": "Yakiniku Dining Taijuen Shimokitazawa",
-      "localName": "焼肉ダイニング 太樹苑 下北沢店",
-      "coordinates": {
-        "lat": 35.66263,
-        "lng": 139.66933
-      },
-      "image": "media/cached-image_ec3728c4caca92223a49cb0294d0bd615f3f1c664f6e32859312ae87241f70c5.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ec3728c4caca92223a49cb0294d0bd615f3f1c664f6e32859312ae87241f70c5.webp"
-        },
-        {
-          "url": "media/cached-image_e4e470209afe02de55ba46b00747047e8103714f4dc8346e928c143220f3bebf.jpg"
-        },
-        {
-          "url": "media/cached-image_6b7014782430ddf481c3688310864991bde246d2003f95089a9abbfb2b357c2f.jpg"
-        },
-        {
-          "url": "media/cached-image_b2de3a69e7cbe4ca54dadaadf38effd18cbdff98c2ac2a5951b3fa63d3d9b09d.jpg"
-        },
-        {
-          "url": "media/cached-image_698b0240d5307605daa5c0b36ccd47767df4e9ee605680071fb2b4a735fbfed4.jpg"
-        },
-        {
-          "url": "media/cached-image_fffcc45852368505612ede8ade31c0566538a431be2efad2016d6618c6303b9b.jpg"
-        },
-        {
-          "url": "media/cached-image_7e63ae7a9da807885bad762a2f5f2e4a3f6833e3bcae376f32cde29c4e55fdc5.jpg"
-        },
-        {
-          "url": "media/cached-image_f7bb8d6cf4a69399edc2eff7fd0c32bc04f122aa9c497260ceb85e683317d3ce.jpg"
-        },
-        {
-          "url": "media/cached-image_cbb3ac14af8efad4fd6119278b3bdc535236585c0ec15e69fbaf186477dd24f7.jpg"
-        },
-        {
-          "url": "media/cached-image_50d2475e06b687f6d00b02b64b990b3af3a41bf3ec3ead287b1d7810aa23850a.jpg"
-        },
-        {
-          "url": "media/cached-image_ccec0795419f2d74ff03cd34ab2f8b9a0387581c3b6a76f3d14c164f4556ce13.jpg"
-        },
-        {
-          "url": "media/cached-image_7df6469d96c006d036655f8d6917b7482a28c737c875fa2a8e19dab561026d64.jpg"
-        }
-      ],
-      "type": "焼肉店",
-      "categories": [
-        "焼肉店"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "ＮＳビル, 2 Chome-8-8 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6626389,139.6693102,3a,90y,179.87h,81.62t/data=!3m7!1e1!3m5!1s1I6CjAt-sMqe1n9i4_iyFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.37688600439752%26panoid%3D1I6CjAt-sMqe1n9i4_iyFQ%26yaw%3D179.87246999912318!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJG_h8q9hDGGARjY2rT-yJpAA",
-      "name": "Kanazawa Seaside Line Shimohiroba",
-      "localName": "金沢シーサイドライン下広場",
-      "coordinates": {
-        "lat": 35.33027,
-        "lng": 139.62315
-      },
-      "image": "media/cached-image_6405425998d34d0263ca301ea6a2ec80cf6723d79e0a5bd6b6960517e548c9ce.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6405425998d34d0263ca301ea6a2ec80cf6723d79e0a5bd6b6960517e548c9ce.webp"
-        },
-        {
-          "url": "media/cached-image_28dc19b1f7f0ea35f1c44ab68b12d0a8670209c57716fc1f6773db1e1f37800e.jpg"
-        }
-      ],
-      "type": "公園",
-      "categories": [
-        "公園"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "10番 Uminokoen, Kanazawa Ward, Yokohama, Kanagawa 236-0013, Japan",
-      "city": "Yokohama",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3302049,139.6230653,3a,75y,52.44h,90.01t/data=!3m7!1e1!3m5!1sfVfQpfsSW7w7tlzSRaG0WA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.005960077169859801%26panoid%3DfVfQpfsSW7w7tlzSRaG0WA%26yaw%3D52.438665454791526!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "A station on the Kanazawa Seaside Line monorail that serves Bocchi's home area in Kanazawa-ku, Yokohama, part of the distinctive transit infrastructure the anime uses to characterise her long commute from home to STARRY."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJHS1Q5RmMGGARqwczOh6Nqqc",
-      "name": "KUROSAWA MUSIC Ochanomizu Station Front",
-      "localName": "クロサワ楽器 お茶の水駅前店",
-      "coordinates": {
-        "lat": 35.69927,
-        "lng": 139.7632
-      },
-      "image": "media/cached-image_244372b03075b9ad517443880da5046b84e8b8104b7b05f0287092f23d476d4a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_244372b03075b9ad517443880da5046b84e8b8104b7b05f0287092f23d476d4a.webp"
-        },
-        {
-          "url": "media/cached-image_8f01cbd219b25ba4ca73cd0a95f73fa97b1c29f1d1cbdd0a901a602214a0515a.jpg"
-        }
-      ],
-      "type": "楽器店",
-      "categories": [
-        "楽器店"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "2 Chome-2-2 Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6992231,139.7630161,3a,39.2y,71.08h,91.31t/data=!3m6!1e1!3m4!1sJanzbxnyKJDKQci3yeggeA!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "One of Ochanomizu's famous instrument shops that appears in Episode 12 when Bocchi goes to buy a new guitar. The music instrument district of Ochanomizu is where Seika Ijichi earned the nickname 'Satan of Ochanomizu' before opening STARRY."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJsxcIURrzGGARBe_NZShwKvg",
-      "name": "Spice Curry & Cafe SHANTi",
-      "localName": "Spice Curry & Cafe SHANTi 下北店",
-      "coordinates": {
-        "lat": 35.6624769,
-        "lng": 139.6680066
-      },
-      "image": "media/cached-image_97708f31429845e1726480c220c26cde0ee01bc2615ce9ca3c2195aa1a34dbc9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_97708f31429845e1726480c220c26cde0ee01bc2615ce9ca3c2195aa1a34dbc9.webp"
-        },
-        {
-          "url": "media/cached-image_50d625cf899e9e81d939f3fa975fa8625896ec799bc924ae8aa1126a1bc51225.jpg"
-        }
-      ],
-      "type": "日式咖喱餐馆",
-      "categories": [
-        "日式咖喱餐馆"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−12−2 Southwave Shimokitazawa 1F",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6624769,139.6680066,3a,90y,312.61h,94.21t/data=!3m7!1e1!3m5!1scxNhCggSg-1soMoMW265tQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DcxNhCggSg-1soMoMW265tQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D61.335644%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJtdzDsWnzGGARMtRnsEKgqdM",
-      "name": "Times Daizawa No. 5",
-      "localName": "タイムズ代沢第５",
-      "coordinates": {
-        "lat": 35.6588591,
-        "lng": 139.6690487
-      },
-      "image": "media/cached-image_0a1e80bedb6958658e295875da695097c61e8f3ea98fa8d91a3e27f80c27b405.webp",
-      "images": [
-        {
-          "url": "media/cached-image_0a1e80bedb6958658e295875da695097c61e8f3ea98fa8d91a3e27f80c27b405.webp"
-        },
-        {
-          "url": "media/cached-image_ab7d849992b085b1f2670453baef4160a4cce9d54c0e35c7afdbb7957eb0f9bb.jpg"
-        },
-        {
-          "url": "media/cached-image_40545bd545a75f80cdf26ab07ab583ea96b284ba780a807f3e051416f8921f43.jpg"
-        }
-      ],
-      "type": "駐車場",
-      "categories": [
-        "駐車場"
-      ],
-      "rating": 3.6,
-      "reviewCount": 1,
-      "priceLevel": null,
-      "address": "2 Chome-26-26 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6588591,139.6690487,3a,75y,2.18h,79.26t/data=!3m6!1e1!3m4!1snBHjdn4-1UoW3CHeuvaH4w!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "One of the photo shoot backdrops in Episode 4's artist photo session. The fence of the Daizawa car park features in the band's street-style shots."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJmfS-pR7zGGAReE1dxckppTE",
-      "name": "Burger King - Shimo-Kitazawa Station South Entrance",
-      "localName": "バーガーキング 下北沢駅南口店",
-      "coordinates": {
-        "lat": 35.66066,
-        "lng": 139.66754
-      },
-      "image": "media/cached-image_e033376f8eae31639641570e298ceac9b9a45908db7a412467108e8bef323d75.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e033376f8eae31639641570e298ceac9b9a45908db7a412467108e8bef323d75.webp"
-        },
-        {
-          "url": "media/cached-image_8ff15a22d927030b14c22e2185c61450dbb67771b5a7aae93428b854aa2aa733.jpg"
-        }
-      ],
-      "type": "ファースト フード店",
-      "categories": [
-        "ファースト フード店"
-      ],
-      "rating": 3.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-13-7 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6607482,139.6675379,3a,48.7y,174.69h,99.46t/data=!3m7!1e1!3m5!1sohdiOvQQ_wiju9mCTMdOLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.461526027462554%26panoid%3DohdiOvQQ_wiju9mCTMdOLQ%26yaw%3D174.68569440707674!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJy9IVaADzGGARTYCHZMTlnfU",
-      "name": "Shimokitazawa Parking Lot",
-      "localName": "下北沢パーキング",
-      "coordinates": {
-        "lat": 35.66272,
-        "lng": 139.66909
-      },
-      "image": "media/cached-image_b2774f242d15aae48bfc883e97d01c06bb2b169a2d275a3d76297cdd190c808b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_b2774f242d15aae48bfc883e97d01c06bb2b169a2d275a3d76297cdd190c808b.webp"
-        },
-        {
-          "url": "media/cached-image_14c5fc3d151a18bdd6f66dd0d2a60cd055d7ca530c0858c5c63ffbdf378e237c.jpg"
-        }
-      ],
-      "type": "駐車場",
-      "categories": [
-        "駐車場"
-      ],
-      "rating": 3.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-32-32 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6628353,139.6690012,3a,75y,136h,94.2t/data=!3m7!1e1!3m5!1suYXKwwiWs7ArBTGI9aSnzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DuYXKwwiWs7ArBTGI9aSnzQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D18.76595%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJSdyjbPxOGGARohA5GYPzeuA",
-      "name": "Katase-Enoshima Station",
-      "localName": "片瀬江ノ島駅",
-      "coordinates": {
-        "lat": 35.3086765,
-        "lng": 139.4836789
-      },
-      "image": "media/cached-image_87fd28687d741309dad5664897c20679b7e4ce67af7c5dd7bafcfeabe3378706.webp",
-      "images": [
-        {
-          "url": "media/cached-image_87fd28687d741309dad5664897c20679b7e4ce67af7c5dd7bafcfeabe3378706.webp"
-        },
-        {
-          "url": "media/cached-image_34c43b10722403f36d581bb34e4b7f034bd3beb55116d1d5cbb9473d1f571d30.jpg"
-        },
-        {
-          "url": "media/cached-image_1237862edf0c7cbdf9d3c36f7ced34de8dd2f939e111bece8622c095a8b92e94.jpg"
-        },
-        {
-          "url": "media/cached-image_25a9c84772fe7def62ec8422ac548f1d612c8be3a9cd707da2c5eab1abb0695a.jpg"
-        },
-        {
-          "url": "media/cached-image_4bd03082b21e59b17507c5082c603da02251f74e3b4f7ccfa7c98cc168d39f04.jpg"
-        },
-        {
-          "url": "media/cached-image_cf260b3f738d5e1a3b65781f50f0097e4e160c9e154e2a870b0797f64e432174.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 4.3,
-      "reviewCount": 140,
-      "priceLevel": null,
-      "address": "Kanagawa, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3086765,139.4836789,3a,75y,314.44h,98.68t/data=!3m7!1e1!3m5!1sBBQmy8A4NkEZfzoAdiD_VQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DBBQmy8A4NkEZfzoAdiD_VQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D56.376423%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "The station where Kessoku Band arrives for their Enoshima day trip in Episode 9 'Enoshima Escar'. The four members gathering out front is one of the series' most iconic shots, and the distinctive façade is reproduced exactly in the anime.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJkTZoVQBPGGARNV2JQQSeYes",
-      "name": "Couple Stairs Enoshima",
-      "localName": null,
-      "coordinates": {
-        "lat": 35.30715,
-        "lng": 139.48446
-      },
-      "image": "media/cached-image_885b21d53c40eed96d0a3c95cbfef311150487edac118d42d13700b3a07ddf84.webp",
-      "images": [
-        {
-          "url": "media/cached-image_885b21d53c40eed96d0a3c95cbfef311150487edac118d42d13700b3a07ddf84.webp"
-        },
-        {
-          "url": "media/cached-image_07201a6f20c6690b58060058c8b97a430e76e740e047ddc8b90c71f7397dc041.jpg"
-        }
-      ],
-      "type": "Photographer",
-      "categories": [
-        "Photographer"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "江ノ島海岸（バス, 1 Chome-15-15 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3071037,139.4843809,2a,47.7y,31.68h,96.4t/data=!3m7!1e1!3m5!1s5Qfy_alylNAoOwr4AHz9QQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.402856021385674%26panoid%3D5Qfy_alylNAoOwr4AHz9QQ%26yaw%3D31.677770938274648!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The stone stairs on Enoshima island that the band climbs during the Episode 9 'Enoshima Escar' day trip, part of the island route connecting the torii gate to the shrines and Sea Candle."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJx-twbwBPGGARYbgGwck0JW4",
-      "name": "Enoshima esker 3rd section end point",
-      "localName": "江の島エスカー3区終点",
-      "coordinates": {
-        "lat": 35.29903,
-        "lng": 139.48026
-      },
-      "image": "media/cached-image_bbb34f3831fe6f041cdeaefda88948e6115acb09e458690facf96869a4481aa3.webp",
-      "images": [
-        {
-          "url": "media/cached-image_bbb34f3831fe6f041cdeaefda88948e6115acb09e458690facf96869a4481aa3.webp"
-        },
-        {
-          "url": "media/cached-image_c8f7aac9506aa199c33b8e42fd7c3126938bce707974506e73a0f7ecbe84aab4.jpg"
-        }
-      ],
-      "type": "運輸サービス",
-      "categories": [
-        "運輸サービス"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "2 Chome-3-19 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.2990714,139.4801824,2a,40y,90.72h,95.91t/data=!3m7!1e1!3m5!1s-Vn2AzrMTzUBL3a5s6bApg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.908022790247898%26panoid%3D-Vn2AzrMTzUBL3a5s6bApg%26yaw%3D90.7158163506862!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The outdoor escalators (Enoshima Escar) that give Episode 9 its name. The third section's end point is the elevated plateau where the band emerges from the ascent with the sea view opening up. The most Bocchi-specific location in Enoshima."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ7bB1NWrzGGARS_U1C-c--mU",
-      "name": "Village Vanguard Shimokitazawa",
-      "localName": "ヴィレッジヴァンガード下北沢店",
-      "coordinates": {
-        "lat": 35.66182,
-        "lng": 139.66857
-      },
-      "image": "media/cached-image_5cc87f291f506ab934ee223735c4293e968e25a490396c29b60ed5d7feb26881.webp",
-      "images": [
-        {
-          "url": "media/cached-image_5cc87f291f506ab934ee223735c4293e968e25a490396c29b60ed5d7feb26881.webp"
-        },
-        {
-          "url": "media/cached-image_7cb1f7d0a12d14d5b8677c4b451e9a9cc4a6fde963afc75ef4f3d9cfbda0119c.jpg"
-        }
-      ],
-      "type": "General store",
-      "categories": [
-        "General store"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "マルシェ下北沢 1F, 2 Chome-10-15 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6618019,139.6686471,3a,90y,172.48h,99.2t/data=!3m6!1e1!3m4!1szgTe5RZOrrsscgI4dLnNtg!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "In front of Village Vanguard is where Bocchi walks with Nijika after first arriving in Shimokitazawa (Ep 1), and where Bocchi invites Kita Ikuyo to join the band (Ep 3). It is one of the most-visited street corners on the Bocchi pilgrimage route."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJa0u3hYFPGGARWCKHnIBJ2YM",
-      "name": "Eshima Shrine Hoanden",
-      "localName": "奉安殿",
-      "coordinates": {
-        "lat": 35.3002174,
-        "lng": 139.4798357
-      },
-      "image": "media/cached-image_6ceff144f960a6ee03caa59ea3d5f9035ca20c4a9dabb0adeddd5d99b401a1fa.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6ceff144f960a6ee03caa59ea3d5f9035ca20c4a9dabb0adeddd5d99b401a1fa.webp"
-        },
-        {
-          "url": "media/cached-image_d8412539e70c16eb7e70b54c5818f35cf8fed980c85fc3b7bdb65c7da520978e.jpg"
-        },
-        {
-          "url": "media/cached-image_630031d5b030baf30f367417ccef0be4cf5f91f4c55240a5c26f3a1cbdcea0c8.jpg"
-        },
-        {
-          "url": "media/cached-image_571472b85beb4b5cdfc9499f285ed6653fadec762fa8608df03739a061a4f815.jpg"
-        },
-        {
-          "url": "media/cached-image_e08b451fff9105370eefe95fa406f2f37bd9fd08a4f112d07ef9c7ccfe9ee1ac.jpg"
-        },
-        {
-          "url": "media/cached-image_a126639bc4c5d196347cc21d77e92050237d1b7b686d33bde7e39940e79e349c.jpg"
-        },
-        {
-          "url": "media/cached-image_acc7472f676bbbcd1a2ea23ffa8c93aff5d4e8b036fb4345197ca9bf4b6bb8e2.jpg"
-        },
-        {
-          "url": "media/cached-image_f04ca7876fe94fefee198b720873dc055086f66b59d7f7b94d377ba1363ebea3.jpg"
-        }
-      ],
-      "type": "神社",
-      "categories": [
-        "神社"
-      ],
-      "rating": 4.4,
-      "reviewCount": 144,
-      "priceLevel": null,
-      "address": "Japan, 〒251-0036 Kanagawa, Fujisawa, Enoshima, 2 Chome−3",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3002174,139.4798357,2a,75y,216.81h,99.76t/data=!3m7!1e1!3m5!1siJ96dkIEeUBPUqwgd-_6lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DiJ96dkIEeUBPUqwgd-_6lQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.740845%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
-      "entityContext": "Part of the Enoshima Shrine complex visited by Kessoku Band in Episode 9, dedicated to the goddess of music that Kita specifically wanted to visit as a musician."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJE4sBnmjzGGARGEe9J-dxZuI",
-      "name": "Marucho",
-      "localName": "中華 丸長",
-      "coordinates": {
-        "lat": 35.6554,
-        "lng": 139.66738
-      },
-      "image": "media/cached-image_47d73079f4065116605afbf12e55a2eef4631bd21ed71ac65b6bfa8890710956.webp",
-      "images": [
-        {
-          "url": "media/cached-image_47d73079f4065116605afbf12e55a2eef4631bd21ed71ac65b6bfa8890710956.webp"
-        },
-        {
-          "url": "media/cached-image_c851b4cdb3832b3a23756b30c1ccbcc1660ceffe552db354402fb9953444c7c0.jpg"
-        }
-      ],
-      "type": "中菜館",
-      "categories": [
-        "中菜館"
-      ],
-      "rating": 3.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "5 Chome-6-1 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6553593,139.6674298,3a,47.9y,318.33h,91.91t/data=!3m7!1e1!3m5!1svWbPlfRqpz2p0lO89elm4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9133665177132428%26panoid%3DvWbPlfRqpz2p0lO89elm4g%26yaw%3D318.32555053362756!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Chinese restaurant in Shimokitazawa where Ryo works during the T-shirt design session in Episode 7, designing artwork for the band while on the job."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJe2btX2rzGGARZLZh2QpTpG8",
-      "name": "Near the Cuore Forte",
-      "localName": "クオーレ・フォルテ付近",
-      "coordinates": {
-        "lat": 35.6632103,
-        "lng": 139.6691819
-      },
-      "image": "media/cached-image_01bd30346480be78792190419a0f8e7ddbe4590062cdcb5f864c7091b5525e3a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_01bd30346480be78792190419a0f8e7ddbe4590062cdcb5f864c7091b5525e3a.webp"
-        },
-        {
-          "url": "media/cached-image_3d9b39ae2fd724c73f61fe445b1c1d44f506275b10b53579ed30459dc9d38bc6.jpg"
-        }
-      ],
-      "type": "イタリア料理店",
-      "categories": [
-        "イタリア料理店"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "大成ビル 1階, 3 Chome-20-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6632103,139.6691819,3a,90y,195.37h,95.86t/data=!3m7!1e1!3m5!1sinbAMhn6EiudtFrIsaquqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DinbAMhn6EiudtFrIsaquqA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D139.71529%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ0bfRPuROGGARPhzcc2M6WLw",
-      "name": "Asahi Honten",
-      "localName": "あさひ本店",
-      "coordinates": {
-        "lat": 35.3010499,
-        "lng": 139.4805098
-      },
-      "image": "media/cached-image_f5e5842d41988f16d36430794ac544ee33850e90e13dff2a971d2ecd0ad921fc.webp",
-      "images": [
-        {
-          "url": "media/cached-image_f5e5842d41988f16d36430794ac544ee33850e90e13dff2a971d2ecd0ad921fc.webp"
-        },
-        {
-          "url": "media/cached-image_5306a6b0c1092153e608f2893e69df9cdba19ee3d7a50c0ed80bdaeeb161df92.jpg"
-        }
-      ],
-      "type": "和菓子屋",
-      "categories": [
-        "和菓子屋"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-4-8 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/Asahi+Honten/@35.3010499,139.4805098,3a,75y,147.01h,92.55t/data=!3m6!1e1!3m4!1sULbTYvpplAZVe1jxea61vw!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60184ee43ed1b7d1:0xbc583a6373dc1c3e!2sAsahi+Honten!8m2!3d35.3009448!4d139.4805447!16s%2Fg%2F1ttywq2f!3m5!1s0x60184ee43ed1b7d1:0xbc583a6373dc1c3e!8m2!3d35.3009448!4d139.4805447!16s%2Fg%2F1ttywq2f?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJkwURgULzGGARKZPMvywnhpI",
-      "name": "Near the Trust Park Daizawa 2-Chome",
-      "localName": "トラストパーク 代沢2丁目付近",
-      "coordinates": {
-        "lat": 35.66004,
-        "lng": 139.66914
-      },
-      "image": "media/cached-image_9e234b09fc1149a179f08a630ed34be83453bd4ce65478ab556e21da0df926fc.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9e234b09fc1149a179f08a630ed34be83453bd4ce65478ab556e21da0df926fc.webp"
-        },
-        {
-          "url": "media/cached-image_3688881ed942c9bf3d5a1e08723775c50c97814b7eff9ebad213f7a7c41b273a.jpg"
-        }
-      ],
-      "type": "駐車場",
-      "categories": [
-        "駐車場"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "2 Chome-33-6 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6600981,139.6690446,3a,90y,107.56h,103.74t/data=!3m6!1e1!3m4!1s0cebOG_KNSH9tgukZVbpWg!2e0!7i13312!8i6656?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJMQiyEGPzGGAR5G2O2xhX5co",
-      "name": "Shimokita Senrogai Open Space",
-      "localName": "下北線路街 空き地",
-      "coordinates": {
-        "lat": 35.66294,
-        "lng": 139.66933
-      },
-      "image": "media/cached-image_f200a9a76d4a5995a003c2ac5b2e70a754c020db71b4b6eb0ed3c5319cfb5740.webp",
-      "images": [
-        {
-          "url": "media/cached-image_f200a9a76d4a5995a003c2ac5b2e70a754c020db71b4b6eb0ed3c5319cfb5740.webp"
-        },
-        {
-          "url": "media/cached-image_9c92921c6b521d0df8ccb799173bbeee388f388c7ed65994a62b83e000c426f7.jpg"
-        }
-      ],
-      "type": "イベント会場",
-      "categories": [
-        "イベント会場"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−33−３３番１２号 付近, 下北沢交番の隣",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6627222,139.6691109,3a,43.2y,32.62h,89.26t/data=!3m7!1e1!3m5!1sQAno3FLil8FhS0eHLwvXbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7437017224713429%26panoid%3DQAno3FLil8FhS0eHLwvXbw%26yaw%3D32.62103504350123!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The train yard open space where Nijika stands alone after the argument with her older sister Seika in Episode 5, one of the series' quieter, more character-focused scenes outside the live house."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJy7p9-hmMGGARjT7cuNziUmA",
-      "name": "Ishibashi Music - Ochanomizu Main Shop",
-      "localName": "イシバシ楽器 御茶ノ水本店",
-      "coordinates": {
-        "lat": 35.69912,
-        "lng": 139.76317
-      },
-      "image": "media/cached-image_06badd17be038b559da57b212e1e5f668770002d16f19b4c62b3faefad45408f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_06badd17be038b559da57b212e1e5f668770002d16f19b4c62b3faefad45408f.webp"
-        },
-        {
-          "url": "media/cached-image_f912f241a4021ed0ad799415a44fe82d836e8980769ccaca371b7e287157cfb1.jpg"
-        }
-      ],
-      "type": "楽器店",
-      "categories": [
-        "楽器店"
-      ],
-      "rating": 3.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-２ Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6992231,139.7630161,3a,38.5y,114.32h,91.36t/data=!3m7!1e1!3m5!1sJanzbxnyKJDKQci3yeggeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3605393277408524%26panoid%3DJanzbxnyKJDKQci3yeggeA%26yaw%3D114.31897240161744!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The landmark Ishibashi Music shop in Ochanomizu's instrument district where the band heads in Episode 12. Bocchi famously enters the store headbanging, flustered about having to talk to the clerk, and ends up buying a Yamaha Pacifica for ¥150,000."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJmaho3GrzGGARfmDbOUgA6FI",
-      "name": "Donguri Hiroba Park",
-      "localName": "どんぐりひろば公園",
-      "coordinates": {
-        "lat": 35.6643368,
-        "lng": 139.668609
-      },
-      "image": "media/cached-image_78d4276f2874d4ff271c37075a2a94aa05d0e39d8ce091d01c312c7c5ad2129b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_78d4276f2874d4ff271c37075a2a94aa05d0e39d8ce091d01c312c7c5ad2129b.webp"
-        },
-        {
-          "url": "media/cached-image_8654c4002cbd3dbb2fdf02d95a93cc89e75ad900982094f3ed26177166280107.jpg"
-        }
-      ],
-      "type": "公園",
-      "categories": [
-        "公園"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "3 Chome-26-18 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6643368,139.668609,3a,68y,108.52h,94.66t/data=!3m8!1e1!3m6!1sAF1QipN-c4reAZus9WpigbQYH0GVmWkkGl7TfNcMxEJk!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-c4reAZus9WpigbQYH0GVmWkkGl7TfNcMxEJk%3Dw203-h100-k-no-pi-0-ya155.80865-ro0-fo100!7i7680!8i3840?entry=ttu",
-      "entityContext": "The small park that serves as one of the shooting locations in Kessoku Band's Episode 4 artist photo sequence, part of the Shimokitazawa backstreet tour the band goes on for their band photos."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJTZaQ3PxOGGARKDaOHv8S8cI",
-      "name": "Enoshima Kaigan",
-      "localName": "江ノ島海岸（バス）",
-      "coordinates": {
-        "lat": 35.30675,
-        "lng": 139.48392
-      },
-      "image": "media/cached-image_b54751a94c531e057e1fcdc45deb6a64b142d28312a5ca23b51e1ade8acad89f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_b54751a94c531e057e1fcdc45deb6a64b142d28312a5ca23b51e1ade8acad89f.webp"
-        },
-        {
-          "url": "media/cached-image_7b6978e4955c4bd6d5a016cc677acdb5d9052387d88b7a7c3638e62c25ffd668.jpg"
-        }
-      ],
-      "type": "バス停",
-      "categories": [
-        "バス停"
-      ],
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒251-0035 Kanagawa, Fujisawa, Katasekaigan, 1-chōme−15",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3067696,139.4839178,2a,41.5y,30.15h,97.69t/data=!3m7!1e1!3m5!1sMb80VJEfxp46w2uWPT9w9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.690204805864852%26panoid%3DMb80VJEfxp46w2uWPT9w9A%26yaw%3D30.15147787818181!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Enoshima coastline where the band spends time during the Episode 9 beach day, serving as the seaside setting for the kite-attack scene where Bocchi loses her ice cream to Enoshima's notorious food-stealing birds."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ20HAcdBPGGARDfh_VItRx_M",
-      "name": "Grand Torii of Enoshima Jinja Shrine",
-      "localName": "江島神社 朱の鳥居(大鳥居)",
-      "coordinates": {
-        "lat": 35.30063,
-        "lng": 139.48026
-      },
-      "image": "media/cached-image_9355b407b75662b724c407353f0a60da6d7aa0a532749710a8aea55ce47ddd2b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9355b407b75662b724c407353f0a60da6d7aa0a532749710a8aea55ce47ddd2b.webp"
-        },
-        {
-          "url": "media/cached-image_c7669f426287b8ab708f5c37892cb9586b7f7f0df632ecec7b1dd73951399895.jpg"
-        }
-      ],
-      "type": "文化的ランドマーク",
-      "categories": [
-        "文化的ランドマーク"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-2 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3006534,139.4803057,2a,90y,307.53h,86.63t/data=!3m7!1e1!3m5!1s9yHh1XybS6k2b1vybBprUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.3704863543864008%26panoid%3D9yHh1XybS6k2b1vybBprUg%26yaw%3D307.5292201841845!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The red torii gate marking the entrance to Enoshima Shrine. Per pilgrimage guides, it is the spot on the long approach where Bocchi first meets Kikuri Hiroi, serving as the gateway to the island's shrine complex in Episode 9."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJz_ZsX2rzGGARwbVvOEQJWxI",
-      "name": "JET SET Shimokitazawa",
-      "localName": "ジェットセット 下北沢店",
-      "coordinates": {
-        "lat": 35.66309,
-        "lng": 139.66923
-      },
-      "image": "media/cached-image_720cb6e64f0f80579e7400e19f667d7c1f264c12794563ba98ddf896f949b946.webp",
-      "images": [
-        {
-          "url": "media/cached-image_720cb6e64f0f80579e7400e19f667d7c1f264c12794563ba98ddf896f949b946.webp"
-        },
-        {
-          "url": "media/cached-image_f5783c9b89198985828f78cdd80a4d73724e87df12a4e094724c9e995aa7c0a2.jpg"
-        }
-      ],
-      "type": "レコード店",
-      "categories": [
-        "レコード店"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "柳川ビル 201号, 2 Chome-33-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/JET+SET+Shimokitazawa/@35.6631004,139.6692424,2a,90y,18.42h,90.05t/data=!3m7!1e1!3m5!1soD1ZLl7dwLAmxkskuQNzwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.053295365396394345%26panoid%3DoD1ZLl7dwLAmxkskuQNzwA%26yaw%3D18.415203737200972!7i13312!8i6656!4m9!3m8!1s0x6018f36a5f6cf6cf:0x125b0944386fb5c1!8m2!3d35.663097!4d139.669232!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tgq6pg8?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJM2EpmmvzGGARXV5tNZ86xGY",
-      "name": "Shimo-Kitazawa Station",
-      "localName": "下北沢駅",
-      "coordinates": {
-        "lat": 35.66157,
-        "lng": 139.66759
-      },
-      "image": "media/cached-image_e3407249ea53d4b84e6b65ab07f82e3f1f83360e16b340f2acfdcdc9aaa6e57c.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e3407249ea53d4b84e6b65ab07f82e3f1f83360e16b340f2acfdcdc9aaa6e57c.webp"
-        },
-        {
-          "url": "media/cached-image_dfb53fc59c22a761f674224063911f79ff8d602a488fdf816e439b6ece29677a.jpg"
-        },
-        {
-          "url": "media/cached-image_50a4b5bd322ac5601fe77e69173078841e99d2e64c30b3af1a102e374033691f.jpg"
-        },
-        {
-          "url": "media/cached-image_6a6f987f6013d5c16180a10bb01a74a737f518421d50a683c0d4c01f4c9a03b9.jpg"
-        },
-        {
-          "url": "media/cached-image_84f56cccd24a926641238e8a4bb6328cbf2430dfa6813fe6865f2e28c6716cf7.jpg"
-        },
-        {
-          "url": "media/cached-image_42b576a562dc57607402167709218121ba39dae8b14123907193eb03d4cbf79e.jpg"
-        },
-        {
-          "url": "media/cached-image_7222adbeed4673f08c6ed57d44e130dec5f14746099b99a27cf1dd7074048567.jpg"
-        }
-      ],
-      "type": "Train station",
-      "categories": [
-        "Train station"
-      ],
-      "rating": 3.8,
-      "reviewCount": 11,
-      "priceLevel": null,
-      "address": "2 Chome-24-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6616019,139.667695,3a,75y,243.3h,93.04t/data=!3m6!1e1!3m4!1sc89T3EBEj2xyEpG19-QsGQ!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "The station Bocchi arrives at in Episode 1 when Nijika brings her to the district for the first time, and the constant hub for the band throughout the series. The station plaza is used in the artist photo shoot (Ep 4), band gatherings, and several key transitional scenes.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJRXf-EYxPGGAR7pLXhgJMxBs",
-      "name": "Street Performance Space",
-      "localName": "大道芸広場",
-      "coordinates": {
-        "lat": 35.29907,
-        "lng": 139.4798
-      },
-      "image": "media/cached-image_7b190838812ff474549a75b36e1570707c9b2afb3d8206b77ae5049e6e8b0638.webp",
-      "images": [
-        {
-          "url": "media/cached-image_7b190838812ff474549a75b36e1570707c9b2afb3d8206b77ae5049e6e8b0638.webp"
-        },
-        {
-          "url": "media/cached-image_3f0eb68f523d3daf9066cccd04e5570849342fbbfa09fad25b9aae92739ccee4.jpg"
-        }
-      ],
-      "type": "イベント会場",
-      "categories": [
-        "イベント会場"
-      ],
-      "rating": 4.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-3 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.2990913,139.4798638,2a,75y,279.61h,69.25t/data=!3m7!1e1!3m5!1s42sPyX7O_MMBLqNDsRWDEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D20.750369420831007%26panoid%3D42sPyX7O_MMBLqNDsRWDEQ%26yaw%3D279.61496302533106!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJZUJSOuROGGARsA6vlwpefw8",
-      "name": "Harumiya",
-      "localName": "春巳屋",
-      "coordinates": {
-        "lat": 35.30072,
-        "lng": 139.48038
-      },
-      "image": "media/cached-image_c930591d28a28eb52788c61630c9f661f09e240a91c467b84c4a538126136adc.webp",
-      "images": [
-        {
-          "url": "media/cached-image_c930591d28a28eb52788c61630c9f661f09e240a91c467b84c4a538126136adc.webp"
-        },
-        {
-          "url": "media/cached-image_0f37c666d4f8d101d0d6aaf9d084c2bb972de42a045b09d2fcea05d71efef1bf.jpg"
-        }
-      ],
-      "type": "土産物店",
-      "categories": [
-        "土産物店"
-      ],
-      "rating": 3.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-4-7 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3007462,139.480382,3a,48.8y,129.89h,93.99t/data=!3m7!1e1!3m5!1s1ilFvdnJezXlS6t0CbZKhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9909321374565536%26panoid%3D1ilFvdnJezXlS6t0CbZKhg%26yaw%3D129.89478322167034!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ0WfsO2rzGGARzhnnW-oV1nc",
-      "name": "Near the Geki ko gekijo",
-      "localName": "劇・小劇場付近",
-      "coordinates": {
-        "lat": 35.6616575,
-        "lng": 139.6691569
-      },
-      "image": "media/cached-image_4ce55ba66235276a6d7f43f27ea450182dfca8d5ac18ae0ab01359ed19257fa8.webp",
-      "images": [
-        {
-          "url": "media/cached-image_4ce55ba66235276a6d7f43f27ea450182dfca8d5ac18ae0ab01359ed19257fa8.webp"
-        },
-        {
-          "url": "media/cached-image_444e68aceae3790811a32a96ad9326667d2b9b28f3e07a9e36d916b56b625a57.jpg"
-        }
-      ],
-      "type": "劇場",
-      "categories": [
-        "劇場"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-6-6 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6616575,139.6691569,3a,90y,345.61h,86.21t/data=!3m7!1e1!3m5!1sCMlIFZnhdmCKF8bej6To6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCMlIFZnhdmCKF8bej6To6w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D103.98392%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "The alley beside the Geki small theater appears in Bocchi's first walk through Shimokitazawa with Nijika (Ep 1) and the street where Kita and Nijika reunite (Ep 3), a narrow lane that recurs throughout the series as the band's neighbourhood shortcut."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJXSh4S2rzGGARc9TTYKkc9uU",
-      "name": "Yakiniku Restaurant YAZAWA Shimokitazawa",
-      "localName": "焼肉屋YAZAWA 下北沢店",
-      "coordinates": {
-        "lat": 35.66192,
-        "lng": 139.66835
-      },
-      "image": "media/cached-image_4a3478451bdfef1753554d66be0bf85a1e6a2c2b8fc780c71de51be2fc11bac2.webp",
-      "images": [
-        {
-          "url": "media/cached-image_4a3478451bdfef1753554d66be0bf85a1e6a2c2b8fc780c71de51be2fc11bac2.webp"
-        },
-        {
-          "url": "media/cached-image_64066f82c4dbf2a87152aba50d4367702ee2b15b2dbc7d4a819b8e14f83a2562.jpg"
-        }
-      ],
-      "type": "焼肉店",
-      "categories": [
-        "焼肉店"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-10-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.661922,139.6683896,3a,90y,248.59h,95.44t/data=!3m7!1e1!3m5!1sERc54gDlhHbZ45cm6tWCqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.43908539270744%26panoid%3DERc54gDlhHbZ45cm6tWCqg%26yaw%3D248.58934074448368!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJscIAGGrzGGAROoW9kySUQYQ",
-      "name": "Shelter Shimokitazawa",
-      "localName": "下北沢SHELTER",
-      "coordinates": {
-        "lat": 35.6615463,
-        "lng": 139.6695566
-      },
-      "image": "media/cached-image_6a91c25758687312df8a747e1a29ab85fac6b1eb3bbff66df21829171424c40a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6a91c25758687312df8a747e1a29ab85fac6b1eb3bbff66df21829171424c40a.webp"
-        },
-        {
-          "url": "media/cached-image_ed0050d74cf1ac19c24022e6452c3295aa460b5e7b436d0bb00a50aec88ab436.jpg"
-        }
-      ],
-      "type": "ライブ会場",
-      "categories": [
-        "ライブ会場"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "仙田商会仙田ビル B1, 2 Chome-6-10 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6615463,139.6695564,3a,75y,270.5h,102.42t/data=!3m6!1e1!3m4!1s0OjoBqeJEAQ09FYvwx3o2A!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "The real live house that is the near-identical model for STARRY, sharing the same basement staircase, same red-blue neon entrance, and same intimate stage. Multiple Kessoku Band performances throughout the series happen here. The single most important Bocchi the Rock! pilgrimage spot.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJxZW_LuROGGARX3CaDOdyffo",
-      "name": "Enoshima Shrine - Hetsunomiya",
-      "localName": "江島神社 辺津宮（へつのみや）",
-      "coordinates": {
-        "lat": 35.30035,
-        "lng": 139.47978
-      },
-      "image": "media/cached-image_d69563d7e31005476b89f8fd3ddc50efb8f1eb85cb23227993073f73e61317ff.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d69563d7e31005476b89f8fd3ddc50efb8f1eb85cb23227993073f73e61317ff.webp"
-        },
-        {
-          "url": "media/cached-image_5444aa197662cd8a105508286c360a67ecac219b16f0696133a50a8b0a7e2921.jpg"
-        },
-        {
-          "url": "media/cached-image_b6fd655e73164bd7c30348e661512dfe5230b3c3979aef0c47e28d723b814c8e.jpg"
-        },
-        {
-          "url": "media/cached-image_bc9d654707ba5e7962860c5568a393847c1923233f2586a69163904772376060.jpg"
-        },
-        {
-          "url": "media/cached-image_a1be6ed7499b1dd4a811802d272b5ba110afc06058ec0920a8c9fce60e6b2ebf.jpg"
-        },
-        {
-          "url": "media/cached-image_95d438e9a222b1879a5c45fb7e5d55aee33421d472f0899ac61f0b763dab37f6.jpg"
-        },
-        {
-          "url": "media/cached-image_8a61907ebcb17bb5991e5b0d124a41c94fd06f2230dd7b281b020b71500d28a9.jpg"
-        },
-        {
-          "url": "media/cached-image_66ed35d706807dcc6110c3f10020d4612a5155a82ced25d0d031f39c281acd2e.jpg"
-        },
-        {
-          "url": "media/cached-image_35dddcd0b9e545a8527adabbc2283ee11736de75561679b532c47b8710c49845.jpg"
-        },
-        {
-          "url": "media/cached-image_07e9d1b380b423c78b5f4ef1331340e5556a1029f262bc6f03a4b0644448db22.jpg"
-        },
-        {
-          "url": "media/cached-image_22ef6390663c8394170add0519a7f7f868eccbd355ca13376079ecd207c2c799.jpg"
-        },
-        {
-          "url": "media/cached-image_a472e13addd8cf3ba46de62ce509b909f6ae54583ef241e4b82fe1d189e58f9b.jpg"
-        },
-        {
-          "url": "media/cached-image_1af256d9dc8a798c318b15b96f2bca48f92febe4609f6d91c46197a7206fb4fb.jpg"
-        }
-      ],
-      "type": "Shinto shrine",
-      "categories": [
-        "Shinto shrine"
-      ],
-      "rating": 4.3,
-      "reviewCount": 7311,
-      "priceLevel": null,
-      "address": "2 Chome-3-8 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3004571,139.4799577,2a,42.2y,259.05h,111.52t/data=!3m7!1e1!3m5!1swJlqdtnJcx0HNKBF-ZBBKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.524892054212415%26panoid%3DwJlqdtnJcx0HNKBF-ZBBKA%26yaw%3D259.0472023987825!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Enoshima Shrine dedicated to Benzaiten, goddess of music and performing arts. It is the specific shrine Kita requests the band visit in Episode 9, making it a meaningful stop for a band about aspiring musicians."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJv7FEcFlBGGARQ8o4KWi_UAA",
-      "name": "Kanazawahakkeieki Bicycle Parking",
-      "localName": "金沢八景駅自転車駐車場",
-      "coordinates": {
-        "lat": 35.33021,
-        "lng": 139.62287
-      },
-      "image": "media/cached-image_73e7a3551c5f2adbe0408de285ed90db67427139cf8cbe01a65a49702d527093.webp",
-      "images": [
-        {
-          "url": "media/cached-image_73e7a3551c5f2adbe0408de285ed90db67427139cf8cbe01a65a49702d527093.webp"
-        },
-        {
-          "url": "media/cached-image_5d3cc45bd6b369375b14e2b9f7f4b12c87a292238e781be714fb9337237e24d1.jpg"
-        }
-      ],
-      "type": "駐輪場",
-      "categories": [
-        "駐輪場"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "横浜市営駐輪場 金沢八景駅, 4-26 Seto, Kanazawa Ward, Yokohama, Kanagawa 236-0027, Japan",
-      "city": "Yokohama",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3302524,139.6229772,3a,75y,224.29h,96.48t/data=!3m7!1e1!3m5!1sbnWjn4c1Yv5j6Q-cd70B6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DbnWjn4c1Yv5j6Q-cd70B6g%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D302.4546%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "The bicycle parking at Kanazawa-Hakkei Station that appears in the Episode 6–7 Hakkei neighbourhood sequences, a small, grounding detail from Bocchi's home commute area."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJi3KdPn7zGGARI6c3W_gueuw",
-      "name": "Karaagekappofukunokara Shimokitazawaten",
-      "localName": "福のから 下北沢店",
-      "coordinates": {
-        "lat": 35.66172,
-        "lng": 139.66891
-      },
-      "image": "media/cached-image_acec152beecf0b438ea3184033ee9610d64aa740994386bdd4ae21875a5ca9c9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_acec152beecf0b438ea3184033ee9610d64aa740994386bdd4ae21875a5ca9c9.webp"
-        },
-        {
-          "url": "media/cached-image_2b2d310e4153f18612819395b05261a937ab2601ba12ece4f7db6195af71256d.jpg"
-        }
-      ],
-      "type": "テイクアウト",
-      "categories": [
-        "テイクアウト"
-      ],
-      "rating": 3.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-10-18 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6617343,139.6688875,3a,64.3y,111.08h,90.53t/data=!3m8!1e1!3m6!1s6gcaJzFY1wxuY4xTB3Txow!2e0!5s20220901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5337521779237591%26panoid%3D6gcaJzFY1wxuY4xTB3Txow%26yaw%3D111.07887064658536!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ07Dcczhtm18Rj1EA7-jFvVA",
-      "name": "Hakkei Bridge",
-      "localName": "八景橋",
-      "coordinates": {
-        "lat": 35.32875,
-        "lng": 139.6251
-      },
-      "image": "media/cached-image_fbb1b934f33456ffb721a87db0aca4411c49cabbd277f3219e1530da173a8d27.webp",
-      "images": [
-        {
-          "url": "media/cached-image_fbb1b934f33456ffb721a87db0aca4411c49cabbd277f3219e1530da173a8d27.webp"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Fukazawa Komagome, Aomori, 030-0955, Japan",
-      "city": "Aomori",
-      "region": "Aomori",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3286998,139.6249979,3a,47.2y,59.01h,94.61t/data=!3m7!1e1!3m5!1s2VL4eE1-Sd1VVKvGVX2ukw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.606862611875869%26panoid%3D2VL4eE1-Sd1VVKvGVX2ukw%26yaw%3D59.00529818472386!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The bridge in the Kanazawa Hakkei area that appears in Episode 7 'To Your House' when the rest of the band travels to Bocchi's home neighbourhood, part of the coastal Yokohama scenery around her house."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ6RSAn5HzGGARdzSditSDvrg",
-      "name": "ADRIFT",
-      "localName": null,
-      "coordinates": {
-        "lat": 35.6639453,
-        "lng": 139.6709172
-      },
-      "image": "media/cached-image_9541b6f9374bbaf3be51102ae1694f17363d409090c3620ebe01520dae783426.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9541b6f9374bbaf3be51102ae1694f17363d409090c3620ebe01520dae783426.webp"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": 4.1,
-      "reviewCount": 242,
-      "priceLevel": null,
-      "address": "〒155-0031 Tokyo, Setagaya City, Kitazawa, 3 Chome−9−23 ADRIFT",
-      "city": null,
-      "region": null,
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6639453,139.6709172,3a,45.5y,223.14h,91.14t/data=!3m7!1e1!3m5!1sAF1QipPytoEf6wPXv-uaA-7Uok4FuwsF9OYxmnFYWtvM!2e10!3e11!7i6720!8i3360?entry=ttu",
-      "entityContext": "The Shimokitazawa spot where Ryo and Bocchi part ways at the end of Episode 4 after the photo shoot and a day together, a brief but atmospheric farewell scene in the neighbourhood's quieter alleys."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
-      "name": "CREA BASE Shimokitazawa",
-      "localName": "CREA BASE 下北沢店",
-      "coordinates": {
-        "lat": 35.66053,
-        "lng": 139.66953
-      },
-      "image": "media/cached-image_e65ca87dfcb11c07fd46edde88a6bead0338aee83ad237cba7a2675987dfe30f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e65ca87dfcb11c07fd46edde88a6bead0338aee83ad237cba7a2675987dfe30f.webp"
-        },
-        {
-          "url": "media/cached-image_058d57cb14c84d666e2af7d8afd853ffd030aef51b64728012cd39def2b6ec74.jpg"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": 1,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6604278,139.6696042,3a,90y,343.55h,97.57t/data=!3m7!1e1!3m5!1sIMzD_FnPqNGmdlhMWcA20Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.567806280802714%26panoid%3DIMzD_FnPqNGmdlhMWcA20Q%26yaw%3D343.54991657785547!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ8VbwPGrzGGARo2_JujZaISc",
-      "name": "Hirose Photo Shop",
-      "localName": "ヒロセフォトショップ",
-      "coordinates": {
-        "lat": 35.66162,
-        "lng": 139.66929
-      },
-      "image": "media/cached-image_3d828622f50b72aa0751a594fc97038e87c48e79ddf721a20e352ca09adf6a59.webp",
-      "images": [
-        {
-          "url": "media/cached-image_3d828622f50b72aa0751a594fc97038e87c48e79ddf721a20e352ca09adf6a59.webp"
-        },
-        {
-          "url": "media/cached-image_f9f7dd937b25ee6a36a0bae0f2b81ebb056ac0901d646b568a536d36ed5467f8.jpg"
-        }
-      ],
-      "type": "写真店",
-      "categories": [
-        "写真店"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−6−8, 広瀬ビル1F",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6616239,139.6692924,3a,49.3y,287.3h,97.12t/data=!3m7!1e1!3m5!1sLR5OJHoQGMnxjnehxIwyHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.115787084634164%26panoid%3DLR5OJHoQGMnxjnehxIwyHg%26yaw%3D287.30379271314825!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJNxwcONiMGGARxp-2bBl33mY",
-      "name": "Shinjuku LOFT",
-      "localName": "新宿LOFT",
-      "coordinates": {
-        "lat": 35.69534,
-        "lng": 139.70266
-      },
-      "image": "media/cached-image_60a33fa3bf313a40e83a15a6269fb40d47b6cfb4adddb823e6386e947ab442b9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_60a33fa3bf313a40e83a15a6269fb40d47b6cfb4adddb823e6386e947ab442b9.webp"
-        },
-        {
-          "url": "media/cached-image_4bab173d3e164fdc56d2b4e3b647c45f5347f3d74ff6cec5cc2a2e79d455abf2.jpg"
-        }
-      ],
-      "type": "ライブ会場",
-      "categories": [
-        "ライブ会場"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "タテハナビル, 1 Chome-12-9 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6955186,139.7024915,3a,90y,130.13h,96.82t/data=!3m7!1e1!3m5!1sXHIZDN1rIUV70le1YpYpGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.820357690929683%26panoid%3DXHIZDN1rIUV70le1YpYpGA%26yaw%3D130.1265304052243!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The flagship live house that is the direct model for 'Shinjuku FOLT' in Episode 10 'After Dark', where Kessoku Band shares a bill with Kikuri Hiroi's SICK HACK. The floor layout and stage position are reproduced almost exactly.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJvVsEzuVOGGARs99YuxNfbDU",
-      "name": "Enoshima Sea Candle",
-      "localName": "江の島シーキャンドル",
-      "coordinates": {
-        "lat": 35.299818,
-        "lng": 139.4784833
-      },
-      "image": "media/cached-image_13116039fa27aef1e69b6bc0df5d0221a072bbe773ea8766ff85337d2269a277.webp",
-      "images": [
-        {
-          "url": "media/cached-image_13116039fa27aef1e69b6bc0df5d0221a072bbe773ea8766ff85337d2269a277.webp"
-        },
-        {
-          "url": "media/cached-image_3fdf5f898bf64b5853b8b6c7c5165753890ef1c3751c5d2dc1bdc15f23447f1d.jpg"
-        }
-      ],
-      "type": "Observation deck",
-      "categories": [
-        "Observation deck"
-      ],
-      "rating": 4.4,
-      "reviewCount": 26,
-      "priceLevel": null,
-      "address": "2 Chome-3-28 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
-      "city": "Fujisawa",
-      "region": "Kanagawa",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.2997579,139.478442,2a,90y,52.6h,94.17t/data=!3m7!1e1!3m5!1svOd8fM1aLH6xWxdxdLj0Uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.174444540920817%26panoid%3DvOd8fM1aLH6xWxdxdLj0Uw%26yaw%3D52.604019168568236!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The lighthouse observation tower at the top of Enoshima that appears in the Episode 9 day-trip sequence, offering panoramic views of the coastline and, on clear days, Mount Fuji."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ00Bkj-mPGGARdDjU8QbwcbA",
-      "name": "Focus",
-      "localName": "フォーカス",
-      "coordinates": {
-        "lat": 35.6638999,
-        "lng": 139.6680733
-      },
-      "image": "media/cached-image_8cf3651608fe6649a83d758d756163f3799f2460e85a248dc8f3292c782c380a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_8cf3651608fe6649a83d758d756163f3799f2460e85a248dc8f3292c782c380a.webp"
-        },
-        {
-          "url": "media/cached-image_5b316fbd08f6024338bd81d972494d35662664ee89eb29ada3b6e23284fa00fe.jpg"
-        },
-        {
-          "url": "media/cached-image_c7432ab608e3c22db0ef04cf881c4be87ba2de41b900fb95c698410f60dd8660.jpg"
-        },
-        {
-          "url": "media/cached-image_d7ed95b249e26bf91fbc16c5a6535e636f734caa79ec4bd4e2624d56c17cca6a.jpg"
-        },
-        {
-          "url": "media/cached-image_172464f1571b62f31a4b8d7436e28ceafc645ac2ef29404454e9b8d9fd5eaf8b.jpg"
-        },
-        {
-          "url": "media/cached-image_3ebcbb90f747aa5d3d95cec10c38a0a259cca24dadd225a31673570b93ed3869.jpg"
-        },
-        {
-          "url": "media/cached-image_8b135b084a24d41375afc1f05b8f784e7c25a8c4050d7c3dbbabb2b37f0d3e7f.jpg"
-        },
-        {
-          "url": "media/cached-image_76cb868150b5792eac9a301e714bb1710607f29a01b26a2a943fa7ff424ac4a8.jpg"
-        },
-        {
-          "url": "media/cached-image_5b4696c66f5a04a9482d75c68795f5985b8b83814b144db39597a85549d4e95c.jpg"
-        },
-        {
-          "url": "media/cached-image_90b6dbb7c9dc54c84fff7633f8072a5ff3085677171f24d8ac44ba739e94c9cd.jpg"
-        },
-        {
-          "url": "media/cached-image_e503e8877c00dc2d53892468a9e2c22d6d332535b83141b798d5f12db343f5c6.jpg"
-        },
-        {
-          "url": "media/cached-image_6e31371fdabdac64dd13b7c3257fff0d561e7f12ad2852e6b6058a2d0233ae69.jpg"
-        }
-      ],
-      "type": "Hostel",
-      "categories": [
-        "Hostel"
-      ],
-      "rating": 4.5,
-      "reviewCount": 244,
-      "priceLevel": null,
-      "address": "Japan, 〒111-0051 Tokyo, Taito City, Kuramae, 4 Chome−21−2",
-      "city": "Taito City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6638999,139.6680733,3a,90y,157.51h,95.52t/data=!3m6!1e1!3m4!1sYGjhhkWu3WOrTuupeNzB3w!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "The former 'Focus Shimokita' site that appears in the Episode 4 photo shoot sequence, one of the Shimokitazawa alley locations used for the band's artist photos."
-    },
     {
       "kind": "poi",
       "placeId": "ChIJAQAFBllBGGARlWF3KSUM2dg",
@@ -1437,10 +26,10 @@
         "lat": 35.33195,
         "lng": 139.62228
       },
-      "image": "media/cached-image_a5b5b2e64dd8b78d446190c24249085e46e0e43327ef67cddf2a15f964a74027.webp",
+      "image": "https://cdn.animepilgrimage.com/places/d11d7d0b-3dbc-4241-b6fc-c6e6c7ed021d.webp",
       "images": [
         {
-          "url": "media/cached-image_a5b5b2e64dd8b78d446190c24249085e46e0e43327ef67cddf2a15f964a74027.webp"
+          "url": "https://cdn.animepilgrimage.com/places/d11d7d0b-3dbc-4241-b6fc-c6e6c7ed021d.webp"
         },
         {
           "url": "media/cached-image_c2118e1008b80483173ddfcb76252dbe29afd4fbf1355b3fd977bc804a7fdeb1.jpg"
@@ -1493,141 +82,81 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/place/Biwajima+Shrine/@35.3315033,139.6224867,3a,75y,359.26h,94.82t/data=!3m8!1e1!3m6!1sAF1QipMxJKrRBJvbs3BWz-QWyXXOoRbghlXW9MTVR1Ic!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMxJKrRBJvbs3BWz-QWyXXOoRbghlXW9MTVR1Ic%3Dw900-h600-k-no-pi-4.816260131662418-ya359.25521100969263-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6018415906050001:0xd8d90c2529776195!8m2!3d35.3313433!4d139.6225533!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1yg4f92l9?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The shrine on Biwajima in Kanazawa Hakkei, just east of the station, that appears in the Episode 6–7 Hakkei sequences and serves as the setting for Bocchi's first encounter with Kikuri Hiroi along the shrine's torii approach."
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The small island shrine near Bocchi's home in Kanazawa-Hakkei that appears in episode 6 when she wanders the neighborhood alone, reflecting her habitual solitude before the band pulls her out of her shell."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJGdrSF2rzGGARL58Bo4o9wEs",
-      "name": "46ma",
-      "localName": null,
+      "placeId": "ChIJ8VbwPGrzGGARo2_JujZaISc",
+      "name": "Hirose Photo Shop",
+      "localName": "ヒロセフォトショップ",
       "coordinates": {
-        "lat": 35.6617085,
-        "lng": 139.6694657
+        "lat": 35.66162,
+        "lng": 139.66929
       },
-      "image": "media/cached-image_8ff7ade5b95e1479ec09e8ac26f26cc96aadcfa7b19953676068fa837cf3c292.webp",
+      "image": "https://cdn.animepilgrimage.com/places/cac6bdbe-09b9-4f77-9c93-3bb3f05be040.webp",
       "images": [
         {
-          "url": "media/cached-image_8ff7ade5b95e1479ec09e8ac26f26cc96aadcfa7b19953676068fa837cf3c292.webp"
+          "url": "https://cdn.animepilgrimage.com/places/cac6bdbe-09b9-4f77-9c93-3bb3f05be040.webp"
         },
         {
-          "url": "media/cached-image_d7b3eb0f9a0d196130683ab0a68375b520529ff0bfd6ea0f8439a9b0d2b0e230.jpg"
+          "url": "media/cached-image_f9f7dd937b25ee6a36a0bae0f2b81ebb056ac0901d646b568a536d36ed5467f8.jpg"
         }
       ],
-      "type": "Japanese curry restaurant",
+      "type": "写真店",
       "categories": [
-        "Japanese curry restaurant"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-7-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/46ma/@35.6617085,139.6694657,3a,90y,308.53h,91.66t/data=!3m8!1e1!3m6!1sAF1QipMfTV-WgmqTcRX7LNDE2wjXBBF8vFlIXk4NnJlo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMfTV-WgmqTcRX7LNDE2wjXBBF8vFlIXk4NnJlo%3Dw203-h100-k-no-pi-0-ya226.0282-ro-0-fo100!7i8000!8i4000!4m7!3m6!1s0x6018f36a17d2da19:0x4bc03d8aa3019f2f!8m2!3d35.6616939!4d139.6694452!10e5!16s%2Fg%2F1hcb5zphd?coh=205409&entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJGxsfm2nzGGARJzG5teHTNw0",
-      "name": "Kokera",
-      "localName": "こけら",
-      "coordinates": {
-        "lat": 35.6598648,
-        "lng": 139.668555
-      },
-      "image": "media/cached-image_42bf308af2256949048f5e71608be0d8e0fbe0d715a0915168dbd181ebd94610.webp",
-      "images": [
-        {
-          "url": "media/cached-image_42bf308af2256949048f5e71608be0d8e0fbe0d715a0915168dbd181ebd94610.webp"
-        },
-        {
-          "url": "media/cached-image_4f3eba7392a356b566d9a12ac111313e7a65d1f03c283a16d6707cb9748e6bdf.jpg"
-        }
-      ],
-      "type": "居酒屋",
-      "categories": [
-        "居酒屋"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "藤友ビル 1F, 2 Chome-2-13 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
-      "city": "Setagaya City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6598648,139.668555,3a,90y,18.99h,93.73t/data=!3m7!1e1!3m5!1sCSk7bbMN49OtMNizbcX6jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7315661725123874%26panoid%3DCSk7bbMN49OtMNizbcX6jQ%26yaw%3D18.9874330961976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The seafood izakaya where the band gathers for a post-performance celebration in Episode 8, one of the series' most relaxed group scenes as the members bond over food after a show."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJDQqZEUnzGGARGltZC2NhKMc",
-      "name": "Shimokitazawa North Bicycle Parking Lot",
-      "localName": "下北沢北自転車等置場",
-      "coordinates": {
-        "lat": 35.66179,
-        "lng": 139.66677
-      },
-      "image": "media/cached-image_a4ae1a02bb269f59928563ee7ff0089d2805b8911009671b86bba4492163b8cf.webp",
-      "images": [
-        {
-          "url": "media/cached-image_a4ae1a02bb269f59928563ee7ff0089d2805b8911009671b86bba4492163b8cf.webp"
-        },
-        {
-          "url": "media/cached-image_b988091b3fa300378b3468b413c2e75bad83565832fe270374f1cafa73bdce0b.jpg"
-        }
-      ],
-      "type": "駐輪場",
-      "categories": [
-        "駐輪場"
+        "写真店"
       ],
       "rating": 4.3,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "1 Chome-19-46番先 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−6−8, 広瀬ビル1F",
       "city": "Setagaya City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6618627,139.6666772,3a,73.9y,116.66h,93.28t/data=!3m6!1e1!3m4!1s8X6whIx6fQclbqgCzvzTzA!2e0!7i16384!8i8192?entry=ttu"
+      "streetViewUrl": "https://www.google.com/maps/@35.6616239,139.6692924,3a,49.3y,287.3h,97.12t/data=!3m7!1e1!3m5!1sLR5OJHoQGMnxjnehxIwyHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.115787084634164%26panoid%3DLR5OJHoQGMnxjnehxIwyHg%26yaw%3D287.30379271314825!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The photo development shop in Shimokitazawa that appears in episode 1, where Bocchi encounters the lively local scene that feels overwhelming to a girl who taught herself guitar alone in her room."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJn_zHLVhBGGARM3L0z_expEQ",
-      "name": "Kanazawa-Hakkei Station",
-      "localName": "金沢八景駅",
+      "placeId": "ChIJZUJSOuROGGARsA6vlwpefw8",
+      "name": "Harumiya",
+      "localName": "春巳屋",
       "coordinates": {
-        "lat": 35.33134,
-        "lng": 139.62074
+        "lat": 35.30072,
+        "lng": 139.48038
       },
-      "image": "media/cached-image_73a9d273033cdb5891bfa3ef8aae01d92f380db7f75e997a8bdeeb4d39c90f55.webp",
+      "image": "https://cdn.animepilgrimage.com/places/ad7be890-f8a2-4dc4-a43c-207267e4da89.webp",
       "images": [
         {
-          "url": "media/cached-image_73a9d273033cdb5891bfa3ef8aae01d92f380db7f75e997a8bdeeb4d39c90f55.webp"
+          "url": "https://cdn.animepilgrimage.com/places/ad7be890-f8a2-4dc4-a43c-207267e4da89.webp"
         },
         {
-          "url": "media/cached-image_b4d49bcf498982dcca0bea44dacfba648718e3fb3bfa08d4e324d77c7d6ab92d.jpg"
+          "url": "media/cached-image_0f37c666d4f8d101d0d6aaf9d084c2bb972de42a045b09d2fcea05d71efef1bf.jpg"
         }
       ],
-      "type": "駅",
+      "type": "土産物店",
       "categories": [
-        "駅"
+        "土産物店"
       ],
-      "rating": 3.8,
+      "rating": 3.6,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "15-1 Seto, Kanazawa Ward, Yokohama, Kanagawa 236-0027, Japan",
-      "city": "Yokohama",
+      "address": "1 Chome-4-7 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
       "region": "Kanagawa",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3312327,139.6207594,3a,90y,309.52h,103.73t/data=!3m6!1e1!3m4!1sct1AkHZ3nUN3ZhAwD7hG1Q!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "Bocchi's home station in Kanazawa-ku, Yokohama, in the coastal area near her house that features prominently in Episodes 6 and 7. The commute from here to STARRY in Shimokitazawa takes Bocchi two hours each way."
+      "streetViewUrl": "https://www.google.com/maps/@35.3007462,139.480382,3a,48.8y,129.89h,93.99t/data=!3m7!1e1!3m5!1s1ilFvdnJezXlS6t0CbZKhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9909321374565536%26panoid%3D1ilFvdnJezXlS6t0CbZKhg%26yaw%3D129.89478322167034!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The souvenir shop on Enoshima island seen during the band's episode 9 summer outing, capturing the lighthearted tourist energy that contrasts with Bocchi's usual anxious demeanor."
     },
     {
       "kind": "poi",
@@ -1638,10 +167,10 @@
         "lat": 35.33113,
         "lng": 139.62066
       },
-      "image": "media/cached-image_6a69e8e3ed28453250a9b9944cdc32c548eddbac5cd3003cda99c5069606cc92.webp",
+      "image": "https://cdn.animepilgrimage.com/places/d759b065-f1ad-4547-af40-de638368b1fa.webp",
       "images": [
         {
-          "url": "media/cached-image_6a69e8e3ed28453250a9b9944cdc32c548eddbac5cd3003cda99c5069606cc92.webp"
+          "url": "https://cdn.animepilgrimage.com/places/d759b065-f1ad-4547-af40-de638368b1fa.webp"
         },
         {
           "url": "media/cached-image_f2e9605e8b16a995e06b4007d2cfcb593f1471e0bb6b548437d8f54204cea69a.jpg"
@@ -1661,7 +190,865 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.3312327,139.6207594,3a,90y,203.87h,99.04t/data=!3m7!1e1!3m5!1sct1AkHZ3nUN3ZhAwD7hG1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dct1AkHZ3nUN3ZhAwD7hG1Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D277.265%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "A florist in the Kanazawa Hakkei area that appears as background in the Episode 6–7 sequences set in Bocchi's home neighbourhood, part of the coastal Yokohama streetscape the show recreates."
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The flower shop near Kanazawa-Hakkei Station in Bocchi's home neighborhood, visible in episode 1 establishing shots that ground her everyday suburban life before she joins Kessoku Band."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ07Dcczhtm18Rj1EA7-jFvVA",
+      "name": "Hakkei Bridge",
+      "localName": "八景橋",
+      "coordinates": {
+        "lat": 35.32875,
+        "lng": 139.6251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2fee4b6-ffbe-41de-aab0-aa31f9b0f537.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2fee4b6-ffbe-41de-aab0-aa31f9b0f537.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukazawa Komagome, Aomori, 030-0955, Japan",
+      "city": "Aomori",
+      "region": "Aomori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3286998,139.6249979,3a,47.2y,59.01h,94.61t/data=!3m7!1e1!3m5!1s2VL4eE1-Sd1VVKvGVX2ukw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.606862611875869%26panoid%3D2VL4eE1-Sd1VVKvGVX2ukw%26yaw%3D59.00529818472386!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "A bridge in the Kanazawa-Hakkei area featured in episode 7 when Bocchi travels back to her home neighborhood, serving as a quiet backdrop that reflects her introverted, solitary home life away from the Shimokitazawa music scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ20HAcdBPGGARDfh_VItRx_M",
+      "name": "Grand Torii of Enoshima Jinja Shrine",
+      "localName": "江島神社 朱の鳥居(大鳥居)",
+      "coordinates": {
+        "lat": 35.30063,
+        "lng": 139.48026
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8c8a0391-d39d-46f1-84cf-ca85e71d3509.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8c8a0391-d39d-46f1-84cf-ca85e71d3509.webp"
+        },
+        {
+          "url": "media/cached-image_c7669f426287b8ab708f5c37892cb9586b7f7f0df632ecec7b1dd73951399895.jpg"
+        }
+      ],
+      "type": "文化的ランドマーク",
+      "categories": [
+        "文化的ランドマーク"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-2 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3006534,139.4803057,2a,90y,307.53h,86.63t/data=!3m7!1e1!3m5!1s9yHh1XybS6k2b1vybBprUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.3704863543864008%26panoid%3D9yHh1XybS6k2b1vybBprUg%26yaw%3D307.5292201841845!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The iconic red torii gate at the entrance to Enoshima Island that Kessoku Band passes through during their group outing in episode 9, marking the start of a rare moment where Bocchi experiences genuine friendship and fun.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ00Bkj-mPGGARdDjU8QbwcbA",
+      "name": "Focus",
+      "localName": "フォーカス",
+      "coordinates": {
+        "lat": 35.6638999,
+        "lng": 139.6680733
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce2b1531-0600-4497-9071-b762cec3fba4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce2b1531-0600-4497-9071-b762cec3fba4.webp"
+        },
+        {
+          "url": "media/cached-image_5b316fbd08f6024338bd81d972494d35662664ee89eb29ada3b6e23284fa00fe.jpg"
+        },
+        {
+          "url": "media/cached-image_c7432ab608e3c22db0ef04cf881c4be87ba2de41b900fb95c698410f60dd8660.jpg"
+        },
+        {
+          "url": "media/cached-image_d7ed95b249e26bf91fbc16c5a6535e636f734caa79ec4bd4e2624d56c17cca6a.jpg"
+        },
+        {
+          "url": "media/cached-image_172464f1571b62f31a4b8d7436e28ceafc645ac2ef29404454e9b8d9fd5eaf8b.jpg"
+        },
+        {
+          "url": "media/cached-image_3ebcbb90f747aa5d3d95cec10c38a0a259cca24dadd225a31673570b93ed3869.jpg"
+        },
+        {
+          "url": "media/cached-image_8b135b084a24d41375afc1f05b8f784e7c25a8c4050d7c3dbbabb2b37f0d3e7f.jpg"
+        },
+        {
+          "url": "media/cached-image_76cb868150b5792eac9a301e714bb1710607f29a01b26a2a943fa7ff424ac4a8.jpg"
+        },
+        {
+          "url": "media/cached-image_5b4696c66f5a04a9482d75c68795f5985b8b83814b144db39597a85549d4e95c.jpg"
+        },
+        {
+          "url": "media/cached-image_90b6dbb7c9dc54c84fff7633f8072a5ff3085677171f24d8ac44ba739e94c9cd.jpg"
+        },
+        {
+          "url": "media/cached-image_e503e8877c00dc2d53892468a9e2c22d6d332535b83141b798d5f12db343f5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_6e31371fdabdac64dd13b7c3257fff0d561e7f12ad2852e6b6058a2d0233ae69.jpg"
+        }
+      ],
+      "type": "Hostel",
+      "categories": [
+        "Hostel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 244,
+      "priceLevel": null,
+      "address": "Japan, 〒111-0051 Tokyo, Taito City, Kuramae, 4 Chome−21−2",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6638999,139.6680733,3a,90y,157.51h,95.52t/data=!3m6!1e1!3m4!1sYGjhhkWu3WOrTuupeNzB3w!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa0u3hYFPGGARWCKHnIBJ2YM",
+      "name": "Eshima Shrine Hoanden",
+      "localName": "奉安殿",
+      "coordinates": {
+        "lat": 35.3002174,
+        "lng": 139.4798357
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4deed5af-bc64-436a-b9d5-c819776c0dcc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4deed5af-bc64-436a-b9d5-c819776c0dcc.webp"
+        },
+        {
+          "url": "media/cached-image_d8412539e70c16eb7e70b54c5818f35cf8fed980c85fc3b7bdb65c7da520978e.jpg"
+        },
+        {
+          "url": "media/cached-image_630031d5b030baf30f367417ccef0be4cf5f91f4c55240a5c26f3a1cbdcea0c8.jpg"
+        },
+        {
+          "url": "media/cached-image_571472b85beb4b5cdfc9499f285ed6653fadec762fa8608df03739a061a4f815.jpg"
+        },
+        {
+          "url": "media/cached-image_e08b451fff9105370eefe95fa406f2f37bd9fd08a4f112d07ef9c7ccfe9ee1ac.jpg"
+        },
+        {
+          "url": "media/cached-image_a126639bc4c5d196347cc21d77e92050237d1b7b686d33bde7e39940e79e349c.jpg"
+        },
+        {
+          "url": "media/cached-image_acc7472f676bbbcd1a2ea23ffa8c93aff5d4e8b036fb4345197ca9bf4b6bb8e2.jpg"
+        },
+        {
+          "url": "media/cached-image_f04ca7876fe94fefee198b720873dc055086f66b59d7f7b94d377ba1363ebea3.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.4,
+      "reviewCount": 144,
+      "priceLevel": null,
+      "address": "Japan, 〒251-0036 Kanagawa, Fujisawa, Enoshima, 2 Chome−3",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3002174,139.4798357,2a,75y,216.81h,99.76t/data=!3m7!1e1!3m5!1siJ96dkIEeUBPUqwgd-_6lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DiJ96dkIEeUBPUqwgd-_6lQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.740845%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The treasury hall on Enoshima that the band visits in episode 9, part of their island pilgrimage where Bocchi navigates tourist crowds while trying to keep up with her more extroverted bandmates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx-twbwBPGGARYbgGwck0JW4",
+      "name": "Enoshima esker 3rd section end point",
+      "localName": "江の島エスカー3区終点",
+      "coordinates": {
+        "lat": 35.29903,
+        "lng": 139.48026
+      },
+      "image": "https://cdn.animepilgrimage.com/places/40c23071-55b3-4edb-b6fa-720329deac1f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/40c23071-55b3-4edb-b6fa-720329deac1f.webp"
+        },
+        {
+          "url": "media/cached-image_c8f7aac9506aa199c33b8e42fd7c3126938bce707974506e73a0f7ecbe84aab4.jpg"
+        }
+      ],
+      "type": "運輸サービス",
+      "categories": [
+        "運輸サービス"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome-3-19 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2990714,139.4801824,2a,40y,90.72h,95.91t/data=!3m7!1e1!3m5!1s-Vn2AzrMTzUBL3a5s6bApg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.908022790247898%26panoid%3D-Vn2AzrMTzUBL3a5s6bApg%26yaw%3D90.7158163506862!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The top of the Enoshima outdoor escalator (escar) where the band arrives in episode 9, a key waypoint in their island adventure that Bocchi endures despite her social anxiety."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxZW_LuROGGARX3CaDOdyffo",
+      "name": "Enoshima Shrine - Hetsunomiya",
+      "localName": "江島神社 辺津宮（へつのみや）",
+      "coordinates": {
+        "lat": 35.30035,
+        "lng": 139.47978
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bfa4549b-d140-478e-bdb6-fe208ab0c20f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bfa4549b-d140-478e-bdb6-fe208ab0c20f.webp"
+        },
+        {
+          "url": "media/cached-image_5444aa197662cd8a105508286c360a67ecac219b16f0696133a50a8b0a7e2921.jpg"
+        },
+        {
+          "url": "media/cached-image_b6fd655e73164bd7c30348e661512dfe5230b3c3979aef0c47e28d723b814c8e.jpg"
+        },
+        {
+          "url": "media/cached-image_bc9d654707ba5e7962860c5568a393847c1923233f2586a69163904772376060.jpg"
+        },
+        {
+          "url": "media/cached-image_a1be6ed7499b1dd4a811802d272b5ba110afc06058ec0920a8c9fce60e6b2ebf.jpg"
+        },
+        {
+          "url": "media/cached-image_95d438e9a222b1879a5c45fb7e5d55aee33421d472f0899ac61f0b763dab37f6.jpg"
+        },
+        {
+          "url": "media/cached-image_8a61907ebcb17bb5991e5b0d124a41c94fd06f2230dd7b281b020b71500d28a9.jpg"
+        },
+        {
+          "url": "media/cached-image_66ed35d706807dcc6110c3f10020d4612a5155a82ced25d0d031f39c281acd2e.jpg"
+        },
+        {
+          "url": "media/cached-image_35dddcd0b9e545a8527adabbc2283ee11736de75561679b532c47b8710c49845.jpg"
+        },
+        {
+          "url": "media/cached-image_07e9d1b380b423c78b5f4ef1331340e5556a1029f262bc6f03a4b0644448db22.jpg"
+        },
+        {
+          "url": "media/cached-image_22ef6390663c8394170add0519a7f7f868eccbd355ca13376079ecd207c2c799.jpg"
+        },
+        {
+          "url": "media/cached-image_a472e13addd8cf3ba46de62ce509b909f6ae54583ef241e4b82fe1d189e58f9b.jpg"
+        },
+        {
+          "url": "media/cached-image_1af256d9dc8a798c318b15b96f2bca48f92febe4609f6d91c46197a7206fb4fb.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 7311,
+      "priceLevel": null,
+      "address": "2 Chome-3-8 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3004571,139.4799577,2a,42.2y,259.05h,111.52t/data=!3m7!1e1!3m5!1swJlqdtnJcx0HNKBF-ZBBKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.524892054212415%26panoid%3DwJlqdtnJcx0HNKBF-ZBBKA%26yaw%3D259.0472023987825!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The main hall of Enoshima Shrine visited by the band in episode 9, a documented pilgrimage spot where fans can recreate the group's shrine visit during their summer day trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvVsEzuVOGGARs99YuxNfbDU",
+      "name": "Enoshima Sea Candle",
+      "localName": "江の島シーキャンドル",
+      "coordinates": {
+        "lat": 35.299818,
+        "lng": 139.4784833
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd7b5634-a7a3-4b22-bc3c-c889c1b57a8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd7b5634-a7a3-4b22-bc3c-c889c1b57a8a.webp"
+        },
+        {
+          "url": "media/cached-image_3fdf5f898bf64b5853b8b6c7c5165753890ef1c3751c5d2dc1bdc15f23447f1d.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": 26,
+      "priceLevel": null,
+      "address": "2 Chome-3-28 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2997579,139.478442,2a,90y,52.6h,94.17t/data=!3m7!1e1!3m5!1svOd8fM1aLH6xWxdxdLj0Uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.174444540920817%26panoid%3DvOd8fM1aLH6xWxdxdLj0Uw%26yaw%3D52.604019168568236!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The lighthouse observation tower on Enoshima that the band gazes at in episode 9, its glowing silhouette serving as a visual anchor for one of the few times Bocchi fully relaxes and enjoys being with her friends.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTZaQ3PxOGGARKDaOHv8S8cI",
+      "name": "Enoshima Kaigan",
+      "localName": "江ノ島海岸（バス）",
+      "coordinates": {
+        "lat": 35.30675,
+        "lng": 139.48392
+      },
+      "image": "https://cdn.animepilgrimage.com/places/794f1730-95e4-46f6-8157-d175f1df1dd6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/794f1730-95e4-46f6-8157-d175f1df1dd6.webp"
+        },
+        {
+          "url": "media/cached-image_7b6978e4955c4bd6d5a016cc677acdb5d9052387d88b7a7c3638e62c25ffd668.jpg"
+        }
+      ],
+      "type": "バス停",
+      "categories": [
+        "バス停"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒251-0035 Kanagawa, Fujisawa, Katasekaigan, 1-chōme−15",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3067696,139.4839178,2a,41.5y,30.15h,97.69t/data=!3m7!1e1!3m5!1sMb80VJEfxp46w2uWPT9w9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.690204805864852%26panoid%3DMb80VJEfxp46w2uWPT9w9A%26yaw%3D30.15147787818181!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Enoshima coastal bus stop where the band arrives at the beginning of their episode 9 day trip, the starting point of a journey that feels monumental for a girl who rarely leaves her comfort zone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmaho3GrzGGARfmDbOUgA6FI",
+      "name": "Donguri Hiroba Park",
+      "localName": "どんぐりひろば公園",
+      "coordinates": {
+        "lat": 35.6643368,
+        "lng": 139.668609
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71401cb6-c692-45be-b034-4b529346989d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71401cb6-c692-45be-b034-4b529346989d.webp"
+        },
+        {
+          "url": "media/cached-image_8654c4002cbd3dbb2fdf02d95a93cc89e75ad900982094f3ed26177166280107.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "3 Chome-26-18 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6643368,139.668609,3a,68y,108.52h,94.66t/data=!3m8!1e1!3m6!1sAF1QipN-c4reAZus9WpigbQYH0GVmWkkGl7TfNcMxEJk!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN-c4reAZus9WpigbQYH0GVmWkkGl7TfNcMxEJk%3Dw203-h100-k-no-pi-0-ya155.80865-ro0-fo100!7i7680!8i3840?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The small park near Shimokitazawa seen in episode 4, one of the quiet Setagaya side-street locations that establish the residential texture of the neighborhood surrounding STARRY live house."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkTZoVQBPGGARNV2JQQSeYes",
+      "name": "Couple Stairs Enoshima",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.30715,
+        "lng": 139.48446
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3fc52352-4ec3-4a0c-9c70-2588448ce093.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3fc52352-4ec3-4a0c-9c70-2588448ce093.webp"
+        },
+        {
+          "url": "media/cached-image_07201a6f20c6690b58060058c8b97a430e76e740e047ddc8b90c71f7397dc041.jpg"
+        }
+      ],
+      "type": "Photographer",
+      "categories": [
+        "Photographer"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "江ノ島海岸（バス, 1 Chome-15-15 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3071037,139.4843809,2a,47.7y,31.68h,96.4t/data=!3m7!1e1!3m5!1s5Qfy_alylNAoOwr4AHz9QQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.402856021385674%26panoid%3D5Qfy_alylNAoOwr4AHz9QQ%26yaw%3D31.677770938274648!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The coastal stairs near Enoshima beach featured in episode 9, part of the seaside walk the band takes together that gives Bocchi a rare feeling of belonging."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw_teZ_8hGGARgsSeLR2OLjM",
+      "name": "CREA BASE Shimokitazawa",
+      "localName": "CREA BASE 下北沢店",
+      "coordinates": {
+        "lat": 35.66053,
+        "lng": 139.66953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c99cadcb-e057-4e5a-911b-b471dfc07e40.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c99cadcb-e057-4e5a-911b-b471dfc07e40.webp"
+        },
+        {
+          "url": "media/cached-image_058d57cb14c84d666e2af7d8afd853ffd030aef51b64728012cd39def2b6ec74.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 1,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6604278,139.6696042,3a,90y,343.55h,97.57t/data=!3m7!1e1!3m5!1sIMzD_FnPqNGmdlhMWcA20Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.567806280802714%26panoid%3DIMzD_FnPqNGmdlhMWcA20Q%26yaw%3D343.54991657785547!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A Shimokitazawa clothing shop near STARRY that appears in episode 4, contributing to the indie bohemian street atmosphere that defines the neighborhood Bocchi slowly learns to navigate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmfS-pR7zGGAReE1dxckppTE",
+      "name": "Burger King - Shimo-Kitazawa Station South Entrance",
+      "localName": "バーガーキング 下北沢駅南口店",
+      "coordinates": {
+        "lat": 35.66066,
+        "lng": 139.66754
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a95c2d6-9796-4054-8df1-b136f9a30288.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a95c2d6-9796-4054-8df1-b136f9a30288.webp"
+        },
+        {
+          "url": "media/cached-image_8ff15a22d927030b14c22e2185c61450dbb67771b5a7aae93428b854aa2aa733.jpg"
+        }
+      ],
+      "type": "ファースト フード店",
+      "categories": [
+        "ファースト フード店"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-13-7 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6607482,139.6675379,3a,48.7y,174.69h,99.46t/data=!3m7!1e1!3m5!1sohdiOvQQ_wiju9mCTMdOLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.461526027462554%26panoid%3DohdiOvQQ_wiju9mCTMdOLQ%26yaw%3D174.68569440707674!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The fast food restaurant near Shimokitazawa Station's south entrance that appears in episode 10, a mundane real-world landmark that grounds the final-arc scenes as the band prepares for their biggest show."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0bfRPuROGGARPhzcc2M6WLw",
+      "name": "Asahi Honten",
+      "localName": "あさひ本店",
+      "coordinates": {
+        "lat": 35.3010499,
+        "lng": 139.4805098
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60739348-f2bb-4dec-a0b6-98b058a87863.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60739348-f2bb-4dec-a0b6-98b058a87863.webp"
+        },
+        {
+          "url": "media/cached-image_5306a6b0c1092153e608f2893e69df9cdba19ee3d7a50c0ed80bdaeeb161df92.jpg"
+        }
+      ],
+      "type": "和菓子屋",
+      "categories": [
+        "和菓子屋"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-8 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Asahi+Honten/@35.3010499,139.4805098,3a,75y,147.01h,92.55t/data=!3m6!1e1!3m4!1sULbTYvpplAZVe1jxea61vw!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60184ee43ed1b7d1:0xbc583a6373dc1c3e!2sAsahi+Honten!8m2!3d35.3009448!4d139.4805447!16s%2Fg%2F1ttywq2f!3m5!1s0x60184ee43ed1b7d1:0xbc583a6373dc1c3e!8m2!3d35.3009448!4d139.4805447!16s%2Fg%2F1ttywq2f?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The traditional Japanese sweet shop on Enoshima that the band passes in episode 9, one of the island's old-fashioned storefronts that color Bocchi's first real group excursion with her friends."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGdrSF2rzGGARL58Bo4o9wEs",
+      "name": "46ma",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6617085,
+        "lng": 139.6694657
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d300e67d-e2e2-4388-93c5-121953173f56.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d300e67d-e2e2-4388-93c5-121953173f56.webp"
+        },
+        {
+          "url": "media/cached-image_d7b3eb0f9a0d196130683ab0a68375b520529ff0bfd6ea0f8439a9b0d2b0e230.jpg"
+        }
+      ],
+      "type": "Japanese curry restaurant",
+      "categories": [
+        "Japanese curry restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-7-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/46ma/@35.6617085,139.6694657,3a,90y,308.53h,91.66t/data=!3m8!1e1!3m6!1sAF1QipMfTV-WgmqTcRX7LNDE2wjXBBF8vFlIXk4NnJlo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMfTV-WgmqTcRX7LNDE2wjXBBF8vFlIXk4NnJlo%3Dw203-h100-k-no-pi-0-ya226.0282-ro-0-fo100!7i8000!8i4000!4m7!3m6!1s0x6018f36a17d2da19:0x4bc03d8aa3019f2f!8m2!3d35.6616939!4d139.6694452!10e5!16s%2Fg%2F1hcb5zphd?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "A curry restaurant in Shimokitazawa's Kitazawa street that appears in episode 7 background scenes, part of the eclectic local food and culture landscape that surrounds Kessoku Band's home base."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD4FR5mDyGGARueh8tBeAxAk",
+      "name": "Suginami Ward Matsunoki Children's Park",
+      "localName": "松ノ木児童遊園",
+      "coordinates": {
+        "lat": 35.69487,
+        "lng": 139.64661
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fd26451c-8666-4338-9623-d38ec51969b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fd26451c-8666-4338-9623-d38ec51969b6.webp"
+        },
+        {
+          "url": "media/cached-image_17366ed17bc870a34b7c1d529d2b96d9e7f5c49b8b3cfae51432450d7e94835b.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0014 Tokyo, Suginami City, Matsunoki, 3 Chome−30−番８号",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6949642,139.6467996,3a,75y,246.21h,99.99t/data=!3m6!1e1!3m4!1sMLs3wuy0SSpyDXz8LzOPbQ!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The small public park in Suginami shown in episode 1 near Bocchi's house, where a young Bocchi practices guitar alone outdoors, foreshadowing her dream of performing on a real stage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXxiZXGrzGGAR2VG6H1jddjs",
+      "name": "Times Shimo-Kitazawa No.8 Car Park",
+      "localName": "タイムズ下北沢第８",
+      "coordinates": {
+        "lat": 35.6625,
+        "lng": 139.66902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f828fd07-618a-463a-a101-8f30fcc5a381.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f828fd07-618a-463a-a101-8f30fcc5a381.webp"
+        },
+        {
+          "url": "media/cached-image_492116d64390b9e2ff6a7cf7eac9dfd0869cf3c82034b012e730bba0d48aee45.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-9 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6624673,139.6689633,3a,75y,62.02h,86.24t/data=!3m8!1e1!3m6!1sAF1QipM8Iwjz6RtDl_6T4OnfUlKCDYG4bs3GLGZ7RnIH!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM8Iwjz6RtDl_6T4OnfUlKCDYG4bs3GLGZ7RnIH%3Dw900-h600-k-no-pi3.7592078501960486-ya158.57543163796018-ro0-fo100!7i7700!8i3850?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A parking lot in Shimokitazawa that appears in episode 4 background shots, one of several mundane street-level locations that pilgrimage fans visit to walk in Bocchi's footsteps through the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6RSAn5HzGGARdzSditSDvrg",
+      "name": "ADRIFT",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6639453,
+        "lng": 139.6709172
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4d0a407-fbea-4b6b-a769-333bb56a18b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4d0a407-fbea-4b6b-a769-333bb56a18b3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 4.1,
+      "reviewCount": 242,
+      "priceLevel": null,
+      "address": "〒155-0031 Tokyo, Setagaya City, Kitazawa, 3 Chome−9−23 ADRIFT",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6639453,139.6709172,3a,45.5y,223.14h,91.14t/data=!3m7!1e1!3m5!1sAF1QipPytoEf6wPXv-uaA-7Uok4FuwsF9OYxmnFYWtvM!2e10!3e11!7i6720!8i3360?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A Shimokitazawa bar and event space near STARRY that appears in episode 4, illustrating the dense cluster of live music and nightlife venues that makes the neighborhood the heart of Tokyo's indie rock scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRc0cW1tBGGARyA-UZgJIMxg",
+      "name": "Yanagi Chonai Kaikan",
+      "localName": "柳町町内会館",
+      "coordinates": {
+        "lat": 35.32648,
+        "lng": 139.6247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f37b1236-2782-420a-84bf-7969d02b1145.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f37b1236-2782-420a-84bf-7969d02b1145.webp"
+        },
+        {
+          "url": "media/cached-image_f8d086481916b8236ff934d84217f183c699c85bb220b0b867ceae70db2b21ef.jpg"
+        }
+      ],
+      "type": "協会/組織",
+      "categories": [
+        "協会/組織"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒236-0026 Kanagawa, Yokohama, Kanazawa Ward, Yanagicho, 4-9",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.326377,139.6246237,3a,39.2y,23.16h,94.41t/data=!3m7!1e1!3m5!1sEKDx7UJkfDWwZPuvz0btjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.407454842593253%26panoid%3DEKDx7UJkfDWwZPuvz0btjw%26yaw%3D23.15928717912052!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The neighborhood community hall near Bocchi's home in Kanazawa-Hakkei seen in episode 7, a quiet civic landmark in the residential area that contrasts with the chaotic energy of Shimokitazawa."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXSh4S2rzGGARc9TTYKkc9uU",
+      "name": "Yakiniku Restaurant YAZAWA Shimokitazawa",
+      "localName": "焼肉屋YAZAWA 下北沢店",
+      "coordinates": {
+        "lat": 35.66192,
+        "lng": 139.66835
+      },
+      "image": "https://cdn.animepilgrimage.com/places/af617a57-ab8e-4d28-bcc9-f93f913e86e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/af617a57-ab8e-4d28-bcc9-f93f913e86e6.webp"
+        },
+        {
+          "url": "media/cached-image_64066f82c4dbf2a87152aba50d4367702ee2b15b2dbc7d4a819b8e14f83a2562.jpg"
+        }
+      ],
+      "type": "焼肉店",
+      "categories": [
+        "焼肉店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-10-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.661922,139.6683896,3a,90y,248.59h,95.44t/data=!3m7!1e1!3m5!1sERc54gDlhHbZ45cm6tWCqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.43908539270744%26panoid%3DERc54gDlhHbZ45cm6tWCqg%26yaw%3D248.58934074448368!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Shimokitazawa yakiniku restaurant featured in episode 3 when the band eats together after practice, a bonding meal scene that shows Bocchi slowly warming up to her new friends over food."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeTglaGrzGGARfQv3TFqoe84",
+      "name": "Yakiniku Dining Taijuen Shimokitazawa",
+      "localName": "焼肉ダイニング 太樹苑 下北沢店",
+      "coordinates": {
+        "lat": 35.66263,
+        "lng": 139.66933
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1b35879b-27ee-4bb4-a0fe-bb238ca45d4f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1b35879b-27ee-4bb4-a0fe-bb238ca45d4f.webp"
+        },
+        {
+          "url": "media/cached-image_e4e470209afe02de55ba46b00747047e8103714f4dc8346e928c143220f3bebf.jpg"
+        },
+        {
+          "url": "media/cached-image_6b7014782430ddf481c3688310864991bde246d2003f95089a9abbfb2b357c2f.jpg"
+        },
+        {
+          "url": "media/cached-image_b2de3a69e7cbe4ca54dadaadf38effd18cbdff98c2ac2a5951b3fa63d3d9b09d.jpg"
+        },
+        {
+          "url": "media/cached-image_698b0240d5307605daa5c0b36ccd47767df4e9ee605680071fb2b4a735fbfed4.jpg"
+        },
+        {
+          "url": "media/cached-image_fffcc45852368505612ede8ade31c0566538a431be2efad2016d6618c6303b9b.jpg"
+        },
+        {
+          "url": "media/cached-image_7e63ae7a9da807885bad762a2f5f2e4a3f6833e3bcae376f32cde29c4e55fdc5.jpg"
+        },
+        {
+          "url": "media/cached-image_f7bb8d6cf4a69399edc2eff7fd0c32bc04f122aa9c497260ceb85e683317d3ce.jpg"
+        },
+        {
+          "url": "media/cached-image_cbb3ac14af8efad4fd6119278b3bdc535236585c0ec15e69fbaf186477dd24f7.jpg"
+        },
+        {
+          "url": "media/cached-image_50d2475e06b687f6d00b02b64b990b3af3a41bf3ec3ead287b1d7810aa23850a.jpg"
+        },
+        {
+          "url": "media/cached-image_ccec0795419f2d74ff03cd34ab2f8b9a0387581c3b6a76f3d14c164f4556ce13.jpg"
+        },
+        {
+          "url": "media/cached-image_7df6469d96c006d036655f8d6917b7482a28c737c875fa2a8e19dab561026d64.jpg"
+        }
+      ],
+      "type": "焼肉店",
+      "categories": [
+        "焼肉店"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ＮＳビル, 2 Chome-8-8 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6626389,139.6693102,3a,90y,179.87h,81.62t/data=!3m7!1e1!3m5!1s1I6CjAt-sMqe1n9i4_iyFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.37688600439752%26panoid%3D1I6CjAt-sMqe1n9i4_iyFQ%26yaw%3D179.87246999912318!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Another yakiniku spot in Shimokitazawa seen in episode 4 street scenes, part of the dining and social environment that the band inhabits and that feels foreign to the ordinarily reclusive Bocchi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7bB1NWrzGGARS_U1C-c--mU",
+      "name": "Village Vanguard Shimokitazawa",
+      "localName": "ヴィレッジヴァンガード下北沢店",
+      "coordinates": {
+        "lat": 35.66182,
+        "lng": 139.66857
+      },
+      "image": "https://cdn.animepilgrimage.com/places/424d5677-2a90-48a7-9eb3-491dd590c226.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/424d5677-2a90-48a7-9eb3-491dd590c226.webp"
+        },
+        {
+          "url": "media/cached-image_7cb1f7d0a12d14d5b8677c4b451e9a9cc4a6fde963afc75ef4f3d9cfbda0119c.jpg"
+        }
+      ],
+      "type": "General store",
+      "categories": [
+        "General store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "マルシェ下北沢 1F, 2 Chome-10-15 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6618019,139.6686471,3a,90y,172.48h,99.2t/data=!3m6!1e1!3m4!1szgTe5RZOrrsscgI4dLnNtg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The quirky pop-culture general store in Shimokitazawa that appears in episode 1 establishing the neighborhood's eccentric character, a shop that embodies the kind of unusual, expressive culture Bocchi secretly craves."
     },
     {
       "kind": "poi",
@@ -1672,10 +1059,10 @@
         "lat": 35.32967,
         "lng": 139.62393
       },
-      "image": "media/cached-image_299ea89d27aca73aef0b8a643832dbcbd76ef83c6ce9be5dd1a3d5f552f07130.webp",
+      "image": "https://cdn.animepilgrimage.com/places/de101152-9425-4627-baad-bc8703a6045d.webp",
       "images": [
         {
-          "url": "media/cached-image_299ea89d27aca73aef0b8a643832dbcbd76ef83c6ce9be5dd1a3d5f552f07130.webp"
+          "url": "https://cdn.animepilgrimage.com/places/de101152-9425-4627-baad-bc8703a6045d.webp"
         },
         {
           "url": "media/cached-image_77bdab8bb0d81924fd24c3b34f5286f5b9388cfccf965f79b29232f6005407c9.jpg"
@@ -1694,41 +1081,49 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.3295659,139.6239868,3a,48.7y,321.62h,93.61t/data=!3m7!1e1!3m5!1sPfwxwcEb4ynYK_9EDbMo8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.614744862056952%26panoid%3DPfwxwcEb4ynYK_9EDbMo8Q%26yaw%3D321.62324970257464!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.3295659,139.6239868,3a,48.7y,321.62h,93.61t/data=!3m7!1e1!3m5!1sPfwxwcEb4ynYK_9EDbMo8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.614744862056952%26panoid%3DPfwxwcEb4ynYK_9EDbMo8Q%26yaw%3D321.62324970257464!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The yakitori restaurant in the Kanazawa-Hakkei area that appears in episode 3, one of the local eateries near Bocchi's home neighborhood that gives texture to her suburban life outside of Shimokitazawa."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ5c4J_2rzGGAROIloOxswEls",
-      "name": "Mos Burger Shimo-Kitazawa Kitaguchi",
-      "localName": "モスバーガー下北沢北口店",
+      "placeId": "ChIJtdzDsWnzGGARMtRnsEKgqdM",
+      "name": "Times Daizawa No. 5",
+      "localName": "タイムズ代沢第５",
       "coordinates": {
-        "lat": 35.66288,
-        "lng": 139.66847
+        "lat": 35.6588591,
+        "lng": 139.6690487
       },
-      "image": "media/cached-image_fd7e6e6abbb8d3b0762dc1e3cad5ea606e43b64128c3989a5d127068c807439c.webp",
+      "image": "https://cdn.animepilgrimage.com/places/1d4151ce-f694-494c-9d6f-c55f222774fa.webp",
       "images": [
         {
-          "url": "media/cached-image_fd7e6e6abbb8d3b0762dc1e3cad5ea606e43b64128c3989a5d127068c807439c.webp"
+          "url": "https://cdn.animepilgrimage.com/places/1d4151ce-f694-494c-9d6f-c55f222774fa.webp"
         },
         {
-          "url": "media/cached-image_f38cbfdb1bbbaa83ff351268dc8a7e417d6fb3429ec8107fd2e108a4dc71fe56.jpg"
+          "url": "media/cached-image_ab7d849992b085b1f2670453baef4160a4cce9d54c0e35c7afdbb7957eb0f9bb.jpg"
+        },
+        {
+          "url": "media/cached-image_40545bd545a75f80cdf26ab07ab583ea96b284ba780a807f3e051416f8921f43.jpg"
         }
       ],
-      "type": "ハンバーガー店",
+      "type": "駐車場",
       "categories": [
-        "ハンバーガー店"
+        "駐車場"
       ],
-      "rating": 3.7,
-      "reviewCount": null,
+      "rating": 3.6,
+      "reviewCount": 1,
       "priceLevel": null,
-      "address": "2 Chome-31-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "address": "2 Chome-26-26 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
       "city": "Setagaya City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6629421,139.6684848,3a,75y,195.69h,96t/data=!3m7!1e1!3m5!1sOvaAukOv4yZRxe15WwGY8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOvaAukOv4yZRxe15WwGY8Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D17.480564%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "The MOS Burger at Shimokitazawa's north exit appears in the Episode 4 photo shoot route. The 'in front of MOS Burger North Exit' stop is one of the band's documented photo locations."
+      "streetViewUrl": "https://www.google.com/maps/@35.6588591,139.6690487,3a,75y,2.18h,79.26t/data=!3m6!1e1!3m4!1snBHjdn4-1UoW3CHeuvaH4w!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A Daizawa parking lot in the streets near STARRY that appears in episode 4 background shots, a real-world location that pilgrimage fans tick off while tracing the band's Shimokitazawa routes."
     },
     {
       "kind": "poi",
@@ -1739,10 +1134,10 @@
         "lat": 35.66108,
         "lng": 139.66763
       },
-      "image": "media/cached-image_fbefc0b60bb3acbcc9b908883832b7544a5d56b202f438950c56d3af398a2cd1.webp",
+      "image": "https://cdn.animepilgrimage.com/places/ece90374-5a29-4041-b7dc-7c58606740a3.webp",
       "images": [
         {
-          "url": "media/cached-image_fbefc0b60bb3acbcc9b908883832b7544a5d56b202f438950c56d3af398a2cd1.webp"
+          "url": "https://cdn.animepilgrimage.com/places/ece90374-5a29-4041-b7dc-7c58606740a3.webp"
         },
         {
           "url": "media/cached-image_e1c6b82fbb7b05a36011542b2d92cb57e60afb513b9a533095c8fcc94eba7540.jpg"
@@ -1792,110 +1187,832 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.6609985,139.6675932,3a,90y,84.41h,88.8t/data=!3m7!1e1!3m5!1stG8_Wylrk4dX2SnOFroSrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1977894943470346%26panoid%3DtG8_Wylrk4dX2SnOFroSrA%26yaw%3D84.41378906540518!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The gyudon chain near Shimokitazawa where a street scene between Bocchi and Kita takes place in Episode 10, part of the dense Shimokitazawa streetscape the series maps with precision."
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The gyudon chain restaurant near Shimokitazawa Station featured in episode 10, where characters grab a quick cheap meal during the frantic buildup to the school festival performance."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJRc0cW1tBGGARyA-UZgJIMxg",
-      "name": "Yanagi Chonai Kaikan",
-      "localName": "柳町町内会館",
+      "placeId": "ChIJRXf-EYxPGGAR7pLXhgJMxBs",
+      "name": "Street Performance Space",
+      "localName": "大道芸広場",
       "coordinates": {
-        "lat": 35.32648,
-        "lng": 139.6247
+        "lat": 35.29907,
+        "lng": 139.4798
       },
-      "image": "media/cached-image_3f79ebb3b5b74ed013c7fe1278a7118abd26c68440cc6f994153097b5fa17d52.webp",
+      "image": "https://cdn.animepilgrimage.com/places/a22d0887-95cb-4341-a606-de78befdf920.webp",
       "images": [
         {
-          "url": "media/cached-image_3f79ebb3b5b74ed013c7fe1278a7118abd26c68440cc6f994153097b5fa17d52.webp"
+          "url": "https://cdn.animepilgrimage.com/places/a22d0887-95cb-4341-a606-de78befdf920.webp"
         },
         {
-          "url": "media/cached-image_f8d086481916b8236ff934d84217f183c699c85bb220b0b867ceae70db2b21ef.jpg"
+          "url": "media/cached-image_3f0eb68f523d3daf9066cccd04e5570849342fbbfa09fad25b9aae92739ccee4.jpg"
         }
       ],
-      "type": "協会/組織",
+      "type": "イベント会場",
       "categories": [
-        "協会/組織"
+        "イベント会場"
       ],
-      "rating": 3.5,
+      "rating": 4.6,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "Japan, 〒236-0026 Kanagawa, Yokohama, Kanazawa Ward, Yanagicho, 4-9",
-      "city": "Yokohama",
+      "address": "2 Chome-3 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
       "region": "Kanagawa",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.326377,139.6246237,3a,39.2y,23.16h,94.41t/data=!3m7!1e1!3m5!1sEKDx7UJkfDWwZPuvz0btjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.407454842593253%26panoid%3DEKDx7UJkfDWwZPuvz0btjw%26yaw%3D23.15928717912052!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Yanagi neighbourhood hall in Kanazawa Hakkei confirmed as a location in Episode 7 'To Your House', part of the residential streetscape around Bocchi's home that the band discovers when they visit her."
+      "streetViewUrl": "https://www.google.com/maps/@35.2990913,139.4798638,2a,75y,279.61h,69.25t/data=!3m7!1e1!3m5!1s42sPyX7O_MMBLqNDsRWDEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D20.750369420831007%26panoid%3D42sPyX7O_MMBLqNDsRWDEQ%26yaw%3D279.61496302533106!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The open-air busking plaza on Enoshima that the band walks through in episode 9, a stage-like space that resonates with Bocchi given her dream of one day performing publicly without fear."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJXxiZXGrzGGAR2VG6H1jddjs",
-      "name": "Times Shimo-Kitazawa No.8 Car Park",
-      "localName": "タイムズ下北沢第８",
+      "placeId": "ChIJsxcIURrzGGARBe_NZShwKvg",
+      "name": "Spice Curry & Cafe SHANTi",
+      "localName": "Spice Curry & Cafe SHANTi 下北店",
       "coordinates": {
-        "lat": 35.6625,
-        "lng": 139.66902
+        "lat": 35.6624769,
+        "lng": 139.6680066
       },
-      "image": "media/cached-image_765f8294769e1400201d1be1c5432c566f9615bb330f61c4af4587005b1aa43f.webp",
+      "image": "https://cdn.animepilgrimage.com/places/1c62e633-42c3-40f0-a16b-a878c0cdde2e.webp",
       "images": [
         {
-          "url": "media/cached-image_765f8294769e1400201d1be1c5432c566f9615bb330f61c4af4587005b1aa43f.webp"
+          "url": "https://cdn.animepilgrimage.com/places/1c62e633-42c3-40f0-a16b-a878c0cdde2e.webp"
         },
         {
-          "url": "media/cached-image_492116d64390b9e2ff6a7cf7eac9dfd0869cf3c82034b012e730bba0d48aee45.jpg"
+          "url": "media/cached-image_50d625cf899e9e81d939f3fa975fa8625896ec799bc924ae8aa1126a1bc51225.jpg"
+        }
+      ],
+      "type": "日式咖喱餐馆",
+      "categories": [
+        "日式咖喱餐馆"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−12−2 Southwave Shimokitazawa 1F",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6624769,139.6680066,3a,90y,312.61h,94.21t/data=!3m7!1e1!3m5!1scxNhCggSg-1soMoMW265tQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DcxNhCggSg-1soMoMW265tQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D61.335644%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The indie curry cafe in Shimokitazawa that appears in episode 4 alongside the band's usual haunts, contributing to the neighborhood's reputation as a haven for counter-culture food and music."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNxwcONiMGGARxp-2bBl33mY",
+      "name": "Shinjuku LOFT",
+      "localName": "新宿LOFT",
+      "coordinates": {
+        "lat": 35.69534,
+        "lng": 139.70266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc101007-a8b9-4f09-b5e5-89ca9844d3e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc101007-a8b9-4f09-b5e5-89ca9844d3e4.webp"
+        },
+        {
+          "url": "media/cached-image_4bab173d3e164fdc56d2b4e3b647c45f5347f3d74ff6cec5cc2a2e79d455abf2.jpg"
+        }
+      ],
+      "type": "ライブ会場",
+      "categories": [
+        "ライブ会場"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "タテハナビル, 1 Chome-12-9 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6955186,139.7024915,3a,90y,130.13h,96.82t/data=!3m7!1e1!3m5!1sXHIZDN1rIUV70le1YpYpGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.820357690929683%26panoid%3DXHIZDN1rIUV70le1YpYpGA%26yaw%3D130.1265304052243!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The legendary Shinjuku live house that serves as the venue for the climactic episode 10 concert, where Kessoku Band performs before their biggest audience yet and Bocchi faces her greatest test of stage courage.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy9IVaADzGGARTYCHZMTlnfU",
+      "name": "Shimokitazawa Parking Lot",
+      "localName": "下北沢パーキング",
+      "coordinates": {
+        "lat": 35.66272,
+        "lng": 139.66909
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2fdc3824-ecc3-4b9c-b1eb-90495d3e4baa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2fdc3824-ecc3-4b9c-b1eb-90495d3e4baa.webp"
+        },
+        {
+          "url": "media/cached-image_14c5fc3d151a18bdd6f66dd0d2a60cd055d7ca530c0858c5c63ffbdf378e237c.jpg"
         }
       ],
       "type": "駐車場",
       "categories": [
         "駐車場"
       ],
-      "rating": 4.4,
+      "rating": 3.4,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "2 Chome-9 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "address": "2 Chome-32-32 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
       "city": "Setagaya City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6624673,139.6689633,3a,75y,62.02h,86.24t/data=!3m8!1e1!3m6!1sAF1QipM8Iwjz6RtDl_6T4OnfUlKCDYG4bs3GLGZ7RnIH!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM8Iwjz6RtDl_6T4OnfUlKCDYG4bs3GLGZ7RnIH%3Dw900-h600-k-no-pi3.7592078501960486-ya158.57543163796018-ro0-fo100!7i7700!8i3850?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The parking lot that serves as the final photo location in the Kessoku Band artist photo shoot sequence in Episode 4, the last stop on an episode-long tour of Shimokitazawa backstreets."
+      "streetViewUrl": "https://www.google.com/maps/@35.6628353,139.6690012,3a,75y,136h,94.2t/data=!3m7!1e1!3m5!1suYXKwwiWs7ArBTGI9aSnzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DuYXKwwiWs7ArBTGI9aSnzQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D18.76595%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A parking lot in the Kitazawa area seen in episode 4 background shots, one of many granular street locations that appear as the camera follows the band through the labyrinthine alleys of Shimokitazawa."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJD4FR5mDyGGARueh8tBeAxAk",
-      "name": "Suginami Ward Matsunoki Children's Park",
-      "localName": "松ノ木児童遊園",
+      "placeId": "ChIJDQqZEUnzGGARGltZC2NhKMc",
+      "name": "Shimokitazawa North Bicycle Parking Lot",
+      "localName": "下北沢北自転車等置場",
       "coordinates": {
-        "lat": 35.69487,
-        "lng": 139.64661
+        "lat": 35.66179,
+        "lng": 139.66677
       },
-      "image": "media/cached-image_a04798448afd7de811d82c147a5dd6d898f91b24596d56d29884edf2fdc8ae3d.webp",
+      "image": "https://cdn.animepilgrimage.com/places/d4c680e5-0aa6-41c6-a5b1-32d33a622efb.webp",
       "images": [
         {
-          "url": "media/cached-image_a04798448afd7de811d82c147a5dd6d898f91b24596d56d29884edf2fdc8ae3d.webp"
+          "url": "https://cdn.animepilgrimage.com/places/d4c680e5-0aa6-41c6-a5b1-32d33a622efb.webp"
         },
         {
-          "url": "media/cached-image_17366ed17bc870a34b7c1d529d2b96d9e7f5c49b8b3cfae51432450d7e94835b.jpg"
+          "url": "media/cached-image_b988091b3fa300378b3468b413c2e75bad83565832fe270374f1cafa73bdce0b.jpg"
+        }
+      ],
+      "type": "駐輪場",
+      "categories": [
+        "駐輪場"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-19-46番先 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6618627,139.6666772,3a,73.9y,116.66h,93.28t/data=!3m6!1e1!3m4!1s8X6whIx6fQclbqgCzvzTzA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The bicycle parking area near Shimokitazawa Station's north exit that appears in episode 4, a mundane commuter fixture that fans seek out to walk the exact paths Bocchi takes between home and STARRY."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMQiyEGPzGGAR5G2O2xhX5co",
+      "name": "Shimokita Senrogai Open Space",
+      "localName": "下北線路街 空き地",
+      "coordinates": {
+        "lat": 35.66294,
+        "lng": 139.66933
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6b9681e7-a03b-4d67-80ad-bff20855f880.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6b9681e7-a03b-4d67-80ad-bff20855f880.webp"
+        },
+        {
+          "url": "media/cached-image_9c92921c6b521d0df8ccb799173bbeee388f388c7ed65994a62b83e000c426f7.jpg"
+        }
+      ],
+      "type": "イベント会場",
+      "categories": [
+        "イベント会場"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−33−３３番１２号 付近, 下北沢交番の隣",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6627222,139.6691109,3a,43.2y,32.62h,89.26t/data=!3m7!1e1!3m5!1sQAno3FLil8FhS0eHLwvXbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7437017224713429%26panoid%3DQAno3FLil8FhS0eHLwvXbw%26yaw%3D32.62103504350123!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The open-air event space along the old railway corridor in Shimokitazawa featured in episode 5, where Bocchi and the band pass through the neighborhood's newly revitalized cultural strip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM2EpmmvzGGARXV5tNZ86xGY",
+      "name": "Shimo-Kitazawa Station",
+      "localName": "下北沢駅",
+      "coordinates": {
+        "lat": 35.66157,
+        "lng": 139.66759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9918c43b-a527-44d3-aba0-7da783cc052d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9918c43b-a527-44d3-aba0-7da783cc052d.webp"
+        },
+        {
+          "url": "media/cached-image_dfb53fc59c22a761f674224063911f79ff8d602a488fdf816e439b6ece29677a.jpg"
+        },
+        {
+          "url": "media/cached-image_50a4b5bd322ac5601fe77e69173078841e99d2e64c30b3af1a102e374033691f.jpg"
+        },
+        {
+          "url": "media/cached-image_6a6f987f6013d5c16180a10bb01a74a737f518421d50a683c0d4c01f4c9a03b9.jpg"
+        },
+        {
+          "url": "media/cached-image_84f56cccd24a926641238e8a4bb6328cbf2430dfa6813fe6865f2e28c6716cf7.jpg"
+        },
+        {
+          "url": "media/cached-image_42b576a562dc57607402167709218121ba39dae8b14123907193eb03d4cbf79e.jpg"
+        },
+        {
+          "url": "media/cached-image_7222adbeed4673f08c6ed57d44e130dec5f14746099b99a27cf1dd7074048567.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "2 Chome-24-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6616019,139.667695,3a,75y,243.3h,93.04t/data=!3m6!1e1!3m4!1sc89T3EBEj2xyEpG19-QsGQ!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Shimokitazawa Station is the nerve center of the anime's setting, appearing throughout the series as Bocchi commutes between her home and STARRY live house, and her growing comfort with the busy station mirrors her growth as a performer.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJscIAGGrzGGAROoW9kySUQYQ",
+      "name": "Shelter Shimokitazawa",
+      "localName": "下北沢SHELTER",
+      "coordinates": {
+        "lat": 35.6615463,
+        "lng": 139.6695566
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afc24fd8-8a01-4885-8eba-7421eb5d9889.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afc24fd8-8a01-4885-8eba-7421eb5d9889.webp"
+        },
+        {
+          "url": "media/cached-image_ed0050d74cf1ac19c24022e6452c3295aa460b5e7b436d0bb00a50aec88ab436.jpg"
+        }
+      ],
+      "type": "ライブ会場",
+      "categories": [
+        "ライブ会場"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "仙田商会仙田ビル B1, 2 Chome-6-10 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6615463,139.6695564,3a,75y,270.5h,102.42t/data=!3m6!1e1!3m4!1s0OjoBqeJEAQ09FYvwx3o2A!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The real-life basement live house that inspired STARRY, Shelter appears in episode 1 when Nijika recruits Bocchi to join Kessoku Band, making this the birthplace of Bocchi's entire band journey.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkwURgULzGGARKZPMvywnhpI",
+      "name": "Near the Trust Park Daizawa 2-Chome",
+      "localName": "トラストパーク 代沢2丁目付近",
+      "coordinates": {
+        "lat": 35.66004,
+        "lng": 139.66914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/64c0d13c-39c4-4ce6-a0cc-df03595a84eb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/64c0d13c-39c4-4ce6-a0cc-df03595a84eb.webp"
+        },
+        {
+          "url": "media/cached-image_3688881ed942c9bf3d5a1e08723775c50c97814b7eff9ebad213f7a7c41b273a.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome-33-6 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6600981,139.6690446,3a,90y,107.56h,103.74t/data=!3m6!1e1!3m4!1s0cebOG_KNSH9tgukZVbpWg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A residential Daizawa side-street location seen in episode 4, one of the quiet backstreet settings that the show uses to illustrate how STARRY is tucked into the residential fabric of Shimokitazawa."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0WfsO2rzGGARzhnnW-oV1nc",
+      "name": "Near the Geki ko gekijo",
+      "localName": "劇・小劇場付近",
+      "coordinates": {
+        "lat": 35.6616575,
+        "lng": 139.6691569
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aea1eac8-e4eb-45b4-936f-b5061d31a9ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aea1eac8-e4eb-45b4-936f-b5061d31a9ad.webp"
+        },
+        {
+          "url": "media/cached-image_444e68aceae3790811a32a96ad9326667d2b9b28f3e07a9e36d916b56b625a57.jpg"
+        }
+      ],
+      "type": "劇場",
+      "categories": [
+        "劇場"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-6-6 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6616575,139.6691569,3a,90y,345.61h,86.21t/data=!3m7!1e1!3m5!1sCMlIFZnhdmCKF8bej6To6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCMlIFZnhdmCKF8bej6To6w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D103.98392%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The area near Shimokitazawa's small theater district featured in episode 5, reflecting the neighborhood's dense concentration of performance venues that gives the show its authentic live-music-culture atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe2btX2rzGGARZLZh2QpTpG8",
+      "name": "Near the Cuore Forte",
+      "localName": "クオーレ・フォルテ付近",
+      "coordinates": {
+        "lat": 35.6632103,
+        "lng": 139.6691819
+      },
+      "image": "https://cdn.animepilgrimage.com/places/590359a4-d2d8-4e06-b3b0-02543ec36899.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/590359a4-d2d8-4e06-b3b0-02543ec36899.webp"
+        },
+        {
+          "url": "media/cached-image_3d9b39ae2fd724c73f61fe445b1c1d44f506275b10b53579ed30459dc9d38bc6.jpg"
+        }
+      ],
+      "type": "イタリア料理店",
+      "categories": [
+        "イタリア料理店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "大成ビル 1階, 3 Chome-20-2 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6632103,139.6691819,3a,90y,195.37h,95.86t/data=!3m7!1e1!3m5!1sinbAMhn6EiudtFrIsaquqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DinbAMhn6EiudtFrIsaquqA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D139.71529%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A Kitazawa street scene near an Italian restaurant that appears in episode 4, part of the show's meticulous background recreation of Shimokitazawa's eclectic mix of restaurants and small businesses."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5c4J_2rzGGAROIloOxswEls",
+      "name": "Mos Burger Shimo-Kitazawa Kitaguchi",
+      "localName": "モスバーガー下北沢北口店",
+      "coordinates": {
+        "lat": 35.66288,
+        "lng": 139.66847
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e69b5cd7-fd2c-45d9-a01c-8d7849411bd8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e69b5cd7-fd2c-45d9-a01c-8d7849411bd8.webp"
+        },
+        {
+          "url": "media/cached-image_f38cbfdb1bbbaa83ff351268dc8a7e417d6fb3429ec8107fd2e108a4dc71fe56.jpg"
+        }
+      ],
+      "type": "ハンバーガー店",
+      "categories": [
+        "ハンバーガー店"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-31-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6629421,139.6684848,3a,75y,195.69h,96t/data=!3m7!1e1!3m5!1sOvaAukOv4yZRxe15WwGY8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOvaAukOv4yZRxe15WwGY8Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D17.480564%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Mos Burger near Shimokitazawa's north gate that appears in episode 4, a fast-food landmark fans visit on the Bocchi pilgrimage route through the station's north exit area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE4sBnmjzGGARGEe9J-dxZuI",
+      "name": "Marucho",
+      "localName": "中華 丸長",
+      "coordinates": {
+        "lat": 35.6554,
+        "lng": 139.66738
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50100dbf-45f2-49a3-8605-a2e62028e9f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50100dbf-45f2-49a3-8605-a2e62028e9f2.webp"
+        },
+        {
+          "url": "media/cached-image_c851b4cdb3832b3a23756b30c1ccbcc1660ceffe552db354402fb9953444c7c0.jpg"
+        }
+      ],
+      "type": "中菜館",
+      "categories": [
+        "中菜館"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5 Chome-6-1 Daizawa, Setagaya City, Tokyo 155-0032, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6553593,139.6674298,3a,47.9y,318.33h,91.91t/data=!3m7!1e1!3m5!1svWbPlfRqpz2p0lO89elm4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9133665177132428%26panoid%3DvWbPlfRqpz2p0lO89elm4g%26yaw%3D318.32555053362756!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Chinese restaurant in the Daizawa side streets that appears in episode 7 background scenes, part of the residential neighborhood texture surrounding Shimokitazawa that the anime renders with documentary-like accuracy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGxsfm2nzGGARJzG5teHTNw0",
+      "name": "Kokera",
+      "localName": "こけら",
+      "coordinates": {
+        "lat": 35.6598648,
+        "lng": 139.668555
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4aab715-793b-47bd-9d77-b0c99427549b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4aab715-793b-47bd-9d77-b0c99427549b.webp"
+        },
+        {
+          "url": "media/cached-image_4f3eba7392a356b566d9a12ac111313e7a65d1f03c283a16d6707cb9748e6bdf.jpg"
+        }
+      ],
+      "type": "居酒屋",
+      "categories": [
+        "居酒屋"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "藤友ビル 1F, 2 Chome-2-13 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6598648,139.668555,3a,90y,18.99h,93.73t/data=!3m7!1e1!3m5!1sCSk7bbMN49OtMNizbcX6jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7315661725123874%26panoid%3DCSk7bbMN49OtMNizbcX6jQ%26yaw%3D18.9874330961976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The izakaya near STARRY featured in episode 8, where band members gather after a show, a small-hours drinking spot that represents the intimate social rituals of the live music world Bocchi is slowly joining."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSdyjbPxOGGARohA5GYPzeuA",
+      "name": "Katase-Enoshima Station",
+      "localName": "片瀬江ノ島駅",
+      "coordinates": {
+        "lat": 35.3086765,
+        "lng": 139.4836789
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39039e09-7d41-42be-9ae1-d2df16ea16d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39039e09-7d41-42be-9ae1-d2df16ea16d3.webp"
+        },
+        {
+          "url": "media/cached-image_34c43b10722403f36d581bb34e4b7f034bd3beb55116d1d5cbb9473d1f571d30.jpg"
+        },
+        {
+          "url": "media/cached-image_1237862edf0c7cbdf9d3c36f7ced34de8dd2f939e111bece8622c095a8b92e94.jpg"
+        },
+        {
+          "url": "media/cached-image_25a9c84772fe7def62ec8422ac548f1d612c8be3a9cd707da2c5eab1abb0695a.jpg"
+        },
+        {
+          "url": "media/cached-image_4bd03082b21e59b17507c5082c603da02251f74e3b4f7ccfa7c98cc168d39f04.jpg"
+        },
+        {
+          "url": "media/cached-image_cf260b3f738d5e1a3b65781f50f0097e4e160c9e154e2a870b0797f64e432174.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.3,
+      "reviewCount": 140,
+      "priceLevel": null,
+      "address": "Kanagawa, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3086765,139.4836789,3a,75y,314.44h,98.68t/data=!3m7!1e1!3m5!1sBBQmy8A4NkEZfzoAdiD_VQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DBBQmy8A4NkEZfzoAdiD_VQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D56.376423%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The fantastically designed dragon-themed terminal station of the Enoden railway line where Kessoku Band arrives at the start of their episode 9 Enoshima trip, its fairy-tale exterior matching the almost dreamlike excitement Bocchi feels on her first real outing with friends.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi3KdPn7zGGARI6c3W_gueuw",
+      "name": "Karaagekappofukunokara Shimokitazawaten",
+      "localName": "福のから 下北沢店",
+      "coordinates": {
+        "lat": 35.66172,
+        "lng": 139.66891
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2934e03-7402-47d6-8d4b-2a484a0a4c6c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2934e03-7402-47d6-8d4b-2a484a0a4c6c.webp"
+        },
+        {
+          "url": "media/cached-image_2b2d310e4153f18612819395b05261a937ab2601ba12ece4f7db6195af71256d.jpg"
+        }
+      ],
+      "type": "テイクアウト",
+      "categories": [
+        "テイクアウト"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-10-18 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6617343,139.6688875,3a,64.3y,111.08h,90.53t/data=!3m8!1e1!3m6!1s6gcaJzFY1wxuY4xTB3Txow!2e0!5s20220901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5337521779237591%26panoid%3D6gcaJzFY1wxuY4xTB3Txow%26yaw%3D111.07887064658536!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The takeout fried chicken shop in Shimokitazawa seen in episode 3 street scenes, a casual fast-food fixture in the neighborhood that grounds the series in everyday Tokyo life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJv7FEcFlBGGARQ8o4KWi_UAA",
+      "name": "Kanazawahakkeieki Bicycle Parking",
+      "localName": "金沢八景駅自転車駐車場",
+      "coordinates": {
+        "lat": 35.33021,
+        "lng": 139.62287
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c14cfef2-f0d4-4f90-aab7-28cc6e1c989c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c14cfef2-f0d4-4f90-aab7-28cc6e1c989c.webp"
+        },
+        {
+          "url": "media/cached-image_5d3cc45bd6b369375b14e2b9f7f4b12c87a292238e781be714fb9337237e24d1.jpg"
+        }
+      ],
+      "type": "駐輪場",
+      "categories": [
+        "駐輪場"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "横浜市営駐輪場 金沢八景駅, 4-26 Seto, Kanazawa Ward, Yokohama, Kanagawa 236-0027, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3302524,139.6229772,3a,75y,224.29h,96.48t/data=!3m7!1e1!3m5!1sbnWjn4c1Yv5j6Q-cd70B6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DbnWjn4c1Yv5j6Q-cd70B6g%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D302.4546%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The bicycle parking facility at Kanazawa-Hakkei Station in Bocchi's home neighborhood seen in episode 7, a mundane infrastructure detail the show uses to render her suburban Yokohama home town authentically."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn_zHLVhBGGARM3L0z_expEQ",
+      "name": "Kanazawa-Hakkei Station",
+      "localName": "金沢八景駅",
+      "coordinates": {
+        "lat": 35.33134,
+        "lng": 139.62074
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d58280bf-e266-404e-a935-ef1ee7bae0b2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d58280bf-e266-404e-a935-ef1ee7bae0b2.webp"
+        },
+        {
+          "url": "media/cached-image_b4d49bcf498982dcca0bea44dacfba648718e3fb3bfa08d4e324d77c7d6ab92d.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "15-1 Seto, Kanazawa Ward, Yokohama, Kanagawa 236-0027, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3312327,139.6207594,3a,90y,309.52h,103.73t/data=!3m6!1e1!3m4!1sct1AkHZ3nUN3ZhAwD7hG1Q!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Keikyu station that serves as Bocchi's home station in Kanazawa-Hakkei, featured in episode 6 and other scenes, its quiet suburban platform a world away from the electric energy of Shimokitazawa where her band plays."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG_h8q9hDGGARjY2rT-yJpAA",
+      "name": "Kanazawa Seaside Line Shimohiroba",
+      "localName": "金沢シーサイドライン下広場",
+      "coordinates": {
+        "lat": 35.33027,
+        "lng": 139.62315
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08f6ca1b-fd50-4ae9-8968-3055e61fba19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08f6ca1b-fd50-4ae9-8968-3055e61fba19.webp"
+        },
+        {
+          "url": "media/cached-image_28dc19b1f7f0ea35f1c44ab68b12d0a8670209c57716fc1f6773db1e1f37800e.jpg"
         }
       ],
       "type": "公園",
       "categories": [
         "公園"
       ],
-      "rating": 4.7,
+      "rating": 4.1,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "Japan, 〒166-0014 Tokyo, Suginami City, Matsunoki, 3 Chome−30−番８号",
-      "city": "Suginami City",
+      "address": "10番 Uminokoen, Kanazawa Ward, Yokohama, Kanagawa 236-0013, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3302049,139.6230653,3a,75y,52.44h,90.01t/data=!3m7!1e1!3m5!1sfVfQpfsSW7w7tlzSRaG0WA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.005960077169859801%26panoid%3DfVfQpfsSW7w7tlzSRaG0WA%26yaw%3D52.438665454791526!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The plaza under the Kanazawa Seaside Line monorail at Kanazawa-Hakkei seen in episode 6, a distinctive elevated rail structure that marks the edge of Bocchi's familiar home territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHS1Q5RmMGGARqwczOh6Nqqc",
+      "name": "KUROSAWA MUSIC Ochanomizu Station Front",
+      "localName": "クロサワ楽器 お茶の水駅前店",
+      "coordinates": {
+        "lat": 35.69927,
+        "lng": 139.7632
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10b036b7-3a2b-4eff-9786-1605233f4230.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10b036b7-3a2b-4eff-9786-1605233f4230.webp"
+        },
+        {
+          "url": "media/cached-image_8f01cbd219b25ba4ca73cd0a95f73fa97b1c29f1d1cbdd0a901a602214a0515a.jpg"
+        }
+      ],
+      "type": "楽器店",
+      "categories": [
+        "楽器店"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome-2-2 Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
+      "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6949642,139.6467996,3a,75y,246.21h,99.99t/data=!3m6!1e1!3m4!1sMLs3wuy0SSpyDXz8LzOPbQ!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "The modest children's park in Suginami where Nijika Ijichi asks Hitori Gotoh to play support guitar in Episode 1, the exact moment Kessoku Band is born. Every pilgrimage guide marks this as the origin point of the story.",
-      "fanTopPick": true
+      "streetViewUrl": "https://www.google.com/maps/@35.6992231,139.7630161,3a,39.2y,71.08h,91.31t/data=!3m6!1e1!3m4!1sJanzbxnyKJDKQci3yeggeA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The music instrument shop on Ochanomizu's famous instrument street that appears in episode 12, where Bocchi visits to look at guitars, Ochanomizu being Japan's guitar mecca and a pilgrimage in itself for any aspiring musician."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz_ZsX2rzGGARwbVvOEQJWxI",
+      "name": "JET SET Shimokitazawa",
+      "localName": "ジェットセット 下北沢店",
+      "coordinates": {
+        "lat": 35.66309,
+        "lng": 139.66923
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93500acf-ab8b-4f18-ac4c-19b8e7867d45.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93500acf-ab8b-4f18-ac4c-19b8e7867d45.webp"
+        },
+        {
+          "url": "media/cached-image_f5783c9b89198985828f78cdd80a4d73724e87df12a4e094724c9e995aa7c0a2.jpg"
+        }
+      ],
+      "type": "レコード店",
+      "categories": [
+        "レコード店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "柳川ビル 201号, 2 Chome-33-12 Kitazawa, Setagaya City, Tokyo 155-0031, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JET+SET+Shimokitazawa/@35.6631004,139.6692424,2a,90y,18.42h,90.05t/data=!3m7!1e1!3m5!1soD1ZLl7dwLAmxkskuQNzwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.053295365396394345%26panoid%3DoD1ZLl7dwLAmxkskuQNzwA%26yaw%3D18.415203737200972!7i13312!8i6656!4m9!3m8!1s0x6018f36a5f6cf6cf:0x125b0944386fb5c1!8m2!3d35.663097!4d139.669232!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tgq6pg8?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The renowned vinyl record shop in Shimokitazawa that appears in episode 7, its presence reinforcing the neighborhood's identity as Tokyo's premier destination for music culture and independent record collectors."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy7p9-hmMGGARjT7cuNziUmA",
+      "name": "Ishibashi Music - Ochanomizu Main Shop",
+      "localName": "イシバシ楽器 御茶ノ水本店",
+      "coordinates": {
+        "lat": 35.69912,
+        "lng": 139.76317
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6f0d43ba-dd29-46b1-baee-b4d6b8fa90f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6f0d43ba-dd29-46b1-baee-b4d6b8fa90f2.webp"
+        },
+        {
+          "url": "media/cached-image_f912f241a4021ed0ad799415a44fe82d836e8980769ccaca371b7e287157cfb1.jpg"
+        }
+      ],
+      "type": "楽器店",
+      "categories": [
+        "楽器店"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-２ Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6992231,139.7630161,3a,38.5y,114.32h,91.36t/data=!3m7!1e1!3m5!1sJanzbxnyKJDKQci3yeggeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3605393277408524%26panoid%3DJanzbxnyKJDKQci3yeggeA%26yaw%3D114.31897240161744!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The guitar and instrument retailer on Ochanomizu's instrument row featured in episode 12, part of the iconic music shopping street Bocchi visits, cementing her identity as a serious guitarist who now belongs to a real band."
     }
   ]
 }

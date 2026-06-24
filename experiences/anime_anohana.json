@@ -3,13 +3,13 @@
   "entityType": "anime",
   "entityName": "Anohana: The Flower We Saw That Day",
   "slug": "anohana",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_9bc8b684cff2ae700bb69e6be1078e12e4c3a4808ccaff8a2ee772dff8db30d4.jpg",
-  "image": "media/cached-image_9bc8b684cff2ae700bb69e6be1078e12e4c3a4808ccaff8a2ee772dff8db30d4.jpg",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9989-pyr6rXlV1oAm.jpg",
   "primaryLocation": "Saitama, Japan",
   "primaryLocationCoords": {
-    "lat": 35.99433861111111,
+    "lat": 35.99433861111112,
     "lng": 139.09495944444447
   },
   "metadata": {
@@ -19,425 +19,6 @@
   "ingredients": [
     {
       "kind": "poi",
-      "placeId": "ChIJ-UlxTn7JHmAR0M71AOL-WMA",
-      "name": "Snack MIYUKI",
-      "localName": "スナックMIYUKI",
-      "coordinates": {
-        "lat": 35.9954,
-        "lng": 139.08465
-      },
-      "image": "media/cached-image_9263ad4bd42e7d0e6ecfaec78a0ebdfeccfe92b4c37cba005d70499c7bbc6d8f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9263ad4bd42e7d0e6ecfaec78a0ebdfeccfe92b4c37cba005d70499c7bbc6d8f.webp"
-        },
-        {
-          "url": "media/cached-image_6e3ce43d7e6a3be1e96acf841de9b562e14a456ece2a5ca8cfd27a293f017bb2.jpg"
-        }
-      ],
-      "type": "軽食店",
-      "categories": [
-        "軽食店"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0041 Saitama, Chichibu, Banbamachi, 16−13",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9954371,139.0845376,3a,90y,106.99h,93.71t/data=!3m7!1e1!3m5!1swLdOvIqh98fiw1Z85S5f6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7127647281615594%26panoid%3DwLdOvIqh98fiw1Z85S5f6Q%26yaw%3D106.98503536197883!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "One of the Chichibu establishments that appears in background scenes, part of the detailed street-level recreation of central Chichibu's Ekimae shopping area the production team documented."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJFbCn_Oe5HmARYkuqFCIPnO4",
-      "name": "Chichibu Shrine",
-      "localName": "秩父神社",
-      "coordinates": {
-        "lat": 35.99658,
-        "lng": 139.08416
-      },
-      "image": "media/cached-image_6513d8d86769d5c1a019670e1bfe14b4e3fcc9509c73b3649f77cb1558c24d15.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6513d8d86769d5c1a019670e1bfe14b4e3fcc9509c73b3649f77cb1558c24d15.webp"
-        },
-        {
-          "url": "media/cached-image_0b40085c530052c51db8a167c6704808499d5663382c1edb6785122930b6c0e7.jpg"
-        }
-      ],
-      "type": "神社",
-      "categories": [
-        "神社"
-      ],
-      "rating": 4.3,
-      "reviewCount": 8883,
-      "priceLevel": null,
-      "address": "1-3 Banbamachi, Chichibu, Saitama 368-0041, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9965308,139.0841808,3a,47.4y,346.89h,91.32t/data=!3m7!1e1!3m5!1syr8L7PZKSHrjqwTeJbS30g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3177785996689408%26panoid%3Dyr8L7PZKSHrjqwTeJbS30g%26yaw%3D346.8881477182678!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The central shrine in Chichibu city that is the climactic gathering point of the series, where the Super Peace Busters reunite, launch the firework for Menma, and finally say their goodbyes. The single most iconic Anohana pilgrimage location and the emotional heart of the finale.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJDcdUmH3JHmARGbu2RA-AH-4",
-      "name": "Unicus Chichibu",
-      "localName": "ウニクス秩父",
-      "coordinates": {
-        "lat": 35.99587,
-        "lng": 139.08859
-      },
-      "image": "media/cached-image_84368d2fd4ed2e1f06ba66aab5d923fd8e313b2f1b8af65e2d25efeddbf84dd0.webp",
-      "images": [
-        {
-          "url": "media/cached-image_84368d2fd4ed2e1f06ba66aab5d923fd8e313b2f1b8af65e2d25efeddbf84dd0.webp"
-        },
-        {
-          "url": "media/cached-image_cd4421eec338c02c39e9cd36e1e0c0267b6c9c15ac778161810575c2612b8e6e.jpg"
-        },
-        {
-          "url": "media/cached-image_3a67cd0444b7b0e19378c0fbc3cd4b4178b1c49eaaf06d35e59583bd1190f598.jpg"
-        },
-        {
-          "url": "media/cached-image_e38d1c82a7a61c7e028993f3747d7171976a05ac1b6c8c9aef64900afc65561c.jpg"
-        },
-        {
-          "url": "media/cached-image_5aa9f5c2bb0058d15065f87109be9b2ea7ccf66522d4d5ab01b620737c467a89.jpg"
-        },
-        {
-          "url": "media/cached-image_7500c573d5a70a534a6bf9383cc1fa4e4f17e02c1cb4404ee18fdb8dbbfed190.jpg"
-        },
-        {
-          "url": "media/cached-image_a3ea02732e352342fde4501f9bbe535f3a4484419d566e4262946c898d49fa9f.jpg"
-        }
-      ],
-      "type": "ショッピング モール",
-      "categories": [
-        "ショッピング モール"
-      ],
-      "rating": 3.7,
-      "reviewCount": 871,
-      "priceLevel": null,
-      "address": "805-14 Uenomachi, Chichibu, Saitama 368-0024, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9964585,139.0881051,3a,40.1y,139.89h,94.2t/data=!3m7!1e1!3m5!1sbmXVYuOjTksBhhEhvk21-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.197802826087312%26panoid%3DbmXVYuOjTksBhhEhvk21-Q%26yaw%3D139.8897252100267!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJrXKIOAnJHmARl-FXLro6pOk",
-      "name": "Chichibu Bridge",
-      "localName": "秩父橋",
-      "coordinates": {
-        "lat": 36.01822,
-        "lng": 139.08598
-      },
-      "image": "media/cached-image_c1f61cd4f3c6d818656a6119f8695decf07947b7d7a3f12a50f82cbc2ce80917.webp",
-      "images": [
-        {
-          "url": "media/cached-image_c1f61cd4f3c6d818656a6119f8695decf07947b7d7a3f12a50f82cbc2ce80917.webp"
-        },
-        {
-          "url": "media/cached-image_e14d9b3a78d66e6947517ea14c20d51ef62b3b1c0ad8ecd3ddaa6e7986e97f03.jpg"
-        }
-      ],
-      "type": "橋樑",
-      "categories": [
-        "橋樑"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Chichibu, Saitama 368-0056, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0182654,139.0859517,3a,75y,139.4h,93.82t/data=!3m7!1e1!3m5!1sU_bbB5ZU4L9v2Lywaj3J5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.818919249871655%26panoid%3DU_bbB5ZU4L9v2Lywaj3J5Q%26yaw%3D139.40482623893394!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The main bridge over the Arakawa River in central Chichibu that appears throughout the series, a recurring landmark in scenes where Jinta and Anaru walk through town and a key part of the Chichibu streetscape the show reconstructs."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJV_RkOdbLHmARYdmVRqSPJSk",
-      "name": "Monmart Inoue",
-      "localName": "モンマートいのうえ",
-      "coordinates": {
-        "lat": 35.99452,
-        "lng": 139.08848
-      },
-      "image": "media/cached-image_4056e17910163b6899aa78f021fdccaae4d0195fcb786c35969855ea76344ee1.webp",
-      "images": [
-        {
-          "url": "media/cached-image_4056e17910163b6899aa78f021fdccaae4d0195fcb786c35969855ea76344ee1.webp"
-        },
-        {
-          "url": "media/cached-image_4a797610ff10873a14ac46a609f95e24fed1dd0da7af95120ec0e271783cbd59.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0031 Saitama, Chichibu, Uenomachi, 36−1",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.994538,139.0885882,3a,90y,244.7h,98.52t/data=!3m7!1e1!3m5!1sFYgo-_SKXfF5DxdTbTTilg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.523755580199094%26panoid%3DFYgo-_SKXfF5DxdTbTTilg%26yaw%3D244.7020923480716!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJC5cb7dTLHmAREKRWLI6YCiw",
-      "name": "Seibu-Chichibu Station",
-      "localName": "西武秩父駅",
-      "coordinates": {
-        "lat": 35.98969,
-        "lng": 139.08349
-      },
-      "image": "media/cached-image_fbda766433094e262bb6e2e9529d2121a433b134a28ab7cdea8b41b443c105b6.webp",
-      "images": [
-        {
-          "url": "media/cached-image_fbda766433094e262bb6e2e9529d2121a433b134a28ab7cdea8b41b443c105b6.webp"
-        },
-        {
-          "url": "media/cached-image_8c58b210921a752ff8a8d151b5d6dd13ea29ab59a9bbb508fbfe4a74c4d0d213.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1-chōme-16 Nosakamachi, Chichibu, Saitama 368-0033, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.989756,139.0837087,3a,62.9y,247.49h,97.05t/data=!3m7!1e1!3m5!1s_L6bBLzD8qJg3ZsomGoBKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.049724241942883%26panoid%3D_L6bBLzD8qJg3ZsomGoBKA%26yaw%3D247.48710914097035!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The terminus of the Seibu Chichibu Line and the gateway to the town for the Super Peace Busters. It appears multiple times as characters arrive from Tokyo, with the station exterior and surroundings reproduced faithfully in the anime.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJKy3jAJaSGGARhWr5tOSAGT8",
-      "name": "Near the Araiya Sake Shop",
-      "localName": "あらいや酒店付近",
-      "coordinates": {
-        "lat": 36.01744,
-        "lng": 139.09019
-      },
-      "image": "media/cached-image_613fc27026a42d60af6c888c6ae7b81954993ca72766a88afabcf99ccba4e41a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_613fc27026a42d60af6c888c6ae7b81954993ca72766a88afabcf99ccba4e41a.webp"
-        },
-        {
-          "url": "media/cached-image_0c94e72a2ce6b27862ec113ff06d6ca85f0a978a7e82eedf69c6b6c752686084.jpg"
-        }
-      ],
-      "type": "酒店",
-      "categories": [
-        "酒店"
-      ],
-      "rating": 4.5,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-13-1 Itabashi, Itabashi City, Tokyo 173-0004, Japan",
-      "city": "Itabashi City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0174463,139.0901994,3a,48.7y,100.19h,93.45t/data=!3m7!1e1!3m5!1sY8pU0R7oyEoBTMxHI1GeBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4489738579545843%26panoid%3DY8pU0R7oyEoBTMxHI1GeBA%26yaw%3D100.19313917314877!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJaVymOnbJHmARrBJecBr3Lo4",
-      "name": "Near the Patisserie Lurian",
-      "localName": "パティスリー ルリアン付近",
-      "coordinates": {
-        "lat": 36.00482,
-        "lng": 139.08324
-      },
-      "image": "media/cached-image_320f23af0f110aa74222aa3efc984f260665b7b90845d30cd59da1c7b0ca747e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_320f23af0f110aa74222aa3efc984f260665b7b90845d30cd59da1c7b0ca747e.webp"
-        },
-        {
-          "url": "media/cached-image_68477625d03f99af8126b1647c3294f23d14900f158a3c1537e8d8bb84d030fd.jpg"
-        }
-      ],
-      "type": "ケーキ屋",
-      "categories": [
-        "ケーキ屋"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0025 Saitama, Chichibu, Sakuragimachi, 13−18",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0048316,139.0831126,3a,50.9y,78.41h,94.31t/data=!3m7!1e1!3m5!1smVmUaaaKQ6Y9zhR_oAu4LA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.312384146332448%26panoid%3DmVmUaaaKQ6Y9zhR_oAu4LA%26yaw%3D78.40918928516746!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ0d2LPuf6QDURWUwbvOeZ8fA",
-      "name": "Oshima Landscape Supply",
-      "localName": "大嶋造園",
-      "coordinates": {
-        "lat": 36.00386,
-        "lng": 139.08489
-      },
-      "image": "media/cached-image_dea5c7fa6a20ebbe7c21743158f0d9f9249235ef85a1d464238a3066c76e7cfa.webp",
-      "images": [
-        {
-          "url": "media/cached-image_dea5c7fa6a20ebbe7c21743158f0d9f9249235ef85a1d464238a3066c76e7cfa.webp"
-        },
-        {
-          "url": "media/cached-image_a24eddabb796e8cf4365dc4c382a749cf7fbc56662efb21dbc57d493fb629d19.jpg"
-        }
-      ],
-      "type": "造園用品店",
-      "categories": [
-        "造園用品店"
-      ],
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3235 Sakae, Koshi, Kumamoto 861-1113, Japan",
-      "city": "Koshi",
-      "region": "Kumamoto",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0038522,139.0850576,3a,74y,279.93h,98.41t/data=!3m7!1e1!3m5!1sDsY3HvRNAk6eUTYqi85kLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.414257152397482%26panoid%3DDsY3HvRNAk6eUTYqi85kLw%26yaw%3D279.93006069441157!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJOSMkPWjLHmARi8MNsbmcx1w",
-      "name": "Koinrandoridepochichibuhinodaten",
-      "localName": "コインランドリーデポ秩父日野田店",
-      "coordinates": {
-        "lat": 35.98537,
-        "lng": 139.08216
-      },
-      "image": "media/cached-image_001f0058fcd3eaca08a1bc07769eb2e494726411b809ba9d34438b3d80b44f4d.webp",
-      "images": [
-        {
-          "url": "media/cached-image_001f0058fcd3eaca08a1bc07769eb2e494726411b809ba9d34438b3d80b44f4d.webp"
-        },
-        {
-          "url": "media/cached-image_141f4bf8d31496fcaade3980b9b596d34d60d383d0e5196153ac20d666b181f7.jpg"
-        }
-      ],
-      "type": "コインランドリー",
-      "categories": [
-        "コインランドリー"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-10-7 Hinodamachi, Chichibu, Saitama 368-0034, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9853878,139.0822221,3a,90y,262.72h,97.69t/data=!3m7!1e1!3m5!1sTo-QBzQJuO6jZQMa0Mkpgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.689022724118587%26panoid%3DTo-QBzQJuO6jZQMa0Mkpgw%26yaw%3D262.71744812023326!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJZYDODXnJHmARP1Xk36dDnPw",
-      "name": "Yomota Glass Shop",
-      "localName": "四方田ガラス店",
-      "coordinates": {
-        "lat": 36.0003,
-        "lng": 139.08539
-      },
-      "image": "media/cached-image_74fd761a8bb2236ccf1891ed26fa5bb2cbd508639a7dbb5311febeb3dbc33fb9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_74fd761a8bb2236ccf1891ed26fa5bb2cbd508639a7dbb5311febeb3dbc33fb9.webp"
-        },
-        {
-          "url": "media/cached-image_17efb7e5a0f0d3ae0fe59f9413d7861ae2a203c6da79fa924a2c9faaa8de898e.jpg"
-        }
-      ],
-      "type": "建材店",
-      "categories": [
-        "建材店"
-      ],
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 10−14",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0002397,139.0853533,3a,90y,123.67h,92.76t/data=!3m7!1e1!3m5!1skyWGBKMghaEvDgq6GWpBrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7646550388838733%26panoid%3DkyWGBKMghaEvDgq6GWpBrg%26yaw%3D123.67477794674951!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The glass shop on the Chichibu shopping street that appears in background scenes, one of the real businesses the production team photographed and incorporated into the show's recreation of the town."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJnUH0thy4HmARbyuQNJT2MVM",
-      "name": "Ryusei Yagura",
-      "localName": "龍勢櫓",
-      "coordinates": {
-        "lat": 36.04698,
-        "lng": 139.03106
-      },
-      "image": "media/cached-image_a47c0151ea90941e255e6dc104635a8e67327ccca30869f49f1066625036b70b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_a47c0151ea90941e255e6dc104635a8e67327ccca30869f49f1066625036b70b.webp"
-        },
-        {
-          "url": "media/cached-image_c034a6f2048a27a71fbb9a6a116ea236ef8247256f35770a7ed428d83fbe3310.jpg"
-        }
-      ],
-      "type": "文化地標",
-      "categories": [
-        "文化地標"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "7297 Shimoyoshida, Chichibu, Saitama 369-1503, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0476061,139.0307888,3a,90y,309.18h,131.55t/data=!3m8!1e1!3m6!1sAF1QipNo-n2KXd0FHQZ0y28beHgkp2KhtGytiyC5qUu8!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNo-n2KXd0FHQZ0y28beHgkp2KhtGytiyC5qUu8%3Dw900-h600-k-no-pi-41.549277908423875-ya3.180834024921637-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The traditional watchtower associated with Chichibu's famous Yomatsuri night festival. The festival imagery recurs in the series as part of the town's cultural backdrop, and the tower appears in background shots throughout the show."
-    },
-    {
-      "kind": "poi",
       "placeId": "ChIJZR5DH4wnGWARZDfdWvqPzug",
       "name": "Costa Resort Hanno",
       "localName": "コスタリゾート飯能",
@@ -445,10 +26,10 @@
         "lat": 35.85367,
         "lng": 139.32148
       },
-      "image": "media/cached-image_a311bdddce7837a7fd8765260ebc8d666c483144221e0cc6319058101ce3dac4.webp",
+      "image": "https://cdn.animepilgrimage.com/places/07ab9923-6bdc-4e18-8fc5-93193f0c1773.webp",
       "images": [
         {
-          "url": "media/cached-image_a311bdddce7837a7fd8765260ebc8d666c483144221e0cc6319058101ce3dac4.webp"
+          "url": "https://cdn.animepilgrimage.com/places/07ab9923-6bdc-4e18-8fc5-93193f0c1773.webp"
         },
         {
           "url": "media/cached-image_a5a118b370ff39e6937bb3339ec04d63926bf8f3c869a12aea2839428af6df87.jpg"
@@ -500,7 +81,433 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.8536833,139.3213399,3a,90y,79.24h,98.5t/data=!3m7!1e1!3m5!1ssu4f8XkF-C7NCHSUzCKYfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.496229910595133%26panoid%3Dsu4f8XkF-C7NCHSUzCKYfQ%26yaw%3D79.23577467086587!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.8536833,139.3213399,3a,90y,79.24h,98.5t/data=!3m7!1e1!3m5!1ssu4f8XkF-C7NCHSUzCKYfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.496229910595133%26panoid%3Dsu4f8XkF-C7NCHSUzCKYfQ%26yaw%3D79.23577467086587!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This resort in Hanno appears in episode 5 as the destination where the group travels together, part of the outing that brings the Super Peace Busters closer while searching for a way to grant Menma's wish.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-UlxTn7JHmAR0M71AOL-WMA",
+      "name": "Snack MIYUKI",
+      "localName": "スナックMIYUKI",
+      "coordinates": {
+        "lat": 35.9954,
+        "lng": 139.08465
+      },
+      "image": "https://cdn.animepilgrimage.com/places/472a527e-c76e-4d36-8c51-4f01cee7b5cb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/472a527e-c76e-4d36-8c51-4f01cee7b5cb.webp"
+        },
+        {
+          "url": "media/cached-image_6e3ce43d7e6a3be1e96acf841de9b562e14a456ece2a5ca8cfd27a293f017bb2.jpg"
+        }
+      ],
+      "type": "軽食店",
+      "categories": [
+        "軽食店"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0041 Saitama, Chichibu, Banbamachi, 16−13",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9954371,139.0845376,3a,90y,106.99h,93.71t/data=!3m7!1e1!3m5!1swLdOvIqh98fiw1Z85S5f6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7127647281615594%26panoid%3DwLdOvIqh98fiw1Z85S5f6Q%26yaw%3D106.98503536197883!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Chichibu snack bar appears as a background street scene in episode 2, part of the real town fabric that gives Anohana its grounded, small-city atmosphere.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnUH0thy4HmARbyuQNJT2MVM",
+      "name": "Ryusei Yagura",
+      "localName": "龍勢櫓",
+      "coordinates": {
+        "lat": 36.04698,
+        "lng": 139.03106
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4561be5c-945c-452a-8f4a-93cc6db1eaa4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4561be5c-945c-452a-8f4a-93cc6db1eaa4.webp"
+        },
+        {
+          "url": "media/cached-image_c034a6f2048a27a71fbb9a6a116ea236ef8247256f35770a7ed428d83fbe3310.jpg"
+        }
+      ],
+      "type": "文化地標",
+      "categories": [
+        "文化地標"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7297 Shimoyoshida, Chichibu, Saitama 369-1503, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0476061,139.0307888,3a,90y,309.18h,131.55t/data=!3m8!1e1!3m6!1sAF1QipNo-n2KXd0FHQZ0y28beHgkp2KhtGytiyC5qUu8!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNo-n2KXd0FHQZ0y28beHgkp2KhtGytiyC5qUu8%3Dw900-h600-k-no-pi-41.549277908423875-ya3.180834024921637-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Ryusei launching scaffold at Muku Shrine (Yoshidamuku Shrine) is the model for the fireworks scene that drives the climax of the series. The real annual Ryusei Festival, where bamboo rockets are fired skyward, directly inspired the Super Peace Busters' plan to launch a firework in Menma's honor.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZYDODXnJHmARP1Xk36dDnPw",
+      "name": "Yomota Glass Shop",
+      "localName": "四方田ガラス店",
+      "coordinates": {
+        "lat": 36.0003,
+        "lng": 139.08539
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ae641d8-387a-452a-b2ce-25ea7cd68e78.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ae641d8-387a-452a-b2ce-25ea7cd68e78.webp"
+        },
+        {
+          "url": "media/cached-image_17efb7e5a0f0d3ae0fe59f9413d7861ae2a203c6da79fa924a2c9faaa8de898e.jpg"
+        }
+      ],
+      "type": "建材店",
+      "categories": [
+        "建材店"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 10−14",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0002397,139.0853533,3a,90y,123.67h,92.76t/data=!3m7!1e1!3m5!1skyWGBKMghaEvDgq6GWpBrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7646550388838733%26panoid%3DkyWGBKMghaEvDgq6GWpBrg%26yaw%3D123.67477794674951!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This glass and building-materials shop on a Chichibu side street appears in episode 1 as part of the real-town streetscape Jintan walks through, grounding the anime's fictional Chichibu in the actual city.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOSMkPWjLHmARi8MNsbmcx1w",
+      "name": "Koinrandoridepochichibuhinodaten",
+      "localName": "コインランドリーデポ秩父日野田店",
+      "coordinates": {
+        "lat": 35.98537,
+        "lng": 139.08216
+      },
+      "image": "https://cdn.animepilgrimage.com/places/38d5f04d-ab0c-4bf9-8342-4d759082e967.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/38d5f04d-ab0c-4bf9-8342-4d759082e967.webp"
+        },
+        {
+          "url": "media/cached-image_141f4bf8d31496fcaade3980b9b596d34d60d383d0e5196153ac20d666b181f7.jpg"
+        }
+      ],
+      "type": "コインランドリー",
+      "categories": [
+        "コインランドリー"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-10-7 Hinodamachi, Chichibu, Saitama 368-0034, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9853878,139.0822221,3a,90y,262.72h,97.69t/data=!3m7!1e1!3m5!1sTo-QBzQJuO6jZQMa0Mkpgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.689022724118587%26panoid%3DTo-QBzQJuO6jZQMa0Mkpgw%26yaw%3D262.71744812023326!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This coin laundry appears as a background street landmark in episode 2, one of many everyday Chichibu businesses that the anime faithfully reproduced to create its authentic small-town setting.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0d2LPuf6QDURWUwbvOeZ8fA",
+      "name": "Oshima Landscape Supply",
+      "localName": "大嶋造園",
+      "coordinates": {
+        "lat": 36.00386,
+        "lng": 139.08489
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35355a15-7102-4248-a6e0-5e9804c5676c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35355a15-7102-4248-a6e0-5e9804c5676c.webp"
+        },
+        {
+          "url": "media/cached-image_a24eddabb796e8cf4365dc4c382a749cf7fbc56662efb21dbc57d493fb629d19.jpg"
+        }
+      ],
+      "type": "造園用品店",
+      "categories": [
+        "造園用品店"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3235 Sakae, Koshi, Kumamoto 861-1113, Japan",
+      "city": "Koshi",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0038522,139.0850576,3a,74y,279.93h,98.41t/data=!3m7!1e1!3m5!1sDsY3HvRNAk6eUTYqi85kLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.414257152397482%26panoid%3DDsY3HvRNAk6eUTYqi85kLw%26yaw%3D279.93006069441157!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This landscaping supply yard near central Chichibu is visible as a background location in episode 1, part of the everyday residential streets Jintan wanders through in the series' opening moments.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaVymOnbJHmARrBJecBr3Lo4",
+      "name": "Near the Patisserie Lurian",
+      "localName": "パティスリー ルリアン付近",
+      "coordinates": {
+        "lat": 36.00482,
+        "lng": 139.08324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/15f3d99b-01e6-46c6-99b3-4c7ab1f02c7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/15f3d99b-01e6-46c6-99b3-4c7ab1f02c7d.webp"
+        },
+        {
+          "url": "media/cached-image_68477625d03f99af8126b1647c3294f23d14900f158a3c1537e8d8bb84d030fd.jpg"
+        }
+      ],
+      "type": "ケーキ屋",
+      "categories": [
+        "ケーキ屋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0025 Saitama, Chichibu, Sakuragimachi, 13−18",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0048316,139.0831126,3a,50.9y,78.41h,94.31t/data=!3m7!1e1!3m5!1smVmUaaaKQ6Y9zhR_oAu4LA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.312384146332448%26panoid%3DmVmUaaaKQ6Y9zhR_oAu4LA%26yaw%3D78.40918928516746!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The street in front of this Chichibu patisserie is used as a background location in episode 7, reflecting the anime's practice of faithfully recreating the town's Sakuragimachi shopping area.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKy3jAJaSGGARhWr5tOSAGT8",
+      "name": "Near the Araiya Sake Shop",
+      "localName": "あらいや酒店付近",
+      "coordinates": {
+        "lat": 36.01744,
+        "lng": 139.09019
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1363be61-f698-461a-9c0e-afbb77a41c04.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1363be61-f698-461a-9c0e-afbb77a41c04.webp"
+        },
+        {
+          "url": "media/cached-image_0c94e72a2ce6b27862ec113ff06d6ca85f0a978a7e82eedf69c6b6c752686084.jpg"
+        }
+      ],
+      "type": "酒店",
+      "categories": [
+        "酒店"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-13-1 Itabashi, Itabashi City, Tokyo 173-0004, Japan",
+      "city": "Itabashi City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0174463,139.0901994,3a,48.7y,100.19h,93.45t/data=!3m7!1e1!3m5!1sY8pU0R7oyEoBTMxHI1GeBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4489738579545843%26panoid%3DY8pU0R7oyEoBTMxHI1GeBA%26yaw%3D100.19313917314877!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The street near this sake shop in northern Chichibu appears in episode 11 as the characters move through the town in the emotionally charged final arc, building toward the series climax.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC5cb7dTLHmAREKRWLI6YCiw",
+      "name": "Seibu-Chichibu Station",
+      "localName": "西武秩父駅",
+      "coordinates": {
+        "lat": 35.98969,
+        "lng": 139.08349
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1293cafe-2e9e-42f5-ae35-0b0225c2d6ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1293cafe-2e9e-42f5-ae35-0b0225c2d6ca.webp"
+        },
+        {
+          "url": "media/cached-image_8c58b210921a752ff8a8d151b5d6dd13ea29ab59a9bbb508fbfe4a74c4d0d213.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-16 Nosakamachi, Chichibu, Saitama 368-0033, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.989756,139.0837087,3a,62.9y,247.49h,97.05t/data=!3m7!1e1!3m5!1s_L6bBLzD8qJg3ZsomGoBKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.049724241942883%26panoid%3D_L6bBLzD8qJg3ZsomGoBKA%26yaw%3D247.48710914097035!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Seibu-Chichibu Station is the gateway to the entire Anohana pilgrimage route and appears in the series as the main transit hub the group uses. The station's tourist information office distributes free Anohana pilgrimage maps, making it the natural starting point for any fan visit to Chichibu.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV_RkOdbLHmARYdmVRqSPJSk",
+      "name": "Monmart Inoue",
+      "localName": "モンマートいのうえ",
+      "coordinates": {
+        "lat": 35.99452,
+        "lng": 139.08848
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12561902-39ec-488a-99ea-7a6d2837c491.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12561902-39ec-488a-99ea-7a6d2837c491.webp"
+        },
+        {
+          "url": "media/cached-image_4a797610ff10873a14ac46a609f95e24fed1dd0da7af95120ec0e271783cbd59.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0031 Saitama, Chichibu, Uenomachi, 36−1",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.994538,139.0885882,3a,90y,244.7h,98.52t/data=!3m7!1e1!3m5!1sFYgo-_SKXfF5DxdTbTTilg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.523755580199094%26panoid%3DFYgo-_SKXfF5DxdTbTTilg%26yaw%3D244.7020923480716!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This local convenience store in Chichibu appears in episode 5 as a background location, one of the everyday shops that populate the show's loving recreation of real Chichibu town streets.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrXKIOAnJHmARl-FXLro6pOk",
+      "name": "Chichibu Bridge",
+      "localName": "秩父橋",
+      "coordinates": {
+        "lat": 36.01822,
+        "lng": 139.08598
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f26598f-82c5-435b-a298-9d9f6e96b5d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f26598f-82c5-435b-a298-9d9f6e96b5d2.webp"
+        },
+        {
+          "url": "media/cached-image_e14d9b3a78d66e6947517ea14c20d51ef62b3b1c0ad8ecd3ddaa6e7986e97f03.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chichibu, Saitama 368-0056, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0182654,139.0859517,3a,75y,139.4h,93.82t/data=!3m7!1e1!3m5!1sU_bbB5ZU4L9v2Lywaj3J5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.818919249871655%26panoid%3DU_bbB5ZU4L9v2Lywaj3J5Q%26yaw%3D139.40482623893394!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The modern Chichibu Bridge over the Arakawa River appears in episode 10 as the group moves through the heightened emotional tension of the final arc. It pairs with the nearby Old Chichibu Bridge as a recurring riverside landmark throughout the series.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDcdUmH3JHmARGbu2RA-AH-4",
+      "name": "Unicus Chichibu",
+      "localName": "ウニクス秩父",
+      "coordinates": {
+        "lat": 35.99587,
+        "lng": 139.08859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a88f327-46dd-4d1d-bd56-169c8dee5c56.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a88f327-46dd-4d1d-bd56-169c8dee5c56.webp"
+        },
+        {
+          "url": "media/cached-image_cd4421eec338c02c39e9cd36e1e0c0267b6c9c15ac778161810575c2612b8e6e.jpg"
+        },
+        {
+          "url": "media/cached-image_3a67cd0444b7b0e19378c0fbc3cd4b4178b1c49eaaf06d35e59583bd1190f598.jpg"
+        },
+        {
+          "url": "media/cached-image_e38d1c82a7a61c7e028993f3747d7171976a05ac1b6c8c9aef64900afc65561c.jpg"
+        },
+        {
+          "url": "media/cached-image_5aa9f5c2bb0058d15065f87109be9b2ea7ccf66522d4d5ab01b620737c467a89.jpg"
+        },
+        {
+          "url": "media/cached-image_7500c573d5a70a534a6bf9383cc1fa4e4f17e02c1cb4404ee18fdb8dbbfed190.jpg"
+        },
+        {
+          "url": "media/cached-image_a3ea02732e352342fde4501f9bbe535f3a4484419d566e4262946c898d49fa9f.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 3.7,
+      "reviewCount": 871,
+      "priceLevel": null,
+      "address": "805-14 Uenomachi, Chichibu, Saitama 368-0024, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9964585,139.0881051,3a,40.1y,139.89h,94.2t/data=!3m7!1e1!3m5!1sbmXVYuOjTksBhhEhvk21-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.197802826087312%26panoid%3DbmXVYuOjTksBhhEhvk21-Q%26yaw%3D139.8897252100267!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Unicus Chichibu, the town's main shopping center, appears in episode 3 as a background location the characters pass through, reflecting the series' detailed recreation of everyday Chichibu life.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -511,10 +518,10 @@
         "lat": 36.00477,
         "lng": 139.08413
       },
-      "image": "media/cached-image_eac16b0690bc17e2780870b8e7c7f8f66f8c8757eebfb65ffc97cf036101ea0c.webp",
+      "image": "https://cdn.animepilgrimage.com/places/4ddf2ad5-4cbb-4046-8362-e48d9843e55a.webp",
       "images": [
         {
-          "url": "media/cached-image_eac16b0690bc17e2780870b8e7c7f8f66f8c8757eebfb65ffc97cf036101ea0c.webp"
+          "url": "https://cdn.animepilgrimage.com/places/4ddf2ad5-4cbb-4046-8362-e48d9843e55a.webp"
         },
         {
           "url": "media/cached-image_fe08934f3841a7eb163fecb9b2629d553e303c8f6912228cd6ad66223dab2185.jpg"
@@ -533,58 +540,191 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0047327,139.0839834,3a,33.7y,72.88h,92.13t/data=!3m7!1e1!3m5!1sBSZwpjTIKN3yNIozHLl3lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1330026945978346%26panoid%3DBSZwpjTIKN3yNIozHLl3lQ%26yaw%3D72.87625918151517!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@36.0047327,139.0839834,3a,33.7y,72.88h,92.13t/data=!3m7!1e1!3m5!1sBSZwpjTIKN3yNIozHLl3lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1330026945978346%26panoid%3DBSZwpjTIKN3yNIozHLl3lQ%26yaw%3D72.87625918151517!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This beauty salon on Sakuragimachi street appears in episode 9 as part of the Chichibu townscape, located near the Jorin-ji and Keyaki Park cluster that anchors the show's Sakuragimachi scenes.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJOSVz9YPJHmAR0MjQmJlA4SM",
-      "name": "Chichibu Daiichi Hospital",
-      "localName": "秩父第一病院",
+      "placeId": "ChIJFbCn_Oe5HmARYkuqFCIPnO4",
+      "name": "Chichibu Shrine",
+      "localName": "秩父神社",
       "coordinates": {
-        "lat": 35.9951,
-        "lng": 139.07605
+        "lat": 35.99658,
+        "lng": 139.08416
       },
-      "image": "media/cached-image_26ca1eaaabeeee5d2dc5faa0cca63bd0666307a88b89d76b9c85df7d10816fa2.webp",
+      "image": "https://cdn.animepilgrimage.com/places/04d32344-5d4d-4bd3-a45f-fa84ccb12266.webp",
       "images": [
         {
-          "url": "media/cached-image_26ca1eaaabeeee5d2dc5faa0cca63bd0666307a88b89d76b9c85df7d10816fa2.webp"
+          "url": "https://cdn.animepilgrimage.com/places/04d32344-5d4d-4bd3-a45f-fa84ccb12266.webp"
         },
         {
-          "url": "media/cached-image_4ca003642817e8e65c05a03f7947624d2a55b6449cdbbb0ee50e7f3961dfab4e.jpg"
+          "url": "media/cached-image_0b40085c530052c51db8a167c6704808499d5663382c1edb6785122930b6c0e7.jpg"
         }
       ],
-      "type": "综合医院",
+      "type": "神社",
       "categories": [
-        "综合医院"
+        "神社"
       ],
-      "rating": 2.8,
-      "reviewCount": null,
+      "rating": 4.3,
+      "reviewCount": 8883,
       "priceLevel": null,
-      "address": "2 Chome-8-14 Nakamuramachi, Chichibu, Saitama 368-0051, Japan",
+      "address": "1-3 Banbamachi, Chichibu, Saitama 368-0041, Japan",
       "city": "Chichibu",
       "region": "Saitama",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9950925,139.0760328,3a,90y,310.11h,98.87t/data=!3m7!1e1!3m5!1sCfPXSX6oq5acn0PdbYBDPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.87457254758769%26panoid%3DCfPXSX6oq5acn0PdbYBDPw%26yaw%3D310.1067030690495!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The hospital in Chichibu that appears in the show, confirmed as a location in fan pilgrimage guides tracing the streets of the series' Chichibu setting."
+      "streetViewUrl": "https://www.google.com/maps/@35.9965308,139.0841808,3a,47.4y,346.89h,91.32t/data=!3m7!1e1!3m5!1syr8L7PZKSHrjqwTeJbS30g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3177785996689408%26panoid%3Dyr8L7PZKSHrjqwTeJbS30g%26yaw%3D346.8881477182678!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Chichibu Shrine, a major Shinto site at the heart of the city, appears in episode 4 and provides the spiritual backdrop that mirrors the supernatural thread of Menma's lingering presence running through the story.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJgRPiMMnLHmARav1JZ-MDbPU",
-      "name": "Pink Moss Hill",
-      "localName": "芝桜の丘",
+      "placeId": "ChIJrWkjwnjJHmARJLg--b9z3B0",
+      "name": "Hot Spot Chichibu-kan",
+      "localName": "ほっとすぽっと秩父館",
       "coordinates": {
-        "lat": 35.98107,
-        "lng": 139.08875
+        "lat": 35.99877,
+        "lng": 139.08348
       },
-      "image": "media/cached-image_6f361d2701a2271aada4e7767982f785ffd69f7627767e28237a4079a8534236.webp",
+      "image": "https://cdn.animepilgrimage.com/places/98dae444-b06f-40ed-a901-87fce56f4263.webp",
       "images": [
         {
-          "url": "media/cached-image_6f361d2701a2271aada4e7767982f785ffd69f7627767e28237a4079a8534236.webp"
+          "url": "https://cdn.animepilgrimage.com/places/98dae444-b06f-40ed-a901-87fce56f4263.webp"
+        },
+        {
+          "url": "media/cached-image_c795972487b95c8bcee4fd0d32ff78e5de3509ab4c1e9faae45b1126df23e1b2.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "18-2 Miyakawacho, Chichibu, Saitama 368-0046, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9987985,139.0835565,3a,90y,289.97h,92.32t/data=!3m7!1e1!3m5!1sGn0xUSb3ecbFzi5q5DzRWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.323313869653475%26panoid%3DGn0xUSb3ecbFzi5q5DzRWw%26yaw%3D289.9696679152206!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This tourist building on Miyakawacho appears in episode 2 as a Chichibu streetscape landmark. Its Miyakawacho location, just north of Chichibu Shrine, places it in the middle of the central pilgrimage walking route.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMxn-EXnJHmARSdjPWqIFwKA",
+      "name": "Drugstore Seki Chichibu Shop",
+      "localName": "ドラッグストアセキ 秩父店",
+      "coordinates": {
+        "lat": 36.0001,
+        "lng": 139.08438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc119dbc-7a77-4c65-a2cc-5d193f79ee7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc119dbc-7a77-4c65-a2cc-5d193f79ee7d.webp"
+        },
+        {
+          "url": "media/cached-image_2dce37f0a198dec1d3947a18af6390c7ebcdc3eeb4489f9b06aef0750b0ec3f2.jpg"
+        }
+      ],
+      "type": "ドラッグストア",
+      "categories": [
+        "ドラッグストア"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "10-7 Miyakawacho, Chichibu, Saitama 368-0046, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0001231,139.0844293,3a,75y,212.77h,96.04t/data=!3m7!1e1!3m5!1sieS7M9OFZYB61bMIudB4SA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.044822333913842%26panoid%3DieS7M9OFZYB61bMIudB4SA%26yaw%3D212.7720132037076!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This drugstore on Miyakawacho is visible in episode 1 as part of the Chichibu streetscape, one of the recognizable storefronts the animators reproduced to establish the show's real-town setting from the very first episode.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3fEwqAzJHmARGAWL0PZIsxE",
+      "name": "Old Chichibu Bridge",
+      "localName": "旧秩父橋",
+      "coordinates": {
+        "lat": 36.01856,
+        "lng": 139.08644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b448a0ac-52db-4108-9b57-7fa802c62412.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b448a0ac-52db-4108-9b57-7fa802c62412.webp"
+        },
+        {
+          "url": "media/cached-image_576ec276fc9633968f864985882b10d61648c647d6efd5ece60e8a59a59d060.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3795 Abomachi, Chichibu, Saitama 368-0056, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0185049,139.0868571,3a,75y,300.86h,95.17t/data=!3m8!1e1!3m6!1sAF1QipP5RdjK_T7hfzknALJOkercppSRJonX3_X4sMIA!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5RdjK_T7hfzknALJOkercppSRJonX3_X4sMIA%3Dw900-h600-k-no-pi-5.172498994601995-ya148.34228324189533-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "The Old Chichibu Bridge (Kyu Chichibu-bashi) is the single most iconic Anohana location, featured prominently in the opening theme \"Aoi Shiori\" and appearing as a recurring meeting place throughout the series. The arched concrete span over the Arakawa River is the heart of every fan's pilgrimage route and considered unmissable for anyone visiting Chichibu.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwZozbc7LHmARiEEfHJRDswE",
+      "name": "Hitsujiyama Park",
+      "localName": "羊山公園",
+      "coordinates": {
+        "lat": 35.99011,
+        "lng": 139.0901
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3237c34-4276-472f-be90-a1a87c345342.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3237c34-4276-472f-be90-a1a87c345342.webp"
+        },
+        {
+          "url": "media/cached-image_9f94b2062ffa8973ae7ff2c8ad239f36e9a9751c0cafc56b87ec882cdcf70a2d.jpg"
         },
         {
           "url": "media/cached-image_ac1c6f006a0ab6e9a800581a488d080bbdcfb0b18a97bb250f6b6adc4ddfb9ed.jpg"
+        },
+        {
+          "url": "media/cached-image_a1a7106b54f37812fdde55b0e9caaf3925f7749a1f774a0afddb24a4565d855b.jpg"
+        },
+        {
+          "url": "media/cached-image_b63955d9c4ee81bffd350188aa48b47db7e3b485e3fca50c9d31e74d76027f62.jpg"
+        },
+        {
+          "url": "media/cached-image_3cd331233f4164ecf9b96aee0a38502e7f709c71eb217f6343f28d3111105742.jpg"
+        },
+        {
+          "url": "media/cached-image_d78eb6a36139e04158befe11ccd0e6fdb3ff8030cb3f9a71843ced78c703c5fa.jpg"
         }
       ],
       "type": "公園",
@@ -592,7 +732,7 @@
         "公園"
       ],
       "rating": 4.1,
-      "reviewCount": null,
+      "reviewCount": 2821,
       "priceLevel": null,
       "address": "6360 Omiya, Chichibu, Saitama 368-0023, Japan",
       "city": "Chichibu",
@@ -600,8 +740,260 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9812204,139.0886023,2a,75y,173.76h,99.22t/data=!3m7!1e1!3m5!1saLiyDyKm26OQvkkZFu39oA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.224847185705812%26panoid%3DaLiyDyKm26OQvkkZFu39oA%26yaw%3D173.76122132913892!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Hitsujiyama Park hillside famous for its shibazakura pink moss phlox, which appears in background shots. The vivid pink blossoms are part of Chichibu's distinctive seasonal imagery woven into the show's visual identity."
+      "streetViewUrl": "https://www.google.com/maps/@35.9899014,139.0899377,3a,90y,301.1h,103.1t/data=!3m8!1e1!3m6!1sAF1QipOpcQDvGyPcpEhWhc33lhj74sHvZaYcaxlq_Enm!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOpcQDvGyPcpEhWhc33lhj74sHvZaYcaxlq_Enm%3Dw900-h600-k-no-pi-13.099562905208998-ya359.09832000154796-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Hitsujiyama Park's Shibazakura Hill, covered in 400,000 moss phlox blooms each spring, is the backdrop for the opening sequence where Menma stands in a field of flowers. The image of the pink hillside became one of the most recognized visuals of the series and draws devoted fans every April during the Shibazakura Festival.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKaxRHX_JHmARJNlCd6QSvY0",
+      "name": "Hachimanya Honten",
+      "localName": "八幡屋本店",
+      "coordinates": {
+        "lat": 35.99636,
+        "lng": 139.08409
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aef4a935-7e3d-42a4-a581-9097e42f34b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aef4a935-7e3d-42a4-a581-9097e42f34b6.webp"
+        },
+        {
+          "url": "media/cached-image_ea77af83eb0f563c5e489b15af8e535166da0b42ecc84bc22d0fbf942dc6fa6e.jpg"
+        }
+      ],
+      "type": "和菓子屋",
+      "categories": [
+        "和菓子屋"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0041 Saitama, Chichibu, Banbamachi, 8−18",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9964692,139.0840375,3a,49.6y,161.45h,88.7t/data=!3m7!1e1!3m5!1sOA75C-dQlt0CfbbMyKOwcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.2997084457523442%26panoid%3DOA75C-dQlt0CfbbMyKOwcA%26yaw%3D161.45260148512057!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This traditional wagashi confectionery shop near Chichibu Shrine appears in episode 4, its old-fashioned facade contributing to the nostalgic, small-town Chichibu atmosphere that defines the series' visual identity.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAVc06n7JHmARJTtNVTc-Wj8",
+      "name": "Chichibu Festival Museum",
+      "localName": "秩父まつり会館",
+      "coordinates": {
+        "lat": 35.9972,
+        "lng": 139.08541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a2672335-bc8c-4ce1-93ca-4306812df9ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a2672335-bc8c-4ce1-93ca-4306812df9ca.webp"
+        },
+        {
+          "url": "media/cached-image_355f1c9925b9365a96d322f9712773c02ceeb8c54f648c7947a0a9acd2d18a52.jpg"
+        },
+        {
+          "url": "media/cached-image_0f232188674124bf17c96207354e14b127aa1eb39381c63d3c1a2fcff78c716d.jpg"
+        }
+      ],
+      "type": "博物館",
+      "categories": [
+        "博物館"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "2-8 Banbamachi, Chichibu, Saitama 368-0041, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9972339,139.0854321,3a,90y,107.49h,90.56t/data=!3m7!1e1!3m5!1srWuPWaUWJf-QmCQRjtyhyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5613651402521924%26panoid%3DrWuPWaUWJf-QmCQRjtyhyg%26yaw%3D107.49406387727205!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Chichibu Festival Museum, dedicated to the city's famous Yomatsuri float festival, appears in episode 1 as a location Jintan passes through. The real Chichibu Night Festival tradition also informs the fireworks and celebration themes woven throughout the anime.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_zqVMeLJHmAR3C8EEzIH0ig",
+      "name": "Yoshidamuku Shrine",
+      "localName": "椋神社",
+      "coordinates": {
+        "lat": 36.04551,
+        "lng": 139.03276
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a10e168f-1ae5-41d4-a77a-53f3b6684868.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a10e168f-1ae5-41d4-a77a-53f3b6684868.webp"
+        },
+        {
+          "url": "media/cached-image_23dfacdbebc9566b3343810aa0333d5a131edae73f425cdf446b2bea6d2daeea.jpg"
+        },
+        {
+          "url": "media/cached-image_887618c2faedc984398c76fc149528fd545939c247adefefbba0a602f8269cc0.jpg"
+        },
+        {
+          "url": "media/cached-image_892726cefc8c5fab5c9549f3abb1d0b1beba2a93c19113e4e52fa09997f6d41a.jpg"
+        },
+        {
+          "url": "media/cached-image_87dfc56f5a31f814fc06a169f081ca46f4f9b6c9a47688443001d0a5ab4b1e44.jpg"
+        },
+        {
+          "url": "media/cached-image_801d15860248b6e467b643a8d5a96817bf8d420bc21fa083edb59fe0207112eb.jpg"
+        },
+        {
+          "url": "media/cached-image_c948eb17b431580b60bca704a7cec1a092b11fe7b22c7ef6fac6acfb6f84ed21.jpg"
+        },
+        {
+          "url": "media/cached-image_784e2be98b23b2d0ba43ece42fd3833b908fe62d6e1a9be800364c7d36c144e9.jpg"
+        },
+        {
+          "url": "media/cached-image_468bad0f4b30b3a650e833828f8d0418b3255cb8f862010024895132d54de6b6.jpg"
+        },
+        {
+          "url": "media/cached-image_1d9a4174f31fe8bacbe11a0f7b6f9f0a61dbbbbe87b342f488f7b7b74b0eed12.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.5,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "2842 Maita, Chichibu, Saitama 368-0062, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0456193,139.0330163,3a,73.9y,250.33h,94.22t/data=!3m7!1e1!3m5!1sgxcBVLnjS0zayO3uGn1U6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.223519722219393%26panoid%3DgxcBVLnjS0zayO3uGn1U6A%26yaw%3D250.3305829150686!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Muku Shrine (Yoshidamuku Shrine) is the setting for the climactic fireworks scene in episode 11, where the Super Peace Busters launch a rocket in Menma's honor. The shrine's real annual Ryusei Festival, featuring bamboo rockets fired from a wooden scaffold, directly inspired this defining moment of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhyWM-q6YWjURhIfzCH-WFtw",
+      "name": "Printemps",
+      "localName": "プランタン",
+      "coordinates": {
+        "lat": 36.00471,
+        "lng": 139.08389
+      },
+      "image": "https://cdn.animepilgrimage.com/places/88edeac8-a0fb-4579-a6b4-5be9b66fe49d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/88edeac8-a0fb-4579-a6b4-5be9b66fe49d.webp"
+        },
+        {
+          "url": "media/cached-image_2812ff27e375ca3041c2dd3f03fc80f965617d71eaa8069064faeb9f06951ecf.jpg"
+        }
+      ],
+      "type": "デザート ショップ",
+      "categories": [
+        "デザート ショップ"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "20-21 Higashihakushimacho, Naka Ward, Hiroshima, 730-0004, Japan",
+      "city": "Hiroshima",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0047327,139.0839834,3a,75y,278.25h,95.89t/data=!3m7!1e1!3m5!1sBSZwpjTIKN3yNIozHLl3lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.891874395848774%26panoid%3DBSZwpjTIKN3yNIozHLl3lQ%26yaw%3D278.2514758551474!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This dessert shop on Sakuragimachi appears in episode 3, part of the Chichibu streetscape scenes. Its coordinates place it in the Sakuragimachi cluster near Jorin-ji, within the core of the Anohana pilgrimage walking route.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJTgY5njJHmARWpW6ase2j9c",
+      "name": "Small Dream Toy Box Tatsumiya",
+      "localName": "小さな夢のおもちゃ箱 たつみや",
+      "coordinates": {
+        "lat": 35.99925,
+        "lng": 139.08383
+      },
+      "image": "https://cdn.animepilgrimage.com/places/88b5078c-8368-4154-9ba3-9274645ab1a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/88b5078c-8368-4154-9ba3-9274645ab1a2.webp"
+        },
+        {
+          "url": "media/cached-image_fb48d11e54315c96f0506eabe03b0a489b80ff631fca9d024b31b10a7cb87bc9.jpg"
+        }
+      ],
+      "type": "おもちゃ店",
+      "categories": [
+        "おもちゃ店"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 19−1",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9992718,139.0839902,3a,75y,251.58h,95.38t/data=!3m7!1e1!3m5!1sHcvemrWv0_hAKhZFQlCdKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.381765397444497%26panoid%3DHcvemrWv0_hAKhZFQlCdKQ%26yaw%3D251.57851284521735!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This charming toy shop on Miyakawacho appears in episode 2 as a background street location, part of the old-fashioned commercial district the animators used to anchor Anohana's sense of a nostalgic, real-feeling small town.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ81y5hEkmGWARLH7GkpijfK4",
+      "name": "Hanno Station",
+      "localName": "飯能駅",
+      "coordinates": {
+        "lat": 35.85103,
+        "lng": 139.31929
+      },
+      "image": "https://cdn.animepilgrimage.com/places/803838dc-21f8-4000-8941-84671c88939b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/803838dc-21f8-4000-8941-84671c88939b.webp"
+        },
+        {
+          "url": "media/cached-image_9fb9582b26c1e51c00f016e669c2cc479de497ca92866ba2ccd8c1deeed8f7ea.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Minamimachi, Hanno, Saitama 357-0036, Japan",
+      "city": "Hanno",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8511379,139.3193363,2a,37.8y,184.56h,87.29t/data=!3m7!1e1!3m5!1sRPyTD5Cpi7JuxGdW4QWJwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7071395566193956%26panoid%3DRPyTD5Cpi7JuxGdW4QWJg%26yaw%3D184.5619939383165!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Hanno Station appears in episode 5 as the transit point for the group's excursion away from Chichibu, part of the outing that takes several characters to the nearby resort area as they struggle to understand Menma's wishes.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -612,10 +1004,10 @@
         "lat": 36.0056,
         "lng": 139.08418
       },
-      "image": "media/cached-image_e5009d563efe0fa6c4952672b565c2a37cec3a86ee98b54a7b12d37b141cb147.webp",
+      "image": "https://cdn.animepilgrimage.com/places/7963d4a1-7f39-4b67-aebd-567198bc724e.webp",
       "images": [
         {
-          "url": "media/cached-image_e5009d563efe0fa6c4952672b565c2a37cec3a86ee98b54a7b12d37b141cb147.webp"
+          "url": "https://cdn.animepilgrimage.com/places/7963d4a1-7f39-4b67-aebd-567198bc724e.webp"
         },
         {
           "url": "media/cached-image_d4c8488c3fd56c0473d4f8fc2f063043e53de00722fcdb5a80062a3004943b7a.jpg"
@@ -664,302 +1056,28 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/J%C5%8Drin-ji+(Chichibu+Sanj%C5%AByon+Kannon+Reish%C5%8D+%2317)/@36.0056763,139.0842438,3a,90y,25.19h,103.48t/data=!3m8!1e1!3m6!1sAF1QipNCEVJw5hMIcg-9-zUUUU858ctxPdpcMMufAs6E!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNCEVJw5hMIcg-9-zUUUU858ctxPdpcMMufAs6E%3Dw900-h600-k-no-pi-13.483759173669299-ya25.190331646871773-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x601ec976f61d9c51:0xcd9e2960f27ae58a!8m2!3d36.00575!4d139.0842889!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1td42l1b?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/place/J%C5%8Drin-ji+(Chichibu+Sanj%C5%AByon+Kannon+Reish%C5%8D+%2317)/@36.0056763,139.0842438,3a,90y,25.19h,103.48t/data=!3m8!1e1!3m6!1sAF1QipNCEVJw5hMIcg-9-zUUUU858ctxPdpcMMufAs6E!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNCEVJw5hMIcg-9-zUUUU858ctxPdpcMMufAs6E%3Dw900-h600-k-no-pi-13.483759173669299-ya25.190331646871773-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x601ec976f61d9c51:0xcd9e2960f27ae58a!8m2!3d36.00575!4d139.0842889!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1td42l1b?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Jorin-ji is the spiritual heart of the Anohana pilgrimage, featured in the opening and throughout the series as the temple where the Super Peace Busters played hide-and-seek as children. The stone steps and grounds appear multiple times as the group reconnects, and visiting fans leave Anohana-themed ema wishing plaques at the 17th stop on the Chichibu 34 Kannon pilgrimage.",
+      "fanTopPick": true
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ81y5hEkmGWARLH7GkpijfK4",
-      "name": "Hanno Station",
-      "localName": "飯能駅",
+      "placeId": "ChIJgRPiMMnLHmARav1JZ-MDbPU",
+      "name": "Pink Moss Hill",
+      "localName": "芝桜の丘",
       "coordinates": {
-        "lat": 35.85103,
-        "lng": 139.31929
+        "lat": 35.98107,
+        "lng": 139.08875
       },
-      "image": "media/cached-image_1139a7d76a03efb6658e9e54066748f149b8a92851ecd67602298970d0bc70e4.webp",
+      "image": "https://cdn.animepilgrimage.com/places/68b8cf53-01a9-4120-bb49-a9ebae2449de.webp",
       "images": [
         {
-          "url": "media/cached-image_1139a7d76a03efb6658e9e54066748f149b8a92851ecd67602298970d0bc70e4.webp"
-        },
-        {
-          "url": "media/cached-image_9fb9582b26c1e51c00f016e669c2cc479de497ca92866ba2ccd8c1deeed8f7ea.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Minamimachi, Hanno, Saitama 357-0036, Japan",
-      "city": "Hanno",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.8511379,139.3193363,2a,37.8y,184.56h,87.29t/data=!3m7!1e1!3m5!1sRPyTD5Cpi7JuxGdW4QWJwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7071395566193956%26panoid%3DRPyTD5Cpi7JuxGdW4QWJwQ%26yaw%3D184.5619939383165!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Hanno Station on the Seibu Line that characters pass through en route to Chichibu from Tokyo, a transit point on the Seibu Chichibu Line journey that appears in travel sequences in the series."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJJTgY5njJHmARWpW6ase2j9c",
-      "name": "Small Dream Toy Box Tatsumiya",
-      "localName": "小さな夢のおもちゃ箱 たつみや",
-      "coordinates": {
-        "lat": 35.99925,
-        "lng": 139.08383
-      },
-      "image": "media/cached-image_4a5dcbe3ca5e4ea0d02f2773997fec8bafde3733464c0617084dc542f266483b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_4a5dcbe3ca5e4ea0d02f2773997fec8bafde3733464c0617084dc542f266483b.webp"
-        },
-        {
-          "url": "media/cached-image_fb48d11e54315c96f0506eabe03b0a489b80ff631fca9d024b31b10a7cb87bc9.jpg"
-        }
-      ],
-      "type": "おもちゃ店",
-      "categories": [
-        "おもちゃ店"
-      ],
-      "rating": 4.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 19−1",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9992718,139.0839902,3a,75y,251.58h,95.38t/data=!3m7!1e1!3m5!1sHcvemrWv0_hAKhZFQlCdKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.381765397444497%26panoid%3DHcvemrWv0_hAKhZFQlCdKQ%26yaw%3D251.57851284521735!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJhyWM-q6YWjURhIfzCH-WFtw",
-      "name": "Printemps",
-      "localName": "プランタン",
-      "coordinates": {
-        "lat": 36.00471,
-        "lng": 139.08389
-      },
-      "image": "media/cached-image_bf34b6a5a9945e6ad9b73f72c88e37cebf3b9964a9d6974ecb9b54b16e19243e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_bf34b6a5a9945e6ad9b73f72c88e37cebf3b9964a9d6974ecb9b54b16e19243e.webp"
-        },
-        {
-          "url": "media/cached-image_2812ff27e375ca3041c2dd3f03fc80f965617d71eaa8069064faeb9f06951ecf.jpg"
-        }
-      ],
-      "type": "デザート ショップ",
-      "categories": [
-        "デザート ショップ"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "20-21 Higashihakushimacho, Naka Ward, Hiroshima, 730-0004, Japan",
-      "city": "Hiroshima",
-      "region": "Hiroshima",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0047327,139.0839834,3a,75y,278.25h,95.89t/data=!3m7!1e1!3m5!1sBSZwpjTIKN3yNIozHLl3lQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.891874395848774%26panoid%3DBSZwpjTIKN3yNIozHLl3lQ%26yaw%3D278.2514758551474!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJrWkjwnjJHmARJLg--b9z3B0",
-      "name": "Hot Spot Chichibu-kan",
-      "localName": "ほっとすぽっと秩父館",
-      "coordinates": {
-        "lat": 35.99877,
-        "lng": 139.08348
-      },
-      "image": "media/cached-image_1dde03def90b92439bbbbfa2fc89f1105b658080616f7c5d69e2041d8272a28a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1dde03def90b92439bbbbfa2fc89f1105b658080616f7c5d69e2041d8272a28a.webp"
-        },
-        {
-          "url": "media/cached-image_c795972487b95c8bcee4fd0d32ff78e5de3509ab4c1e9faae45b1126df23e1b2.jpg"
-        }
-      ],
-      "type": "観光名所",
-      "categories": [
-        "観光名所"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "18-2 Miyakawacho, Chichibu, Saitama 368-0046, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9987985,139.0835565,3a,90y,289.97h,92.32t/data=!3m7!1e1!3m5!1sGn0xUSb3ecbFzi5q5DzRWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.323313869653475%26panoid%3DGn0xUSb3ecbFzi5q5DzRWw%26yaw%3D289.9696679152206!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "A Chichibu venue that appears in the series' recreation of the town, part of the central shopping/entertainment district the characters move through."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ_zqVMeLJHmAR3C8EEzIH0ig",
-      "name": "Yoshidamuku Shrine",
-      "localName": "椋神社",
-      "coordinates": {
-        "lat": 36.04551,
-        "lng": 139.03276
-      },
-      "image": "media/cached-image_a2a3a96b5bd06dbe964cff1c0d5a83ccaed6bb38690ba126125b46175f6945c9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_a2a3a96b5bd06dbe964cff1c0d5a83ccaed6bb38690ba126125b46175f6945c9.webp"
-        },
-        {
-          "url": "media/cached-image_23dfacdbebc9566b3343810aa0333d5a131edae73f425cdf446b2bea6d2daeea.jpg"
-        },
-        {
-          "url": "media/cached-image_887618c2faedc984398c76fc149528fd545939c247adefefbba0a602f8269cc0.jpg"
-        },
-        {
-          "url": "media/cached-image_892726cefc8c5fab5c9549f3abb1d0b1beba2a93c19113e4e52fa09997f6d41a.jpg"
-        },
-        {
-          "url": "media/cached-image_87dfc56f5a31f814fc06a169f081ca46f4f9b6c9a47688443001d0a5ab4b1e44.jpg"
-        },
-        {
-          "url": "media/cached-image_801d15860248b6e467b643a8d5a96817bf8d420bc21fa083edb59fe0207112eb.jpg"
-        },
-        {
-          "url": "media/cached-image_c948eb17b431580b60bca704a7cec1a092b11fe7b22c7ef6fac6acfb6f84ed21.jpg"
-        },
-        {
-          "url": "media/cached-image_784e2be98b23b2d0ba43ece42fd3833b908fe62d6e1a9be800364c7d36c144e9.jpg"
-        },
-        {
-          "url": "media/cached-image_468bad0f4b30b3a650e833828f8d0418b3255cb8f862010024895132d54de6b6.jpg"
-        },
-        {
-          "url": "media/cached-image_1d9a4174f31fe8bacbe11a0f7b6f9f0a61dbbbbe87b342f488f7b7b74b0eed12.jpg"
-        }
-      ],
-      "type": "神社",
-      "categories": [
-        "神社"
-      ],
-      "rating": 4.5,
-      "reviewCount": 2,
-      "priceLevel": null,
-      "address": "2842 Maita, Chichibu, Saitama 368-0062, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0456193,139.0330163,3a,73.9y,250.33h,94.22t/data=!3m7!1e1!3m5!1sgxcBVLnjS0zayO3uGn1U6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.223519722219393%26panoid%3DgxcBVLnjS0zayO3uGn1U6A%26yaw%3D250.3305829150686!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "One of the small Chichibu shrines that appears in the background streetscape of the series, part of the Chichibu shrine circuit reproduced in the show's meticulous recreation of the town."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJAVc06n7JHmARJTtNVTc-Wj8",
-      "name": "Chichibu Festival Museum",
-      "localName": "秩父まつり会館",
-      "coordinates": {
-        "lat": 35.9972,
-        "lng": 139.08541
-      },
-      "image": "media/cached-image_ef5649f0ee8da2b8bcede052ebbc2a93af459c415d646e92681cdb580bd36a4a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ef5649f0ee8da2b8bcede052ebbc2a93af459c415d646e92681cdb580bd36a4a.webp"
-        },
-        {
-          "url": "media/cached-image_355f1c9925b9365a96d322f9712773c02ceeb8c54f648c7947a0a9acd2d18a52.jpg"
-        },
-        {
-          "url": "media/cached-image_0f232188674124bf17c96207354e14b127aa1eb39381c63d3c1a2fcff78c716d.jpg"
-        }
-      ],
-      "type": "博物館",
-      "categories": [
-        "博物館"
-      ],
-      "rating": 3.9,
-      "reviewCount": 1,
-      "priceLevel": null,
-      "address": "2-8 Banbamachi, Chichibu, Saitama 368-0041, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9972339,139.0854321,3a,90y,107.49h,90.56t/data=!3m7!1e1!3m5!1srWuPWaUWJf-QmCQRjtyhyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5613651402521924%26panoid%3DrWuPWaUWJf-QmCQRjtyhyg%26yaw%3D107.49406387727205!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The museum dedicated to Chichibu's iconic Yomatsuri festival that appears in background scenes. The town's festival culture is woven throughout the series' visual setting, and the museum is a stop on the official Anohana pilgrimage route."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJKaxRHX_JHmARJNlCd6QSvY0",
-      "name": "Hachimanya Honten",
-      "localName": "八幡屋本店",
-      "coordinates": {
-        "lat": 35.99636,
-        "lng": 139.08409
-      },
-      "image": "media/cached-image_ed1282559bbcbc8411e2cd7b7ff234d21a09625c46d4f6f3c70c1223558aee3a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ed1282559bbcbc8411e2cd7b7ff234d21a09625c46d4f6f3c70c1223558aee3a.webp"
-        },
-        {
-          "url": "media/cached-image_ea77af83eb0f563c5e489b15af8e535166da0b42ecc84bc20a0dfb942dc6fa6e.jpg"
-        }
-      ],
-      "type": "和菓子屋",
-      "categories": [
-        "和菓子屋"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0041 Saitama, Chichibu, Banbamachi, 8−18",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9964692,139.0840375,3a,49.6y,161.45h,88.7t/data=!3m7!1e1!3m5!1sOA75C-dQlt0CfbbMyKOwcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.2997084457523442%26panoid%3DOA75C-dQlt0CfbbMyKOwcA%26yaw%3D161.45260148512057!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The long-established Chichibu shop that appears in background street scenes, part of the detailed Chichibu townscape the production team mapped and recreated in the series."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJwZozbc7LHmARiEEfHJRDswE",
-      "name": "Hitsujiyama Park",
-      "localName": "羊山公園",
-      "coordinates": {
-        "lat": 35.99011,
-        "lng": 139.0901
-      },
-      "image": "media/cached-image_f29d3f3fc86495799214958e81157bb028e19d159144f4fe83212a2c4dbc5cdb.webp",
-      "images": [
-        {
-          "url": "media/cached-image_f29d3f3fc86495799214958e81157bb028e19d159144f4fe83212a2c4dbc5cdb.webp"
-        },
-        {
-          "url": "media/cached-image_9f94b2062ffa8973ae7ff2c8ad239f36e9a9751c0cafc56b87ec882cdcf70a2d.jpg"
+          "url": "https://cdn.animepilgrimage.com/places/68b8cf53-01a9-4120-bb49-a9ebae2449de.webp"
         },
         {
           "url": "media/cached-image_ac1c6f006a0ab6e9a800581a488d080bbdcfb0b18a97bb250f6b6adc4ddfb9ed.jpg"
-        },
-        {
-          "url": "media/cached-image_a1a7106b54f37812fdde55b0e9caaf3925f7749a1f774a0afddb24a4565d855b.jpg"
-        },
-        {
-          "url": "media/cached-image_b63955d9c4ee81bffd350188aa48b47db7e3b485e3fca50c9d31e74d76027f62.jpg"
-        },
-        {
-          "url": "media/cached-image_3cd331233f4164ecf9b96aee0a38502e7f709c71eb217f6343f28d3111105742.jpg"
-        },
-        {
-          "url": "media/cached-image_d78eb6a36139e04158befe11ccd0e6fdb3ff8030cb3f9a71843ced78c703c5fa.jpg"
         }
       ],
       "type": "公園",
@@ -967,7 +1085,7 @@
         "公園"
       ],
       "rating": 4.1,
-      "reviewCount": 2821,
+      "reviewCount": null,
       "priceLevel": null,
       "address": "6360 Omiya, Chichibu, Saitama 368-0023, Japan",
       "city": "Chichibu",
@@ -975,145 +1093,48 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9899014,139.0899377,3a,90y,301.1h,103.1t/data=!3m8!1e1!3m6!1sAF1QipOpcQDvGyPcpEhWhc33lhj74sHvZaYcaxlq_Enm!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOpcQDvGyPcpEhWhc33lhj74sHvZaYcaxlq_Enm%3Dw900-h600-k-no-pi-13.099562905208998-ya359.09832000154796-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The park famous for its hillside of shibazakura (pink moss phlox) that serves as one of Chichibu's most recognisable natural landmarks, featured in the show's exterior Chichibu scenes as part of the town's visual character."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ3fEwqAzJHmARGAWL0PZIsxE",
-      "name": "Old Chichibu Bridge",
-      "localName": "旧秩父橋",
-      "coordinates": {
-        "lat": 36.01856,
-        "lng": 139.08644
-      },
-      "image": "media/cached-image_1b7e8106fac2c5d16b960eb0ab69a202036bdacf5b5202ddf5db60aa34cd1a26.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1b7e8106fac2c5d16b960eb0ab69a202036bdacf5b5202ddf5db60aa34cd1a26.webp"
-        },
-        {
-          "url": "media/cached-image_576ec276fc9633968f864985882b10d61648c647d6efd5edc060e8a59a59d060.jpg"
-        }
-      ],
-      "type": "史跡",
-      "categories": [
-        "史跡"
-      ],
-      "rating": 4.5,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3795 Abomachi, Chichibu, Saitama 368-0056, Japan",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0185049,139.0868571,3a,75y,300.86h,95.17t/data=!3m8!1e1!3m6!1sAF1QipP5RdjK_T7hfzknALJOkercppSRJonX3_X4sMIA!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5RdjK_T7hfzknALJOkercppSRJonX3_X4sMIA%3Dw900-h600-k-no-pi-5.172498994601995-ya148.34228324189533-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The old iron bridge over the Arakawa River that appears in the opening credits and recurs throughout the series as a key transitional and emotional backdrop. It is one of the most-photographed Anohana pilgrimage spots in Chichibu.",
+      "streetViewUrl": "https://www.google.com/maps/@35.9812204,139.0886023,2a,75y,173.76h,99.22t/data=!3m7!1e1!3m5!1saLiyDyKm26OQvkkZFu39oA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.224847185705812%26panoid%3DaLiyDyKm26OQvkkZFu39oA%26yaw%3D173.76122132913892!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Shibazakura (Pink Moss) Hill within Hitsujiyama Park is the specific location depicted when Menma stands in a vivid field of pink flowers in episode 2. This hillside, carpeted with 400,000 moss phlox blooms each spring, is one of the most-photographed Anohana pilgrimage spots.",
       "fanTopPick": true
     },
     {
       "kind": "poi",
-      "placeId": "ChIJMxn-EXnJHmARSdjPWqIFwKA",
-      "name": "Drugstore Seki Chichibu Shop",
-      "localName": "ドラッグストアセキ 秩父店",
+      "placeId": "ChIJOSVz9YPJHmAR0MjQmJlA4SM",
+      "name": "Chichibu Daiichi Hospital",
+      "localName": "秩父第一病院",
       "coordinates": {
-        "lat": 36.0001,
-        "lng": 139.08438
+        "lat": 35.9951,
+        "lng": 139.07605
       },
-      "image": "media/cached-image_05ad99876095a26b2fee3feab115e4c2cb80a7617ee2694c4b622dc441b8e7df.webp",
+      "image": "https://cdn.animepilgrimage.com/places/5bbf23a0-b011-4bff-ab56-041e901b212b.webp",
       "images": [
         {
-          "url": "media/cached-image_05ad99876095a26b2fee3feab115e4c2cb80a7617ee2694c4b622dc441b8e7df.webp"
+          "url": "https://cdn.animepilgrimage.com/places/5bbf23a0-b011-4bff-ab56-041e901b212b.webp"
         },
         {
-          "url": "media/cached-image_2dce37f0a198dec1d3947a18af6390c7ebcdc3eeb4489f9b06aef0750b0ec3f2.jpg"
+          "url": "media/cached-image_4ca003642817e8e65c05a03f7947624d2a55b6449cdbbb0ee50e7f3961dfab4e.jpg"
         }
       ],
-      "type": "ドラッグストア",
+      "type": "综合医院",
       "categories": [
-        "ドラッグストア"
+        "综合医院"
       ],
-      "rating": 3.6,
+      "rating": 2.8,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "10-7 Miyakawacho, Chichibu, Saitama 368-0046, Japan",
+      "address": "2 Chome-8-14 Nakamuramachi, Chichibu, Saitama 368-0051, Japan",
       "city": "Chichibu",
       "region": "Saitama",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0001231,139.0844293,3a,75y,212.77h,96.04t/data=!3m7!1e1!3m5!1sieS7M9OFZYB61bMIudB4SA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.044822333913842%26panoid%3DieS7M9OFZYB61bMIudB4SA%26yaw%3D212.7720132037076!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The drugstore on the Chichibu shopping street that appears in background scenes, a real business incorporated into the show's streetscape, visible in pilgrimage route photographs."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJfQ--_HjJHmARPZX-aPMW25o",
-      "name": "asaka chouchin ten",
-      "localName": "浅賀ちょうちん店",
-      "coordinates": {
-        "lat": 35.99952,
-        "lng": 139.08407
-      },
-      "image": "media/cached-image_935dec92c89323aee426a3092636a0028535d4f613eced9d8f554673e95797e6.webp",
-      "images": [
-        {
-          "url": "media/cached-image_935dec92c89323aee426a3092636a0028535d4f613eced9d8f554673e95797e6.webp"
-        },
-        {
-          "url": "media/cached-image_4ff6a8dad61363ba24780ddc20b0aafff33a97b010b7a65fbc086ecbaaefa8e8.jpg"
-        }
-      ],
-      "type": "工芸品店",
-      "categories": [
-        "工芸品店"
-      ],
-      "rating": 4.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 20−18",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9997347,139.0841162,3a,51y,183h,96.33t/data=!3m7!1e1!3m5!1sggtJI2oTIXNsZF3Vecxh_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.32540264882779%26panoid%3DggtJI2oTIXNsZF3Vecxh_A%26yaw%3D183.00058040419373!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The traditional chochin (paper lantern) shop in Chichibu that appears in background scenes, part of the town's traditional craft shops that give the show its distinctive Chichibu local colour."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJMyvmhUHJHmARzUcQz15UNKk",
-      "name": "Chichibu Aioicho Postal Housing",
-      "localName": "秩父市相生町郵政宿舎",
-      "coordinates": {
-        "lat": 36.00457,
-        "lng": 139.08527
-      },
-      "image": "media/cached-image_61a3d9195835f0fc281ff1ba764ccdb7899571cff69b132fe7e294f516c8a3c2.webp",
-      "images": [
-        {
-          "url": "media/cached-image_61a3d9195835f0fc281ff1ba764ccdb7899571cff69b132fe7e294f516c8a3c2.webp"
-        },
-        {
-          "url": "media/cached-image_b6ee266a3cf9d4047cd20084f8778aece49cc0541a6c9542e3af99879425761d.jpg"
-        }
-      ],
-      "type": "団地/共同住宅",
-      "categories": [
-        "団地/共同住宅"
-      ],
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒368-0026 Saitama, Chichibu, Aioicho, 3−18",
-      "city": "Chichibu",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0046097,139.0851126,3a,75y,103.35h,93.02t/data=!3m7!1e1!3m5!1syERLRKvLyEXc5VV5Ksu-Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0243879740086896%26panoid%3DyERLRKvLyEXc5VV5Ksu-Ew%26yaw%3D103.35424598657502!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The Chichibu post office area buildings that appear as background landmarks, part of the central Chichibu streetscape the production team meticulously reconstructed."
+      "streetViewUrl": "https://www.google.com/maps/@35.9950925,139.0760328,3a,90y,310.11h,98.87t/data=!3m7!1e1!3m5!1sCfPXSX6oq5acn0PdbYBDPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.87457254758769%26panoid%3DCfPXSX6oq5acn0PdbYBDPw%26yaw%3D310.1067030690495!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Chichibu Daiichi Hospital appears in episode 10 as the tense emotional arc nears its resolution, part of the real Chichibu institutional landscape the animators incorporated to keep the setting grounded.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1124,10 +1145,10 @@
         "lat": 36.00081,
         "lng": 139.08479
       },
-      "image": "media/cached-image_95ec7b8c7acf377bea41bdcc72d1cb47e794ae0a7f079ac5bdce42685fd9383f.webp",
+      "image": "https://cdn.animepilgrimage.com/places/f9979bd8-8a51-479c-b43d-68d3347f968a.webp",
       "images": [
         {
-          "url": "media/cached-image_95ec7b8c7acf377bea41bdcc72d1cb47e794ae0a7f079ac5bdce42685fd9383f.webp"
+          "url": "https://cdn.animepilgrimage.com/places/f9979bd8-8a51-479c-b43d-68d3347f968a.webp"
         },
         {
           "url": "media/cached-image_689ccb9f0c21212483002eb4caa0dd7ce4fef504e24b333619ce5fb9ef6a7637.jpg"
@@ -1147,7 +1168,10 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@36.0007228,139.0849219,3a,90y,296.72h,99.61t/data=!3m7!1e1!3m5!1soU7jA_BXj_CYc55ERBvUYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.609585166765669%26panoid%3DoU7jA_BXj_CYc55ERBvUYA%26yaw%3D296.7173943473647!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "One of the central Chichibu storefronts that appears in the show's street scenes, part of the Ekimae commercial district the production mapped for its detailed recreation of the town."
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This clothing store on Sakuragimachi appears in episode 1 as a background streetscape location, part of the Chichibu commercial district the animation team documented in detail to authenticate the show's setting.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1158,10 +1182,10 @@
         "lat": 35.99472,
         "lng": 139.08115
       },
-      "image": "media/cached-image_84875022beae8c0b776c016ae6393ad9b00c58496841e045116ac92a5e4d0467.webp",
+      "image": "https://cdn.animepilgrimage.com/places/f7e37056-2372-44e7-be92-81056faa82fc.webp",
       "images": [
         {
-          "url": "media/cached-image_84875022beae8c0b776c016ae6393ad9b00c58496841e045116ac92a5e4d0467.webp"
+          "url": "https://cdn.animepilgrimage.com/places/f7e37056-2372-44e7-be92-81056faa82fc.webp"
         },
         {
           "url": "media/cached-image_277bfd6197fd5392b7ae1a7919c5a1891cad75be7d9aab813b1372f274b10428.jpg"
@@ -1181,7 +1205,10 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.9946013,139.0811131,3a,75y,34.48h,94.79t/data=!3m7!1e1!3m5!1sCdm7TY81szHfvi5_XOcvAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.790205954427094%26panoid%3DCdm7TY81szHfvi5_XOcvAw%26yaw%3D34.48223412478592!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The clockmaker's shop in Chichibu that features in background street scenes, one of the old-town Chichibu establishments the production team documented on location scouting trips."
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This old-fashioned clock and eyeglass shop on Nakamachi appears in episode 3 as a background street scene, one of the characterful local businesses that give Chichibu's commercial district its distinctive retro personality in the anime.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1192,10 +1219,10 @@
         "lat": 36.0003,
         "lng": 139.08557
       },
-      "image": "media/cached-image_d521fedb45e123810f84134af213b391f4d8093bc2b334ea2fd536bace334514.webp",
+      "image": "https://cdn.animepilgrimage.com/places/f4ea7855-6f7e-4df6-aebc-ee8da55edbd6.webp",
       "images": [
         {
-          "url": "media/cached-image_d521fedb45e123810f84134af213b391f4d8093bc2b334ea2fd536bace334514.webp"
+          "url": "https://cdn.animepilgrimage.com/places/f4ea7855-6f7e-4df6-aebc-ee8da55edbd6.webp"
         },
         {
           "url": "media/cached-image_702f9e034dd12351afe7c694fefd70a252c445234c9eaf060046714b7cb99b6c.jpg"
@@ -1217,7 +1244,11 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0002397,139.0853533,3a,48.7y,80.82h,91.8t/data=!3m7!1e1!3m5!1skyWGBKMghaEvDgq6GWpBrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.801483705715782%26panoid%3DkyWGBKMghaEvDgq6GWpBrg%26yaw%3D80.8172411116153!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@36.0002397,139.0853533,3a,48.7y,80.82h,91.8t/data=!3m7!1e1!3m5!1skyWGBKMghaEvDgq6GWpBrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.801483705715782%26panoid%3DkyWGBKMghaEvDgq6GWpBrg%26yaw%3D80.8172411116153!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small neighborhood park on Miyakawacho is depicted in episode 8 as a quiet outdoor space in the Chichibu town center, reflecting the series' attention to the mundane pockets of the city where its characters drift.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1228,10 +1259,10 @@
         "lat": 36.01279,
         "lng": 139.08856
       },
-      "image": "media/cached-image_da7fdef7e0750d1dc9194bb4de412a882bc46336d52e64fbf5f81495c10432c9.webp",
+      "image": "https://cdn.animepilgrimage.com/places/efe23b79-8e99-4296-b743-6d586281a0e8.webp",
       "images": [
         {
-          "url": "media/cached-image_da7fdef7e0750d1dc9194bb4de412a882bc46336d52e64fbf5f81495c10432c9.webp"
+          "url": "https://cdn.animepilgrimage.com/places/efe23b79-8e99-4296-b743-6d586281a0e8.webp"
         },
         {
           "url": "media/cached-image_fb3e5ba6491f74e948b1330688cde378c58fe52f83db6175fae59fbcf25d6b88.jpg"
@@ -1250,7 +1281,11 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0127088,139.0885061,3a,63.4y,57.3h,92.98t/data=!3m7!1e1!3m5!1snPtzmiWbW_hIAUqKNmDe3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.983758694542118%26panoid%3DnPtzmiWbW_hIAUqKNmDe3A%26yaw%3D57.29869096402623!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@36.0127088,139.0885061,3a,63.4y,57.3h,92.98t/data=!3m7!1e1!3m5!1snPtzmiWbW_hIAUqKNmDe3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.983758694542118%26panoid%3DnPtzmiWbW_hIAUqKNmDe3A%26yaw%3D57.29869096402623!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The area near Chichibu's municipal archery range appears in episode 3 as a background outdoor location, one of the northern Chichibu spots the anime reproduced as the characters move through different parts of the city.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1261,10 +1296,10 @@
         "lat": 35.99293,
         "lng": 139.07998
       },
-      "image": "media/cached-image_08068d590486d49d592cbe9e8aa29d6164de6c6673c4dca61c22f17ba7856223.webp",
+      "image": "https://cdn.animepilgrimage.com/places/eefdbc4b-63cd-435b-92b7-fd978fd58546.webp",
       "images": [
         {
-          "url": "media/cached-image_08068d590486d49d592cbe9e8aa29d6164de6c6673c4dca61c22f17ba7856223.webp"
+          "url": "https://cdn.animepilgrimage.com/places/eefdbc4b-63cd-435b-92b7-fd978fd58546.webp"
         },
         {
           "url": "media/cached-image_4299314411a850ad4e8e8cfc0891c6c22bc9a78bc5d906294d5aa365b6c2c535.jpg"
@@ -1298,7 +1333,11 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9930096,139.0800996,3a,75y,228.76h,93.11t/data=!3m7!1e1!3m5!1sv-RkrbBceuYWH19pJb4U1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.110681228853636%26panoid%3Dv-RkrbBceuYWH19pJb4U1w%26yaw%3D228.7586062446426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.9930096,139.0800996,3a,75y,228.76h,93.11t/data=!3m7!1e1!3m5!1sv-RkrbBceuYWH19pJb4U1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.110681228853636%26panoid%3Dv-RkrbBceuYWH19pJb4U1w%26yaw%3D228.7586062446426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Yao Department Store, the main department store in Chichibu, appears in episode 3 and serves as a recognizable landmark of the city's shopping district. Its prominent building on Kamimachi helped the animators establish geographic continuity in the town's layout.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1309,10 +1348,10 @@
         "lat": 35.99348,
         "lng": 139.08344
       },
-      "image": "media/cached-image_ddac4cfcfc05bc00c332d580d6120e28c80be1af00b4e62d679c5a8ddb136f15.webp",
+      "image": "https://cdn.animepilgrimage.com/places/e0764bde-31f0-4ec7-b9a3-7c66adb7c8c9.webp",
       "images": [
         {
-          "url": "media/cached-image_ddac4cfcfc05bc00c332d580d6120e28c80be1af00b4e62d679c5a8ddb136f15.webp"
+          "url": "https://cdn.animepilgrimage.com/places/e0764bde-31f0-4ec7-b9a3-7c66adb7c8c9.webp"
         },
         {
           "url": "media/cached-image_1bf50a66f2e850daa593775281653c740cbddb16241c1fd777deb29f8bb0ae3f.jpg"
@@ -1361,7 +1400,11 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9933111,139.0835296,3a,75y,350.37h,97.98t/data=!3m7!1e1!3m5!1snEXKg4rUFmjZhaz_aer0Gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.98285129114835%26panoid%3DnEXKg4rUFmjZhaz_aer0Gw%26yaw%3D350.3686549912988!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.9933111,139.0835296,3a,75y,350.37h,97.98t/data=!3m7!1e1!3m5!1snEXKg4rUFmjZhaz_aer0Gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.98285129114835%26panoid%3DnEXKg4rUFmjZhaz_aer0Gw%26yaw%3D350.3686549912988!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This Belc supermarket on Higashimachi appears in episode 7 as a recognizable everyday location in the Chichibu townscape, part of the show's commitment to faithfully representing the city's southern commercial streets.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1372,10 +1415,10 @@
         "lat": 36.00621,
         "lng": 139.08517
       },
-      "image": "media/cached-image_a0bc8c40f8e283d57e1f33b3f17fccd1092e4cbcbae215cd70f52ec7b6657576.webp",
+      "image": "https://cdn.animepilgrimage.com/places/d567eb29-e078-4c17-a0bf-0acbe073ab33.webp",
       "images": [
         {
-          "url": "media/cached-image_a0bc8c40f8e283d57e1f33b3f17fccd1092e4cbcbae215cd70f52ec7b6657576.webp"
+          "url": "https://cdn.animepilgrimage.com/places/d567eb29-e078-4c17-a0bf-0acbe073ab33.webp"
         },
         {
           "url": "media/cached-image_c90f42ea178b183ec57168dc6e9af52d4fb6a70f806a24aa74c4c63f3f886d64.jpg"
@@ -1406,7 +1449,85 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.0062817,139.0852559,3a,90y,241.92h,89.52t/data=!3m7!1e1!3m5!1sBqxplMp7fWJNeRnpWFRZWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.48137031895758753%26panoid%3DBqxplMp7fWJNeRnpWFRZWA%26yaw%3D241.92463436913562!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@36.0062817,139.0852559,3a,90y,241.92h,89.52t/data=!3m7!1e1!3m5!1sBqxplMp7fWJNeRnpWFRZWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.48137031895758753%26panoid%3DBqxplMp7fWJNeRnpWFRZWA%26yaw%3D241.92463436913562!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Keyaki Park sits directly behind Jorin-ji temple and appears in episode 9 as the park bench where Jintan sits, a quiet spot that connects to the Jorin-ji grounds where the Super Peace Busters spent their childhood. Fans often visit both spots together on the pilgrimage walk.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMyvmhUHJHmARzUcQz15UNKk",
+      "name": "Chichibu Aioicho Postal Housing",
+      "localName": "秩父市相生町郵政宿舎",
+      "coordinates": {
+        "lat": 36.00457,
+        "lng": 139.08527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1482a4c-a121-4b24-a18f-dcb49df1cb14.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1482a4c-a121-4b24-a18f-dcb49df1cb14.webp"
+        },
+        {
+          "url": "media/cached-image_b6ee266a3cf9d4047cd20084f8778aece49cc0541a6c9542e3af99879425761d.jpg"
+        }
+      ],
+      "type": "団地/共同住宅",
+      "categories": [
+        "団地/共同住宅"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0026 Saitama, Chichibu, Aioicho, 3−18",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0046097,139.0851126,3a,75y,103.35h,93.02t/data=!3m7!1e1!3m5!1syERLRKvLyEXc5VV5Ksu-Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0243879740086896%26panoid%3DyERLRKvLyEXc5VV5Ksu-Ew%26yaw%3D103.35424598657502!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This postal housing block in Aioicho appears in episode 7 as a residential background location, part of the quiet Chichibu neighborhood streets that give the series its sense of an ordinary town carrying extraordinary grief.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfQ--_HjJHmARPZX-aPMW25o",
+      "name": "asaka chouchin ten",
+      "localName": "浅賀ちょうちん店",
+      "coordinates": {
+        "lat": 35.99952,
+        "lng": 139.08407
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cab1d499-c7b8-4963-8d8a-39c78685044b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cab1d499-c7b8-4963-8d8a-39c78685044b.webp"
+        },
+        {
+          "url": "media/cached-image_4ff6a8dad61363ba24780ddc20b0aafff33a97b010b7a65fbc086ecbaaefa8e8.jpg"
+        }
+      ],
+      "type": "工芸品店",
+      "categories": [
+        "工芸品店"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒368-0046 Saitama, Chichibu, Miyakawacho, 20−18",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9997347,139.0841162,3a,51y,183h,96.33t/data=!3m7!1e1!3m5!1sggtJI2oTIXNsZF3Vecxh_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.32540264882779%26panoid%3DggtJI2oTIXNsZF3Vecxh_A%26yaw%3D183.00058040419373!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional paper lantern craft shop on Miyakawacho appears in episode 1, its handmade goods a fitting visual note in an anime set against the backdrop of Chichibu's festival culture and the lantern-lit memory of Menma.",
+      "fanTopPick": false
     }
   ]
 }

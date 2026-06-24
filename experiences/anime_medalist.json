@@ -1,0 +1,597 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Medalist",
+  "slug": "medalist",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1a343be357d58d83b307a3864638bbf2780d18ca924c64985d271e1837f8dfeb.webp",
+  "image": "media/cached-image_1a343be357d58d83b307a3864638bbf2780d18ca924c64985d271e1837f8dfeb.webp",
+  "banner": null,
+  "primaryLocation": "Aichi, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.192915680000006,
+    "lng": 137.16887392
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Medalist"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJaWrg9zJ3A2AR5qr-wYKfhqc",
+      "name": "Osu-kannon Donguri Hiroba",
+      "localName": "大須観音どんぐりひろば",
+      "coordinates": {
+        "lat": 35.1604734,
+        "lng": 136.9004177
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df3f64a2-f5ff-4956-a6c4-7173dc5ba257.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df3f64a2-f5ff-4956-a6c4-7173dc5ba257.webp"
+        },
+        {
+          "url": "media/cached-image_a9f8532f277593434f16580fb188157466f7117898dc56aa17ec6e94510ffe2e.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osu-kannon Donguri Hiroba, 2 Chome-13-3 Osu, Naka Ward, Nagoya, Aichi 460-0011, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1605855,136.9005129,3a,75y,259.03h,103.99t/data=!3m7!1e1!3m5!1sNhSywJFUxgoK-sOvmaoOXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.991115095503645%26panoid%3DNhSywJFUxgoK-sOvmaoOXg%26yaw%3D259.0323527136907!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small park near Osu Kannon appears in episode 3 as part of the local Osu neighborhood backdrop where Tsukasa and Himuro's daily lives unfold between training sessions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz8Feu9NeGGAREMNEJmmBfTQ",
+      "name": "KOSE Shin Yokohama Skate Center",
+      "localName": "KOSÉ新横浜スケートセンター",
+      "coordinates": {
+        "lat": 35.507757999999995,
+        "lng": 139.6125242
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d0995c0-f8f8-4f03-82bc-24a7ae5e68e9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d0995c0-f8f8-4f03-82bc-24a7ae5e68e9.webp"
+        },
+        {
+          "url": "media/cached-image_f817e2f05c73ad556fe5432c670feba692b968bde4194145804a1b9a06fba035.jpg"
+        },
+        {
+          "url": "media/cached-image_c129c417bbd230c91016c745a32026c0411b6d5814f998ad83da31f1067e01b3.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 4.1,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "KOSE Shin Yokohama Skate Center, スケートセンタ 2階 2 Chome-１１-11 Shinyokohama, Kohoku Ward, Yokohama, Kanagawa 222-0033, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/KOSE+Shin+Yokohama+Skate+Center/@35.5080087,139.6121986,2a,90y,218.2h,94.6t/data=!3m8!1e1!3m6!1s7FD7ENJrht5s_YBUjNx6pQ!2e0!3e11!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.598320612227226%26panoid%3D7FD7ENJrht5s_YBUjNx6pQ%26yaw%3D218.19629318196462!7i13312!8i6656!4m9!3m8!1s0x60185ed3bb5ec1cf:0x347d81692644c310!8m2!3d35.507758!4d139.6125242!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tqg094p?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This major Yokohama ice arena is the venue for the competition in episode 6, where Tsukasa takes part in her first significant competitive skate and Himuro sees how far she has come.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9MfcDRaGGARZxa3VmmA6cY",
+      "name": "Yokohama-Shindo Rd",
+      "localName": "横浜新道",
+      "coordinates": {
+        "lat": 35.442003899999996,
+        "lng": 139.579879
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e074538a-eb05-4e35-a680-c0be3a6766ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e074538a-eb05-4e35-a680-c0be3a6766ff.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yokohama-Shindo Rd, Yokohama, Kanagawa, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4705601,139.5934805,3a,75y,224.58h,96.28t/data=!3m7!1e1!3m5!1sP3Sl12qzVjDL7qmdIoDeVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.283031785766454%26panoid%3DP3Sl12qzVjDL7qmdIoDeVQ%26yaw%3D224.58326225493082!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This Yokohama road is shown in episode 6 during the travel sequence to the competition venue, forming part of the real-world geography the characters navigate on their way to the KOSE Shin Yokohama Skate Center."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8Xwh8Bw8AWAR1QT6S3KpEho",
+      "name": "Kizu Station",
+      "localName": "木津駅",
+      "coordinates": {
+        "lat": 34.7359771,
+        "lng": 135.8249266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50490d39-416d-4a73-b037-3893ca4069db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50490d39-416d-4a73-b037-3893ca4069db.webp"
+        },
+        {
+          "url": "media/cached-image_28ab4dce0542437d98b73009a6524c147a100f4a77db34a5660795b6aba2cd9c.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kizu Station, Ikeda Kizu, Kizugawa, Kyoto 619-0214, Japan",
+      "city": "Kizugawa",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7364489,135.8241719,3a,73.9y,128.68h,97.6t/data=!3m7!1e1!3m5!1sqXVnaNn16SKbd82S4ChBpw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.596122830198738%26panoid%3DqXVnaNn16SKbd82S4ChBpw%26yaw%3D128.67881705217857!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kizu Station in Kyoto Prefecture appears in episode 8 as the arrival point for Tsukasa and Himuro when they travel to the Kinoshita Academy Kyoto Ice Arena, marking a new stage in her competitive journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzx5AKhMRAWARJNPu7CSfPLg",
+      "name": "Kinoshita Academy Kyoto Ice Arena",
+      "localName": "木下アカデミー京都アイスアリーナ",
+      "coordinates": {
+        "lat": 34.8750998,
+        "lng": 135.8068955
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3c96174-5b4d-4e8e-ac82-9b1bc7ee6d10.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3c96174-5b4d-4e8e-ac82-9b1bc7ee6d10.webp"
+        },
+        {
+          "url": "media/cached-image_f365b053579e358b5ec87171087449f377d4f63eedec631da525dad32c184d8c.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kinoshita Academy Kyoto Ice Arena, Orii-24 Uji, Kyoto 611-0024, Japan",
+      "city": "Uji",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kinoshita+Academy+Kyoto+Ice+Arena/@34.8759913,135.8054789,3a,90y,328h,94.64t/data=!3m8!1e1!3m6!1sAF1QipPLJQqSJXbCU7PYjJ1S57L20M65vnY6hxicRbjN!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPLJQqSJXbCU7PYjJ1S57L20M65vnY6hxicRbjN%3Dw900-h600-k-no-pi-4.638209706113059-ya10.047198573773642-ro0-fo100!7i6720!8i3360!4m9!3m8!1s0x600111132a401ecf:0xb83c9f24eceed324!8m2!3d34.8750998!4d135.8068955!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11fpgrs87l?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This real Kyoto ice arena appears in episode 8 as a competition and training venue, where Tsukasa faces higher-level rivals and pushes her skating to a new level under Himuro's guidance.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_medalist_5",
+      "name": "Uji Station",
+      "localName": "宇治駅",
+      "coordinates": {
+        "lat": 34.89036,
+        "lng": 135.80101
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf55877f-0461-4a7a-9904-f248c3028bbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf55877f-0461-4a7a-9904-f248c3028bbf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8901832,135.8010629,3a,49.6y,349.44h,92.51t/data=!3m7!1e1!3m5!1se7z3VV-LhkJ6TkiqQ04pGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.51159609942178%26panoid%3De7z3VV-LhkJ6TkiqQ04pGQ%26yaw%3D349.43620691557953!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Uji Station appears in episode 9 as the transit point connecting the characters to the Kinoshita Academy arena area, shown as part of the travel montage through the Kyoto region."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHwdO0zx5A2ARpmSA3aFM41k",
+      "name": "LaLaport Nagoya Water Bus Stop",
+      "localName": "クルーズ名古屋みなとアクルス乗船場",
+      "coordinates": {
+        "lat": 35.1077164,
+        "lng": 136.8821111
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d0b2474-fc72-48a1-afee-3d3355962e79.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d0b2474-fc72-48a1-afee-3d3355962e79.webp"
+        },
+        {
+          "url": "media/cached-image_710c5a71e312b43569d6da28e40075274d46732522662de65af3577a3b668eca.jpg"
+        }
+      ],
+      "type": "Ferry service",
+      "categories": [
+        "Ferry service"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒455-0015 Aichi, Nagoya, Minato Ward, Komei, 2 Chome−3−2 LaLaport Nagoya Water Bus Stop, ららぽーと名古屋みなとアクルス南",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.107503,136.8826003,3a,90y,287.87h,83.47t/data=!3m8!1e1!3m6!1sAF1QipMpb9II8tbxNjoLLwb395GHQ4y1HNHTyJrU6U7f!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMpb9II8tbxNjoLLwb395GHQ4y1HNHTyJrU6U7f%3Dw900-h600-k-no-pi6.529953525830052-ya114.96337259199439-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This waterfront location near LaLaport Nagoya appears in episode 10 as a backdrop for a character moment between Tsukasa and Himuro, set against the Nagoya harbor scenery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI2jh8jN3A2ARIFjP5KbWUFo",
+      "name": "Komeda Coffee Osu Skating Rink Shop",
+      "localName": "コメダ珈琲店 大須スケートリンク店",
+      "coordinates": {
+        "lat": 35.157660899999996,
+        "lng": 136.8988229
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3711db85-022e-4366-ad52-d84c926f1985.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3711db85-022e-4366-ad52-d84c926f1985.webp"
+        },
+        {
+          "url": "media/cached-image_39d4313cde60620424c00e98711a8e0e061a8d061b8d91752e533b604e1d19eb.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Komeda Coffee Osu Skating Rink Shop, Urbania Ohsu, １階 1-60 Monzencho, Naka Ward, Nagoya, Aichi 460-0018, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1575985,136.8985972,3a,42.2y,87.68h,91.02t/data=!3m7!1e1!3m5!1shIfwEs2Na6Grgtnwq6KzRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.019095960673937%26panoid%3DhIfwEs2Na6Grgtnwq6KzRA%26yaw%3D87.67770908462568!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This Komeda Coffee branch next to the Osu skating rink appears in episode 10 as a spot where characters meet off the ice, reflecting the tight-knit Osu neighborhood community around the rink."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK7MV1DLlAWAR0CMCI6qGx2M",
+      "name": "New Sunpia Tsuruga Ice Arena",
+      "localName": "ニューサンピア敦賀",
+      "coordinates": {
+        "lat": 35.637482399999996,
+        "lng": 136.0563982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0330303b-a0da-4595-966e-9f83ed695f8b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0330303b-a0da-4595-966e-9f83ed695f8b.webp"
+        },
+        {
+          "url": "media/cached-image_0217d38bc68457c4767457def0de2c728fb4bc61f766f423f89e81f5dea8578a.jpg"
+        },
+        {
+          "url": "media/cached-image_a67a8d730a2e930b0528cc344d9c1d5e826a4092b23a44b55b7c484f59b855e6.jpg"
+        },
+        {
+          "url": "media/cached-image_d423d87a5370cf40fda7a05af5b85ba753e18b4e592e9d558f0c8d58035f117e.jpg"
+        },
+        {
+          "url": "media/cached-image_1a7316f2a7e25104bac6992c01cb5cd366822bbcf2704b15bd6053cca080204a.jpg"
+        },
+        {
+          "url": "media/cached-image_45a0e100288d6f579f2bc1f89ac3adb9f08baccfb2cbce264d09734ec52f2191.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "New Sunpia Tsuruga, 1-2番地 Kurehacho, Tsuruga, Fukui 914-0813, Japan",
+      "city": "Tsuruga",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.637004,136.0556619,3a,75y,5.53h,99.5t/data=!3m7!1e1!3m5!1s5Qe8rqjIPL0NB4hIlnQPTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.498089897434284%26panoid%3D5Qe8rqjIPL0NB4hIlnQPTA%26yaw%3D5.525581167079128!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Fukui ice arena hosts the competition in episode 11, one of the pivotal tournament stages where Tsukasa skates under pressure and the bond between her and Himuro deepens.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6yrc9CMGGARH6diq4aOJwo",
+      "name": "Shinjuku Expressway Bus Terminal",
+      "localName": "バスタ新宿",
+      "coordinates": {
+        "lat": 35.688222,
+        "lng": 139.7008956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c139dc80-2544-4924-872e-59384841bd8f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c139dc80-2544-4924-872e-59384841bd8f.webp"
+        },
+        {
+          "url": "media/cached-image_1483fecb2a23ed84accb47d3805b4ad5fb682554f7655816e2228081f370196b.jpg"
+        }
+      ],
+      "type": "バスターミナル",
+      "categories": [
+        "バスターミナル"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0051 Tokyo, Shibuya, 千駄ヶ谷５丁目２４, 55",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.688222,139.7008956,2a,90y,219.89h,100.2t/data=!3m6!1e1!3m4!1sHLGPksJ1Q-jk59q8O8CyEg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Basta Shinjuku appears in episode 6 as the bus terminal Tsukasa and Himuro use to travel to the Yokohama competition, a quiet travel scene that underscores how seriously they are pursuing her skating career."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhcXX8jN3A2ARb7-7pVIeB4w",
+      "name": "Nagoya Sports Center",
+      "localName": "大須スケートリンク（名古屋スポーツセンター）",
+      "coordinates": {
+        "lat": 35.1575219,
+        "lng": 136.8991237
+      },
+      "image": "https://cdn.animepilgrimage.com/places/562e4d93-45e7-4db8-be49-19e0e4b340f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/562e4d93-45e7-4db8-be49-19e0e4b340f7.webp"
+        },
+        {
+          "url": "media/cached-image_b43a8c1efaf4a27dbd9d93f7dfaa9d574fdfb23684844ebd68a797c5b8d5bd0d.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagoya Sports Center, 1-60 Monzencho, Naka Ward, Nagoya, Aichi 460-0018, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1576812,136.8985905,3a,75y,69.97h,98.74t/data=!3m7!1e1!3m5!1srZr8ff9XvrF99r9ePgDENw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.737200842929724%26panoid%3DrZr8ff9XvrF99r9ePgDENw%26yaw%3D69.96614462431972!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Osu skating rink is where Tsukasa Aoyama first steps onto the ice in episode 1, the defining moment that ignites her dream of becoming a figure skater. Coach Himuro watches her skate here for the first time, recognizing her raw potential.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr3HDSzJ3A2AR6Pctdr3J-yc",
+      "name": "Osu Kannon (Kitanosan Shinpuku-ji Hoshoin)",
+      "localName": "大須観音",
+      "coordinates": {
+        "lat": 35.159689199999995,
+        "lng": 136.8994186
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e461accb-d187-40a1-8f5f-312d7f459d81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e461accb-d187-40a1-8f5f-312d7f459d81.webp"
+        },
+        {
+          "url": "media/cached-image_ef6e7a6198c8bff10bec1b232c41e61df50f0b4a29e2339e962740334deb3627.jpg"
+        },
+        {
+          "url": "media/cached-image_d2ee0389d8fd6182d7e356e339f499e43691b4535d2ca0e27c7dec83ae4d0c50.jpg"
+        },
+        {
+          "url": "media/cached-image_bf9a31a088106ff8f154577f623d8763065866d922ec0956c65b69f231a6cfbd.jpg"
+        },
+        {
+          "url": "media/cached-image_46255537c242a487d8c6c131e12f28094633c8ca0a09dab328d23dc0be60a18b.jpg"
+        },
+        {
+          "url": "media/cached-image_1ce73cae60481c3e82dd2588ec6c804ee5757d61c91f84b9891bfdc1c91a1388.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 12179,
+      "priceLevel": null,
+      "address": "Osu Kannon, 2 Chome-21-47 Osu, Naka Ward, Nagoya, Aichi 460-0011, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1595065,136.8990875,3a,75y,253.2h,97.91t/data=!3m7!1e1!3m5!1sRPIflpGJj2SwGV7BfTW_pQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.91098410556576%26panoid%3DRPIflpGJj2SwGV7BfTW_pQ%26yaw%3D253.19849088778236!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tsukasa passes by this iconic Nagoya temple in the opening episodes as part of her everyday Osu neighborhood life, grounding the story in the real streets surrounding the skating rink."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoxU74JV5A2ARattTYYszCSA",
+      "name": "Minato Kuyakusho Station",
+      "localName": "港区役所駅",
+      "coordinates": {
+        "lat": 35.106080999999996,
+        "lng": 136.8848078
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7b9e4e4-c8ff-429b-8b5f-9a7673a69653.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7b9e4e4-c8ff-429b-8b5f-9a7673a69653.webp"
+        },
+        {
+          "url": "media/cached-image_8ee3db53eaf355f8c7a87843f557ebcfa08745f127cec39b42f81f03e05ecd61.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Minato Kuyakusho Station, Aichi, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1059579,136.8842995,3a,63.4y,331.86h,95.65t/data=!3m7!1e1!3m5!1smc2s3y6LLt0v-iHsa3FRxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.651016019475563%26panoid%3Dmc2s3y6LLt0v-iHsa3FRxw%26yaw%3D331.8628553494388!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This subway station near Minato Ward appears in episode 2 as the transit point Tsukasa uses to reach the nearby ice facility, capturing her daily commute as a young aspiring skater."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLbByNr55A2AREhl0zL--qRM",
+      "name": "Howa Sportsland",
+      "localName": "邦和みなと スポーツ＆カルチャー【複合施設】",
+      "coordinates": {
+        "lat": 35.106478599999996,
+        "lng": 136.8817727
+      },
+      "image": "https://cdn.animepilgrimage.com/places/432e10c0-316b-427c-88f9-57d1f02a9497.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/432e10c0-316b-427c-88f9-57d1f02a9497.webp"
+        },
+        {
+          "url": "media/cached-image_8f037ee96801206b1e644a14d9bf913d924cf6b01e7c6222d3058602cfa9da11.jpg"
+        },
+        {
+          "url": "media/cached-image_e84cce326c6220ea210cbba0b8e4b3f8f44ddd23a9edded0c5bbfec18b0f564d.jpg"
+        },
+        {
+          "url": "media/cached-image_bb09904b6342ae777c18bf23a77b6b99accce60e462f1616357c839c81059d3b.jpg"
+        },
+        {
+          "url": "media/cached-image_9cfb0200ce6add3cd9e42eea3531db49007f7757eca26e5937e1d6d4caa97894.jpg"
+        },
+        {
+          "url": "media/cached-image_63e0177a075c60e6d57c5e1a71f93edf58555805f8ab66ab68b039c195126f0b.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 3.9,
+      "reviewCount": 365,
+      "priceLevel": null,
+      "address": "Howa Sportsland, 1 Chome-8-23 Koei, Minato Ward, Nagoya, Aichi 455-0015, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1063233,136.8817598,3a,75y,83.46h,94.72t/data=!3m7!1e1!3m5!1sy4ZXakTQ_FMuhBa83Jy93Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.719337456385361%26panoid%3Dy4ZXakTQ_FMuhBa83Jy93Q%26yaw%3D83.45958151095736!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Howa Sportsland (Minato Ward) serves as one of the practice ice facilities Tsukasa uses early in the series, shown in episode 2 as part of her determination to keep skating despite limited resources."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL0-x4MxwA2AR1uBf2f7dwyA",
+      "name": "Uramonzen Park",
+      "localName": "裏門前公園",
+      "coordinates": {
+        "lat": 35.1612106,
+        "lng": 136.9041052
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d250aed-f230-42da-8ff4-1257e661dd4a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d250aed-f230-42da-8ff4-1257e661dd4a.webp"
+        },
+        {
+          "url": "media/cached-image_bc02f31c3208433d9f7ecb00df2d9861936d44809bb220f24e10f3fa4652d476.jpg"
+        },
+        {
+          "url": "media/cached-image_8810581292bb213530c7a26836e1e59ddb4d50c5e3af3d846bc26807c8bb8772.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": 7,
+      "priceLevel": null,
+      "address": "Uramonzen Park, 3 Chome-3 Osu, Naka Ward, Nagoya, Aichi 460-0011, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1614254,136.90423,3a,62.6y,232.07h,94.29t/data=!3m7!1e1!3m5!1sxnkdOA0JvIahD2AfJnZoZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.293294781725066%26panoid%3DxnkdOA0JvIahD2AfJnZoZA%26yaw%3D232.06796174844015!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small Osu neighborhood park appears in episode 3 as part of the local streets Tsukasa walks daily, reinforcing how deeply the Osu district is woven into her skating journey."
+    }
+  ]
+}

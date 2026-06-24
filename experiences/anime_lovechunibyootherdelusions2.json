@@ -1,0 +1,1727 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Love, Chunibyo & Other Delusions: Heart Throb",
+  "slug": "love-chunibyo-other-delusions-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_2de3f7df58aa5af5c4f3ce9cab984a036db89f9e0aa80f5e131b22fab66996b2.webp",
+  "image": "media/cached-image_2de3f7df58aa5af5c4f3ce9cab984a036db89f9e0aa80f5e131b22fab66996b2.webp",
+  "banner": null,
+  "primaryLocation": "Shiga, Japan",
+  "primaryLocationCoords": {
+    "lat": 33.94885379791667,
+    "lng": 134.09248950833333
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Love, Chunibyo & Other Delusions: Heart Throb"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJHXPkToxtAWARtFAWrlRqL7Y",
+      "name": "Karahashi Park",
+      "localName": "唐橋公園",
+      "coordinates": {
+        "lat": 34.9766815,
+        "lng": 135.9082837
+      },
+      "image": "https://cdn.animepilgrimage.com/places/549778cb-6826-4247-94c3-5d2265364a98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/549778cb-6826-4247-94c3-5d2265364a98.webp"
+        },
+        {
+          "url": "media/cached-image_6b55b6ad6169416afb689a1fd63429174c2e31767ddb716b521aa26cdd58135c.jpg"
+        },
+        {
+          "url": "media/cached-image_52a00db91e0098874852a2af71fcd438282911675929d6e60632d62338bdb955.jpg"
+        },
+        {
+          "url": "media/cached-image_d6328f9de99c197f507485368963fe73af6163aacaf62007f997e99a6c38a3e6.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Karahashi Park, 1 Chome-27 Seta, Otsu, Shiga 520-2134, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9760889,135.9086671,3a,48.7y,276.17h,93.7t/data=!3m7!1e1!3m5!1smkoksqE1crrctFoiq_r9Rg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6988723125675733%26panoid%3DmkoksqE1crrctFoiq_r9Rg%26yaw%3D276.16508434090997!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This park along the Seta River doubles as the neighborhood backdrop near Rikka and Yuuta's apartment complex, appearing in the opening animation with its distinctive bridge silhouette. Fans visit to recreate the calm riverside shots that frame Rikka's daily commute.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-6EttEwcAWAR8eB_Y35eQlw",
+      "name": "Hirakata Park",
+      "localName": "ひらかたパーク",
+      "coordinates": {
+        "lat": 34.8059896,
+        "lng": 135.6392002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/504c9266-e7cb-4a77-9d87-cc9f2e35b03e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/504c9266-e7cb-4a77-9d87-cc9f2e35b03e.webp"
+        },
+        {
+          "url": "media/cached-image_e86b82758912829ab99be0e4759d0fead1cba0f864cb517fbded70992cbb9d21.jpg"
+        },
+        {
+          "url": "media/cached-image_c0bc1935c8530d1e27b7c495771407e3561fc0db0068740c12b7b78e18ff2837.jpg"
+        },
+        {
+          "url": "media/cached-image_df5e8d5eba3daf373ae314fecdf8cf3c186ffb59c6b37577b8fb3feffd112883.jpg"
+        },
+        {
+          "url": "media/cached-image_7f108779268867f923dfc3d8dede2057de70ad168e8318d13af5f046669e36a8.jpg"
+        },
+        {
+          "url": "media/cached-image_1c045f8d55d2ddd5298531c4f8de179564f448506c29dde632144955e65f7499.jpg"
+        }
+      ],
+      "type": "Amusement park",
+      "categories": [
+        "Amusement park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 314,
+      "priceLevel": null,
+      "address": "Hirakata Park, 1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan",
+      "city": "Hirakata",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GcYpebbbmbMFex7E8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The gang visits this amusement park in episode 10 for what becomes an awkward group outing as Yuuta navigates his feelings amid Satone's growing presence. The rollercoaster and festival-game scenes here mark a turning point in the season's romantic tension."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_2",
+      "name": "North Inner Enclosure",
+      "localName": "吉野ヶ里遺跡 北内郭",
+      "coordinates": {
+        "lat": 33.32685,
+        "lng": 130.38631
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8ca0ea0c-78c3-44a0-bf70-38b415dfee03.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8ca0ea0c-78c3-44a0-bf70-38b415dfee03.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/place/North+Inner+Enclosure/@33.3268013,130.3863219,3a,90y,308.95h,81.13t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4wvHxDg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZpjFRJG673qDBaC-A5VAmlJqL1ZcCvo88cKOYxQfUqD1KPl6etdsKfKTsVldSnZ1HEr3bw7U2LqLzuL8QdvTNtEB_DXFEzNJ7-OMtoEElP9Qr8khiUiZ0yKey-9O9hGtV8Y47Z%3Dw900-h600-k-no-pi8.86845495332993-ya174.61830359884675-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x3541b9ff3c98fb5d:0x4fc64cb6508bf2c!8m2!3d33.3268661!4d130.3863403!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1hc2g144p?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This inner ceremonial compound of the Yoshinogari site appears in episode 6 as the dramatic stage for Satone's elaborate fantasy enactment, with its elevated platform and thatched roof giving the scene an otherworldly atmosphere. It is the most-filmed specific structure from the Yoshinogari episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7J84P9dPjUR-BaCQjmJzMs",
+      "name": "Onsen Hotel Nakahara Bessou",
+      "localName": "温泉ホテル中原別荘",
+      "coordinates": {
+        "lat": 31.5928667,
+        "lng": 130.5532417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fb0b04b6-abe4-4571-876c-807e7a197b97.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fb0b04b6-abe4-4571-876c-807e7a197b97.webp"
+        },
+        {
+          "url": "media/cached-image_e47e9427db380ec3ae8eefa6cce207de79ff793521d8624c5ec14ba735b60807.jpg"
+        },
+        {
+          "url": "media/cached-image_11bf7fb1493f0c160fc9a724a72c346a0012f280e732620115c560a0b235ed25.jpg"
+        },
+        {
+          "url": "media/cached-image_091a13165363b062fa2dc31399504f49a012829b1a478af26be3444919dc3734.jpg"
+        },
+        {
+          "url": "media/cached-image_cbc4b8b7e9a3fa6e7527461cc8ce9b936bad28990f90d47be29895d2c0888dd7.jpg"
+        },
+        {
+          "url": "media/cached-image_e99e6d87567d9f0e1a109ebecfbf69ff0d0479dd7ec23d50fcec2ae6d477d1e8.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.7,
+      "reviewCount": 352,
+      "priceLevel": null,
+      "address": "Onsen Hotel Nakahara Bessou, 2F 15-19 Terukunicho, Kagoshima, 892-0841, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5930797,130.5539384,3a,75y,247.84h,104.13t/data=!3m7!1e1!3m5!1s_TgkK_P4G_5GCVWJqNfJpA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.134904253831067%26panoid%3D_TgkK_P4G_5GCVWJqNfJpA%26yaw%3D247.84171272866226!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This Kagoshima inn serves as the model for the hotel where the class stays during the school trip in episode 6, with its distinctive entrance and corridor layout referenced in interior scenes. Fans compare the lobby details as one of the trip arc's confirmed location sources."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF9tf3ABePjUROP58z9iwW2g",
+      "name": "Japan Post Bank Kagoshima Branch",
+      "localName": "ゆうちょ銀行 鹿児島店",
+      "coordinates": {
+        "lat": 31.5946644,
+        "lng": 130.5554722
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04e0ef9d-7ba7-4952-8380-8c6578833a5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04e0ef9d-7ba7-4952-8380-8c6578833a5a.webp"
+        },
+        {
+          "url": "media/cached-image_a1d874a99ca22d798f12f1f6adaeba10c9bae49e0ad81db1c0e4a0b6b4b7397f.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan Post Bank Kagoshima Branch, 3-3 Yamashitacho, Kagoshima, 892-8799, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5945109,130.5547083,3a,90y,108.1h,109.39t/data=!3m7!1e1!3m5!1suU3icrd9ofPlzk18sRJtTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.38525162603844%26panoid%3DuU3icrd9ofPlzk18sRJtTA%26yaw%3D108.09973117830332!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW32vWKpgPjURchzAaVmH_-E",
+      "name": "Tenmonkan Mujaki",
+      "localName": "天文館むじゃき 本店",
+      "coordinates": {
+        "lat": 31.589237999999998,
+        "lng": 130.555969
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a13e23e1-8ce7-412d-92c6-19a6999f906d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a13e23e1-8ce7-412d-92c6-19a6999f906d.webp"
+        },
+        {
+          "url": "media/cached-image_4e15498db6431bd9a9b8b03c55b6ef13c6e8dff2c937350cb597f5bce20f5bc2.jpg"
+        }
+      ],
+      "type": "Dessert restaurant",
+      "categories": [
+        "Dessert restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tenmonkan Mujaki, 5-8 Sennichicho, Kagoshima, 892-0843, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5892991,130.5560502,3a,90y,230.78h,93.37t/data=!3m7!1e1!3m5!1sH-xPNl6sUYOgUpJ3rNNE4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.37136851555492%26panoid%3DH-xPNl6sUYOgUpJ3rNNE4A%26yaw%3D230.77942492807017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This landmark Kagoshima dessert shop, famous for its shirokuma shaved ice, appears in episode 7 when the class tries Kagoshima's iconic sweet. Rikka's over-the-top reaction to the colorful dessert became a fan-favorite screenshot from the trip arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTzetDJ6OGGAR0KdwKu0sknI",
+      "name": "Statue of Saigo Takamori",
+      "localName": "西郷隆盛像",
+      "coordinates": {
+        "lat": 35.7118642,
+        "lng": 139.7741678
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3955fecd-59db-4633-8e80-87b3622039a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3955fecd-59db-4633-8e80-87b3622039a8.webp"
+        },
+        {
+          "url": "media/cached-image_c1c4e135dbfcdebd31ca7b3f8e29714481f7f513ce930ba136eefd75cacc89bf.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Statue of Saigō, Ueno Park, 7 Chome-7-7 Uenokoen, Taito City, Tokyo 110-0007, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5951403,130.5538133,3a,64.3y,295.83h,109.53t/data=!3m7!1e1!3m5!1s9aDfSPiuQeyJLKHctuMV9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.52676269573169%26panoid%3D9aDfSPiuQeyJLKHctuMV9A%26yaw%3D295.82959368021505!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "In episode 7 Satone drags the group to see this famous Ueno statue during a Tokyo detour, using it as a backdrop for one of her chuunibyou proclamations. The scene highlights her performative side against a recognisable national landmark."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6cuZ-RdPjURn0RJrwC_iIw",
+      "name": "Shiroyama Park Observation Deck",
+      "localName": "城山公園展望台",
+      "coordinates": {
+        "lat": 31.5962422,
+        "lng": 130.5500463
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18c99b34-d65a-436d-843b-8f8b5709e75a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18c99b34-d65a-436d-843b-8f8b5709e75a.webp"
+        },
+        {
+          "url": "media/cached-image_716491cc710c32a5470bea1e38beed2f131ee4a8e9bf4acc4a81459d773a2ee6.jpg"
+        },
+        {
+          "url": "media/cached-image_d37b64ff0248abb53eff293548410743ba27debf3bc6b47857d3329888565d33.jpg"
+        },
+        {
+          "url": "media/cached-image_664a0af025e646902fa01f2439dd47b27f3ccf68afbb52fb0f4d63f2b28e6fcc.jpg"
+        },
+        {
+          "url": "media/cached-image_c1e631ce225f25f1dff735286711c5bf9fc8bece0b021adf6188aebb4a10b34f.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "Shiroyama Park Observation Deck, 22-13 Shiroyamacho, Kagoshima, 892-0853, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5961931,130.5501531,3a,90y,99.28h,96.81t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEmYnbtQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYw3okKjlQaXKyrs_2FDenDEQXm09xGbdEDwxrxFBVqlqi5mIG4-h91X1MX4j315tQzRawQJl5HyiaVXlKSV65Pj0b5pxUBIAdz0OpXH8TRiLQIp_otjQdZ5AS-UQTKjgRA43Lk%3Dw900-h600-k-no-pi-6.8058854974219685-ya2.275396991002964-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "During the class trip to Kagoshima in episode 7, this hilltop observation deck delivers the panoramic view of the city and Sakurajima volcano that Rikka gazes at with characteristic theatricality. The sweeping vista shot is one of the most reproduced comparison photos in Chunibyo pilgrimage reports.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpVU2kB_DGGARJdfVOIM8OaU",
+      "name": "Fujimi City Center",
+      "localName": "富士見市役所",
+      "coordinates": {
+        "lat": 35.8567712,
+        "lng": 139.5490815
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e59a35d3-4268-4d86-aadf-02e143f7b320.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e59a35d3-4268-4d86-aadf-02e143f7b320.webp"
+        },
+        {
+          "url": "media/cached-image_0add3edb160eb8afe3c620ebcecc23e6da0e9e90728c81c7153971ed4d38ca9d.jpg"
+        }
+      ],
+      "type": "City Hall",
+      "categories": [
+        "City Hall"
+      ],
+      "rating": 3.2,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Fujimi City Hall, 1800-1 Tsuruma, Fujimi, Saitama 354-8511, Japan",
+      "city": "Fujimi",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9793769,135.8866971,3a,90y,337.44h,95.8t/data=!3m7!1e1!3m5!1sfTKv1JHnOfgfnlopeZxo6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.803724523926093%26panoid%3DfTKv1JHnOfgfnlopeZxo6g%26yaw%3D337.44111254886894!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_9",
+      "name": "Yoki-yu",
+      "localName": "容輝湯",
+      "coordinates": {
+        "lat": 34.97491,
+        "lng": 135.90014
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9748916,135.8999414,3a,64.3y,83.06h,93.6t/data=!3m7!1e1!3m5!1sPmRTCZ8w0vcg-yx_rJGn-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5992193620348303%26panoid%3DPmRTCZ8w0vcg-yx_rJGn-g%26yaw%3D83.06468687034304!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjZnv608NAWAR9_Q1Gf8kxsc",
+      "name": "Toray Engineering West Japan",
+      "localName": "東レエンジニアリング 西日本",
+      "coordinates": {
+        "lat": 34.9810014,
+        "lng": 135.89395489999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d91b709-9d9f-4914-be7c-24f36a739333.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d91b709-9d9f-4914-be7c-24f36a739333.webp"
+        }
+      ],
+      "type": "Engineering consultant",
+      "categories": [
+        "Engineering consultant"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toray Engineering West Japan, 1 Chome-1-1 Sonoyama, Otsu, Shiga 520-0842, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9790616,135.889679,3a,90y,294.7h,98.98t/data=!3m7!1e1!3m5!1sr29h6jrbkRRE6MD5lGsG2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.980845000390445%26panoid%3Dr29h6jrbkRRE6MD5lGsG2A%26yaw%3D294.69675113882687!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This corporate building in Otsu's Sonoyama district appears in episode 11 as background scenery during a neighborhood walk sequence, its modern facade visible in shots that establish the industrial-residential character of the Seta area. Fans note it as one of several Otsu background buildings confirmed in the episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-fMErlwNAWARkHUbak3SF0k",
+      "name": "Toray Arena",
+      "localName": "東レ アリーナ",
+      "coordinates": {
+        "lat": 34.9767047,
+        "lng": 135.8891913
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76f46c1e-0d9d-449a-b8c6-e81d35cd8145.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76f46c1e-0d9d-449a-b8c6-e81d35cd8145.webp"
+        },
+        {
+          "url": "media/cached-image_79e4a90dadd79886963c64df6dc6cdba056a02ce4edbbfb417e3f921d07d6372.jpg"
+        }
+      ],
+      "type": "Arena",
+      "categories": [
+        "Arena"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toray Arena, 2 Chome-8-1 Sonoyama, Otsu, Shiga 520-0842, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9782107,135.8897265,3a,90y,209.42h,109.27t/data=!3m7!1e1!3m5!1sgscKc4R9QR2XwfEgQbc28A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.272093470330148%26panoid%3DgscKc4R9QR2XwfEgQbc28A%26yaw%3D209.42308518497575!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This sports arena in Otsu near the Seta area appears in episode 11 as a background landmark during outdoor scenes in the characters' neighborhood, its distinctive roofline visible in wider establishing shots. It is one of several Otsu landmarks anchoring the show's real-world geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXdx4CxwGAWARWUbHqiTaF1Q",
+      "name": "Kyoto Aquarium",
+      "localName": "京都水族館",
+      "coordinates": {
+        "lat": 34.987516,
+        "lng": 135.7472123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f8865645-99d1-4a20-8994-48ad9ae9b167.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f8865645-99d1-4a20-8994-48ad9ae9b167.webp"
+        },
+        {
+          "url": "media/cached-image_8c31fd9c77e6861968ffc5fc94dcde2111145a97c2ecf59a99bbcf9b7ab9fde0.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.2,
+      "reviewCount": 57,
+      "priceLevel": null,
+      "address": "Kyoto Aquarium, 梅小路公園, 内, 35-1 Kankijicho, Shimogyo Ward, Kyoto, 600-8835, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zK59ibZaYV6WU9348",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Yuuta takes Rikka on an impromptu outing to this aquarium in episode 2, where she watches the jellyfish display with wide-eyed wonder, momentarily dropping her chuunibyou persona in quiet amazement. The jellyfish tank scene is one of the series' most tender early moments between the two.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_13",
+      "name": "Fujimi Civic Heated Swimming Pool",
+      "localName": "富士見市民温水プール",
+      "coordinates": {
+        "lat": 34.98253,
+        "lng": 135.88515
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7680bbd8-01fa-48a1-906c-0953a2c081bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7680bbd8-01fa-48a1-906c-0953a2c081bd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9822312,135.8850014,3a,49.6y,26.55h,98.07t/data=!3m7!1e1!3m5!1sCFtfDbbagEHuKowTj0-xHw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.071898450949675%26panoid%3DCFtfDbbagEHuKowTj0-xHw%26yaw%3D26.550080228362745!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_14",
+      "name": "Fujimi Civic Heated Swimming Pool",
+      "localName": "富士見市民温水プール",
+      "coordinates": {
+        "lat": 34.98275,
+        "lng": 135.88609
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e8db70cf-f316-4683-b981-fb29ffba1f69.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e8db70cf-f316-4683-b981-fb29ffba1f69.webp"
+        },
+        {
+          "url": "media/cached-image_7928f2e1cd5905340a625fe2ba46d6f2d818268969544e79f7999e165dfe9206.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9830119,135.886307,3a,68.7y,205.28h,97.7t/data=!3m7!1e1!3m5!1sWKMjQ0himKrTKz_5cvKimg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.699099857557584%26panoid%3DWKMjQ0himKrTKz_5cvKimg%26yaw%3D205.2820773204205!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_15",
+      "name": "Fujimi Civic Heated Swimming Pool",
+      "localName": "富士見市民温水プール",
+      "coordinates": {
+        "lat": 34.98237,
+        "lng": 135.8855
+      },
+      "image": "https://cdn.animepilgrimage.com/places/602a4659-5f4b-432d-ade5-63a09e94ae53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/602a4659-5f4b-432d-ade5-63a09e94ae53.webp"
+        },
+        {
+          "url": "media/cached-image_a15ec3fbdbb6d63d7237debcdab952046027fbd19bcd1099b0f958c92912286f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9825017,135.8856098,3a,75y,223.27h,98.65t/data=!3m7!1e1!3m5!1sJ9cgj3vi2Os2xjKeel9VZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.648893827852817%26panoid%3DJ9cgj3vi2Os2xjKeel9VZQ%26yaw%3D223.26713075289294!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_16",
+      "name": "Fujimi Civic Heated Swimming Pool",
+      "localName": "富士見市民温水プール",
+      "coordinates": {
+        "lat": 34.98242,
+        "lng": 135.88574
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aac792e3-6c7b-4090-b4a4-8c852b400567.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aac792e3-6c7b-4090-b4a4-8c852b400567.webp"
+        },
+        {
+          "url": "media/cached-image_7938369be8a751524e183f8110c80edd92bc885e724ca36a2c2bafefe50f9f5c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9824534,135.8855293,3a,35.5y,99.48h,89.3t/data=!3m7!1e1!3m5!1s1j0dX_bR5jGx8qcAJI4MQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7006450621850036%26panoid%3D1j0dX_bR5jGx8qcAJI4MQw%26yaw%3D99.48297799658017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_17",
+      "name": "Zwinger Palace",
+      "localName": "ツヴィンガー宮殿",
+      "coordinates": {
+        "lat": 33.16572,
+        "lng": 129.90827
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8fdf24dd-386b-44a8-9250-11472cca4d00.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8fdf24dd-386b-44a8-9250-11472cca4d00.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@33.1657381,129.908285,3a,90y,0.55h,140.69t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDB2O7nzQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZd_5WhlrvtvVz2FF5fXDs3loSObAUcOhWDKZjUaR-rw2s8uGhGcCRxSb7LvCfKf9OUuXdwvgVmZqGFhVQxCl3orAZHTChHc4ntK5IjGylg867pr6ETk0OiCBTds0AuSQgBEAFH8A%3Dw900-h600-k-no-pi-50.68932645598201-ya3.604746179755068-ro0-fo100!7i10000!8i5000?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_18",
+      "name": "Akanoi-1 Parking lot",
+      "localName": "赤野井-1 駐車場",
+      "coordinates": {
+        "lat": 35.07381,
+        "lng": 135.94586
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9c5e09d-ba98-427e-9506-92d8087033cc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9c5e09d-ba98-427e-9506-92d8087033cc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0735677,135.946297,3a,38.5y,302.99h,90.96t/data=!3m7!1e1!3m5!1szLGL6Pxf2NXk0-wO_F_Zww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9614472396972644%26panoid%3DzLGL6Pxf2NXk0-wO_F_Zww%26yaw%3D302.9909238656754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This lakeside parking area near the Akanoi wetland along Lake Biwa appears in episode 2 as the staging point for Yuuta and Rikka's lakeside walk, with the open water view and reedy shoreline matching shots from the episode. It connects to the Karasuma Peninsula sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ8j-db11AWARPMtR200tOQ4",
+      "name": "Karasuma Takeout Café Reed",
+      "localName": "CAFÉ REED",
+      "coordinates": {
+        "lat": 35.072365399999995,
+        "lng": 135.9346721
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c0cf04e7-9e64-4ba1-9e52-0615db082499.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c0cf04e7-9e64-4ba1-9e52-0615db082499.webp"
+        },
+        {
+          "url": "media/cached-image_05bc6dc54dcbd5576eaacd521a1a3d66096db219937715e82a3b8cb744ee543f.jpg"
+        },
+        {
+          "url": "media/cached-image_cf0365b75b386932d8b52634ab8aa3a1e879605d058cefdf68ecf6e5f1176ba4.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Karasuma Takeout Café Reed, 烏丸半島内 1091 Oroshimocho, Kusatsu, Shiga 525-0001, Japan",
+      "city": "Kusatsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0721537,135.9351091,3a,40y,271.02h,92.62t/data=!3m7!1e1!3m5!1sBd_SHbtN4LoWbIqyJLnc9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.616995097809024%26panoid%3DBd_SHbtN4LoWbIqyJLnc9g%26yaw%3D271.0158054649594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_20",
+      "name": "Koganryokuchitsuda - 1 Kita Parking Lot",
+      "localName": "津田江-１北駐車場",
+      "coordinates": {
+        "lat": 35.06354,
+        "lng": 135.93061
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c1730147-61c9-4fbf-9b09-cce9b16f0cbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c1730147-61c9-4fbf-9b09-cce9b16f0cbf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0634365,135.9306445,3a,78.5y,27.67h,99.69t/data=!3m7!1e1!3m5!1sgQQVRtSoshcuybfZki1KDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.68755885504413%26panoid%3DgQQVRtSoshcuybfZki1KDw%26yaw%3D27.673850104449507!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This car park near the Tsuda Inlet of Lake Biwa appears in episode 2 during the lakeside outing, providing access to the open water and reed-bed scenery filmed for Rikka and Yuuta's walk. It is typically visited as part of the same Lake Biwa pilgrimage route as Karasuma Reed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_21",
+      "name": "Fresh and cheap market! Kohata",
+      "localName": "新鮮激安市場！ 木幡店",
+      "coordinates": {
+        "lat": 34.92601,
+        "lng": 135.79374
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d442cabb-7e91-4e6e-b98b-854f7a99843d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d442cabb-7e91-4e6e-b98b-854f7a99843d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.925938,135.7939614,3a,75y,313.01h,98.51t/data=!3m7!1e1!3m5!1s2xxo_oQFhUSr8NNjie3qvA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.507259529877786%26panoid%3D2xxo_oQFhUSr8NNjie3qvA%26yaw%3D313.00981833830264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_22",
+      "name": "Houseboat Shiki",
+      "localName": "屋形船 四季",
+      "coordinates": {
+        "lat": 34.97803,
+        "lng": 135.90609
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa5c900a-0b30-477f-9400-582a913dcc02.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa5c900a-0b30-477f-9400-582a913dcc02.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9780607,135.9063629,3a,46.4y,270.09h,92.59t/data=!3m7!1e1!3m5!1sfmIZgf4BizXwCpNpoZCsCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.586563171712143%26panoid%3DfmIZgf4BizXwCpNpoZCsCg%26yaw%3D270.08814935599173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional houseboat moored near the Seta River appears in episode 1 as riverside scenery framing an early scene between Rikka and Yuuta near their neighborhood. The distinctive roof silhouette of the boat is matched in fan comparison posts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6ThdKgP3-F8R7Ic_4TV_DTg",
+      "name": "Beniya Mukayu Ryokan",
+      "localName": "べにや無何有",
+      "coordinates": {
+        "lat": 36.288967,
+        "lng": 136.3630854
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5bfc38db-2020-474a-a434-034284d55c12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5bfc38db-2020-474a-a434-034284d55c12.webp"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Beniya Mukayu Ryokan, 55-1-3 Yamashiroonsen, Kaga, Ishikawa 922-0242, Japan",
+      "city": "Kaga",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9792725,135.9019605,3a,75y,44.69h,95.39t/data=!3m7!1e1!3m5!1sLQd_FUw9gYruzD3WlpcyQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.391056782383558%26panoid%3DLQd_FUw9gYruzD3WlpcyQg%26yaw%3D44.69323558581921!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This high-end ryokan in Yamanaka Onsen, Ishikawa is referenced as the visual model for the inn setting in episode 1 where a brief fantasy sequence is staged, its elegant garden corridor appearing in background details. Dedicated pilgrims include it in Season 2 location guides."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_24",
+      "name": "Houseboat Shiki",
+      "localName": "屋形船 四季",
+      "coordinates": {
+        "lat": 34.97803,
+        "lng": 135.90673
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c4b428c-deb1-4f1a-a264-b9c2f00ab224.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c4b428c-deb1-4f1a-a264-b9c2f00ab224.webp"
+        },
+        {
+          "url": "media/cached-image_722f3b8c86983df2276d3bd685fd7af26ccdc8319ff016d3abc30a38dc659c7f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9775957,135.9069404,3a,90y,350.03h,104.19t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC9pqXwtwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HalgLehr1RNcYjJXY_pGiMV9sUMXf0vEt2X9rNovtuFmzkcULXe0VyPtenP4GFObI270CPKR5aFbDBbbso-A1wuZ_ZkJ87VuhF6UfaHtqNCbKv8m3LgP1aKI1_YMju_da0uwqF64w%3Dw900-h600-k-no-pi-14.192829582437042-ya15.224949717361824-ro0-fo100!7i5760!8i2880?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional houseboat moored near the Seta River appears in episode 1 as riverside scenery framing an early scene between Rikka and Yuuta near their neighborhood. The distinctive roof silhouette of the boat is matched in fan comparison posts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQe_WRroPAWARu8jAR07mIyY",
+      "name": "UR Momoyama Minami",
+      "localName": "UR 桃山南団地",
+      "coordinates": {
+        "lat": 34.92449,
+        "lng": 135.7890184
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71760edd-76b8-4df3-8782-4c420376f05a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71760edd-76b8-4df3-8782-4c420376f05a.webp"
+        },
+        {
+          "url": "media/cached-image_0d4c594ced761287aebf403a1fce403c3aea2b33cc950e6162bbf40a9ff43ad8.jpg"
+        }
+      ],
+      "type": "Apartment complex",
+      "categories": [
+        "Apartment complex"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒612-8006 Kyoto, Fushimi Ward, Momoyamacho Oshima, UR 桃山南団地 ２１",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9241356,135.7868939,3a,76y,139.4h,94.36t/data=!3m7!1e1!3m5!1sn_-c4d3lVcKglrR8E9z0bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.359179536854654%26panoid%3Dn_-c4d3lVcKglrR8E9z0bg%26yaw%3D139.40478124449479!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This apartment complex in Fushimi, Kyoto serves as the reference model for the residential building where Rikka's family connection in Kyoto is shown in episode 2, its concrete block facade and walkways appearing in establishing shots. Local fans include it in Kyoto-route pilgrimage guides."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4_MLwFMNAWARRttFGeoRhxE",
+      "name": "McDonald's Ishiyama Station",
+      "localName": "マクドナルド 石山駅前店",
+      "coordinates": {
+        "lat": 34.9791786,
+        "lng": 135.90038529999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e2492005-0ad5-468c-abac-54d0383a250a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e2492005-0ad5-468c-abac-54d0383a250a.webp"
+        },
+        {
+          "url": "media/cached-image_5383fd634073fba0c0ffc06ef3f73f10c95239fd42d9dce23f5c90e36e21c6c7.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's Ishiyama Station, 9-1 Awazucho, Otsu, Shiga 520-0832, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9793086,135.900354,3a,90y,160.92h,96.96t/data=!3m7!1e1!3m5!1sAJVw1c-IcSiWFl7sQH9u4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.96273847337352%26panoid%3DAJVw1c-IcSiWFl7sQH9u4Q%26yaw%3D160.92011230266326!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Yuuta and Rikka stop at this fast food restaurant near Ishiyama Station in episode 4, providing a mundane contrast to Rikka's elaborate chuunibyou worldview as she insists on ordering with dramatic flair. The exterior and interior angles match closely enough that fans document it as a confirmed shooting reference."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF0mGgf8QUTURcPAsI7h4Y-Q",
+      "name": "FamilyMart Tamanoura",
+      "localName": "ファミリーマート 福山野上町店",
+      "coordinates": {
+        "lat": 34.4780067,
+        "lng": 133.36578509999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4fa10f56-ed73-4d5c-a0e2-b10c572e98db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4fa10f56-ed73-4d5c-a0e2-b10c572e98db.webp"
+        },
+        {
+          "url": "media/cached-image_910f0cfce4b43f3706bf61fa05726b985ea19d5f591193bc4f0d05e4be5da2f4.jpg"
+        },
+        {
+          "url": "media/cached-image_93cb0c13b2d7b896c5ad5f1de016dff4b69aa514ebebb5c49317fde770a1ed66.jpg"
+        },
+        {
+          "url": "media/cached-image_3c8ce7784395a2a65635de0f88f31eb3916c778d4a968af35496e5a6495d98f0.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "FamilyMart; Fukuyama Nogamicho, 2 Chome-7-4 Nogamicho, Fukuyama, Hiroshima 720-0815, Japan",
+      "city": "Fukuyama",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9826089,135.9085832,3a,39.2y,288.97h,91.88t/data=!3m7!1e1!3m5!1s1WxkSWKn285ADvmYn35VEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8815472906356234%26panoid%3D1WxkSWKn285ADvmYn35VEQ%26yaw%3D288.9677866927057!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk4JphpvgA2ARARECQJTOOEQ",
+      "name": "Kaigake Elementary School",
+      "localName": "しゃくなげ学校(旧鎌掛小学校)",
+      "coordinates": {
+        "lat": 34.9888042,
+        "lng": 136.259911
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e1c96e83-3c3d-4749-83a0-8731b84729cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e1c96e83-3c3d-4749-83a0-8731b84729cf.webp"
+        },
+        {
+          "url": "media/cached-image_a47894a88ed95a15d8931aa4c53d6f280d409ac0ec2bfe25b25fd74ec39f0479.jpg"
+        },
+        {
+          "url": "media/cached-image_633cd272efbd9f6b3f7039b5d9c3961ac4de9aa56f2ef951cd7210e7ac7209b3.jpg"
+        }
+      ],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kaigake Elementary School, 2362 Kaigake, Hino, Gamo District, Shiga 529-1631, Japan",
+      "city": "Hino",
+      "region": "Gamo District, Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.988266,136.2597784,3a,90y,22.38h,93.49t/data=!3m7!1e1!3m5!1syK8dnzYf0aOFicsktSYB4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.492404525776152%26panoid%3DyK8dnzYf0aOFicsktSYB4w%26yaw%3D22.38284890511069!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This picturesque old wooden school building in rural Shiga appears in episode 1 as part of the countryside scenery establishing Rikka's family backstory, its weathered facade evoking the nostalgic world apart from the city. It is one of the more remote pilgrimage stops attracting dedicated fans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvyEfc6gLAWARNVe1w4ltndI",
+      "name": "Anoo Station",
+      "localName": "穴太駅",
+      "coordinates": {
+        "lat": 35.0556099,
+        "lng": 135.8647971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a6a604e-2f17-4683-b446-f6ba5d270f8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a6a604e-2f17-4683-b446-f6ba5d270f8a.webp"
+        },
+        {
+          "url": "media/cached-image_5aeb50fa98efbddea2318bcb1a7ceea55200405a3f115a57413dd7a36245f845.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anoo Station, 2-chōme-8 Anou, Otsu, Shiga 520-0114, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0557597,135.8648614,3a,80.4y,7.2h,93.22t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEzorheg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYSUYGZrg5UC1K3zfqbM96erb-aCxmj9cAUQI8tZllSLplnUxV5yRenQRHZMVczPMi4pF8G5s5Sli6cw4KZAW2W-0LnFhIwfW5hvJUaSKAqr6QppMwIFO-On9W6rlFiZ8bc-icj%3Dw900-h600-k-no-pi-3.2152614447434047-ya289.20113386965176-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This quiet Keihan Ishiyama-Sakamoto line station appears in episode 3 during a scene where characters travel along the lake shore, its small unmanned platform capturing the sleepy suburban atmosphere of the show's Otsu setting. Fans visit for the characteristic lakeside rail scenery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq0Fj0VMNAWARbwj6VmEDi9o",
+      "name": "Keihan-Ishiyama Station",
+      "localName": "京阪石山駅",
+      "coordinates": {
+        "lat": 34.9795886,
+        "lng": 135.8996496
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61731c78-b9dd-4c4c-85bc-8b1fd35e9e31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61731c78-b9dd-4c4c-85bc-8b1fd35e9e31.webp"
+        },
+        {
+          "url": "media/cached-image_c6eec654a9aaa4351712bee70135f4ee35f240706737ec9ac35aa750a354b2cd.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Keihan-Ishiyama Station, 2 Awazuchō, Otsu, Shiga 520-0832, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9794891,135.9002083,3a,90y,286.15h,91.84t/data=!3m7!1e1!3m5!1ssJhn8FXhkWhMwuRnYhojBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8380559146961275%26panoid%3DsJhn8FXhkWhMwuRnYhojBQ%26yaw%3D286.15227404369244!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Keihan line station near the characters' apartment complex appears repeatedly as the launchpad for Rikka and Yuuta's outings, including the episode 1 arrival scene. It is the most consistently filmed transit spot in the Otsu pilgrimage route.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRdOJT1tyAWAROfv1oLTs1l8",
+      "name": "Kusatsushi Public Library",
+      "localName": "草津市立図書館",
+      "coordinates": {
+        "lat": 35.0195048,
+        "lng": 135.95095369999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3a4d2d49-acf2-4ea6-a7b4-296b555180a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3a4d2d49-acf2-4ea6-a7b4-296b555180a8.webp"
+        },
+        {
+          "url": "media/cached-image_d2b7db7b32e264d1f9bcd15ab562cdd2881c5d5900819f125ae21f5bf77747d6.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kusatsushi Public Library, 1547 Kusatsucho, Kusatsu, Shiga 525-0036, Japan",
+      "city": "Kusatsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0194661,135.9515859,3a,75y,274.21h,101.11t/data=!3m7!1e1!3m5!1sDjEd5o337-mpGQGnb6344A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.111908071204411%26panoid%3DDjEd5o337-mpGQGnb6344A%26yaw%3D274.21050751915146!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The exterior of this library stands in for the school library area in episode 10, where characters have a quiet confrontation about their feelings as the season's romantic arc builds toward its resolution. The low-slung building and entrance are matched in fan comparison shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg4hXHb7n918RBpA-Wsb0EaA",
+      "name": "Hiyama Shrine",
+      "localName": "雄山神社 峰本社",
+      "coordinates": {
+        "lat": 36.5732831,
+        "lng": 137.6177693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bef419e2-e646-467d-85a7-26c9e73c47c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bef419e2-e646-467d-85a7-26c9e73c47c9.webp"
+        },
+        {
+          "url": "media/cached-image_7e49a4a93354eb71a6c23ab8206261c1c67b2eb5b6deee9f2bb45874dd2e9703.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.7,
+      "reviewCount": 443,
+      "priceLevel": null,
+      "address": "Oyama Shrine Peak Sanctuary, Ashikuraji, Tateyama, Nakaniikawa District, Toyama 930-1406, Japan",
+      "city": "Tateyama",
+      "region": "Nakaniikawa District, Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9751972,135.9127178,3a,90y,118.98h,103.29t/data=!3m7!1e1!3m5!1sbHuHk4BHBArPHaNzcZpplQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.288446825022234%26panoid%3DbHuHk4BHBArPHaNzcZpplQ%26yaw%3D118.97587765939765!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKW_rg3xtAWARDgsQsLgY4dA",
+      "name": "Setahigashi City Center",
+      "localName": "瀬田東市民センター",
+      "coordinates": {
+        "lat": 34.984805099999996,
+        "lng": 135.9344849
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbb1d707-c54a-4b08-8b2c-0117fc360887.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbb1d707-c54a-4b08-8b2c-0117fc360887.webp"
+        },
+        {
+          "url": "media/cached-image_6f7a2243f53c7cd0c9bf67fd917a27f0759bd0e8f0a19a407fab32d945187da8.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Setahigashi City Center, 大津市瀬田東支所 3 Chome-16-1 Ichiriyama, Otsu, Shiga 520-2153, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9843885,135.936229,3a,49.6y,275.27h,94.98t/data=!3m7!1e1!3m5!1sm-m5A8WrQdOpiT1Ix4QPhQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.978808925925975%26panoid%3Dm-m5A8WrQdOpiT1Ix4QPhQ%26yaw%3D275.2688313330939!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_34",
+      "name": "Waterfront Park",
+      "localName": "ウォーターフロントパーク",
+      "coordinates": {
+        "lat": 31.59311,
+        "lng": 130.56421
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77d3af4c-3b25-4cb5-9d30-ef79aee58e2d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77d3af4c-3b25-4cb5-9d30-ef79aee58e2d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.5930529,130.5640982,3a,75y,99.04h,100.83t/data=!3m7!1e1!3m5!1sEE1CZ-dPc3saRAbHPQ5MxA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.833626298241484%26panoid%3DEE1CZ-dPc3saRAbHPQ5MxA%26yaw%3D99.03984197843297!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_35",
+      "name": "Waterfront Park",
+      "localName": "ウォーターフロントパーク",
+      "coordinates": {
+        "lat": 31.59408,
+        "lng": 130.56376
+      },
+      "image": "https://cdn.animepilgrimage.com/places/14273d2d-4841-4aac-a5f6-9e5b0f161cda.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/14273d2d-4841-4aac-a5f6-9e5b0f161cda.webp"
+        },
+        {
+          "url": "media/cached-image_7a3918b14f017163ba424f60f9bf74cca46a070356617984ec5a9c9b8ee64758.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.5940753,130.5637191,3a,90y,34.61h,105.12t/data=!3m7!1e1!3m5!1sehHhwRsvHWGBgLne-Wlr4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.121108359457168%26panoid%3DehHhwRsvHWGBgLne-Wlr4A%26yaw%3D34.60944281929147!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_36",
+      "name": "Waterfront Park",
+      "localName": "ウォーターフロントパーク",
+      "coordinates": {
+        "lat": 31.59415,
+        "lng": 130.56334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7fc2fa23-e1f4-4355-892e-149ef6b74441.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7fc2fa23-e1f4-4355-892e-149ef6b74441.webp"
+        },
+        {
+          "url": "media/cached-image_29340f555663db4d6e1ea2f54619369eed0a7e1dd922718dde129c326970ba3a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.5941327,130.5633184,3a,75y,92.21h,99.59t/data=!3m7!1e1!3m5!1s4-g1asprzZhLzstKNUbF6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.587700214492088%26panoid%3D4-g1asprzZhLzstKNUbF6Q%26yaw%3D92.21326492194761!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_37",
+      "name": "Bazaar Hiraoka",
+      "localName": "バザールヒラオカ",
+      "coordinates": {
+        "lat": 31.59194,
+        "lng": 130.55613
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dafdd795-1bdc-4c87-bfd4-637842bcc892.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dafdd795-1bdc-4c87-bfd4-637842bcc892.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.5919484,130.556051,3a,90y,42.8h,96.25t/data=!3m7!1e1!3m5!1s1h-dOgSfGOZC4otjCeDHSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.247227236031449%26panoid%3D1h-dOgSfGOZC4otjCeDHSQ%26yaw%3D42.804034194189455!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL7oFpizzGGARH-npuiADZeQ",
+      "name": "Chuo Park",
+      "localName": "新宿中央公園",
+      "coordinates": {
+        "lat": 35.6893011,
+        "lng": 139.68989779999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/300bbb5e-a83a-4810-929c-a9b4f3585001.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/300bbb5e-a83a-4810-929c-a9b4f3585001.webp"
+        },
+        {
+          "url": "media/cached-image_fc60d23b825b7a6aec92b2b1abb5f393305153c82539540bcc997b3dc69996b1.jpg"
+        },
+        {
+          "url": "media/cached-image_760e0c37d2389ae414227a8192a07c677124f806491e941409270bd91a750a58.jpg"
+        },
+        {
+          "url": "media/cached-image_d71926cb89a1474fded36ac8e26e2e99697220da0736b455f73a2ac7f7840158.jpg"
+        },
+        {
+          "url": "media/cached-image_9231d63cf0c58fbe8679f97eb03c58bf50ee4cb5b9738df6f74cf01751c951ac.jpg"
+        },
+        {
+          "url": "media/cached-image_feab7a503271f506f3e3d1398217b37d049cdc00a5d53497bd016cf6f7b01b49.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 315,
+      "priceLevel": null,
+      "address": "Shinjuku Chūō Park, 2 Chome-11 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.594402,130.5542871,3a,90y,282.01h,97.5t/data=!3m7!1e1!3m5!1s3gB8O186J5gy16Qck26DQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.499279602130343%26panoid%3D3gB8O186J5gy16Qck26DQg%26yaw%3D282.01027923004347!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-chunibyo-other-delusions-2_39",
+      "name": "Kagoshima Public Access Center",
+      "localName": "県民交流センター前",
+      "coordinates": {
+        "lat": 31.59867,
+        "lng": 130.55707
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97e980a4-a2a7-4083-94ca-81c67f0cc805.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97e980a4-a2a7-4083-94ca-81c67f0cc805.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@31.5985873,130.5570449,3a,75y,8.98h,97.08t/data=!3m7!1e1!3m5!1s9vTKfp7qSTpaIx4sfHQZjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.082403474215511%26panoid%3D9vTKfp7qSTpaIx4sfHQZjw%26yaw%3D8.979664736625182!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCeJzKwZePjUR7FBZyURD2YE",
+      "name": "Kagoshima Medical Center",
+      "localName": "国立病院機構 鹿児島医療センター",
+      "coordinates": {
+        "lat": 31.599700799999997,
+        "lng": 130.5559247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c0506db-ea99-471b-9750-bd3ab3660693.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c0506db-ea99-471b-9750-bd3ab3660693.webp"
+        },
+        {
+          "url": "media/cached-image_c0b02c0939d25cc602546441bc7eb3167e5048d3df991dd96d147db386502460.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kagoshima Medical Center, 8-1 Shiroyamacho, Kagoshima, 892-0853, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5989661,130.5564959,3a,90y,305h,100.95t/data=!3m7!1e1!3m5!1sGvV1zEuOsKOtOqYLGSCdSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.952341712589202%26panoid%3DGvV1zEuOsKOtOqYLGSCdSQ%26yaw%3D304.99948012300297!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-RFZV_xdPjUR_e7xjUhXrvk",
+      "name": "Cave of Takamori Saigo (Satsuma Rebellion 1877)",
+      "localName": "西郷隆盛洞窟",
+      "coordinates": {
+        "lat": 31.5999406,
+        "lng": 130.5503007
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a734a4b4-0508-461b-973a-e41eef72876c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a734a4b4-0508-461b-973a-e41eef72876c.webp"
+        },
+        {
+          "url": "media/cached-image_65325a37592d01f5597da52635871f7f6642b61e7c58f4a73147934ce1b04a81.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Cave of Takamori Saigo (Satsuma Rebellion 1877), 19 Shiroyamacho, Kagoshima, 892-0853, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5994075,130.5499583,3a,37.8y,348.71h,93.49t/data=!3m7!1e1!3m5!1szBtGVAoBn0-GmBP7jw4OUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.493310591851426%26panoid%3DzBtGVAoBn0-GmBP7jw4OUg%26yaw%3D348.70650548582637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB9zrkwhePjURQEJlPzuMmYY",
+      "name": "Satsuma Retainers Monument",
+      "localName": "薩摩義士碑",
+      "coordinates": {
+        "lat": 31.5996585,
+        "lng": 130.5548548
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f41cc205-75e9-4e53-b697-052da39b2537.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f41cc205-75e9-4e53-b697-052da39b2537.webp"
+        },
+        {
+          "url": "media/cached-image_181fc57a1123d0422f0ea565b9ec0c5eff66150b1da1e772ae98f3f4667b1873.jpg"
+        }
+      ],
+      "type": "Historical place",
+      "categories": [
+        "Historical place"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Satsuma Retainers Monument, 11 Shiroyamacho, Kagoshima, 892-0853, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5995923,130.5551604,3a,90y,276.26h,99.54t/data=!3m7!1e1!3m5!1siW_hoYJJSuzX-AmD2Fc2BA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.539992150098797%26panoid%3DiW_hoYJJSuzX-AmD2Fc2BA%26yaw%3D276.26134606651834!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBZHmt_1dPjURk_qdSoe7mXY",
+      "name": "Shiroyama Park",
+      "localName": "城山公園",
+      "coordinates": {
+        "lat": 31.5968448,
+        "lng": 130.5496399
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3c7770dd-a881-4cef-95aa-fd9ea650ba5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3c7770dd-a881-4cef-95aa-fd9ea650ba5a.webp"
+        },
+        {
+          "url": "media/cached-image_b908566a9ca8ebd8117918f0ca2c3e7ca65f2c6647f39c68871a0f94cf84b48d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shiroyama Park, 22-33 Shiroyamacho, Kagoshima, 892-0853, Japan",
+      "city": "Kagoshima",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5978677,130.5516448,3a,90y,344.46h,90.2t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICE9r3_Bw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbqUn1UeqVIFL8A8h9rDiWEGwTdD87kMgU7rGtI9e0qhwY02XoexCs_FHeFUgmhB4V0m_zewJXaeT2x3p9nosqbVVqIzTQUNyy4Pc9p4wDlvJeLiGnxSnRmPVv7sTQ42uZSFvg5%3Dw900-h600-k-no-pi-0.20162810502414175-ya130.64192905686537-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The wooded slopes of this park surrounding the Kagoshima castle hill appear in episode 7 as the group explores the area, with dappled forest paths providing atmosphere during a quieter moment between Yuuta and Rikka away from the class. The park connects several of the Kagoshima filming locations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6eNKHCl0PjURvgAV77qKzyM",
+      "name": "Minamikyushu Chozai Pharmacy",
+      "localName": "しんまち薬局 |南九州 薬局 漢方薬局 薬草 処方箋 土曜日 日曜日|",
+      "coordinates": {
+        "lat": 31.3949808,
+        "lng": 130.3871045
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39ca64a7-b20f-4dab-bdfa-8405cf9baaad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39ca64a7-b20f-4dab-bdfa-8405cf9baaad.webp"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "しんまち薬局 |南九州 薬局 漢方薬局 薬草 処方箋 土曜日 日曜日|, 3968-1 Kawanabecho Tabeta, Minamikyushu, Kagoshima 897-0221, Japan",
+      "city": "Minamikyushu",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@31.5980606,130.558695,3a,90y,129.82h,95.59t/data=!3m7!1e1!3m5!1s2kHzPhNdcfi80I-ewHsc2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.588611277827582%26panoid%3D2kHzPhNdcfi80I-ewHsc2A%26yaw%3D129.81565100515232!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX-D2_AG6QTURNFKdK0BI3Vk",
+      "name": "Yoshinogari Historical Park",
+      "localName": "吉野ヶ里歴史公園",
+      "coordinates": {
+        "lat": 33.323936599999996,
+        "lng": 130.3887596
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3980edcd-621f-4bbf-ae0c-e32403646eab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3980edcd-621f-4bbf-ae0c-e32403646eab.webp"
+        },
+        {
+          "url": "media/cached-image_18da6cb90e2ab4aed2d071e73437d3dc2b08342c0dd2685668aa695a79ade72e.jpg"
+        },
+        {
+          "url": "media/cached-image_e100dfdf3e3cc78e3ae1fb1fb9bc5e4a08d3886e1944ae7aad09e45c33f4390d.jpg"
+        },
+        {
+          "url": "media/cached-image_bdd443d86cf8aff3cd712eb1751841acdc4b7c51d6dbb4cfee3bcb9bcc6ffe9f.jpg"
+        },
+        {
+          "url": "media/cached-image_800725e092e4d451a0c56dd9c8607c8166847f100ad5fd3eeb770581e4159279.jpg"
+        },
+        {
+          "url": "media/cached-image_d00763f12234eb846ab89c1043618a1da191d38b20594f2b5dc76bfb28f22a98.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 468,
+      "priceLevel": null,
+      "address": "Yoshinogari Historical Park, 1843 Tade, Yoshinogari, Kanzaki District, Saga 842-0035, Japan",
+      "city": "Yoshinogari",
+      "region": "Kanzaki District, Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.3238929,130.3871812,3a,48.7y,319.59h,86.22t/data=!3m7!1e1!3m5!1sXoJkYAbw8cqKotroKh8Rmg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.77530842834409%26panoid%3DXoJkYAbw8cqKotroKh8Rmg%26yaw%3D319.585644612666!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The class field trip in episode 6 stops at this reconstructed Yayoi-period village, where Satone (Shichimiya Sopherta) seizes on the ancient watchtowers and ritual enclosures as perfect props for her chuunibyou role-play, much to the class's bewilderment. The distinctive thatched structures are unmistakable in the comparison shots.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa7u53Mm5QTURuFxfyH91ItQ",
+      "name": "South inner enclosure, North watchtower",
+      "localName": "南内郭 北物見櫓",
+      "coordinates": {
+        "lat": 33.3254784,
+        "lng": 130.3845226
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4bdd976f-8177-4271-bdaa-46ecd77d4c78.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4bdd976f-8177-4271-bdaa-46ecd77d4c78.webp"
+        },
+        {
+          "url": "media/cached-image_d636407d09482208c23c11c6a7d24d9dacdac8912dba8fd8478957851e6ddd6b.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "South inner enclosure, North watchtower, Tade, Kanzaki, Kanzaki District, Saga 842-0035, Japan",
+      "city": "Kanzaki",
+      "region": "Kanzaki District, Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.325274,130.3845695,3a,69.4y,347.34h,108.48t/data=!3m7!1e1!3m5!1slk5hvekxomODpElVArzVBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.48245006179573%26panoid%3Dlk5hvekxomODpElVArzVBg%26yaw%3D347.3416964879017!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The north watchtower of the south enclosure at Yoshinogari is featured in episode 6 as Satone climbs toward it during her chuunibyou performance, the wooden observation tower framing her silhouette against the sky. Pilgrims photograph this exact angle to recreate the scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT-AJK2YMAWARjpxphW18yTc",
+      "name": "Lake Biwa senmatsu",
+      "localName": "琵琶湖第1疏水",
+      "coordinates": {
+        "lat": 35.012077399999995,
+        "lng": 135.857419
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08e3df1e-519a-40e2-b026-66cafee6f669.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08e3df1e-519a-40e2-b026-66cafee6f669.webp"
+        },
+        {
+          "url": "media/cached-image_f66435ca4b8685ad65d918e7938954df7b143662aec81229ccaa99dab781f685.jpg"
+        }
+      ],
+      "type": "Heritage preservation",
+      "categories": [
+        "Heritage preservation"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lake Biwa First Canal, 7 Miideracho, Otsu, Shiga 520-0034, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9956254,135.9098796,3a,48.7y,108.9h,93.6t/data=!3m7!1e1!3m5!1sUxFPMXCEvyCj_7iFh-9rGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.60453729354694%26panoid%3DUxFPMXCEvyCj_7iFh-9rGg%26yaw%3D108.89532245165447!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This historic first canal flowing out of Lake Biwa appears in the opening animation sequence, its tree-lined stone channel providing the scenic waterway image that many fans associate with the show's Shiga identity. It is one of the clearest OP location matches for the series.",
+      "fanTopPick": true
+    }
+  ]
+}

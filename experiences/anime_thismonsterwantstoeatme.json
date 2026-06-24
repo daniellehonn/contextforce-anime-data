@@ -1,0 +1,605 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "This Monster Wants to Eat Me",
+  "slug": "this-monster-wants-to-eat-me",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_5fa98b3a94d76ef94d9839b0d9da5750a8cc5c2ad026fb86f88d21bbbbfbd5a3.webp",
+  "image": "media/cached-image_5fa98b3a94d76ef94d9839b0d9da5750a8cc5c2ad026fb86f88d21bbbbfbd5a3.webp",
+  "banner": null,
+  "primaryLocation": "Ehime, Japan",
+  "primaryLocationCoords": {
+    "lat": 33.76733360000001,
+    "lng": 132.72593378124998
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "This Monster Wants to Eat Me"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJF93ChHjmTzUROR4PR5wiUwg",
+      "name": "Dogo Tourist Information Center",
+      "localName": "道後観光案内所 (道後温泉旅館協同組合)",
+      "coordinates": {
+        "lat": 33.850807599999996,
+        "lng": 132.7853443
+      },
+      "image": "https://cdn.animepilgrimage.com/places/19933b7e-5b01-44e0-a384-6386b93eec8b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/19933b7e-5b01-44e0-a384-6386b93eec8b.webp"
+        },
+        {
+          "url": "media/cached-image_dfc71dbd2ace54d6183f83ee673e3f6de263b4318daf8263430eb738d04505fe.jpg"
+        },
+        {
+          "url": "media/cached-image_6afe336d16d50feaf4ffa476be5b682e04e3878b8d1cb887ca95a2bf2c2debbb.jpg"
+        },
+        {
+          "url": "media/cached-image_271e0fff9f990b7ac6aac1a1c35386431a8965ef642cd8a648cbe954246e5a3f.jpg"
+        },
+        {
+          "url": "media/cached-image_e11fb3966d378138c6e814b2b3317dc76bc3f874c0a8533b69fd465506f3ae59.jpg"
+        },
+        {
+          "url": "media/cached-image_9df2859c6ae80fb39315cbd221d71eb9bea03ff541b6a0bc201f6bc08292d420.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.3,
+      "reviewCount": 38,
+      "priceLevel": null,
+      "address": "Dogo Tourist Information Center, 6-８ Dogoyunomachi, Matsuyama, Ehime 790-0842, Japan",
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SKTQaXZCvA1kCkms7",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The tourist information building at the entrance to the Dogo Onsen shopping street appears in episode 13 during the main characters' visit to the hot spring town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_this-monster-wants-to-eat-me_1",
+      "name": "Dogo Yunomachi Jyugo Mangoku MASARU",
+      "localName": "道後湯之町 十五万石 MASARU",
+      "coordinates": {
+        "lat": 33.85209,
+        "lng": 132.78541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a79b525f-4e4a-456e-a815-a2722d6ce5b1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a79b525f-4e4a-456e-a815-a2722d6ce5b1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4z7K3zHfEufTLz6h9",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This specialty food shop on Dogo Yunomachi street appears in episode 13 as the characters browse the shopping arcade near Dogo Onsen."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJraqWR5CVTzUR272f78CTlP8",
+      "name": "Ehime Fruit Club Mikan Trees",
+      "localName": "愛媛県",
+      "coordinates": {
+        "lat": 33.6025306,
+        "lng": 132.7857583
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5253444b-e0b7-40c0-9b7e-bf808c21d5ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5253444b-e0b7-40c0-9b7e-bf808c21d5ee.webp"
+        },
+        {
+          "url": "media/cached-image_36c7fb039773b0483d2db222a1a29eb4760a26ee343bf4f85f207ce4ce496216.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ehime, Japan",
+      "city": null,
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1GFdZYGP7k3g4b5SA",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Ehime's famous mikan mandarin orange groves appear in episode 13 as a visual symbol of the region, the terraced citrus orchards representing the local identity woven throughout the anime's Ehime setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH44K3tflTzURJSfHhYXm3fg",
+      "name": "Botchan Karakuri Clock",
+      "localName": "坊っちゃんカラクリ時計",
+      "coordinates": {
+        "lat": 33.8507201,
+        "lng": 132.7854687
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6b7d118a-a078-48ec-b7d6-d1d9dfba254a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6b7d118a-a078-48ec-b7d6-d1d9dfba254a.webp"
+        },
+        {
+          "url": "media/cached-image_358f8147edfe1b4c6b1a2ba14780fe6b7d7557e7245d79ec4a888a70565d5c6c.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Botchan Karakuri Clock, 6-7 Dogoyunomachi, Matsuyama, Ehime 790-0842, Japan",
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6SWdvT5qmhvEHFmc7",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Botchan Clock's hourly mechanical parade serves as a meeting-point landmark in the Dogo Onsen shopping arcade scenes, marking time during Minori and Kaibutsu's day trip together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_this-monster-wants-to-eat-me_4",
+      "name": "Nadacho Pocket Park",
+      "localName": "灘町ポケットパーク",
+      "coordinates": {
+        "lat": 33.7578,
+        "lng": 132.7014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f08faf4-cec6-4fa7-bed4-5d4d0ba05d5b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f08faf4-cec6-4fa7-bed4-5d4d0ba05d5b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/mz6Ht9bA3q7fZfGB8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small pocket park in the Nada neighborhood appears in episode 9 as a quiet outdoor rest spot visited by the characters during their local exploration."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9RQR7GPyTzURt_eHHVrTFa0",
+      "name": "Goshikihama (swimming beach)",
+      "localName": "五色浜",
+      "coordinates": {
+        "lat": 33.7552628,
+        "lng": 132.6939135
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78df0620-440e-4502-937b-686965c1e0de.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78df0620-440e-4502-937b-686965c1e0de.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Goshikihama (swimming beach), 696 Osaki, Iyo, Ehime 799-3127, Japan",
+      "city": "Iyo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Goshikihama+(swimming+beach)/@33.7552628,132.6939135,3a,75.7y,303.72h,95.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4_sCAuwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha1JbdPCiM3Jgz9B8meGcZ0KsyY6cTIrd_efxoUbGPLETNgo1yiSgcmTKJxPhXEyN4b0GSr7PCsuS-0eAMIPOnlmbtMOQYDwC1VnoDsUyV7Z24oqaQelNCWQB7YVssSIkenltFK_g%3Dw900-h600-k-no-pi-5.361992064650607-ya49.4323027749833-ro0-fo100!7i9448!8i4724!4m18!1m8!3m7!1s0x354ff274d5cbea69:0xbb8254bf4be9965d!2sIyo+Agricultural+High+School!8m2!3d33.764828!4d132.705032!10e5!16s%2Fg%2F122sm8x3!3m8!1s0x354ff263ec1114f5:0xad15d35a1d87f7b7!8m2!3d33.7552628!4d132.6939135!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn7n6z0z?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The colorful pebble beach of Goshikihama appears in the ending credits sequence, its distinctive striped stones along the Seto Inland Sea coast serving as the visual backdrop for the end card imagery.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_this-monster-wants-to-eat-me_6",
+      "name": "Shiobi Bridge",
+      "localName": "塩美橋",
+      "coordinates": {
+        "lat": 33.79556,
+        "lng": 132.69303
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c49ed8c-c17d-420c-82b8-8a926ad9be6b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c49ed8c-c17d-420c-82b8-8a926ad9be6b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@33.7956398,132.692987,3a,90y,88.03h,95.12t/data=!3m7!1e1!3m5!1sSo35eIIHKrjtzTRnDtOJPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.118265910234996%26panoid%3DSo35eIIHKrjtzTRnDtOJPw%26yaw%3D88.03267338551034!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Shiobi Bridge appears at the very start of episode 1 as an establishing shot of the characters' neighborhood, introducing the riverside setting of the town where the story begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf4zJJXryTzURUBzLWczRg4I",
+      "name": "Iyoshi Station",
+      "localName": "伊予市駅",
+      "coordinates": {
+        "lat": 33.7554629,
+        "lng": 132.7023204
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a7b6120-30a9-42c3-aefc-a5bf1a4af98b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a7b6120-30a9-42c3-aefc-a5bf1a4af98b.webp"
+        },
+        {
+          "url": "media/cached-image_cc6e05a78f18e34d52a6d48057e80eee0bbd12c9886a8c22fc4198afef54fc55.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iyoshi Station, Kominato, Iyo, Ehime 799-3113, Japan",
+      "city": "Iyo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TSCmy7bNPUKDDCUU6",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Iyoshi Station on the Yosan Line appears in episode 6 as a commuter stop, the small local station representing the everyday school commute life of the characters in Iyo city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyxylCguMTzUR5aWm9299aAw",
+      "name": "Iyo-Kaminada Station",
+      "localName": "伊予上灘駅",
+      "coordinates": {
+        "lat": 33.683895299999996,
+        "lng": 132.6331467
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6062bb20-0be1-4147-bc04-0131f4b1754d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6062bb20-0be1-4147-bc04-0131f4b1754d.webp"
+        },
+        {
+          "url": "media/cached-image_e0c6c4b2f0ae34239d64f0d3f3f872cb763fb37abd5c93b560ecad20b7129d48.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iyo-Kaminada Station, Futamichō Takagishi, Iyo, Ehime 799-3207, Japan",
+      "city": "Iyo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/T1DKtudvVyfsSaPf7",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The scenic Iyo-Kaminada station perched above Seto Inland Sea views appears in episode 6, its remote coastal atmosphere underscoring a key character moment during a train journey.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwZqHwknpTzURT4huDZ-_WXw",
+      "name": "Tobe Zoological Park",
+      "localName": "とべ動物園",
+      "coordinates": {
+        "lat": 33.764028599999996,
+        "lng": 132.7920585
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1502f60-f82a-48e6-a7a1-3bdfa2484f52.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1502f60-f82a-48e6-a7a1-3bdfa2484f52.webp"
+        },
+        {
+          "url": "media/cached-image_fba239bd8e23df8c1617b6d1b0ffdb0b422146ddb814d97fe65bb8d476ddefb0.jpg"
+        },
+        {
+          "url": "media/cached-image_85def97a733e827185b3888ff1a0727995101ea3f910f12566fb4f35a3d6bbcc.jpg"
+        },
+        {
+          "url": "media/cached-image_d05848a04f1dc21ba723aa5362cf568d8564b0b8554979797468a22379bae401.jpg"
+        },
+        {
+          "url": "media/cached-image_9cc5619ddceebc180a8675e397464a9cac2592347248766093b405bd74f1d299.jpg"
+        },
+        {
+          "url": "media/cached-image_e7a391a384e6152689073259d03bf1f22bdb0fc60a0ba46e2e80e7fd3d853742.jpg"
+        }
+      ],
+      "type": "Zoo",
+      "categories": [
+        "Zoo"
+      ],
+      "rating": 4.4,
+      "reviewCount": 100,
+      "priceLevel": null,
+      "address": "Tobe Zoological Park, 240 Kamiharamachi, Tobe, Iyo District, Ehime 791-2191, Japan",
+      "city": "Tobe",
+      "region": "Iyo District, Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/xiPPSPqSKEYNqU7w5",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Tobe Zoo appears in episode 9 as the setting for a date-like outing scene, where the characters visit the animals in a lighthearted break from the main story tension."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_this-monster-wants-to-eat-me_10",
+      "name": "Popai Parking Lot",
+      "localName": "ポパイ駐車場",
+      "coordinates": {
+        "lat": 33.68436,
+        "lng": 132.6335
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fb0ce439-7075-416c-ba35-ee2475dfcdef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fb0ce439-7075-416c-ba35-ee2475dfcdef.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/H2s7jKLaguL3MDjF8",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm3f0nHjmTzURtmkIum1q8Hk",
+      "name": "㈱谷本蒲鉾店 松山道後店(道後温泉本館前)(じゃこカツ)",
+      "localName": "㈱谷本蒲鉾店 松山道後店",
+      "coordinates": {
+        "lat": 33.852204199999996,
+        "lng": 132.7860543
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e38e4698-bfb9-44b6-a8fd-31868ddf800e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e38e4698-bfb9-44b6-a8fd-31868ddf800e.webp"
+        }
+      ],
+      "type": "Japanese grocery store",
+      "categories": [
+        "Japanese grocery store"
+      ],
+      "rating": 4,
+      "reviewCount": 195,
+      "priceLevel": null,
+      "address": "Japan, 〒795-0842 Ehime, Matsuyama, Dogoyunomachi, 20−17 ㈱谷本蒲鉾店 松山道後店(道後温泉本館前)(じゃこカツ)",
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/f2Sj2KKjPftTmFFH8",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This kamaboko shop in front of Dogo Onsen Honkan appears in episode 13 during the characters' food exploration of the hot spring district, featuring the local jako-katsu fish cake specialty."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe9IW79flTzURiR6AGKOXUXY",
+      "name": "Dogo Onsen Station",
+      "localName": "道後温泉駅",
+      "coordinates": {
+        "lat": 33.8504052,
+        "lng": 132.7850492
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da3a9f73-6a1f-469b-ae3d-581ee6d9faf6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da3a9f73-6a1f-469b-ae3d-581ee6d9faf6.webp"
+        },
+        {
+          "url": "media/cached-image_c2123c638f631a7b6ca63ff58c9a30bcd28489111b29b8bcdfc29931c5ef0377.jpg"
+        }
+      ],
+      "type": "Tram stop",
+      "categories": [
+        "Tram stop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dogo Onsen Station, 1 Chome-10-12 Dogomachi, Matsuyama, Ehime 790-0843, Japan",
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/91f7DR7BJCSLDfrf7",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Dogo Onsen tram terminus appears in the final episode as the backdrop for the emotional farewell scene, where Minori and Kaibutsu part ways at the iconic retro tram stop that anchors the anime's Matsuyama setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH4XTMNblTzURtekmo516GY8",
+      "name": "Dogo Onsen Annex Asukano Yusen",
+      "localName": "道後温泉別館 飛鳥乃湯泉（あすかのゆ）",
+      "coordinates": {
+        "lat": 33.8524014,
+        "lng": 132.7846513
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2052eaf-54b2-460a-b5a8-85b2fa2f2dad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2052eaf-54b2-460a-b5a8-85b2fa2f2dad.webp"
+        },
+        {
+          "url": "media/cached-image_bee2144465f5786bc7d3b72f25d4adf47cf2e2c132788c9ee392a96b8b9bfdec.jpg"
+        }
+      ],
+      "type": "Day-use onsen",
+      "categories": [
+        "Day-use onsen"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dōgo Onsen Annex Asuka-no-Yu, 19-22 Dogoyunomachi, Matsuyama, Ehime 790-0842, Japan",
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dDJpHsaWSxZuAJ4n6",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The modern annex bath house appears in the episode 13 Dogo Onsen arc as the backdrop for a relaxation scene, its striking traditional exterior featured during the characters' exploration of the hot spring district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_this-monster-wants-to-eat-me_14",
+      "name": "Popai Parking Lot",
+      "localName": "ポパイ駐車場",
+      "coordinates": {
+        "lat": 33.68442,
+        "lng": 132.63355
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0952d083-2ce4-49bd-bfca-12beaf9bd9d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0952d083-2ce4-49bd-bfca-12beaf9bd9d8.webp"
+        },
+        {
+          "url": "media/cached-image_d42ff9d6414ea35776551c339a5648c992b8d03f61af5dc49db487436fab4aec.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/CQ22gZM6Jz4Ymqre8",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTfeSVguMTzURFprjfHoQ44Q",
+      "name": "Roadside rest area Futami.",
+      "localName": "道の駅 ふたみ",
+      "coordinates": {
+        "lat": 33.6853889,
+        "lng": 132.6342853
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7c8f082b-098b-4188-b266-33a6f676513f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7c8f082b-098b-4188-b266-33a6f676513f.webp"
+        },
+        {
+          "url": "media/cached-image_fee281c0045791103b83988829b12528ac77b7b27a041b8d0a9f06ef839a78c5.jpg"
+        },
+        {
+          "url": "media/cached-image_476387f08f3faee91c086516dc4341c2b58123acb28762769212edb1139b82ac.jpg"
+        },
+        {
+          "url": "media/cached-image_1feb53fc6f0d47b2b152a8a1aec5a1ea593823243663e29bab0c149c3e4f896e.jpg"
+        },
+        {
+          "url": "media/cached-image_e5bed23cc9b70c920a1e038d340d0b5abbc94eba087fee8a984919d5ac3ede09.jpg"
+        },
+        {
+          "url": "media/cached-image_3c22ea3d5a165b4d03b9e4fcb11c360578d66ccb58e69be6463082bb30cdbc27.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 4.2,
+      "reviewCount": 637,
+      "priceLevel": null,
+      "address": "Roadside rest area Futami., 甲２３２６ Futamicho Takagishi, Iyo, Ehime 799-3207, Japan",
+      "city": "Iyo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VRppW7ifdaed2ff6A",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Futami roadside station along the coastal route appears in episode 6 near Iyo-Kaminada, its seaside location used as a brief stopping point during the characters' coastal journey."
+    }
+  ]
+}

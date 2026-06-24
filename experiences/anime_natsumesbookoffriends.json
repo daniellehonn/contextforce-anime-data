@@ -1,0 +1,517 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Natsume's Book of Friends",
+  "slug": "natsumes-book-of-friends",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_fd0d7c3343130cf6fff5b55ce4df310d3608d44b7adbf7694ee77e72f7341fd1.webp",
+  "image": "media/cached-image_fd0d7c3343130cf6fff5b55ce4df310d3608d44b7adbf7694ee77e72f7341fd1.webp",
+  "banner": null,
+  "primaryLocation": "Kumamoto, Japan",
+  "primaryLocationCoords": {
+    "lat": 32.678333353846156,
+    "lng": 131.4502369076923
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Natsume's Book of Friends"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJRe3U0D-vB2AR0ENOvyM407I",
+      "name": "Haraigo Bridge",
+      "localName": "はらいごはし",
+      "coordinates": {
+        "lat": 33.6873893,
+        "lng": 135.4702728
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00756ec9-c2f8-4703-bc9f-a6a07a1a0939.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00756ec9-c2f8-4703-bc9f-a6a07a1a0939.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Haraigo Bridge, Ikuma, Kamitonda, Nishimuro District, Wakayama 649-2103, Japan",
+      "city": "Kamitonda",
+      "region": "Nishimuro District, Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MpteNtczxxqv9Dn18",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Featured in Episode 3, this wooden bridge in Wakayama serves as a backdrop for Natsume's encounter with a spirit seeking to be released from the Book of Friends, capturing his solitary journey through unfamiliar countryside."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKWQo3pd4PzURKcRa9NK-KPk",
+      "name": "Setoishi Station",
+      "localName": "瀬戸石駅",
+      "coordinates": {
+        "lat": 32.3716003,
+        "lng": 130.64583539999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df2751fc-f719-4242-9008-46daee1448b2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df2751fc-f719-4242-9008-46daee1448b2.webp"
+        },
+        {
+          "url": "media/cached-image_bd36fe197aba6891bd8d5e6fd264085f95b6f007b5e2f691ecec02cc295de128.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Setoishi Station, Sakamotomachi Kawatake, Yatsushiro, Kumamoto 869-5221, Japan",
+      "city": "Yatsushiro",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pPzQeueVhJRWonHQ8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This tiny rural station along the Kumagawa Railway appears in Episode 5, representing the isolated, countryside stops where Natsume waits alone and unexpectedly crosses paths with wandering spirits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_natsumes-book-of-friends_2",
+      "name": "Higoya Main Store",
+      "localName": "ひごや本店",
+      "coordinates": {
+        "lat": 32.20596,
+        "lng": 130.76496
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ce41842-21e2-4fa8-9eb5-54e2458fdb3e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ce41842-21e2-4fa8-9eb5-54e2458fdb3e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/gm2nhRv7bysHwgM28",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The local shop appears in Episode 6 as a background setting for Natsume's ordinary town life in Hitoyoshi, the kind of everyday stop that grounds his supernatural experiences in quiet, familiar humanity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_natsumes-book-of-friends_3",
+      "name": "Kannon statue",
+      "localName": "観音像",
+      "coordinates": {
+        "lat": 32.2049,
+        "lng": 130.76635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8624da6f-bdfb-4623-84d8-c783aad563c1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8624da6f-bdfb-4623-84d8-c783aad563c1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/hqHQyExinGafFNzx9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This outdoor Kannon statue near Hitoyoshi appears in Episode 6, one of the roadside religious markers that populate Natsume's world as silent witnesses to the boundary between the human and spirit realms."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGz5r0hx7ajURAR9SDEaSQh8",
+      "name": "Kumamura Terraced Fields Matsutani Terraced Fields",
+      "localName": "浜野浦の棚田展望台",
+      "coordinates": {
+        "lat": 33.4892452,
+        "lng": 129.8473498
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44985d31-6938-445b-9977-44277b5ff4f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44985d31-6938-445b-9977-44277b5ff4f3.webp"
+        },
+        {
+          "url": "media/cached-image_5e5c692b6642839649234e6d2070c5fa3ff03323675a6980cd34e625dde6c662.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Terraced Rice Fields of Hamanoura, Hamanoura, Genkai, Higashimatsuura District, Saga 847-1433, Japan",
+      "city": "Genkai",
+      "region": "Higashimatsuura District, Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1tAz3cNVAJyC18WAA",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The sweeping terraced rice fields visible in Episode 7 evoke the pastoral Saga countryside that inspired the series' landscapes, the layered paddies reflecting the layered, generational bonds between humans and youkai that Natsume slowly unravels."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCdXRvKUIAWAR79QLQkoUcik",
+      "name": "Ozeki Amida Hall",
+      "localName": "阿弥陀堂",
+      "coordinates": {
+        "lat": 34.9902716,
+        "lng": 135.75843179999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c10b004c-96a5-4ca0-b01e-9e30efe8d2f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c10b004c-96a5-4ca0-b01e-9e30efe8d2f1.webp"
+        },
+        {
+          "url": "media/cached-image_65fa70232c5fe9f0b1e8e8a3d9e5461caa4671ed3a7e7c62b0b082d917562c40.jpg"
+        },
+        {
+          "url": "media/cached-image_dbd8d039afedce0732bfdafbf927e30d5c50a5724dee806b4bb8532922fecf58.jpg"
+        },
+        {
+          "url": "media/cached-image_4eb1afd38e4d89d7b51b1cc62082f516e9d1a68a8ee6aa2080c8c74048e483d8.jpg"
+        },
+        {
+          "url": "media/cached-image_5942a4a94206028fa4a6388b274d147e1e43c21e99c577395ea31a80a2cb6194.jpg"
+        },
+        {
+          "url": "media/cached-image_243c38db23877fab5d841c299baa174b82a0c6ffa391a9efec5ef2af12619534.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 62,
+      "priceLevel": null,
+      "address": "Amida-do Hall, 174 Higashisakaicho, Shimogyo Ward, Kyoto, 600-8167, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7Pz52p5XcHhgajey8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This Amida-do hall in Kyoto appears in Episode 7 as a serene Buddhist sanctuary, the kind of ancient place of prayer where lingering spirits and human memory overlap in ways that resonate with Natsume's own search for belonging."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHWvJsHJyPzURWzd9ZSYda9g",
+      "name": "Okoba Station",
+      "localName": "大畑駅",
+      "coordinates": {
+        "lat": 32.1647574,
+        "lng": 130.78764999999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4e66c73-a78e-4235-b7ef-cf9d7d14888e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4e66c73-a78e-4235-b7ef-cf9d7d14888e.webp"
+        },
+        {
+          "url": "media/cached-image_ea6d9fb1d0eb9c3a524241805b77932e7f3888aa7d04fc7344dd4d43569d2c9c.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okoba Station, Ōnomachi, Hitoyoshi, Kumamoto 868-0812, Japan",
+      "city": "Hitoyoshi",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/szMZDg8WaLWmM87Y9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Okoba Station on the Kumagawa Railway, famous for its switchback design, appears in Episode 7 as an iconic rural landmark where Natsume boards a train through mountain scenery, one of the most beloved real-world backdrops in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyQnEBg1xPzURUXBuhTcNWgc",
+      "name": "観光複合施設 HASSENBA HITOYOSHI KUMAGAWA",
+      "localName": "観光複合施設 HASSENBA HITOYOSHI KUMAGAWA",
+      "coordinates": {
+        "lat": 32.214510499999996,
+        "lng": 130.76688769999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e01dac49-463e-47fb-a6d0-0fb970370561.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e01dac49-463e-47fb-a6d0-0fb970370561.webp"
+        },
+        {
+          "url": "media/cached-image_6bd67d149ce3f1d0d3e11d9da7fe11d409452688aaff55006db2a61ff33ed94e.jpg"
+        },
+        {
+          "url": "media/cached-image_eb4bb6292d9ed85a18f87a149a3ea938d5cbd82cb6108248213ad18451014d82.jpg"
+        },
+        {
+          "url": "media/cached-image_ac4c7d7851bfd89c6557c65f6e27c1370d5334726a5e0f21ebc6076023ab5bce.jpg"
+        },
+        {
+          "url": "media/cached-image_e29836dd0fdd373b3654fdc530f0871616ab1015e63887047ccbfcf2109a2c52.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒868-0033 Kumamoto, Hitoyoshi, Shimoshinmachi, 333-1 観光複合施設 HASSENBA HITOYOSHI KUMAGAWA",
+      "city": "Hitoyoshi",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DDYAQaqc9QjhyKUT8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The riverside complex along the Kuma River in Hitoyoshi appears in Episode 7, its embankment and waterway echoing the calm, reflective river scenes where Natsume sits quietly with Nyanko-sensei between youkai encounters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_natsumes-book-of-friends_8",
+      "name": "Bento's Kudou",
+      "localName": "弁当のくどう",
+      "coordinates": {
+        "lat": 32.23507,
+        "lng": 130.89418
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7056c38-4dd2-498f-bdc5-ef6d8dd5f008.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7056c38-4dd2-498f-bdc5-ef6d8dd5f008.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Z3ixQeAkmZzmYgqi8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This local bento shop appears in Episode 9 as one of the small, warm business fronts that fill Natsume's everyday Hitoyoshi life, a reminder that beneath his ghostly dealings he still navigates a very ordinary, human world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZzCRhsV_QDURpF51CPw03ZY",
+      "name": "Yatsushiro Station",
+      "localName": "八代駅",
+      "coordinates": {
+        "lat": 32.503819899999996,
+        "lng": 130.6215554
+      },
+      "image": "https://cdn.animepilgrimage.com/places/060de4e3-1dc0-4aea-99f5-4a69767dda58.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/060de4e3-1dc0-4aea-99f5-4a69767dda58.webp"
+        },
+        {
+          "url": "media/cached-image_1cc9503366d4352f0a7d2f78c5c44d2b4a11e56ab74db40c63a19cf68c0ae2ae.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yatsushiro Station, 1-chōme-1 Hagiwaramachi, Yatsushiro, Kumamoto 866-0831, Japan",
+      "city": "Yatsushiro",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/WzsE1DmSp5M2Vhoy9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Yatsushiro Station appears in Episode 9 as a transit hub connecting Natsume to the wider Kumamoto region, its platforms representing the threshold moments of departure and return that punctuate his episodic journeys to help spirits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-APllxPzURdD9tH8nHjiA",
+      "name": "Sanjigahara Kannondo",
+      "localName": "三日原観音堂",
+      "coordinates": {
+        "lat": 32.2100605,
+        "lng": 130.7299463
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23c58e81-d2a9-433c-a209-cb80d0775a09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23c58e81-d2a9-433c-a209-cb80d0775a09.webp"
+        },
+        {
+          "url": "media/cached-image_0f70a424a4615bb2a1e36301a986ad2c42cc9a5042fc71ea653dcd78f1fd686b.jpg"
+        },
+        {
+          "url": "media/cached-image_caa39aabe8e8acd887a25f6a1463308fa5b339bac1db42b43ecfbbf5948a83d5.jpg"
+        },
+        {
+          "url": "media/cached-image_39ca42d95b237ffa8c2f2eed7848799d3fdbfd5887607529f1cc1c8785aad3b1.jpg"
+        },
+        {
+          "url": "media/cached-image_89cef8ff0b5ea1ec300a4ddbba0078cb0e38f8f1d45bbb3700b7d42c63e7cc6a.jpg"
+        },
+        {
+          "url": "media/cached-image_b69cd61239f49864c3d755abd2306579946e4a366d826f3bee388451ab6bf8d6.jpg"
+        }
+      ],
+      "type": "Place of worship",
+      "categories": [
+        "Place of worship"
+      ],
+      "rating": 4.2,
+      "reviewCount": 38,
+      "priceLevel": null,
+      "address": "Sanjigahara Kannondo, 62 Shimoto Goemachi, Hitoyoshi, Kumamoto 868-0077, Japan",
+      "city": "Hitoyoshi",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HaWkqhWHDXaHcr2X6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small roadside hall appears in Episode 1 as the kind of quiet, overgrown shrine Natsume passes while sensing a youkai lurking nearby, establishing the rural Kumamoto atmosphere that defines his daily life with Nyanko-sensei.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ31KLDbN2PzURljMVyKzNXE0",
+      "name": "Tengu Bridge",
+      "localName": "天狗橋",
+      "coordinates": {
+        "lat": 32.2258134,
+        "lng": 130.71393799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/579a7274-4d13-49a7-9845-1f6e67c04d0e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/579a7274-4d13-49a7-9845-1f6e67c04d0e.webp"
+        },
+        {
+          "url": "media/cached-image_0ee71d90e7a40eff9979ad89187a1850bbd5368592b62f6efa8cbc97e59c5bb5.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tengu Bridge, 1-2 Nakagamimachi, Hitoyoshi, Kumamoto 868-0085, Japan",
+      "city": "Hitoyoshi",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UUiaYsiWqW5qfx477",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This stone bridge in Hitoyoshi appears in Episode 3 as a crossing point Natsume uses while following a youkai's trail, the quiet river below mirroring the gentle, melancholic mood of his ghost-filled wanderings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk-NrTXKnQDUR8KSK6jt4C1s",
+      "name": "Ichifusa Shrine",
+      "localName": "市房山神宮",
+      "coordinates": {
+        "lat": 32.3149355,
+        "lng": 131.0857226
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97964905-7444-406e-bc57-64790c6412c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97964905-7444-406e-bc57-64790c6412c9.webp"
+        },
+        {
+          "url": "media/cached-image_768d756a6730ee287c00bf851cf1b11dbd29b76460019fbce8cd0f7cf0e54ebf.jpg"
+        },
+        {
+          "url": "media/cached-image_040f9b8d5a81e3b6140a5175e67d6aeb132f2fa37b54a16e06cc8f27ea9af680.jpg"
+        },
+        {
+          "url": "media/cached-image_6282635c2d5170c79656c4ab7def11cc464b7ea79bbe53e6e3d5747a72e05b8a.jpg"
+        },
+        {
+          "url": "media/cached-image_cc03f81eb6d8c87f6fe99aee740f5aafd7529741decc785787da6d3aa6bfa023.jpg"
+        },
+        {
+          "url": "media/cached-image_5a2913204cc42bade4e29e0bd1626e03021dd9ddecae6bed9be3234bafdee8e4.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "Ichifusa Shrine, Yuyama, Mizukami, Kuma District, Kumamoto 868-0703, Japan",
+      "city": "Mizukami",
+      "region": "Kuma District, Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cfiZpuY4uvKENnPp7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The forested approach to Ichifusa Shrine appears in Episode 3 as the kind of ancient, spirit-inhabited sacred ground that draws Natsume deeper into dealings between the human and youkai worlds.",
+      "fanTopPick": true
+    }
+  ]
+}

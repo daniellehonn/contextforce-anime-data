@@ -1,0 +1,1396 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Deaimon",
+  "slug": "deaimon",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_7e12ac826c5825d65d89fde46cf5d78bb06afc1b0ca2707c1be2cc33335f97be.webp",
+  "image": "media/cached-image_7e12ac826c5825d65d89fde46cf5d78bb06afc1b0ca2707c1be2cc33335f97be.webp",
+  "banner": null,
+  "primaryLocation": "Kyoto, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.0488164,
+    "lng": 135.97302031999996
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Deaimon"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ91GfqGcIAWARzXyvYWWi_5g",
+      "name": "Demachi Imported Foods - Main Store",
+      "localName": "出町輸入食品 本店",
+      "coordinates": {
+        "lat": 35.0273952,
+        "lng": 135.76927609999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/596a16fa-1586-477f-a7ca-4cbdebca4aae.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/596a16fa-1586-477f-a7ca-4cbdebca4aae.webp"
+        },
+        {
+          "url": "media/cached-image_6cd8e7c2014100752a15c0bddda304eff0353372d1f2d8063f00b07c3c95ef2f.jpg"
+        }
+      ],
+      "type": "Coffee store",
+      "categories": [
+        "Coffee store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Demachi Imported Foods - Main Store, Kamigyo Ward, Kyoto, 602-0842, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/sZXATnQMzdrJkbEw8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The shop appears in episode 11 as a background location in the Demachiyanagi shopping district, the neighborhood Naoko wanders while reconnecting with his roots and the community around Suetomi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8cdMFF0IAWAR5fsl4NH6wP8",
+      "name": "Demachiyanagi Station",
+      "localName": "出町柳駅",
+      "coordinates": {
+        "lat": 35.0305746,
+        "lng": 135.7732474
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c579ab60-cd97-457e-9333-ab4de01a6c2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c579ab60-cd97-457e-9333-ab4de01a6c2b.webp"
+        },
+        {
+          "url": "media/cached-image_b2287a74cf5750f788cca4aa6c21d8b7e66b613b7e828f770e171863087f7754.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "32-1 Tanaka Kamiyanagicho, Sakyo Ward, Kyoto, 606-8205, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0305746,135.7732474,3a,75y,202.03h,94.22t/data=!3m8!1e1!3m6!1sAF1QipPawxq6Xi__jSBIjlZMCgFRULW_FnN6WC4_0WPF!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPawxq6Xi__jSBIjlZMCgFRULW_FnN6WC4_0WPF%3Dw203-h100-k-no-pi0-ya94.87401-ro0-fo100!7i6528!8i3264?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Naoko arrives at this Eizan Railway terminal in episode 1 as he returns to Kyoto after years away, marking the moment he steps back into the world of his family's wagashi shop. It is the gateway to the Suetomi neighborhood and appears repeatedly throughout the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaxeRZV0IAWARnPVYQ1ISXj0",
+      "name": "Kamo Ohashi Bridge",
+      "localName": "賀茂大橋",
+      "coordinates": {
+        "lat": 35.02906,
+        "lng": 135.77115
+      },
+      "image": "https://cdn.animepilgrimage.com/places/94d6127a-9b7f-4f75-90d8-64ae84a2d564.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/94d6127a-9b7f-4f75-90d8-64ae84a2d564.webp"
+        },
+        {
+          "url": "media/cached-image_1b6560e835ef656f3ccc48a1e95225cace6b10401411804eaf60110e3ac66f89.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kajiicho, Kamigyo Ward, Kyoto, 602-0841, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0291007,135.7708945,3a,75y,99.6h,102.47t/data=!3m7!1e1!3m5!1sD5hxNtX0rYRmhTDn1d5xGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.468960515771244%26panoid%3DD5hxNtX0rYRmhTDn1d5xGQ%26yaw%3D99.60062477843847!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Featured in the opening credits with shots of the Kamo River scenery, this bridge represents the everyday landscape of Kyoto that grounds the slice-of-life mood of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbeDwe-0HAWARGu4ubMH-Jls",
+      "name": "Kitano-tenmangu Shrine",
+      "localName": "北野天満宮",
+      "coordinates": {
+        "lat": 35.0307722,
+        "lng": 135.7351063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05d98d9f-e638-466c-a590-8235dc090a2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05d98d9f-e638-466c-a590-8235dc090a2b.webp"
+        },
+        {
+          "url": "media/cached-image_21ca9557d471055f4392aa4400cc64dbb47343c4dfc0a8a6a40ff290d0d95fb5.jpg"
+        },
+        {
+          "url": "media/cached-image_e061c72a00e90d974509e27f772427e5068f9042f21921c95b171cfe20acb55b.jpg"
+        },
+        {
+          "url": "media/cached-image_f95a02ecdc23cc46aa1599ca37ccdde889d784e0072d7f66048d190a282b1085.jpg"
+        },
+        {
+          "url": "media/cached-image_c286a97ac3f67ebfb11211ecdbdfdb5fba81d6d0ffc169e8bc45f5612aaa585f.jpg"
+        },
+        {
+          "url": "media/cached-image_93938297b675bf6d19eef9462a0ae86a305ddf226b9894f049daa9cb2f0d13ce.jpg"
+        },
+        {
+          "url": "media/cached-image_e2d8af81a1827e393ca47a84acea931897df75066ce7622abae4b5f8eb171072.jpg"
+        },
+        {
+          "url": "media/cached-image_5fe931ee773d0d540addb2f51ea80a1d369e3d2043bbba88af018fbd66496aef.jpg"
+        },
+        {
+          "url": "media/cached-image_2f353accb6ba03c03fda102027e8f0d84105efa5f4ff42226182ed0c54b83916.jpg"
+        },
+        {
+          "url": "media/cached-image_c43aef6c2e643be0f97b97530fe4d021fd30f0234749d92f54ce3f5e53bcf000.jpg"
+        },
+        {
+          "url": "media/cached-image_79a97d4c27f7dbdc80604bf23ad3eb64fd4960b45a01e3fcdc61c667cc656c36.jpg"
+        },
+        {
+          "url": "media/cached-image_ede81217b469da5fd55e7153bea9a38d2691cf0e27f23ed6f586b31b28f7af8b.jpg"
+        },
+        {
+          "url": "media/cached-image_409027121754b0d5ac3e06aaa1d5237281e6fdae345ffa40cf633eca4e4553a8.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.4,
+      "reviewCount": 16639,
+      "priceLevel": null,
+      "address": "Bakurocho, Kamigyo Ward, Kyoto, 602-8386, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0307722,135.7351063,3a,90y,280.84h,93.25t/data=!3m8!1e1!3m6!1sAF1QipM1ciPyhOkrqQKpQjI2-n7pINuPrSVherce8GdC!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM1ciPyhOkrqQKpQjI2-n7pINuPrSVherce8GdC%3Dw203-h100-k-no-pi-0-ya91.4236-ro-0-fo100!7i6080!8i3040?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In episode 10 the shrine's famous monthly Tenjin market is visited, where traditional crafts and local sweets are sold, tying directly into the world of wagashi culture that Naoko and Itsuka inhabit.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7wKLka4IAWARCByidG5EGrY",
+      "name": "Kyoto Station",
+      "localName": "京都駅",
+      "coordinates": {
+        "lat": 34.9864205,
+        "lng": 135.758982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c204012-e21e-4c4a-a16e-75daaf985f1e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c204012-e21e-4c4a-a16e-75daaf985f1e.webp"
+        },
+        {
+          "url": "media/cached-image_0472f43aa6b504d48603c1b2af9ac5ca8322d61f1d3caa5b83276eff44723ace.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9864205,135.758982,3a,75y,158.46h,98.21t/data=!3m6!1e1!3m4!1seLCEoiRDA8XStEuU6T3HgQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Seen in episode 1 as the first landmark Naoko passes through on his return journey to Kyoto, establishing his re-entry into the city and foreshadowing the life change that awaits him at Suetomi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81ca95d3-9f6d-4600-8eca-94986c6a0763.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81ca95d3-9f6d-4600-8eca-94986c6a0763.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Naoko's Tokyo life before the story begins is referenced through this Shinjuku station location in episode 8, contrasting his old urban existence with the slower, tradition-rooted pace he finds in Kyoto."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNfpddK8IAWAR21KSO4M57nY",
+      "name": "Yodobashi Camera Multimedia Kyoto",
+      "localName": "ヨドバシカメラ マルチメディア京都",
+      "coordinates": {
+        "lat": 34.9876129,
+        "lng": 135.7598231
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a66c4f46-471f-48cb-b921-9ca207a77405.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a66c4f46-471f-48cb-b921-9ca207a77405.webp"
+        },
+        {
+          "url": "media/cached-image_661153331c4853fbb8448351fcb94ae35e72abc62891815f9d359fde75b6c9bb.jpg"
+        },
+        {
+          "url": "media/cached-image_ab7659230921cd798d883f52217858fa5389080e4076c0d8c6efdc43cfb11f28.jpg"
+        },
+        {
+          "url": "media/cached-image_fa30ded6eda945fee45886298ec081c3a52a74e1b6c4953ca5368b177af1ca6e.jpg"
+        },
+        {
+          "url": "media/cached-image_47198ccee7c7915804051acca1e98b57dbbad74e5690eaaa1de01304885da41d.jpg"
+        },
+        {
+          "url": "media/cached-image_0f0186d3abf8f4ebdc2ef9b0345b2f1384436d27a937c451a96f6cfb36769af2.jpg"
+        },
+        {
+          "url": "media/cached-image_c437bfe5a69d58bc7e7abf380fc417fdbfaff820c588a2e739c4856d7bd2d5d0.jpg"
+        }
+      ],
+      "type": "家電量販店",
+      "categories": [
+        "家電量販店"
+      ],
+      "rating": 4.1,
+      "reviewCount": 3510,
+      "priceLevel": null,
+      "address": "地下1階, 590-2 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Yodobashi+Camera+Multimedia+Kyoto/@34.9876129,135.7598231,3a,90y,355.72h,107.68t/data=!3m6!1e1!3m4!1sLVJIsvQrtassEwvyqODh_Q!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x600108af745dfa35:0x76ee39833b9252db!2sYodobashi+Camera+Multimedia+Kyoto!8m2!3d34.988109!4d135.7593982!16s%2Fg%2F120r9fq7!3m5!1s0x600108af745dfa35:0x76ee39833b9252db!8m2!3d34.988109!4d135.7593982!16s%2Fg%2F120r9fq7?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Visited in episode 9 as characters stop near Kyoto Station, the store appears as part of the modern commercial Kyoto that exists alongside the traditional world of wagashi in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4W9CCwUJAWARyauI6BzKiiU",
+      "name": "Higashiyama Jisho-ji",
+      "localName": "東山慈照寺",
+      "coordinates": {
+        "lat": 35.0264544,
+        "lng": 135.7983325
+      },
+      "image": "https://cdn.animepilgrimage.com/places/453eb954-1bb7-462f-be29-302b4c688492.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/453eb954-1bb7-462f-be29-302b4c688492.webp"
+        },
+        {
+          "url": "media/cached-image_4b02409c0204e2788ec40435e316585cc50eec9c55a756cfc208b4f9907f2704.jpg"
+        },
+        {
+          "url": "media/cached-image_ba3949a79ebf1bbb6285bfae02f53f72c8cacdcab7564a72414f7bc44ae6ef9b.jpg"
+        },
+        {
+          "url": "media/cached-image_8768076ee1eb294dd104e94b8a876fe28cfc051456e73b905eb5d412f3f77f36.jpg"
+        },
+        {
+          "url": "media/cached-image_dd9ef2f5487abdac622b2036f78eeee8f488784c88df789d65a0e9557e7e2e75.jpg"
+        },
+        {
+          "url": "media/cached-image_a72f179f493680bef13a811dcc233b5e097eda4bbdf771fa2e841b22dd3b3b11.jpg"
+        },
+        {
+          "url": "media/cached-image_a620f273319437816ed9ad31353bbe8275ec26c46ac7332611c6deabf936fdca.jpg"
+        },
+        {
+          "url": "media/cached-image_ba22a3cd2ec6ab8dc092b74fdde7da39bc0339ac9c45ba30d0f7868fef7ed1a2.jpg"
+        },
+        {
+          "url": "media/cached-image_c77174425d55ca8548ff60e6e9f5e55c53ea1faf957fc7da08574c48a8cebafb.jpg"
+        },
+        {
+          "url": "media/cached-image_5d6c1eca08f500c0a3000db956451b4a38bcc1c204f9d9d5987d1b2cca7a7a80.jpg"
+        },
+        {
+          "url": "media/cached-image_939f04905a73005374a1ce013fc2e86500ec731612dec94bec0d292ab6930268.jpg"
+        },
+        {
+          "url": "media/cached-image_d1f0455517399651014cc9e4ccbdf82147b4d01f807372dc223fbae0cff55bc3.jpg"
+        },
+        {
+          "url": "media/cached-image_04e8ae0f850d6506229ca1e9e649a5d0531ce1d664931701aece8247feb12f2b.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 17143,
+      "priceLevel": null,
+      "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0264544,135.7983325,3a,90y,300.3h,97.71t/data=!3m8!1e1!3m6!1sAF1QipNImhRp70ooZwtcnIKkJ4htX_oCnp_BtRiyulLM!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNImhRp70ooZwtcnIKkJ4htX_oCnp_BtRiyulLM%3Dw203-h100-k-no-pi-0-ya204.29153-ro0-fo100!7i12288!8i5196?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Ginkaku-ji, the Silver Pavilion, appears in episode 5 during a walk through the Higashiyama cultural district, capturing the contemplative Kyoto atmosphere that shapes the gentle, reflective tone of Deaimon.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT-pGNaQIAWAR9qxA4ilQENM",
+      "name": "Hotel Sanoya",
+      "localName": "ホテル佐野家(RYOKAN SANOYA)",
+      "coordinates": {
+        "lat": 34.9876819,
+        "lng": 135.7609628
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ae574a0-5ec0-4755-876c-88994b42f459.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ae574a0-5ec0-4755-876c-88994b42f459.webp"
+        },
+        {
+          "url": "media/cached-image_5ccfbdacb5f875563b34365a2ae31d36feda9df9c7d02568b43b00e0db9bddab.jpg"
+        },
+        {
+          "url": "media/cached-image_ebdc35a3a2361d10e406aa7a7247df7e022b37b4cd5f80a4dfc4796ecbe27684.jpg"
+        },
+        {
+          "url": "media/cached-image_806da98f6122f413c4895e06d31170126bc4007cde4d679f6a36897365dd740f.jpg"
+        },
+        {
+          "url": "media/cached-image_479ce41a7ac414e25f143e13b19f2c9d672073e7f9011145dd2f7d76a654da62.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Sanoya, 539 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BLrx16XHab8FGKPK9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This inn near Kyoto Station appears in episode 1 as part of the arrival sequence in central Kyoto, grounding the early scenes before Naoko makes his way to the Demachiyanagi district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk3d4NHIIAWAR1o3gj3nC0r8",
+      "name": "Imadegawa Station",
+      "localName": "今出川駅",
+      "coordinates": {
+        "lat": 35.0298223,
+        "lng": 135.7593593
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d397c72e-4fac-420b-9a0e-950fddb3146e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d397c72e-4fac-420b-9a0e-950fddb3146e.webp"
+        },
+        {
+          "url": "media/cached-image_537563236ca49f9086a890767754f3cfa19c4cf9b821cdd8ce9758ca73c5e110.jpg"
+        },
+        {
+          "url": "media/cached-image_afe14101da1a2d372d9331d4e4e129ddffbe903aa025aab28e89d91445a99b8b.jpg"
+        },
+        {
+          "url": "media/cached-image_e86f4b6aef712d2f7690cb91c90c2a83cbcc99dfe1499cf70e60d93ab17f96f4.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe42f0180348cd1f7016aa5a4c73f9c9324f0654300048f062e545d2ed52a6.jpg"
+        },
+        {
+          "url": "media/cached-image_60296e3b5d3cb03df47bab6407cc083993c7f741471c081f8f87f7b5fdd577e3.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 463,
+      "priceLevel": null,
+      "address": "Imadegawa Station, Okamatsuchō, Kamigyo Ward, Kyoto, 602-0032, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Y8dn5v9BT1Q5XGVc9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Imadegawa subway stop close to the Demachiyanagi area appears in episode 1 as part of Naoko's route toward Suetomi, placing the family shop precisely within Kyoto's urban geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHV-OFHsIAWARVQlhBBl6ix8",
+      "name": "Kyoto Gyoen National Garden",
+      "localName": "京都御苑",
+      "coordinates": {
+        "lat": 35.0230617,
+        "lng": 135.7634452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89e2faea-1252-4e61-a4f8-d0db3d1a08c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89e2faea-1252-4e61-a4f8-d0db3d1a08c2.webp"
+        }
+      ],
+      "type": "National park",
+      "categories": [
+        "National park"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1544,
+      "priceLevel": null,
+      "address": "Kyoto Gyoen National Garden, 3 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Uxt8oAhFL8BdJjp99",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The large park surrounding the old Imperial Palace appears in episode 1 as open green space near the family's neighborhood, evoking the historic, serene Kyoto that defines the show's visual identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI_vDDl0IAWARJHDngvtZKSI",
+      "name": "Shimogamo Police Station Kamo-Ohashi Police Box",
+      "localName": "左京警察署 加茂大橋交番",
+      "coordinates": {
+        "lat": 35.029053399999995,
+        "lng": 135.7727043
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72e98f68-e056-42fc-8212-b3c3304f05e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72e98f68-e056-42fc-8212-b3c3304f05e1.webp"
+        },
+        {
+          "url": "media/cached-image_61b8ef635b1c7c28a9ffada820028de3d9bf3b85908364081274e9c0a71605e8.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shimogamo Police Station Kamo-Ohashi Police Box, 15 Tanaka Shimoyanagicho, Sakyo Ward, Kyoto, 606-8204, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/sKnqz4i1Y2TR5M6t7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The small police box near Kamo Ohashi appears in episode 2 as a background detail in the Demachiyanagi area, part of the lived-in neighborhood texture that makes Suetomi's surroundings feel real."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_12",
+      "name": "Ohara (Bus)",
+      "localName": "大原 (バス)",
+      "coordinates": {
+        "lat": 35.11974,
+        "lng": 135.82884
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33d781f0-b5b6-4063-9ca1-b423d09f8a5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33d781f0-b5b6-4063-9ca1-b423d09f8a5c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/2fzWmZvacbF884AEA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "In episode 3 Naoko and Itsuka take a day trip to the rural Ohara valley north of Kyoto, a journey that becomes a bonding moment between the two as they leave the city behind."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_13",
+      "name": "Hinasato",
+      "localName": "ひな里",
+      "coordinates": {
+        "lat": 35.11911,
+        "lng": 135.83381
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a13dcecb-c08f-4f3a-9b6b-3ff3c256fe97.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a13dcecb-c08f-4f3a-9b6b-3ff3c256fe97.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/5Q74hbwbtLMbsnRHA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Ohara-area restaurant Hinasato is visited in episode 3 during the Ohara day trip, where the characters enjoy local Kyoto cuisine and the quiet mountain atmosphere of the valley."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsTExh5ChAWARXN3SLDlfL5g",
+      "name": "Seryojaya",
+      "localName": "そば処 芹生茶屋",
+      "coordinates": {
+        "lat": 35.1195307,
+        "lng": 135.8338691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f73d6fc1-88f5-4509-a033-dc350459cfa6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f73d6fc1-88f5-4509-a033-dc350459cfa6.webp"
+        },
+        {
+          "url": "media/cached-image_6de1c98a13173376d2a39c836841bab8d08e75f81db43e459e6c1c4d58add3af.jpg"
+        }
+      ],
+      "type": "Soba noodle shop",
+      "categories": [
+        "Soba noodle shop"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seryojaya, ２８ Oharashorinincho, Sakyo Ward, Kyoto, 601-1241, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/D6F4qFx7G2DiZ86v6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This soba shop in Ohara appears in episode 3 during the countryside excursion, offering Naoko and Itsuka a taste of rustic Kyoto far from the wagashi world of Demachiyanagi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6pmfdagAWAR4ajU_JjiOz0",
+      "name": "Ohara Sanzenin Parking Lot",
+      "localName": "三千院前有料駐車場",
+      "coordinates": {
+        "lat": 35.118688999999996,
+        "lng": 135.8333878
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dcbeb5b6-6806-4590-8f88-ab6b2a928223.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dcbeb5b6-6806-4590-8f88-ab6b2a928223.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sanzenin Maeyuryo Parking Lot, 270 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wTEJZLQaBBCGHGEB9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The approach to Sanzenin temple in Ohara is passed in episode 3 as part of the day trip route, with the pastoral scenery reflecting the calmer emotional register the Ohara episode aims for."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_16",
+      "name": "la bûche",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.1202,
+        "lng": 135.83008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32c8cd8d-104d-4a82-862d-712111b10d93.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32c8cd8d-104d-4a82-862d-712111b10d93.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4PA7wqUmabTBs7WH7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "A cafe in the Ohara area visited in episode 3 during the day trip, adding a contemporary detail to the otherwise historically textured Ohara countryside scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_17",
+      "name": "Zen",
+      "localName": "ぜん",
+      "coordinates": {
+        "lat": 35.02879,
+        "lng": 135.77281
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d51766a5-186f-4cd8-98ce-1a432c21ffab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d51766a5-186f-4cd8-98ce-1a432c21ffab.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/dMNAfq6MgqUBhWjV9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Demachiyanagi-area eatery appears in episode 3, part of the local food scene that surrounds Suetomi and underlines how deeply embedded the shop is in its neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzaA0T5MIAWARVDisxcB-VD4",
+      "name": "Hakata-Nagahama-Ramen Miyoshi",
+      "localName": "博多長浜らーめん みよし",
+      "coordinates": {
+        "lat": 35.0086076,
+        "lng": 135.77057259999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7d03307-3a4c-4fd9-985f-e53bcb7c307e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7d03307-3a4c-4fd9-985f-e53bcb7c307e.webp"
+        },
+        {
+          "url": "media/cached-image_cf2bc95456783561064b4a8c9d340dfe98f12b936cf09c1a76b2beb88f951a5d.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Hakata-Nagahama-Ramen Miyoshi, 辻田ビル １階 115 Ishiyacho, Nakagyo Ward, Kyoto, 604-8002, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YQDLiiPVytYHU6TU9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The ramen shop near central Kyoto appears in episode 4 as a casual dining spot for the characters, showing the everyday side of Kyoto life beyond the refined world of traditional sweets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzTv1NEGCAGARP4zXM8fBqq4",
+      "name": "Zaimoku Bridge",
+      "localName": "明石海峡大橋",
+      "coordinates": {
+        "lat": 34.6229442,
+        "lng": 135.02681859999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c452e8a-1057-4e85-b1a1-7220f43cbc7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c452e8a-1057-4e85-b1a1-7220f43cbc7e.webp"
+        },
+        {
+          "url": "media/cached-image_18fdcb37561e608662ef654b51624293a8651f659e398bf5ac0c4515ec3659dd.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akashi-Kaikyo Bridge, 4 Higashimaikocho, Tarumi-ku, Kobe, Hyogo 655-0047, Japan",
+      "city": "Kobe",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/b5Uh6BJB8ADre7nz7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Akashi Kaikyo Bridge area appears in episode 4 in a scene depicting travel outside Kyoto, briefly expanding the geographic scope of the story beyond the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2yLpgEYIAWART9rzIXsm4Pk",
+      "name": "Kyoto City Sakyo Library",
+      "localName": "京都市左京図書館",
+      "coordinates": {
+        "lat": 35.038033999999996,
+        "lng": 135.7780641
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b37f809e-6640-4bd9-a202-9e1a3e3a0328.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b37f809e-6640-4bd9-a202-9e1a3e3a0328.webp"
+        },
+        {
+          "url": "media/cached-image_af070ed75ced153430c96387f062152bb9157f0f6d4bcd5eb9d3588396aa9cae.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kyoto City Sakyo Library, 5 Takanonishihirakicho, Sakyo Ward, Kyoto, 606-8103, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZvyfzPrKBCvhrQpW9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "In episode 5 the local library in Sakyo Ward is visited, reflecting the studious, curious side of the characters as they research history and tradition connected to wagashi making."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx50DO1AIAWARaqHmh8fnQ7U",
+      "name": "Tanaka-jinja Shrine",
+      "localName": "田中神社",
+      "coordinates": {
+        "lat": 35.0346295,
+        "lng": 135.7821688
+      },
+      "image": "https://cdn.animepilgrimage.com/places/09049b3e-c57f-4910-9b26-f850563f6ef6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/09049b3e-c57f-4910-9b26-f850563f6ef6.webp"
+        },
+        {
+          "url": "media/cached-image_33466b6737aa78826d1283222aba3ea9d971ddac31a7f104ce1e5c084f57bf4b.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 164,
+      "priceLevel": null,
+      "address": "Tanaka-jinja Shrine, １ Tanaka Nishihinokuchicho, Sakyo Ward, Kyoto, 606-8221, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/FzoSjQ93CPnRD8Mr6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small neighborhood shrine in Sakyo Ward appears in episode 5, one of the local landmarks in the Demachiyanagi district that form the quiet, familiar backdrop of the characters' daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_22",
+      "name": "Kaso Shrine",
+      "localName": "菓祖神社",
+      "coordinates": {
+        "lat": 35.02457,
+        "lng": 135.7849
+      },
+      "image": "https://cdn.animepilgrimage.com/places/592f606c-8b73-46bc-abb5-aef1ac274e79.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/592f606c-8b73-46bc-abb5-aef1ac274e79.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/3NjnD6YMxwTyHAwy7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Kaso Shrine, dedicated to the gods of confectionery, appears in episode 5 and holds special meaning for the Suetomi family as a spiritual connection to the art of wagashi making.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA4Pi1_gIAWARjoS9UxmAvsI",
+      "name": "Yoshida Shrine",
+      "localName": "吉田神社",
+      "coordinates": {
+        "lat": 35.025284299999996,
+        "lng": 135.78470199999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d1af925-6ab3-45c4-8897-b4f2ac507564.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d1af925-6ab3-45c4-8897-b4f2ac507564.webp"
+        },
+        {
+          "url": "media/cached-image_d79849fb2f86e4a5207d29efa8491599b6f283ed95fde6d4f5f1c9cbd6a80e00.jpg"
+        },
+        {
+          "url": "media/cached-image_2847683148eb81514d626f9f0b3ca57cb9f7aaa668bfb685c84eefb994e15e1d.jpg"
+        },
+        {
+          "url": "media/cached-image_935abfad8cc0d3a5bfcbc09b1c8343879fa0ac05144a4ab3d0ad65845b2905f9.jpg"
+        },
+        {
+          "url": "media/cached-image_534fb5348c90617b32dc23673c62747119c49e2f178ba953a766af1fde9dc873.jpg"
+        },
+        {
+          "url": "media/cached-image_a2505f4d56b896de3a40df57aa0ef165df4851b4170f9aa5258d26f8a9937032.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1934,
+      "priceLevel": null,
+      "address": "Yoshida Shrine, 30 Yoshidakaguraokacho, Sakyo Ward, Kyoto, 606-8311, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HzKv1RLFMsA9pukS8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Yoshida Shrine near Kyoto University appears in episode 5 during a walk through the Yoshida hill area, its wooded precincts providing a contemplative setting for a character conversation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_24",
+      "name": "Kyodai Seimon-mae (Bus)",
+      "localName": "京大正門前 (バス)",
+      "coordinates": {
+        "lat": 35.02539,
+        "lng": 135.77849
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e01f1f8-7eaf-4132-85d7-15dc86199186.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e01f1f8-7eaf-4132-85d7-15dc86199186.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/YPibsseujuNRk2Rj6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The bus stop in front of Kyoto University's main gate appears in episode 5 as a transit point near the Yoshida area locations visited in that episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxT057tAHAWAR9uGd7sjjUZQ",
+      "name": "Nijo Park",
+      "localName": "二条公園",
+      "coordinates": {
+        "lat": 35.0166386,
+        "lng": 135.7459992
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0ab7757e-7ff7-41b8-b002-747bdddc8f71.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0ab7757e-7ff7-41b8-b002-747bdddc8f71.webp"
+        },
+        {
+          "url": "media/cached-image_63e006a1225cb39c919b00c59fed9fe1a9886e4d2d8b5d431d93474f839817ed.jpg"
+        },
+        {
+          "url": "media/cached-image_6368031657a0f5b150cb24021039a55c5800855fe936e0ae9a9adcd5bb93119f.jpg"
+        },
+        {
+          "url": "media/cached-image_b93afc922fda287e0801816632d4519089ed1a06d237b9e2ffe35e84b7e75a47.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Nijō Park, ９１０−４０−９６４ ９１０-40-964 Shuzeicho, Kamigyo Ward, Kyoto, 602-8155, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fUhSLQ5APeVfckLu5",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "In episode 8 Nijo Park appears as a casual outdoor gathering spot in the city, a quiet urban green space where characters meet away from the shop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS6dQXtqMGGARM94EobpE9H8",
+      "name": "North Sea Japanese × sake Isaribi (rummage) Shinjuku",
+      "localName": "焼鳥居酒屋 鶏闘士 新館",
+      "coordinates": {
+        "lat": 35.6951227,
+        "lng": 139.7009149
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8cf0f499-2c23-44f4-a19c-a9fdcdd75017.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8cf0f499-2c23-44f4-a19c-a9fdcdd75017.webp"
+        },
+        {
+          "url": "media/cached-image_7551e15dacb7f3730c0e5a025502f5bb4e6797c418d80992e6ecfc1a40a9ffb5.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "North Sea Japanese × sake Isaribi (rummage) Shinjuku, 1 Chome-21-3 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/i8XciYZqnj2XEoBv5",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "A Shinjuku izakaya appears in episode 8 in flashback or travel context tied to Naoko's former Tokyo life, contrasting his old Shinjuku haunts with his new Kyoto identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXdx4CxwGAWARWUbHqiTaF1Q",
+      "name": "Kyoto Aquarium",
+      "localName": "京都水族館",
+      "coordinates": {
+        "lat": 34.987516,
+        "lng": 135.7472123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84d7a9e9-ca7b-43e9-a095-29759891288b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84d7a9e9-ca7b-43e9-a095-29759891288b.webp"
+        },
+        {
+          "url": "media/cached-image_8c31fd9c77e6861968ffc5fc94dcde2111145a97c2ecf59a99bbcf9b7ab9fde0.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.2,
+      "reviewCount": 57,
+      "priceLevel": null,
+      "address": "Kyoto Aquarium, 梅小路公園, 内, 35-1 Kankijicho, Shimogyo Ward, Kyoto, 600-8835, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zK59ibZaYV6WU9348",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "In episode 9 Naoko takes Itsuka to the Kyoto Aquarium as an outing, a memorable scene that captures their growing bond through the wonder of the sea creatures they observe together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXx4jvUgGAWAR4X1RQgHpdvc",
+      "name": "Nagura Park",
+      "localName": "名倉公園",
+      "coordinates": {
+        "lat": 34.993632399999996,
+        "lng": 135.7291716
+      },
+      "image": "https://cdn.animepilgrimage.com/places/14d6ea30-24a1-41ce-b6a6-1f47075fff65.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/14d6ea30-24a1-41ce-b6a6-1f47075fff65.webp"
+        },
+        {
+          "url": "media/cached-image_a960c61a6993890271a136b91948a8cc9783572fd142f68b1aa8a37f085d224d.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagura Park, ５-5 Nishishichijo Yawatacho, Shimogyo Ward, Kyoto, 600-8888, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3sWRtq3Ey9S9xRFX8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small park near the Umekoji area appears in episode 9 as an outdoor location near the aquarium, part of the leisurely day out Naoko and Itsuka share."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe0CYAk4IAWARaij4OvTuezw",
+      "name": "Takahara Park",
+      "localName": "高原児童公園",
+      "coordinates": {
+        "lat": 35.0365337,
+        "lng": 135.7847654
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8fdb0be-8837-4e3b-b46e-4ff6f0ff62b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8fdb0be-8837-4e3b-b46e-4ff6f0ff62b7.webp"
+        },
+        {
+          "url": "media/cached-image_6038f87dbd600c07536a9d6943f88d19661c3ed6f37d71dac88bb55e72a2d360.jpg"
+        },
+        {
+          "url": "media/cached-image_42b221a9c41d3663bc73ec528182cf9783f45cd714d42e53a665915c6c7bd33e.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Takahara Park, 8 Tanaka Kitaharunacho, Sakyo Ward, Kyoto, 606-8233, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7UFS7m2yWSJ8eTwC9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The park in the Tanaka neighborhood of Sakyo Ward appears in episode 10 as a local outdoor space in the Demachiyanagi district, frequented by the characters during everyday scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIRwgeGcIAWARUVvXFqUvYzg",
+      "name": "Creation Core Kyoto Mikuruma",
+      "localName": "クリエイション・コア京都御車",
+      "coordinates": {
+        "lat": 35.0277418,
+        "lng": 135.77021589999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72fae021-da6a-4896-8427-231fe5c40bc6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72fae021-da6a-4896-8427-231fe5c40bc6.webp"
+        },
+        {
+          "url": "media/cached-image_f59a10317b15a137c64f2723dfd52a91a446558a5d31ea3f30d126286b5e7155.jpg"
+        },
+        {
+          "url": "media/cached-image_d3a29251f3843dc363f44313816265b3b23032213fa2a579f5bd577e4945b35f.jpg"
+        }
+      ],
+      "type": "Association / Organization",
+      "categories": [
+        "Association / Organization"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Creation Core Kyoto Mikuruma, クリエイション・コア京都 御車 448-5 Kajiicho, Kamigyo Ward, Kyoto, 602-0841, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/R9UBbM2Ex7SQuYxP7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This business facility near the Demachiyanagi area appears in episode 10 as a background location in the Kajiicho district, part of the urban fabric surrounding Suetomi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFcy3fJUIAWARX0xihaP06rMSEgnBO_10jQgBYBHhpEmqOqv10hj8h93RBiACMhVqcC1reW90b2NpdHktb2RwdC1idXM46AJAhIbd0QY=",
+      "name": "Kawaramachi Imadegawa (Bus)",
+      "localName": "河原町今出川 (バス)",
+      "coordinates": {
+        "lat": 35.02785,
+        "lng": 135.76935
+      },
+      "image": "https://cdn.animepilgrimage.com/places/faf27ba2-cab8-4e4e-96e8-ae735f32b942.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/faf27ba2-cab8-4e4e-96e8-ae735f32b942.webp"
+        },
+        {
+          "url": "media/cached-image_a89cd04c50249b1017db07f06cec5c2e9a8b011f6483af56f56b596803264a98.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 1.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": ",AOvVaw168wbxvpRJCTNebIUa3UA_,,0ahUKEwigpv7Sm5eVAxWpH0QIHXFDHf8QvUwIISgA,",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zv3F7FHSHCymfrix8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The bus stop at Kawaramachi-Imadegawa intersection appears in episode 11, a transit node the characters use when traveling between the Demachiyanagi shopping district and other parts of Kyoto."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMU_I2mcIAWAR25Qge35Iauk",
+      "name": "Kogetsu Demachi Store",
+      "localName": "鼓月 出町店",
+      "coordinates": {
+        "lat": 35.0289408,
+        "lng": 135.7693697
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc86a3dc-57b0-42ec-88cf-24fc3f403875.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc86a3dc-57b0-42ec-88cf-24fc3f403875.webp"
+        },
+        {
+          "url": "media/cached-image_590968499637c9c62af38c62703a75ea4d578e050bfb362c7e5078d4a1642ca9.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kogetsu Demachi Store, 河原町通 Kamigyo Ward, Kyoto, 602-0847, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2tVcPWgNYtJPxKz77",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Japanese confectionery shop in the Demachiyanagi neighborhood appears in episode 11, a rival wagashi presence that underscores the competitive yet community-minded world Suetomi operates in."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-6EttEwcAWAR8eB_Y35eQlw",
+      "name": "Hirakata Park",
+      "localName": "ひらかたパーク",
+      "coordinates": {
+        "lat": 34.8059896,
+        "lng": 135.6392002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6b93419-bdb5-43c7-8e57-9aaa05f473c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6b93419-bdb5-43c7-8e57-9aaa05f473c8.webp"
+        },
+        {
+          "url": "media/cached-image_e86b82758912829ab99be0e4759d0fead1cba0f864cb517fbded70992cbb9d21.jpg"
+        },
+        {
+          "url": "media/cached-image_c0bc1935c8530d1e27b7c495771407e3561fc0db0068740c12b7b78e18ff2837.jpg"
+        },
+        {
+          "url": "media/cached-image_df5e8d5eba3daf373ae314fecdf8cf3c186ffb59c6b37577b8fb3feffd112883.jpg"
+        },
+        {
+          "url": "media/cached-image_7f108779268867f923dfc3d8dede2057de70ad168e8318d13af5f046669e36a8.jpg"
+        },
+        {
+          "url": "media/cached-image_1c045f8d55d2ddd5298531c4f8de179564f448506c29dde632144955e65f7499.jpg"
+        }
+      ],
+      "type": "Amusement park",
+      "categories": [
+        "Amusement park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 314,
+      "priceLevel": null,
+      "address": "Hirakata Park, 1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan",
+      "city": "Hirakata",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GcYpebbbmbMFex7E8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The large amusement park in Osaka appears in episode 12 during a group outing, a rare break from Kyoto that gives the characters a festive, carefree day together as the season nears its end."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_deaimon_34",
+      "name": "Red Falcon",
+      "localName": "レッドファルコン",
+      "coordinates": {
+        "lat": 34.80574,
+        "lng": 135.63884
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37ad8d27-42b1-4239-9649-fa44f74d3a6b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37ad8d27-42b1-4239-9649-fa44f74d3a6b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/PwuUy9nrtE9tnXDz5",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "A ride or attraction within Hirakata Park appears in episode 12 as part of the amusement park visit, with the excitement of the day serving as an emotional high point late in the series."
+    }
+  ]
+}

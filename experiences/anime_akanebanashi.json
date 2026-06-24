@@ -1,0 +1,757 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Akane-banashi",
+  "slug": "akane-banashi",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_b78156976966037850ea5ccc49b216424cb07e27f61d63314b4cfe78cd8f0894.webp",
+  "image": "media/cached-image_b78156976966037850ea5ccc49b216424cb07e27f61d63314b4cfe78cd8f0894.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.698745233333334,
+    "lng": 139.75561873333334
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Akane-banashi"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_akane-banashi_0",
+      "name": "Rakugo Cafe",
+      "localName": "らくごカフェ",
+      "coordinates": {
+        "lat": 35.69555,
+        "lng": 139.75737
+      },
+      "image": "https://cdn.animepilgrimage.com/places/CZ2SpXXeHeEhQn2yfmxU.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/CZ2SpXXeHeEhQn2yfmxU.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/z4SAZWJXFMHUmXV1A",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Rakugo Cafe appears in episode 1 as a gathering spot for rakugo enthusiasts, where Akane first immerses herself in the world of traditional storytelling outside of formal training."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_akane-banashi_1",
+      "name": "Studio Four",
+      "localName": "スタジオフォー",
+      "coordinates": {
+        "lat": 35.74019,
+        "lng": 139.73067
+      },
+      "image": "https://cdn.animepilgrimage.com/places/u7ARAxsgNVByv7F4c7Xt.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/u7ARAxsgNVByv7F4c7Xt.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/G5WAkW9E1T4Q6ACk7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Studio Four in Sugamo appears in episode 3 as a rehearsal and practice space where Akane works on her rakugo craft, depicting the unglamorous everyday grind behind the art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_z8u6niNGGAR74oWCHo3uqE",
+      "name": "Sugamo Sarutahiko no Okami Koshindo",
+      "localName": "巣鴨庚申堂",
+      "coordinates": {
+        "lat": 35.7392587,
+        "lng": 139.7304706
+      },
+      "image": "https://cdn.animepilgrimage.com/places/Tn2Ad7ioE34BsFxPQP39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/Tn2Ad7ioE34BsFxPQP39.webp"
+        },
+        {
+          "url": "media/cached-image_9416801278be487b43463ab20fec06d51021edb61a75b8f310aa8d515e4554bd.jpg"
+        },
+        {
+          "url": "media/cached-image_391842a83ba559eda2972ba132b24c6b6f7a05dc2a6aa4c7a5aca8317cbd7761.jpg"
+        },
+        {
+          "url": "media/cached-image_dac5271f7c860d72053d3d857611f097521b309b62efc92903c0607f1138ba16.jpg"
+        },
+        {
+          "url": "media/cached-image_37395576e59a3e0a915b48ebda872c1ed881e0e4d7562c5e41a7d56796a4b1e1.jpg"
+        },
+        {
+          "url": "media/cached-image_7746f2aee106465bde346cb3bb49ddf747679d245e0b31bcab9524addf3ff620.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4,
+      "reviewCount": 286,
+      "priceLevel": null,
+      "address": "Sugamo Sarutahiko no Ōkami Kōshindō, 4 Chome-35 Sugamo, Toshima City, Tokyo 170-0002, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zZ2xjaxBL6PfE3hGA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small Sugamo shrine appears in episode 3 as a neighborhood landmark near Studio Four, capturing the quiet old-shitamachi atmosphere that surrounds Akane's early training days."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVXZOFqMGGARJ8OgDOT1cCA",
+      "name": "Kagurazaka Mutsumi",
+      "localName": "神楽坂 睦",
+      "coordinates": {
+        "lat": 35.7008679,
+        "lng": 139.7382389
+      },
+      "image": "https://cdn.animepilgrimage.com/places/DO3HdBVQsPfZpPFXhhRJ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/DO3HdBVQsPfZpPFXhhRJ.webp"
+        },
+        {
+          "url": "media/cached-image_171cedcb60b6954bbc0687590188084b241de60494207e76a2f140a4ad56cb14.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒162-0828 Tokyo, Shinjuku City, Fukuromachi, 17 神楽坂 睦",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BYj3YXsJ4hnKPejv9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Kagurazaka izakaya appears in episode 3, serving as the kind of intimate gathering place where rakugo masters and students share drinks and stories after a performance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_y_tetuMGGARNP3VMUxYbwE",
+      "name": "Suehirotei",
+      "localName": "新宿末廣亭",
+      "coordinates": {
+        "lat": 35.6911528,
+        "lng": 139.7058921
+      },
+      "image": "https://cdn.animepilgrimage.com/places/sGpTXxobPW80Lpr8K4VO.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/sGpTXxobPW80Lpr8K4VO.webp"
+        },
+        {
+          "url": "media/cached-image_740451237e113ff33fa0349bb0e55542fec46d7229a571e607b9882d5f9a8b04.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Suehirotei, 3 Chome-6-12 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dHr4vbkbvVBvLgsw7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Shinjuku Suehirotei is one of Tokyo's last surviving yose (rakugo variety theaters), featured in episode 3 as the kind of storied stage where Akane dreams of performing. Standing in this theater connects fans directly to the living tradition Akane fights to uphold.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0739q_uMGGARRobDOdZEQSo",
+      "name": "Paraca Shinjuku Ward Haramachi #3",
+      "localName": "パラカ 新宿区原町第3",
+      "coordinates": {
+        "lat": 35.699466,
+        "lng": 139.72462299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbnsODynCOVKBnuSDpC4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbnsODynCOVKBnuSDpC4.webp"
+        },
+        {
+          "url": "media/cached-image_2007fcbb5fc53bd74570a32e37ce4ca5d73377f3fffd7c4c054b2fe659be2d66.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Paraca Shinjuku Ward Haramachi #3, 2 Chome-3-2 Haramachi, Shinjuku City, Tokyo 162-0053, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yBJC5fuaYy39cfcT8",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_akane-banashi_6",
+      "name": "Nankaido Shoten",
+      "localName": "南海堂書店",
+      "coordinates": {
+        "lat": 35.695803,
+        "lng": 139.75716
+      },
+      "image": "https://cdn.animepilgrimage.com/places/oNdfsXeIOZS6DKPoqK3J.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/oNdfsXeIOZS6DKPoqK3J.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/YGPABYhaSaa5QSAi6",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiz3JuJqIGGARr_rCJrZnk6Y",
+      "name": "Higashi-ojima Library",
+      "localName": "江東区立東大島図書館",
+      "coordinates": {
+        "lat": 35.6910485,
+        "lng": 139.845714
+      },
+      "image": "https://cdn.animepilgrimage.com/places/oLxtL1s3FLujZeAbySvY.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/oLxtL1s3FLujZeAbySvY.webp"
+        },
+        {
+          "url": "media/cached-image_7ef74944f284a660801dd9d3ac2850661a7552e4d2aeed19207766b366771766.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Higashi-ōjima Library, 東大島ファミールハイツ２号館 1階 9 Chome-4-2 Ojima, Koto City, Tokyo 136-0072, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QmiaHkNwV8EkMhLS9",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNX_t0JqIGGAR4ryFMnAATVo",
+      "name": "Ojima-Komatsugawa Park",
+      "localName": "大島小松川公園",
+      "coordinates": {
+        "lat": 35.692782199999996,
+        "lng": 139.8495534
+      },
+      "image": "https://cdn.animepilgrimage.com/places/RpB11P8ybfQvXIHapqYP.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/RpB11P8ybfQvXIHapqYP.webp"
+        },
+        {
+          "url": "media/cached-image_4bbca0af6da8adf6467b9ae34e5ccabc0af5256295865f196a9387589c45d090.jpg"
+        },
+        {
+          "url": "media/cached-image_07ccaec42ebef1216539771f925556b0e733bcc324ac0142e916b1d1c1ab46ad.jpg"
+        },
+        {
+          "url": "media/cached-image_11b2a00f8dcf4d2e7e8f89a25a36953e191b1ee4267329ddd8867bb30b13b6a1.jpg"
+        },
+        {
+          "url": "media/cached-image_b5f4521461173e4f73254327f87955723b137764dc8b7d69651661ee05d172cb.jpg"
+        },
+        {
+          "url": "media/cached-image_d16e68aca94e5ea1c6fc74916cd669d56110293eb64980837ba4322f23b6be7c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 483,
+      "priceLevel": null,
+      "address": "Ōjima-Komatsugawa Park, 9 Chome-9 Ojima, Koto City, Tokyo 136-0072, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VsyLaBd7s2bGzWA78",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This large riverside park in Koto City appears in episode 1, providing an open outdoor setting for an early scene that establishes Akane's determined spirit before she formally enters the rakugo world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzfKKfdKIGGARMQZ1ycSLhSw",
+      "name": "Olympic Sumida Bunka Shop",
+      "localName": "オリンピック 墨田文花店",
+      "coordinates": {
+        "lat": 35.7070772,
+        "lng": 139.8233913
+      },
+      "image": "https://cdn.animepilgrimage.com/places/kyU6QeCHCXxjNhTIo1Ck.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/kyU6QeCHCXxjNhTIo1Ck.webp"
+        },
+        {
+          "url": "media/cached-image_6f92fa929e2e2ff6e44c4080dea8d065242d90ccc2b59ede16ba8b6047892bca.jpg"
+        },
+        {
+          "url": "media/cached-image_8bde846cfde6c492e2a77431daf5180995209fa9b4c729aa1d9f4a39e832e63f.jpg"
+        },
+        {
+          "url": "media/cached-image_bec59222a792ac28f913f09630abb001cb19097e67c27f5ddc2d6527725f13df.jpg"
+        },
+        {
+          "url": "media/cached-image_769ca0bc1d2f6ab9ba0fa97f827b80a1e1c3e0befcbb59478f1de45d7f0baf59.jpg"
+        },
+        {
+          "url": "media/cached-image_9447431fa60fe2ec9f232164b63631717143f349503ab524a8c2ff4a257f7fe3.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.6,
+      "reviewCount": 516,
+      "priceLevel": null,
+      "address": "Olympic Sumida Bunka Shop, 1 Chome-31-9 Bunka, Sumida City, Tokyo 131-0044, Japan",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Z17x4961CMXXbf7N7",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlSFhIOyLGGARcHaSpghrGns",
+      "name": "Chiyoda City Uchisaiwaicho Hall",
+      "localName": "内幸町ホール前",
+      "coordinates": {
+        "lat": 35.6700458,
+        "lng": 139.757496
+      },
+      "image": "https://cdn.animepilgrimage.com/places/wsRzB0gVYvhdFJtFHQxX.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/wsRzB0gVYvhdFJtFHQxX.webp"
+        },
+        {
+          "url": "media/cached-image_e5bee9fabc8929c18316d20604264b7e4ca67c62fc445c18982b8d64a734993e.jpg"
+        }
+      ],
+      "type": "Intersection group",
+      "categories": [
+        "Intersection group"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Uchisaiwaicho Hall, 1-chōme-1 Uchisaiwaichō, Chiyoda City, Tokyo 100-0011, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/oGcYULjVYdUvKdB36",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8zNLtq6PGGARhUuQ0huzpfw",
+      "name": "Umaya Bridge",
+      "localName": "厩橋",
+      "coordinates": {
+        "lat": 35.7044226,
+        "lng": 139.79511309999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/XIBC0OHcDi8q78cDH71D.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/XIBC0OHcDi8q78cDH71D.webp"
+        },
+        {
+          "url": "media/cached-image_bd35cd69ac0b1d3e95687311c4f2d05eee82edeba2095cc89b54e2a5a0d9f62c.jpg"
+        },
+        {
+          "url": "media/cached-image_e630e0f923989c521f663af212bf705e107d5c312cf6ecd40dcf495a6d212546.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Umaya Bridge, 春日通り 2 Chome-15 Kuramae, Taito City, Tokyo 111-0051, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fcLGPDuhP1axmXhq7",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This bridge over the Sumida River in Taito City appears in episode 6, its atmospheric riverside setting used for a reflective scene as Akane contemplates the challenges ahead in her rakugo journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh1lMKp6OGGAR0uz6shi95iA",
+      "name": "FamilyMart Ueno Nakamachi-dori Store",
+      "localName": "ファミリーマート 上野仲町通り店",
+      "coordinates": {
+        "lat": 35.709614699999996,
+        "lng": 139.77315149999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/l0pbiFAzFSEPw7kebxzF.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/l0pbiFAzFSEPw7kebxzF.webp"
+        },
+        {
+          "url": "media/cached-image_1b2a1c1a2ec9ccb79ff94994b55feaf6f7ac200b892137677ff3ca93a9df86a0.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 2 Chome-12-1 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/oucAXbA8uSHsyB8RA",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs0GvRFyNGGARl7pJWWfS8ao",
+      "name": "Tokyo Metropolitan Theatre",
+      "localName": "東京芸術劇場",
+      "coordinates": {
+        "lat": 35.729842,
+        "lng": 139.7080751
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0B4KaXArVxPjxQQcDHTL.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0B4KaXArVxPjxQQcDHTL.webp"
+        },
+        {
+          "url": "media/cached-image_d2e796fb5598424b4b21759064ae03e7c6ca33970d59e59ac911342e2189b341.jpg"
+        },
+        {
+          "url": "media/cached-image_df192efca94f58a8aca362d5ce142133303ff1a4872e5d7a0c968fe24c521add.jpg"
+        },
+        {
+          "url": "media/cached-image_61e0f918b0310d56f58caf386de382cef51c47c7a6c6c535d2c34d84c8b074b5.jpg"
+        },
+        {
+          "url": "media/cached-image_1c8b0db0dd613da8c388a5dc889735f6a041e25695e0c86151be8894bf87e2d8.jpg"
+        },
+        {
+          "url": "media/cached-image_b3d1f981b7ab3d4a26e6ce757e09daeaaff8588d62472ea1f9625701f9503085.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.2,
+      "reviewCount": 503,
+      "priceLevel": null,
+      "address": "Tokyo Metropolitan Theatre, 1 Chome-8-1 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MS9ptMs5LJNL2ZKv9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The grand performing arts theater in Ikebukuro appears in episode 1, its imposing scale contrasting with the intimate yose halls where rakugo is traditionally performed and underlining the stakes of Akane's ambitions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwVDQQJ6OGGARc4rvUu1-nBs",
+      "name": "Karaoke Big Echo Ueno Station",
+      "localName": "カラオケ ビッグエコー上野駅前店",
+      "coordinates": {
+        "lat": 35.710817999999996,
+        "lng": 139.7742398
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4tJUFGHLrmsBSzvJYQTf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4tJUFGHLrmsBSzvJYQTf.webp"
+        },
+        {
+          "url": "media/cached-image_bc6b3a9c044bab957529112145ca6cde44a2960181b17bbd599ce973088b9248.jpg"
+        },
+        {
+          "url": "media/cached-image_60553d91ff6d2812cbc8b39bac3a53cda9b71afa94a70e5a96d35af6432bf4c1.jpg"
+        },
+        {
+          "url": "media/cached-image_463dcd57558c6014378cf2a88683d9dcf5e4ac10e96d6d13595e993be3c8165b.jpg"
+        },
+        {
+          "url": "media/cached-image_4907c98b3a8304533fee7263eb580f647ccd970b4f065a6809831570f26d32f5.jpg"
+        },
+        {
+          "url": "media/cached-image_87025a84f968d85012a72f4b628610cd5178e3c75b987548d239bbb73110611f.jpg"
+        }
+      ],
+      "type": "Karaoke bar",
+      "categories": [
+        "Karaoke bar"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Karaoke Big Echo Ueno Station, 4 Chome-10-6 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KcruCKRKpL3wQbAk8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Ueno karaoke bar appears in episode 2, used as a casual hangout spot that contrasts with the formal discipline of rakugo training."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXTJIz5JgGGARoxgg12s0rCQ",
+      "name": "Kinokuniya Shinjuku Main Store",
+      "localName": "紀伊國屋書店 新宿本店",
+      "coordinates": {
+        "lat": 35.6918468,
+        "lng": 139.7027227
+      },
+      "image": "https://cdn.animepilgrimage.com/places/FJgVCpxLGPCuGqW7VE7O.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/FJgVCpxLGPCuGqW7VE7O.webp"
+        },
+        {
+          "url": "media/cached-image_f99484af8708163beaf5c47a35b8de9d20c058b59b9529565a9c94291ea3215b.jpg"
+        },
+        {
+          "url": "media/cached-image_f4dbaacf4fe82b12fb9cdf801060775a33fac3e59f16b7b0bec69c2a150596d1.jpg"
+        },
+        {
+          "url": "media/cached-image_d69a6a71b938b19c7cd6dd9aa06baf7a843b02076dae2746d33e7367fbf1565c.jpg"
+        },
+        {
+          "url": "media/cached-image_3cf9edb44346112a3606609918ea60cc2464ffa7e7b3ed16039e138226bbca97.jpg"
+        },
+        {
+          "url": "media/cached-image_079c4de01f8f2c78162f963b9b783d998e46290dec6923bdae22965a5e2bf9ff.jpg"
+        },
+        {
+          "url": "media/cached-image_0bcfca919eae0218556806e16b5916d97821ed093499722caba1f295ea712c1f.jpg"
+        },
+        {
+          "url": "media/cached-image_b9a1ddda64706516b6254381cf8be7dd2fb4784d431f00c775f2e4377404dbb2.jpg"
+        },
+        {
+          "url": "media/cached-image_3d7eb1040a116cedc5608b4164e35ba22855be78b9cdcefa4b624e7c3c40b81e.jpg"
+        },
+        {
+          "url": "media/cached-image_0937fafeeccf2dee30b32d4addc3d791f15e0268571fac239314544d2d006f3b.jpg"
+        },
+        {
+          "url": "media/cached-image_5065dbecdc744089f26881b1305317bb38f0c7044b02f4e91efbf468a27a1f9f.jpg"
+        },
+        {
+          "url": "media/cached-image_ab349f6e3f8f042efb62802f3d0e3bb630b6cc3874dab4a4e34ebc85f376daac.jpg"
+        },
+        {
+          "url": "media/cached-image_3ed9224ff46e5c5fec2a942e298a81384d6706f41289c185279e3e580345da4c.jpg"
+        }
+      ],
+      "type": "書店",
+      "categories": [
+        "書店"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1023,
+      "priceLevel": null,
+      "address": "3 Chome-17-7 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6918468,139.7027227,3a,90y,50.25h,109.84t/data=!3m6!1e1!3m4!1sXW57QaqFZ45LXNTlzUVuXw!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The iconic Shinjuku bookstore appears in episode 6 as a place where characters browse rakugo scripts and research the storied history of the art form."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRZHQ2QD1GGARdLhqqLfn5KM",
+      "name": "ハウススタジオ studio mon 尾山台",
+      "localName": "ハウススタジオ studio mon 尾山台",
+      "coordinates": {
+        "lat": 35.599728,
+        "lng": 139.6526657
+      },
+      "image": "https://cdn.animepilgrimage.com/places/Wq6KrRKtDSZyd4786Efw.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/Wq6KrRKtDSZyd4786Efw.webp"
+        }
+      ],
+      "type": "撮影スタジオ",
+      "categories": [
+        "撮影スタジオ"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒158-0086 Tokyo, Setagaya City, Oyamadai, 2 Chome−3−16 ハウススタジオ studio mon 尾山台",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UwXgyUMLbVNPn3gP7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Setagaya house studio appears in episode 3 as an interior filming location representing a domestic setting in Akane's personal life outside the rakugo hall."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh7eDrwCPGGARCs9fpCkKS2U",
+      "name": "Ueno Ameyoko Shopping Street",
+      "localName": "上野アメ横商店街",
+      "coordinates": {
+        "lat": 35.7079,
+        "lng": 139.77459
+      },
+      "image": "https://cdn.animepilgrimage.com/places/YwIF7gqeJdXGKuiOofaN.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/YwIF7gqeJdXGKuiOofaN.webp"
+        },
+        {
+          "url": "media/cached-image_c8bc69639495722c69191311c735cc614b4765400116e1b9598f0578461c56c5.jpg"
+        },
+        {
+          "url": "media/cached-image_631bbddf3d9f23b7e72f4c70ebe368527215f15c682b13629151cd4ccff596eb.jpg"
+        },
+        {
+          "url": "media/cached-image_42fae3c6bd0a147ebcce2c5a52f35eece5719d6490b879bd868854f1e9f66af9.jpg"
+        },
+        {
+          "url": "media/cached-image_505888cef061076ea80218149f09624102019e1f4ce09d5e7944bf9d626aee0d.jpg"
+        },
+        {
+          "url": "media/cached-image_892a66e158279fc853c135ef44c6fd5ee6124d7db499a89e7e4398ad8c835453.jpg"
+        },
+        {
+          "url": "media/cached-image_f9a3d89b71462090bc2e64aafd462e8336ce0b300f29a6a97bab7381a31f6743.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": 3796,
+      "priceLevel": null,
+      "address": "6 Chome-10-7 Ueno, Taito City, Tokyo 110-0005",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7077029,139.7745669,3a,75y,7.19h,103.01t/data=!3m7!1e1!3m5!1sNW7JVjuJ2UJwWPOJ5P65eA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.006048908286743%26panoid%3DNW7JVjuJ2UJwWPOJ5P65eA%26yaw%3D7.192091678112663!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Ueno's famous bustling market street appears in episode 2, its lively shitamachi energy mirroring the vibrant world Akane navigates as she pursues her path in rakugo."
+    }
+  ]
+}

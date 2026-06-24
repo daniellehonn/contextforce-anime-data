@@ -1,0 +1,815 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Initial D Legend 1 Awakening",
+  "slug": "initial-d-legend-1",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_97a0f93ef5dbf287a14c161c9c44663f0edb8a0276dc42bc7288178022851611.webp",
+  "image": "media/cached-image_97a0f93ef5dbf287a14c161c9c44663f0edb8a0276dc42bc7288178022851611.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.30144166666666,
+    "lng": 138.46401532916664
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Initial D Legend 1 Awakening"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWHL8a1hHmAR4NCUjThxAK0",
+      "name": "Gunmashoji Oasis Kogenchi Filling Station",
+      "localName": "apollostation / 群馬商事(株) オアシス高源地SS",
+      "coordinates": {
+        "lat": 36.4922627,
+        "lng": 138.99659599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e61e3c9-bf33-4947-a0b5-6eb999e7c9d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e61e3c9-bf33-4947-a0b5-6eb999e7c9d1.webp"
+        },
+        {
+          "url": "media/cached-image_4ce37a1c026342fe6f20f91fbc37e49e2d4bfb5c8fc47b1225813e02923aabf4.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gunmashoji Oasis Kogenchi Filling Station, 1795 Ishihara, Shibukawa, Gunma 377-0007, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4922009,138.9965315,3a,90y,89.98h,97.23t/data=!3m7!1e1!3m5!1sm8TFbFKG08kPr1IRTwKhYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.228532155320309%26panoid%3Dm8TFbFKG08kPr1IRTwKhYw%26yaw%3D89.97781795174093!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This gas station near Shibukawa doubles as the Esso station where Takumi Fujiwara works night shifts in the film, delivering tofu to the mountain pass before dawn and inadvertently honing his downhill driving instincts.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVexeiGJjHmARcZa2ywcGWh8",
+      "name": "Nagamine Park",
+      "localName": "長峰公園",
+      "coordinates": {
+        "lat": 36.4995447,
+        "lng": 138.9081105
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7833e747-58d6-42e4-8518-8d0f23d9382a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7833e747-58d6-42e4-8518-8d0f23d9382a.webp"
+        },
+        {
+          "url": "media/cached-image_0a269a2093a375f0d010ab51c3c9fca416a1998b9dfe01cac498cc7545b3bfb9.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagamine Park, 991番地19 991-20 Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4994228,138.9059186,3a,75y,356.7h,98.65t/data=!3m7!1e1!3m5!1sd0WDqPHE13vcC-H3qj-kTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.653911409723563%26panoid%3Dd0WDqPHE13vcC-H3qj-kTQ%26yaw%3D356.7049631846458!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The park overlooks the Haruna area where fans of Initial D trace the fictional Akagi mountain backdrop. Pilgrims visit as a viewpoint connected to the Gunma highland scenery that frames the film's street-racing atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG5G1uYJjHmARCr_2tJTLrKA",
+      "name": "Hotel Kimura",
+      "localName": "伊香保温泉 ホテルきむら",
+      "coordinates": {
+        "lat": 36.497222199999996,
+        "lng": 138.92138889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5d285ea-86fc-4321-b6a7-3f1c44c52870.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5d285ea-86fc-4321-b6a7-3f1c44c52870.webp"
+        },
+        {
+          "url": "media/cached-image_9f6c67068aae7e74ad6c575f29f4eda0cf8c0dcf1cdd40432dba3c4259b56405.jpg"
+        },
+        {
+          "url": "media/cached-image_cf393eec79a1e9f3b9c2ffe9ef8eca479d4cb29f8ee94875ac01894dee690adb.jpg"
+        },
+        {
+          "url": "media/cached-image_bcf8b7e669a11d11d51bae878fc433fec3064951e405789de4379537cf9bdb6b.jpg"
+        },
+        {
+          "url": "media/cached-image_6c91503749991c36bb9eb43ccb5f88f1e01e8f6111dd3b0120cdb8c10a44be7d.jpg"
+        },
+        {
+          "url": "media/cached-image_a1c82d09ea72a75569540165cf663d93fa3a920421ee2ca1a9fea0702af0d541.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Kimura, 557-32 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4974043,138.9207826,3a,90y,64.16h,102.89t/data=!3m7!1e1!3m5!1sDzfsli9Ny-t-SCMI7jsO0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.887803680612961%26panoid%3DDzfsli9Ny-t-SCMI7jsO0w%26yaw%3D64.1608705265159!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Located in Ikaho Onsen, a hot-spring district whose winding stone steps and traditional streetscape appear in the film as background scenery for the Gunma setting that surrounds Takumi's home territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_3",
+      "name": "Curve 30",
+      "localName": "カーブ 30",
+      "coordinates": {
+        "lat": 36.4857,
+        "lng": 138.89791
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74cae25c-bda0-4340-a1d4-5e75a9e7d0d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74cae25c-bda0-4340-a1d4-5e75a9e7d0d3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4856657,138.8979092,3a,90y,17.17h,99.32t/data=!3m7!1e1!3m5!1s3WZnwPKP6rZ7mTd4d458Ng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.323522645414272%26panoid%3D3WZnwPKP6rZ7mTd4d458Ng%26yaw%3D17.168798519419884!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "One of the numbered hairpins on the Akagi mountain road that the film faithfully recreates, where Takumi's precision line-tracing through consecutive corners first shocks rival drivers who underestimate the tofu-shop AE86."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9d2ohktgHmARHPOAL3Oh_ic",
+      "name": "Kitagunma Shinkin Bank Head Office",
+      "localName": "北群馬信用金庫 本店",
+      "coordinates": {
+        "lat": 36.490060299999996,
+        "lng": 139.00375359999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/846eeb34-6c1f-40ce-91ca-3e5ed77c50a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/846eeb34-6c1f-40ce-91ca-3e5ed77c50a7.webp"
+        },
+        {
+          "url": "media/cached-image_7f255934673ec4e58b8afb137695c3bbfc59b96dbd8b7da35ad9130adc886c1d.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitagunma Shinkin Bank Head Office, 203-3 Ishihara, Shibukawa, Gunma 377-0007, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4903452,139.0041917,3a,48.7y,218.29h,94.97t/data=!3m7!1e1!3m5!1sJY9btjgVFbXrjHWUQAZAAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.971574941470337%26panoid%3DJY9btjgVFbXrjHWUQAZAAw%26yaw%3D218.29128921334512!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Shibukawa town streetscape around this landmark appears in establishing shots that anchor the film's setting in the real Gunma cityscape before the action moves up the mountain."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_5",
+      "name": "Motoki Camera Sogo Kan",
+      "localName": "モトキカメラ総合館",
+      "coordinates": {
+        "lat": 36.49077,
+        "lng": 139.00422
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60fe5c38-f9a8-40e4-bbbc-882d91874aec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60fe5c38-f9a8-40e4-bbbc-882d91874aec.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4904732,139.0042178,3a,75y,2.33h,99.82t/data=!3m7!1e1!3m5!1sh3knrHlF7yGreas7xrrqXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.82082384751044%26panoid%3Dh3knrHlF7yGreas7xrrqXQ%26yaw%3D2.3318965717379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A Shibukawa downtown building whose exterior is documented by pilgrimage researchers as a background reference point in the film's ground-level town scenes around the Akagi foot-road area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_6",
+      "name": "Curve 27",
+      "localName": "カーブ 27",
+      "coordinates": {
+        "lat": 36.48613,
+        "lng": 138.89884
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d41c79e-18f8-4d71-a306-ae7b7489ebdb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d41c79e-18f8-4d71-a306-ae7b7489ebdb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4864667,138.8988082,3a,74y,173.5h,95.42t/data=!3m7!1e1!3m5!1sN6t1yPR9Ei1I4InAfgUOzw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.418576722112817%26panoid%3DN6t1yPR9Ei1I4InAfgUOzw%26yaw%3D173.5041682595097!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A mid-section hairpin on the Akagi downhill course where Takumi's gutter-run technique is on full display, allowing the AE86 to carry speed through curves that force rival cars to brake hard."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM3RTEA1jHmAR5V3tLlBLVxM",
+      "name": "Ikaho Forest Park",
+      "localName": "伊香保森林公園",
+      "coordinates": {
+        "lat": 36.482124999999996,
+        "lng": 138.9119493
+      },
+      "image": "https://cdn.animepilgrimage.com/places/172e7443-eda3-4f85-bc6a-16eeaae7c6fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/172e7443-eda3-4f85-bc6a-16eeaae7c6fa.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikaho Forest Park, Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4915133,138.9032898,3a,75y,73.51h,93.44t/data=!3m7!1e1!3m5!1sFOhMFqhq9hghGYoTC3xFKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.44068970191303%26panoid%3DFOhMFqhq9hghGYoTC3xFKQ%26yaw%3D73.50845359273283!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The forested ridgeline roads through this park connect to the Haruna and Akagi mountain network that forms the geography of Takumi's home turf, providing the dense cedar-forest backdrop seen in many of the film's night-race sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_8",
+      "name": "Curve 11",
+      "localName": "カーブ11",
+      "coordinates": {
+        "lat": 36.49768,
+        "lng": 138.90506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3be3cb12-2781-4a0a-b288-9cdce4458aca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3be3cb12-2781-4a0a-b288-9cdce4458aca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4979306,138.9048416,3a,75y,147.98h,94.74t/data=!3m7!1e1!3m5!1s1LNacTsShxuZy5mA4xwiCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.73694241748116%26panoid%3D1LNacTsShxuZy5mA4xwiCw%26yaw%3D147.97600233937584!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Part of the documented sequence of corners on the Akagi mountain road where the film stages Takumi's surprise descent, each numbered curve corresponding to a specific beat in the race choreography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_9",
+      "name": "Curve 12",
+      "localName": "カーブ 12",
+      "coordinates": {
+        "lat": 36.49831,
+        "lng": 138.90459
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c5d71224-df58-40d6-9d61-5e1debe13def.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c5d71224-df58-40d6-9d61-5e1debe13def.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4983458,138.9045403,3a,75y,136.91h,93.62t/data=!3m7!1e1!3m5!1s-MaoQTnquiI2WQREq4DDDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6156786993656738%26panoid%3D-MaoQTnquiI2WQREq4DDDA%26yaw%3D136.91380716447054!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "An adjacent hairpin to Curve 11 on the Akagi course, part of the tight cluster of bends where Takumi's car appears to defy physics, hugging the inside line in a manner rival Keisuke Takahashi cannot match."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_10",
+      "name": "Curve 13",
+      "localName": "カーブ 13",
+      "coordinates": {
+        "lat": 36.49734,
+        "lng": 138.90451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5bcb077-1171-4632-bbc0-bc603d5005ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5bcb077-1171-4632-bbc0-bc603d5005ea.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4975223,138.9043051,3a,63.5y,128.8h,89.55t/data=!3m7!1e1!3m5!1sU9qi-Np8z6ZY20UWfXwfPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.4450246836282048%26panoid%3DU9qi-Np8z6ZY20UWfXwfPw%26yaw%3D128.80418016576286!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "One of the successive tight bends on the Akagi downhill that film location researchers have mapped as a direct visual match to animation frames showing Takumi threading the AE86 through rapid-fire corners."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_11",
+      "name": "Curve 14",
+      "localName": "カーブ 14",
+      "coordinates": {
+        "lat": 36.49809,
+        "lng": 138.90408
+      },
+      "image": "https://cdn.animepilgrimage.com/places/067c7b69-7200-4017-b0c7-fb3f72819145.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/067c7b69-7200-4017-b0c7-fb3f72819145.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4978299,138.9039177,3a,65.8y,25.7h,91.94t/data=!3m7!1e1!3m5!1s0-lU2y1pD4XQaAPuvXAUhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.942670428208487%26panoid%3D0-lU2y1pD4XQaAPuvXAUhw%26yaw%3D25.70425703103171!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A bend in the Akagi hairpin sequence where the road narrows and the drop-off sharpens, corresponding to a section of the course where Takumi's intimate knowledge of every crack in the asphalt becomes decisive."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_12",
+      "name": "Curve 15",
+      "localName": "カーブ 15",
+      "coordinates": {
+        "lat": 36.49595,
+        "lng": 138.90426
+      },
+      "image": "https://cdn.animepilgrimage.com/places/48b18ecc-31a8-408c-88c1-80e2ef1671c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/48b18ecc-31a8-408c-88c1-80e2ef1671c7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4962853,138.9039652,3a,61.7y,147.92h,99.71t/data=!3m7!1e1!3m5!1serwF4ETvETljt-j5m47AiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.71173624270827%26panoid%3DerwF4ETvETljt-j5m47AiQ%26yaw%3D147.91860071872765!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Part of the lower Akagi hairpin section documented as a filming reference for Initial D Legend 1, where the road surface and guardrail geometry closely match the animated sequence of Takumi's descent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_13",
+      "name": "the Yaseone Pass",
+      "localName": "ヤセオネ峠",
+      "coordinates": {
+        "lat": 36.48325,
+        "lng": 138.89648
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27509e07-fc28-4b78-b114-674cf105bc40.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27509e07-fc28-4b78-b114-674cf105bc40.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4831413,138.8965625,3a,43y,358.15h,91.82t/data=!3m7!1e1!3m5!1sdXDM0tTBinR9tq8QWsOwkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8218980977234338%26panoid%3DdXDM0tTBinR9tq8QWsOwkQ%26yaw%3D358.1498468116875!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yaseone Pass (Yaseone-toge) is the real mountain pass that the Akagi downhill in Initial D is based on, and this is where Takumi's legendary night-time tofu delivery runs unfold. The pass is the spiritual heart of the film and the most pilgrimage-documented location in the franchise.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_14",
+      "name": "Curve 2",
+      "localName": "カーブ 2",
+      "coordinates": {
+        "lat": 36.49948,
+        "lng": 138.9139
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90df08e4-cc69-4954-9f97-adf961afb090.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90df08e4-cc69-4954-9f97-adf961afb090.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4994026,138.9137997,3a,88.4y,73.91h,96.81t/data=!3m7!1e1!3m5!1sq56mPH2FXBgug5GK0w7J4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.806222583641471%26panoid%3Dq56mPH2FXBgug5GK0w7J4Q%26yaw%3D73.90591621348727!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The second curve near the top of the Akagi descent, one of the first corners where Takumi establishes his unconventional driving line and begins to close on Keisuke Takahashi's RX-7 in the opening stages of their battle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_15",
+      "name": "Curve 29",
+      "localName": "カーブ 29",
+      "coordinates": {
+        "lat": 36.48902,
+        "lng": 138.89659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/251a4a44-b68f-4abe-aa31-90235980904a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/251a4a44-b68f-4abe-aa31-90235980904a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.488914,138.896762,3a,90y,289.89h,101.78t/data=!3m7!1e1!3m5!1s0T5W9VaDqgtIfugJsowctg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.78366415491557%26panoid%3D0T5W9VaDqgtIfugJsowctg%26yaw%3D289.892263339462!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A late-section corner on the Akagi course near Yaseone Pass where Takumi executes the gutter-drop technique, sending the AE86's wheels into the drainage channel to widen his arc through a corner that leaves spectators stunned.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAV2Jvo1gHmARvQulkrPN_xk",
+      "name": "Shibukawa Municipal Tokutomi Roka Memorial Literary Hall Parking Lot",
+      "localName": "渋川市",
+      "coordinates": {
+        "lat": 36.489471,
+        "lng": 139.000443
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de076672-5e8f-41eb-8ab1-3815dd3dc2db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de076672-5e8f-41eb-8ab1-3815dd3dc2db.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shibukawa, Gunma, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4981785,138.9147707,3a,90y,61.28h,95.46t/data=!3m7!1e1!3m5!1sM-Rvye9H00sjiYJjfdF4gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.458507956223883%26panoid%3DM-Rvye9H00sjiYJjfdF4gw%26yaw%3D61.28312046475865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The parking lot near central Shibukawa is referenced in pilgrimage maps as a gathering point in the town scenes that frame Takumi's mundane daily life as a tofu deliveryman before his secret skill is revealed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_17",
+      "name": "Gunma Bank Ikaho",
+      "localName": "群馬銀行 伊香保出張所",
+      "coordinates": {
+        "lat": 36.49965,
+        "lng": 138.91936
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd6f5601-e3bb-4cbd-957b-eef5da6aaf36.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd6f5601-e3bb-4cbd-957b-eef5da6aaf36.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4996415,138.9195231,3a,90y,272.91h,101.87t/data=!3m7!1e1!3m5!1sPI9e_ajHikG7RPHtHxQIjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.870066591521109%26panoid%3DPI9e_ajHikG7RPHtHxQIjg%26yaw%3D272.9061893730318!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Ikaho branch of Gunma Bank sits along the Ikaho Onsen approach road, a stretch of Gunma townscape that provides background setting for the film's depiction of the broader Haruna-Akagi mountain community."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL-BcgS1xA2ARFleIRySrtdM",
+      "name": "Shiyakusho Iriguchi(Bus)",
+      "localName": "市役所",
+      "coordinates": {
+        "lat": 35.1814306,
+        "lng": 136.9053721
+      },
+      "image": "https://cdn.animepilgrimage.com/places/605d0fd1-78e9-4a7d-b5a4-26ff86a9ceeb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/605d0fd1-78e9-4a7d-b5a4-26ff86a9ceeb.webp"
+        },
+        {
+          "url": "media/cached-image_e33f1dfa9f6045ff694f8856ec8b5209a65fbd4e7f6fc2f890e0c3762d8202d8.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shiyakusho, 2-chōme-3 Sannomaru, Naka Ward, Nagoya, Aichi 460-0001, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.491528,138.9996625,3a,90y,102.22h,97.75t/data=!3m7!1e1!3m5!1s0I6NS60HF_xPIFkxQcHcTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.748362899710912%26panoid%3D0I6NS60HF_xPIFkxQcHcTA%26yaw%3D102.22214613093254!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ30p9keDajUR5qX15sLFEdo",
+      "name": "Kurokamiyama Shrine (Torii)",
+      "localName": "黒髪神社上宮 一の鳥居(肥前鳥居)",
+      "coordinates": {
+        "lat": 33.2102887,
+        "lng": 129.9194033
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a75bf8f3-0801-41d7-9a81-907de6fed960.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a75bf8f3-0801-41d7-9a81-907de6fed960.webp"
+        },
+        {
+          "url": "media/cached-image_4fd40ba508f7ba2c140ba382eb4793d0193953010963f8affce0cdccc40a6856.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The first torii gate,Kurokami Shrine, 1397 Yamauchicho Oaza Miyano, Takeo, Saga 849-2305, Japan",
+      "city": "Takeo",
+      "region": "Saga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4829787,138.89652,3a,39.2y,191.03h,93.06t/data=!3m7!1e1!3m5!1ssoddE3U26ZLyVBK0apSHJA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.060617061583372%26panoid%3DsoddE3U26ZLyVBK0apSHJA%26yaw%3D191.03277383075476!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyQCMnTljHmARg1hOtMMe7YA",
+      "name": "Takane Observation Deck",
+      "localName": "高根展望台",
+      "coordinates": {
+        "lat": 36.492584799999996,
+        "lng": 138.9059612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5845e923-917c-42f4-963a-3a3133b2d996.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5845e923-917c-42f4-963a-3a3133b2d996.webp"
+        },
+        {
+          "url": "media/cached-image_9b21a83c73ed149187052551fd682ec69ab0037abf80c44da837d545d1213490.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takane Observation Deck, Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925373,138.9058269,3a,63.5y,63.21h,93.51t/data=!3m7!1e1!3m5!1s18NOXNRie8B0O4RK8rJE7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5055635236758604%26panoid%3D18NOXNRie8B0O4RK8rJE7w%26yaw%3D63.212723205076614!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Takane Observation Deck sits on the Ikaho hillside with a panoramic view over the Shibukawa plain, and appears in Initial D Legend 1 as a vantage point that establishes the scale and drama of the mountain landscape Takumi races through each night."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_21",
+      "name": "Curve 16",
+      "localName": "カーブ 16",
+      "coordinates": {
+        "lat": 36.49352,
+        "lng": 138.90805
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d0e5350-494a-465f-a45f-e68af52b3c91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d0e5350-494a-465f-a45f-e68af52b3c91.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4934672,138.9079336,3a,90y,30.37h,101.27t/data=!3m7!1e1!3m5!1suLl72PPwrVpnMocIJngRSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.273762922315711%26panoid%3DuLl72PPwrVpnMocIJngRSw%26yaw%3D30.374735440886!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A mid-course bend on the Akagi downhill mapped by pilgrimage researchers as a location match, part of the continuous sequence of corners where Takumi's tofu-delivery muscle memory proves decisive against Keisuke's raw horsepower."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_22",
+      "name": "Curve 17",
+      "localName": "カーブ 17",
+      "coordinates": {
+        "lat": 36.49252,
+        "lng": 138.89979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67d78421-240c-4242-9069-c66717486f8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67d78421-240c-4242-9069-c66717486f8a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4928935,138.8999832,3a,66.5y,196.34h,94.13t/data=!3m7!1e1!3m5!1sy2oo9s1eY6LtjVoyfdirvA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.125590795369689%26panoid%3Dy2oo9s1eY6LtjVoyfdirvA%26yaw%3D196.33964147730913!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "One of the documented Akagi hairpins in the Initial D Legend 1 course, where the combination of decreasing radius and poor sight lines tests rival racers while Takumi navigates from instinct honed by thousands of predawn delivery runs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-1_23",
+      "name": "Curve 23",
+      "localName": "カーブ 23",
+      "coordinates": {
+        "lat": 36.4922,
+        "lng": 138.90575
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc97f59d-283d-40bc-9f1e-2b26daa3e077.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc97f59d-283d-40bc-9f1e-2b26daa3e077.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4920977,138.9056064,3a,75y,47.38h,97.27t/data=!3m7!1e1!3m5!1sAgyjGtBWbbOfx2r_euvAwg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.274369931161658%26panoid%3DAgyjGtBWbbOfx2r_euvAwg%26yaw%3D47.38478557211561!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A bend on the Akagi course documented as a visual reference for animation frames in Initial D Legend 1, part of the mid-section where Takumi begins to pull noticeably ahead and Keisuke realizes he is facing something beyond an ordinary driver."
+    }
+  ]
+}

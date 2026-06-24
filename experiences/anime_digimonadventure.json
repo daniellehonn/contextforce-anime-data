@@ -1,0 +1,1064 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Digimon Adventure",
+  "slug": "digimon-adventure",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_48a9949ccfa526b169b6f60a4b3f31181a0ec3f7b2f6876524e1bdf49e76d49b.webp",
+  "image": "media/cached-image_48a9949ccfa526b169b6f60a4b3f31181a0ec3f7b2f6876524e1bdf49e76d49b.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.66238966666667,
+    "lng": 139.7307949814815
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Digimon Adventure"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJLwivwj_sGGARKDFtqk31m20",
+      "name": "Hikarigaoka Station",
+      "localName": "光が丘駅",
+      "coordinates": {
+        "lat": 35.7585093,
+        "lng": 139.6289329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f74d381-9656-476b-9c4c-7b7c7e2e483a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f74d381-9656-476b-9c4c-7b7c7e2e483a.webp"
+        },
+        {
+          "url": "media/cached-image_5863b2150c0a49c8bd5180d895e41351a8721584e0e670698a41a77b6528d9ad.jpg"
+        },
+        {
+          "url": "media/cached-image_4af602ca1259c89e5886bd081150b10ddf3005768964921ec3a83afc79d7ae46.jpg"
+        },
+        {
+          "url": "media/cached-image_1b21e76fb5d1c4163655e9eb9ce515951306184e4af45384f375169195cb8e72.jpg"
+        },
+        {
+          "url": "media/cached-image_df93eb6a2aa44b420bc42a1748b0b5f6776cd7538c896041208c6ec97de99a0d.jpg"
+        },
+        {
+          "url": "media/cached-image_58e7c79e6f95ab7b6710c0b5c4f42d4c31455783f556231828a4dde34d4278ca.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Hikarigaoka Station, 3-chōme-10 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.758631,139.6291602,2a,48.8y,274.17h,92.7t/data=!3m7!1e1!3m5!1scgM2LD7YKjqqDYw_OTNdXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7045080243359507%26panoid%3DcgM2LD7YKjqqDYw_OTNdXQ%26yaw%3D274.1718550610726!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "Hikarigaoka in Nerima City is the neighborhood where the DigiDestined grew up, and its surroundings appear in flashback sequences that establish the children's lives before their adventure in the Digital World. The station and its distinctive shopping complex anchor the series' hometown setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure_1",
+      "name": "Yagura Bridge",
+      "localName": "やぐら橋",
+      "coordinates": {
+        "lat": 35.63096,
+        "lng": 139.79306
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ad69e68-b6c2-4030-88ec-10f3172cadef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ad69e68-b6c2-4030-88ec-10f3172cadef.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6309808,139.7929633,3a,75y,182.84h,106.5t/data=!3m7!1e1!3m5!1s1Y9YE5rNV2_Zgkvmf3qyhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.499238991724%26panoid%3D1Y9YE5rNV2_Zgkvmf3qyhg%26yaw%3D182.83982808071485!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "This bridge in the Odaiba waterfront district appears during the Myotismon arc (episode 35) as the DigiDestined chase Myotismon's minions through Tokyo's bayside area. The urban canal setting contrasts sharply with the Digital World backdrops fans had seen throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYd2Wkd2JGGARssDWae_tCW8",
+      "name": "PRONTO - Tokyo Big Sight",
+      "localName": "PRONTO 東京ビッグサイト店",
+      "coordinates": {
+        "lat": 35.6298179,
+        "lng": 139.79428679999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cdf84bf9-7826-47c1-9de0-dbc3e69c8954.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cdf84bf9-7826-47c1-9de0-dbc3e69c8954.webp"
+        },
+        {
+          "url": "media/cached-image_62553f6588fa479aa6bdca967288373decfbf995127ab9b6abc8ab07e5363996.jpg"
+        },
+        {
+          "url": "media/cached-image_2da88688ab0cbbeaf18e134941fd9897ce87edfa2e487fa5802d89fdfde56a1e.jpg"
+        },
+        {
+          "url": "media/cached-image_ee0f29b1fde99717982ce4f1c09ebee20119d24c36a75d5624bdb065298c6e52.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0063 Tokyo, Koto City, Ariake, 3 Chome−11−1 東京ビッグサイト PRONTO - Tokyo Big Sight, 国際展示場 会議棟",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6304083,139.7950417,3a,90y,61.73h,98.56t/data=!3m8!1e1!3m6!1sAF1QipMMknY25IyAvd5xua7vLE_eMY1BZ-IRaXYDGoQH!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMMknY25IyAvd5xua7vLE_eMY1BZ-IRaXYDGoQH%3Dw900-h600-k-no-pi-8.56371882001936-ya276.52945453392476-ro0-fo100!7i6720!8i3360?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "Located near Tokyo Big Sight in Ariake, this cafe area appears in episode 35 during the Myotismon invasion of the real world, when the DigiDestined and their partners pursue Demidevimon's forces through the bayside convention district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQQ6UsPeJGGAR3LFE4U43_NQ",
+      "name": "Fuji Television Network, Inc.",
+      "localName": "(株)フジテレビジョン",
+      "coordinates": {
+        "lat": 35.626605,
+        "lng": 139.774056
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c70e321f-c403-4515-9764-f99d9c874030.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c70e321f-c403-4515-9764-f99d9c874030.webp"
+        },
+        {
+          "url": "media/cached-image_973b740747f196f86664c73bfbcf2f86056dc114670b73e9d68f973210a70c06.jpg"
+        }
+      ],
+      "type": "Television studio",
+      "categories": [
+        "Television studio"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fuji Television Network, Inc., 2 Chome-4-8 Daiba, Minato City, Tokyo 137-8088, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6270083,139.7736118,3a,90y,105.84h,134.11t/data=!3m7!1e1!3m5!1sIUHag3lFzLPbIWRfvy1Rfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-44.110406416733156%26panoid%3DIUHag3lFzLPbIWRfvy1Rfg%26yaw%3D105.83780360310708!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 37,
+      "entityContext": "The Fuji TV headquarters on Odaiba serves as a backdrop during the Myotismon arc (episode 37), when the DigiDestined battle Myotismon's forces across the man-made island. The iconic spherical building is among the most recognizable real-world landmarks to appear in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFU3ezs2LGGARbErm6rqTfHw",
+      "name": "Hinode Pier",
+      "localName": "日の出客船ターミナル",
+      "coordinates": {
+        "lat": 35.6509715,
+        "lng": 139.7603519
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b75a7365-dbea-4810-9536-3b6ea41ff546.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b75a7365-dbea-4810-9536-3b6ea41ff546.webp"
+        },
+        {
+          "url": "media/cached-image_63c6557a90b2d013ad52b64ac7d6c7256583efc1f73fd159e0e47e943072f26f.jpg"
+        }
+      ],
+      "type": "Ferry service",
+      "categories": [
+        "Ferry service"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hinode Pier, 2 Chome-7-104 Kaigan, Minato City, Tokyo 105-0022, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6510127,139.7600922,2a,75y,89.13h,97.61t/data=!3m7!1e1!3m5!1sRFjYWfLC3SFOBe8XIzvacw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.610994836505753%26panoid%3DRFjYWfLC3SFOBe8XIzvacw%26yaw%3D89.12997283868259!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "Hinode Pier appears in episode 35 during the Myotismon invasion arc, as the DigiDestined and their Digimon partners move through Tokyo's waterfront in pursuit of Myotismon. The pier's ferry terminal setting underscores the series' use of real Tokyo geography during the real-world arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ40HOheeJGGAR2v2RCINhlhE",
+      "name": "Saw, Sawing",
+      "localName": "「Saw, Sawing (切っている鋸) 」クレス・オルデンバーグ＆コーシャ・ヴァン・ブリュッゲン",
+      "coordinates": {
+        "lat": 35.6306085,
+        "lng": 139.792956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a38467d3-70c8-4d6c-b053-4b738bf087d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a38467d3-70c8-4d6c-b053-4b738bf087d8.webp"
+        },
+        {
+          "url": "media/cached-image_dba7868e52672006e94420df2720a2c3beb100f5c2c8f49141be8ae171fbaee9.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saw, Sawing, 3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6309268,139.7924939,3a,77.7y,128.3h,99.61t/data=!3m7!1e1!3m5!1sNgUdGOmW7PsIPeWvK0ZACw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.612054315325508%26panoid%3DNgUdGOmW7PsIPeWvK0ZACw%26yaw%3D128.29546930949024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "The large Claes Oldenburg sculpture outside Tokyo Big Sight appears in episode 35 as a background landmark during the Myotismon arc, when the DigiDestined battle through the Odaiba convention area. Pilgrims recognize the oversized saw sculpture from scene comparisons in the pilgrimage community."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure_6",
+      "name": "Playground equipment Square",
+      "localName": "遊具広場",
+      "coordinates": {
+        "lat": 35.63248,
+        "lng": 139.77793
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f8556221-9f87-475f-9896-49dbc2be6d38.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f8556221-9f87-475f-9896-49dbc2be6d38.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6325775,139.7779605,3a,90y,184.25h,96.44t/data=!3m7!1e1!3m5!1s2A4bVlo73D46hvvbm0wC2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.440919276693478%26panoid%3D2A4bVlo73D46hvvbm0wC2g%26yaw%3D184.24789218157864!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "This small playground near Odaiba appears in episode 35 during the Myotismon invasion, serving as a location where the children and their Digimon partners regroup or pass through during the chase across the bayside district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb2CosfeJGGAR_TIVIcsMyK4",
+      "name": "Fuji Television Headquarters “HACHITAMA” Spherical Observation Room",
+      "localName": "フジテレビ球体展望室 はちたま",
+      "coordinates": {
+        "lat": 35.6270654,
+        "lng": 139.7746611
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc61e794-e7c2-4692-90ac-07a11ffb4535.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc61e794-e7c2-4692-90ac-07a11ffb4535.webp"
+        },
+        {
+          "url": "media/cached-image_81427f8c64426df8c774a503d1f20ceb994cd9e39ece3bbc7b2fd98a1f2f225c.jpg"
+        },
+        {
+          "url": "media/cached-image_a12ac9c038e8b02f4b2ead23bcc4f8f30eb2a5f3e8559cd8766d84e38d85ef36.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0091 Tokyo, Minato City, Daiba, 2 Chome−4−8 Fuji Television Headquarters “HACHITAMA” Spherical Observation Room, フジ テレビ 25 階",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6283899,139.7730828,3a,48.7y,138.29h,116.7t/data=!3m7!1e1!3m5!1scT4axhyXog4YXywlY99Yaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.69746086059638%26panoid%3DcT4axhyXog4YXywlY99Yaw%26yaw%3D138.28654892787912!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "The Hachitama sphere atop Fuji TV's Odaiba headquarters is a visually iconic landmark featured in the Myotismon arc (episode 35), appearing in background shots as the DigiDestined battle across Odaiba. Fans visit to photograph the sphere against the Tokyo skyline just as it appeared in the show.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSXJEFqmMGGAR8ctb-YsQ_xM",
+      "name": "Hands Shibuya",
+      "localName": "ハンズ渋谷店",
+      "coordinates": {
+        "lat": 35.66219,
+        "lng": 139.69747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dee0d0b1-5bf4-4c09-9c8d-f76f67e88320.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dee0d0b1-5bf4-4c09-9c8d-f76f67e88320.webp"
+        },
+        {
+          "url": "media/cached-image_0e924dfd2a5624c348973f8834ec6f0fc270875a25fabd8c6274ca57eacf995e.jpg"
+        }
+      ],
+      "type": "雑貨店",
+      "categories": [
+        "雑貨店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "12-18 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6621184,139.6974002,3a,70.2y,51.95h,104.8t/data=!3m7!1e1!3m5!1sDN-S5Ry3XoXvNgJ3RZWv2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.80130569995164%26panoid%3DDN-S5Ry3XoXvNgJ3RZWv2A%26yaw%3D51.95138813620993!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 33,
+      "entityContext": "Tokyu Hands (now Hands) in Shibuya appears in episode 33 during the Myotismon arc when Myotismon's servants Pumpkinmon and Gotsumon roam Shibuya causing chaos. The familiar retail storefront is visible as the children chase the two wayward Digimon through the shopping district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhxxszamMGGARcuAXpFunolU",
+      "name": "Shibuya 109",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6594333,
+        "lng": 139.6992616
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21464610-f2d6-4768-9b70-7928efb7defd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21464610-f2d6-4768-9b70-7928efb7defd.webp"
+        },
+        {
+          "url": "media/cached-image_57af02ace4c0de207092cb7f6e9d1eb579cda761046bfd9ffbc9e9a515bb2eba.jpg"
+        },
+        {
+          "url": "media/cached-image_a44eac7208b1d24df231f8e1b0018de51ddc21ae54645725bea8fd9536341b61.jpg"
+        },
+        {
+          "url": "media/cached-image_90e301c727bfcd1e8ad0973dbcc44bced8599436b1690888bc6122bf9546d0e2.jpg"
+        },
+        {
+          "url": "media/cached-image_9016e360fbc02e9166ce945c7292b70c9600192940efe91987c28a7744e23c4a.jpg"
+        },
+        {
+          "url": "media/cached-image_871dfd87d967f7f24bf6a43c755c451b396fe5a92171215545f5026a5b12efc1.jpg"
+        },
+        {
+          "url": "media/cached-image_5f45e4fbd09eb4484efbbac1b7037af794bb45af88995b8cbda14885ee2fff07.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.6,
+      "reviewCount": 554,
+      "priceLevel": null,
+      "address": "2 Chome-29-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594333,139.6992616,3a,40.7y,304.18h,93.4t/data=!3m6!1e1!3m4!1su5Fg6cC55lWnVs2GwfVuyg!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 33,
+      "entityContext": "The landmark Shibuya 109 shopping tower appears in episode 33 as Myotismon's minions Pumpkinmon and Gotsumon rampage through Shibuya, with the DigiDestined pursuing them past this iconic fashion hub. The 109 building is one of the most clearly recognizable real-world locations in the episode.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cbb1b9ae-08a8-4848-ae79-edbbd2e6a11f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cbb1b9ae-08a8-4848-ae79-edbbd2e6a11f.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "The Odakyu Line south exit of Shinjuku Station appears in episode 30 during the Myotismon arc, when the DigiDestined are tracking leads on the eighth child's location through Tokyo. The busy commuter gate captures the tension of the children moving covertly through the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq-09_qiMGGAROyl4SkF4H0Y",
+      "name": "Spain-zaka Slope",
+      "localName": "スペイン坂",
+      "coordinates": {
+        "lat": 35.66151,
+        "lng": 139.69885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7eb5453e-6387-4133-83ea-3393db7d586c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7eb5453e-6387-4133-83ea-3393db7d586c.webp"
+        },
+        {
+          "url": "media/cached-image_b05ab771c056fd721f1e018570e3b72c149d13a5114762d50facd106cc421a8d.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "16-15 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6614663,139.6988908,3a,75y,330.03h,102.69t/data=!3m7!1e1!3m5!1szfNOz2MzlbyJwsUSEdZbAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.687823983249942%26panoid%3DzfNOz2MzlbyJwsUSEdZbAQ%26yaw%3D330.02871043464137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 33,
+      "entityContext": "Spain-zaka, the stepped pedestrian lane in Shibuya's Udagawacho district, appears in episode 33 as Pumpkinmon and Gotsumon wander Shibuya and the DigiDestined follow. The atmospheric alley setting is a documented pilgrimage spot for fans of the Shibuya episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4RGu0emLGGARuUX8XtPxUVg",
+      "name": "Yashirobashi",
+      "localName": "社橋",
+      "coordinates": {
+        "lat": 35.7086657,
+        "lng": 139.6060451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5247ce2-1359-41b2-b1b8-7d18d7f0eccc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5247ce2-1359-41b2-b1b8-7d18d7f0eccc.webp"
+        },
+        {
+          "url": "media/cached-image_4364633bc232dba5dc8195ec05650bcb29bb264facfbfab4cafc5dd9be4c436b.jpg"
+        },
+        {
+          "url": "media/cached-image_5ae07b9043ebf924b0fe5dc79de0e6fa8ca2c522f094ae1aca64f6c5aed1b64b.jpg"
+        },
+        {
+          "url": "media/cached-image_0c4681004396147124b5087dd86853a4d8c1dd41d7e4873f28f6954ce8b6bec4.jpg"
+        },
+        {
+          "url": "media/cached-image_79742560bb9cd38388e26e50187ac8d0668093215f69c4addc2b710fb106a2fc.jpg"
+        },
+        {
+          "url": "media/cached-image_ce3b6ec1caf9cfe97f471e0f66ce9e0eb9151c4fcad3d8461929f33a23c468a8.jpg"
+        },
+        {
+          "url": "media/cached-image_16d9cb3dfea8fced20894361a0eeeeb6a81aceabe196e6ae4172ba1bb3921c4e.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1891,
+      "priceLevel": null,
+      "address": "2 Chome-17 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7086657,139.6060451,3a,90y,117.25h,95.67t/data=!3m7!1e1!3m5!1s1hwxJm7utjrX-HyKvEPWtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1hwxJm7utjrX-HyKvEPWtg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.41923%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 35,
+      "entityContext": "Yashirobashi bridge appears in episode 35 during the Myotismon arc battle in the Odaiba and waterfront area, serving as a transit point as the DigiDestined and their partners sweep through bayside Tokyo pursuing Myotismon's forces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDQUtOvGJGGARuul34HWvMQ8",
+      "name": "Odaiba-Kaihin-Koen Station.",
+      "localName": "お台場海浜公園駅",
+      "coordinates": {
+        "lat": 35.6299085,
+        "lng": 139.7788077
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d292481-de79-42be-a558-206dddd03821.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d292481-de79-42be-a558-206dddd03821.webp"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Odaiba-kaihinkōen Station, 2-chōme-3 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6294699,139.7782176,3a,88.4y,57.91h,99.2t/data=!3m7!1e1!3m5!1shy6oV5FJXbpaEDCynwHETQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.198391150350929%26panoid%3Dhy6oV5FJXbpaEDCynwHETQ%26yaw%3D57.90700687731425!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Odaiba-Kaihin-Koen Station on the Yurikamome line appears in episode 21 when the DigiDestined briefly return to the real world and navigate the Odaiba waterfront. The elevated monorail station above Tokyo Bay is a memorable landmark from the real-world arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYxU_i_aJGGARJavt2-_whFg",
+      "name": "FamilyMart Odaiba Kaihin Koen Store",
+      "localName": "ファミリーマート お台場東京ビーチ店",
+      "coordinates": {
+        "lat": 35.628548699999996,
+        "lng": 139.7755432
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5bedf0df-c149-45c2-b15a-8ff59d935a23.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5bedf0df-c149-45c2-b15a-8ff59d935a23.webp"
+        },
+        {
+          "url": "media/cached-image_952a840fa4daa7dc33233c14ea5ca1d839515d37c2af84c9349642a15ba6545a.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 1 Chome-6-1 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6309863,139.7787989,3a,75y,246.1h,95.87t/data=!3m7!1e1!3m5!1sRL-_ZIKS0c10QvK2IxgOOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.8695542553359275%26panoid%3DRL-_ZIKS0c10QvK2IxgOOQ%26yaw%3D246.10220289147108!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "This FamilyMart convenience store near Odaiba beach park appears in episode 21, when the DigiDestined return to the real world and pass through the Daiba district. Convenience store sightings are among the more granular pilgrimage details that dedicated fans track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo6hxu_aJGGARvxPOB-pFva4",
+      "name": "Daiba Children’s Hall",
+      "localName": "港区 台場児童館",
+      "coordinates": {
+        "lat": 35.629996999999996,
+        "lng": 139.777082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c7a7367-b0a2-4d42-b8a2-25351ecafe79.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c7a7367-b0a2-4d42-b8a2-25351ecafe79.webp"
+        },
+        {
+          "url": "media/cached-image_218a47fce1f57e2b6903a4d9c31039d4808a6da8c7a7c394000e90b28312ca37.jpg"
+        }
+      ],
+      "type": "Children hall",
+      "categories": [
+        "Children hall"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Daiba Children’s Hall, １Ｆ 1 Chome-5-1 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6303865,139.7772546,3a,39.9y,171.11h,107.78t/data=!3m7!1e1!3m5!1svMqgX2-cwB_mbNyf39D-Wg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.78419003921661%26panoid%3DvMqgX2-cwB_mbNyf39D-Wg%26yaw%3D171.10500094118342!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The Daiba Children's Hall appears in episode 21 during the DigiDestined's brief return to Tokyo, set in the residential Daiba district. The community facility reflects the series' attention to everyday Tokyo locations that would resonate with Japanese viewers."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo6hxu_aJGGARmUkjQCPDXzo",
+      "name": "Daiba Civic Center",
+      "localName": "港区立台場区民センター",
+      "coordinates": {
+        "lat": 35.6297541,
+        "lng": 139.7770602
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1c04b587-cb1c-4c52-8b91-c5748912a3e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1c04b587-cb1c-4c52-8b91-c5748912a3e1.webp"
+        },
+        {
+          "url": "media/cached-image_6d18f7413a7bbf7e020664d00db66a2ce08c5efa592bc56dbd21b1bebdda3201.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Daiba Civic Center, 3階 1 Chome-5-1 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6299706,139.77771,3a,90y,49.79h,116.62t/data=!3m8!1e1!3m6!1sAF1QipM7pG6DcS5s3Cvi7s5XU15BCrOe8yK85rpWjVIa!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM7pG6DcS5s3Cvi7s5XU15BCrOe8yK85rpWjVIa%3Dw900-h600-k-no-pi-26.62118399317528-ya259.1878972853666-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The Daiba Civic Center appears in episode 21 as part of the Daiba district backdrop when the DigiDestined briefly return to the real world. Its mundane civic setting grounds the fantastical story in recognizable Tokyo geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure_17",
+      "name": "25 porticos",
+      "localName": "「25のポルティコ―色彩と反映」ダニエル・ビュレンス",
+      "coordinates": {
+        "lat": 35.63028,
+        "lng": 139.77746
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f7c0910c-08f0-4e09-a83d-61d577a42a94.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f7c0910c-08f0-4e09-a83d-61d577a42a94.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.630499,139.7774633,3a,48.8y,175.72h,103.25t/data=!3m7!1e1!3m5!1sc8FoGgClY2L6ybMTK5iIJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.2508736846695%26panoid%3Dc8FoGgClY2L6ybMTK5iIJw%26yaw%3D175.72191490414983!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The Daniel Buren installation of colored porticos near the Daiba seaside area appears in episode 21, visible as the DigiDestined navigate the Odaiba waterfront during their return to the real world. The distinctive striped columns make it a recognizable scene-matching spot for pilgrims."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXch28vOJGGARKcycQH2pSSw",
+      "name": "Lawson H Odaiba Kaihin Koen-mae store",
+      "localName": "ローソン Ｈお台場海浜公園前店",
+      "coordinates": {
+        "lat": 35.631274399999995,
+        "lng": 139.7788826
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62ee0870-4dc2-4fcf-9c02-ae5a31a4b6f5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62ee0870-4dc2-4fcf-9c02-ae5a31a4b6f5.webp"
+        },
+        {
+          "url": "media/cached-image_1529e181f02195a4e7e3d90d3d3c6f967302917676d53ce98cd0af51edbc5800.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson, 1 Chome-3-5 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6312882,139.7786389,3a,75y,54.44h,144.31t/data=!3m7!1e1!3m5!1sDmJCerAPHWHC_JbIdsWNLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-54.30608921197509%26panoid%3DDmJCerAPHWHC_JbIdsWNLQ%26yaw%3D54.43865241758137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "This Lawson convenience store near Odaiba Beach Park appears in episode 21 during the DigiDestined's brief real-world interlude in the Daiba district. Like other retail locations in the arc, it reflects the production team's detailed recreation of Odaiba's streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfdth7j_sGGAR1KnKjJaqHug",
+      "name": "Tsukimio Bridge",
+      "localName": "月見大橋",
+      "coordinates": {
+        "lat": 35.7585075,
+        "lng": 139.6291028
+      },
+      "image": "https://cdn.animepilgrimage.com/places/30ea51b4-0b75-4ec0-ad0d-82e8d5589baa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/30ea51b4-0b75-4ec0-ad0d-82e8d5589baa.webp"
+        },
+        {
+          "url": "media/cached-image_36668fe3e9ae0280900d704eaf20b9225744f4ab6d5fd0c89f76ecf318e3ce56.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsukimio Bridge, 3 Chome-10 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7584646,139.6290374,3a,48.8y,150h,96.21t/data=!3m7!1e1!3m5!1sjpV0MIXa6TQHwjW7p28Uww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.214216411322866%26panoid%3DjpV0MIXa6TQHwjW7p28Uww%26yaw%3D150.0026275884364!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 29,
+      "entityContext": "Tsukimio Bridge in Hikarigaoka (Nerima) appears in episode 29 as part of the Hikarigaoka hometown setting, when the Myotismon arc brings the action back to the neighborhood where the DigiDestined grew up. The bridge is steps from Hikarigaoka Station and appears in pilgrimage guides alongside the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxclesGPtGGARlyZqG4bms0w",
+      "name": "Starbucks Coffee - Hikarigaoka IMA",
+      "localName": "スターバックス コーヒー 光が丘IMA店",
+      "coordinates": {
+        "lat": 35.7588386,
+        "lng": 139.62879809999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ab2c2f0-3c5e-451e-bee3-0f201d6406db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ab2c2f0-3c5e-451e-bee3-0f201d6406db.webp"
+        },
+        {
+          "url": "media/cached-image_b20a538ed8e2c22719e7fa54f4278acf730179ed1a1eb62da00dfffa0b2f7bfb.jpg"
+        },
+        {
+          "url": "media/cached-image_bf0a12a933e005423972e74ac835a02f6056e659512481c9adff4fa094af762d.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Starbucks Coffee - Hikarigaoka IMA, Ima, 5 Chome-1-1 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7587913,139.6287225,3a,75y,296.59h,90.97t/data=!3m7!1e1!3m5!1sfu6_lq_Y-kjOfZ_oVgq31w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9675753600704553%26panoid%3Dfu6_lq_Y-kjOfZ_oVgq31w%26yaw%3D296.5908580434459!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "The Hikarigaoka IMA shopping center Starbucks appears in episode 30 during scenes set in the DigiDestined's home neighborhood of Hikarigaoka. The IMA mall is part of the same complex that defines the Hikarigaoka town center and recurs throughout the real-world arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3aqJqtGMGGARr39Kprtb7rI",
+      "name": "Wendy’s First Kitchen - Shinjuku South Entrance",
+      "localName": "ウェンディーズ・ファーストキッチン 新宿南口店",
+      "coordinates": {
+        "lat": 35.6887043,
+        "lng": 139.6986455
+      },
+      "image": "https://cdn.animepilgrimage.com/places/34796b37-2772-4c35-9eca-e85acf9110bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/34796b37-2772-4c35-9eca-e85acf9110bf.webp"
+        },
+        {
+          "url": "media/cached-image_c8ce781038fb0f491fbd9bffe9d742d998c3f7d418ad12602146dd4df21320ab.jpg"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wendy’s First Kitchen - Shinjuku South Entrance, 村上ビル 1F 1 Chome-18-3 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6886572,139.6989012,3a,36.3y,288.36h,104.01t/data=!3m7!1e1!3m5!1sZ1LfdIf8iMTSqgS7MByp_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.006442932373659%26panoid%3DZ1LfdIf8iMTSqgS7MByp_w%26yaw%3D288.3563074841781!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "The Wendy's First Kitchen near Shinjuku Station's south entrance appears in episode 30 during the Myotismon arc when the DigiDestined track the eighth child through Shinjuku. The fast-food location is a documented scene-matching spot from the arc's Shinjuku episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6qqjtCMGGARbhyw-fHkymM",
+      "name": "LUMINE Shinjuku 1",
+      "localName": "ルミネ新宿 ルミネ1",
+      "coordinates": {
+        "lat": 35.689203899999995,
+        "lng": 139.69914699999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df1f7ab6-ebdd-4978-976b-66230a6edec9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df1f7ab6-ebdd-4978-976b-66230a6edec9.webp"
+        },
+        {
+          "url": "media/cached-image_ae974c373335bd1e37dba7cd6fd741090934bc31aa98f1545a0da455eff55e07.jpg"
+        },
+        {
+          "url": "media/cached-image_d8dcfc7242c0f9fad986079e4631f81d08eca8bb97a167c3bd51dbf86a16375a.jpg"
+        },
+        {
+          "url": "media/cached-image_7cc9cc2ef7dea531d8829e7623348127d9ed6c38ff482438e39303d69a689b81.jpg"
+        },
+        {
+          "url": "media/cached-image_7504318c408e1e90eca6390db5f823deb0e60de103f4c5c7ebffbe0dce82eb47.jpg"
+        },
+        {
+          "url": "media/cached-image_892dab17046d46a6c50a2b4ec859bfe194109e3a73174acdaacbde08815ae11f.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 8440,
+      "priceLevel": null,
+      "address": "LUMINE Shinjuku 1, 1 Chome-1-5 Nishishinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6886927,139.6989935,3a,41.5y,34.33h,98.86t/data=!3m7!1e1!3m5!1sbdLJ3LxbvdGkKqV1mK4SuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.85737280688214%26panoid%3DbdLJ3LxbvdGkKqV1mK4SuQ%26yaw%3D34.33284860576979!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "LUMINE 1, the shopping complex directly connected to Shinjuku Station, appears in episode 30 as the DigiDestined search the south exit area of Shinjuku for clues about the eighth child during the Myotismon arc. The building's south-exit facade is a clear scene match for pilgrims."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBTmYCdGMGGARf6G-9rBJy4E",
+      "name": "YAMADA Denki LABI Shinjuku Nishiguchi",
+      "localName": "ヤマダデンキ LABI新宿西口館",
+      "coordinates": {
+        "lat": 35.6887251,
+        "lng": 139.6979757
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3a3c6a76-56a5-4d8a-bf45-a1733ef5b9fe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3a3c6a76-56a5-4d8a-bf45-a1733ef5b9fe.webp"
+        },
+        {
+          "url": "media/cached-image_60dac7f1eb2d83ead6a3159b784a0a67961cf7ed1da3239e7199efc183898bbe.jpg"
+        },
+        {
+          "url": "media/cached-image_e4d4590b3e3955d52d6de3a09a102e378ecdb5fe64319e79200efe36adc2f8ce.jpg"
+        },
+        {
+          "url": "media/cached-image_2517d26fd2f93bacaff5e7f552a5e532aa2b0877ddb92289fde3cdabfc8e5dab.jpg"
+        },
+        {
+          "url": "media/cached-image_0395ac06d4b6fd9afe7fae0f614f590a8b533286fad3870708600b56c2da6aea.jpg"
+        },
+        {
+          "url": "media/cached-image_67e147164ef7125fef0f6309c3664745295d19ca64bfd683970c19adcf3ecf8f.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 4.4,
+      "reviewCount": 53,
+      "priceLevel": null,
+      "address": "YAMADA Denki LABI Shinjuku Nishiguchi, 1 Chome-18-8 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.688401,139.6982289,3a,75y,66.29h,94.72t/data=!3m7!1e1!3m5!1sG7uH6E_lY6HhE_Cx-kKAiw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.716462946884093%26panoid%3DG7uH6E_lY6HhE_Cx-kKAiw%26yaw%3D66.28579459376208!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 30,
+      "entityContext": "The Yamada Denki electronics store near Shinjuku's west exit appears in episode 30 during the Myotismon arc, as the DigiDestined sweep through the Shinjuku south and west areas searching for the eighth DigiDestined child. The storefront is a documented location match in pilgrimage records."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCewJkL2LGGAR3Qmk0vCTGkg",
+      "name": "Tokyo Tower",
+      "localName": "東京タワー",
+      "coordinates": {
+        "lat": 35.6585805,
+        "lng": 139.7454329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c6af5a9e-3288-461a-9713-51d7ce97513e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c6af5a9e-3288-461a-9713-51d7ce97513e.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": 479504,
+      "priceLevel": null,
+      "address": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tokyo+Tower/@35.6586633,139.7455355,2a,90y,35.65h,91.92t/data=!3m8!1e1!3m6!1sA4Pj25gifXP52eQPMmf7PA!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.920517690659949%26panoid%3DA4Pj25gifXP52eQPMmf7PA%26yaw%3D35.64805169877632!7i13312!8i6656!4m9!3m8!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329!10e5!14m1!1BCgIgARICCAI!16zL20vMDEzMl94?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 32,
+      "entityContext": "Tokyo Tower appears in episode 32 during the Myotismon arc when Myotismon's invasion of Tokyo intensifies, with the tower's red-and-white silhouette appearing against the night sky as the DigiDestined grapple with Myotismon's growing power. Tokyo Tower is the most iconic real-world landmark to appear in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr4J6pKmMGGARdQLOgrzToH4",
+      "name": "MEGA Don Quijote",
+      "localName": "MEGAドン・キホーテ 渋谷本店",
+      "coordinates": {
+        "lat": 35.6603873,
+        "lng": 139.6978172
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e6796529-6861-4fde-9561-bf666cb327e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e6796529-6861-4fde-9561-bf666cb327e7.webp"
+        }
+      ],
+      "type": "Discount store",
+      "categories": [
+        "Discount store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MEGA Don Quijote, 28-6 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6602094,139.6977642,3a,90y,13.58h,113.26t/data=!3m7!1e1!3m5!1sxdAYXrMCrWvyPbV6KSwAEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-23.263431743551337%26panoid%3DxdAYXrMCrWvyPbV6KSwAEQ%26yaw%3D13.581008600416208!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 33,
+      "entityContext": "The Don Quijote discount store in Shibuya's Udagawacho appears in episode 33 during the Pumpkinmon and Gotsumon rampage through Shibuya, visible as one of the recognizable storefront landmarks in the shopping district scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9aeqHiCKGGARFh-fljrxUT0",
+      "name": "Daiba Park",
+      "localName": "台場公園",
+      "coordinates": {
+        "lat": 35.633554499999995,
+        "lng": 139.77207819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7ab8cce-a7be-4aeb-821b-0dffbb5bd870.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7ab8cce-a7be-4aeb-821b-0dffbb5bd870.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 15243,
+      "priceLevel": null,
+      "address": "Daiba Park, 1 Chome-10-1 Daiba, Minato City, Tokyo 135-0091",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.63177,139.7733608,3a,55.7y,332.93h,97.75t/data=!3m8!1e1!3m6!1sAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G%3Dw900-h600-k-no-pi-7.753813955402322-ya167.93335639293383-ro0-fo100!7i7168!8i3584?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 34,
+      "entityContext": "Daiba Park, the historic fort-island park in Tokyo Bay, appears in episode 34 during the Myotismon arc as the DigiDestined battle through the Odaiba area. The park's stone fortifications and bay views give it a distinctive look that fans match against episode backgrounds."
+    }
+  ]
+}

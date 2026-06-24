@@ -1,0 +1,327 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Style of Hiroshi Nohara's Lunch",
+  "slug": "style-of-hiroshi-nohara-lunch",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_9153c3a8c927e7b07b323c71efb087f9049d93550bf5933c979e75cc7cef700d.webp",
+  "image": "media/cached-image_9153c3a8c927e7b07b323c71efb087f9049d93550bf5933c979e75cc7cef700d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.55263021249999,
+    "lng": 139.158782175
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Style of Hiroshi Nohara's Lunch"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJQRhPwaGLGGARAjYE8mtWZxE",
+      "name": "Amishiro Park",
+      "localName": "網代公園",
+      "coordinates": {
+        "lat": 35.6544591,
+        "lng": 139.7355369
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b8b2994a-ad29-41e2-bb59-d3830a456e2d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b8b2994a-ad29-41e2-bb59-d3830a456e2d.webp"
+        },
+        {
+          "url": "media/cached-image_ea7ee074751912e72bc99f6fa6df55a98b8644f5c77b6c9f52dcaa65521fd03a.jpg"
+        },
+        {
+          "url": "media/cached-image_ba1f7c5e538c4110644e94d89e5254ec734188226d69436a97afa05f7523b44e.jpg"
+        },
+        {
+          "url": "media/cached-image_c6ce2db22e0730720b5027dd186816976e363d83c659d88dafcdffba7f44aabe.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Amishiro Park, 2 Chome-15-1 Azabujuban, Minato City, Tokyo 106-0045, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6545346,139.7357413,3a,90y,281.65h,88.57t/data=!3m7!1e1!3m5!1s4T288UeoEOjynaNx1q7XoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4300028834997107%26panoid%3D4T288UeoEOjynaNx1q7XoA%26yaw%3D281.6521789332843!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This small park in Azabu-Juban appears in the ending credits sequence, showing Hiroshi walking through the quiet backstreets of Minato on one of his lunch detours away from the office. The peaceful residential setting contrasts with his usual rushed salaryman lunch, hinting at a rare moment of calm."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMbOjEcaMGGARQZmOAfOmCGo",
+      "name": "Teketeke Yoyogi",
+      "localName": "てけてけ 代々木店",
+      "coordinates": {
+        "lat": 35.6825256,
+        "lng": 139.70224
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7970630f-0365-4ea6-894f-9fd545856363.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7970630f-0365-4ea6-894f-9fd545856363.webp"
+        },
+        {
+          "url": "media/cached-image_886b632f24036523e16371d3c27ba43e6c176369226285149635ba914c04ef1b.jpg"
+        },
+        {
+          "url": "media/cached-image_0411a5f023c8e347d1eec5be14cdd6a17767c6da66d8e4be354067c428426dd5.jpg"
+        },
+        {
+          "url": "media/cached-image_e99b38f45b08dc6e471da0f51ceea763e79ebfb562acaa9d248e0d471f35dce3.jpg"
+        },
+        {
+          "url": "media/cached-image_aab105f7aafa5af10beb106aea0643b4ec9a07c212c7eb5363d971b75b82b109.jpg"
+        },
+        {
+          "url": "media/cached-image_cec14b360e75ea15948d614c6010d9433757eb0868b0d45387fb3cc497bb070c.jpg"
+        }
+      ],
+      "type": "Yakitori restaurant",
+      "categories": [
+        "Yakitori restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Teketeke Yoyogi, 大王ビル 地下1階 1 Chome-32-14 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6826803,139.7022509,3a,90y,136.03h,93.16t/data=!3m7!1e1!3m5!1sv2sZJxnEIr84WEVxZ9cFWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.162081709207982%26panoid%3Dv2sZJxnEIr84WEVxZ9cFWA%26yaw%3D136.02710463810905!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This Yoyogi yakitori spot features in the ending credits montage of real restaurants Hiroshi frequents near his workplace. The izakaya-style counter seating captures the everyday salaryman lunch culture that defines Hiroshi's midday escapes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-TIoWM-MGGARD3Sn_JQIxdU",
+      "name": "Sukiya Yoyogi 1-Chome Shop",
+      "localName": "すき家 代々木一丁目店",
+      "coordinates": {
+        "lat": 35.683473,
+        "lng": 139.7012489
+      },
+      "image": "https://cdn.animepilgrimage.com/places/494892a6-69d6-4453-95c8-a29657de1554.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/494892a6-69d6-4453-95c8-a29657de1554.webp"
+        },
+        {
+          "url": "media/cached-image_60275ae2b5ad7ea8ec571c81ea4dee881bc429cdeb434bb298807ccb5c778af4.jpg"
+        },
+        {
+          "url": "media/cached-image_d7138a8ede9b3bf941fbe75601829e2ad5e60633d23395853a89d38767172e8a.jpg"
+        },
+        {
+          "url": "media/cached-image_4f2c47999fbb208d82ff9922de6213b67cce7bf594461b6f902067082770fc33.jpg"
+        },
+        {
+          "url": "media/cached-image_703cceeda831edf291ea73207b786ee6e7c67a9038e947892bdf9fc83929e916.jpg"
+        },
+        {
+          "url": "media/cached-image_e5517a06272e7bfa310c18434f884ed62df2f746ed622bd6d4130c6f2a8566cd.jpg"
+        }
+      ],
+      "type": "Gyudon restaurant",
+      "categories": [
+        "Gyudon restaurant"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sukiya Yoyogi 1-Chome Shop, 1 Chome-37-6 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6834739,139.7012601,3a,90y,48.8h,94.37t/data=!3m7!1e1!3m5!1sj47cv2hEkjjTx1eN3BCl4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.3736842105263065%26panoid%3Dj47cv2hEkjjTx1eN3BCl4Q%26yaw%3D48.79789473684211!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Sukiya gyudon chain near Yoyogi station appears in the ED credits, representing the budget-conscious lunch choices a 35-year-old salaryman like Hiroshi navigates on a tight daily allowance. It grounds the show in the unglamorous reality of weekday dining."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_style-of-hiroshi-nohara-lunch_3",
+      "name": "Bua de Thai",
+      "localName": "タイレストラン ブア·デ·タイ",
+      "coordinates": {
+        "lat": 35.66452,
+        "lng": 139.7579
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5028c785-77a8-4c41-a0fd-a8a15b493439.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5028c785-77a8-4c41-a0fd-a8a15b493439.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6645551,139.7578372,3a,90y,116.08h,94.31t/data=!3m8!1e1!3m6!1sOz9cd-dDL7caYVsZezcvlg!2e0!5s20220901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.309018193310067%26panoid%3DOz9cd-dDL7caYVsZezcvlg%26yaw%3D116.07583021338367!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This Thai restaurant near Shimbashi is confirmed as an ending credits filming location, placed near the Nihon TV building. Hiroshi is shown approaching or passing the restaurant in the ED sequence, illustrating the diverse and affordable lunch options he seeks out across Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV6JXdmDnAGAR-9a4atjXsTY",
+      "name": "Shinsekai",
+      "localName": "新世界",
+      "coordinates": {
+        "lat": 34.651601299999996,
+        "lng": 135.50595619999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/83a2e94c-6572-4299-a3ab-430852618ad6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/83a2e94c-6572-4299-a3ab-430852618ad6.webp"
+        },
+        {
+          "url": "media/cached-image_a0c9b41e128afff33b59670c02cc277963e4dd2bcc37cdd1ddd19ad0db35ae92.jpg"
+        },
+        {
+          "url": "media/cached-image_480dd4263d2a00111eb7588b6f72633c492fba1675d166348e618b0a4a233a26.jpg"
+        },
+        {
+          "url": "media/cached-image_ed06422c628926388222f9a5c83e7c19c903c8a4608daea7653daf62732371e9.jpg"
+        },
+        {
+          "url": "media/cached-image_4cb36a0c4d762ed7d43ab2b379b79b00ccfe6884752c3cb24430f2ab1703894d.jpg"
+        },
+        {
+          "url": "media/cached-image_5545fb2be8858a00d23e0380869ce6fd576bc68881f6e0ae173f393b1a5642fb.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 42208,
+      "priceLevel": null,
+      "address": "Shinsekai, 2 Chome-5 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wftQCa4co9zNDpfG9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "In Episode 4, Hiroshi travels to Osaka on a business trip and heads to Shinsekai specifically to eat kushikatsu, ordering the 980-yen 7-piece lunch set. The retro entertainment district, with its Tsutenkaku Tower backdrop, becomes the backdrop for one of his most satisfying solo lunches away from Saitama.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6TgsEpHmGGAR6q_LLeT64tw",
+      "name": "Kodaira",
+      "localName": "小平市",
+      "coordinates": {
+        "lat": 35.7286127,
+        "lng": 139.4775654
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kodaira, Tokyo, Japan",
+      "city": "Kodaira",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6740762,139.6864918,3a,89.8y,221.67h,89.01t/data=!3m7!1e1!3m5!1sqsUHdb2HfOUVj8j444n4bA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.9870567678661786%26panoid%3DqsUHdb2HfOUVj8j444n4bA%26yaw%3D221.66689715204893!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_style-of-hiroshi-nohara-lunch_6",
+      "name": "mid. Dining",
+      "localName": "midダイニング",
+      "coordinates": {
+        "lat": 35.67325,
+        "lng": 139.68791
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fda9ebdd-d070-4999-863b-84dd8ae5ff5b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fda9ebdd-d070-4999-863b-84dd8ae5ff5b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.673287,139.6878105,3a,90y,271.26h,109.46t/data=!3m7!1e1!3m5!1swqaDbIA_bP0ahdIHyJ4YOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.455102519671797%26panoid%3DwqaDbIA_bP0ahdIHyJ4YOw%26yaw%3D271.2619595556542!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This dining spot near Yoyogi appears in the ending credits sequence alongside other Yoyogi-area restaurants, representing the kind of casual office-district lunch venues Hiroshi explores during his midday break."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_style-of-hiroshi-nohara-lunch_7",
+      "name": "Yoyogi Ekimae Police Box",
+      "localName": "原宿警察署 代々木駅前交番",
+      "coordinates": {
+        "lat": 35.6826,
+        "lng": 139.7019
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9ed629c-510e-4d6e-8837-e7e4591ffc2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9ed629c-510e-4d6e-8837-e7e4591ffc2a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6824372,139.7018286,3a,49.6y,28.51h,92.47t/data=!3m7!1e1!3m5!1svePhG6vCb4y56gNs03qB4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.468302661016878%26panoid%3DvePhG6vCb4y56gNs03qB4A%26yaw%3D28.509800896236335!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The koban (police box) in front of Yoyogi Station is shown in the ED credits as part of the Yoyogi streetscape Hiroshi passes through on his lunch routes. It anchors the show's depiction of ordinary Tokyo commuter geography."
+    }
+  ]
+}

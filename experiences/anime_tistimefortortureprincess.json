@@ -1,0 +1,128 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": " 'Tis Time for \"Torture,\" Princess",
+  "slug": "tis-time-for-torture-princess",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_d69e593bc1c89245ce07c395f2132a7b4b9efb992fe10a411cf3a63143e7934e.webp",
+  "image": "media/cached-image_d69e593bc1c89245ce07c395f2132a7b4b9efb992fe10a411cf3a63143e7934e.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.70656603333333,
+    "lng": 139.63662093333335
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": " 'Tis Time for \"Torture,\" Princess"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJK-m5fnbyGGARzAqJYzNX0MI",
+      "name": "Asagaya Station",
+      "localName": "阿佐ヶ谷駅",
+      "coordinates": {
+        "lat": 35.70441,
+        "lng": 139.63637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5a13dc8-24e6-4276-943d-deebc530aca8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5a13dc8-24e6-4276-943d-deebc530aca8.webp"
+        },
+        {
+          "url": "media/cached-image_3d5da480bd1b9e5c7c0827da1732974598512f51d655287245bb890575a2ec1f.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-36-2 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Pmg9Kdy5siR4kWy8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In episode 10, the demon army's \"torture\" session takes place in a modern-day recreation of Asagaya, with this station serving as the entry point to the neighborhood where the Princess is tempted by the pleasures of contemporary Tokyo life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVRXMZXbyGGARAHbR3WdtUXk",
+      "name": "Totoya Asagaya North Exit Store",
+      "localName": "ととや 阿佐ケ谷北口店",
+      "coordinates": {
+        "lat": 35.7052541,
+        "lng": 139.6359348
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de97ad07-45b1-41a0-a8d3-191f81c8cfec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de97ad07-45b1-41a0-a8d3-191f81c8cfec.webp"
+        },
+        {
+          "url": "media/cached-image_37179e0e81f15a02ae90e8643d42be37a9077382ecf3a106bde8b7f6851b34e6.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Totoya, 2 Chome-1-10 Asagayakita, 杉並区 Suginami City, Tokyo 166-0001, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/38VuM7GkQNfUVovQ7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This seafood restaurant near Asagaya North Exit is depicted in episode 10 as part of the demon army's cunning \"torture\" — luring the Princess with the irresistible appeal of fresh, expertly prepared seafood that she cannot resist."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJbALQIntGGARHA2Kusb7Y-E",
+      "name": "The Park Asagaya Kita 1-chome No. 1",
+      "localName": "阿佐谷北",
+      "coordinates": {
+        "lat": 35.710034,
+        "lng": 139.63755799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbfe0430-8ce1-4d24-8fb0-a1a777dbc30c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbfe0430-8ce1-4d24-8fb0-a1a777dbc30c.webp"
+        },
+        {
+          "url": "media/cached-image_d532614a022f2f8b5063ec1faa3908aebeb27202e718dd21101d48b98ab6da0b.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Asagayakita, Suginami City, Tokyo 166-0001, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9TdqkKCfwTNRToJo7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This quiet local park in the Asagaya Kita neighborhood appears in episode 10 as part of the backdrop for the Princess's modern-Tokyo \"torture\" outing, capturing the everyday residential charm that contrasts with her fantasy-world origins."
+    }
+  ]
+}

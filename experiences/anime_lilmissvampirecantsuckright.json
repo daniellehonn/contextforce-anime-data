@@ -1,0 +1,106 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Li'l Miss Vampire Can't Suck Right",
+  "slug": "lil-miss-vampire-cant-suck-right",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_19fa2b230839c6e6cc3f0ad4e01e73014e48f5a98c514c9b2cf449668d5a797f.webp",
+  "image": "media/cached-image_19fa2b230839c6e6cc3f0ad4e01e73014e48f5a98c514c9b2cf449668d5a797f.webp",
+  "banner": null,
+  "primaryLocation": "Chiba, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.79086635,
+    "lng": 139.9273572
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Li'l Miss Vampire Can't Suck Right"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJoyHNjn-DGGAR-sA04HjRu5o",
+      "name": "Shin-Yahashira Station",
+      "localName": "新八柱駅",
+      "coordinates": {
+        "lat": 35.791984,
+        "lng": 139.9383705
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0ec9d511-e2b2-4880-ab04-b3aee7b9812b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0ec9d511-e2b2-4880-ab04-b3aee7b9812b.webp"
+        },
+        {
+          "url": "media/cached-image_d544e48b155d9db29f6df0dedee3847814eba56ac7859f620881df9e2933f2d5.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shin-Yahashira Station, 1-chōme Higurashi, Matsudo, Chiba 270-2253, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eChJbAfY9ZDg3qnb7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Shin-Yahashira Station appears in Episode 5 as a recognizable local landmark in the series' Matsudo-area setting, capturing the low-key suburban atmosphere of the fictional town of Kashinoki-dai that grounds Luna and Ohtori's everyday misadventures."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhc1w1YyEGGARyMqiss5tm8M",
+      "name": "Kamihongo Station",
+      "localName": "上本郷駅",
+      "coordinates": {
+        "lat": 35.7897487,
+        "lng": 139.9163439
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed2fc8e3-b5be-4153-a18b-a547f4c47dbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed2fc8e3-b5be-4153-a18b-a547f4c47dbf.webp"
+        },
+        {
+          "url": "media/cached-image_8960577d8d46fdb7f858e2d26b68dfebba1ca6291ba3f0e8917b63c22487797b.jpg"
+        },
+        {
+          "url": "media/cached-image_84b9e96d4b78181e9997b6b568a81689d61dcab855a3db84ecc3c45420076d97.jpg"
+        },
+        {
+          "url": "media/cached-image_0b29a99cc310335e723940020d45c108b3696190bc9ae677b3c52d8b7b217b39.jpg"
+        },
+        {
+          "url": "media/cached-image_95246af511dc19d9281535381b0350b96af2e356787f995b02f92c5c4b4eba8d.jpg"
+        },
+        {
+          "url": "media/cached-image_0e02e6f248f50a4f3294cc87af27042267ad475b95443c4b51874582a42de37b.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 107,
+      "priceLevel": null,
+      "address": "Kamihongō Station, Kamihongō, Matsudo, Chiba 271-0064, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/maiV4mDX9nZwgkDc6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Kamihongo Station on the Shin-Keisei line serves as the neighborhood commute backdrop introduced in Episode 1, where the quiet suburban setting establishes the ordinary world Ohtori Tatsuta inhabits before his classmate Luna's vampire secret turns their daily routine upside down.",
+      "fanTopPick": true
+    }
+  ]
+}

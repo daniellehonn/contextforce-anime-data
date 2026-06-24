@@ -1,0 +1,643 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Non Non Biyori Movie: Vacation",
+  "slug": "non-non-biyori-vacation",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_6e7dea6208ee2239229a7dad83c9a26c2882e7ae8c40dd80cbae0e1ffced6895.webp",
+  "image": "media/cached-image_6e7dea6208ee2239229a7dad83c9a26c2882e7ae8c40dd80cbae0e1ffced6895.webp",
+  "banner": null,
+  "primaryLocation": "Yaeyama District, Okinawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 24.35196222352941,
+    "lng": 124.09107884705884
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Non Non Biyori Movie: Vacation"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJM1v2dUh-YDQRRHIqRhrx5fw",
+      "name": "Pinaisara Falls",
+      "localName": "ピナイサーラの滝",
+      "coordinates": {
+        "lat": 24.3818283,
+        "lng": 123.8204844
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa3bbd03-756b-46a2-a8ae-75c9ec3f9938.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa3bbd03-756b-46a2-a8ae-75c9ec3f9938.webp"
+        },
+        {
+          "url": "media/cached-image_9a2c069482018c74c7f9e8a4505616dd59548f865fc83627bf4a32d3dc17ba52.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pinaisara Falls, Uehara, 竹富町 Taketomi, Yaeyama District, Okinawa 907-1541, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3824069,123.8207026,3a,90y,203.3h,107.61t/data=!3m7!1e1!3m5!1s0gJJMLSqqSbIWbi3qpgcVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.608015865576334%26panoid%3D0gJJMLSqqSbIWbi3qpgcVg%26yaw%3D203.29576888669325!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Renge and Hotaru paddle through the lush Iriomote mangroves by kayak and emerge at this towering waterfall, one of the most visually breathtaking moments of the film. The awe on Renge's face as she sees the falls for the first time captures the movie's spirit of childhood wonder.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqzNiPG7tXzQRNUgE7fgnXJA",
+      "name": "Hirakubozaki Lighthouse",
+      "localName": "平久保崎灯台",
+      "coordinates": {
+        "lat": 24.6102576,
+        "lng": 124.31605239999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c5c38806-d32b-4be5-96d4-e37d22452d77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c5c38806-d32b-4be5-96d4-e37d22452d77.webp"
+        },
+        {
+          "url": "media/cached-image_43129bdef0acd103bdc6d424d08c702fd6ac76dcd97196a9c9a0ec858cc82523.jpg"
+        },
+        {
+          "url": "media/cached-image_6e1d49e5efb4f75322367bf05cfcaa68897e99be82fd07d2e5d955e0d5cb207f.jpg"
+        }
+      ],
+      "type": "Scenic spot",
+      "categories": [
+        "Scenic spot"
+      ],
+      "rating": 4.5,
+      "reviewCount": 46,
+      "priceLevel": null,
+      "address": "Hirakubozaki Lighthouse, 234-50 Hirakubo, Ishigaki, Okinawa 907-0331, Japan",
+      "city": "Ishigaki",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.6100309,124.3161181,3a,90y,336.63h,93.66t/data=!3m7!1e1!3m5!1skecJfr0i60RJA4cdFpiOUw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6637389152233766%26panoid%3DkecJfr0i60RJA4cdFpiOUw%26yaw%3D336.62852709906895!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The group drives to the northernmost tip of Ishigaki Island and takes in the sweeping ocean view from beside this white lighthouse, a quiet scenic interlude before the Taketomi portion of their trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_non-non-biyori-vacation_2",
+      "name": "Summa Shah (Western Settlement)",
+      "localName": "スンマシャー（西集落）",
+      "coordinates": {
+        "lat": 24.33109,
+        "lng": 124.08284
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0b716581-c55f-4d39-bce1-c05f7b44fe88.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0b716581-c55f-4d39-bce1-c05f7b44fe88.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@24.3310944,124.0828306,3a,90y,99.44h,98.57t/data=!3m7!1e1!3m5!1spBDfnTIUGLTnE3fZnXd9nA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.572497579630124%26panoid%3DpBDfnTIUGLTnE3fZnXd9nA%26yaw%3D99.43831600416925!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The stone-walled lanes of this traditional Taketomi village quarter form the backdrop of the girls' leisurely strolls, with bougainvillea-draped walls and Ryukyuan-style houses appearing throughout the island scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMciub8x1YDQRCgZDNRNfIrg",
+      "name": "Nagomi Tower",
+      "localName": "なごみの塔",
+      "coordinates": {
+        "lat": 24.3307647,
+        "lng": 124.08553889999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c6d1129-13cd-40a1-9ae3-a1a5a5bdcf2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c6d1129-13cd-40a1-9ae3-a1a5a5bdcf2f.webp"
+        },
+        {
+          "url": "media/cached-image_f6ceda6b20596209f527ce5e238f8ec72316128ee3b6c4f4ae009a9bda4c351b.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagomi Tower, Taketomi, 竹富町 Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3306534,124.0854384,3a,64.3y,21.4h,109.22t/data=!3m7!1e1!3m5!1sovDcWVfFX5H6uPTOpQJmAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.22380294154523%26panoid%3DovDcWVfFX5H6uPTOpQJmAQ%26yaw%3D21.399033782469605!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The whole group climbs up to this low coral-stone observation platform to take in a 360-degree view of Taketomi's red-tiled rooftops and surrounding turquoise sea, a warm group moment that anchors the island's sense of timeless calm.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_non-non-biyori-vacation_4",
+      "name": "Bell of Peace",
+      "localName": "平和の鍾",
+      "coordinates": {
+        "lat": 24.33009,
+        "lng": 124.08635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/79d95425-131b-4cad-bef2-839752ecb96c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/79d95425-131b-4cad-bef2-839752ecb96c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@24.3300136,124.086458,3a,48.7y,322.78h,92.89t/data=!3m7!1e1!3m5!1sjAVKTruVRSgvMkvDG1-4ng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8905165870988867%26panoid%3DjAVKTruVRSgvMkvDG1-4ng%26yaw%3D322.7832120965973!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Renge rings this small peace bell near the village center during the group's afternoon walk, a brief but charming scene that highlights her curious and cheerful personality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFWeCdbZ1YDQRzn-HzXBnQdg",
+      "name": "Taketomi Post Office",
+      "localName": "竹富郵便局",
+      "coordinates": {
+        "lat": 24.3298453,
+        "lng": 124.08794669999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86371308-922b-47f0-a192-a96150973f89.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86371308-922b-47f0-a192-a96150973f89.webp"
+        },
+        {
+          "url": "media/cached-image_11ee6b8e6fe78eca159c40a914414703c849ebbb946b86d494bf5d1ca1ef4d47.jpg"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Taketomi Post Office, 500 Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3297058,124.0880616,3a,41.5y,304.09h,92.14t/data=!3m7!1e1!3m5!1sH6jcUZuidCApvrnNLQJFWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1443256343357575%26panoid%3DH6jcUZuidCApvrnNLQJFWQ%26yaw%3D304.08575464010204!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Renge sends a postcard to the classmates left behind in Asahigaoka from this distinctively Ryukyuan-style post office, one of the film's most heartwarming character moments as she thinks of home mid-vacation.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF7Dn37V1YDQRPvDIkE7r9eo",
+      "name": "Chaya Takanya",
+      "localName": "茶屋 たかにゃ",
+      "coordinates": {
+        "lat": 24.3295972,
+        "lng": 124.0877793
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b49c4b59-5c1a-47f3-b9a4-9871bdb34809.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b49c4b59-5c1a-47f3-b9a4-9871bdb34809.webp"
+        },
+        {
+          "url": "media/cached-image_e6d0687c0a589b1ee48772650182b80a946f60a9d1fbee4d865128d06b1e6efe.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chaya Takanya, 518 Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3294441,124.0880094,3a,63.5y,29.84h,96.21t/data=!3m7!1e1!3m5!1s9rFEzWIOrtRGTZQzqn_Ohw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.213602879908336%26panoid%3D9rFEzWIOrtRGTZQzqn_Ohw%26yaw%3D29.843779397046276!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The group stops at this traditional Taketomi teahouse to rest and enjoy local refreshments, with its rustic thatched atmosphere matching the island's unhurried mood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGYPC8cl1YDQRQa4zybyeQLk",
+      "name": "竹富島 HaaYa nagomi-cafe",
+      "localName": null,
+      "coordinates": {
+        "lat": 24.3309848,
+        "lng": 124.08542229999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96b3568e-4a78-48e2-bf6d-8f4c6aac311d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96b3568e-4a78-48e2-bf6d-8f4c6aac311d.webp"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒907-1101 Okinawa, Yaeyama District, Taketomi, 379 竹富島 HaaYa nagomi-cafe",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/HaaYa+nagomi-cafe/@24.3310776,124.0854416,3a,90y,171.09h,72.57t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4yp-Wcg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4np4FzvyxtB-94UiMtwJ6pGNi6Q5Z0KvQnEIfM03lXTaWkGX_e64AOFTebe8fnuR18nfo1gO9_9SryQKEt9itBSdq9K_YycEk87jVTg-wiyfcHKyAY0uORI2ekohmGn8lwa4zgyK%3Dw900-h600-k-no-pi17.426870731329572-ya171.0911502638567-ro0-fo100!7i7744!8i3872!4m9!3m8!1s0x346075c9f1c28319:0xb9409ebcc933ae41!8m2!3d24.3309848!4d124.0854223!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tjgmb4x?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small village cafe appears as one of the relaxed stopping points during the characters' bicycle exploration of Taketomi, blending naturally into the island's quiet daily life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxaNZa5x1YDQR98JJ_tO8mVU",
+      "name": "Kaijihama Bicycle parking lot and parking lot",
+      "localName": "カイジ浜 駐輪場・駐車場",
+      "coordinates": {
+        "lat": 24.3201349,
+        "lng": 124.07723619999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77c0ca10-7195-4bf3-b813-cedc3569497c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77c0ca10-7195-4bf3-b813-cedc3569497c.webp"
+        },
+        {
+          "url": "media/cached-image_affc0fe920d484290101177bfac2721b3b6f298ea091fc749ebb5a7f097815db.jpg"
+        }
+      ],
+      "type": "Parking lot for bicycles",
+      "categories": [
+        "Parking lot for bicycles"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒907-1101 Okinawa, Yaeyama District, Taketomi, カイジ浜 駐輪場・駐車場",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3201694,124.0768661,3a,56.5y,66.36h,105.07t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEz4_T3wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaaQgd15bmikCbSpUZJHVXkC9nLb40FCOl505_mzCA4pnmthGNFB438ymh42fc7I-3XuAzCxlYsTd44_rJc_QDmWVKBOiR-X9Q4g1gajp7PF5T9Prr8ECQipTqWPBHzC6nP9ZD9%3Dw900-h600-k-no-pi-15.073867468647123-ya183.36042973804012-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The girls park their rental bicycles here before heading down to Kaiji Beach to search for star sand, and the simple act of locking up bikes together is a small but endearing slice-of-life beat."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPdwAvjF0YDQRma4_0RGS-rM",
+      "name": "Kaiji Beach",
+      "localName": "カイジ浜",
+      "coordinates": {
+        "lat": 24.3201572,
+        "lng": 124.07689289999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31ab747f-5276-4db8-a425-58576a66e797.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31ab747f-5276-4db8-a425-58576a66e797.webp"
+        },
+        {
+          "url": "media/cached-image_da73fb81a2a7e3132a366c533a82a15012a7078855361cb66433e2de9bb4da08.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kaiji Beach, Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3201888,124.0767886,3a,90y,241.55h,93.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE1LiwEQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY-Red77AWrRZjmY2B-YqotyvYyu8aCE0JggejTziIgHz3bsPoAyiH8jlH1NO94mXSrATeUrupaO5Xmzg6oJYIhcxbJu3NXZzrA91N5eiNAEq2La5PDew8dCPWNL627IysqdrBK%3Dw900-h600-k-no-pi-3.8205062754783228-ya347.54641797688237-ro0-fo100!7i10240!8i5120?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Renge crouches on this beach intently searching for the tiny star-shaped foraminifera grains that Taketomi is famous for, a quintessential Renge scene full of her signature earnest concentration. Kaiji is the most celebrated location in the film and a pillar of the Taketomi pilgrimage.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_non-non-biyori-vacation_10",
+      "name": "Chura Tower",
+      "localName": "ちゅらの塔",
+      "coordinates": {
+        "lat": 24.32962,
+        "lng": 124.08768
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e39abf6-224d-48fe-abf2-ac81d0408aae.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e39abf6-224d-48fe-abf2-ac81d0408aae.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@24.3296371,124.0877065,3a,90y,33.28h,103.51t/data=!3m7!1e1!3m5!1suILcaOuczNyCQEr_QDJybA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.513361156014298%26panoid%3DuILcaOuczNyCQEr_QDJybA%26yaw%3D33.27629238110223!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The characters pass by this smaller observation tower in the village during their wanderings, providing an additional elevated view of the red-tiled rooftops that defines Taketomi's visual identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWTVchTF0YDQR016uJ95EAcE",
+      "name": "Kondoi Beach",
+      "localName": "コンドイ浜",
+      "coordinates": {
+        "lat": 24.325287199999998,
+        "lng": 124.07753729999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/497da43a-a48d-42ad-9f3a-1b84a1179ba9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/497da43a-a48d-42ad-9f3a-1b84a1179ba9.webp"
+        },
+        {
+          "url": "media/cached-image_54ebb58a40f815f59828037ce8cade779723534518614f5152aa239917362102.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kondoi Beach, Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3254917,124.0769362,3a,76.5y,200.35h,98.11t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEt4Ho8gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaZMHmFB9CB_Xd22wigm5_M_EXLvwzmL5agpKpYKhoNbK2-O5RExbQuzNMmY-V0uDjpgjkBQ47EeSz3q2RxQ4-5RJjTlJe_Jqyuw6U8n23CGwy7d0oKHoQr10Po9jWv54hXrPdprw%3Dw900-h600-k-no-pi-8.108593000457205-ya200.34666384987133-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The group spends time at this gentle, shallow beach on the island's western shore, with the calm tidal flats and turquoise water serving as a tranquil setting for the characters to simply relax together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWdqtjcl1YDQRkBGq8GGsn7I",
+      "name": "Yadoya Takenoko",
+      "localName": "やど家 たけのこ ＜竹富島＞",
+      "coordinates": {
+        "lat": 24.3313205,
+        "lng": 124.08201229999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39363f86-538b-4a35-8a62-acfb3b45060b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39363f86-538b-4a35-8a62-acfb3b45060b.webp"
+        },
+        {
+          "url": "media/cached-image_0763df1eeb107cdfe8cfc31a35f37b1b48db82f31338883ae5b449858991c10e.jpg"
+        },
+        {
+          "url": "media/cached-image_1c6eef7968d69c8da44d462ce7f2bbcb3ce631f7cd40db6cdbab4629e66d352b.jpg"
+        },
+        {
+          "url": "media/cached-image_5ae18d1c24e9a67be1db42548d2e7202084d3382f6bcc824f349ee88ade085f4.jpg"
+        },
+        {
+          "url": "media/cached-image_3de98212dd6877d8ac91f21a11acd1b869045beacb10451f7dd48bcd8027c7a8.jpg"
+        },
+        {
+          "url": "media/cached-image_06d846e084e0c456046013eec898a4e5cd2718e79e38e7d16e08609388ddbb56.jpg"
+        }
+      ],
+      "type": "Inn",
+      "categories": [
+        "Inn"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yadoya Takenoko, 206-1 Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.331231,124.0818562,3a,90y,355.28h,98.5t/data=!3m7!1e1!3m5!1srN--uFOsWfb3bE9I8aIn6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.4966720385667%26panoid%3DrN--uFOsWfb3bE9I8aIn6A%26yaw%3D355.28196111713606!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This traditional Ryukyuan guesthouse is where the group stays during their Taketomi visit, with its garden courtyard and tiled roof appearing in the morning and evening scenes that frame the trip.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzUA9Wbl1YDQRQ9kX_RfANXs",
+      "name": "Kondoi Beach Bicycle lot",
+      "localName": "コンドイビーチ駐輪場",
+      "coordinates": {
+        "lat": 24.3253003,
+        "lng": 124.0780425
+      },
+      "image": "https://cdn.animepilgrimage.com/places/687b2f85-0db0-4037-849b-b5a7d44ac5c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/687b2f85-0db0-4037-849b-b5a7d44ac5c9.webp"
+        },
+        {
+          "url": "media/cached-image_d58077051d06969023f07c3a063546ac71f88ecd9b5ceb7c96e895c0e929925f.jpg"
+        }
+      ],
+      "type": "Bicycle rack",
+      "categories": [
+        "Bicycle rack"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "83GH+46 Kondoi Beach Bicycle lot, Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3253537,124.0782142,3a,49.6y,99.5h,98.33t/data=!3m7!1e1!3m5!1sHeO2Cykk0Wr9j05BUbfVTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.330466901609071%26panoid%3DHeO2Cykk0Wr9j05BUbfVTw%26yaw%3D99.49733109463838!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The group cycles from the village center to this lot near Kondoi Beach, with the bicycle ride itself appearing as one of the cheerful ensemble moments showing everyone enjoying the island together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa7axH-HjXzQRXZuqNDWZgzc",
+      "name": "Ishigaki Airport",
+      "localName": "石垣空港 (南ぬ島 石垣空港)",
+      "coordinates": {
+        "lat": 24.3959677,
+        "lng": 124.24576409999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04727ed7-3124-49ea-bd43-e6aacd8ffd7a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04727ed7-3124-49ea-bd43-e6aacd8ffd7a.webp"
+        },
+        {
+          "url": "media/cached-image_873047d35e8e9b73ad5c7e7bc0fd346e47ab56df2bc412de297f1a1e2f540fdc.jpg"
+        },
+        {
+          "url": "media/cached-image_56c2c401dd005509384678b2e4b6b51b277284d2025f68abbc1ca857c814b062.jpg"
+        },
+        {
+          "url": "media/cached-image_2e9b726077bf9590eceb5cda511ba096a2045cb5b882b2d94e1b0147d6d97556.jpg"
+        },
+        {
+          "url": "media/cached-image_dffe64464081498c66cb7d2375965c77df085acf17cf0430d6fe638ed44de044.jpg"
+        },
+        {
+          "url": "media/cached-image_9723d196f921ea89255d8ca0f94cf161c3f922a0534f49964b2b982af234387a.jpg"
+        }
+      ],
+      "type": "Airport",
+      "categories": [
+        "Airport"
+      ],
+      "rating": 4.2,
+      "reviewCount": 503,
+      "priceLevel": null,
+      "address": "Ishigaki Arpt (ISG), 1960-104-1 Shiraho, Ishigaki, Okinawa 907-0242, Japan",
+      "city": "Ishigaki",
+      "region": "Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3909618,124.2464813,3a,90y,257.07h,101.83t/data=!3m7!1e1!3m5!1svA4ucGvwIu4GklmekOGjQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.832489162970276%26panoid%3DvA4ucGvwIu4GklmekOGjQw%26yaw%3D257.0717904011687!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The group arrives at this airport at the start of their Okinawa trip and returns here at the end, bookending the film with the excitement of departure and the bittersweet feeling of leaving the islands behind."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0WtT_Pl1YDQRFViS1m4mvhU",
+      "name": "Taketomi Island Ferry Terminal",
+      "localName": "竹富島フェリーターミナル",
+      "coordinates": {
+        "lat": 24.3358721,
+        "lng": 124.0935011
+      },
+      "image": "https://cdn.animepilgrimage.com/places/51501eb7-bbef-4075-a133-f85a188b9132.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/51501eb7-bbef-4075-a133-f85a188b9132.webp"
+        },
+        {
+          "url": "media/cached-image_e7a89c57005a10e6da65c4366aa956fa13ff34e0127358b84e3b440e1c3be311.jpg"
+        }
+      ],
+      "type": "Ferry service",
+      "categories": [
+        "Ferry service"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Taketomi Island Ferry Terminal, 竹富東港 Taketomi, Yaeyama District, Okinawa 907-1101, Japan",
+      "city": "Taketomi",
+      "region": "Yaeyama District, Okinawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@24.3362145,124.0933274,3a,90y,161.21h,96.41t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDk69T6Bg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbzNF5FVF1fr0BCpnExU6SnabZA54aP9PjvagCu7cz8tEAyTGEyA2QfXGYmxP1mW_jlWelopwoQbSZetG6Z37MruH2tuEVY6gaqs4Zvivynn0RujXseYUvJIjPC1HZ_OTlX43M%3Dw900-h600-k-no-pi-6.413594872365223-ya161.2117854782966-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The characters board a small ferry at this terminal to cross from Ishigaki to Taketomi Island, and the short sea crossing marks the transition into the island's slower, more magical atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_non-non-biyori-vacation_16",
+      "name": "Yutaka Parlor",
+      "localName": null,
+      "coordinates": {
+        "lat": 24.32524,
+        "lng": 124.07726
+      },
+      "image": "https://cdn.animepilgrimage.com/places/02a02a85-e8d8-4b15-b9e3-a64dfa8cb1bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/02a02a85-e8d8-4b15-b9e3-a64dfa8cb1bb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@24.3252987,124.0774469,3a,90y,291.84h,101.13t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDcvebSSQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hb0wIS1_UFFJuu1earI-SsSMaAk8gSGPGxd5VZ5vAu9vxJtWkSgLR692hxIA1rq02wLDfNt4oo8rPqWvhQii6eNWC78NPvgbjKDHgOvS7nVp_mTNEt4bx0_T3iHHd8vtFb9koeB%3Dw900-h600-k-no-pi-11.12870792555539-ya295.83881204545105-ro0-fo100!7i10240!8i5120?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small beachside shop near Kaiji Beach is where the girls stop for shaved ice and cold drinks after searching for star sand, a refreshing pause in the afternoon heat."
+    }
+  ]
+}

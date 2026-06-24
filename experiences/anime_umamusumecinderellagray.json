@@ -1,0 +1,1542 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Uma Musume: Cinderella Gray",
+  "slug": "uma-musume-cinderella-gray",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_c77f392dd38b147967fa185e2e34989ec74439fbf149cbc50cd69cf0e93cbf7d.webp",
+  "image": "media/cached-image_c77f392dd38b147967fa185e2e34989ec74439fbf149cbc50cd69cf0e93cbf7d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.55565170789473,
+    "lng": 137.72771930789472
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Uma Musume: Cinderella Gray"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-cinderella-gray_0",
+      "name": "Hair Salon Smart",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.37421,
+        "lng": 136.76404
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a3fcda9-e0c4-48fc-88b6-f8046456092e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a3fcda9-e0c4-48fc-88b6-f8046456092e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3740918,136.7639093,3a,90y,45.27h,99.3t/data=!3m7!1e1!3m5!1sQC6gHeNN1fFy_ipkvJIVNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.304292801648188%26panoid%3DQC6gHeNN1fFy_ipkvJIVNQ%26yaw%3D45.27376379166127!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The hair salon near Kasamatsu that appears in episode 4, reflecting the everyday Kasamatsu townscape Oguri Cap moves through during her early racing days."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-cinderella-gray_1",
+      "name": "Marukin Restaurant",
+      "localName": "丸金食堂",
+      "coordinates": {
+        "lat": 35.37274,
+        "lng": 136.76593
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35e2a76d-1135-46bc-96a2-5f3cfefaa4cc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35e2a76d-1135-46bc-96a2-5f3cfefaa4cc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.372646,136.7656174,3a,43y,66.48h,91.26t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDGn5ez_QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1CY9-fDunonFB1SqBamGCokgew4U82YXa4yQY71XEi8aCBDnqNEFqy5-A7Asubp5YAmvLCviaXcg7lLCFLVB159zBYWNFJ_pWne0oSdCoiqmKgaphTvs-qQlwKCEu4RAGgOuEoBQ%3Dw900-h600-k-no-pi-1.259991492822735-ya223.6531745763956-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "A local diner in Kasamatsu depicted in episode 3 where characters gather for meals, capturing the working-class community spirit around the racecourse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT5BbLd_mAGARRXNK4edQb5I",
+      "name": "La Pont de Ciel",
+      "localName": "ルポンドシエル｜LE PONT DE CIEL",
+      "coordinates": {
+        "lat": 34.6921556,
+        "lng": 135.5023114
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98a7cc10-dce4-406b-bf4e-5b64c6ef43c5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98a7cc10-dce4-406b-bf4e-5b64c6ef43c5.webp"
+        },
+        {
+          "url": "media/cached-image_6e84fd5ce5cea858334b1b73dca3a6f55355443add095356963e45dcf952e04e.jpg"
+        }
+      ],
+      "type": "French restaurant",
+      "categories": [
+        "French restaurant"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Le Pont De Ciel, B1 3 Chome-5-29 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4324282,136.780855,3a,90y,229.07h,93.99t/data=!3m7!1e1!3m5!1sOcTNq4T-SckFdrQuthaQ4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9936311665550193%26panoid%3DOcTNq4T-SckFdrQuthaQ4Q%26yaw%3D229.06867157367535!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The upscale Osaka restaurant that appears in episode 3, serving as a contrast to Kasamatsu's humble roots and marking Oguri Cap's broadening world as she takes on bigger races."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKcBupOGpA2ARfQS_fqycuqg",
+      "name": "Ote Road (Nanamagari Trail)",
+      "localName": "百曲り登山道",
+      "coordinates": {
+        "lat": 35.432621399999995,
+        "lng": 136.77334439999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d72016e-48c7-44dd-8bcb-39bfe6997cd9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d72016e-48c7-44dd-8bcb-39bfe6997cd9.webp"
+        },
+        {
+          "url": "media/cached-image_989d628ee4243f297f6761398bcac058b3561500371f0fb2fe94d37fdad45470.jpg"
+        }
+      ],
+      "type": "Hiking area",
+      "categories": [
+        "Hiking area"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hyakumagari trail, 16 Matsushitacho, Gifu, 500-0000, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4312531,136.7793219,3a,90y,42.4h,108.49t/data=!3m7!1e1!3m5!1sguTLlJ63C0Bbd21Ot7ifqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.487688970156896%26panoid%3DguTLlJ63C0Bbd21Ot7ifqA%26yaw%3D42.40006895897868!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The winding trail on Kinkazan in Gifu featured in episode 3, used as a training ground backdrop where the horse girls push through grueling uphill workouts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6b1Z6AWpA2ARK17AUfw-plc",
+      "name": "Café IL FANTINO（カフェ・イル・ファンティーノ）",
+      "localName": "カフェ・イル・ファンティーノ",
+      "coordinates": {
+        "lat": 35.3727371,
+        "lng": 136.7656161
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1ffc2715-334b-453a-a26e-521826877ec4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1ffc2715-334b-453a-a26e-521826877ec4.webp"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒501-6036 Gifu, Hashima District, Kasamatsu, Wakabacho, 12 Café IL FANTINO（カフェ・イル・ファンティーノ）",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kasamatsu+Racecourse/@35.3724591,136.7652714,3a,90y,181.11h,99.91t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4i-u0FA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu3goSXM_mQK04qzfmix8AWNxlrJ6ptkPbMzZ9xVIhYCtQ1lJQyDXy4_2kef9xOBu_g1BCa1zaCDZ9Qxagp8mqtdzGojvXf8WydT8k0p-M97IVoFNSnQ9gdUxpSTxHl49NRpix4%3Dw900-h600-k-no-pi-9.90903206872143-ya208.61782271038504-ro0-fo100!7i12000!8i6000!4m9!3m8!1s0x6003a8978b24ad5b:0x848e3f98ab838730!8m2!3d35.3723169!4d136.765659!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1226sm0m?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "A real café near Kasamatsu Racecourse depicted in episode 3, used as a gathering spot that anchors the anime firmly in the actual Kasamatsu neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQGhfwCvA2ARIHYZcWBqcRk",
+      "name": "Sports Depo Colorful Town Gifu",
+      "localName": "スポーツデポ カラフルタウン岐阜店",
+      "coordinates": {
+        "lat": 35.3624666,
+        "lng": 136.7294576
+      },
+      "image": "https://cdn.animepilgrimage.com/places/512c6660-37f5-462d-950b-ca9e20f8ec1f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/512c6660-37f5-462d-950b-ca9e20f8ec1f.webp"
+        },
+        {
+          "url": "media/cached-image_e8ca1af5f4a1fea2ce82bfa0abe06c413253b901f6d1c5dcbf860d1a76685ffb.jpg"
+        },
+        {
+          "url": "media/cached-image_262e2e66f9fcf137169c80c9307fe7f35f8bfed3296460586bdf5b0a40107768.jpg"
+        },
+        {
+          "url": "media/cached-image_7336d25e310cf3c965a3a9f0726cb2ee99c8b90f907d0a4e2d32bf8b338d7125.jpg"
+        }
+      ],
+      "type": "Sporting goods store",
+      "categories": [
+        "Sporting goods store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sports Depo, カラフルタウン岐阜 内1階 3 Chome-３-6 Yanaizucho Maruno, Gifu, 501-6115, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3622138,136.7289399,2a,75y,51.94h,95.82t/data=!3m8!1e1!3m6!1s759PuRMLnKukab1tTqrmjQ!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.8228202219727905%26panoid%3D759PuRMLnKukab1tTqrmjQ%26yaw%3D51.940942979115036!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The sporting goods store inside Colorful Town Gifu mall appears in episode 3, capturing a slice of everyday life in Gifu that Oguri Cap experiences between races."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK7SnKECvA2ARMAVVzwM4Hs8",
+      "name": "Colorful Town Gifu",
+      "localName": "カラフルタウン 岐阜",
+      "coordinates": {
+        "lat": 35.3629023,
+        "lng": 136.7275357
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4f91cc21-32a2-4c26-abec-42d24b59c48f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4f91cc21-32a2-4c26-abec-42d24b59c48f.webp"
+        },
+        {
+          "url": "media/cached-image_e4ab72a443f40af22bd3da46c552cd0ed6da13653f1296f26f60f68373b0a8dd.jpg"
+        },
+        {
+          "url": "media/cached-image_a50d033f410c3f68c4e81f6bd27f558039ef95c08f0375c61edae1d329e28f5b.jpg"
+        },
+        {
+          "url": "media/cached-image_2272526513adac33896c5b38b96a4c4e738530c1397192aba217dabe63b195a2.jpg"
+        },
+        {
+          "url": "media/cached-image_f7a2677fc12f2cd600f21bcc348794706464afea5e95e0a04f9830307fdc2c24.jpg"
+        },
+        {
+          "url": "media/cached-image_02400adf5d3f0b4df21e9701f7af41addba73c745e5ccf1e542cb04fdb040873.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 901,
+      "priceLevel": null,
+      "address": "Colorful Town Gifu, 3 Chome-3-6 Yanaizucho Maruno, Gifu, 501-6115, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3621884,136.7287953,2a,75y,271.67h,95.59t/data=!3m7!1e1!3m5!1s9JDBkFzWj2jd_OJ8RQOkzg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.585629822644492%26panoid%3D9JDBkFzWj2jd_OJ8RQOkzg%26yaw%3D271.6718746375922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The large Gifu shopping mall featured in episode 3, used as a recognizable local landmark when characters spend time off the track in Gifu city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8dm8E9KuA2ARf6uf9_C0a3o",
+      "name": "Gifu Kogyokoko-mae",
+      "localName": "岐阜精機工業株式会社",
+      "coordinates": {
+        "lat": 35.3968528,
+        "lng": 136.7440446
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e5b37137-4f71-4cb9-a808-e6939795c1a0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e5b37137-4f71-4cb9-a808-e6939795c1a0.webp"
+        },
+        {
+          "url": "media/cached-image_e748b6da4a6062e61baf237f89e852b1c63a0f023a272bfc7a21a756b696481f.jpg"
+        }
+      ],
+      "type": "Industrial equipment supplier",
+      "categories": [
+        "Industrial equipment supplier"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gifu Seiki Industrial Co., Ltd., 1 Chome-9-6 Rokujominami, Gifu, 500-8358, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3749609,136.7615058,3a,90y,208.26h,97.99t/data=!3m7!1e1!3m5!1sgR4GJ25LOO5z2x-c8h6Xag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.99003422557999%26panoid%3DgR4GJ25LOO5z2x-c8h6Xag%26yaw%3D208.25744589962935!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "An industrial area street in Gifu depicted in episode 2 as part of the real city geography Oguri Cap traverses on her way through early racing life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuecmcH2LGGARgmOaAPaK9zA",
+      "name": "The Okura Tokyo",
+      "localName": "オークラ東京",
+      "coordinates": {
+        "lat": 35.6671751,
+        "lng": 139.7438601
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5a104466-7d71-452b-9322-6324d7297bba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5a104466-7d71-452b-9322-6324d7297bba.webp"
+        },
+        {
+          "url": "media/cached-image_cc8fbb491bc9ce3d206fde8f28cf3fe0dc9b48eb4e86df54f9a1a6d4b35659b8.jpg"
+        },
+        {
+          "url": "media/cached-image_d5fd926435bd64f7c0bcc0fd3e1fc4f90d662c837146ef9417c0d446a836d1bd.jpg"
+        },
+        {
+          "url": "media/cached-image_9283a7dac88f6137180fc3c3bc7068ed3827f5e06b1e4f2034fab28ef72b74c7.jpg"
+        },
+        {
+          "url": "media/cached-image_a7c2fe52ed23d97f0ec79946f3003115a3a83e31f3da9642a7c47307b0205396.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 507,
+      "priceLevel": null,
+      "address": "The Okura Tokyo, 2 Chome-10-4 Toranomon, Minato City, Tokyo 105-0001, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6675679,139.7433178,3a,85.8y,136.02h,98.98t/data=!3m7!1e1!3m5!1sWIlw_pYZXowoRB4Qo6K15g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.981948169323886%26panoid%3DWIlw_pYZXowoRB4Qo6K15g%26yaw%3D136.0223534350061!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The prestigious Okura Tokyo hotel featured in episode 11, representing the high-stakes world of central Tokyo racing that Oguri Cap ultimately reaches in her Cinderella ascent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFT_HKvvkGGARcKV5i1MH7OQ",
+      "name": "Musashi Fuchu LE SIGNE",
+      "localName": "武蔵府中ル・シーニュ",
+      "coordinates": {
+        "lat": 35.6715958,
+        "lng": 139.4795359
+      },
+      "image": "https://cdn.animepilgrimage.com/places/15ee9608-3c66-4558-96c5-fbc733de45d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/15ee9608-3c66-4558-96c5-fbc733de45d7.webp"
+        },
+        {
+          "url": "media/cached-image_d56e28b36711478256e912bab85710e7f72d0e75330a3ce55c56a7d4a465a55d.jpg"
+        },
+        {
+          "url": "media/cached-image_842a45d31e66fea2a992d497c36176ff07876ff2ff8c09f7995cd3971938bca0.jpg"
+        },
+        {
+          "url": "media/cached-image_063cabb0bba31f87f231654bebe671df3c688b36ca563ea40ed5cbd73c3d2e9d.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f6f2c63423c1953a6edbed1fb6cb30dc1244db61ce8fe439e35840f997d9ef.jpg"
+        },
+        {
+          "url": "media/cached-image_c2e6f5b27964fdeaca851981a8934f8c28841c2505dc3b0fbdeb3c07781769ae.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.6,
+      "reviewCount": 823,
+      "priceLevel": null,
+      "address": "Musashi Fuchu LE SIGNE, 1 Chome-100 Miyamachi, Fuchu, Tokyo 183-0023, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6717242,139.4791588,3a,90y,154.12h,97.67t/data=!3m7!1e1!3m5!1s0rmu2IucepEClGUZlWZBTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.665613840557413%26panoid%3D0rmu2IucepEClGUZlWZBTQ%26yaw%3D154.1174213419472!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The shopping complex near Fuchu/Tokyo Racecourse shown in episode 11, part of the familiar Fuchu cityscape that frames Tokyo Racecourse visits for fans making the pilgrimage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw4SHAYz0nl8RU0SbjWQVwtA",
+      "name": "Hakodate Racecourse",
+      "localName": "函館競馬場",
+      "coordinates": {
+        "lat": 41.783479799999995,
+        "lng": 140.7759614
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d348271-8bbe-4293-8102-d2fd6ff6922c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d348271-8bbe-4293-8102-d2fd6ff6922c.webp"
+        },
+        {
+          "url": "media/cached-image_5a45d5f2a23cb0c38c13cc5772fb279633682e747b1792d48749e7b10ab68211.jpg"
+        },
+        {
+          "url": "media/cached-image_b6d6063ae7c98aae495ebe006dbc53d3721bea13cf2e7477e4cb1bd8a2b16d01.jpg"
+        },
+        {
+          "url": "media/cached-image_55776d34a5c776f7ff76c24d9fb54fc2a84172b006127159abc0f912b157b47b.jpg"
+        },
+        {
+          "url": "media/cached-image_30e460bb0ab348826547d09b85b9f7ed9a49fb1d4be8ef71339f1e9aa3d3e391.jpg"
+        },
+        {
+          "url": "media/cached-image_76bcfb8912e5bf96ae367eb73ba20e938f6132218d3e2620bf4c74e16551a70e.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 37,
+      "priceLevel": null,
+      "address": "Hakodate Racecourse, 12-2 Komabacho, Hakodate, Hokkaido 042-0935, Japan",
+      "city": "Hakodate",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@41.7822677,140.7757534,3a,90y,24.93h,122.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq3e77bQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbDqrmFKnRgeAU5FCvaHskje5xR7J4Y78e9axmO2cJtEVud0EHK5PsR4iYAXckC1rsMCbXC5Kjs8RMNBjJ95IFwHgJs-X1XCfDLffXNh0g-12PxSMAEqayUdHF9kLHGngbJLCzc%3Dw900-h600-k-no-pi-32.177355104593516-ya24.93433284155578-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Hakodate Racecourse in Hokkaido appears in episode 11, one of the real JRA tracks Oguri Cap competes at as she climbs from local races to national prominence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFwCwXLvlGGAR0q3LOF_upBs",
+      "name": "Paddock in Tokyo racecourse",
+      "localName": "東京競馬場 パドック",
+      "coordinates": {
+        "lat": 35.665802299999996,
+        "lng": 139.483479
+      },
+      "image": "https://cdn.animepilgrimage.com/places/adbcf1f5-3e55-41c8-bbfb-3788dba9ae92.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/adbcf1f5-3e55-41c8-bbfb-3788dba9ae92.webp"
+        },
+        {
+          "url": "media/cached-image_17a6a51a3d10532f71b66095bd602dd89477970b1a2590e01a532e0f064428ab.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Paddock in Tokyo racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6654663,139.4832826,3a,46.3y,356.32h,88.7t/data=!3m7!1e1!3m5!1sOf9tUVkYeGy4sx4FTSnxCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3016032844548988%26panoid%3DOf9tUVkYeGy4sx4FTSnxCQ%26yaw%3D356.3215858703565!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The paddock at Tokyo Racecourse shown in episode 11, where fans can stand in the exact spot depicted when Oguri Cap prepares before major races at Japan's most prestigious flat track.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-ru7qMGGARO4TqjNgbWpo",
+      "name": "CAFÉ Mori no Terrace",
+      "localName": "CAFÉ 杜のテラス",
+      "coordinates": {
+        "lat": 35.6697415,
+        "lng": 139.7017223
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca53b4ce-38e4-45d9-8b2a-b3a637f754dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca53b4ce-38e4-45d9-8b2a-b3a637f754dc.webp"
+        },
+        {
+          "url": "media/cached-image_3212532d5b7417e8ce99793088e408b7a85aacfc618465287d94b1440e3aaaaa.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "CAFÉ Mori no Terrace, 1-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6698834,139.7019676,3a,90y,347.6h,101.82t/data=!3m7!1e1!3m5!1sKqTzJIcwP647ZAbE4noLLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.820341297127527%26panoid%3DKqTzJIcwP647ZAbE4noLLg%26yaw%3D347.60114782121093!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A cafe near Yoyogi Park in Shibuya depicted in episode 10 during the characters' Tokyo outing, grounding the Harajuku sightseeing arc in real Tokyo geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkcbhU2GNGGARbI2LzART2Sg",
+      "name": "Harajuku Churros - sweets",
+      "localName": "原宿チュロス",
+      "coordinates": {
+        "lat": 35.671496499999996,
+        "lng": 139.70336179999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/691a543e-cc78-4835-89e4-e83c4c5913dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/691a543e-cc78-4835-89e4-e83c4c5913dd.webp"
+        }
+      ],
+      "type": "Dessert shop",
+      "categories": [
+        "Dessert shop"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Harajuku Churros - sweets, 1 Chome-17-5 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6715392,139.7033567,3a,90y,150.12h,94.88t/data=!3m7!1e1!3m5!1s-LQVrstzH45sNPk1Pz6xZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.882924835234235%26panoid%3D-LQVrstzH45sNPk1Pz6xZg%26yaw%3D150.11871352503684!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Harajuku churros stand on Takeshita Street featured in episode 10, where Oguri Cap and companions enjoy sweet snacks during a carefree day out in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhTmQ-f-NGGARqJtEKUwkVvY",
+      "name": "Gamaro Gang Jung",
+      "localName": "カマロカンジョン 原宿2号店",
+      "coordinates": {
+        "lat": 35.671480599999995,
+        "lng": 139.7041993
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2adff4f-d6a8-47c4-af82-5727b5ab0131.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2adff4f-d6a8-47c4-af82-5727b5ab0131.webp"
+        },
+        {
+          "url": "media/cached-image_391323ac65bdbd7281731fc89a80a0e27ffaae89565fddee04e640cd9f8a2b64.jpg"
+        }
+      ],
+      "type": "Asian restaurant",
+      "categories": [
+        "Asian restaurant"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gamaro Gang Jung, 第３ＦＭＧビル 1 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6713589,139.7041784,3a,90y,32h,100.36t/data=!3m7!1e1!3m5!1sPBzgN9Coz2aagP7VjVTI8A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.360155915523876%26panoid%3DPBzgN9Coz2aagP7VjVTI8A%26yaw%3D32.00442735708345!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A Harajuku restaurant near Takeshita Street shown in episode 10 as part of the group's Tokyo food adventure, adding detail to their off-day exploration of the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs15aXqGoA2ARceMtf76MXWs",
+      "name": "Kasamatsu Minato Park",
+      "localName": "笠松みなと公園",
+      "coordinates": {
+        "lat": 35.3657944,
+        "lng": 136.7634447
+      },
+      "image": "https://cdn.animepilgrimage.com/places/11f0d49e-d41e-4966-b6b2-0e315d3ce702.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/11f0d49e-d41e-4966-b6b2-0e315d3ce702.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasamatsuminato Park, 4 Minatomachi, Kasamatsu, Hashima District, Gifu 501-6053, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3660084,136.7646312,3a,90y,314.04h,97.49t/data=!3m8!1e1!3m6!1sAF1QipOlv6PlRZvMUTZCf85c30SGrJAWGvgozeVAW9Ab!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOlv6PlRZvMUTZCf85c30SGrJAWGvgozeVAW9Ab%3Dw900-h600-k-no-pi-7.489857081542169-ya274.7488593729465-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The riverside park in Kasamatsu shown in episode 1, capturing the quiet local scenery around Oguri Cap's hometown as she begins her journey toward the big races."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD_Q7NryoA2ARFSJnlG20XyA",
+      "name": "Kasamatsu Station",
+      "localName": "笠松駅",
+      "coordinates": {
+        "lat": 35.3740727,
+        "lng": 136.7642866
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35190dfc-7342-4154-b349-6b95762fced5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35190dfc-7342-4154-b349-6b95762fced5.webp"
+        },
+        {
+          "url": "media/cached-image_835235e6d5947af35cb878385bed0733b4cbe23ed3a6a155af7a5bace048923e.jpg"
+        },
+        {
+          "url": "media/cached-image_c26a6b19f601feda5ef16fbc26c75834ba6c83aa4aa753181a9c8da23dbb0767.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 40,
+      "priceLevel": null,
+      "address": "Kasamatsu Station, 1 Nishikanaikecho, Kasamatsu, Hashima District, Gifu 501-6037, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3738899,136.7636282,3a,75y,75.35h,94.55t/data=!3m7!1e1!3m5!1s2hlge-Bh3obo5btPZ6UQ6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.552591399576002%26panoid%3D2hlge-Bh3obo5btPZ6UQ6g%26yaw%3D75.35094966375098!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Kasamatsu Station on the Meitetsu line appears in episode 1, the gateway to the small racing town that becomes synonymous with Oguri Cap and the heart of the Cinderella Gray story.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI9GO2NWnA2ARa_O_JzU6p-M",
+      "name": "Kasamatsu Town Cycling Road",
+      "localName": "笠松町サイクリングロード中継拠点",
+      "coordinates": {
+        "lat": 35.3723576,
+        "lng": 136.7914733
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a402822-b21b-4e79-b3c5-5a0f94f45d19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a402822-b21b-4e79-b3c5-5a0f94f45d19.webp"
+        },
+        {
+          "url": "media/cached-image_2c78185c2871972920ccf2cb6f25b2c15df626964a3e64cbb22a65a1e5220c8f.jpg"
+        }
+      ],
+      "type": "Cycling park",
+      "categories": [
+        "Cycling park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒501-6035 Gifu, Hashima District, Kasamatsu, Enjoji, 934 笠松町サイクリングロード中継拠点",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3696138,136.7670219,3a,75y,37.16h,99.11t/data=!3m8!1e1!3m6!1sAF1QipPq_j-3bbhb3U6aGFVeuVx0G1tfA9IXaOdYJaIv!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPq_j-3bbhb3U6aGFVeuVx0G1tfA9IXaOdYJaIv%3Dw900-h600-k-no-pi-9.105403778294885-ya6.09012553396985-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The cycling path along the Kiso River in Kasamatsu depicted in episode 1, used to establish the riverside town atmosphere that defines Oguri Cap's humble starting point."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4dVbaMMHAWAR7aCfVOM2PfU",
+      "name": "Fukushoji",
+      "localName": "Shofukuji",
+      "coordinates": {
+        "lat": 35.025217999999995,
+        "lng": 135.747908
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95c19b4b-88af-4b85-8f9d-cdbfa034a9a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95c19b4b-88af-4b85-8f9d-cdbfa034a9a9.webp"
+        },
+        {
+          "url": "media/cached-image_9fa31a8664c7706e26817335b9071566a485c6cf4c48192716e6656c83b0f50d.jpg"
+        },
+        {
+          "url": "media/cached-image_a695f6bcdbcdaf60a36232fd65b5607a3701afe22035d774c06f5cf207bfca90.jpg"
+        },
+        {
+          "url": "media/cached-image_c45b8cea9380671439b15a7175aa6a623b4348c73b6231c8b21366b8951eea56.jpg"
+        },
+        {
+          "url": "media/cached-image_f9d84e987f12eaab97cd01cf4e98bc70bc84659e0b37203eb42fb530c4f0dd85.jpg"
+        },
+        {
+          "url": "media/cached-image_688404c33f2252d1b3ff24f4143036ec9502d7b15c9ad271a7cd051dc1dcb052.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 3.4,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "Kamigyo Ward, Kyoto, 602-8359",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3670225,136.7646787,3a,90y,274.82h,108.03t/data=!3m7!1e1!3m5!1s-Oobr9WqjMiMFY_xd-k7Iw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.03327980987777%26panoid%3D-Oobr9WqjMiMFY_xd-k7Iw%26yaw%3D274.81631795925836!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "A Buddhist temple in Kyoto appearing in the opening sequence, used as a atmospheric visual establishing the historical depth of the Japanese landscape the horse girls race across."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPSkTu3OpA2AR11VVonTvHY8",
+      "name": "Kasamatsu Keiba Go Daini Parking Lot",
+      "localName": "笠松競馬場第二駐車場",
+      "coordinates": {
+        "lat": 35.3697577,
+        "lng": 136.7652573
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b0df4d6-cc2c-4faf-b242-24259c0afcf0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b0df4d6-cc2c-4faf-b242-24259c0afcf0.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasamatsukeibajo Daini Parking Lot, 奈良津堤 1 Hachimancho, Kasamatsu, Hashima District, Gifu 501-6042, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3686495,136.7661821,3a,74.7y,181.86h,99.51t/data=!3m7!1e1!3m5!1sAF1QipOLvkF6DvCgnrLtVlq0esDiTdeu96rNpR0YJBDC!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOLvkF6DvCgnrLtVlq0esDiTdeu96rNpR0YJBDC%3Dw900-h600-k-no-pi-9.507005388699014-ya163.77563067425038-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The secondary parking lot of Kasamatsu Racecourse featured in the opening sequence, one of the mundane but faithfully reproduced locations that pilgrimage fans seek out."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5Z-4oKSMGGARtTWldk8BDmU",
+      "name": "ZETTERIA Harajuku Takeshita Street East",
+      "localName": "ゼッテリア 原宿竹下通りイースト店",
+      "coordinates": {
+        "lat": 35.6703294,
+        "lng": 139.7063796
+      },
+      "image": "https://cdn.animepilgrimage.com/places/94eb8f7f-86bb-4764-8302-8bc9499c6386.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/94eb8f7f-86bb-4764-8302-8bc9499c6386.webp"
+        },
+        {
+          "url": "media/cached-image_b3665def772c5545e689d8bb4b8172ccd0de4b58c3d3ec4136a8a135ba691c1f.jpg"
+        },
+        {
+          "url": "media/cached-image_584f879ad4386aa50c92db0bd22220490156faae396834bd15718528d62fb319.jpg"
+        },
+        {
+          "url": "media/cached-image_8f2ec285b10c01d14f936fb3349a7a328e109c082a3fa9d6ab7fa179958dd2d4.jpg"
+        },
+        {
+          "url": "media/cached-image_47da78f0e4d18393f57d24740bdd8e3859c3b0120c13e3836268eaf5d957fdf1.jpg"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ZETTERIA Harajuku Takeshita Street East, Ishikawa, 1 Chome-8-3 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6703907,139.7064184,3a,90y,225.47h,98.74t/data=!3m7!1e1!3m5!1sM_KbwNvtPCfbtDio2poiCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.735723951752831%26panoid%3DM_KbwNvtPCfbtDio2poiCw%26yaw%3D225.46737640542028!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The fast-food restaurant on Takeshita Street's east end appears in episode 10 during the characters' Harajuku outing, one of several real storefronts recreated along the famous street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2XkGMfvkGGARkSh9ql97Lu0",
+      "name": "Fuchu Station",
+      "localName": "府中駅",
+      "coordinates": {
+        "lat": 35.6722056,
+        "lng": 139.48019589999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3c0fd329-a9f3-46c9-962f-45d72a1b5e15.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3c0fd329-a9f3-46c9-962f-45d72a1b5e15.webp"
+        },
+        {
+          "url": "media/cached-image_27a69eb77700f25063176dc92d1b3820d487f19017eb5bda3ce283ec2076dfe1.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fuchū Station, Miyamachi, Fuchu, Tokyo, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6723068,139.479429,2a,90y,281.52h,90.03t/data=!3m7!1e1!3m5!1sprRxF7M_iyydwMr8bWPytQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.027454179200816498%26panoid%3DprRxF7M_iyydwMr8bWPytQ%26yaw%3D281.5163997334897!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Fuchu Station on the Keio line appears in episode 7, the main transit hub fans use to reach Tokyo Racecourse and a location the characters pass through on race days."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiZn7EQCNGGARBcFPqnVdJ6I",
+      "name": "Takeshita Street Entrance Arch (Harajuku Station)",
+      "localName": "竹下通り 入口アーチ (原宿駅)",
+      "coordinates": {
+        "lat": 35.67152,
+        "lng": 139.70342
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b724f337-52f4-429f-b29a-b9b564e67e70.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b724f337-52f4-429f-b29a-b9b564e67e70.webp"
+        },
+        {
+          "url": "media/cached-image_f196719c28169bffbfaee2acd995191f92f59f8fd7625e6a07cf59b1a8933da7.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-19-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/B9Pf9d4w589SusHWA",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The iconic arch at the entrance of Takeshita Street appears in episode 10 when Oguri Cap and friends visit Harajuku, recreated in detail so fans can take the same photo as their favorite characters.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnUfCmMapA2ARO78tIc3KElk",
+      "name": "Kinkazan Observatory",
+      "localName": "金華山展望台",
+      "coordinates": {
+        "lat": 35.43246,
+        "lng": 136.78063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fee28cc8-5284-4306-bec3-ac424304f9e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fee28cc8-5284-4306-bec3-ac424304f9e7.webp"
+        },
+        {
+          "url": "media/cached-image_15f0bcb7729974322c0c0563be6fab5d41419306746f3b16e94052dfe90961d5.jpg"
+        }
+      ],
+      "type": "觀景台",
+      "categories": [
+        "觀景台"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "18-3 Keyakidani, Gifu, 500-0000, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4323925,136.7806755,3a,75y,323.04h,91.41t/data=!3m8!1e1!3m6!1sAF1QipOTmuXZw9AKNTh4QDgXOvKFQtLd6tYgDDLnssXU!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOTmuXZw9AKNTh4QDgXOvKFQtLd6tYgDDLnssXU%3Dw203-h100-k-no-pi-8.616957-ya124.33802-ro-10.857007-fo100!7i5376!8i2688?coh=205409&entry=ttu",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The hilltop observatory atop Kinkazan in Gifu city appears in the opening sequence, offering the panoramic view of Gifu that the anime uses to visually root the story in this city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe-4gBXmNGGAR0Rde9eN3d9U",
+      "name": "Jingumae Pedestrian Bridge",
+      "localName": "神宮前歩道橋",
+      "coordinates": {
+        "lat": 35.667475,
+        "lng": 139.7071892
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba46dd22-cffc-480f-a538-84c774314ecd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba46dd22-cffc-480f-a538-84c774314ecd.webp"
+        },
+        {
+          "url": "media/cached-image_c996d45835ba0825ace58a6319b72c4560da7f3e15e49e78342704b18aec63f1.jpg"
+        },
+        {
+          "url": "media/cached-image_1c3672b667820256ddaa0881fee477aa4feadc7f29d4c850267bf9b252c75e94.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "6 Chome Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.667475,139.7071892,3a,63.5y,331.96h,97.96t/data=!3m7!1e1!3m5!1sLt6IA_9qAH902Xet2hORKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DLt6IA_9qAH902Xet2hORKQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D8.018471%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?hl=en&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The pedestrian overbridge in Harajuku's Jingumae area depicted in episode 10, one of the recognizable Tokyo streetscape landmarks the characters cross during their Harajuku day."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl8guRQCxWjURa0_IRzWrsmM",
+      "name": "Itsukushima Shrine Torii",
+      "localName": "嚴島神社 大鳥居",
+      "coordinates": {
+        "lat": 34.2969269,
+        "lng": 132.3192066
+      },
+      "image": "https://cdn.animepilgrimage.com/places/db867d2f-2536-4e6e-b9f7-d580652e9460.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/db867d2f-2536-4e6e-b9f7-d580652e9460.webp"
+        },
+        {
+          "url": "media/cached-image_9029f8a05da84be811ac6967c5dc78f7b42e4f35ebcfbb064ed3f985209335a8.jpg"
+        },
+        {
+          "url": "media/cached-image_978852a123a98aff08594409b081098756bbc36633e96f7d1277f5f7e960430d.jpg"
+        },
+        {
+          "url": "media/cached-image_05611fb1dafe65e3e5578c0be16bdb76668ac21fd8408fd8e56a3a1c102ce6e2.jpg"
+        },
+        {
+          "url": "media/cached-image_ef53f0779e5ede2fa20a49cd0b74633ed716f02edad03ed4e47aafcda19c2db1.jpg"
+        },
+        {
+          "url": "media/cached-image_155a9787ba809ae17165d93d87211bbb990bf74c6a66683a0af3c57df7fc3fb1.jpg"
+        },
+        {
+          "url": "media/cached-image_3d174bc69a474a4dd74caf59eede15cc5c13e111c486c7501e26b82696b351f8.jpg"
+        },
+        {
+          "url": "media/cached-image_65aad37a5d4ae366c8536a78fccf702406808ea9e52b8fb8d9f6051cdcfdc600.jpg"
+        },
+        {
+          "url": "media/cached-image_61196dfae6a3e16aac233eaf96e5669bef7967a8fdb427804c9a8dc959e7798f.jpg"
+        },
+        {
+          "url": "media/cached-image_65a451d17dfe01dbae90fbac1a64faf0d76c32823e0cf59592f9ac9d1c771845.jpg"
+        },
+        {
+          "url": "media/cached-image_2aedaf41d8681f676a06519ade6ae925aaa99efb5634cdfa6e4028f71cd8aef3.jpg"
+        },
+        {
+          "url": "media/cached-image_7b03790f994ad3387baba6077150cbe3afd8e0747160a260999b1851f074f9bc.jpg"
+        },
+        {
+          "url": "media/cached-image_daab5500ccbe634715e286a63488e9914d368788c8c64f148586669c8975b70e.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.8,
+      "reviewCount": 717,
+      "priceLevel": null,
+      "address": "1-1 Miyajimacho, Hatsukaichi, Hiroshima 739-0588, Japan",
+      "city": "Hatsukaichi",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2969269,132.3192066,3a,41.2y,297.32h,93.12t/data=!3m7!1e1!3m5!1sAF1QipNo3Nhn4sKNeEBJEdXadFWUl2F8Dk2HQd7FFKJP!2e10!3e11!7i8704!8i4352?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The famous floating torii gate of Itsukushima Shrine on Miyajima Island appears in episode 9, marking a memorable travel stop on the characters' journey through western Japan."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVxG6tKSMGGAR7DpM7o5KP4g",
+      "name": "LONG! LONGER!! LONGEST!!!",
+      "localName": "LONG!LONGER!!LONGEST!!! 原宿店",
+      "coordinates": {
+        "lat": 35.6709244,
+        "lng": 139.7053349
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bb0d5861-b169-4fcb-86fb-5cd80981949b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bb0d5861-b169-4fcb-86fb-5cd80981949b.webp"
+        },
+        {
+          "url": "media/cached-image_0180249164b1f332426c34097d9c2e4f8f18364cc313241246e03752f127c813.jpg"
+        }
+      ],
+      "type": "Dessert restaurant",
+      "categories": [
+        "Dessert restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−7−3 キュートキューブ原宿 1F LONG!LONGER!!LONGEST!!! 原宿店",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6708498,139.7052618,3a,90y,87.36h,86.24t/data=!3m7!1e1!3m5!1smnfWF6LfJliX5bWq06TXQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.7644182019584917%26panoid%3DmnfWF6LfJliX5bWq06TXQQ%26yaw%3D87.36455994390106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Harajuku dessert shop on Takeshita Street featured in episode 10, visited by Oguri Cap and friends during their cheerful Tokyo outing and recognizable to fans who walk the same street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG4VnNruMGGAREJWnxF8Xwtk",
+      "name": "Santa monica Crepes",
+      "localName": "サンタモニカクレープ",
+      "coordinates": {
+        "lat": 35.671030099999996,
+        "lng": 139.7050505
+      },
+      "image": "https://cdn.animepilgrimage.com/places/527ac87f-f1d3-4249-9a1a-92c8429c57df.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/527ac87f-f1d3-4249-9a1a-92c8429c57df.webp"
+        },
+        {
+          "url": "media/cached-image_a39ee1b09b96306b60f2e9ec59a7cfe9331f191eaf08f71a0143dab440f1bc28.jpg"
+        }
+      ],
+      "type": "Creperie",
+      "categories": [
+        "Creperie"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Santa monica Crepes, 1 Chome-16-8 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6710308,139.7051835,3a,69.4y,295.24h,98.39t/data=!3m7!1e1!3m5!1sVz1EQ58-R6t2d44eZ2_1HA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.38975482267415%26panoid%3DVz1EQ58-R6t2d44eZ2_1HA%26yaw%3D295.2394470124731!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The crêpe stand on Takeshita Street in Harajuku shown in episode 10, part of the street-food crawl that Oguri Cap's group enjoys during their day off in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-cinderella-gray_28",
+      "name": "ZAKUZAKU",
+      "localName": "クロッカンシューザクザク",
+      "coordinates": {
+        "lat": 35.67092,
+        "lng": 139.70537
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a34bd658-2a25-4620-9496-fece08d4eda0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a34bd658-2a25-4620-9496-fece08d4eda0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6709063,139.705418,3a,90y,231h,91.31t/data=!3m7!1e1!3m5!1sXdhjZTkLQ5cyOyeANqWHZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3129264421832119%26panoid%3DXdhjZTkLQ5cyOyeANqWHZA%26yaw%3D230.99581464664845!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The croquant choux shop on Takeshita Street depicted in episode 10, another stop in the characters' Harajuku snack tour that fans can recreate bite for bite."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-cinderella-gray_29",
+      "name": "Sunlight Walk",
+      "localName": "サンライトウォーク",
+      "coordinates": {
+        "lat": 34.77739,
+        "lng": 135.35808
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00d6ec69-7b1f-48a0-8ec0-fd176ebc4ef9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00d6ec69-7b1f-48a0-8ec0-fd176ebc4ef9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.7773058,135.3576564,3a,37.7y,79.07h,92.99t/data=!3m7!1e1!3m5!1sVbPQ15sX8GDIvjuzWW3-4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9916340924926885%26panoid%3DVbPQ15sX8GDIvjuzWW3-4Q%26yaw%3D79.0659161866705!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A shopping strip near Hanshin Racecourse in Takarazuka featured in episode 10, part of the real local environment the characters move through during their racing circuit travels."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcYBJ--TkGGARiufJm0Berds",
+      "name": "Barber Nagatsuka",
+      "localName": "理容ナガツカ",
+      "coordinates": {
+        "lat": 35.669901599999996,
+        "lng": 139.4800679
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ff2d71ad-e082-4271-a8e5-c3b0c9505d53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ff2d71ad-e082-4271-a8e5-c3b0c9505d53.webp"
+        },
+        {
+          "url": "media/cached-image_c0a9704dddad5370a6bc446bfd83810ad12026a6bf60df05aaa629a8116dd389.jpg"
+        }
+      ],
+      "type": "Barber shop",
+      "categories": [
+        "Barber shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Barber Nagatsuka, 2 Chome-１-15 Miyamachi, Fuchu, Tokyo 183-0023, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6700448,139.4802454,3a,75y,208.14h,99.74t/data=!3m7!1e1!3m5!1sT9hosdQQ30Ugb3P6vg_kXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.7438636184132%26panoid%3DT9hosdQQ30Ugb3P6vg_kXQ%26yaw%3D208.13701497756688!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "A barber shop in Fuchu near Tokyo Racecourse depicted in episode 9, one of the faithful real-location details the anime plants in the everyday streets around the track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNaals-HkGGARUfk8jRYyt0k",
+      "name": "JRA Tokyo Racecourse",
+      "localName": "東京競馬場",
+      "coordinates": {
+        "lat": 35.6637899,
+        "lng": 139.4832255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0160169a-50b8-42d5-830a-f942cad78d7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0160169a-50b8-42d5-830a-f942cad78d7d.webp"
+        },
+        {
+          "url": "media/cached-image_af9ad566ad4cdb93083b17e3fa1ff2d76f5abf69d99e7b021bfab1f32aacd970.jpg"
+        },
+        {
+          "url": "media/cached-image_07996f8342ef99fd8b920c0f139c53a92c3befa0d756e06afeb559cd5917c25a.jpg"
+        },
+        {
+          "url": "media/cached-image_88d950353bc231d108d9bed1c7b4e6aadf2b6f130792fa28c50981d9267301fe.jpg"
+        },
+        {
+          "url": "media/cached-image_af64085ec3c8746a78b7d99afd58ddab620af38a1438487cfe0df43b02584a2d.jpg"
+        },
+        {
+          "url": "media/cached-image_a368680eeba293bbb5d9e2f52938f44d71b83b1b0ba1e35b071a191274baf5a9.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": 597,
+      "priceLevel": null,
+      "address": "JRA Tokyo Racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659143,139.4846136,3a,75y,10.35h,96.43t/data=!3m7!1e1!3m5!1sZSPwztEqxtU2GTAKCtr31Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.434030561449447%26panoid%3DZSPwztEqxtU2GTAKCtr31Q%26yaw%3D10.346284680204406!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Tokyo Racecourse in Fuchu is the venue for Oguri Cap's climactic race in episode 8, the ultimate stage she has been building toward from her Kasamatsu origins and the emotional pinnacle of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUaRRokuvA2AR4GbRKTwDDhE",
+      "name": "Joyful Gifu Yanaizu",
+      "localName": "ジョイフル岐阜柳津店",
+      "coordinates": {
+        "lat": 35.368000599999995,
+        "lng": 136.7449857
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32ae310c-cb48-4993-96d8-f3b190d902c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32ae310c-cb48-4993-96d8-f3b190d902c4.webp"
+        },
+        {
+          "url": "media/cached-image_3ab4e043758b784a4486fbec05ef075c25461b49f7ab7e65dcace0b004140273.jpg"
+        },
+        {
+          "url": "media/cached-image_441a286c0fca756190b0bd26597101df01c552c8edf071dbd85f547a513922fa.jpg"
+        },
+        {
+          "url": "media/cached-image_00602af6fa3b812d110f7eeca272644f39c7fadd1ec6ebf840668322a3055e83.jpg"
+        },
+        {
+          "url": "media/cached-image_a3bcdbcecb0b837abe68b9f1e1e1b56378201658aed7ad6ee084e45b027b3294.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Joyfull, 4 Chome-1-30 Yanaizucho Hongo, Gifu, 501-6104, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3682095,136.7453561,3a,49.6y,233.44h,99.08t/data=!3m7!1e1!3m5!1sZiaZZs-svZgkwYHG3fuAcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.079434578430508%26panoid%3DZiaZZs-svZgkwYHG3fuAcA%26yaw%3D233.44495875363043!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "A family restaurant in Gifu's Yanaizu area shown in episode 7, depicting the ordinary local dining options around the Gifu area that frame the characters' daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW60ki5eoA2ARMIeDq5g_joQ",
+      "name": "Kasamatsu Racecourse",
+      "localName": "笠松競馬場",
+      "coordinates": {
+        "lat": 35.3723169,
+        "lng": 136.765659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1bb1d8d-6f7e-466b-be5a-5576f7586dac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1bb1d8d-6f7e-466b-be5a-5576f7586dac.webp"
+        },
+        {
+          "url": "media/cached-image_ed52842cff90de28c3496f092b20f07a5619aefbbc1b77b72cf42bc6e1bb9e06.jpg"
+        },
+        {
+          "url": "media/cached-image_454284da55bd7fdf7c1a5891e53038ddb6d2206ba2257ed69e37bc1dccc2b01f.jpg"
+        },
+        {
+          "url": "media/cached-image_78b78de5d46ee277d15f2b01cfecdc486f2dc8b7846b65ecb2bd274849199b60.jpg"
+        },
+        {
+          "url": "media/cached-image_535f5bbaec0b4a24a8fa65415a114fc50a2b6e01ca1f9af22b6d3f3932d8ceab.jpg"
+        },
+        {
+          "url": "media/cached-image_ae93e41abfd46afa7e80d7cd88fb9c5f07947c8b99d7684eaf802b9a43cb3e31.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 3.9,
+      "reviewCount": 48,
+      "priceLevel": null,
+      "address": "Kasamatsu Racecourse, 12 Wakabacho, Kasamatsu, Hashima District, Gifu 501-6036, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kasamatsu+Racecourse/@35.3724613,136.7653182,3a,90y,307.18h,102.33t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4i82gNA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1PPNp35Ny_YtHpjBDH6k59PygDCmJZzEoxdC_Y_GpJhJ4RgbFMA1IQ54BOOYBmEHmZzIeyjg5zEQnnEPaiNEcLObOx0uFhBchc6qC2ivSaxpM9txp9_L__I_yRBncO6QM7OxwJ%3Dw900-h600-k-no-pi-12.326360429291356-ya358.818524090868-ro0-fo100!7i12000!8i6000!4m9!3m8!1s0x6003a8978b24ad5b:0x848e3f98ab838730!8m2!3d35.3723169!4d136.765659!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1226sm0m?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Kasamatsu Racecourse is the spiritual home of the entire series, the small regional track in Gifu where Oguri Cap first races and discovers her extraordinary potential, setting the Cinderella story in motion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU4_tM-jzAGARDEr9DdyHaLo",
+      "name": "Hanshin Racecourse",
+      "localName": "阪神競馬場",
+      "coordinates": {
+        "lat": 34.7789941,
+        "lng": 135.3611273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e37e0ec8-f8a8-4862-9317-98330715e5b8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e37e0ec8-f8a8-4862-9317-98330715e5b8.webp"
+        },
+        {
+          "url": "media/cached-image_77ae47d0ac4cade6b5ec72c23df28d0d675d7975030c8ce19bf7de790fc77939.jpg"
+        },
+        {
+          "url": "media/cached-image_78894d71e81db11250fe3345864da4410744949995e1612bb396514ec6f56637.jpg"
+        },
+        {
+          "url": "media/cached-image_557799cad84e592ce16726dd8fedb27a16ca2fc47b869b498bbb977be6714b2a.jpg"
+        },
+        {
+          "url": "media/cached-image_f64ef1aa47b610c9e6df9566df3a53f7c99913b7a6939f61c3a4a100945962ad.jpg"
+        },
+        {
+          "url": "media/cached-image_19cc628d22eeed77bc413b7c327ae867f2ec20239a89e270883f765fabfafd7f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 222,
+      "priceLevel": null,
+      "address": "Hanshin Racecourse, 1-1 Komanocho, Takarazuka, Hyogo 665-0053, Japan",
+      "city": "Takarazuka",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7796261,135.3603216,3a,90y,25.08h,104.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq85S4ZQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY7NkRzizAomLA9WB7ONzdm5uc35UGJwlfG83iwwmbZJY5quGwhByvpXsxMuo1i3l8xiSQfhc6F4lVOCG4Uz44e3CezNIiOUmnpcvexAjshWzSKTF_2d4ogjE6q6YEsPMiv3yPR%3Dw900-h600-k-no-pi-14.363096909493805-ya21.5608794040896-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Hanshin Racecourse in Takarazuka appears in episode 5 as one of the major JRA tracks Oguri Cap challenges on her path from regional underdog to national contender."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlSj0rD4FAWAR2g59hNCbCT8",
+      "name": "JRA Kyoto Racecourse",
+      "localName": "京都競馬場",
+      "coordinates": {
+        "lat": 34.9070391,
+        "lng": 135.7245324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6dd8bd65-b22d-47c9-8516-7287011ff2ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6dd8bd65-b22d-47c9-8516-7287011ff2ef.webp"
+        },
+        {
+          "url": "media/cached-image_8b86ee6fe6bc88093e3ee0a6667064a36aec69bcdf61a93d4c2166775beb88b4.jpg"
+        },
+        {
+          "url": "media/cached-image_6fb5009bfca7ca21469091232d9684c95582c273ce890d6bb7cd197e18a2319f.jpg"
+        },
+        {
+          "url": "media/cached-image_9fae9c8dadcdf9294cef2a47e8577fa8b42b15b6aff62d1ab6ec23f4188de293.jpg"
+        },
+        {
+          "url": "media/cached-image_631570010131b437a7f036b6eef5629b5271d118f1463907b997f14e9f99b5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_33bd7a4c4468cd1b9c0b6064945d18d3836d017579df87680f71a545223d4ed2.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "JRA Kyoto Racecourse, 32 Yoshijima Watashibajimacho, Fushimi Ward, Kyoto, 612-8265, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JRA+Kyoto+Racecourse/@34.907505,135.7261062,3a,90y,68.11h,111.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC448afgAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbUflDmlRuAYKHPCoXBsBSpc437EOqZMRKWqX7M8I_POpDtt0yqUFM6jiFUmK7QHcj0Xadf47o7LTQJsCMRj2dcJdMHDaM-TMLKVHwNtZ9Gr-lfT2lyj8mEo3pjt13BUC8QJkwSLw%3Dw900-h600-k-no-pi-21.823584427852026-ya68.11358954036882-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6001053eacf42895:0x3f099bd0847d0eda!8m2!3d34.9070391!4d135.7245324!10e5!14m1!1BCgIgARICCAI!16zL20vMDcycThy?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "JRA Kyoto Racecourse appears in episode 5 as another key destination in Oguri Cap's campaign to prove herself on the central racing circuit beyond Kasamatsu."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt81PBzFjA2ARX8IW-4GVQIg",
+      "name": "West Entrance Gate of Chukyo Racecourse",
+      "localName": "中京競馬場",
+      "coordinates": {
+        "lat": 35.0656726,
+        "lng": 136.9872765
+      },
+      "image": "https://cdn.animepilgrimage.com/places/622dae46-a32c-43e0-9d9b-1e2a6eea2a9c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/622dae46-a32c-43e0-9d9b-1e2a6eea2a9c.webp"
+        },
+        {
+          "url": "media/cached-image_9ade132f826e097b5af5c49e1f0d7cd221cde4458bdba3fcc7f3db6828b9ea73.jpg"
+        },
+        {
+          "url": "media/cached-image_f640782abd07c0c3bf7e28717b9fda0bdef425c86f8faf72aa7ac0039959182f.jpg"
+        },
+        {
+          "url": "media/cached-image_17d7f2ef525121296df23251183de32a55ca09d3d0a45470688277883003a4c0.jpg"
+        },
+        {
+          "url": "media/cached-image_bbdee884e2aa7aa48d19f046337a221207a99d72829a948b48f800df72de7957.jpg"
+        },
+        {
+          "url": "media/cached-image_8623e1a9030b9a5a57c22336e6db3a9295910b3c1b4697b1a3f388f693646b98.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.1,
+      "reviewCount": 54,
+      "priceLevel": null,
+      "address": "JRA Chukyo Racecourse, Shikita-1225 Magomecho, Toyoake, Aichi 470-1132, Japan",
+      "city": "Toyoake",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0650997,136.986842,3a,48.7y,25.87h,93.44t/data=!3m7!1e1!3m5!1s7joCYd9t1JwmaICY49zszg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4357147753296857%26panoid%3D7joCYd9t1JwmaICY49zszg%26yaw%3D25.871893640120152!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Chukyo Racecourse in Toyoake appears in episode 5 as one of the stops on Oguri Cap's expanding race schedule, faithfully recreated so pilgrimage fans can recognize the real west gate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOTRfHbCuA2ARQp-VuNY0G6g",
+      "name": "New Yamazaki Daily Store Gifu Honjo",
+      "localName": "ニューヤマザキデイリーストア 岐阜本荘店",
+      "coordinates": {
+        "lat": 35.413210899999996,
+        "lng": 136.7388332
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f41d3a68-3443-48ab-845a-b10905090199.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f41d3a68-3443-48ab-845a-b10905090199.webp"
+        },
+        {
+          "url": "media/cached-image_1518bc99a3a21785d134e84aa60006bafd320e5cf14fa17c6b6d0f5375ef84ca.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "New Yamazaki Daily Store, 5 Chome-13-13 Fukiagecho, Gifu, 500-8326, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.413039,136.7386682,3a,73.9y,65.31h,105.36t/data=!3m7!1e1!3m5!1saSGpFT7j_XgsxJc6YkVPHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.364895744118911%26panoid%3DaSGpFT7j_XgsxJc6YkVPHg%26yaw%3D65.31405724560214!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A convenience store in Gifu's Honjo area depicted in episode 4, capturing the mundane but affectionately rendered real streetscape of Gifu that surrounds the characters' daily routines."
+    }
+  ]
+}

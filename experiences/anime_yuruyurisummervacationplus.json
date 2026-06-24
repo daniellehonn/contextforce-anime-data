@@ -1,0 +1,283 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "YuruYuri Summer Vacation!+",
+  "slug": "yuruyuri-summer-vacation-plus",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_b529265978524e2d11508be7e06bcd80eab4441826b788f99ecc77246ad95abc.webp",
+  "image": "media/cached-image_b529265978524e2d11508be7e06bcd80eab4441826b788f99ecc77246ad95abc.webp",
+  "banner": null,
+  "primaryLocation": "Yamagata, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.6757794875,
+    "lng": 137.2344409625
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "YuruYuri Summer Vacation!+"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJf9_s6y7wil8R7HlljNxTzBc",
+      "name": "Yonezawashi Nanbu Community Center",
+      "localName": "米沢市 南部コミュニティセンター",
+      "coordinates": {
+        "lat": 37.9026381,
+        "lng": 140.109192
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e14b450-a1dd-463b-b1c2-c737b9071a13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e14b450-a1dd-463b-b1c2-c737b9071a13.webp"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yonezawashi Nanbu Community Center, 2 Chome-4-28 Honcho, Yonezawa, Yamagata 992-0037, Japan",
+      "city": "Yonezawa",
+      "region": "Yamagata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7401737,137.0034741,3a,49.6y,223.5h,93.37t/data=!3m7!1e1!3m5!1snuFyxp6Dauu6zt9GQstGEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.371018932216842%26panoid%3DnuFyxp6Dauu6zt9GQstGEA%26yaw%3D223.49563383516264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-summer-vacation-plus_1",
+      "name": "Izakaya Michiko",
+      "localName": "居酒屋 みちこ",
+      "coordinates": {
+        "lat": 36.74199,
+        "lng": 137.00392
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a83509b6-d4f2-4f02-b4b3-b56abf3b5384.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a83509b6-d4f2-4f02-b4b3-b56abf3b5384.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7420551,137.0039469,3a,48.8y,200.05h,93.79t/data=!3m7!1e1!3m5!1sklIjnmadB4I-88goujWZFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.791648588352942%26panoid%3DklIjnmadB4I-88goujWZFQ%26yaw%3D200.0530193136272!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A local izakaya on a Takaoka backstreet that appears in background street scenes as the girls wander the neighborhood during their summer break outings. The shopfront captures the everyday downtown atmosphere that grounds the OVA in its real Takaoka setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-summer-vacation-plus_2",
+      "name": "Yashiki Liquor Store",
+      "localName": "屋敷酒店",
+      "coordinates": {
+        "lat": 36.74251,
+        "lng": 137.00396
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0fb8927b-e71c-46ab-9393-af0c7a004ecd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0fb8927b-e71c-46ab-9393-af0c7a004ecd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.742589,137.0040021,3a,75y,187.51h,97.63t/data=!3m7!1e1!3m5!1svHkC43zMvJKNK6iXJKXWCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.63249950535382%26panoid%3DvHkC43zMvJKNK6iXJKXWCQ%26yaw%3D187.50922114519648!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A neighborhood liquor shop just steps from Izakaya Michiko that appears in the same street-level pilgrimage cluster, its signage visible in background shots as the girls pass through this corner of downtown Takaoka."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL0Wwwf4HAWARMgxGbu-cJ6g",
+      "name": "Yamaguchi Tatami Shop",
+      "localName": "もとやま畳店",
+      "coordinates": {
+        "lat": 35.043362099999996,
+        "lng": 135.7484436
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de113f5b-308e-4c44-8ab2-444d58973bef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de113f5b-308e-4c44-8ab2-444d58973bef.webp"
+        },
+        {
+          "url": "media/cached-image_cd360b18ef050ee45b5c024c3c319b996e138434b7fb134758d9763544aa5ff1.jpg"
+        }
+      ],
+      "type": "Tatami store",
+      "categories": [
+        "Tatami store"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Motoyama Tatami Shop, 45 Murasakino Monzencho, Kita Ward, Kyoto, 603-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7436414,137.0042144,3a,75y,308.84h,88.64t/data=!3m7!1e1!3m5!1stjWc9PQKy7gxvLuzgBCWYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3576094068729532%26panoid%3DtjWc9PQKy7gxvLuzgBCWYw%26yaw%3D308.84141170837586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-summer-vacation-plus_4",
+      "name": "Snack Cafe Glück",
+      "localName": "おやつcafe グリュック",
+      "coordinates": {
+        "lat": 36.74491,
+        "lng": 137.00301
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab6f19f3-5670-41e3-9d94-e36474c4d919.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab6f19f3-5670-41e3-9d94-e36474c4d919.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7449159,137.0029882,3a,75y,96.51h,85.52t/data=!3m7!1e1!3m5!1s2OVVDcePL-Fi-dmeiZK9Tw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.481424303687831%26panoid%3D2OVVDcePL-Fi-dmeiZK9Tw%26yaw%3D96.51303023454375!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A cozy snack cafe on the Eiraku-cho shopping street in Takaoka that fans identify as one of the background storefronts visible when the characters spend time in their summer-break neighborhood. The cheerful facade is a recognizable detail for pilgrims tracing the OVA route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-summer-vacation-plus_5",
+      "name": "Snack Cafe Glück",
+      "localName": "おやつcafe グリュック",
+      "coordinates": {
+        "lat": 36.74473,
+        "lng": 137.0032
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a520023b-1bf2-485b-a625-41a6cea543a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a520023b-1bf2-485b-a625-41a6cea543a3.webp"
+        },
+        {
+          "url": "media/cached-image_58bc5d3448b1eba55a5fc4cb742eaf7da955874a373e2e5aeae8dadd7a2e7aca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7447269,137.0032043,3a,90y,316.42h,96.22t/data=!3m7!1e1!3m5!1shFmui3M_JoFqrk7-e_DnOA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.21959751159774%26panoid%3DhFmui3M_JoFqrk7-e_DnOA%26yaw%3D316.41982685924995!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A cozy snack cafe on the Eiraku-cho shopping street in Takaoka that fans identify as one of the background storefronts visible when the characters spend time in their summer-break neighborhood. The cheerful facade is a recognizable detail for pilgrims tracing the OVA route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-summer-vacation-plus_6",
+      "name": "Eiraku-cho CCTV",
+      "localName": "永楽町CCTV",
+      "coordinates": {
+        "lat": 36.74521,
+        "lng": 137.0009
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5bcf56b2-19e4-48d9-9880-77feecc72dbb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5bcf56b2-19e4-48d9-9880-77feecc72dbb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7453062,137.0009903,3a,48.7y,246.11h,93.02t/data=!3m7!1e1!3m5!1s2SA8XFIMZf2tMJ_jnweqLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0237699364426476%26panoid%3D2SA8XFIMZf2tMJ_jnweqLw%26yaw%3D246.1136211433044!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Eiraku-cho intersection in Takaoka, documented in pilgrimage guides as a background street corner that appears during the characters' summer-day wanderings through their hometown. The distinctive streetscape is a reference point for fans matching real-world shots to OVA frames."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdcTPipWC918Re7DqhNzcPU8",
+      "name": "Takaokashi Shakaifukushikyogikai",
+      "localName": "高岡市社会福祉協議会",
+      "coordinates": {
+        "lat": 36.7408857,
+        "lng": 137.0029021
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6182dc0-395c-4e48-9890-5ec431f96e3c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6182dc0-395c-4e48-9890-5ec431f96e3c.webp"
+        },
+        {
+          "url": "media/cached-image_86b220b5eeb3c6bb42b5b364f96e6b099c38688558985a5dd28028ffb7636b87.jpg"
+        }
+      ],
+      "type": "Social services organization",
+      "categories": [
+        "Social services organization"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takaokashi Shakaifukushikyogikai, 社会福祉協議会館 1 Chome-7-30 Shimizumachi, Takaoka, Toyama 933-0866, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7411217,137.0038205,3a,75y,8.34h,98.07t/data=!3m7!1e1!3m5!1sMhpncE70ZQZldd2nZsbDBw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.07459630221581%26panoid%3DMhpncE70ZQZldd2nZsbDBw%26yaw%3D8.344014238964872!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Takaoka City Social Welfare Council building sits in the heart of the Eiraku-cho pilgrimage district and is identified by fans as a background landmark visible during street-level scenes in the OVA. Its distinctive exterior makes it one of the more recognizable civic spots on the Takaoka pilgrimage route.",
+      "fanTopPick": true
+    }
+  ]
+}

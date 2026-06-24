@@ -1,0 +1,395 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Amagi Brilliant Park",
+  "slug": "amagi-brilliant-park",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_54b4677aa8f96bee7dc4ff280a66f8d1c93e67718b7d9a96eef269eb4f2c7e21.webp",
+  "image": "media/cached-image_54b4677aa8f96bee7dc4ff280a66f8d1c93e67718b7d9a96eef269eb4f2c7e21.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.58823827,
+    "lng": 139.19273935999996
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Amagi Brilliant Park"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJsw8f6LXkGGARBOIRwQksy0E",
+      "name": "Sakuragaoka Country Club",
+      "localName": "桜ヶ丘カントリークラブ",
+      "coordinates": {
+        "lat": 35.6422557,
+        "lng": 139.4655894
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dfcd3ba2-cad3-4979-8fc5-754222b63e62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dfcd3ba2-cad3-4979-8fc5-754222b63e62.webp"
+        },
+        {
+          "url": "media/cached-image_aa6ac84b4c548fe7e2f664650560607321916e2a9063bf523fec1f8055fa88c9.jpg"
+        }
+      ],
+      "type": "Golf course",
+      "categories": [
+        "Golf course"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sakuragaoka Country Club, 2985 Renkoji, Tama, Tokyo 206-0021, Japan",
+      "city": "Tama",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6405775,139.4648618,3a,90y,34.17h,105.01t/data=!3m7!1e1!3m5!1sdqnPubcBEXa3pQeLqADkxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.013694735573907%26panoid%3DdqnPubcBEXa3pQeLqADkxg%26yaw%3D34.171448469885895!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The golf course grounds were used to depict the overgrown, rundown exterior of Amagi Brilliant Park as seen in episode 1, when Sento Isuzu invites Kanye to tour the struggling amusement park for the first time.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS5Xv2HoJAWARxvTSFJD8yLY",
+      "name": "Yamato bashi(Bus)",
+      "localName": "大和橋(白川)",
+      "coordinates": {
+        "lat": 35.0052842,
+        "lng": 135.7729245
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0acc0a77-4c89-40d4-befa-9e22630f6f5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0acc0a77-4c89-40d4-befa-9e22630f6f5a.webp"
+        },
+        {
+          "url": "media/cached-image_66562c64d862df3234542a4753b754971dad2dd52023881886010240fe066730.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamato-bashi Bridge, Higashiyama Ward, Kyoto, 605-0086, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6554571,139.6379191,3a,40.7y,170.76h,93.47t/data=!3m7!1e1!3m5!1spWG2L-j010k1zzRCeARIag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4738611980043856%26panoid%3DpWG2L-j010k1zzRCeARIag%26yaw%3D170.76041540260198!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This bridge in Kyoto's Higashiyama ward served as the model for a bridge scene in episode 8, where background art closely mirrors the canal-side stone embankment and lantern-lit atmosphere of the Shirakawa area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_amagi-brilliant-park_2",
+      "name": "KFC Kyodo",
+      "localName": "ケンタッキーフライドチキン経堂店",
+      "coordinates": {
+        "lat": 35.65187,
+        "lng": 139.63634
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd82494b-2fec-4353-abce-8cacefa4795f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd82494b-2fec-4353-abce-8cacefa4795f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.651841,139.6363844,3a,90y,358.53h,101.03t/data=!3m7!1e1!3m5!1svgVIJRoYBU-gcsWVBWWnTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.034446064002239%26panoid%3DvgVIJRoYBU-gcsWVBWWnTA%26yaw%3D358.53185192817716!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The KFC at Kyodo in Setagaya appeared as a background location in episode 4, reflecting the everyday Kyodo neighborhood streetscape where protagonist Kanie Seiya's daily life unfolds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFyBX9VSNGGARPNG3E9PqZu0",
+      "name": "Kyodo Suzuran Shopping Street",
+      "localName": "椎名町すずらん通り商店街",
+      "coordinates": {
+        "lat": 35.7268733,
+        "lng": 139.6939764
+      },
+      "image": "https://cdn.animepilgrimage.com/places/330c146e-af7e-4216-b2f1-1c524464b289.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/330c146e-af7e-4216-b2f1-1c524464b289.webp"
+        },
+        {
+          "url": "media/cached-image_e11e1b92e9edb6cb6f3229c929da48bff2b049e7fb3dc81a3fd21bc05fe6e8c2.jpg"
+        },
+        {
+          "url": "media/cached-image_34f42fe9f321828d8d157d30f1785f33c0b257bc806e8ff08d7430c10a67fecd.jpg"
+        },
+        {
+          "url": "media/cached-image_4396cda559aa25d735c1ea918efa52825823f4fbeb17437bfca33b095822cb97.jpg"
+        },
+        {
+          "url": "media/cached-image_22f07380605d9ed76231955154a9062bd6e009edd3424d19acb20fad01b47c42.jpg"
+        },
+        {
+          "url": "media/cached-image_fd5b46b2049b9c2a29506fe3e354a2aeccc84e7b611bf83d4ec0ba516ad5f1e9.jpg"
+        }
+      ],
+      "type": "Market",
+      "categories": [
+        "Market"
+      ],
+      "rating": 3.4,
+      "reviewCount": 70,
+      "priceLevel": null,
+      "address": "Suzuran Street, 1 Chome-1-4 Nagasaki, Toshima City, Tokyo 171-0051, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6517868,139.6371684,3a,90y,310.69h,108.41t/data=!3m7!1e1!3m5!1s_ClzxDGpH1omKZtny34Ocg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.406241264998513%26panoid%3D_ClzxDGpH1omKZtny34Ocg%26yaw%3D310.690480151416!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The shopping arcade near Toshima's Nagasaki district provided background reference for the shopping street scenes in episode 2, capturing the covered arcade atmosphere seen when Kanie explores the local area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_amagi-brilliant-park_4",
+      "name": "Sakuragaoka Country Club(Bus)",
+      "localName": "桜ヶ丘カントリークラブ（バス）",
+      "coordinates": {
+        "lat": 35.64132,
+        "lng": 139.46629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4598e58e-95c1-45e6-a845-92522a804a09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4598e58e-95c1-45e6-a845-92522a804a09.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6412605,139.4663412,3a,90y,173.53h,109.48t/data=!3m7!1e1!3m5!1sS8Vb-iWLm0ne6BO4TU3ssQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.4842076543177%26panoid%3DS8Vb-iWLm0ne6BO4TU3ssQ%26yaw%3D173.53460181499017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The bus stop near Sakuragaoka Country Club appears in episode 2 as the transit point Kanie and Sento use when traveling to and from the park, establishing the real-world geography of the pilgrimage route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-7wnc5D6GGAR21cUadlNygY",
+      "name": "Keio-yomiuri-land Station",
+      "localName": "京王よみうりランド駅",
+      "coordinates": {
+        "lat": 35.6328928,
+        "lng": 139.5173648
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e184e3ba-3252-484b-bf9a-7075aae7ebcb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e184e3ba-3252-484b-bf9a-7075aae7ebcb.webp"
+        },
+        {
+          "url": "media/cached-image_22d8d915224bd5981637771a3508a0dc2f257485995ad5896ed6f92a2560e6a8.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Keiō-yomiuri-land Station, Yanokuchi, Inagi, Tokyo 206-0812, Japan",
+      "city": "Inagi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.632712,139.5173669,3a,90y,180.86h,114.84t/data=!3m7!1e1!3m5!1s3t58Icky5fQei3cDO2vuQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-24.838741747800327%26panoid%3D3t58Icky5fQei3cDO2vuQw%26yaw%3D180.8596841123291!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This station is the real-world gateway to Yomiuriland, the theme park that served as the primary model for Amagi Brilliant Park itself. The station exterior and surrounding bus area appear in episode 2 as Kanie and Sento arrive at the park.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ7vkUDaLGGAR6qq4tuxpeYQ",
+      "name": "Hashiba Sushi",
+      "localName": "鮨しゅんじ",
+      "coordinates": {
+        "lat": 35.6570579,
+        "lng": 139.7287062
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9bb6866-0897-4bf6-8ab9-c86a3421c39e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9bb6866-0897-4bf6-8ab9-c86a3421c39e.webp"
+        },
+        {
+          "url": "media/cached-image_056ff74a5215d18d17a6d64f433b4e16d78871ac13a80ab6aa52c960ca5cb9ac.jpg"
+        }
+      ],
+      "type": "Sushi restaurant",
+      "categories": [
+        "Sushi restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shunji, カーム元麻布 1F 3 Chome-6-34 Motoazabu, Minato City, Tokyo 106-0046, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6351786,139.5171725,3a,75y,11.13h,100.23t/data=!3m7!1e1!3m5!1sTxm2WOab2_HS3A3nM_k3aA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.230784361485362%26panoid%3DTxm2WOab2_HS3A3nM_k3aA%26yaw%3D11.132761095023662!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The upscale sushi restaurant in Minato's Motoazabu area appeared in episode 1 as the restaurant where Sento takes Kanie for a lavish dinner to pitch the idea of him saving Amagi Brilliant Park."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDwHkGpbzGGARt_YXHd2N7Ks",
+      "name": "Odakyu OX Kyodo",
+      "localName": "Odakyu OX 経堂店",
+      "coordinates": {
+        "lat": 35.6516403,
+        "lng": 139.6360958
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18690b7e-bebc-49c6-84af-7c236183430a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18690b7e-bebc-49c6-84af-7c236183430a.webp"
+        },
+        {
+          "url": "media/cached-image_e238f566f2aafe7fe2a5c61ed79d125237ddac068cecf742a9d97e00c3aaa148.jpg"
+        },
+        {
+          "url": "media/cached-image_ad9ec7ea79592ac17b89f1758fab37f1edfeb3609014c937fd90c7d2f3082c64.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.7,
+      "reviewCount": 27,
+      "priceLevel": null,
+      "address": "Odakyu OX Kyodo, 経堂コルティ １F 2 Chome-1-33 Kyodo, Setagaya City, Tokyo 156-0052, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6517547,139.6363461,3a,75y,216.95h,98.39t/data=!3m7!1e1!3m5!1sc0ty3Z5kiZThluOEn20bCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.385730752471687%26panoid%3Dc0ty3Z5kiZThluOEn20bCg%26yaw%3D216.95346087253526!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This supermarket at Kyodo in Setagaya is depicted in episode 1 as part of the local shopping area near Kanie Seiya's home, grounding his mundane everyday life before the park adventure begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0eidVML6GGAR6HCbLQDzp5g",
+      "name": "Inagi Station",
+      "localName": "稲城駅",
+      "coordinates": {
+        "lat": 35.6362285,
+        "lng": 139.50036649999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17eabf36-44da-4ba9-bf9b-ee7d6a1e203a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17eabf36-44da-4ba9-bf9b-ee7d6a1e203a.webp"
+        },
+        {
+          "url": "media/cached-image_759e5f3988c35698cdae99e1fdbe306bf62c1e6dcba7d939fd88e7f086296520.jpg"
+        },
+        {
+          "url": "media/cached-image_845ea51ec69152499209082d0e90e39e378041155b0622d872fa889b1796fd84.jpg"
+        },
+        {
+          "url": "media/cached-image_061803f68a68490fc6282e4b7fbd16e93653fc869dc89938bcdbd97fffb38aa0.jpg"
+        },
+        {
+          "url": "media/cached-image_735e111f6a1eb67157092f131ed4148d1863c28af8a2f299e2902217b4d0fb7c.jpg"
+        },
+        {
+          "url": "media/cached-image_a7a8b8faf3a16aaf49f212a86cd14df8f981d1da84b24eecc80f4185ef21e437.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 189,
+      "priceLevel": null,
+      "address": "Inagi Station, 3108 Higashinaganuma, Inagi, Tokyo 206-0802, Japan",
+      "city": "Inagi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6359972,139.5003798,3a,75y,7.03h,97.83t/data=!3m7!1e1!3m5!1s_s1FgZEfUkX21gLwt5Rm6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.832415232567357%26panoid%3D_s1FgZEfUkX21gLwt5Rm6A%26yaw%3D7.030617280864608!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Inagi Station on the Keio Sagamihara Line appears in episode 1 as a transit hub used when traveling toward the Yomiuriland area, and its exterior was used for background art establishing the suburban setting near the park."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_amagi-brilliant-park_9",
+      "name": "Kokata Park",
+      "localName": "幸方(こうかた)公園",
+      "coordinates": {
+        "lat": 35.63696,
+        "lng": 139.50974
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a9ff373-bd7b-4b15-805a-28df2fae347d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a9ff373-bd7b-4b15-805a-28df2fae347d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6368943,139.5095276,3a,75y,76.49h,101.7t/data=!3m7!1e1!3m5!1suGZvYWs-FdS8AJauCio0KA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.700217904392801%26panoid%3DuGZvYWs-FdS8AJauCio0KA%26yaw%3D76.48600676870696!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "This small park in Inagi appears in the opening credits sequence, representing the quiet suburban residential landscape that surrounds Amagi Brilliant Park and anchors the show's real-world setting near Yomiuriland."
+    }
+  ]
+}

@@ -1,0 +1,1950 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Occultic;Nine",
+  "slug": "occultic-nine",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_2db9fd7eba62ab3cabaaeb75745b044460f2c4c74aa00e5787c31e1913aacc4a.webp",
+  "image": "media/cached-image_2db9fd7eba62ab3cabaaeb75745b044460f2c4c74aa00e5787c31e1913aacc4a.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.82931497254903,
+    "lng": 139.31713754313728
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Occultic;Nine"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJs6M09DfuGGARgPqhleWyCV8",
+      "name": "SAFARI Kichijoji Ten",
+      "localName": "SAFARI吉祥寺 なない橋店",
+      "coordinates": {
+        "lat": 35.7011428,
+        "lng": 139.57859829999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20ff7ba2-487f-439e-b5d3-9ea6cb87ccdd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20ff7ba2-487f-439e-b5d3-9ea6cb87ccdd.webp"
+        },
+        {
+          "url": "media/cached-image_5fc373b446c7d729e34de2c2de6f7c961f5ffdb161baadd64607377f3ac9e601.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0003 Tokyo, Musashino, Kichijoji Minamicho, 1 Chome−16−11 SAFARI Kichijoji Ten, メゾンなないＣ棟 1Ｆ",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7011295,139.578498,3a,90y,92.11h,100.4t/data=!3m7!1e1!3m5!1s17M8_VgH4yGpj47mUgeeAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.404634111260805%26panoid%3D17M8_VgH4yGpj47mUgeeAA%26yaw%3D92.10822640660264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This clothing store appears in episode 7 in Kichijoji Minamicho, part of the south-side shopping streets that characters move through in the show's later episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXX1z-kfuGGAR5lBP-tjaEhE",
+      "name": "Glastree Ikara (Kichijoji)",
+      "localName": "アトレ吉祥寺",
+      "coordinates": {
+        "lat": 35.7030679,
+        "lng": 139.57926279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1870935-4ff0-4d6c-a4cd-e523664310c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1870935-4ff0-4d6c-a4cd-e523664310c9.webp"
+        },
+        {
+          "url": "media/cached-image_7a330ee5824719fecdba43f53508f25fb4e039de070036a23ca2ebcd8409b461.jpg"
+        },
+        {
+          "url": "media/cached-image_98a19e1d64ef6cb2e1e284b2fbeae3563aeaad96168439272f7ed05f929a1b13.jpg"
+        },
+        {
+          "url": "media/cached-image_bba9c35ae1411f377a78c6adf0803677b5f53b423b7ec49c03f4d9d888e2c9de.jpg"
+        },
+        {
+          "url": "media/cached-image_427ed6aa76755f48ca73f2fae6cc146b802af64a8ff20eee58e9cf0f2d1c60a4.jpg"
+        },
+        {
+          "url": "media/cached-image_bdd79ffc806a361d1da0ce4821f942f065cf6d1553e80e8f830e88cf0fc19395.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.9,
+      "reviewCount": 7274,
+      "priceLevel": null,
+      "address": "atré Kichijoji, 1 Chome-1-24 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.704429,139.5801749,3a,90y,202.03h,95.49t/data=!3m7!1e1!3m5!1s5jElEKmRyaghwdq-EoLGrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.488143212399407%26panoid%3D5jElEKmRyaghwdq-EoLGrg%26yaw%3D202.03262057519055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Atré Kichijoji shopping complex appears in episode 8 as a background location adjacent to the station, part of the show's faithful recreation of the area immediately around Kichijoji's south exit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_2",
+      "name": "Mt.Peaks",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.70509,
+        "lng": 139.57618
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12e35820-a125-45be-9c8e-eb56486d658d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12e35820-a125-45be-9c8e-eb56486d658d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7051199,139.5761201,3a,90y,113.46h,109.21t/data=!3m7!1e1!3m5!1sZkJ4hRWGc2g6p6Y2i6o4Ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.2131684867104%26panoid%3DZkJ4hRWGc2g6p6Y2i6o4Ig%26yaw%3D113.46068427321286!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This location near Kichijoji appears in episode 8 as a background setting in the show's Kichijoji neighborhood sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ407GiwfvGGARbFprML1tves",
+      "name": "Hirasawa Trading",
+      "localName": "株式会社平沢商会",
+      "coordinates": {
+        "lat": 35.7133477,
+        "lng": 139.5601715
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eefd5c39-fc08-4fca-898a-b28d603ed364.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eefd5c39-fc08-4fca-898a-b28d603ed364.webp"
+        },
+        {
+          "url": "media/cached-image_547cbd12d35c333c0d91837ab46913b7d5784a201fe5ebe60aecd8fd03978d33.jpg"
+        }
+      ],
+      "type": "Company",
+      "categories": [
+        "Company"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hirasawa Trading, 3 Chome-16-10 Nishikubo, Musashino, Tokyo 180-0013, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7132224,139.5601521,3a,85.7y,31.25h,98.05t/data=!3m7!1e1!3m5!1szJWjPZWXIyIk8cXGWUQGAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.051825561381122%26panoid%3DzJWjPZWXIyIk8cXGWUQGAQ%26yaw%3D31.248097830231895!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This company building in Musashino appears in episode 9 as a street-level location detail, part of the show's granular recreation of the neighborhoods surrounding Kichijoji."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQeGTra_vGGARLwgiY16r-_A",
+      "name": "Musashino Police Station",
+      "localName": "警視庁 武蔵野警察署",
+      "coordinates": {
+        "lat": 35.7061911,
+        "lng": 139.5607662
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b15b4268-f0a5-47d8-b3ac-8aa009fd67f4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b15b4268-f0a5-47d8-b3ac-8aa009fd67f4.webp"
+        },
+        {
+          "url": "media/cached-image_3aa41f66df36967c0a364857ab45b0b39befb471e77737c4a06d7561344ca805.jpg"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Musashino Police Station, 2 Chome-1-2 Nakacho, Musashino, Tokyo 180-0006, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7063174,139.5605049,3a,90y,291.4h,98.9t/data=!3m7!1e1!3m5!1soP6B8W2XR8mTs_rBxjkKHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.904473928591386%26panoid%3DoP6B8W2XR8mTs_rBxjkKHA%26yaw%3D291.399788553506!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Musashino Police Station appears in episode 9 when the mass drowning investigation drags characters into official channels, making this a plot-relevant location in the unfolding mystery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2SkSE1LuGGARTuUG5Zj_wtY",
+      "name": "Lawson Kichijoji Kitamachi",
+      "localName": "ローソン 吉祥寺北町店",
+      "coordinates": {
+        "lat": 35.709778,
+        "lng": 139.57269829999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c756f72-4a68-413b-80c1-0d1699e574be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c756f72-4a68-413b-80c1-0d1699e574be.webp"
+        },
+        {
+          "url": "media/cached-image_934196e439044a13d8f72928bcc0cac53b45bdefb6e4c48ac91123d9550f1125.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Kichijoji Kitamachi, 3 Chome-4-4 Kichijoji Kitamachi, Musashino, Tokyo 180-0001, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7096592,139.572663,3a,90y,52.22h,97.13t/data=!3m7!1e1!3m5!1s1-A64FyNRzjAPWUbBb2Z1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.1260947191941995%26panoid%3D1-A64FyNRzjAPWUbBb2Z1w%26yaw%3D52.2227474017773!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This convenience store appears in episode 9 as a location characters stop at, typical of the slice-of-life Kichijoji streetscapes the show weaves between its supernatural set pieces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhxa9k0juGGARrLLZkBu09Ac",
+      "name": "Tokyu Department Store Kichijoji Store",
+      "localName": "東急吉祥寺店",
+      "coordinates": {
+        "lat": 35.7050678,
+        "lng": 139.5777986
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a2d1140-1e3d-4245-8a16-6e220b28858e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a2d1140-1e3d-4245-8a16-6e220b28858e.webp"
+        },
+        {
+          "url": "media/cached-image_f0b4c5c9913b48c1f6072e2341da185f63a735e8c666c868c3ed209b6c251f18.jpg"
+        },
+        {
+          "url": "media/cached-image_bb4ceda1f4ad06c38f41ef2ec69e3994e9f53087df9fba9f41bccba3b5064e39.jpg"
+        },
+        {
+          "url": "media/cached-image_981a6b5fbb41ba84a5a3d00f6a3a2438d221c9b47c52832c0aec6e460743a825.jpg"
+        },
+        {
+          "url": "media/cached-image_9995d513b08ae469f640dca06f267e43a0722cef273a31d039dad4ddfdad66f9.jpg"
+        },
+        {
+          "url": "media/cached-image_ff0643e7f05e65205bb3e15f31faa6a7996f0e2ed1d29dd7cc3032f99e72dd90.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1172,
+      "priceLevel": null,
+      "address": "Tokyu Department Store Kichijoji Store, 2 Chome-3-1 Kichijoji Honcho, Musashino, Tokyo 180-8519, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7046383,139.5780855,3a,90y,257.5h,97.34t/data=!3m7!1e1!3m5!1s6rwRHhkC1e-e_2mclV29KA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.336282879111195%26panoid%3D6rwRHhkC1e-e_2mclV29KA%26yaw%3D257.5027650142327!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Tokyu department store appears in episode 9 street scenes, part of the familiar commercial grid of Kichijoji that the show uses to ground its supernatural events in a recognizable real-world setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB0eQ1EfuGGARaKthmgoKqwU",
+      "name": "Coppice Kichijoji",
+      "localName": "コピス吉祥寺",
+      "coordinates": {
+        "lat": 35.7049541,
+        "lng": 139.5795709
+      },
+      "image": "https://cdn.animepilgrimage.com/places/94debb7d-5290-42a8-b408-d9c60cda33b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/94debb7d-5290-42a8-b408-d9c60cda33b6.webp"
+        },
+        {
+          "url": "media/cached-image_15fcbd9ff9ae4c0ab5997f4fc46e0541fa9b6b37c40a6c49a29bb6800e18f1f5.jpg"
+        },
+        {
+          "url": "media/cached-image_988b37c5520da058bc05c5202cfb2cd4265a397415d0fae6bb86f2bf92d4c63e.jpg"
+        },
+        {
+          "url": "media/cached-image_6fca2e8972030663288cc5cda093b203ea621330845f5535c8957e51d127aa8c.jpg"
+        },
+        {
+          "url": "media/cached-image_ebc0d32943ade6f865a4ab8fd3c521ccbdb6fab4cbffe1493ac64a05d011a1dc.jpg"
+        },
+        {
+          "url": "media/cached-image_8cb81e45b65c0172bdbadf7288bb38c42dd55344d7fc2c31a5f0409bda1d1130.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1682,
+      "priceLevel": null,
+      "address": "Coppice, 1 Chome-11-5 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7044995,139.579234,3a,90y,24.92h,96.45t/data=!3m7!1e1!3m5!1syjmbQxaSdG-UY78-y55Rdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.445322914713472%26panoid%3DyjmbQxaSdG-UY78-y55Rdg%26yaw%3D24.919225089315717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This shopping complex near Kichijoji Station appears in episode 10 as a background location, part of the dense commercial zone that characters pass through in the show's Kichijoji sequences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQDzlzfuGGARg8H-_t-vVA0",
+      "name": "Meisuitei",
+      "localName": "明水亭",
+      "coordinates": {
+        "lat": 35.7002385,
+        "lng": 139.57772409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/06106250-b750-4d00-8b98-0d304bdadf7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/06106250-b750-4d00-8b98-0d304bdadf7d.webp"
+        },
+        {
+          "url": "media/cached-image_5c894cc9b3476c4306734686ee72fd5420104b809021434fa1d55cfa3f6bd3cf.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Meisuitei, 4 Chome-1-9 Inokashira, Mitaka, Tokyo 181-0001, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7001171,139.5781469,2a,90y,321.75h,98.49t/data=!3m7!1e1!3m5!1spxLaiOo5omjcXBTygE8DPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.492773606623473%26panoid%3DpxLaiOo5omjcXBTygE8DPg%26yaw%3D321.7517313623376!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This cafe near Inokashira Park appears in episode 10, a quiet spot along the park's periphery in Mitaka that characters pass through as the story's supernatural events intensify."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-DTD_uGGARsdtjxN5Xopc",
+      "name": "Yamato Transport Co., Ltd. Kichijoji Ekimae Center",
+      "localName": "ヤマト運輸 吉祥寺本町１丁目営業所（吉祥寺駅前）",
+      "coordinates": {
+        "lat": 35.7035912,
+        "lng": 139.5841675
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e643176-17cd-4a02-bc32-a3a1450264e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e643176-17cd-4a02-bc32-a3a1450264e8.webp"
+        },
+        {
+          "url": "media/cached-image_405869de7707e8cac3b7b8fd9ea4199aad4b2a6d68353cafd9d3ab7f3be05c95.jpg"
+        },
+        {
+          "url": "media/cached-image_bc659442ee6700761975f03dc1c76829d58caac9169ea3f5216051d2b931bc43.jpg"
+        },
+        {
+          "url": "media/cached-image_da97d73c91208c21a33a4cf7b5ee258f44094e76390cc92646299e0e6f4c7001.jpg"
+        },
+        {
+          "url": "media/cached-image_d84e7d9d1afaf006f9eadbff95e00e3740ce108fa98863d2f6f09c9b59f42e5c.jpg"
+        },
+        {
+          "url": "media/cached-image_647389bbc7465bd4f0cec577d26f3c4b599ed880f91276a76a57ccad67712c4b.jpg"
+        }
+      ],
+      "type": "Shipping service",
+      "categories": [
+        "Shipping service"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamato Transport Co., Ltd. Kichijoji Ekimae Center, 1 Chome-34-20 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7034872,139.5841319,3a,90y,218.38h,96.45t/data=!3m7!1e1!3m5!1s13hckyQVLxYJXUMAbdAzGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.447143439027499%26panoid%3D13hckyQVLxYJXUMAbdAzGA%26yaw%3D218.3788659019959!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Yamato Transport branch near Kichijoji Station appears in episode 10, one of several ordinary commercial buildings the show uses to anchor its supernatural story in the mundane reality of the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6om2TjuGGARZa3cpEyCRf0",
+      "name": "Sapikkusu Kichijojiko Shogakubu 2 Gokan",
+      "localName": "サピックス 吉祥寺校 小学部 2号館",
+      "coordinates": {
+        "lat": 35.7020175,
+        "lng": 139.5830758
+      },
+      "image": "https://cdn.animepilgrimage.com/places/26f18600-dc27-469d-9330-283903b12422.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/26f18600-dc27-469d-9330-283903b12422.webp"
+        },
+        {
+          "url": "media/cached-image_d228360ec52f65fa408625274fff100470c9c89a4e5095304b1be2558dbc0d3b.jpg"
+        }
+      ],
+      "type": "Cramming school",
+      "categories": [
+        "Cramming school"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sapikkusu Kichijojiko Shogakubu 2 Gokan, 2 Chome-12-14 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7019299,139.5828598,3a,90y,25.38h,116.05t/data=!3m7!1e1!3m5!1s0vFHhj0GchfzprWUr-HpRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.04813049233185%26panoid%3D0vFHhj0GchfzprWUr-HpRw%26yaw%3D25.383813593652746!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This cram school building appears in episode 12 as a background location in Kichijoji, part of the residential-commercial mix that makes up the show's detailed reproduction of the real town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_11",
+      "name": "Nanai Bridge",
+      "localName": "七井橋",
+      "coordinates": {
+        "lat": 35.69991,
+        "lng": 139.57728
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9f46ea06-4eb8-4a31-b775-3380dc58ab78.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9f46ea06-4eb8-4a31-b775-3380dc58ab78.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6999065,139.5772469,2a,90y,311.28h,92.86t/data=!3m7!1e1!3m5!1ssWys-Q9H8N9U2IXGSic00Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.856736864188079%26panoid%3DsWys-Q9H8N9U2IXGSic00Q%26yaw%3D311.2786805226205!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Nanai Bridge over Inokashira Pond appears in episode 10, with the bridge's iconic view of the pond directly connecting to the mass-drowning mystery that drives the entire plot.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJryD7Q4YpC18RBCEmsVcep_4",
+      "name": "Houryu Ramen Flagship Store",
+      "localName": "寳龍 総本店",
+      "coordinates": {
+        "lat": 43.0528689,
+        "lng": 141.3541899
+      },
+      "image": null,
+      "images": [],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Houryu Ramen Flagship Store, 3 Chome Minami 6 Jonishi, Chuo Ward, Sapporo, Hokkaido 064-0806, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7144878,139.5581165,3a,71.8y,206.72h,98.31t/data=!3m7!1e1!3m5!1sZoFOvA7baTGWf9Ao5Nw3WQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.308752474910463%26panoid%3DZoFOvA7baTGWf9Ao5Nw3WQ%26yaw%3D206.71684351116684!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKz3ckJnzGGAR3__ZCn0MiEw",
+      "name": "ASAHI SHIMBUN Service Anchor Kamishakujii",
+      "localName": "朝日新聞・東京新聞 経堂販売所",
+      "coordinates": {
+        "lat": 35.6507108,
+        "lng": 139.6418005
+      },
+      "image": null,
+      "images": [],
+      "type": "Newsstand",
+      "categories": [
+        "Newsstand"
+      ],
+      "rating": 1.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Asahi Shimbun Service Anchor Kyodo, 1 Chome-44-31 Miyasaka, Setagaya City, Tokyo 156-0051, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7265046,139.5886428,3a,90y,7.7h,94.71t/data=!3m7!1e1!3m5!1s2MuSwqF0YuIXwHtA00qrsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.705595738786627%26panoid%3D2MuSwqF0YuIXwHtA00qrsw%26yaw%3D7.704766455223962!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2wi9kfuGGARTirViZm25jQ",
+      "name": "Kichijoji Station",
+      "localName": "吉祥寺駅",
+      "coordinates": {
+        "lat": 35.7035204,
+        "lng": 139.5797462
+      },
+      "image": "https://cdn.animepilgrimage.com/places/91f68cf0-f2a9-4fd1-962e-2f3c408828d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/91f68cf0-f2a9-4fd1-962e-2f3c408828d5.webp"
+        },
+        {
+          "url": "media/cached-image_0c77933ac6ef0e88cd62e59c1cc4c4e03a751bd6cd8fdd7a73cbbf5e88fc4c26.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kichijoji Minamicho, Musashino, Tokyo, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7035204,139.5797462,3a,75y,230.57h,103.85t/data=!3m7!1e1!3m5!1sI5c3B9C04NdJyGpyx2x_kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DI5c3B9C04NdJyGpyx2x_kw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D169.81833%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Kichijoji Station's north exit is shown in the ending credits sequence, serving as the symbolic gateway to the show's world. Fans recreate the exact shot of the station exterior during pilgrimage visits.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWaVdDXuGGART_Pg1R3CZ4A",
+      "name": "Inokashira Park",
+      "localName": "井の頭恩賜公園",
+      "coordinates": {
+        "lat": 35.69878,
+        "lng": 139.57882
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7834226b-d91a-4c16-b40f-d33d35c49ab5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7834226b-d91a-4c16-b40f-d33d35c49ab5.webp"
+        },
+        {
+          "url": "media/cached-image_afbeb8d6a50b89414c6ab7d07bd89d3d41713271fd29786019c933700296f063.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-18-31 Gotenyama, Musashino, Tokyo 180-0005, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RLzyK9NpDCnqmNFZ9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The central stage of Occultic;Nine, where the mass drowning of 256 people in Inokashira Pond sets the entire supernatural mystery in motion. Yuta and the cast repeatedly gather along the pond's paths as the ghost-filled conspiracy unravels.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8fnCCkfuGGAR_IGav3_W8uI",
+      "name": "Yodobashi Camera Multimedia Kichijoji Store",
+      "localName": "ヨドバシカメラ マルチメディア 吉祥寺",
+      "coordinates": {
+        "lat": 35.70476,
+        "lng": 139.58135
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95dea1a7-f410-431b-b94b-e3bd930a2c16.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95dea1a7-f410-431b-b94b-e3bd930a2c16.webp"
+        },
+        {
+          "url": "media/cached-image_8b12089ded36dcc5fa972c27a7ec31d5704b690e755f3a355d5f71fa36140433.jpg"
+        },
+        {
+          "url": "media/cached-image_4f5cb8bc033b097142b7c540d166ecbedc7b475db8d30cacb12ed292995d43b2.jpg"
+        },
+        {
+          "url": "media/cached-image_ab611c2cea4e492fc9b7df29bee07ab219fcc535481fc5500a203b5648a79987.jpg"
+        },
+        {
+          "url": "media/cached-image_e1cb04f176eed56ee6406e253e6adf58fc7dda7d4c3c0d77478c1ca210cc7d64.jpg"
+        },
+        {
+          "url": "media/cached-image_88e651ec98fe953743a9e5df44343cb23a30f9521f82f54e6ed67f62d835ea59.jpg"
+        },
+        {
+          "url": "media/cached-image_94cc9ad4cdbf714d571601b083af96a9114f8214276ab85169c2c7914dac930a.jpg"
+        }
+      ],
+      "type": "家電量販店",
+      "categories": [
+        "家電量販店"
+      ],
+      "rating": 3.8,
+      "reviewCount": 717,
+      "priceLevel": null,
+      "address": "1 Chome-19-1 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7044665,139.5809217,3a,90y,71.61h,125.2t/data=!3m7!1e1!3m5!1s0AdIpW0irgepfqLWHvG8_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-35.201615092182934%26panoid%3D0AdIpW0irgepfqLWHvG8_A%26yaw%3D71.60752520676823!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Yodobashi Camera store appears in episode 3 as a background location in Kichijoji, one of the electronics landmarks that defines the station's north-exit shopping district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaX0VUQDvGGARY5hqbliCVGI",
+      "name": "Mitaka Pedestrian Overhead Bridge",
+      "localName": "三鷹橋",
+      "coordinates": {
+        "lat": 35.702478,
+        "lng": 139.56188799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/928148b9-c494-4b39-a8e7-94b3f488beff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/928148b9-c494-4b39-a8e7-94b3f488beff.webp"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mitaka Bridge, 3 Chome-25-1 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7022087,139.555383,3a,90y,177.17h,96.24t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIClpZf4Aw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYGvxaMNgrfcW-V4KO1pxuh757ebhf1manNyyh_aHZCHZrTCXtSOiK3CbNp_Yj-Nfl0QY-kRbvmbCCR-jMBAVQxfw9doI9FoJslSJoVbJynNIomPXdngKTZzZqb4soVECEGajCO%3Dw900-h600-k-no-pi-6.235590710233012-ya170.74902719309978-ro0-fo100!7i6144!8i3072?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Mitaka Bridge appears in the ending credits sequence, one of the recognizable Kichijoji-area structures that pilgrimage fans seek out to recreate the show's quietly haunting visual tour of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8VJw6UfuGGARipDI2iZLP9o",
+      "name": "Kichijoji SUNROAD shopping district",
+      "localName": "吉祥寺サンロード商店街",
+      "coordinates": {
+        "lat": 35.7038362,
+        "lng": 139.5798441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbd63041-1159-47f7-938e-2440aeb098b4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbd63041-1159-47f7-938e-2440aeb098b4.webp"
+        },
+        {
+          "url": "media/cached-image_3dbf3cfcc9a8aad086bd14c4316172498f330b800b5389620ee0c9a1bf4fcb4a.jpg"
+        },
+        {
+          "url": "media/cached-image_42fbd172555a0d17844818e84c6e5a06fe1f02f3a008d696c65fed75c45efa1f.jpg"
+        },
+        {
+          "url": "media/cached-image_5f084b262e431fcbad171d97145f3cb5541d8dd54db813042d490cdf39ef4830.jpg"
+        },
+        {
+          "url": "media/cached-image_1ac60e1652ebb03cfbee351fe996844107c327d9682fc8f4dfbef194ee9950ad.jpg"
+        },
+        {
+          "url": "media/cached-image_e5d35bde16113c5096c3e6db709b21a8c28c79970f3c05850edb6a9c5cff6a0c.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.6,
+      "reviewCount": 495,
+      "priceLevel": null,
+      "address": "Kichijoji SUNROAD shopping district, 1 Chome-15-1 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7037692,139.5798187,3a,90y,75h,89.47t/data=!3m7!1e1!3m5!1sF3yDuLvQTbrVCoGV3FoHBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.5270851336770193%26panoid%3DF3yDuLvQTbrVCoGV3FoHBA%26yaw%3D74.99731665145063!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Sunroad covered shopping arcade appears in the ending credits walk-through sequence, making it one of the most photographed pilgrimage spots from the show. The arcade's lively daytime look contrasts sharply with the anime's dark supernatural tone.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY6pRYUfuGGARPJ0V1u8GbpQ",
+      "name": "CAFE☆BAR BLOOMOON（ブルゥムーン）",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7041495,
+        "lng": 139.5825082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d60d5371-2aed-4ba6-84f0-8fb59f04e56f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d60d5371-2aed-4ba6-84f0-8fb59f04e56f.webp"
+        }
+      ],
+      "type": "Asian fusion restaurant",
+      "categories": [
+        "Asian fusion restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0004 Tokyo, Musashino, Kichijoji Honcho, 1 Chome−30−16 CAFE☆BAR BLOOMOON（ブルゥムーン）, 加藤ビル2F B号",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/CAFE%E2%98%86BAR+BLOOMOON%EF%BC%88%E3%83%96%E3%83%AB%E3%82%A5%E3%83%A0%E3%83%BC%E3%83%B3%EF%BC%89/@35.7041067,139.582444,2a,90y,118.62h,91.54t/data=!3m8!1e1!3m6!1sXOJKcnU5hYLD4R1nl2k9lQ!2e0!3e11!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5444197080442308%26panoid%3DXOJKcnU5hYLD4R1nl2k9lQ%26yaw%3D118.61769674510985!7i13312!8i6656!4m9!3m8!1s0x6018ee476151aa63:0x946e06efd6159d3c!8m2!3d35.7041495!4d139.5825082!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tj5l5hw?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The bar appears in episode 1 as part of Yuta's evening wanders through Kichijoji, representing the eclectic nightlife district that surrounds his daily life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLRZy90ruGGAR7AqksIECQr8",
+      "name": "Inokashira Park Zoo",
+      "localName": "井の頭自然文化園",
+      "coordinates": {
+        "lat": 35.7007724,
+        "lng": 139.5727436
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d625e396-5b1f-44f5-8292-52f0da63caec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d625e396-5b1f-44f5-8292-52f0da63caec.webp"
+        },
+        {
+          "url": "media/cached-image_d3354d1d72b3795ac6467d0ea88f3dd814916c126471387542496f79b5909fce.jpg"
+        },
+        {
+          "url": "media/cached-image_5204b1ecfa643cb5cb21f22056f66e2ca6645ce11b4cb127dbb0762f21698270.jpg"
+        },
+        {
+          "url": "media/cached-image_37ac7bee959696c4d2042de2f644c8ed870d5629ee49937e4871cdcf9e68708f.jpg"
+        },
+        {
+          "url": "media/cached-image_30f2522884a01d23bb456080b64a81b00ab4d6e7356cbc1806c7e128a9d92ecc.jpg"
+        },
+        {
+          "url": "media/cached-image_6dc46f7ae235909d1674b0fff6457d8c2436f4ae8a46156c2cb0914ad7ba5896.jpg"
+        }
+      ],
+      "type": "Zoo",
+      "categories": [
+        "Zoo"
+      ],
+      "rating": 4.2,
+      "reviewCount": 258,
+      "priceLevel": null,
+      "address": "Inokashira Park Zoo, 1 Chome-17-6 Gotenyama, Musashino, Tokyo 180-0005, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7000122,139.5758001,3a,90y,56.94h,89.18t/data=!3m7!1e1!3m5!1sCIABIhAA3ilWdABph2gS_8UAAbLw!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaZ3Y9WSj-ih5iPtxg_cYxi56ZpplkYaMQb3c2xLZe7syM2hB49-fxVP6xXCCVUYdNqZ3G9o8LmJ9H6-xWicccL2CQWOT4sdnuSGKRUp-WVb7latE0Tw-k2e8FYin77OonNwvMjklOytHql%3Dw900-h600-k-no-pi0.8243945623606805-ya135.95369617989246-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Inokashira Natural Culture Garden near the park appears in episode 1 as Yuta wanders the Inokashira area, building out the lived-in map of Kichijoji that the story relies on."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKadEcDbuGGARnrpE3ZLkcYw",
+      "name": "Inokashira Benzaiten",
+      "localName": "井の頭弁財天 大盛寺",
+      "coordinates": {
+        "lat": 35.6995406,
+        "lng": 139.5747643
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc3e00fe-d868-427d-a8d0-6a8d6ea899c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc3e00fe-d868-427d-a8d0-6a8d6ea899c7.webp"
+        },
+        {
+          "url": "media/cached-image_6a372b3069a1dd5eec0dc3c31b4bb0634eec093087bd38652c30ca686fd7c372.jpg"
+        },
+        {
+          "url": "media/cached-image_757f85a562a2cc2654b527c3af221fc5bf035dc1488add3d7377ca97e0f41848.jpg"
+        },
+        {
+          "url": "media/cached-image_c3b785b4d754106f9af04c1a1fd62b2e7e6fa34a3840a263fddbcd3110f73fde.jpg"
+        },
+        {
+          "url": "media/cached-image_1287f9be3eda85f84cfc5b674200274f06dca1ea3e60102c580e5937069efa99.jpg"
+        },
+        {
+          "url": "media/cached-image_9e650d3436157c9ff8815970bbbb62559c99245bc98400cdcd7317637dde51f4.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 971,
+      "priceLevel": null,
+      "address": "Inokashira Benzaiten, 4 Chome-1 Inokashira, Mitaka, Tokyo 181-0001, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.699298,139.5748936,2a,90y,338.41h,92.87t/data=!3m7!1e1!3m5!1sMULROEx-X3ws30sW17F7rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8665560025838346%26panoid%3DMULROEx-X3ws30sW17F7rw%26yaw%3D338.40614739231205!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The lakeside Benzaiten shrine on Inokashira Pond appears in early episodes as Yuta and Ryoka pass through the park, grounding the supernatural atmosphere of the area in a real sacred site."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN6i24knuGGARRSNavAB_b1U",
+      "name": "Inokashira Park Outdoor Stage",
+      "localName": "井の頭公園 野外ステージ",
+      "coordinates": {
+        "lat": 35.6998944,
+        "lng": 139.5787742
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e133c79b-ce27-494e-acf8-cfff3d8a2897.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e133c79b-ce27-494e-acf8-cfff3d8a2897.webp"
+        },
+        {
+          "url": "media/cached-image_91458e8fcbe425e114d64abc87e719cba8ef5b88360a688fa6e106ff0dc8f2b5.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Inokashira Park Outdoor Stage, 〒180-0005, 4 Chome-18-31 Inokashira, 武蔵野市 Tokyo 181-0001, Japan",
+      "city": "武蔵野市",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6998628,139.5785898,2a,90y,70.09h,104.39t/data=!3m7!1e1!3m5!1suWYCP5AYwPT6YAaICeddkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.388678461937388%26panoid%3DuWYCP5AYwPT6YAaICeddkw%26yaw%3D70.08751959004631!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The open-air stage at Inokashira Park appears in episode 1 as part of the familiar Kichijoji backdrop that Yuta inhabits, establishing the park as the anime's spiritual and physical heart."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVzEhaUjuGGAR-4COoexavQ8",
+      "name": "Park Place Kichijoji",
+      "localName": "吉祥寺PARCO",
+      "coordinates": {
+        "lat": 35.7036504,
+        "lng": 139.5779639
+      },
+      "image": "https://cdn.animepilgrimage.com/places/992be310-298a-4352-be71-10c5b5bb90d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/992be310-298a-4352-be71-10c5b5bb90d5.webp"
+        },
+        {
+          "url": "media/cached-image_8131151508149a53ae3b95a36df8008d9ec41778feda06dac337574f29bc87a9.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kichijoji Parco, 1 Chome-5-1 Kichijoji Honcho, Musashino, Tokyo 180-8520, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.699835,139.5806213,3a,75y,24.23h,95.33t/data=!3m7!1e1!3m5!1sCOCnZ6mZ_FyBvrYNdHzGug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.3262272533685575%26panoid%3DCOCnZ6mZ_FyBvrYNdHzGug%26yaw%3D24.23151392113275!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Kichijoji Parco appears in episode 1 as a background location establishing the commercial heart of the Kichijoji area that Yuta navigates on his daily route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc5dW5kfuGGAR7QXi0Hwe5HA",
+      "name": "HARMONICA QUINA Kichijoji main shop",
+      "localName": "ハモニカ・クイナ 吉祥寺店",
+      "coordinates": {
+        "lat": 35.703780099999996,
+        "lng": 139.5790602
+      },
+      "image": "https://cdn.animepilgrimage.com/places/acf2f9ec-1aa2-4d26-8948-91f58b2590fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/acf2f9ec-1aa2-4d26-8948-91f58b2590fd.webp"
+        },
+        {
+          "url": "media/cached-image_2815374194dd0de1e0e046f480a49edc2b296fcfa46d310b8782533b2e772ca5.jpg"
+        },
+        {
+          "url": "media/cached-image_159e0528b52641a4fcd70241466a6767be819f337cae00e651bf96629ce99e63.jpg"
+        }
+      ],
+      "type": "Asian restaurant",
+      "categories": [
+        "Asian restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": 52,
+      "priceLevel": null,
+      "address": "HAMONICA QUINA Kichijoji main shop, 1 Chome-1-8 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7037139,139.5790136,3a,90y,24.61h,94.41t/data=!3m7!1e1!3m5!1srLwxeO3v9DdmcgEX37Gn_g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.40967094540332%26panoid%3DrLwxeO3v9DdmcgEX37Gn_g%26yaw%3D24.60600273759362!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Located in the Harmonica Yokocho alley district featured in episode 1, this area represents the narrow back-alley atmosphere that Yuta moves through in the show's opening scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKasGzWea918RkHN9OFejUpU",
+      "name": "Toyama Sotama Omotesenke Tea Ceremony Class",
+      "localName": "富山市民俗民芸村 茶室 円山庵",
+      "coordinates": {
+        "lat": 36.710093799999996,
+        "lng": 137.1898809
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a052c0a6-b200-4b3a-b30b-949f420441a4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a052c0a6-b200-4b3a-b30b-949f420441a4.webp"
+        },
+        {
+          "url": "media/cached-image_c04a5334956d99dc9f2ba1a654c73ff03ca10c66ae41b74bf867ac4ded1b618a.jpg"
+        }
+      ],
+      "type": "Local history museum",
+      "categories": [
+        "Local history museum"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tea Ceremony House Enzan-an (Toyama Municipal Folkcraft Village), 47-3 Anyobo, Toyama, 930-0881, Japan",
+      "city": "Toyama",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7146764,139.5582251,3a,69.5y,26.47h,91.99t/data=!3m7!1e1!3m5!1s_7_59u52HMOHFpF6CdW6yg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9930660027211928%26panoid%3D_7_59u52HMOHFpF6CdW6yg%26yaw%3D26.472559688547562!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVdbkoGnuGGARw7ltLMOC2y8",
+      "name": "Zenpukuji Park",
+      "localName": "善福寺公園",
+      "coordinates": {
+        "lat": 35.7148271,
+        "lng": 139.5912327
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bdf4cb49-730b-4a1b-9d8c-a706a074681a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bdf4cb49-730b-4a1b-9d8c-a706a074681a.webp"
+        },
+        {
+          "url": "media/cached-image_d8317e26efb1aa439bdae7eb911547e0120517ad8bb02b0d73c893e187645bd5.jpg"
+        },
+        {
+          "url": "media/cached-image_4cd266e08d10e2a4afab2e0372c6fe8f7fd664aa60542f8fd442b2b3cdd7d59b.jpg"
+        },
+        {
+          "url": "media/cached-image_27aab51483f376850a13d32777b5ba6ccf120adf148f2bcbea23cb4193918bc2.jpg"
+        },
+        {
+          "url": "media/cached-image_c7bf24ab2be45cac964bbc696209c40f004869b9fd176a3c5994abbcd0f294c7.jpg"
+        },
+        {
+          "url": "media/cached-image_3d1b70b25f8bdf2ebac697131b1e9c2af6ef88fe97e51afafcff04e882fbb4e0.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 141,
+      "priceLevel": null,
+      "address": "Zenpukuji Park, 3 Chome-9-10 Zenpukuji, Suginami City, Tokyo 167-0041, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7167325,139.5870513,3a,59.1y,233.55h,96.57t/data=!3m7!1e1!3m5!1s3SJswIJl0qmfGfQeLzhebA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.566988483859191%26panoid%3D3SJswIJl0qmfGfQeLzhebA%26yaw%3D233.5505875854962!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Zenpukuji Park in Suginami appears in episode 3, one of the few locations the show ventures into beyond Kichijoji proper, used for a scene that takes characters into a more secluded natural setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtWURp7XvGGARPjap4uglAWc",
+      "name": "Kichijoji ZEN",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7055017,
+        "lng": 139.5821362
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12e3501e-fbc6-44c3-8308-196d2fb03117.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12e3501e-fbc6-44c3-8308-196d2fb03117.webp"
+        },
+        {
+          "url": "media/cached-image_6395384216bd4fc008245135f1ab67019fd0ec5b3d3d09a99f3de172310f9b61.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0004 Tokyo, Musashino, Kichijoji Honcho, 1 Chome−20−11 ＹＫビル 302＆303 Kichijoji ZEN",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7052767,139.5821559,3a,90y,224.25h,95.23t/data=!3m7!1e1!3m5!1sCMNV1hyiZ3vANLuv6QbkrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.233947862031002%26panoid%3DCMNV1hyiZ3vANLuv6QbkrQ%26yaw%3D224.24540670832897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This hotel near Kichijoji Station appears in episode 3 as a location on the streets of Kichijoji Honcho, one of the many real businesses the show incorporates into its detailed map of the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6fUfWEbuGGARG0HjPe67vnM",
+      "name": "Sanrodo-iriguchi (Bus)",
+      "localName": "/dir/40.6986772,-73.9859414/Sanr%C5%8Ddo-iriguchi,+1-ch%C5%8Dme-20+Kichij%C5%8Dji+Honch%C5%8D,+Musashino,+Tokyo+180-0004,+Japan/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x6018ee46581ff5e9:0x73bebbee3de3411b!2m2!1d139.582317!2d35.7058491",
+      "coordinates": {
+        "lat": 35.70576,
+        "lng": 139.5824
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67532d06-72c3-47ed-8509-c12aa3c819ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67532d06-72c3-47ed-8509-c12aa3c819ba.webp"
+        },
+        {
+          "url": "media/cached-image_cb4547c3e7c8dbf1a565dfe1846bd909dfe34eb6464dff559c99121444e6b67a.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sanrōdo-iriguchi, 1-chōme-20 Kichijōji Honchō, Musashino, Tokyo 180-0004, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7058159,139.5824645,3a,90y,223.2h,96.15t/data=!3m7!1e1!3m5!1s4HJNJe0D7vzHP_FmDaoOYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.145618515760077%26panoid%3D4HJNJe0D7vzHP_FmDaoOYg%26yaw%3D223.2012899927011!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This bus stop near Kichijoji appears in episode 3, used as a transit reference point when characters travel through the streets around Kichijoji Honcho."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_29",
+      "name": "Anyoji Cemetery",
+      "localName": "安養寺墓地",
+      "coordinates": {
+        "lat": 35.70797,
+        "lng": 139.58113
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbffc728-081c-440c-9690-14e7de045b57.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbffc728-081c-440c-9690-14e7de045b57.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7079545,139.5811295,3a,90y,30.92h,94.13t/data=!3m7!1e1!3m5!1sOcHdZfDqFSiazkutD-CczQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.128750015966631%26panoid%3DOcHdZfDqFSiazkutD-CczQ%26yaw%3D30.918223535928803!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The cemetery near Anyoji in Kichijoji appears in episode 3, a fitting backdrop for the show's ghost-and-death-saturated story as Yuta investigates the edges of the paranormal."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS46k5ObkGGARCBWELo0SuVU",
+      "name": "Anyoji Temple",
+      "localName": "安養寺",
+      "coordinates": {
+        "lat": 35.6651254,
+        "lng": 139.48036059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bbafe55c-7cb6-4eec-9471-aa70ce1638f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bbafe55c-7cb6-4eec-9471-aa70ce1638f1.webp"
+        },
+        {
+          "url": "media/cached-image_17dac6ad3488a000b2f0ec13f78ab0aab0c533e425812b8807349192dd2b30ff.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 3.8,
+      "reviewCount": 82,
+      "priceLevel": null,
+      "address": "Anyoji, 1 Chome-１７-10 Honmachi, Fuchu, Tokyo 183-0027, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7071395,139.5806315,3a,75y,28.06h,95.82t/data=!3m7!1e1!3m5!1stFPygQw57aQvvWh3G3Kgxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.815264935804336%26panoid%3DtFPygQw57aQvvWh3G3Kgxw%26yaw%3D28.064996233994503!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Appearing in episode 3, a Buddhist temple scene grounds one of Yuta's early investigation sequences, though note the geocoded address places this Anyoji Temple in Fuchu rather than Kichijoji."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_31",
+      "name": "Timpano",
+      "localName": "イタリア料理 ティンパーノ",
+      "coordinates": {
+        "lat": 35.70877,
+        "lng": 139.58078
+      },
+      "image": "https://cdn.animepilgrimage.com/places/417875fc-5b6e-4041-9bf5-ffab8693b6e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/417875fc-5b6e-4041-9bf5-ffab8693b6e1.webp"
+        },
+        {
+          "url": "media/cached-image_756eeb69b7438885721cde0f3c5fda61ba94ce34025ef8d399b36c1fc4c6db9f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7087281,139.5807568,3a,90y,47.15h,97.13t/data=!3m7!1e1!3m5!1sJl9qWmiRg52IZsu-hsRhDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.129222146232877%26panoid%3DJl9qWmiRg52IZsu-hsRhDA%26yaw%3D47.14591565194191!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Italian restaurant Timpano appears in episode 3 as a street scene location in Kichijoji Kitamachi, adding to the show's granular map of the neighborhood north of the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_32",
+      "name": "Timpano",
+      "localName": "イタリア料理 ティンパーノ",
+      "coordinates": {
+        "lat": 35.70849,
+        "lng": 139.58062
+      },
+      "image": "https://cdn.animepilgrimage.com/places/63560ec3-602e-4b5a-bad3-1c5302f29e9a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/63560ec3-602e-4b5a-bad3-1c5302f29e9a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7085786,139.5806732,3a,90y,209.31h,95.58t/data=!3m7!1e1!3m5!1sZGQMbeRf901Ax14BBSRQew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.584804749986262%26panoid%3DZGQMbeRf901Ax14BBSRQew%26yaw%3D209.31208297370748!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Italian restaurant Timpano appears in episode 3 as a street scene location in Kichijoji Kitamachi, adding to the show's granular map of the neighborhood north of the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj3CBZ0buGGAR5fzZFHg_fnA",
+      "name": "Mode Off Kichijoji Store",
+      "localName": "モードオフ 吉祥寺店",
+      "coordinates": {
+        "lat": 35.7067183,
+        "lng": 139.5809817
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7c5403b-9757-485d-a6ca-a433ae68993c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7c5403b-9757-485d-a6ca-a433ae68993c.webp"
+        },
+        {
+          "url": "media/cached-image_54210977617cd808f73d99e02049d3e590f4cb610922a8c9ac243dfafb4691ee.jpg"
+        },
+        {
+          "url": "media/cached-image_f3de395499be1f6ae72a28af84cb30595b8a07dd77845d33833ad7a60af31615.jpg"
+        }
+      ],
+      "type": "Used clothing store",
+      "categories": [
+        "Used clothing store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mode Off, 大文ビル 1 Chome-4-26 Kichijoji Higashicho, Musashino, Tokyo 180-0002, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.706687,139.5807111,3a,90y,327.27h,100.79t/data=!3m7!1e1!3m5!1sr--7uXZ_bqMnfVbrZ1F40g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.790472601604321%26panoid%3Dr--7uXZ_bqMnfVbrZ1F40g%26yaw%3D327.2697674622011!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This second-hand clothing shop appears in episode 3 as a street-level detail in Kichijoji Higashicho, part of the eclectic mix of shops that characters pass on their routes through the east side of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWELLVLuGGARQoYkqWtL3Ko",
+      "name": "Seikei University",
+      "localName": "成蹊大学",
+      "coordinates": {
+        "lat": 35.713823,
+        "lng": 139.5738857
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_2a0432f485c44c228fffa3c012878dc507ccc3b18c3bd74b7dce34848ae7d6e5.jpg"
+        },
+        {
+          "url": "media/cached-image_f401bb5b11db7156a53b6b4551bc7761e0ab9f3481624c859fa330fb53d04d77.jpg"
+        },
+        {
+          "url": "media/cached-image_57fcf794a22ae9aa0bb603d5bcf3be30833c51dfd4381df97603c5b252d5397a.jpg"
+        },
+        {
+          "url": "media/cached-image_a7d6455cf11a3434fbda34f32cf52d5da217c62078e088b70ad7ac388a7057d5.jpg"
+        }
+      ],
+      "type": "Private university",
+      "categories": [
+        "Private university"
+      ],
+      "rating": 4.1,
+      "reviewCount": 29,
+      "priceLevel": null,
+      "address": "Seikei University, 3 Chome-3-1 Kichijoji Kitamachi, Musashino, Tokyo 180-8633, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7081198,139.569373,3a,90y,245.86h,104.79t/data=!3m7!1e1!3m5!1sOolymQgcshIU_-_Jtn-hjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.792691105111999%26panoid%3DOolymQgcshIU_-_Jtn-hjA%26yaw%3D245.8579456998748!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Seikei University campus appears in episode 3, with its distinctive tree-lined approach used as a location backdrop in scenes involving the Kichijoji neighborhood's quieter residential and academic north side."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy5QcxDjuGGARFNy-fdm4yWI",
+      "name": "Trust Park Kichijoji Minamicho 2-Chome",
+      "localName": "トラストパーク吉祥寺南町2丁目",
+      "coordinates": {
+        "lat": 35.7026648,
+        "lng": 139.58310699999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/46add401-c019-4d05-ae31-cfa58eeb9d39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/46add401-c019-4d05-ae31-cfa58eeb9d39.webp"
+        },
+        {
+          "url": "media/cached-image_d7a0826973a4a00565c06307c5fcb4827c1489801bc8fc4566535999957d86bb.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Trust Park Kichijoji Minamicho 2-Chome, 2 Chome-10-10 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7024571,139.5831137,3a,76y,40.18h,99.39t/data=!3m7!1e1!3m5!1sBI5vu5Z2opNMkqNzXdO07A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.393114675450647%26panoid%3DBI5vu5Z2opNMkqNzXdO07A%26yaw%3D40.17697166960101!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A parking lot near Kichijoji Minamicho appears in episode 4, a granular street-level detail illustrating how precisely the show maps the lanes and lots of the real town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw-o460fuGGAR33GuG2NA0vI",
+      "name": "MUFG Bank, Kichijoji Branch",
+      "localName": "三菱UFJ銀行 吉祥寺支店",
+      "coordinates": {
+        "lat": 35.7037189,
+        "lng": 139.5801601
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bb2e4a95-831b-481f-929c-52a204c087ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bb2e4a95-831b-481f-929c-52a204c087ee.webp"
+        },
+        {
+          "url": "media/cached-image_280faa4d01779fdb7703b9053a595ed1d968f8997b4ed5e62f3a65f0832d3ff9.jpg"
+        },
+        {
+          "url": "media/cached-image_18c056404130367b210ab8408b1729d8a14e2b4b44052504f8bf0f576e3940a8.jpg"
+        },
+        {
+          "url": "media/cached-image_9b9095f8e1a91a9a727d6d1a96a1094550ebd33470126985829ad1daa9add365.jpg"
+        },
+        {
+          "url": "media/cached-image_80bd28a5c772ff9e572e200b052e790933ce9ee4b8e251983b12db848c12cd96.jpg"
+        },
+        {
+          "url": "media/cached-image_6350ed3ebf2c17407c42ffe5653371aec689cbefe8324011d41f991cd66cf887.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MUFG Bank, Kichijoji Branch, ＪＲ・吉祥寺 駅北口 1 Chome-15-2 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7039745,139.5807031,3a,75y,180.3h,98.11t/data=!3m7!1e1!3m5!1sJNi6V1tLwzWZvmdVoQ1z4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.106466784038105%26panoid%3DJNi6V1tLwzWZvmdVoQ1z4Q%26yaw%3D180.30284697522836!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The MUFG Bank branch at Kichijoji's north exit appears in episode 4, a recognizable civic anchor in the station's plaza that the show uses to establish scene geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn8lPaVLuGGARyLkWhuxvKfY",
+      "name": "Seikeigakuenzen Bus Stop",
+      "localName": "成蹊学園前（バス）",
+      "coordinates": {
+        "lat": 35.709862199999996,
+        "lng": 139.5722112
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc68d8e4-36a4-4d43-85df-6659581d9b93.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc68d8e4-36a4-4d43-85df-6659581d9b93.webp"
+        },
+        {
+          "url": "media/cached-image_75fd22a03551ce28504e2a99cea25305fdb4fa4600b2b6b059f42806c909d590.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Seikeigakuenzen Bus Stop, 3-chōme-5 Kichijōji Kitamachi, Musashino, Tokyo 180-0001, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7097525,139.5723393,3a,90y,22.43h,102.33t/data=!3m7!1e1!3m5!1sg2FERDNPcaeAUKDIIRIP-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.33394094307026%26panoid%3Dg2FERDNPcaeAUKDIIRIP-w%26yaw%3D22.431657084911496!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This bus stop near Seikei University appears in episode 4, used as a transit point when characters move between Kichijoji Station and the quieter residential streets to the north."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2YwN3kXuGGARwYlx9FACg3M",
+      "name": "Musashino Hachimangu",
+      "localName": "武蔵野八幡宮",
+      "coordinates": {
+        "lat": 35.7076674,
+        "lng": 139.5801686
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d988908-0b09-4c60-af2c-06445bddf523.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d988908-0b09-4c60-af2c-06445bddf523.webp"
+        },
+        {
+          "url": "media/cached-image_49d992aa6f160f665d20468de828b91e1f61fdbff2f39d46ad6376731d276f91.jpg"
+        },
+        {
+          "url": "media/cached-image_5a4fc5bb427a2bfdd4cf4e2b2a71fea7f52d116430dfaae9f10abcbdd08703a1.jpg"
+        },
+        {
+          "url": "media/cached-image_903062d849e59b4fb1297f765b0f7244210e1cd6906bba411c677bd6e5af2547.jpg"
+        },
+        {
+          "url": "media/cached-image_f5603855729d15748f14f3793eaf5ed24741de69ec89af986c184575b2cb79c6.jpg"
+        },
+        {
+          "url": "media/cached-image_c46381839c9b95501dd472c2c33a4716912a3c5ba4c770163427d2886cac8c0d.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4,
+      "reviewCount": 875,
+      "priceLevel": null,
+      "address": "Musashino Hachimangu, 1 Chome-1-23 Kichijoji Higashicho, Musashino, Tokyo 180-0002, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7075264,139.5800129,3a,90y,48.8h,102.56t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICC4fHpRQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZhfaJUPgOtXTWWdbGDs8xn67k8npkDys5He0LK8FYlrUU34VCZ7RjfJfZZ-7gFvOyPw_pj8Sow3YjUFZwRi2_h0_ToUL86GoPJm3zOjhPNP6QWEsSjonsd_A0jMtGyL3f_QkU%3Dw900-h600-k-no-pi-12.559790304690267-ya16.80354364627862-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Shinto shrine near Kichijoji appears in episode 4, adding a layer of traditional religious atmosphere to the supernatural-charged streets that Yuta and his companions navigate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm9wd0vDuGGARjKoxilBepyA",
+      "name": "Ecolo Park Nerima Sekimachi #5",
+      "localName": "エコロパーク練馬関町第５",
+      "coordinates": {
+        "lat": 35.727544,
+        "lng": 139.5820348
+      },
+      "image": "https://cdn.animepilgrimage.com/places/340e390d-5528-4840-9961-260bf2784409.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/340e390d-5528-4840-9961-260bf2784409.webp"
+        },
+        {
+          "url": "media/cached-image_07f5851911be04961b88e3ebf7b5ae3b7f975d1cb35430ad97fdbbba4635cbb8.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ecolo Park Nerima Sekimachi #5, 2 Chome-4-4 Sekimachihigashi, Nerima City, Tokyo 177-0052, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7273235,139.581961,3a,90y,186.83h,94.05t/data=!3m7!1e1!3m5!1sAky9atqeLgcjGstSEgxuUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.0526529235196165%26panoid%3DAky9atqeLgcjGstSEgxuUA%26yaw%3D186.82679064162232!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A parking lot in Nerima appears in episode 4, indicating the show's geographical reach extends north into Nerima for at least one scene, though this is a minor background detail."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3WSLHW7vGGARCYA0MY3axWo",
+      "name": "Twin Palace Kichijoji Building B",
+      "localName": "マザーパレス",
+      "coordinates": {
+        "lat": 35.7041344,
+        "lng": 139.5798091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67566bc9-d84f-499f-9237-b1c18d0fa8d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67566bc9-d84f-499f-9237-b1c18d0fa8d9.webp"
+        },
+        {
+          "url": "media/cached-image_eff3bc1b5f7412a9c1403bc14537f845dd76047a40cec1efc99bfe21c7bb95f3.jpg"
+        }
+      ],
+      "type": "Japanese curry restaurant",
+      "categories": [
+        "Japanese curry restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mother Palace, B1 1 Chome-9-10 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7071169,139.5764243,3a,90y,132.95h,94.48t/data=!3m7!1e1!3m5!1s0fnNdUKMjPuMNrDKmngiKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.483626550086569%26panoid%3D0fnNdUKMjPuMNrDKmngiKA%26yaw%3D132.95004337986697!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The building housing a curry restaurant appears in episode 4 on the streets of Kichijoji, part of the detailed local texture the production team researched when recreating the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ5VFr-PvGGARZvUgxF8Wt3A",
+      "name": "Dog Salon POLISH(ドッグサロンポリッシュ)",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7074157,
+        "lng": 139.5763242
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5df58519-20f1-482a-a800-e9dfff176f8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5df58519-20f1-482a-a800-e9dfff176f8d.webp"
+        }
+      ],
+      "type": "トリミングサロン",
+      "categories": [
+        "トリミングサロン"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0004 Tokyo, Musashino, Kichijoji Honcho, 2 Chome−30−3 Dog Salon POLISH(ドッグサロンポリッシュ)",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7073784,139.5761802,3a,90y,357.83h,93.24t/data=!3m7!1e1!3m5!1soKXqHkksyUT_Cl46EJz-uA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2427793770931146%26panoid%3DoKXqHkksyUT_Cl46EJz-uA%26yaw%3D357.8252935985876!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This pet salon appears in episode 4 as a street-level business on Kichijoji Honcho, one of the hyper-specific real-location details the show is known for among pilgrimage fans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE8HKrzjuGGARebn5vpWgfZo",
+      "name": "Kichijoji Theatre",
+      "localName": "吉祥寺シアター",
+      "coordinates": {
+        "lat": 35.7038063,
+        "lng": 139.5835042
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37da0c54-ce4c-4fe0-90e3-14cd9ace3e2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37da0c54-ce4c-4fe0-90e3-14cd9ace3e2a.webp"
+        },
+        {
+          "url": "media/cached-image_b0891932515574d17e910f5bac1b9e985863433b5acde0f025f0e8bea4666bdc.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kichijoji Theatre, 吉祥寺シアタ 1F 1 Chome-33-22 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7038481,139.5838019,3a,48.8y,215.99h,96.12t/data=!3m7!1e1!3m5!1s-ggUw-mgET_e8IRGhauj0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.123427385943714%26panoid%3D-ggUw-mgET_e8IRGhauj0A%26yaw%3D215.9899920988115!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Kichijoji Theatre appears in episode 5 as a background landmark in the show's map of Kichijoji, contributing to the sense that the series meticulously reproduces the real street layout of the town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_43",
+      "name": "Mackie",
+      "localName": "マッキー",
+      "coordinates": {
+        "lat": 35.70388,
+        "lng": 139.58224
+      },
+      "image": "https://cdn.animepilgrimage.com/places/296d2bc8-2264-46ed-bd2c-2c31e60c8d41.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/296d2bc8-2264-46ed-bd2c-2c31e60c8d41.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7039169,139.5822546,3a,90y,194.97h,95.01t/data=!3m7!1e1!3m5!1s4SF-WxIEzWsMnSrBZZqVoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.005373108619381%26panoid%3D4SF-WxIEzWsMnSrBZZqVoA%26yaw%3D194.97376271388185!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This location in Kichijoji appears in episode 5, part of the show's detailed recreation of the streets around the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDQRN4EfuGGARnISRIVQMpN4",
+      "name": "Takarakujirotohausu Kichijojiekikitaguchimaeten",
+      "localName": "宝くじロトハウス 吉祥寺駅北口前店",
+      "coordinates": {
+        "lat": 35.7035149,
+        "lng": 139.5790206
+      },
+      "image": "https://cdn.animepilgrimage.com/places/430bdf8d-16e0-44c7-b07a-ad6b8ea38df0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/430bdf8d-16e0-44c7-b07a-ad6b8ea38df0.webp"
+        },
+        {
+          "url": "media/cached-image_ed51446f845f9d5c2c49e04796637c21b681ec5e05cecbf46dc5946dd8c51c30.jpg"
+        }
+      ],
+      "type": "Lottery retailer",
+      "categories": [
+        "Lottery retailer"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takarakujirotohausu Kichijojiekikitaguchimaeten, 1 Chome-1-3 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7034715,139.5790797,3a,90y,208.71h,105.59t/data=!3m7!1e1!3m5!1s-kt5dUl52B0A-kBbmSpzAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.589435616753406%26panoid%3D-kt5dUl52B0A-kBbmSpzAw%26yaw%3D208.71446116958825!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The lottery kiosk just outside Kichijoji Station's north exit appears in episode 6, a tiny but recognizable landmark at the station plaza that anchors the scene's exact geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_45",
+      "name": "Fukuzaki Rice Store",
+      "localName": "福崎米店",
+      "coordinates": {
+        "lat": 35.70862,
+        "lng": 139.57612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/400351ba-314f-4f68-a9d1-6cc5bc58a847.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/400351ba-314f-4f68-a9d1-6cc5bc58a847.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7086083,139.576125,3a,90y,25.2h,101.65t/data=!3m7!1e1!3m5!1sTSvlME0oxlBWsXzRespYpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.653618975583584%26panoid%3DTSvlME0oxlBWsXzRespYpQ%26yaw%3D25.202104288774738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This rice shop appears in episode 6 as a background street detail in Kichijoji Kitamachi, part of the residential commercial mix north of the station that Yuta and other characters traverse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSehsQU7uGGARRxkQBG-5mxE",
+      "name": "Southern Pharmacy Honchō Shop",
+      "localName": "サザン調剤薬局 本町店",
+      "coordinates": {
+        "lat": 35.708981,
+        "lng": 139.5753222
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ef9ad05-1d8d-4e16-b2ae-e85fe0c96d8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ef9ad05-1d8d-4e16-b2ae-e85fe0c96d8d.webp"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Southern Pharmacy Honchō Shop, 1 Chome-25-2 Kichijoji Kitamachi, Musashino, Tokyo 180-0001, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7089231,139.5752835,3a,90y,27.24h,115.46t/data=!3m7!1e1!3m5!1s3x1Ih9ypZzXy_sTAmyH_ZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-25.46260777101392%26panoid%3D3x1Ih9ypZzXy_sTAmyH_ZA%26yaw%3D27.241458566522162!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The pharmacy on Kichijoji Honcho appears in episode 6 as a street-level location detail in the residential zone north of the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_occultic-nine_47",
+      "name": "Kitamachi Orthopedic Clinic",
+      "localName": "きたまち接骨院",
+      "coordinates": {
+        "lat": 35.70953,
+        "lng": 139.57314
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24433669-502c-4e2c-9f0f-3d37ff70acce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24433669-502c-4e2c-9f0f-3d37ff70acce.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7095041,139.573191,3a,90y,23.2h,102.29t/data=!3m7!1e1!3m5!1sCMTYNMzPyW3hIbKCNlDSYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.291852441017184%26panoid%3DCMTYNMzPyW3hIbKCNlDSYw%26yaw%3D23.202975408904855!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This clinic in Kichijoji Kitamachi appears in episode 6 as a background location, part of the show's faithful street-by-street recreation of the neighborhoods north of Kichijoji Station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE7_CUww7UDURV-2X6PUWAsE",
+      "name": "Enmeiji",
+      "localName": "延命寺",
+      "coordinates": {
+        "lat": 34.0668272,
+        "lng": 132.9640002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08eb871e-f1ec-40c4-8292-899bc1b77e9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08eb871e-f1ec-40c4-8292-899bc1b77e9f.webp"
+        },
+        {
+          "url": "media/cached-image_35c73a9f22079bb78d79fa0cce05c7dd8780a7255015a1f7bf6bc1b9d8d7b34f.jpg"
+        },
+        {
+          "url": "media/cached-image_0a3d449582debd80c530b02dd9ee773957c257bec2ba092e56d83a37e438102d.jpg"
+        },
+        {
+          "url": "media/cached-image_0b42f052c2067a5f0e33c0729f9f59aab547c481736cc318c5dade45720423e6.jpg"
+        },
+        {
+          "url": "media/cached-image_43c5aa2942e408d1006036b7c56b6c346b9645d608899c2fad1f01aa766abe8d.jpg"
+        },
+        {
+          "url": "media/cached-image_3d78e018044ae109b68aac84cbfd8291635e5c56dc338732a9673d1fb2fed81d.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.1,
+      "reviewCount": 520,
+      "priceLevel": null,
+      "address": "Enmei Temple, 甲-636 Agata, Imabari, Ehime 794-0081, Japan",
+      "city": "Imabari",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7139913,139.5573496,3a,90y,17.4h,100.87t/data=!3m7!1e1!3m5!1s9xfLaqIK3w0KG8OX-kgtGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.874069614874387%26panoid%3D9xfLaqIK3w0KG8OX-kgtGg%26yaw%3D17.40465852425565!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtwCNtR3vGGARuByTWeRJPO4",
+      "name": "New Balance Kichijoji",
+      "localName": "ニューバランス吉祥寺",
+      "coordinates": {
+        "lat": 35.7056995,
+        "lng": 139.5778368
+      },
+      "image": "https://cdn.animepilgrimage.com/places/357567ff-4c70-4e5c-ad43-aed98ccf6d48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/357567ff-4c70-4e5c-ad43-aed98ccf6d48.webp"
+        },
+        {
+          "url": "media/cached-image_52402c8992a3e0633471696a33ca4ba4ef45fb2c2777cfdd0976b6e30dd47322.jpg"
+        }
+      ],
+      "type": "Sportswear store",
+      "categories": [
+        "Sportswear store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "New Balance, Chloris Kichijoji, 2 Chome-8-13 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7055259,139.5778389,3a,90y,175.5h,97.64t/data=!3m7!1e1!3m5!1sfcDdWUdfqo3nPTHlSZGCrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.639227555259126%26panoid%3DfcDdWUdfqo3nPTHlSZGCrA%26yaw%3D175.50022388886487!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The New Balance store on Kichijoji Honcho appears in episode 7, one of the brand-name shops along the main street that the show includes to authenticate its recreation of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJszkk5bhhVjUR-V897bo3k0M",
+      "name": "Daiseiji Temple",
+      "localName": "角磐山 大山寺",
+      "coordinates": {
+        "lat": 35.390979699999995,
+        "lng": 133.5348608
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3eb6f635-f7a8-4ae7-83e3-dc6671efb8b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3eb6f635-f7a8-4ae7-83e3-dc6671efb8b3.webp"
+        },
+        {
+          "url": "media/cached-image_7e7330eb36ed02708a6bf645ecd8e152d8b7c70883a2cf1c7a419da866b2af1c.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1401,
+      "priceLevel": null,
+      "address": "Daisenji Temple, 9 Daisen, Saihaku District, Tottori 689-3318, Japan",
+      "city": "Daisen",
+      "region": "Saihaku District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6990674,139.5749099,3a,90y,296.25h,96.69t/data=!3m7!1e1!3m5!1scgmDETaR_npFpy5Q4u1NPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.690864225520116%26panoid%3DcgmDETaR_npFpy5Q4u1NPA%26yaw%3D296.25019904063674!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    }
+  ]
+}

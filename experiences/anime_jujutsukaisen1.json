@@ -1,0 +1,1590 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Jujutsu Kaisen",
+  "slug": "jujutsu-kaisen-1",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cdn.animepilgrimage.com/anime/0krqHxVPwJzgjw4B5AJN.webp",
+  "image": "https://cdn.animepilgrimage.com/anime/0krqHxVPwJzgjw4B5AJN.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.683011111111114,
+    "lng": 139.47235666666668
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Jujutsu Kaisen"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJiZn7EQCNGGARBcFPqnVdJ6I",
+      "name": "Takeshita Street Entrance Arch (Harajuku Station)",
+      "localName": "竹下通り 入口アーチ (原宿駅)",
+      "coordinates": {
+        "lat": 35.67156,
+        "lng": 139.70316
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6111f4c9-a03b-409e-83d7-12d657dfbc7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6111f4c9-a03b-409e-83d7-12d657dfbc7c.webp"
+        },
+        {
+          "url": "media/cached-image_f196719c28169bffbfaee2acd995191f92f59f8fd7625e6a07cf59b1a8933da7.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-19-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Vy2JEvuv6tt37dLt9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "In Episode 3, Nobara Kugisaki walks through this iconic entrance arch on her very first visit to Tokyo, browsing the trendy shops and fashion stalls of Takeshita Street before the trio receives their first real mission.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfabz1duMGGARGADWGoEnkjw",
+      "name": "Gusto Shinjuku Yasukuni-dori Store",
+      "localName": "ガスト 新宿靖国通店",
+      "coordinates": {
+        "lat": 35.69307,
+        "lng": 139.70412
+      },
+      "image": "https://cdn.animepilgrimage.com/places/119ebcd9-9698-462a-8f96-3c7a913a5fe0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/119ebcd9-9698-462a-8f96-3c7a913a5fe0.webp"
+        },
+        {
+          "url": "media/cached-image_08a2a28a823547ab5ee73c8b2df8f9d074b252b46e7c8949591e68735c35ef17.jpg"
+        },
+        {
+          "url": "media/cached-image_ed74a96fea78ce8b7d844d08d6d68e1a2d1809e68170d319583045ad914a18cc.jpg"
+        },
+        {
+          "url": "media/cached-image_e8aa54d92bdd61b5052a3e8499d2a59bace325b6ba970c1611d04427919f0ab4.jpg"
+        },
+        {
+          "url": "media/cached-image_22f74b3faf625a66392204d2e0d2be1e4ef40c9af6345ed7e8cfd50f1905a10e.jpg"
+        },
+        {
+          "url": "media/cached-image_39e891a596ac5315035c01cf1ae802862373da2d05d79a65a527ac9f3440fa33.jpg"
+        },
+        {
+          "url": "media/cached-image_a4358e6bf1c231dc77004f1f775c159b998cad8a996683143cdce9488742b9b8.jpg"
+        },
+        {
+          "url": "media/cached-image_52f70dcaff2c177a0892dfe96390df823a6f1dde2cd7b49fe3bcff8ae54ea8c1.jpg"
+        },
+        {
+          "url": "media/cached-image_b2da4e31d19a7f4e688f388a83229e686889460442b405fa90d860358bd786b0.jpg"
+        },
+        {
+          "url": "media/cached-image_8f828cdb9c5f6c498942d718695f33ae93cff95086a1b036e2140a22cb4f3eb3.jpg"
+        },
+        {
+          "url": "media/cached-image_76081680d3bc292b821d77cd671bfae2de7b5dda8d4dca8e5552a8a87e041938.jpg"
+        },
+        {
+          "url": "media/cached-image_cec6973dda2beaeaf89e97be3c0b81965cfe318a1dffeceeb31cc5fe3364ddc5.jpg"
+        }
+      ],
+      "type": "ファミリー レストラン",
+      "categories": [
+        "ファミリー レストラン"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1-17 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pLNormHzUNFgiY8q6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "In Episode 5, Suguru Geto meets with the cursed spirits Jogo, Hanami, and Dagon near this family restaurant on Yasukuni-dori. In the anime the restaurant is renamed \"Rice,\" but the building facade is directly based on this Gusto branch, where the villains conspire about using cursed spirits against sorcerers.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYywWKHONGGAR8vVuaFcbnI0",
+      "name": "Fuji Coin Lockers K-2340",
+      "localName": "フジコインロッカーK-2340",
+      "coordinates": {
+        "lat": 35.67125,
+        "lng": 139.70337
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d868077-be07-48ae-979b-778af491c8b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d868077-be07-48ae-979b-778af491c8b3.webp"
+        },
+        {
+          "url": "media/cached-image_0d99bfc6d641ff9dc769fa2309f4af035178f1973af2ae7ee3f63aa821a4e93e.jpg"
+        }
+      ],
+      "type": "Coin operated locker",
+      "categories": [
+        "Coin operated locker"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3F, 1 Chome-14-2 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HFwxXqfzhh2zAYkr6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "In Episode 3, Nobara remembers mid-shopping that she needs to retrieve her belongings from coin lockers near Harajuku. This locker spot is where the trio gathers before Yuji and Nobara bond over her no-nonsense personality during her Tokyo debut.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE2et_R6fm18RwY7KDVaeWM0",
+      "name": "Daikoku Sushi",
+      "localName": "大黒寿司",
+      "coordinates": {
+        "lat": 35.70615,
+        "lng": 139.63636
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba5efed3-829c-40cc-a75a-743fe462962c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba5efed3-829c-40cc-a75a-743fe462962c.webp"
+        },
+        {
+          "url": "media/cached-image_c874f3c1bab849e5544bb59ede96e119bd917dd01e9ee0e6a6fddeacf42407b7.jpg"
+        }
+      ],
+      "type": "寿司店",
+      "categories": [
+        "寿司店"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2-6 Shinmachi, Aomori, 030-0801, Japan",
+      "city": "Aomori",
+      "region": "Aomori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NkePvzMVFA1FCZ2S9",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvfRTLviNGGAR_-Gmq-KEwvQ",
+      "name": "City House Yoyogi",
+      "localName": "シティハウス代々木",
+      "coordinates": {
+        "lat": 35.68121,
+        "lng": 139.70279
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c926e92a-4415-48d1-b4f4-2aa8da49bd26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c926e92a-4415-48d1-b4f4-2aa8da49bd26.webp"
+        },
+        {
+          "url": "media/cached-image_fd38c8d3a34a730ce379798a885414462ce574cbf3b3023cfb9718bd68aff0fa.jpg"
+        },
+        {
+          "url": "media/cached-image_45191ca1f0928f741f597917022fb81d8855dc150730a4cf2866b6886b61bcd7.jpg"
+        }
+      ],
+      "type": "集合住宅",
+      "categories": [
+        "集合住宅"
+      ],
+      "rating": null,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "シティハウス代々木, 1 Chome-31-8 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1QdkaYomQAoyYFWz5",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiWZ3RNaMGGARvgxjXVokasw",
+      "name": "Caffè Veloce - Nishi-Shinjuku",
+      "localName": "カフェ・ベローチェ 西新宿店",
+      "coordinates": {
+        "lat": 35.69371,
+        "lng": 139.69773
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d68325d-f71d-4e82-9b8b-26bd8bd0f327.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d68325d-f71d-4e82-9b8b-26bd8bd0f327.webp"
+        },
+        {
+          "url": "media/cached-image_833710a4c197709dbb1ae3f99e1ecbe726631661ae6cf477f9a8156e29d4e86a.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "加賀谷ビル 1F, 7 Chome-10-7 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/gT5PVjy4Sm9V3oJJA",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK-m5fnbyGGARzAqJYzNX0MI",
+      "name": "Asagaya Station",
+      "localName": "阿佐ヶ谷駅",
+      "coordinates": {
+        "lat": 35.70441,
+        "lng": 139.63637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf650de4-d41c-404f-8a6e-398a12a4bd87.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf650de4-d41c-404f-8a6e-398a12a4bd87.webp"
+        },
+        {
+          "url": "media/cached-image_3d5da480bd1b9e5c7c0827da1732974598512f51d655287245bb890575a2ec1f.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-36-2 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Pmg9Kdy5siR4kWy8",
+      "episodeType": "EP",
+      "episodeNumber": 23,
+      "entityContext": "Asagaya Station serves as the transit hub for the Asagaya district featured in Episode 23, where the surrounding shopping streets and cafes are used to depict everyday Tokyo life in the series.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8_WmNnHyGGARY2Wl4h8qMrc",
+      "name": "Asagaya Pearl Center Shopping Street",
+      "localName": "阿佐谷パールセンター 商店街",
+      "coordinates": {
+        "lat": 35.70462,
+        "lng": 139.63681
+      },
+      "image": "https://cdn.animepilgrimage.com/places/75f30858-0b92-40ea-bca5-95c6e260c05c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/75f30858-0b92-40ea-bca5-95c6e260c05c.webp"
+        },
+        {
+          "url": "media/cached-image_fad29a1f84de6360b4df018ce3ca6f7a8d121dee37c2ed173a0824e585971366.jpg"
+        },
+        {
+          "url": "media/cached-image_9429728b5ef2548a00f9037788b9115f1b6d3b88d443f6e2db0ac716c5302822.jpg"
+        },
+        {
+          "url": "media/cached-image_f7fb26537e2ff12c81b5eed804f8e69c31d10dc3803ad726d41f454590e84437.jpg"
+        },
+        {
+          "url": "media/cached-image_a95813ffeaa9ab406882c66f1e7f787b540b3660d9cc4acab04534f7274f8a7f.jpg"
+        },
+        {
+          "url": "media/cached-image_18c31fb8c8e993da1d4c3938bd16850767654448acfdd66244338e15019773a1.jpg"
+        },
+        {
+          "url": "media/cached-image_f812c93497c1326e9863b71aa1e8456b16a4c9765000c6b878bbee6d0bcf1221.jpg"
+        }
+      ],
+      "type": "商業地",
+      "categories": [
+        "商業地"
+      ],
+      "rating": 4.2,
+      "reviewCount": 588,
+      "priceLevel": null,
+      "address": "1 Chome-36-7 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uXDH98q4Uc3ChqXf9",
+      "episodeType": "EP",
+      "episodeNumber": 23,
+      "entityContext": "This covered shotengai arcade near Asagaya Station is depicted in Episode 23 as part of the everyday Tokyo neighborhood backdrop, bringing the grounded, lived-in feel of the city that defines Jujutsu Kaisen's setting outside the curse battles.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHa_OsEfuGGARPUctgRZ0Mbw",
+      "name": "AOKI Kichijoji Sun Road Ten",
+      "localName": "AOKI 吉祥寺サンロード店",
+      "coordinates": {
+        "lat": 35.70472,
+        "lng": 139.58044
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1764c1fa-ab8e-493c-a142-a243992884a0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1764c1fa-ab8e-493c-a142-a243992884a0.webp"
+        },
+        {
+          "url": "media/cached-image_ce887a8cc68db5e030b9d3eb4af55e34acf6fc438811103ffd00b68d1edde5ab.jpg"
+        },
+        {
+          "url": "media/cached-image_7dc76788a474cc25b0f920631e17870350cac45bc47dfc65a87f8a76539eccea.jpg"
+        },
+        {
+          "url": "media/cached-image_5d043ba95e201cbb14e674023dc0dea4947560b424f4093c037e9ea035c82997.jpg"
+        },
+        {
+          "url": "media/cached-image_9317824755f8ea21f3129ea4fc1e1bc602e7ef5063e4b12556a2de3d43488889.jpg"
+        },
+        {
+          "url": "media/cached-image_814c3a70818f3674d29860a5067263b699f730ee688f29431c7f54a0b1f99960.jpg"
+        },
+        {
+          "url": "media/cached-image_2b2cbf41a0674116952d853075018f4858ac899dadc257c356b8d1d8925fa2f8.jpg"
+        },
+        {
+          "url": "media/cached-image_0435dbfd0ee54911b6d4da2bce037e13de9c8c51a46c23fab127140ae9db2327.jpg"
+        },
+        {
+          "url": "media/cached-image_bba51fef13a215ffde5b6070ee53e60660c08b1dabe5f59b6e7d58c77abe45b7.jpg"
+        },
+        {
+          "url": "media/cached-image_6d1e3694d01c0a4dd63c75540a861f0511b72defae29aa053eaad6be64148dfd.jpg"
+        },
+        {
+          "url": "media/cached-image_f9c7b6d485f18b50d1d718cc02b8093d5530d751d94f724fbac1667b3a200c77.jpg"
+        },
+        {
+          "url": "media/cached-image_8aafe007887ab83d36295a2db3a21e87cf645e56c19f87797359a04143e1f666.jpg"
+        }
+      ],
+      "type": "衣料品店",
+      "categories": [
+        "衣料品店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-13-1 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zjLgGwdbUZUH6aPNA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Located on Kichijoji's Sun Road shopping arcade, this clothing store appears in the Kichijoji arc of Episode 8, the same neighborhood where three students are found dead near the Kinema Cinema, drawing Nanami and Itadori into a gruesome investigation.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQWCOCMaMGGAR94SQgOGe0z0",
+      "name": "Yoyogi Station",
+      "localName": "代々木駅",
+      "coordinates": {
+        "lat": 35.68289,
+        "lng": 139.70187
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13d6f1d7-7632-4d83-97e0-17174bcaee37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13d6f1d7-7632-4d83-97e0-17174bcaee37.webp"
+        },
+        {
+          "url": "media/cached-image_7967f0b22aac60f15d091a9711fd750ebae9e0a8ab5eff784c987ec2e322d17d.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-34 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2GF4VbHwbejVJbs88",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIZ1UlV0oil8RaPbev7avPU8",
+      "name": "Yagiyama Bridge Tatsunoguchi Valley",
+      "localName": "八木山橋",
+      "coordinates": {
+        "lat": 38.25068,
+        "lng": 140.85286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/430fdff6-9fe7-4865-a0d5-304998d0c170.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/430fdff6-9fe7-4865-a0d5-304998d0c170.webp"
+        },
+        {
+          "url": "media/cached-image_50e091f7167043793b93df67fcad123a2d02b3ca03fa014281e9472664616afe.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Taihaku Ward, Sendai, Miyagi 982-0837, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Gk2y7Ke8jL34kpn2A",
+      "episodeType": "EP",
+      "episodeNumber": 22,
+      "entityContext": "This bridge in Sendai is the real-world model for the Yasohachi Bridge in Episode 22, where a dangerous curse lurks beneath that kills anyone who ventures under it. In the anime the location is set in Saitama, but the visual reference comes directly from this Sendai span, making it a notable pilgrimage spot for fans of the Yasohachi Bridge curse arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeR9MY_aBImARzfk7Qg11Zyo",
+      "name": "World Business Garden No. 2 Parking Lot",
+      "localName": "ワールドビジネスガーデン 第2駐車場",
+      "coordinates": {
+        "lat": 35.64769,
+        "lng": 140.03699
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b800f87-d164-4ef6-8945-7c487e777e7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b800f87-d164-4ef6-8945-7c487e777e7e.webp"
+        },
+        {
+          "url": "media/cached-image_98196915bacbf0ee794e76899a20fe8a917e63c30419c25da0ebb811e2fe18d9.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-6-1 Nakase, Mihama Ward, Chiba, 261-0023, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7DZdv3W2PBTYSRKfA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf2129yiMGGAR9I6Yoe-1uHY",
+      "name": "Ueno Zoo",
+      "localName": "上野動物園",
+      "coordinates": {
+        "lat": 35.71645,
+        "lng": 139.77257
+      },
+      "image": "https://cdn.animepilgrimage.com/places/710313ca-bbfb-4cee-9afc-532d5fcaed7f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/710313ca-bbfb-4cee-9afc-532d5fcaed7f.webp"
+        },
+        {
+          "url": "media/cached-image_432b63b7cd6236b5962411436bc2e8e8fc6371eb06bb84a1b0805038f8ec28b8.jpg"
+        },
+        {
+          "url": "media/cached-image_15118b47f269c086492999876ed63e1c8ceb370c25dccb15a6181b2bd37dbc3b.jpg"
+        },
+        {
+          "url": "media/cached-image_8440e334bcab6371e38df47053ab4b6438a76ec7592065a3a25a7dfa145c9960.jpg"
+        },
+        {
+          "url": "media/cached-image_5ce92fdd9e69722c503b60e4ac44f4b4bb00f80548eafdb1dc40484c2e312db9.jpg"
+        },
+        {
+          "url": "media/cached-image_4da8bac0442512234fb9666c017b8f8455071805f76facf8b3218fb196ecc7ce.jpg"
+        },
+        {
+          "url": "media/cached-image_2b269a05b72ac48a319469122504984438381b4a5b775b3c0689232ebf66f7c1.jpg"
+        }
+      ],
+      "type": "Zoo",
+      "categories": [
+        "Zoo"
+      ],
+      "rating": 4.2,
+      "reviewCount": 259,
+      "priceLevel": null,
+      "address": "9-83 Uenokoen, Taito City, Tokyo 110-8711, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KxorfsgK3PJAi8W6A",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Ueno Zoo and the surrounding Ueno Park area appear in the opening theme of Jujutsu Kaisen, contributing to the series' visually rich montage of Tokyo's diverse districts. Ueno Park itself carries strong historical resonance as a site associated with the restless dead, fitting the tone of the series.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhayPslYqUjURyWQzCS1rVeU",
+      "name": "Tsubojiri Station",
+      "localName": "坪尻駅",
+      "coordinates": {
+        "lat": 34.05405,
+        "lng": 133.82365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95a88d8c-d331-4153-ba3a-24539e5e28a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95a88d8c-d331-4153-ba3a-24539e5e28a7.webp"
+        },
+        {
+          "url": "media/cached-image_de551c0d974af60e11776870502f8653c4965117db0e6d96f413fd8f5ef1542b.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tatsutani Ikedachō Nishiyama, Miyoshi, Tokushima 778-0040, Japan",
+      "city": "Miyoshi",
+      "region": "Tokushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6yh1jLCUr9ga4H9g8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This remote, unstaffed station deep in the mountains of Tokushima appears in the opening theme of Jujutsu Kaisen in a scene believed to depict a young Nobara Kugisaki with her childhood friend Saori. Its isolated, atmospheric platform surrounded by wild mountains perfectly captures Nobara's rural backstory before she moves to Tokyo.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJURmuU_iLGGAR_wDiegxiizY",
+      "name": "The Industry Club of Japan",
+      "localName": "日本工業倶楽部",
+      "coordinates": {
+        "lat": 35.68317,
+        "lng": 139.76506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21e2d132-57d4-40bd-adf0-0259332776a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21e2d132-57d4-40bd-adf0-0259332776a7.webp"
+        },
+        {
+          "url": "media/cached-image_25941d4184ac5b5189be169555fe37d22b306029b6b0937d9955421d228c3e87.jpg"
+        },
+        {
+          "url": "media/cached-image_2ce76454bf98a8aca4253e8ce64c153683be09ec46c4d9dc258dca7078844954.jpg"
+        },
+        {
+          "url": "media/cached-image_3826ea7c7f37b09859fdd856ba0532f0878ba7908cb97f6cd7e572565bd07931.jpg"
+        }
+      ],
+      "type": "協会/組織",
+      "categories": [
+        "協会/組織"
+      ],
+      "rating": 4.2,
+      "reviewCount": 55,
+      "priceLevel": null,
+      "address": "1 Chome-4-6 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ppUMVFQwCzim26dZ7",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXS9xxdaMGGAR9XZd9wIeJrk",
+      "name": "Subaru Building Shinjuku Eye",
+      "localName": "スバルビル新宿の目",
+      "coordinates": {
+        "lat": 35.69137,
+        "lng": 139.69799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43a28a01-9491-4e90-8fc6-9952c6952e39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43a28a01-9491-4e90-8fc6-9952c6952e39.webp"
+        },
+        {
+          "url": "media/cached-image_0b40d57980ab517d5a0b0c2cebd4cb933b2b31efbcaa328091b8faece84cfec8.jpg"
+        }
+      ],
+      "type": "文化的ランドマーク",
+      "categories": [
+        "文化的ランドマーク"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-7-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qXp28SRN9YtFSZt86",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This large yellow eye sculpture on the Subaru Building in Nishi-Shinjuku is where Aoi Todo strikes his signature pose in the opening theme of Jujutsu Kaisen Season 1. The iconic shot of Todo in front of the eye has become one of the most recognizable pilgrimage frames from the opening.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY8rh-AyNGGARTOWyUWzPs_A",
+      "name": "Starbucks Coffee - Keio Shinjuku 3-chome Building",
+      "localName": "スターバックス コーヒー 京王新宿三丁目ビル店",
+      "coordinates": {
+        "lat": 35.69051,
+        "lng": 139.70556
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ba05b37-0a93-4c4e-8a25-8645e2a51930.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ba05b37-0a93-4c4e-8a25-8645e2a51930.webp"
+        },
+        {
+          "url": "media/cached-image_a637b9d24271e5be58a32d3dcda0e3223c31ced7ad72143a50a6e01fd7f12de6.jpg"
+        },
+        {
+          "url": "media/cached-image_53f233b4619531133613a1ad98047167af57961d956eee43d7e9bfb8437e8d98.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "京王新宿三丁目ビル, 3 Chome-1-24 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/erMzpqRPp1KwcVZ1A",
+      "episodeType": "EP",
+      "episodeNumber": 24,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW1M1DgCNGGARVl22We2yBXo",
+      "name": "Sendagaya Tunnel",
+      "localName": "千駄ヶ谷トンネル",
+      "coordinates": {
+        "lat": 35.67546,
+        "lng": 139.71153
+      },
+      "image": "https://cdn.animepilgrimage.com/places/683c760f-6042-4053-bc66-de6915ac1b3a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/683c760f-6042-4053-bc66-de6915ac1b3a.webp"
+        },
+        {
+          "url": "media/cached-image_90a1bcbf3d3f63b0fa8d83fd4c9a32a03f29ef1185ee226d70588cc9384a5a92.jpg"
+        }
+      ],
+      "type": "墓地",
+      "categories": [
+        "墓地"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 2 Chome−24−1",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TDFK8BTYbMsXrRnC7",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Sendagaya Tunnel opens the first Season 1 opening sequence with Megumi Fushiguro crouching on the floor, investigating something unseen. Built in 1964 and passing beneath a cemetery, this short 61-meter tunnel is widely regarded as one of Tokyo's most haunted spots, making it a perfect location to establish the anime's eerie supernatural atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaWFs73byGGARtu7uscqVqI4",
+      "name": "Saint Marc Cafe - Asagaya Station",
+      "localName": "サンマルクカフェ 阿佐ヶ谷駅前店",
+      "coordinates": {
+        "lat": 35.7042,
+        "lng": 139.63674
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6abfc785-729e-4f42-bad9-0a3c818d4325.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6abfc785-729e-4f42-bad9-0a3c818d4325.webp"
+        },
+        {
+          "url": "media/cached-image_0d7cdbc91af0fd3ca2f5818b334b28a2a988c01bcb416139fc31fdeacdca3774.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ＡＳＡＧＡＹＡ南口駅前ビル １階, 2 Chome-15-2 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JU3Pw2eNjghEb4UAA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwbgC8tmMGGAR6L-J4yvMAZI",
+      "name": "Ryuseido Pharmacy Shinjuku Shop",
+      "localName": "龍生堂薬局 新宿店",
+      "coordinates": {
+        "lat": 35.69325,
+        "lng": 139.70229
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b9336c1-cd45-49b5-ae4a-d799344748f9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b9336c1-cd45-49b5-ae4a-d799344748f9.webp"
+        },
+        {
+          "url": "media/cached-image_c09921404a0d489c6e582304dc0bf4af443171d514afd86e2ffad87c2eddc3fc.jpg"
+        }
+      ],
+      "type": "調剤薬局",
+      "categories": [
+        "調剤薬局"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "龍生堂ビル, 3 Chome-21-6 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CmUpT68p3CyArv6q7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "In Episode 5, the cursed spirits including Geto, Jogo, and Hanami cross the pedestrian crossing directly in front of this pharmacy on Shinjuku's Kabukicho border. The building facade is a confirmed real-world match, and the crossing scene marks the moment the curse alliance begins plotting against jujutsu sorcerers.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHSjjaoKLGGARTp_Q0o4lKg8",
+      "name": "Roppongi Sta.",
+      "localName": "六本木駅",
+      "coordinates": {
+        "lat": 35.66314,
+        "lng": 139.73253
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a2626b1f-c41d-43d5-9da9-f97e33b7da27.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a2626b1f-c41d-43d5-9da9-f97e33b7da27.webp"
+        },
+        {
+          "url": "media/cached-image_3e6b16d692df0f1982e117ac561234c095dd4767f32418c772f54448dfd81eb9.jpg"
+        },
+        {
+          "url": "media/cached-image_8303e9f667c1da32d7175a8d9d8ece9b56e6ef71e9fc196919104b1da54b3d9f.jpg"
+        },
+        {
+          "url": "media/cached-image_93955e0281d56f59a8564fc19158532a729276a33c6c9786944f63d4a8e78b2e.jpg"
+        },
+        {
+          "url": "media/cached-image_9924c1439ef5221ad4dc50c10f71245614b3b7a854a0bd670dfdf7fb3c833e27.jpg"
+        },
+        {
+          "url": "media/cached-image_e439c56858189b1c27d9a3937560f7bff543a4a75274fcf41d10fbc2e69bf763.jpg"
+        },
+        {
+          "url": "media/cached-image_c8925974a83d3622472c5a5fe5f86d13054a6788d1ed8d702aac43f2e5dea040.jpg"
+        }
+      ],
+      "type": "地下鉄駅",
+      "categories": [
+        "地下鉄駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 20,
+      "priceLevel": null,
+      "address": "9 Chome-7-39 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MddCHipmeFg4rVwPA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Roppongi Station is the entry point for Episode 3's mission, where Yuji, Megumi, and Nobara travel to Roppongi to exorcise a curse from an abandoned building. The Roppongi district and its nightlife environment set the tone for the trio's first team operation.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA3-7Q3aLGGAR8b-_rThWjpU",
+      "name": "Roppongi Keyakizaka Dori",
+      "localName": "六本木けやき坂通り",
+      "coordinates": {
+        "lat": 35.65919,
+        "lng": 139.73034
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4955d4c4-72b9-4493-a1a2-ce276749ac9b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4955d4c4-72b9-4493-a1a2-ce276749ac9b.webp"
+        },
+        {
+          "url": "media/cached-image_3d647941423cd5fe4da4e36200584a87a7838207424340bf2104909d3c8bc518.jpg"
+        }
+      ],
+      "type": "有名な通り",
+      "categories": [
+        "有名な通り"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6-chōme Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UT9CydsTMrBWZYUH8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Keyakizaka Street in Roppongi, lined with zelkova trees and upscale shops, appears in Episode 3 as part of the Roppongi district setting where the first-years take on a curse mission. The street's sleek, affluent character contrasts sharply with the supernatural danger lurking nearby.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM9xJEHeLGGARAshMWUgC_ls",
+      "name": "Roppongi Hills",
+      "localName": "六本木ヒルズ",
+      "coordinates": {
+        "lat": 35.66074,
+        "lng": 139.73014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/973c0af4-d874-4e61-ba7c-10de499db86e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/973c0af4-d874-4e61-ba7c-10de499db86e.webp"
+        },
+        {
+          "url": "media/cached-image_29fa16b40374f0673d14ee97d4b87122a63239baa9485631c8f7aac8ef137dbf.jpg"
+        }
+      ],
+      "type": "商業地",
+      "categories": [
+        "商業地"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-10-1 Roppongi, Minato City, Tokyo 106-6108, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2JhaiDr6pghMz86x7",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Roppongi Hills appears in the opening theme of Jujutsu Kaisen Season 1, where Nobara is shown against this landmark complex. The Mori Garden side of Roppongi Hills also features in the opening sequence alongside the nearby tunnel, establishing Roppongi as one of the show's signature Tokyo backdrops.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK0TdDneLGGARVxJ3MHC0emY",
+      "name": "Roppingi Hills - Tokyo City View",
+      "localName": "六本木ヒルズ展望台 東京シティビュー",
+      "coordinates": {
+        "lat": 35.66017,
+        "lng": 139.72937
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b269545-d118-4739-a8de-04392fa36403.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b269545-d118-4739-a8de-04392fa36403.webp"
+        },
+        {
+          "url": "media/cached-image_4c2ca3ee5accfb0eee1c09a6b763b9959a9d7b0c7c2191b4d053b3673d51ee10.jpg"
+        },
+        {
+          "url": "media/cached-image_8da780ebd3baaf33790af6a510aa2a10b25937f4e832bc954057749b6a0f2581.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Roppongi Hills Mori Tower, 52階, 6 Chome-10-1 Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ubQFWH2ZFRfSatG26",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The observation deck on the 52nd floor of Mori Tower in Roppongi Hills is featured in Episode 3, offering a sweeping view of Tokyo that appears during the first-years' Roppongi mission. The dramatic city panorama from this deck underscores the contrast between Tokyo's glamorous skyline and the cursed dangers hidden within it.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8wC7hgnyGGAR8C6o2s7eKzA",
+      "name": "Otaguro Park",
+      "localName": "大田黒公園",
+      "coordinates": {
+        "lat": 35.70028,
+        "lng": 139.62514
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89ff4871-d4ad-4ef3-9af0-bd4df8b5842d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89ff4871-d4ad-4ef3-9af0-bd4df8b5842d.webp"
+        },
+        {
+          "url": "media/cached-image_95b0570feb2ccf7a087b15496ffb529a922f0b7662b925d4d18b48ad6449ccac.jpg"
+        },
+        {
+          "url": "media/cached-image_c355299108ffde523b4c60a67dbc2a7e50483e20e622a05fe04b85fe06a22627.jpg"
+        },
+        {
+          "url": "media/cached-image_585453d8bc20e40356b5876b41b36ef504fdee01080616de7781a03e3dc7efc2.jpg"
+        },
+        {
+          "url": "media/cached-image_df5ece2137955b8a289884c86715d25abf21111abb41a764eca654eff76fd2ac.jpg"
+        },
+        {
+          "url": "media/cached-image_570c0eed1524103d34c5034e12175501cb4d97ca65c6ff659f57ac954e5195a5.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.4,
+      "reviewCount": 36,
+      "priceLevel": null,
+      "address": "3 Chome-33-12 Ogikubo, Suginami City, Tokyo 167-0051, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2RMdaVB3NvXpdQF57",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu1eVatSNGGARcBJO39OEfEE",
+      "name": "Onda Bridge ruins",
+      "localName": "穏田橋跡",
+      "coordinates": {
+        "lat": 35.6665,
+        "lng": 139.70597
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3bd10cb-87a0-450a-a840-598903f8aa1a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3bd10cb-87a0-450a-a840-598903f8aa1a.webp"
+        },
+        {
+          "url": "media/cached-image_992979eec5d6bf0babf1a6f83e752ab4c8a90f5a6ef014e11e5353155d197cda.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5 Chome-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zbExUkdu6pEiBJrk8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEf7TvmVdGGARgZiSSzgmGqo",
+      "name": "Noge 326",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.44701,
+        "lng": 139.62878
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2541187e-4ab5-4627-aa8e-5569328febcb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2541187e-4ab5-4627-aa8e-5569328febcb.webp"
+        },
+        {
+          "url": "media/cached-image_23af0e2f26619ced4eaed5a85cdbc05f91a1d352d223d23f2b18682dc2b37864.jpg"
+        }
+      ],
+      "type": "Western restaurant",
+      "categories": [
+        "Western restaurant"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒231-0065 Kanagawa, Yokohama, Naka Ward, Miyagawacho, 2 Chome−19-2 3階",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/oAXNNuL7XA6zgkpa7",
+      "episodeType": "EP",
+      "episodeNumber": 22,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN8_GaWCLGGAR6R-SrYtZKdk",
+      "name": "Nicolai Bergmann Flowers & Design Flagship Store",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66308,
+        "lng": 139.71285
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13ed6d6c-cd83-4be4-93e7-c3bef93e2b85.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13ed6d6c-cd83-4be4-93e7-c3bef93e2b85.webp"
+        },
+        {
+          "url": "media/cached-image_74ebbc8c1b20a748718c8b51cecac917979dda0973d70aea4c9316dde775eda9.jpg"
+        }
+      ],
+      "type": "Florist",
+      "categories": [
+        "Florist"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5 Chome-7-2 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cqQK8DAjV2Smo3y66",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The cafe attached to this Minami-Aoyama flower design flagship is where Kento Nanami is depicted taking a quiet break in the opening theme of Jujutsu Kaisen. The Danish-influenced space, favored by the half-Danish Nanami, became a fan pilgrimage spot, though the round table shown in the opening has since been removed.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx6BWs0fuGGARE-Es2RJgPqA",
+      "name": "Mister Donut Kichijoji Sun Road shop",
+      "localName": "ミスタードーナツ 吉祥寺サンロードショップ",
+      "coordinates": {
+        "lat": 35.70533,
+        "lng": 139.58063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aef08d6d-8898-40f0-a2d9-708f394b2f54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aef08d6d-8898-40f0-a2d9-708f394b2f54.webp"
+        },
+        {
+          "url": "media/cached-image_b313c7dfe1b2a6bc927cfc5909e18de4897498160e75d2d4a8072df79062470e.jpg"
+        }
+      ],
+      "type": "ドーナツ店",
+      "categories": [
+        "ドーナツ店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-11-28 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/AvYLx8MV4euy29si7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Located on Kichijoji's Sun Road arcade, this Mister Donut branch is part of the Kichijoji area featured in Episodes 8 and 9 during Nanami and Itadori's investigation into a string of deaths tied to a curse at a nearby cinema. The familiar chain restaurant setting grounds the supernatural horror in everyday Tokyo life.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPcY16B6BImARFVX_nyoDPCs",
+      "name": "Makuhari Messe International Exhibition Hall 9-11",
+      "localName": "幕張メッセ 国際展示場 展示ホール9～11",
+      "coordinates": {
+        "lat": 35.64889,
+        "lng": 140.03562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/083fae7c-e376-454a-a53c-39e815c2cf1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/083fae7c-e376-454a-a53c-39e815c2cf1c.webp"
+        },
+        {
+          "url": "media/cached-image_60d8d730e88d6468d91566de5f0a38b63e50c5e2eb6ef29673e19c7a902e0298.jpg"
+        },
+        {
+          "url": "media/cached-image_4305afeb22aecce28d257854c3b9f4c0ec3f884adf8a25bf1d7302920416930b.jpg"
+        },
+        {
+          "url": "media/cached-image_efe0c6db824c4d5f0b3c753b30e67eb8d618e74a9e7726d8dfc5766b6ca03ea4.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 4.1,
+      "reviewCount": 19,
+      "priceLevel": null,
+      "address": "2 Chome-２-1 Nakase, Mihama Ward, Chiba, 261-8550, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mXssF5MSVGb4j72d9",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Makuhari Messe, one of Japan's largest convention and exhibition centers, is the real-world model for the idol handshake event venue in Episode 8 where Aoi Todo meets his favorite idol Takada-chan. The post-credits scene of Mai attending this event in disguise is a fan-favorite comedic moment tied directly to this Chiba convention complex.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJof67wfWBImAR_5ktE6l2Wc8",
+      "name": "Makuhari Messe International Exhibition Hall 1-3",
+      "localName": "幕張メッセ 国際展示場 1-3ホール",
+      "coordinates": {
+        "lat": 35.64835,
+        "lng": 140.03322
+      },
+      "image": "https://cdn.animepilgrimage.com/places/58b40bc9-2357-4a8b-9281-f00274c84c25.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/58b40bc9-2357-4a8b-9281-f00274c84c25.webp"
+        },
+        {
+          "url": "media/cached-image_2038fdb4850f89c724c468f01171665af370df7add8c0920fb696a7635e8d992.jpg"
+        },
+        {
+          "url": "media/cached-image_747c53ae2fdebe0fc6560ef32d26687a5591156d3f455bac9728d7e15e5292c3.jpg"
+        },
+        {
+          "url": "media/cached-image_99a9838d308d0d2f59ac38dbb181602e9f6022d7ad203b6a06b6c202df6b8d59.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 4.9,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "2 Chome-１ Nakase, Mihama Ward, Chiba, 261-0023, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BAeWjQcq8XGyFBJX7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "These halls of Makuhari Messe form part of the convention center complex used as the model for Takada-chan's idol handshake event in Episode 8. Todo's obsession with Takada-chan is one of the series' most beloved running gags, making Makuhari Messe a memorable reference point for JJK fans.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_vchdMIAWARujTEUIZlr2I",
+      "name": "Kiyomizu-dera",
+      "localName": "清水寺",
+      "coordinates": {
+        "lat": 34.9947,
+        "lng": 135.7851
+      },
+      "image": "https://cdn.animepilgrimage.com/places/067dd977-d25a-4ddb-9ea0-9714dd2e16d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/067dd977-d25a-4ddb-9ea0-9714dd2e16d9.webp"
+        },
+        {
+          "url": "media/cached-image_8b498aee3b782a0ae03598d42a0c1e6a1e151818d09589575d1229ccd68d846d.jpg"
+        },
+        {
+          "url": "media/cached-image_869a47767434dfd1da8931b21343c036c69172f2b30c9214e86976fd0269be32.jpg"
+        },
+        {
+          "url": "media/cached-image_c921480b8da04b696046a464a72891139aaa0c3e1a02990808d4659a6b090bcb.jpg"
+        },
+        {
+          "url": "media/cached-image_467b678d95fc44298d096d61969961b3469b2c95f3e1ff3503659fd8bd927380.jpg"
+        },
+        {
+          "url": "media/cached-image_694741ead0d176d55ce5808f76a2b4664abea5fa085675b14032e771d1093eff.jpg"
+        },
+        {
+          "url": "media/cached-image_66f6ae2f41bdadad392468deda410d8379dda2abf3758e5786e256b7468363cd.jpg"
+        },
+        {
+          "url": "media/cached-image_be09727e367c8a9273d0cca5dcd69c4d9c9eebb14be2154e7039cff6da902735.jpg"
+        },
+        {
+          "url": "media/cached-image_a658adabe4c23698e8cd97121576bebf8b65be9b5afec991b90e95609ac25743.jpg"
+        },
+        {
+          "url": "media/cached-image_3c709a73106cc2fe87f58cfa35e130f1c6b8fb631bbbc0db90be51f7a1a2a5c5.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe232e07d062e393cfe22158e0166fe209459d31605c7772e958b74dd06b28.jpg"
+        },
+        {
+          "url": "media/cached-image_ee9b880437365e02e77d9ef2f512205e91eb62394eb69d811ec5b10da07c92d1.jpg"
+        },
+        {
+          "url": "media/cached-image_ce72f4651389c6cc3a30016a6b99a66801a7f3c75d6f66706a2b8eee37f1bf45.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67991,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KzN9TAcRUo2oGKGz5",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kiyomizudera's iconic wooden stage and surrounding Kyoto temple grounds serve as the visual reference for Kyoto Jujutsu High's environment during the Kyoto Sister-School Goodwill Event arc beginning in Episode 8. The ancient temple's atmosphere, described in the series as jujutsu's sacred land, is a fitting backdrop for the fierce inter-school battle between Tokyo and Kyoto sorcerers.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLY-8w0fuGGARpO-Ov4XIf2A",
+      "name": "Kichijoji Plaza",
+      "localName": "吉祥寺プラザ",
+      "coordinates": {
+        "lat": 35.70663,
+        "lng": 139.58061
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5be9e9f-dda6-4d59-9857-bd6166d79353.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5be9e9f-dda6-4d59-9857-bd6166d79353.webp"
+        },
+        {
+          "url": "media/cached-image_a29bd54d118a1e1f416356ce8357292554343466d4cd6075d92891b53b217eed.jpg"
+        }
+      ],
+      "type": "雑貨店",
+      "categories": [
+        "雑貨店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "atré Kichijoji, アトレ吉祥寺 B1F, 1 Chome-1-24 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PTZorPKHGy2mG73S8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kichijoji Plaza is adjacent to the Kinema Cinema movie theater, the central location in Episodes 8 and 9 where three students are found horribly mutated after a curse encounter. Nanami and Itadori investigate this Kichijoji cinema complex, leading to Itadori's first battle alongside Junpei Yoshino.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcZNLIruMGGARF7UUkjjLT2g",
+      "name": "Jeans Mate Takeshita Street Store",
+      "localName": "ジーンズメイト 竹下通り店",
+      "coordinates": {
+        "lat": 35.67134,
+        "lng": 139.70434
+      },
+      "image": "https://cdn.animepilgrimage.com/places/52bc93d3-31d1-4810-89a4-4cd9cc4bfe73.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/52bc93d3-31d1-4810-89a4-4cd9cc4bfe73.webp"
+        },
+        {
+          "url": "media/cached-image_9e1bc04ba0e295b9df9c4c400f45f020ae50bc7441db21d742a30d0c83807819.jpg"
+        },
+        {
+          "url": "media/cached-image_7b09ce5059c1ed2853d61c7724022a39f86f882635929eb93719e7db9d9fdb7b.jpg"
+        },
+        {
+          "url": "media/cached-image_88780e8a1a08e941a9289395157fc1f43ee82521986155370ed25997d35df02e.jpg"
+        },
+        {
+          "url": "media/cached-image_616ef9446080e360eece528604da564de856fc9a836e8f4cf885a1495a1fc772.jpg"
+        },
+        {
+          "url": "media/cached-image_b84634f07e53b5bc2ac93aacb535ba90f0cdb87dbbe2df485cb988fa51661671.jpg"
+        },
+        {
+          "url": "media/cached-image_30a6d029d1444c795cb205ad990887fefda18c8f825e0a3a75c5e17d028c4021.jpg"
+        },
+        {
+          "url": "media/cached-image_ca1340a16b8805b6c7ad7ad7ad7ab8a1a8a1a8a1a8b8c7ad7ab1ac1ad1ab5a.jpg"
+        },
+        {
+          "url": "media/cached-image_4d18836d08d65c084ed65dca9789ae3e05cd3baf6c0b9483a934924c668a253c7.jpg"
+        },
+        {
+          "url": "media/cached-image_f0662b59330e5f03d8929e7ab8b0f7d9c710d09e2790d872c084fde327f468eb.jpg"
+        },
+        {
+          "url": "media/cached-image_6a3c6c3d67c73fcf8cf3daa46318d5acb3eeb27d49deba6d1821778f854da2b6.jpg"
+        },
+        {
+          "url": "media/cached-image_0e53b6ebf1dc11bd1c9bf894d521f24e9d1a504f878ecc476d1cafb11842b71e.jpg"
+        }
+      ],
+      "type": "衣料品店",
+      "categories": [
+        "衣料品店"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "柴崎ビル 1F, 1 Chome-20-9 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/rUjPb8shBESmqBUM9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This clothing store on Takeshita Street is part of the Episode 3 Harajuku sequence where Nobara explores the street during her first day in Tokyo. The lively, fashion-forward atmosphere of Takeshita Street, including shops like this one, captures Nobara's excitement and culture-shock as a newcomer to the city.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_yy1ybqMGGAR0tPR4qiHDVY",
+      "name": "Harajuku Station",
+      "localName": "原宿駅",
+      "coordinates": {
+        "lat": 35.66992,
+        "lng": 139.70274
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3b20f742-0fee-4e02-9b1e-c35a6c97ebd8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3b20f742-0fee-4e02-9b1e-c35a6c97ebd8.webp"
+        },
+        {
+          "url": "media/cached-image_2a67ae32b7d4daf44f7343ce9e72fbca4db52f38a9da183a967c6bcf519c77ca.jpg"
+        },
+        {
+          "url": "media/cached-image_fccc0dadf3d4b0fd96bcc56b4ad90cc420981b10e07484c19560b0a2ada16b43.jpg"
+        },
+        {
+          "url": "media/cached-image_112e39a4850db69259fe95ee755b14fc1311e9cde442bec9fcb2bd6b00a89708.jpg"
+        },
+        {
+          "url": "media/cached-image_6847f31a6eb22e3aa5e913bbb65d20a826115af2b6dbc510587b975471ed9a05.jpg"
+        },
+        {
+          "url": "media/cached-image_5116fad1f40f79e9a0978c6be6ac5c587c1e2198e963c051cda9c4ea1ed63918.jpg"
+        },
+        {
+          "url": "media/cached-image_353df62fb9222613d38a1d2375e5e37ad508cc2de6c7a266ed1b21cdeaa133e1.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1121,
+      "priceLevel": null,
+      "address": "1 Chome Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XKdJ81MrL6TLTnWY7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Harajuku Station is where Nobara Kugisaki arrives in Episode 3 on her first day in Tokyo, heading straight to the nearby Takeshita Street. The station and its immediate surroundings appear as Nobara meets up with Yuji and Megumi before the trio embarks on their first Roppongi mission.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt4ka_0fuGGAR--tRpPOAzLk",
+      "name": "HUB Kichijoji South Exit",
+      "localName": "HUB吉祥寺南口店",
+      "coordinates": {
+        "lat": 35.70271,
+        "lng": 139.5792
+      },
+      "image": "https://cdn.animepilgrimage.com/places/539b5016-b0d2-4ca7-95aa-59b49447ac14.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/539b5016-b0d2-4ca7-95aa-59b49447ac14.webp"
+        },
+        {
+          "url": "media/cached-image_b98d5c23a515128d665feb25f1b89f6c0c420ff546678e4964e828aa98dbecd3.jpg"
+        },
+        {
+          "url": "media/cached-image_16358d032c58d89e29921d742192a2d495c2b0b6bb990ff4953d9ce74cb32f13.jpg"
+        },
+        {
+          "url": "media/cached-image_ea0b63acd256b22f90debc39733a06eff33b34734a1efb8ed1a2e1ed05c0669aa.jpg"
+        },
+        {
+          "url": "media/cached-image_821ae47d6f35bc73d04364b5feb5660dc472a1a6109307ba76bcc5b28fa96788.jpg"
+        },
+        {
+          "url": "media/cached-image_0a9b685bb72a6a8e41bc5b36b581eef54e82b7655635335ec421dfabe04551ed.jpg"
+        },
+        {
+          "url": "media/cached-image_e6a1a9cfcc8b514aa144fcc88fe47b9daae2d6fd0b503786463ed9f6a2de03dc.jpg"
+        }
+      ],
+      "type": "小酒馆",
+      "categories": [
+        "小酒馆"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ｂ１Ｆ, 1 Chome-5-7 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/gbYuSTLQw1126dht9",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": null,
+      "fanTopPick": false
+    }
+  ]
+}

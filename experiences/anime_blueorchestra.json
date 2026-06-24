@@ -1,0 +1,1267 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Blue Orchestra",
+  "slug": "blue-orchestra",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_f7b39d29a54cb6cd25d531efa3281a101603742f854568a90e42a403fbf93b86.webp",
+  "image": "media/cached-image_f7b39d29a54cb6cd25d531efa3281a101603742f854568a90e42a403fbf93b86.webp",
+  "banner": null,
+  "primaryLocation": "Chiba, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.739099991428574,
+    "lng": 139.9933899742857
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Blue Orchestra"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJCap9nvyEGGARhW4zrJIW3Wk",
+      "name": "Shin Matsudo Ekimae Bridge",
+      "localName": "松戸駅",
+      "coordinates": {
+        "lat": 35.7843004,
+        "lng": 139.9006607
+      },
+      "image": null,
+      "images": [],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Matsudo Station, Matsudo, Chiba 271-0092, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9j1mi9P1hgPX2PwS8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The area around Matsudo Station appears in episode 6 as characters travel through this commuter hub, with the bridge near the station exit faithfully recreated in the background art to root the story in real Chiba geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY6-XkBiDImARnI3ss_blMZQ",
+      "name": "tagawa 和牛 SPECIALTY COFFEE SHOP",
+      "localName": "田川肉店",
+      "coordinates": {
+        "lat": 35.6549062,
+        "lng": 140.0575309
+      },
+      "image": null,
+      "images": [],
+      "type": "咖啡馆",
+      "categories": [
+        "咖啡馆"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒262-0032 Chiba, Hanamigawa Ward, Makuharicho, 5 Chome−417-250 tagawa 和牛 SPECIALTY COFFEE SHOP",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nEHYE75CqWWJABAT9",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW-WEBYp_GGARxEARRrWxsb0",
+      "name": "FamilyMart Tsudanuma Minamiguchi",
+      "localName": "ファミリーマート 津田沼南口店",
+      "coordinates": {
+        "lat": 35.6903109,
+        "lng": 140.018349
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b557d29-caab-47df-800a-9735b26792ce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b557d29-caab-47df-800a-9735b26792ce.webp"
+        },
+        {
+          "url": "media/cached-image_cefbcabb61a065c08d6527dff6a0e94afe369da139d80ee99bdb4534fdc0f901.jpg"
+        },
+        {
+          "url": "media/cached-image_664803668f700ca7c22a91b9895bdc16751d9653669cda33c08841f18e55d34c.jpg"
+        },
+        {
+          "url": "media/cached-image_2d2c5c6980d5ff8c471e119619920825f2e654539271c583e4d866ec444bc862.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Tsudanuma Minamiguchi, 7 Chome-7-9 Yatsu, Narashino, Chiba 275-0026, Japan",
+      "city": "Narashino",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7LZJwgmQLVmHQoG19",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "This Tsudanuma FamilyMart appears in episode 20 as a convenience store stop, a quiet scene reflecting the everyday routines that ground the characters between orchestra rehearsals and the pressures of competition season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs0znzCmbGGARglOYLwpYpSE",
+      "name": "Wisteria Shin-Matsudo",
+      "localName": "新松戸庭球場",
+      "coordinates": {
+        "lat": 35.818449799999996,
+        "lng": 139.896515
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c02f5e6-7b77-4bf1-9263-eae404dde43d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c02f5e6-7b77-4bf1-9263-eae404dde43d.webp"
+        },
+        {
+          "url": "media/cached-image_d50f852262db7056f7cdf7cf3d84dec07ba45d14b06082ad6dc45856f2f23ab0.jpg"
+        }
+      ],
+      "type": "Tennis court",
+      "categories": [
+        "Tennis court"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shinmatsudo Tennis Courts, 477-3 Monto Shinden, Matsudo, Chiba 271-0042, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Yh7UW12iBHb4mRxV7",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "The Shin-Matsudo tennis courts appear in episode 20 as a neighborhood location that the characters pass through or gather near, part of the slice-of-life fabric of the Matsudo residential area depicted in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx-hZ-QKSGGARLXjJGSPHXZk",
+      "name": "Koya Station",
+      "localName": "高野駅",
+      "coordinates": {
+        "lat": 35.7684126,
+        "lng": 139.7707005
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5578e9b8-1479-4210-87dc-84b9474cd798.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5578e9b8-1479-4210-87dc-84b9474cd798.webp"
+        },
+        {
+          "url": "media/cached-image_05dcf03dbc2e8b1460c3e47b02c34b595e70c4a5157bf48272aa61a5620ae9c4.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kōya Station, 2-chōme-44 Ōgi, Adachi City, Tokyo 123-0873, Japan",
+      "city": "Adachi City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5LHLEUo7q1tnMuxM8",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Koya Station appears in episode 18 as part of a journey sequence, its small-town station atmosphere matching the personal, introspective tone of the episode as Aono travels to a location tied to his past with his estranged father."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm7LKNsKbGGAR_vi7urvhEIs",
+      "name": "Pizza Hut Shinmatsudo",
+      "localName": "ピザハット 新松戸店",
+      "coordinates": {
+        "lat": 35.828993,
+        "lng": 139.92078999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c3c8b51-d5b6-47b3-8ad0-38ae1efe7e0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c3c8b51-d5b6-47b3-8ad0-38ae1efe7e0c.webp"
+        },
+        {
+          "url": "media/cached-image_76f87a2aee0e27a417273242e104065a6c1f917f298100b71484cf599860a336.jpg"
+        },
+        {
+          "url": "media/cached-image_076e98498406d7e096d431541d5d4899ea1f36dfd61bd81622c838834eae124f.jpg"
+        },
+        {
+          "url": "media/cached-image_42e7f18aa0c266a9cf225a7f1992c621671a28e87fb46d1b795a723717152f25.jpg"
+        },
+        {
+          "url": "media/cached-image_11752492c5e5cdcc6aeeebb5af7dd091daffa7eadb3f95a00d53600ee86fba29.jpg"
+        },
+        {
+          "url": "media/cached-image_23001bdc1aec31339416c1c8a52e7c158d6b0f9552437b68075718541f082034.jpg"
+        }
+      ],
+      "type": "Pizza delivery",
+      "categories": [
+        "Pizza delivery"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pizza Hut Shin Matsudo, グランドルチェ２ 1 Chome-396 Shinmatsudo, Matsudo, Chiba 270-0034, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Wb1RHDb9kf6R85ZVA",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "The Shin-Matsudo Pizza Hut is faithfully reproduced in episode 18 as a recognizable local landmark in Aono's neighborhood, one of many real Matsudo streetscapes used to anchor the story in an authentic suburban Tokyo setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_6",
+      "name": "Okuma 333 Parking Lot",
+      "localName": "大熊333駐車場",
+      "coordinates": {
+        "lat": 35.83266,
+        "lng": 139.92254
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90a04451-9d04-416e-badd-21bdb5ffbbbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90a04451-9d04-416e-badd-21bdb5ffbbbf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Lv7ff1YBFzfvJNtR6",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "This parking lot in the Shin-Matsudo area appears in episode 18 as a background location in the residential neighborhood where Aono lives, part of the show's meticulous recreation of real Matsudo streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_7",
+      "name": "Confectionery Hitotoki",
+      "localName": "菓子 ヒトトキ",
+      "coordinates": {
+        "lat": 35.85068,
+        "lng": 139.91829
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77825ac8-3a89-4a10-b0a7-30fc4d519fc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77825ac8-3a89-4a10-b0a7-30fc4d519fc4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/dKDjTtq3PHQx7owMA",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Confectionery Hitotoki appears in episode 18 as a local sweet shop in the Shin-Matsudo area, reflecting the anime's detailed use of real Matsudo storefronts to build the everyday world around Aono's home life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ74CMO7abGGARCALzHlPl18o",
+      "name": "Tokatsu Hospital",
+      "localName": "東葛病院",
+      "coordinates": {
+        "lat": 35.852913199999996,
+        "lng": 139.9158776
+      },
+      "image": "https://cdn.animepilgrimage.com/places/583bf8f6-6b54-470d-ab66-aa86249e3ce2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/583bf8f6-6b54-470d-ab66-aa86249e3ce2.webp"
+        },
+        {
+          "url": "media/cached-image_a6b95f1942f19dee5222879ecb3dcf1b9ef258d9d67a124b4174200ff91766da.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tōkatsu Hospital, 102-1 Naka, Nagareyama, 千葉県 Chiba 270-0153, Japan",
+      "city": "Nagareyama",
+      "region": "千葉県 Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/u3cTJM1SnUa38URj6",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Tokatsu Hospital in Nagareyama is depicted in episode 18 in a scene connected to an emotional moment involving a character's health or personal crisis, one of the more memorable location placements in the mid-series drama arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe4KOMS-CImARefA8k6NflAo",
+      "name": "Makuhari Sogo Koko (Bus)",
+      "localName": "幕張総合高校（バス）",
+      "coordinates": {
+        "lat": 35.6476889,
+        "lng": 140.0513551
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd7744da-ed02-4595-96e3-786edf78e277.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd7744da-ed02-4595-96e3-786edf78e277.webp"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.0778086,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Makuhari Sogo Koko, 3-chōme Wakaba, Mihama Ward, Chiba, 261-0014, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VmiH4TLjgE3xefAZA",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Makuhari Sogo Koko bus stop appears in episode 12, used by students commuting to and from the school that models Yoake High, making it a pilgrimage touchstone for fans who want to trace Aono and Ritsuka's daily school route.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5bKHN4GBImARZv_XuCR2oPg",
+      "name": "Makuhari Minamiguchi Acupuncture",
+      "localName": "幕張南口整骨院",
+      "coordinates": {
+        "lat": 35.657527,
+        "lng": 140.055341
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ada9393-e01d-4e60-ac25-345c515aa767.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ada9393-e01d-4e60-ac25-345c515aa767.webp"
+        },
+        {
+          "url": "media/cached-image_815a4fff26c615906043edeb7be03387b74b4602f98ce6380127c3dc3de8a345.jpg"
+        },
+        {
+          "url": "media/cached-image_bbbd24698d6b25356fcfff86ef9199cc9aa3c97bf9f46c512a7600c01838e310.jpg"
+        },
+        {
+          "url": "media/cached-image_57f1a29650abfcbf77d91591acdceb02c995d4414976377ee4e140ac270fe34f.jpg"
+        },
+        {
+          "url": "media/cached-image_2f2ac3ce9baae82db87a0f760982a0bda5271aa86f39cf2a3e9c9d4974b6ea4f.jpg"
+        }
+      ],
+      "type": "Bonesetting house",
+      "categories": [
+        "Bonesetting house"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Makuhariminamiguchi Acupuncture, 5 Chome-188-1 Makuharicho, Hanamigawa Ward, Chiba, 262-0032, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Dk6P2TRZinugP3n3A",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This building near Makuhari Station appears in episode 6 as a streetscape element in the Makuhari neighborhood, part of the anime's detailed background art replicating the area around the real-world model for Yoake High School."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDQCDj4GBImARUg0CYw_Jy-U",
+      "name": "Makuhari Station",
+      "localName": "幕張駅",
+      "coordinates": {
+        "lat": 35.6593754,
+        "lng": 140.0579636
+      },
+      "image": "https://cdn.animepilgrimage.com/places/68914eab-c752-4fff-a914-c10a7776b2ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/68914eab-c752-4fff-a914-c10a7776b2ef.webp"
+        },
+        {
+          "url": "media/cached-image_695c789ae78ccaca9cc6a07f7ddb5e539f74df170eee6def95dcf6e1d8c8c75f.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Makuhari Station, 5-chōme Makuharichō, Hanamigawa Ward, Chiba, 262-0032, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/WqeoBmDd4Sy4wLLp8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Makuhari Station is a central pilgrimage spot for Blue Orchestra fans, as it serves as the real-world model for the station Aono uses daily to commute to Yoake High School, appearing in episode 6 and throughout the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ_3-AQ6BImARifbmy3Rmv_I",
+      "name": "Makuharieki Dai 7 Bicycle Parking",
+      "localName": "幕張駅第７自転車駐車場",
+      "coordinates": {
+        "lat": 35.659113,
+        "lng": 140.05634569999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7097b934-f39f-40f6-9416-1846ceed0cc6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7097b934-f39f-40f6-9416-1846ceed0cc6.webp"
+        },
+        {
+          "url": "media/cached-image_65719cd823d60d9f5235ab2d22040b45786ab5249f118cdae9b2da52d133f59e.jpg"
+        }
+      ],
+      "type": "Bicycle rack",
+      "categories": [
+        "Bicycle rack"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Makuharieki Dai 7 Bicycle Parking, 5 Chome-485-5 Makuharicho, Hanamigawa Ward, Chiba, 262-0032, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/848EYLAg82fFPspj8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The bicycle parking area near Makuhari Station appears in episode 6 as part of the faithful recreation of the station's south exit surroundings, reflecting how closely the anime's background art mirrors the real Makuhari area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQSfpMiiCImARSgTZ3S8Kz74",
+      "name": "Chiba Prefectural University Of Health Sciences",
+      "localName": "千葉県立保健医療大学 幕張キャンパス",
+      "coordinates": {
+        "lat": 35.652112599999995,
+        "lng": 140.0513975
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4ff21e56-cd3b-4443-9288-305c2fca78c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4ff21e56-cd3b-4443-9288-305c2fca78c4.webp"
+        },
+        {
+          "url": "media/cached-image_220962f34eaa3f6e9b9c8d66d91075d2d831089cfc856cd8c46d22de21f4e213.jpg"
+        }
+      ],
+      "type": "Public university",
+      "categories": [
+        "Public university"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Chiba Prefectural University Of Health Sciences, 2 Chome-10-1 Wakaba, Mihama Ward, Chiba, 261-0014, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/AGszhGCZCWznh3XA7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Chiba Prefectural University of Health Sciences campus in Makuhari is used in episode 5 as visual reference for the grounds and walkways around Yoake High School, one of the key real-world models for the school setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrWbGSTGbImARBc_2J-jagrc",
+      "name": "Chiba Prefecture Cultural Hall",
+      "localName": "千葉県文化会館",
+      "coordinates": {
+        "lat": 35.603172,
+        "lng": 140.127095
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5edccf9d-bbca-45a6-a428-4d92cf469def.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5edccf9d-bbca-45a6-a428-4d92cf469def.webp"
+        },
+        {
+          "url": "media/cached-image_ab9f22d58c7a9c2746144ba8596b459a7561738622313eaad16a67789e54a71a.jpg"
+        },
+        {
+          "url": "media/cached-image_c7d9f33462f167442040fcfed8396ff88d6692d4a0e14c3c35a474af7e33079b.jpg"
+        },
+        {
+          "url": "media/cached-image_71409e29b529424873596b016e9da86e9a39ba740e4e7c1954fd45cda2b4ee72.jpg"
+        }
+      ],
+      "type": "Concert hall",
+      "categories": [
+        "Concert hall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "Chiba Prefecture Cultural Hall, 11-2 Ichibacho, Chuo Ward, Chiba, 260-8661, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RDqCS4VwSEf4h7sW6",
+      "episodeType": "EP",
+      "episodeNumber": 23,
+      "entityContext": "Chiba Prefecture Cultural Hall appears in episode 23 as the concert venue where the school orchestra performs in a major competition, making it one of the most emotionally significant pilgrimage locations tied to the anime's climactic arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF969Gv-EGGARUhxiEV_Fk6U",
+      "name": "Shin Matsudo Ekimae Bridge",
+      "localName": "旧徳川家松戸戸定邸",
+      "coordinates": {
+        "lat": 35.7776503,
+        "lng": 139.898927
+      },
+      "image": null,
+      "images": [],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tojo-tei House, 642番1 Matsudo, Chiba 271-0092, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ntqaYtxKFiGweJXbA",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "The historic Tojo-tei villa grounds in Matsudo (listed here under a mismatched name) appear in episode 18 as a scenic outdoor location tied to an introspective scene for Aono, its old-style Japanese architecture contrasting with the modern suburb around it."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2eBFEwCFGGARqbHsc2SFmW4",
+      "name": "Parking in Shin-Matsudo 2-chome",
+      "localName": "Parking in 新松戸２丁目",
+      "coordinates": {
+        "lat": 35.820687899999996,
+        "lng": 139.9192649
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81c7de12-f1f9-4499-91c0-904d3e28b342.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81c7de12-f1f9-4499-91c0-904d3e28b342.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒270-0034 Chiba, Matsudo, Shinmatsudo, 2 Chome−172 新松戸ニューハイツ第二 Parking in 新松戸２丁目",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KckoZJeebaniPNX37",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "This parking lot in Shin-Matsudo 2-chome appears in episode 18 as a neighborhood landmark in the residential streets where Aono lives, faithfully recreated from real Matsudo locations that define the show's suburban atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAWkvhbSEGGAR07m9eauDFh0",
+      "name": "Shimayadai Park",
+      "localName": "島谷台公園",
+      "coordinates": {
+        "lat": 35.819539299999995,
+        "lng": 139.9210092
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b738315e-d6aa-43ba-a577-935cf92fa45b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b738315e-d6aa-43ba-a577-935cf92fa45b.webp"
+        },
+        {
+          "url": "media/cached-image_2588be3e63314de92a7f7cb381791a0ebb3b85370bac476b1e9b52ece5b9998f.jpg"
+        },
+        {
+          "url": "media/cached-image_d1903abbd4741c6e91fb5f4b1564d0d612512bd9ed63712ef828931b77eee504.jpg"
+        },
+        {
+          "url": "media/cached-image_81a086859680929e25685f000397fe34198152add15e7e997a9c5e7e3b768318.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.4,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shimayadai Park, 1210 Mikoze, Matsudo, Chiba 270-0026, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ArQK4gg5PisbUsRh9",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Shimayadai Park in Matsudo appears in episode 18 as an outdoor setting where characters have a reflective conversation, its quiet residential park atmosphere matching the emotional register of scenes dealing with Aono's personal growth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiUOjhyCCImARw6fSeGNJMEY",
+      "name": "Kaihimmakuhari Sta.",
+      "localName": "海浜幕張駅",
+      "coordinates": {
+        "lat": 35.6499221,
+        "lng": 140.0414659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92781cbf-56b6-40a6-ae7f-0abed14e0751.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92781cbf-56b6-40a6-ae7f-0abed14e0751.webp"
+        },
+        {
+          "url": "media/cached-image_f0c378812f303eb340ab7eef05bda01d39d027c37823f63f344bb7f08f2c38c4.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2-chōme Hibino, Mihama Ward, Chiba, 261-0021, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6499221,140.0414659,2a,75y,302.15h,103.35t/data=!3m7!1e1!3m5!1szV815mUVJS0Y8H96cICk_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DzV815mUVJS0Y8H96cICk_w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D68.305855%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Kaihin-Makuhari Station appears in episode 7 as the gateway to the Makuhari Messe event grounds, used in a scene where characters attend or view a large-scale concert or event that inspires Aono's recommitment to violin."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+      "name": "Makuhari Messe",
+      "localName": "幕張メッセ",
+      "coordinates": {
+        "lat": 35.6476973,
+        "lng": 140.0355251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2c7443f9-a2fb-4fb5-a7a0-3f66d2828992.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2c7443f9-a2fb-4fb5-a7a0-3f66d2828992.webp"
+        },
+        {
+          "url": "media/cached-image_13804c76075cfd0978147763833ac1ef62fc6eb04ed429e4b6cd00a0c4ead876.jpg"
+        }
+      ],
+      "type": "イベント会場",
+      "categories": [
+        "イベント会場"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1 Nakase, Mihama Ward, Chiba, 261-8550, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6476973,140.0355251,2a,75y,219.07h,95.23t/data=!3m6!1e1!3m4!1szs_9oz8KnqCBoZ5B0ptmYw!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Makuhari Messe appears in episode 7 as the venue for a large professional concert that Aono and his classmates attend, a pivotal scene that reignites his passion for violin and sets the emotional direction of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_20",
+      "name": "White Hills",
+      "localName": "ホワイトヒルズ",
+      "coordinates": {
+        "lat": 35.82042,
+        "lng": 139.91902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c5f3818-ef4b-4f49-bb26-8571b6e67d6c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c5f3818-ef4b-4f49-bb26-8571b6e67d6c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/wCBouVbc3icsFyD76",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "White Hills is the apartment building where Hajime Aono lives, introduced in episode 2 when Ritsuka discovers where he moved after transferring schools, making it a key real-world location tied to Aono's new life in Matsudo.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_21",
+      "name": "Admiral No. 7",
+      "localName": "アドミナル７号",
+      "coordinates": {
+        "lat": 35.82035,
+        "lng": 139.91865
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92853ad3-ce3f-450e-afb0-e633b786b0aa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92853ad3-ce3f-450e-afb0-e633b786b0aa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Lu2vqVQhpyoBZkR69",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Admiral No. 7 is an apartment building neighboring White Hills in Shin-Matsudo, appearing in episode 2 as part of the residential streetscape surrounding Aono's home, used to accurately recreate the real neighborhood layout."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1PmTTebGGARxiwfKEPr5L4",
+      "name": "Shin-Matsudo Central Park",
+      "localName": "新松戸中央公園",
+      "coordinates": {
+        "lat": 35.8261033,
+        "lng": 139.9113286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b5026813-c959-4d12-8bab-19e917d2b389.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b5026813-c959-4d12-8bab-19e917d2b389.webp"
+        },
+        {
+          "url": "media/cached-image_048f63af9e86d52b701d9906875be8de5a982249820c4e9698ba4a8653cd1ab7.jpg"
+        },
+        {
+          "url": "media/cached-image_d47c73c7d4a0242470f70193de83da4397e1c009e378f77bdda68cd3424aa75b.jpg"
+        },
+        {
+          "url": "media/cached-image_da1354c73925478cff3d9c1de1111e8e60cf579c4752b1501ff3b7d1becca85a.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Shin-Matsudo Central Park, 6 Chome-２２-4-5 Shinmatsudo, Matsudo, Chiba 270-0034, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tmZDmwiaAbA2wvwL8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Shin-Matsudo Central Park appears in episode 2 in an early scene where Aono is seen in his new neighborhood, establishing his daily surroundings in Matsudo and serving as a backdrop for slice-of-life moments throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_23",
+      "name": "Tango Ferry Crossing Site",
+      "localName": "丹後の渡し跡",
+      "coordinates": {
+        "lat": 35.84863,
+        "lng": 139.89339
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7165ba1c-ce40-41f3-b499-fb523026b065.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7165ba1c-ce40-41f3-b499-fb523026b065.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/sje7SiY3qJVC7UVGA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Tango Ferry Crossing historical site along the Edo River appears in episode 2 as a scenic riverside location near Shin-Matsudo, used as a quiet outdoor setting where characters pause in contemplative scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_24",
+      "name": "Chiliéjo",
+      "localName": "チリエージョ",
+      "coordinates": {
+        "lat": 35.81955,
+        "lng": 139.91867
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7cf16c42-e54a-4943-b69d-e81630b2a306.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7cf16c42-e54a-4943-b69d-e81630b2a306.webp"
+        },
+        {
+          "url": "media/cached-image_72c8e89d90f6c6fbad063d4c9260343deea8fd47246e6826e59a3ec52b6ac781.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/SvS9Jn82c8BhcuQs8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chiliéjo is a small shop in the Shin-Matsudo area that appears in episode 3, part of the anime's detailed recreation of the local shopping district near White Hills where Aono and his mother settle after his transfer."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_25",
+      "name": "Chiliéjo",
+      "localName": "チリエージョ",
+      "coordinates": {
+        "lat": 35.81979,
+        "lng": 139.91854
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c1ae21d6-93f3-4906-b9a0-3ffe28a58653.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c1ae21d6-93f3-4906-b9a0-3ffe28a58653.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/woSuARnb9GpehcPG7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chiliéjo is a small shop in the Shin-Matsudo area that appears in episode 3, part of the anime's detailed recreation of the local shopping district near White Hills where Aono and his mother settle after his transfer."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi2YyfEmbGGART_6yrvMUly8",
+      "name": "Tokiwa Books Shin-Matsudo",
+      "localName": "ときわ書房 新松戸店",
+      "coordinates": {
+        "lat": 35.8254251,
+        "lng": 139.91917569999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c04db94b-d2a0-4aa3-90a6-bb2d64eb3d30.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c04db94b-d2a0-4aa3-90a6-bb2d64eb3d30.webp"
+        },
+        {
+          "url": "media/cached-image_db988348d751e464e12a1058d4a657e371b44e015b2c2f7d329980252b016a4a.jpg"
+        },
+        {
+          "url": "media/cached-image_16b2b6f1b1d934f5a6d5ea28d540f1df6ab98db017d2272f9a6fcede4bad322b.jpg"
+        }
+      ],
+      "type": "Book store",
+      "categories": [
+        "Book store"
+      ],
+      "rating": 3.8,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Tokiwa Books Shin-Matsudo, 4 Chome-１-1 Shinmatsudo, Matsudo, Chiba 270-0034, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/s9HZKLwP1fidUUPW7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Tokiwa Books in Shin-Matsudo appears in episode 3 as a local bookstore that Aono visits, one of several real Shin-Matsudo Chuo area shops faithfully depicted to reflect the everyday neighborhood life surrounding the protagonist."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd7KW8dSLImARFQzk8g8RPhk",
+      "name": "Manpuku-tei",
+      "localName": "鰻福亭",
+      "coordinates": {
+        "lat": 35.7831215,
+        "lng": 140.3162738
+      },
+      "image": "https://cdn.animepilgrimage.com/places/077518a6-ae30-440a-8307-51d464739403.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/077518a6-ae30-440a-8307-51d464739403.webp"
+        },
+        {
+          "url": "media/cached-image_222f70b3b91ab1216af137a476005512a1021fbcaeb817d292699b8f7d1d6920.jpg"
+        }
+      ],
+      "type": "Unagi restaurant",
+      "categories": [
+        "Unagi restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Manpuku-tei, 394 Nakamachi, Narita, Chiba 286-0027, Japan",
+      "city": "Narita",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dcbXGna18rQu4sTz7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Manpuku-tei, an eel restaurant in Narita, appears in episode 3 in a scene where Aono and a family member share a meal, a quiet emotional beat that hints at his family circumstances before the full backstory is revealed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtwx190ubGGARtK8tMFLh4YE",
+      "name": "Shim-Matsudo Station",
+      "localName": "新松戸駅",
+      "coordinates": {
+        "lat": 35.8256997,
+        "lng": 139.9207721
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab016a38-806a-4f0e-8945-fded2e63b355.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab016a38-806a-4f0e-8945-fded2e63b355.webp"
+        },
+        {
+          "url": "media/cached-image_7c0fecbcf620778f7a1aab2f69e472cf8a73b3b0c9e80dd9cba4549c377cdd57.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shim-Matsudo Station, Kōya, Matsudo, Chiba 270-0017, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bevq3EccZNSpP51v6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Shin-Matsudo Station is one of the most frequently appearing locations in Blue Orchestra, serving as Aono's home station that he uses in his daily commute, introduced prominently in episode 3 as he settles into Matsudo life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJud_1jgubGGARIGsqYosWSpE",
+      "name": "Mitsuinoripaku Shinmatsudo 4-chome Dai 3 Chushajo",
+      "localName": "三井のリパーク 新松戸４丁目第３ 駐車場",
+      "coordinates": {
+        "lat": 35.8269951,
+        "lng": 139.9177694
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b772bddc-796a-4e19-a58f-1d150f8e35ab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b772bddc-796a-4e19-a58f-1d150f8e35ab.webp"
+        },
+        {
+          "url": "media/cached-image_470cb426fe3a6f11b119acb302399dab40cb3aed883aa303033ae317299059a4.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "Mitsuinoripaku Shinmatsudo 4-chome Dai 3 Chushajo, 4 Chome-111 Shinmatsudo, Matsudo, Chiba 270-0034, Japan",
+      "city": "Matsudo",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5YsFdegQBq4eoazj6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Mitsui parking lot in Shin-Matsudo 4-chome appears in episode 3 as a background streetscape element in the neighborhood surrounding Shin-Matsudo Station, part of the anime's faithful mapping of the real local area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_30",
+      "name": "Eggs Country",
+      "localName": "エッグスカントリー",
+      "coordinates": {
+        "lat": 35.82678,
+        "lng": 139.91558
+      },
+      "image": "https://cdn.animepilgrimage.com/places/975fc534-4de0-4c94-9c2e-ab2d655d292b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/975fc534-4de0-4c94-9c2e-ab2d655d292b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/VcB2LUUjLpFSJr7e6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Eggs Country is a local shop in the Shin-Matsudo area appearing in episode 3, one of the real storefronts depicted in the commercial streets near Shin-Matsudo Station that populate Aono's new neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhS0jstd_GGARB0SD-Oq2doo",
+      "name": "Ito Gakki Meister Funabashi",
+      "localName": "伊藤楽器 弦楽器工房",
+      "coordinates": {
+        "lat": 35.6984691,
+        "lng": 139.9856893
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71355870-75ae-4890-8ce8-1a7775087a7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71355870-75ae-4890-8ce8-1a7775087a7d.webp"
+        },
+        {
+          "url": "media/cached-image_09e5dfeceb03daffc32f264557569aa29901d437eea177da41afdbc6c264f1b1.jpg"
+        }
+      ],
+      "type": "Musical instrument store",
+      "categories": [
+        "Musical instrument store"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒273-0005 Chiba, Funabashi, Honcho, 1 Chome−9−9 2階 伊藤楽器 弦楽器工房",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eHEaNbpkvGaKeApp6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Ito Gakki Meister in Funabashi is a real string instrument workshop that appears in episode 4 when Aono goes to have his violin serviced or repaired, a scene that underscores his complicated relationship with the instrument and his past.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhYBR1Qa4ImARRYuIYpRpHfY",
+      "name": "Yatsumi Station",
+      "localName": "八積駅",
+      "coordinates": {
+        "lat": 35.4040082,
+        "lng": 140.3453672
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7d75dae9-81ef-4920-944e-8a8d55964a2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7d75dae9-81ef-4920-944e-8a8d55964a2e.webp"
+        },
+        {
+          "url": "media/cached-image_6881c2b6a2e6fd45aec05f5b23c115825ed4ec2b0b7955f26710c9085f469a22.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yatsumi Station, Iwanuma, Chōsei, Chōsei District, Chiba 299-4336, Japan",
+      "city": "Chōsei",
+      "region": "Chōsei District, Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/vuK3d2QFjEguFpM4A",
+      "episodeType": "EP",
+      "episodeNumber": 19,
+      "entityContext": "Yatsumi Station, a small rural station in Chosei District, appears in episode 19 in a scene where a character travels to a remote part of Chiba, used to convey a sense of distance and isolation tied to a personal revelation or visit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO__UcmfIImARd6zn7T4MEAk",
+      "name": "Ryugudaitsukiyama Park",
+      "localName": "竜宮台築山公園",
+      "coordinates": {
+        "lat": 35.3960558,
+        "lng": 140.3822693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3129a7e6-f0ae-47c2-9995-1d5ecf528db6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3129a7e6-f0ae-47c2-9995-1d5ecf528db6.webp"
+        },
+        {
+          "url": "media/cached-image_fe42f60187ee2ebb29a828bb63cd0c33861fb9fe4405c5eb9e0f49d7cad89b63.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ryugudaitsukiyama Park, Hei-2101-2 Hitotsumatsu, Chōsei, Chōsei District, Chiba 299-4325, Japan",
+      "city": "Chōsei",
+      "region": "Chōsei District, Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/q3nF3EnS9Bdy9mki9",
+      "episodeType": "EP",
+      "episodeNumber": 19,
+      "entityContext": "Ryugudaitsukiyama Park in rural Chosei District appears in episode 19 as a quiet outdoor location connected to a personal backstory scene, its remote and scenic setting contrasting with the urban Matsudo environment of the main cast."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_blue-orchestra_34",
+      "name": "Advanced Polytechnic Center",
+      "localName": "高度ポリテクセンター",
+      "coordinates": {
+        "lat": 35.65099,
+        "lng": 140.04921
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98e6cd25-d2a3-4e6b-aaa0-69d773c3d3c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98e6cd25-d2a3-4e6b-aaa0-69d773c3d3c2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/uWfYs4tQzXMA26RZ9",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "The Advanced Polytechnic Center building in the Makuhari area appears in episode 20 as a background architectural element, part of the Makuhari district streetscape that the anime uses to depict the area surrounding Yoake High School."
+    }
+  ]
+}

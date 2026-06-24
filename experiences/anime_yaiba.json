@@ -1,0 +1,2007 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "YAIBA: Samurai Legend",
+  "slug": "yaiba",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_e99886f75a907cc7d0922babf6da1358bc8700dd3a40b8c5b5c8f65a1aca9e9b.webp",
+  "image": "media/cached-image_e99886f75a907cc7d0922babf6da1358bc8700dd3a40b8c5b5c8f65a1aca9e9b.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.60706739387755,
+    "lng": 137.33614491020407
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "YAIBA: Samurai Legend"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49639138-ce46-4cb6-85c4-1deb422981f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49639138-ce46-4cb6-85c4-1deb422981f3.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This exit appears in the opening sequence of YAIBA: Samurai Legend, establishing the modern Tokyo backdrop where protagonist Yaiba Kurogane navigates city life alongside his samurai heritage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj23HfgTjGmARkNW10PcocjU",
+      "name": "Kaijo Shrine",
+      "localName": "海上神社",
+      "coordinates": {
+        "lat": 35.10253,
+        "lng": 139.82817
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bacc97a8-4b8d-4716-bf1d-37dccbb162fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bacc97a8-4b8d-4716-bf1d-37dccbb162fb.webp"
+        },
+        {
+          "url": "media/cached-image_e358b95c83b7e7259ac0364e56de6bd6eaf35e023ac5dc69a34b3e484380a12a.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.6,
+      "reviewCount": 35534,
+      "priceLevel": null,
+      "address": "1-1 Miyajimacho, Hatsukaichi, Hiroshima 739-0588, Japan",
+      "city": "Hatsukaichi",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1025428,139.8281857,3a,90y,212.34h,98.56t/data=!3m7!1e1!3m5!1sCZL-15LVcZSnckDulHQdRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.55758232047171%26panoid%3DCZL-15LVcZSnckDulHQdRw%26yaw%3D212.33553128689036!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Featured in episode 13 as a location tied to one of the pilgrimage sites Yaiba and company visit during their journey across Japan, reflecting the series' blend of Shinto tradition and sword-fighting adventure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6rfItiOGGAR0QppNpC4cHE",
+      "name": "Toyorandori Mukojimaten",
+      "localName": "東洋ランドリー 向島店",
+      "coordinates": {
+        "lat": 35.7142163,
+        "lng": 139.8123583
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c91ae555-7217-4dc1-98c0-af7bc0afab2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c91ae555-7217-4dc1-98c0-af7bc0afab2a.webp"
+        },
+        {
+          "url": "media/cached-image_9e9e78dc37e677efa818bac97efd68fceed9dcefc4bc8bc9d530724a5660f0ba.jpg"
+        },
+        {
+          "url": "media/cached-image_2418ac74ab6b71893da497363e92e6f80e400f48ddc6ed47fd1aa27da09726fd.jpg"
+        },
+        {
+          "url": "media/cached-image_50d7faf268f13b1d02ade0f3b5363e85ffaec82918c17baa8c56f41e9f3c3907.jpg"
+        },
+        {
+          "url": "media/cached-image_0b22283c6ffdf2d3bfc8d8c393cd647ea570f33243b5380cf9b4c8934be3fefa.jpg"
+        }
+      ],
+      "type": "Dry cleaner",
+      "categories": [
+        "Dry cleaner"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toyorandori Mukojimaten, 4 Chome-27-6 Mukojima, Sumida City, Tokyo 131-0033, Japan",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7141399,139.8122845,3a,49.6y,195.46h,95.21t/data=!3m7!1e1!3m5!1serXvPSDrLoEAeX-zwQT04A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.20939282380067%26panoid%3DerXvPSDrLoEAeX-zwQT04A%26yaw%3D195.45571427144486!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This Sumida laundromat appears in the ending credits sequence, grounding the story in the everyday Shitamachi streetscapes of Tokyo where Yaiba's home base is set."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj6FN5UOJGGARHI90_YcaxM0",
+      "name": "Sumidagawa-Ohashi Bridge",
+      "localName": "隅田川大橋",
+      "coordinates": {
+        "lat": 35.6788903,
+        "lng": 139.78916189999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d673fba-da22-4e50-85d1-666a1316d235.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d673fba-da22-4e50-85d1-666a1316d235.webp"
+        },
+        {
+          "url": "media/cached-image_46f5986b57dc7cb1e970fbd99935bbb2363f75b011b8117af009d069c4f20b29.jpg"
+        },
+        {
+          "url": "media/cached-image_434f13c1201694ed308ee5e5198952448ba76f8fd4056d8a05778927be4e2481.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sumidagawa-Ohashi Bridge, 19 Nihonbashihakozakicho, Chuo City, Tokyo 103-0015, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.679179,139.7897904,2a,73.9y,171.7h,94.78t/data=!3m7!1e1!3m5!1swf84ZZHYGBvzJwbLBiuTlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.7797604630729325%26panoid%3Dwf84ZZHYGBvzJwbLBiuTlQ%26yaw%3D171.69628510700397!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The bridge over the Sumida River is featured in the ending credits, evoking the Shitamachi Tokyo atmosphere that frames Yaiba's quieter moments between battles."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh_p-z9F1VjURV6EzshfC7xw",
+      "name": "Great Conan Bridge",
+      "localName": "コナン大橋",
+      "coordinates": {
+        "lat": 35.4921924,
+        "lng": 133.7591551
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c86ef911-63d0-4c01-a0ea-0262038c7ccb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c86ef911-63d0-4c01-a0ea-0262038c7ccb.webp"
+        },
+        {
+          "url": "media/cached-image_80625b5031e6dba5636ff811e51c2317d955a5d8887eea8cb9c0a2b164133f0a.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Great Conan Bridge, Hokuei, Tōhaku District, Tottori 689-2221, Japan",
+      "city": "Hokuei",
+      "region": "Tōhaku District, Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4922619,133.7591891,3a,90y,120.91h,97.19t/data=!3m7!1e1!3m5!1swQ3-F-WZjNALF7oSYf0p3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.1895992262411%26panoid%3DwQ3-F-WZjNALF7oSYf0p3g%26yaw%3D120.90730029151942!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This bridge in Hokuei, Tottori, the hometown of creator Gosho Aoyama, is included in the opening sequence as a nod to the author's roots, making it a must-visit for fans of Aoyama's work including both YAIBA and Detective Conan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC6fjlY3mAGARSshZ6CLIrhs",
+      "name": "Osaka Station",
+      "localName": "大阪駅",
+      "coordinates": {
+        "lat": 34.7024854,
+        "lng": 135.4959506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9fa54073-aac9-4940-a397-7c7d4e41343f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9fa54073-aac9-4940-a397-7c7d4e41343f.webp"
+        },
+        {
+          "url": "media/cached-image_eeadf08811ad608930027f08e038a13b651b745a5caa48ceca258c2cdc8c75f3.jpg"
+        },
+        {
+          "url": "media/cached-image_669adb3fe470a7a738f5628bf587023b36d69f46ff2dfe6b0cbc559a9ff2ab8e.jpg"
+        },
+        {
+          "url": "media/cached-image_b281d3919874e4a8cfbe13c5c4f8d99da1bbe0f5d2c24bae995a3a6afebfb6e6.jpg"
+        },
+        {
+          "url": "media/cached-image_80a7647d825e14556d9d4e99d04cfb157921552c75de9483b4cd70d1b9456145.jpg"
+        },
+        {
+          "url": "media/cached-image_d40c64806f609ddc6ecd4daed15b17a8a762dec67a67c20cdbb0e967618a473a.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 18285,
+      "priceLevel": null,
+      "address": "Osaka Station, 3 Chome-1-1 Umeda, Kita Ward, Osaka, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7029155,135.4977121,3a,90y,241.67h,94.45t/data=!3m7!1e1!3m5!1syC9bynDXq47Gs3fES28-XQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.448976818232708%26panoid%3DyC9bynDXq47Gs3fES28-XQ%26yaw%3D241.6728639354222!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "Osaka Station serves as the arrival point in episode 16 when Yaiba and his companions travel to Osaka, kicking off the Kansai chapter of their nationwide journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
+      "name": "Osaka Castle",
+      "localName": "大阪城",
+      "coordinates": {
+        "lat": 34.6872571,
+        "lng": 135.5258546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ab1c00c-a95b-483e-b16d-6762f0d3130c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ab1c00c-a95b-483e-b16d-6762f0d3130c.webp"
+        },
+        {
+          "url": "media/cached-image_b477095b2654e3257c2f92293fdf4044861a6dfb32c6c704940f2e903997015a.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osaka Castle, 1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bH1q7FnDQSKG2o4M7",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "Osaka Castle appears prominently in episode 16 as a dramatic backdrop during the Osaka arc, fitting the series' theme of samurai history colliding with modern Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ4oTScOOGGAR16BfN7ADXMk",
+      "name": "Sumida Park",
+      "localName": "台東区立隅田公園",
+      "coordinates": {
+        "lat": 35.7137617,
+        "lng": 139.80145059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd0e71d2-71da-4027-a3dd-3db4537fad54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd0e71d2-71da-4027-a3dd-3db4537fad54.webp"
+        },
+        {
+          "url": "media/cached-image_067ab422c341e3c241b03af58709509a004bdc3899d91bbb10e008164748e95d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sumida Park, 1 Chome-1 Hanakawado, Taito City, Tokyo 111-0033, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7153307,139.8031601,3a,90y,124.24h,94.88t/data=!3m8!1e1!3m6!1sAF1QipMZFZDwVJhVQUfR-NN69KFe24twuvNffwFEGH0i!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZFZDwVJhVQUfR-NN69KFe24twuvNffwFEGH0i%3Dw900-h600-k-no-pi-4.882438589271402-ya124.24123905409063-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Sumida Park along the Sumida River appears in the ending credits sequence, representing the Asakusa neighborhood that serves as the central setting for Yaiba's Tokyo adventures."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0YwG28aOGGARvRKAXIBWqNk",
+      "name": "Kaminarimon",
+      "localName": "雷門",
+      "coordinates": {
+        "lat": 35.7110262,
+        "lng": 139.7962413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c6015654-771e-4ed3-8ca7-8dfe29c1f255.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c6015654-771e-4ed3-8ca7-8dfe29c1f255.webp"
+        },
+        {
+          "url": "media/cached-image_e8e802bb3859295b3496d28d331d24c32177e6fa3d39ab1e77ba1602f09d52ee.jpg"
+        },
+        {
+          "url": "media/cached-image_60ae4ca225e3429af5502eb5c41432e40845bc46c07a0c06d87f48e9c7473cdf.jpg"
+        },
+        {
+          "url": "media/cached-image_d1c670fcae51fa0fb427e1cb229710622b48126ea4c530ff9e0c8636b6fb0247.jpg"
+        },
+        {
+          "url": "media/cached-image_783af5ea403a38ecf422c7dc2c1df96f9f9da0ee7d9c30d69232cf69458ae23a.jpg"
+        },
+        {
+          "url": "media/cached-image_47be5716cf0539288e783b8bfc8b77eec69dfd551c91ce261c20e71d79d6d21b.jpg"
+        },
+        {
+          "url": "media/cached-image_c93b62bb2d7a70bd25dfaaa8263f95ce1f547cf1279a73312d62e880ba1b5768.jpg"
+        },
+        {
+          "url": "media/cached-image_49c66ff8de72ec91f6711285ab0e3dfcff65d6a42490906092e84704663bbd93.jpg"
+        },
+        {
+          "url": "media/cached-image_657c421be9963a9d3504b82a815da2e5b6ef851b9bde0561aaf42842ad4732e4.jpg"
+        },
+        {
+          "url": "media/cached-image_8d2d8f542782a20c9430b47304fb0d6bdf415db757a160323196a679f983826c.jpg"
+        },
+        {
+          "url": "media/cached-image_0191222ef0c59897e686a742adf585c67f8a9767dcca3bff0686b2408391fbde.jpg"
+        },
+        {
+          "url": "media/cached-image_04b319e1657266ccc0e7f19186c2c691b26101be41b9ca253399667cf0522b16.jpg"
+        },
+        {
+          "url": "media/cached-image_8fc98828a6d8c801b62338c48c4b4335b10fa5966e6cc26952610b79fafa3c20.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 37019,
+      "priceLevel": null,
+      "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7110262,139.7962413,3a,90y,5.94h,93.79t/data=!3m6!1e1!3m4!1s15QA6e0u2NEO_WLYiNNFbg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Kaminarimon, the iconic Thunder Gate of Senso-ji in Asakusa, appears in the opening credits as one of the defining visual landmarks of the series, anchoring YAIBA's home territory in Tokyo's historic Shitamachi district.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6p-3DRnGWARwZLy1PG7b54",
+      "name": "Hotel de Machi",
+      "localName": "街のホテル",
+      "coordinates": {
+        "lat": 35.491279999999996,
+        "lng": 138.8004743
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0f87f41-74cf-484a-92f3-cf6da2063cc3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0f87f41-74cf-484a-92f3-cf6da2063cc3.webp"
+        },
+        {
+          "url": "media/cached-image_5025ca2c6ad5b67e099edc6fccf3d7ddc5129611e2ed1130b1a0edff7e662381.jpg"
+        },
+        {
+          "url": "media/cached-image_654dd2c733f3b0f19a589e1bbf6b518e2f249ab320ba1785c234e26aa3feec91.jpg"
+        },
+        {
+          "url": "media/cached-image_49c5e9182afb4c63cab9e93559770b52b4a3ff637ce969cf1eb6905046e8b8b6.jpg"
+        },
+        {
+          "url": "media/cached-image_69741a19e9aa78d4067b21221de62fcd992291266ac840bcb149444c631b60f7.jpg"
+        },
+        {
+          "url": "media/cached-image_3f3741a814223464958cea0d11e98a888be7f9ab5c70de47dd63bab64423ab6b.jpg"
+        }
+      ],
+      "type": "Inn",
+      "categories": [
+        "Inn"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel de Machi, 3 Chome-21-44 Shimoyoshida, Fujiyoshida, Yamanashi 403-0004, Japan",
+      "city": "Fujiyoshida",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4912391,138.8003739,3a,85.9y,90.99h,96.73t/data=!3m7!1e1!3m5!1sf1AmfenEoi23HuaW-5tyJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.727602305942398%26panoid%3Df1AmfenEoi23HuaW-5tyJQ%26yaw%3D90.99482343921456!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "This Fujiyoshida inn appears in episode 21 as the lodging where Yaiba's group stays during their visit to the Fuji Five Lakes area, with Mount Fuji framing the scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7zjmOCxnGWARz9gqfhi10HM",
+      "name": "リーベン古奈家",
+      "localName": "リーベン古奈家",
+      "coordinates": {
+        "lat": 35.483011,
+        "lng": 138.803405
+      },
+      "image": "https://cdn.animepilgrimage.com/places/15895fb8-67a1-4638-886e-d4f990de2e98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/15895fb8-67a1-4638-886e-d4f990de2e98.webp"
+        },
+        {
+          "url": "media/cached-image_49c5e9182afb4c63cab9e93559770b52b4a3ff637ce969cf1eb6905046e8b8b6.jpg"
+        },
+        {
+          "url": "media/cached-image_3f3741a814223464958cea0d11e98a888be7f9ab5c70de47dd63bab64423ab6b.jpg"
+        },
+        {
+          "url": "media/cached-image_c1dd3c99ac8e86a763415a4b4eea6af822a757a512c3b72747663ddf163a36b5.jpg"
+        },
+        {
+          "url": "media/cached-image_3fe21a2271959546cd0d6ffdc168dd47ce98e79318ad87537b9c8c0548e53086.jpg"
+        }
+      ],
+      "type": "ホテル",
+      "categories": [
+        "ホテル"
+      ],
+      "rating": 4.5,
+      "reviewCount": 194,
+      "priceLevel": null,
+      "address": "Japan, 〒403-0007 Yamanashi, Fujiyoshida, Nakazone, 2 Chome−11−39 リーベン古奈家",
+      "city": "Fujiyoshida",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4829187,138.8035103,3a,90y,349.55h,90.92t/data=!3m7!1e1!3m5!1sRWo-Re86CNPVBLZBiicB8A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9190033829659399%26panoid%3DRWo-Re86CNPVBLZBiicB8A%26yaw%3D349.5460747919597!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "This ryokan in Fujiyoshida appears in episode 21 alongside Hotel de Machi as part of the Mt. Fuji region episode where Yaiba's party rests between battles."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzcxipgYpC18RP-3p2HCY5zE",
+      "name": "Sosei Bridge",
+      "localName": "創成橋",
+      "coordinates": {
+        "lat": 43.059671099999996,
+        "lng": 141.3574576
+      },
+      "image": "https://cdn.animepilgrimage.com/places/540f1abb-8d73-4c81-b101-51387c6bd56c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/540f1abb-8d73-4c81-b101-51387c6bd56c.webp"
+        },
+        {
+          "url": "media/cached-image_ec106dd13f1c4430af94131cad8c1f978e797e958bf396910eabfeeac6a6ce8a.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sosei Bridge, 南１条西 １丁目 1 Chome Minami 2 Johigashi, Chuo Ward, Sapporo, Hokkaido 060-0052, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@43.0597678,141.3577458,3a,54.2y,270.46h,100.37t/data=!3m7!1e1!3m5!1sIcRjgn_OGN9Dvb1cNsH2ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.371441777045604%26panoid%3DIcRjgn_OGN9Dvb1cNsH2ug%26yaw%3D270.4564659702569!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 19,
+      "entityContext": "Sosei Bridge in Sapporo's Chuo Ward appears in episode 19 during Yaiba's Hokkaido arc, with the historic stone bridge providing a moody atmosphere for the northern chapter."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbx8cHUSPVTURazEAdQKsetg",
+      "name": "Tottori Sand Dunes",
+      "localName": "鳥取砂丘",
+      "coordinates": {
+        "lat": 35.5429367,
+        "lng": 134.2355033
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c92ec70f-a63f-4f75-8b81-fa3ca342c075.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c92ec70f-a63f-4f75-8b81-fa3ca342c075.webp"
+        },
+        {
+          "url": "media/cached-image_b0b543f43c68f4924884514e2927988f9ddf117c520437a0a4ce9e3349fcba4c.jpg"
+        },
+        {
+          "url": "media/cached-image_eb246c0fdff02418e0fedd32b246bf71549c3556289f5a1826921e41cc270ac9.jpg"
+        },
+        {
+          "url": "media/cached-image_6d88a42c5023f872335df98893d8f71c9a55b230ff1d32a79b28fc2e91f87e06.jpg"
+        },
+        {
+          "url": "media/cached-image_1c6c8f5cb05f7b80efa133841127e3daec2123d0144d4cb255c686a9234afcf6.jpg"
+        },
+        {
+          "url": "media/cached-image_8345a71ff15815b0fd02dc9857cddde9ca4b7719115d873ab7deaf4fc8a7df4d.jpg"
+        },
+        {
+          "url": "media/cached-image_376c8cb2df7f798fc90c1396a9da65c6d8d977a60016f3fce0b7c247b9109983.jpg"
+        }
+      ],
+      "type": "国立保護区",
+      "categories": [
+        "国立保護区"
+      ],
+      "rating": 4.4,
+      "reviewCount": 2147,
+      "priceLevel": null,
+      "address": "2164-971 Fukubecho Yuyama, Tottori, 689-0105, Japan",
+      "city": "Tottori",
+      "region": "Tottori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5429367,134.2355033,3a,90y,0.35h,103.58t/data=!3m8!1e1!3m6!1sAF1QipPJPHR-SrLKUGPitGkMZZzV09-uledCMv9RoCbQ!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPJPHR-SrLKUGPitGkMZZzV09-uledCMv9RoCbQ%3Dw203-h100-k-no-pi-3.7275093-ya57.46284-ro0.825362-fo100!7i5376!8i2688?entry=ttu",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Tottori Sand Dunes appear in the opening sequence, representing the hometown prefecture of creator Gosho Aoyama and serving as one of the series' most visually striking natural backdrops.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3XYIepA5AWARjzzVnT-skPg",
+      "name": "Todai-ji",
+      "localName": "東大寺",
+      "coordinates": {
+        "lat": 34.6874195,
+        "lng": 135.8398691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1e4d91e-cfcc-497d-833b-d2e44c3a342a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1e4d91e-cfcc-497d-833b-d2e44c3a342a.webp"
+        },
+        {
+          "url": "media/cached-image_9bfcb2bf134a30fbbd6a588f9756099f227ab538efef54b38e21fc8ce073ced5.jpg"
+        },
+        {
+          "url": "media/cached-image_f77a756dc1fd49ac8927a31d9949052f321b180203df4c39e196ad04d36b3d14.jpg"
+        },
+        {
+          "url": "media/cached-image_a173ef64813d1573844cff631d37ccb064df404554a8808bf9e93e3da3ff141f.jpg"
+        },
+        {
+          "url": "media/cached-image_e5f00da4833b91ee5009045699944411a3c4972c453e5552789d53c024a6dfbd.jpg"
+        },
+        {
+          "url": "media/cached-image_9e4463682b8b01a2cf4b2f6e8347c2606680d9142189ce5065c560b55f301ea5.jpg"
+        },
+        {
+          "url": "media/cached-image_7cb2689dee9eba6df22cad93ed7279c34185c386cdc16a19f23e85bb963859d0.jpg"
+        },
+        {
+          "url": "media/cached-image_6c0eb4f25cb3ddaf408a1b0e898226349325c82ee98cbf2fed5ce44f1824f966.jpg"
+        },
+        {
+          "url": "media/cached-image_54c05e01f02f156507c4bd41cfe1f50290408b4132958081cf61d501d1562cd7.jpg"
+        },
+        {
+          "url": "media/cached-image_99a2d270b3248f66694ed35f9dfb934ae858b01bc1efc341716e0f2af43b0a31.jpg"
+        },
+        {
+          "url": "media/cached-image_4461614f44c90f74093dc6f4483116e14519da8e46010a2b5314444c33454e58.jpg"
+        },
+        {
+          "url": "media/cached-image_c1dffe546c6eaa0a765d02d2d812f7c9744664bc9c940b234e0705619eea4397.jpg"
+        },
+        {
+          "url": "media/cached-image_bce1e2195fe4bd1ad164c2a67f294f7cf987c022dbfe640177e9d6b9207edaa7.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.7,
+      "reviewCount": 30407,
+      "priceLevel": null,
+      "address": "406-1 Zoshicho, Nara, 630-8587",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6874195,135.8398691,3a,75y,5.78h,98.25t/data=!3m8!1e1!3m6!1sAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p%3Dw203-h100-k-no-pi-0-ya283.7386-ro0-fo100!7i6528!8i3264?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Todai-ji temple in Nara appears in episode 13, where Yaiba's party encounters this grand Buddhist landmark during their cross-Japan journey, underscoring the series' connection to Japan's historical heritage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhyd2jeKGHWARLg80YfuZ-vQ",
+      "name": "Zenkōji temple",
+      "localName": "善光寺",
+      "coordinates": {
+        "lat": 36.6615752,
+        "lng": 138.18770279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9d9448b6-5bee-4fe9-aeb1-da347441f47d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9d9448b6-5bee-4fe9-aeb1-da347441f47d.webp"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 25919,
+      "priceLevel": null,
+      "address": "Zenkōji temple, イ Motoyoshicho Nagano, 380-0851, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6621082,138.1877171,3a,90y,182.19h,104.06t/data=!3m7!1e1!3m5!1sUt3A_vIXEYBPdvOIcfDdsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.062093189831813%26panoid%3DUt3A_vIXEYBPdvOIcfDdsw%26yaw%3D182.18595276251295!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Zenkoji temple in Nagano appears in episode 18 as a spiritual waypoint during Yaiba's journey through central Japan, tying into the series' recurring theme of samurai honor and Buddhist tradition."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa5EPALWFHWARKN2JkO5iGiM",
+      "name": "Kawanakajima Old Battlefield Heritage Park",
+      "localName": "川中島古戦場史跡公園",
+      "coordinates": {
+        "lat": 36.5905348,
+        "lng": 138.1877907
+      },
+      "image": "https://cdn.animepilgrimage.com/places/68fb922f-760a-4509-af8c-3254e6864ad1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/68fb922f-760a-4509-af8c-3254e6864ad1.webp"
+        },
+        {
+          "url": "media/cached-image_66c42094327313960d197ce77650a40b13e412023f9fca65417b642b09d8f49d.jpg"
+        },
+        {
+          "url": "media/cached-image_33804dc5be97b454aeb0f032a2ff0bf01c50ef965b7b5a92b5ce824b4b544318.jpg"
+        },
+        {
+          "url": "media/cached-image_a8b5ade00a9c7268b5f36809a38a1a6a4c114423e60a3b7f9b1c32ad78ee20c3.jpg"
+        },
+        {
+          "url": "media/cached-image_161d221cb6da5458a268f61b0bd8626bf8407d26645bd0252ad1e4d830bb14d3.jpg"
+        },
+        {
+          "url": "media/cached-image_81876acfed2f3beb8a6fa2f02e62fadaa99ec01dca4858bc1b9bf30a145a1fbd.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 4,
+      "reviewCount": 2984,
+      "priceLevel": null,
+      "address": "Kawanakajima Old Battlefield Heritage Park, Oshimadamachi, Nagano, 381-2212, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5894839,138.1874121,3a,90y,208.43h,93.94t/data=!3m7!1e1!3m5!1sXHYpV9dhFgyj3oYNfGM-Cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9367146970891014%26panoid%3DXHYpV9dhFgyj3oYNfGM-Cw%26yaw%3D208.4275017914985!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "This historic battlefield in Nagano, site of the famous 16th-century clashes between Shingen Takeda and Kenshin Uesugi, appears in episode 18 and resonates strongly with YAIBA's reverence for samurai battle legends.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNTMZGNuOGGARW_xdXGmgDkg",
+      "name": "Sumida Park Fishing Pond",
+      "localName": "墨田区立隅田公園 魚つり場",
+      "coordinates": {
+        "lat": 35.71374,
+        "lng": 139.80494
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d8f630b-e8f1-4b4d-a397-05bed48ea391.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d8f630b-e8f1-4b4d-a397-05bed48ea391.webp"
+        },
+        {
+          "url": "media/cached-image_0c30829297c3a57a67627e248f4873f9b0a2e1460ad81d11fd02beff58d9009c.jpg"
+        }
+      ],
+      "type": "釣り堀",
+      "categories": [
+        "釣り堀"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1-1 Mukojima, Sumida City, Tokyo 131-0033, Japan",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7138013,139.8048798,3a,90y,130.56h,96.08t/data=!3m7!1e1!3m5!1sTYAwSdswsZZkR0MOU5pHhA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.0820063176666395%26panoid%3DTYAwSdswsZZkR0MOU5pHhA%26yaw%3D130.56309730552505!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The fishing pond in Sumida Park near Asakusa appears in the ending credits, part of the nostalgic Shitamachi Tokyo imagery that bookends each episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn1cKutu6AmARJa9jdUnCmtI",
+      "name": "Funasaka Sake Brewery",
+      "localName": "舩坂酒造店",
+      "coordinates": {
+        "lat": 36.140741,
+        "lng": 137.2597061
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5235b6a0-52ac-4878-9038-f73a744321c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5235b6a0-52ac-4878-9038-f73a744321c9.webp"
+        }
+      ],
+      "type": "Sake brewery",
+      "categories": [
+        "Sake brewery"
+      ],
+      "rating": 4.4,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "Funasaka Sake Brewery, 105 Kamisannomachi, Takayama, Gifu 506-0846",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.1407476,137.2596152,3a,43.4y,175.12h,92.08t/data=!3m7!1e1!3m5!1sT2r5scsnfnTHZV4pdqvBxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0797315430298937%26panoid%3DT2r5scsnfnTHZV4pdqvBxg%26yaw%3D175.12247885292717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "This historic sake brewery in Takayama's Sanmachi Suji old-town street appears in episode 17, where Yaiba's group explores the preserved Edo-period townscape of Hida Takayama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQzRXCi7AmARWccmYfpezQQ",
+      "name": "Takayama Station",
+      "localName": "高山駅",
+      "coordinates": {
+        "lat": 36.1410762,
+        "lng": 137.2513645
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1ed64967-552f-46d0-9d39-d7b73317bd98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1ed64967-552f-46d0-9d39-d7b73317bd98.webp"
+        },
+        {
+          "url": "media/cached-image_4994fcc78ebb0eb7be068060d1cd6223073764dd17ddb61e74a2899f73662d54.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takayama Station, 1 Chome-22-2 Showamachi, 高山市 岐阜県 506-0053, Japan",
+      "city": "高山市",
+      "region": "岐阜県",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.1412807,137.251988,3a,90y,264.1h,100.71t/data=!3m7!1e1!3m5!1srnIjTGH0M1FhzpLmTrj6tg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.708955986013706%26panoid%3DrnIjTGH0M1FhzpLmTrj6tg%26yaw%3D264.0996208557411!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "Takayama Station serves as the entry point to the Hida Takayama arc in episode 17, where Yaiba arrives by train to this mountain town known for its well-preserved samurai-era streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqZufmpA5AWARnRj5FbTUWVE",
+      "name": "Todai-ji Itsukushima Jinja",
+      "localName": "厳島神社",
+      "coordinates": {
+        "lat": 34.6872532,
+        "lng": 135.84051019999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d7ce0f3f-e339-4981-8ae7-f3e47f64f519.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d7ce0f3f-e339-4981-8ae7-f3e47f64f519.webp"
+        },
+        {
+          "url": "media/cached-image_ad3d7669d0532f981f41fa804e979b84d62aef971729ba81a4fe9e01779d4cab.jpg"
+        },
+        {
+          "url": "media/cached-image_7234784d557949b50f019ddadb5038004d04c977f92ebe21fcf65214ed63e57a.jpg"
+        },
+        {
+          "url": "media/cached-image_f3da4fe08f7c2b53c86660a9d42fcba0e1b47691d2970b4cdd99d735a9a443f0.jpg"
+        },
+        {
+          "url": "media/cached-image_622b7560635f0ff96e73a3f80000a8f615419a3f00c9f6c0f38ddd33cffd1aec.jpg"
+        },
+        {
+          "url": "media/cached-image_c1362c3d39ce3debdb2df02343f4ea1b4c7df080073315701d7e539775e7dd77.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 38,
+      "priceLevel": null,
+      "address": "Todai-ji Itsukushima Jinja, 406-1 Zoshicho, Nara, 630-8211, Japan",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6877669,135.8400064,3a,80.2y,150.43h,89.79t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC9yL3qBQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZFECAm1aGdJkcefOHZanCfgDJOE-t0UWf2GJ4E4N-p8H1jj-3yOMM3MVLNHD2nyqOWaKeLWffCsD4imFKsML3vZ8ZiCIJrrvgWskVfLDPTnAnshHVI_qNJQhU5x74gSF-8oCZr%3Dw900-h600-k-no-pi0.20522471522960473-ya95.97088209391606-ro0-fo100!7i6144!8i3072?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "The small Itsukushima Jinja shrine within the Todai-ji grounds in Nara appears in episode 16 as a quiet detail within the larger Nara temple visit, showcasing the layered religious history of the site."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb6EN-i46AWAR9HWc62u7Lu4",
+      "name": "Saint Marc Cafe Nara Sanjo",
+      "localName": "サンマルクカフェ 奈良三条店",
+      "coordinates": {
+        "lat": 34.6818792,
+        "lng": 135.8209853
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39771600-b0b5-47b0-8900-e1e79fd873fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39771600-b0b5-47b0-8900-e1e79fd873fb.webp"
+        },
+        {
+          "url": "media/cached-image_3e730af577247af159406b57b3283d5107a49623af53cf8ca380a166e2e6c346.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saint Marc Cafe Nara Sanjo, F＆Fビル 499-1 Sanjocho, Nara, 630-8244, Japan",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6819925,135.8210141,3a,76.3y,190.55h,98.34t/data=!3m7!1e1!3m5!1sUXoqMr-kpU6QLDp6p1EMKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.33600855496175%26panoid%3DUXoqMr-kpU6QLDp6p1EMKA%26yaw%3D190.5465742615966!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "This cafe on Nara's Sanjo shopping street appears in episode 16 as a rest stop during the Nara arc, contrasting modern everyday life with the ancient temples nearby."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJVgIQt6mRjURFvQinABP4ZM",
+      "name": "Matogahama Beach",
+      "localName": "別府スパビーチ",
+      "coordinates": {
+        "lat": 33.2843185,
+        "lng": 131.5061709
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afbcf862-f6c3-4ab1-a3e2-f473cca2ba5e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afbcf862-f6c3-4ab1-a3e2-f473cca2ba5e.webp"
+        },
+        {
+          "url": "media/cached-image_0ad40aa3f9e0845388413fb7b745c0f50691e837389f4fd5b0fca7b2823b2ba1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Matogahama Beach, 5 Kitamatogahamacho, Beppu, Oita 874-0928, Japan",
+      "city": "Beppu",
+      "region": "Oita",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.284256,131.5060425,3a,90y,326.98h,91.67t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqzYWjhAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha-87laO2yBXk_3Dh9w5ve0zvwoUkSfd0R5PXc-dHa67pj66YzBgZGehadQrxJdJsnW6ZmkVjUGjRU0m9p9lClb3XHcIwhfPu22DEg6C1SzCzmLxcLgdaYxU2-zbWR_gpoNuOXp%3Dw900-h600-k-no-pi-1.6685396271062416-ya11.982107671056326-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "Matogahama Beach in Beppu, Oita appears in episode 15, where Yaiba's group visits Beppu during their Kyushu journey, the beach providing a dramatic coastal setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbWuQo4SORTURhiHPVaZRP4w",
+      "name": "Osozu swimming beach in Akehamare Hall.",
+      "localName": "大早津海水浴場",
+      "coordinates": {
+        "lat": 33.312429,
+        "lng": 132.4425134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55867acc-6bda-46d4-a579-bde7482281c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55867acc-6bda-46d4-a579-bde7482281c2.webp"
+        },
+        {
+          "url": "media/cached-image_3a80e0aebba6828197c8701ffcd3e5ad78f77eb04ebd9ac967886c1df877b589.jpg"
+        },
+        {
+          "url": "media/cached-image_1959a9042809e8d86a269afeba0cc9dd0f6934e083869c44ebe9bb01dd992d66.jpg"
+        },
+        {
+          "url": "media/cached-image_2d8ab8d7e038b0ec9804b46fc515f137231fb0513e6299a4b4e0f0e915233546.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "Ōsōzu swimming beach in Akehamāre Hall., あけはまーれ 内 461-1 Akehamacho Takayama, Seiyo, Ehime 797-0201, Japan",
+      "city": "Seiyo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.3122349,132.4430606,3a,90y,209.62h,96.21t/data=!3m7!1e1!3m5!1sMI2suuFjEjCRCbo1Ks9QYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.208534406170045%26panoid%3DMI2suuFjEjCRCbo1Ks9QYA%26yaw%3D209.6178302385028!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "This Ehime coast beach appears in episode 14 during the Shikoku arc, where Yaiba's party reaches the island's western shore as part of the series' nationwide pilgrimage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNY90X9g3UjUR-4Tm6xDzmF0",
+      "name": "Mount Tsurugi",
+      "localName": "剣山",
+      "coordinates": {
+        "lat": 33.8535949,
+        "lng": 134.0941633
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96ca141d-630c-4596-964e-6f6422286a5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96ca141d-630c-4596-964e-6f6422286a5c.webp"
+        },
+        {
+          "url": "media/cached-image_755eb426f35a9e922484a3c9d1859a4dffd87fb8e1116a8b87f6002c7f6e5e87.jpg"
+        }
+      ],
+      "type": "Mountain peak",
+      "categories": [
+        "Mountain peak"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mount Tsurugi, Higashiiyasugeoi, Miyoshi, Tokushima 778-0201, Japan",
+      "city": "Miyoshi",
+      "region": "Tokushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.8547976,134.0965707,2a,90y,257.95h,97.8t/data=!3m7!1e1!3m5!1s5Bl4FGXotnsTxohelExYSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.795510523836342%26panoid%3D5Bl4FGXotnsTxohelExYSg%26yaw%3D257.95116484102334!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Mount Tsurugi, the sacred peak of Tokushima and second highest mountain in western Japan, appears in episode 14 during the Shikoku arc, its legendary name evoking the sword themes central to YAIBA.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yaiba_24",
+      "name": "Naruto Sta.",
+      "localName": "鳴門駅前",
+      "coordinates": {
+        "lat": 34.17934,
+        "lng": 134.60896
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c65e78aa-140f-479a-af94-8e366402e47f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c65e78aa-140f-479a-af94-8e366402e47f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.179302,134.6090155,3a,90y,287.55h,93.52t/data=!3m7!1e1!3m5!1sujND8ImVsl-5B81nVjJpIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5193179920177897%26panoid%3DujND8ImVsl-5B81nVjJpIg%26yaw%3D287.5531158001204!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Naruto Station in Tokushima appears in episode 14 as the transit hub during the Shikoku arc, where Yaiba and companions arrive near the famous Naruto whirlpools."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3Vo2gMvtAGARo0Dl4W96PTY",
+      "name": "Naruohama Seaside Park sea fishing Square",
+      "localName": "鳴尾浜臨海公園海づり広場",
+      "coordinates": {
+        "lat": 34.692601599999996,
+        "lng": 135.3585936
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e551d911-6c1f-4ecb-a916-e7f43a2d1bde.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e551d911-6c1f-4ecb-a916-e7f43a2d1bde.webp"
+        },
+        {
+          "url": "media/cached-image_b9bb924ff693cbd6b60ac0324f76e517ae59a237d298c2fb505b60870a3b9f8d.jpg"
+        }
+      ],
+      "type": "Fishing pier",
+      "categories": [
+        "Fishing pier"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Naruohama Seaside Park sea fishing Square, 3 Chome-１３-13 Naruohama, Nishinomiya, Hyogo 663-8142, Japan",
+      "city": "Nishinomiya",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Naruohama+Seaside+Park+sea+fishing+Square/@34.6919504,135.3594037,3a,90y,288.27h,98.81t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE9PKYjgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbTi8YNQxuN4X4H3wCBNW8ewoVyvQBOvM8o36_-b3duPOntFV8ICTXYk_i43ItQ1S4El6QCdjT5IS6G8XH5nOU9Dc6tyaNaTeI7vcecGKe_XU-ZEanVjatA7Oh1t6Qhf5aZIku4%3Dw900-h600-k-no-pi-8.813481045096808-ya288.2693883421116-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6000edcb80365add:0x363d7a6fe1e540a3!8m2!3d34.6926016!4d135.3585936!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1yh802hr1?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "This Nishinomiya fishing pier in Hyogo appears in episode 14, serving as one of the Kinki coastal locations visited during Yaiba's journey westward."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yaiba_26",
+      "name": "Taiko Well",
+      "localName": "太閤井戸跡",
+      "coordinates": {
+        "lat": 35.37741,
+        "lng": 136.25956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6493967f-1d97-478c-b0f3-27af59f99021.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6493967f-1d97-478c-b0f3-27af59f99021.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3774248,136.2595825,2a,90y,51.29h,98.41t/data=!3m7!1e1!3m5!1sOqrPPZH7bt-ycH7FPVt73w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.409428009711945%26panoid%3DOqrPPZH7bt-ycH7FPVt73w%26yaw%3D51.29421603980629!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Taiko Well historic site associated with Toyotomi Hideyoshi appears in episode 13, connecting Yaiba's story to Japan's legendary samurai warlords whose legacy echoes throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa20T8L8pC18RT7ri-9fShzQ",
+      "name": "Odori Park West 3-chome",
+      "localName": "大通公園３丁目",
+      "coordinates": {
+        "lat": 43.060583199999996,
+        "lng": 141.3526426
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b47d064e-6d64-4fb8-8606-4aed8601f46e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b47d064e-6d64-4fb8-8606-4aed8601f46e.webp"
+        },
+        {
+          "url": "media/cached-image_511d0c79ef7077f1af4f11070043246909cfb9abe225e0624531b5ae88634559.jpg"
+        },
+        {
+          "url": "media/cached-image_8b290af5ae5cafb0ec8e72d667e5ac96ba81ae66519652ef55ba5e45f832661d.jpg"
+        },
+        {
+          "url": "media/cached-image_2545c96a3038ac7ddb2b1e32d7afe7a1d5eac702494fe9d9c657d839aa6fa7cb.jpg"
+        },
+        {
+          "url": "media/cached-image_d26ae82c236cb406eaa4c65751bbe19e0ed34cdbd8d898a37cf36075dd731a34.jpg"
+        },
+        {
+          "url": "media/cached-image_f21ed5042709fa2fbf67b0a276fe9fb398569d3ffae51082d216cb16471e1ff6.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 347,
+      "priceLevel": null,
+      "address": "Odori Park West 3-chome, 3 Chome Odorinishi, Chuo Ward, Sapporo, Hokkaido 060-0042, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@43.060603,141.3527214,3a,90y,79.98h,96.97t/data=!3m7!1e1!3m5!1sZCdHAoeabPy906-nixNlKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.970620938422613%26panoid%3DZCdHAoeabPy906-nixNlKg%26yaw%3D79.97559912685226!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Sapporo's central Odori Park appears in episode 13 as part of the Hokkaido arc establishing shots, the wide tree-lined promenade contrasting with Yaiba's Tokyo Shitamachi home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbTcMwpMD-F8RwCEIp_N5w5g",
+      "name": "Rail Mountain Bicycle Gattan Go!!Mt.Urushi Ravine Course.",
+      "localName": "レールマウンテンバイクGattan Go!!渓谷コース",
+      "coordinates": {
+        "lat": 36.399855099999996,
+        "lng": 137.28716799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60857e4f-b54a-4f9b-b283-edd6f3227112.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60857e4f-b54a-4f9b-b283-edd6f3227112.webp"
+        },
+        {
+          "url": "media/cached-image_8e6ae786fbb00acfca77f07549e4853c72f7f8c6349febac10a473fd9aba57d9.jpg"
+        }
+      ],
+      "type": "Biking trail",
+      "categories": [
+        "Biking trail"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Rail Mountain Bicycle Gattan Go!!Mt.Urushi Ravine Course., Kamiokacho Nishiurushiyama, Hida, Gifu 506-1215, Japan",
+      "city": "Hida",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3826936,137.277818,3a,44.6y,206.48h,80.22t/data=!3m7!1e1!3m5!1sr0BansCvjLUlrmMlaZZuQA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.776574449977659%26panoid%3Dr0BansCvjLUlrmMlaZZuQA%26yaw%3D206.4822554253363!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This unique rail bike experience in Hida, Gifu appears in episode 13, where Yaiba's group rides through the mountain gorge, one of the series' lighthearted adventure moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ02iFcx2A2ARMRob2W5qhtY",
+      "name": "Kinshachi Yokocho",
+      "localName": "金シャチ横丁 正門エリア 義直ゾーン",
+      "coordinates": {
+        "lat": 35.183004499999996,
+        "lng": 136.8988166
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97757af6-ab8e-4811-b0e5-c19b65cfb944.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97757af6-ab8e-4811-b0e5-c19b65cfb944.webp"
+        },
+        {
+          "url": "media/cached-image_cf701d1c5abaac4267fa79564f3647fde62ee62bd67c7225ff4db0ba459c0c25.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kinshachi Yokocho, 5号 1 Chome-2-3 Sannomaru, Naka Ward, Nagoya, Aichi 460-0001, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1829156,136.8987287,3a,64.3y,28.13h,86.68t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDh-L2lvAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZGuW7UEytVSN0My0ch7K2kkyM7e7HTcgP6lE_VRVswIzEZwMJ5Yo8s6DUDugHG0marYISNposRIRIwXbeBwaGyykR1DXYQ1ZjVZEaA6PPl0xaTVTPnRqukbwEJHtiDaZX6__eKCQ%3Dw900-h600-k-no-pi3.323382950245289-ya28.125102691803214-ro0-fo100!7i6528!8i3264?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This food street near Nagoya Castle appears in episode 6 as Yaiba's group explores Nagoya, sampling local cuisine in the shadow of the castle's famous golden shachi ornaments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_fmKgRPnAGARkKWLtCYTu7g",
+      "name": "Dotonbori",
+      "localName": "道頓堀",
+      "coordinates": {
+        "lat": 34.6687234,
+        "lng": 135.5012971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4899f17-69b5-4ad9-a913-4ee670b53b0d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4899f17-69b5-4ad9-a913-4ee670b53b0d.webp"
+        },
+        {
+          "url": "media/cached-image_2ac3beee8e44dc0adcd324cdda44af134897b93806778894fcf7348b192309df.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dotonbori, 1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6687346,135.5012513,3a,63.4y,88.74h,104.61t/data=!3m7!1e1!3m5!1scgt6gig8RAzPE4bU6330dg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.611873631274989%26panoid%3Dcgt6gig8RAzPE4bU6330dg%26yaw%3D88.74026005844391!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Dotonbori, Osaka's most famous entertainment canal district, appears in episode 13 as the lively backdrop for Yaiba's Osaka encounter, its giant Glico sign and neon lights contrasting with samurai-era settings.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yaiba_31",
+      "name": "National Diet Building",
+      "localName": "国会議事堂",
+      "coordinates": {
+        "lat": 35.67639,
+        "lng": 139.74755
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f124db8-deb5-49e1-b9b8-00eba1e5b0f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f124db8-deb5-49e1-b9b8-00eba1e5b0f3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.co.jp/maps/@35.676365,139.7478008,3a,49.8y,260.31h,96.08t/data=!3m7!1e1!3m5!1sOZmkCFnZf9fmC7Fq3Yi6Ow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.076786995260392%26panoid%3DOZmkCFnZf9fmC7Fq3Yi6Ow%26yaw%3D260.3124915037459!7i16384!8i8192?hl=ja&entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The National Diet Building in Tokyo appears in episode 9 during a tense moment in the series' political arc, where Yaiba's adventure intersects with the corridors of modern Japanese power."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm7Lk-SiWQzURomPcFPli5vg",
+      "name": "Mojiko Station",
+      "localName": "門司港駅",
+      "coordinates": {
+        "lat": 33.945112099999996,
+        "lng": 130.9615522
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49f37c8c-c9aa-4d44-a5cb-442614c3a2d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49f37c8c-c9aa-4d44-a5cb-442614c3a2d1.webp"
+        },
+        {
+          "url": "media/cached-image_89698b54a1a207dabf05a29a9568e2e008890251967da7dc72f5bad3df9db98f.jpg"
+        },
+        {
+          "url": "media/cached-image_f2d6f32f42ffdd75b69d376ebf7d796f2a73c6e591a339f734e47f11480bacf0.jpg"
+        },
+        {
+          "url": "media/cached-image_9526532492c5c94ee4ef85efa606db94559d44a1171d512aa8cd70dd0c2885b1.jpg"
+        },
+        {
+          "url": "media/cached-image_581fa13b41207e4cc5086108180bb5105eb6f991297944786177ca5d7fa8a997.jpg"
+        },
+        {
+          "url": "media/cached-image_cc46f05d7546a7979108db48acf9127eeff644db797eeb0d400ba7bab36a6b51.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.5,
+      "reviewCount": 775,
+      "priceLevel": null,
+      "address": "Mojiko Station, 1 Chome-5-31 Nishikaigan, Moji Ward, Kitakyushu, Fukuoka 801-0841, Japan",
+      "city": "Kitakyushu",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.9455606,130.9620154,3a,25y,223.38h,106t/data=!3m7!1e1!3m5!1s2D-vJEmwNcgcwENOxksF5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.001340582448393%26panoid%3D2D-vJEmwNcgcwENOxksF5Q%26yaw%3D223.3766523051855!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Mojiko Station, the historic early-Meiji-era terminal in Kitakyushu, appears in episode 8 during the Kyushu arc, its retro European architecture underscoring the series' recurring contrast between old and new Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlwV_sNu9QzUR96fGBVDjKqQ",
+      "name": "Miyamoto Musashi & Sasaki Kojiro Statue",
+      "localName": "宮本武蔵·佐々木小次郎像",
+      "coordinates": {
+        "lat": 33.933782199999996,
+        "lng": 130.93153949999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e34b259-6fc4-4958-b9d1-56b64f3a775d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e34b259-6fc4-4958-b9d1-56b64f3a775d.webp"
+        },
+        {
+          "url": "media/cached-image_7f5ed0c939abc6abee764fd61fe96f99527aa0dbecc3871952e5744fb3fbd7f4.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Miyamoto Musashi & Sasaki Kojiro Statue, Hikoshima, Shimonoseki, Yamaguchi 750-0000, Japan",
+      "city": "Shimonoseki",
+      "region": "Yamaguchi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.9337393,130.93156,3a,90y,24.7h,114.1t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEpNXjwwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZri6H6OChgJ500Z8u0nBwV1SM95mfsF6D-dTCtf0e29Jdo4LGKchrYrcLO528BXrkiTLcc75-gnkgQPoh3upOppi8R6UF0jSS4EbPqY2OrFO6Bv44_7jw_JFoPS4x0R3GwlLeL4g%3Dw900-h600-k-no-pi-24.096744546258662-ya2.1964286552682033-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This statue commemorating the legendary duel between Miyamoto Musashi and Sasaki Kojiro on nearby Ganryu Island appears in episode 7, directly evoking the samurai duel tradition that is central to Yaiba's character and ambitions.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJse-wx8t2A2ARd6Z1knjp07k",
+      "name": "Nagoya Castle",
+      "localName": "名古屋城",
+      "coordinates": {
+        "lat": 35.184750099999995,
+        "lng": 136.89968829999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f49db87-b998-4816-b6cd-43e4bfa322fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f49db87-b998-4816-b6cd-43e4bfa322fd.webp"
+        },
+        {
+          "url": "media/cached-image_34baebedfd94c3186b899e7deeac953fbab415f82492bdc0b489ce7d4895e8b3.jpg"
+        },
+        {
+          "url": "media/cached-image_fecbf0cbc8beacab95338444cbd7f9f93f98cd0df5d284074ca637c63a69a96e.jpg"
+        },
+        {
+          "url": "media/cached-image_502107a6623e6aca5a0ef038a8b885e39049ba521bc55e1f16325e3303640c29.jpg"
+        },
+        {
+          "url": "media/cached-image_3dd4468e422452e66be78625e4b0bfc2b41817c1fe8016733a3cd13098b1daa8.jpg"
+        },
+        {
+          "url": "media/cached-image_e93e4af732ee6c2fdcd9eb0b79e67c0223e22ed2cbd20ec3c336c34e9f6bac5b.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3225,
+      "priceLevel": null,
+      "address": "Nagoya Castle, 1-1 Honmaru, Naka Ward, Nagoya, Aichi 460-0031, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1851863,136.9001215,3a,90y,298.04h,100.71t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICk5LDw0AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYRHLj8y8rxlrNJGMm8tUTMYczuNdEkoO5Zj5Wn5LB1pGe6KRZGMnLzWT-wVLV6qxKvI99OJ4v2VRk8pmH76n2Vjadl0hSraJHRJz5oi2zSCIS_Rqfpl8-zbwG-cTRjjd4aW_72Pg%3Dw900-h600-k-no-pi-10.709214851422303-ya12.042956143863194-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Nagoya Castle appears in episode 6 as a major landmark during the Nagoya arc, its towering keep and famous golden shachihoko (tiger fish) ornaments resonating with the series' celebration of Japanese castle culture.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy1OSis52A2ARcnIclVIPe3w",
+      "name": "KKR Hotel Nagoya",
+      "localName": "KKRホテル名古屋",
+      "coordinates": {
+        "lat": 35.1808276,
+        "lng": 136.89694219999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/91682f43-8df7-4b80-8900-3e95ae2fbcb7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/91682f43-8df7-4b80-8900-3e95ae2fbcb7.webp"
+        },
+        {
+          "url": "media/cached-image_5f1c0b9a1f2c481e340c318982bec1de5062edd9dfe3a9dca81d982c84e345eb.jpg"
+        },
+        {
+          "url": "media/cached-image_065b02c8828a9a0b401a7b3045142d43eba3496fb1761aa2983cccecd3a20aa6.jpg"
+        },
+        {
+          "url": "media/cached-image_bee1f265333ccf95d93bf2f128c19e407d42875c546e8b7b78cfee47ed5d2fdc.jpg"
+        },
+        {
+          "url": "media/cached-image_f98329031d2b20d655748fd53de90ecd90907ff35520eb9225c40d4980228276.jpg"
+        }
+      ],
+      "type": "Japanese-style business hotel",
+      "categories": [
+        "Japanese-style business hotel"
+      ],
+      "rating": 3.8,
+      "reviewCount": 17,
+      "priceLevel": null,
+      "address": "KKR Hotel Nagoya, ＫＫＲホテル名古屋 1 Chome-5-1 Sannomaru, Naka Ward, Nagoya, Aichi 460-0001, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1804846,136.8960247,3a,22.5y,17.23h,96.81t/data=!3m7!1e1!3m5!1sky6vWO9Xe34yceM0poS3Fg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.812699612582605%26panoid%3Dky6vWO9Xe34yceM0poS3Fg%26yaw%3D17.232777356336936!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "KKR Hotel Nagoya appears in episode 6 as the lodging where Yaiba's party stays during their Nagoya visit, situated just steps from Nagoya Castle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yaiba_36",
+      "name": "Gojo Bridge",
+      "localName": "五條橋",
+      "coordinates": {
+        "lat": 35.17607,
+        "lng": 136.89338
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6071803a-c34d-438c-8833-7897dbfe23b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6071803a-c34d-438c-8833-7897dbfe23b0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1760615,136.8934498,3a,90y,208.12h,96.1t/data=!3m7!1e1!3m5!1sUNCqpOFs34qcYlHw-g0IUw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.102213812159931%26panoid%3DUNCqpOFs34qcYlHw-g0IUw%26yaw%3D208.12444168635926!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Gojo Bridge in Nagoya appears in episode 6, recalling the famous legend of Musashibo Benkei fighting at Gojo Bridge in Kyoto, a narrative echo that fits YAIBA's celebration of legendary sword battles."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvW294ml3A2ARNOus-rbsiwk",
+      "name": "Tori Bura Meieki 4-chome",
+      "localName": "鳥ぶら 名駅4丁目店",
+      "coordinates": {
+        "lat": 35.1706973,
+        "lng": 136.8872332
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eea07ff0-9c42-4cf1-9773-c2b3e3295c8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eea07ff0-9c42-4cf1-9773-c2b3e3295c8a.webp"
+        },
+        {
+          "url": "media/cached-image_45d00e98a7e2343aef8f82e0405a84483ec9f7375a13fa6ca4bb06f7e5dd248f.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒450-0002 Aichi, Nagoya, Nakamura Ward, Meieki, 4 Chome−3−14 鳥ぶら 名駅4丁目店",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1704351,136.8872012,3a,44.6y,7.33h,97.86t/data=!3m7!1e1!3m5!1stHWgH2y2K5BZCR5hix0ikg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.859734804565818%26panoid%3DtHWgH2y2K5BZCR5hix0ikg%26yaw%3D7.332224853162771!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This izakaya near Nagoya Station appears in episode 6 as a dining spot for Yaiba's group, one of several real Nagoya establishments visited during the arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ0IP9rrbAmARGr4uwt1I_dE",
+      "name": "Yunoshimakan",
+      "localName": "湯之島館",
+      "coordinates": {
+        "lat": 35.8120158,
+        "lng": 137.2420453
+      },
+      "image": "https://cdn.animepilgrimage.com/places/687d4f0e-cd66-4976-b76d-b408f2dad1ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/687d4f0e-cd66-4976-b76d-b408f2dad1ff.webp"
+        },
+        {
+          "url": "media/cached-image_3ed0e976da0d4b5f4ffd525293bade83effc33d8b905e6f1cc46f1148750424f.jpg"
+        },
+        {
+          "url": "media/cached-image_2d8910c6d726dd6c40d7418d2215685b086eda9c6da34e2fdabd82228f6f348f.jpg"
+        },
+        {
+          "url": "media/cached-image_7bf07f8a8cc77810b5b25fa10e7b87a7ac58aaf85091c406ba53c284f3c3525b.jpg"
+        },
+        {
+          "url": "media/cached-image_4138ebaca93f7db04ec02e3cfb9c9c3009c751002d4ad6c9c827fcf239decef4.jpg"
+        },
+        {
+          "url": "media/cached-image_3577c5a11737a36f15b178ffaf365aab8457da26190c8259248b6ccf9230a778.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Yunoshimakan, 645 Yunoshima, Gero, Gifu 509-2207, Japan",
+      "city": "Gero",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8121654,137.2414809,3a,90y,115.12h,103.61t/data=!3m7!1e1!3m5!1sP6e4WDOGTNdZIuBr1z_Y7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.611328063723448%26panoid%3DP6e4WDOGTNdZIuBr1z_Y7w%26yaw%3D115.11877621529383!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Yunoshimakan, a historic ryokan in Gero Onsen, Gifu, appears in episode 5 as the grand inn where Yaiba's party stays, its traditional architecture and hot springs providing a picturesque rest stop.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ550JUgDbAmAR9S81HWuv298",
+      "name": "Irori Hida Yakiniku",
+      "localName": "囲炉裡",
+      "coordinates": {
+        "lat": 35.8090319,
+        "lng": 137.2439937
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d388bdf-e391-4efb-8c60-4fb76f9b443d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d388bdf-e391-4efb-8c60-4fb76f9b443d.webp"
+        },
+        {
+          "url": "media/cached-image_45da5f5ca131807b1213ce83a7c41b4a996b9128db92057f9143dc37cc1585c4.jpg"
+        }
+      ],
+      "type": "Steak house",
+      "categories": [
+        "Steak house"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Irori Hida Yakiniku, 757-1 Yunoshima, Gero, Gifu 509-2207, Japan",
+      "city": "Gero",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8091122,137.2445385,3a,90y,151.42h,93.32t/data=!3m7!1e1!3m5!1sAKXhS1qRuRcOcMVpuJBCgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3200164762960895%26panoid%3DAKXhS1qRuRcOcMVpuJBCgA%26yaw%3D151.42256792879866!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This yakiniku restaurant in Gero Onsen appears in episode 5 as the dining venue where Yaiba's group enjoys Hida beef after arriving at the hot spring resort."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlVGgv7jbAmARcvZqzCIxTEk",
+      "name": "Gero City Tourist Information Center",
+      "localName": "下呂市総合観光案内所",
+      "coordinates": {
+        "lat": 35.8055208,
+        "lng": 137.2395135
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c71a4295-79f5-4e05-a585-e5479562b0f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c71a4295-79f5-4e05-a585-e5479562b0f8.webp"
+        },
+        {
+          "url": "media/cached-image_a5cc140acda62036b7fe4e16e5c6630adeb7eb20f05e2857f40c99565164de03.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gero City Tourist Information Center, 1357 Koden, Gero, Gifu 509-2206, Japan",
+      "city": "Gero",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8051522,137.2395718,3a,90y,128.68h,101.76t/data=!3m7!1e1!3m5!1ssBU79TJfOVMlo_t19BkyaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.764084323456373%26panoid%3DsBU79TJfOVMlo_t19BkyaA%26yaw%3D128.67933099701!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The tourist information center at Gero Onsen appears in episode 5 as Yaiba's party arrives and seeks guidance in the famous hot spring town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ00sbtMCOGGAR-yVhdq8bP6o",
+      "name": "FamilyMart Asakusa Kaminarimon-mae store",
+      "localName": "ファミリーマート 浅草雷門通り店",
+      "coordinates": {
+        "lat": 35.7114608,
+        "lng": 139.79417999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13515085-6f57-4f30-950a-fed8792ef894.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13515085-6f57-4f30-950a-fed8792ef894.webp"
+        },
+        {
+          "url": "media/cached-image_f235ccbe584af5c830f3480b12885d9f23bed36f4900c59c0e5fa36f913d53e4.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 1 Chome-5-3 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7108499,139.7969548,3a,46.3y,95.79h,110.18t/data=!3m7!1e1!3m5!1sBzSV4HId0L1XdVJJ-LrLbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.182393736744032%26panoid%3DBzSV4HId0L1XdVJJ-LrLbA%26yaw%3D95.78535226944207!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This convenience store directly in front of Kaminarimon appears in episode 2, establishing Yaiba's Asakusa neighborhood as his everyday Tokyo stomping ground."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yaiba_42",
+      "name": "Asakusa Bunko",
+      "localName": "浅草文庫 本店",
+      "coordinates": {
+        "lat": 35.71146,
+        "lng": 139.7921
+      },
+      "image": "https://cdn.animepilgrimage.com/places/baedf11e-27a4-4788-863c-3fc4ff4cb684.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/baedf11e-27a4-4788-863c-3fc4ff4cb684.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7113089,139.7919559,3a,43y,46.47h,98.48t/data=!3m7!1e1!3m5!1sg0SrtO7b1TFy9Qv3ku3BSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.475346349147955%26panoid%3Dg0SrtO7b1TFy9Qv3ku3BSg%26yaw%3D46.46766923711284!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Asakusa bookshop appears in episode 2 as part of the Nakamise and local street scenery around Yaiba's home base in Shitamachi Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH-mp8r-OGGARvbczZqpx3ZY",
+      "name": "Karaokekan Asakusa Kokusai Doriten",
+      "localName": "カラオケ館 浅草国際通り店",
+      "coordinates": {
+        "lat": 35.7138601,
+        "lng": 139.7926717
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5730257-e7b2-4521-aef2-96aaf7a0aea8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5730257-e7b2-4521-aef2-96aaf7a0aea8.webp"
+        },
+        {
+          "url": "media/cached-image_fc902ce916349526dff20ef04d232e24ea0d2cad3e4389b5566c39dbf57c3dcf.jpg"
+        },
+        {
+          "url": "media/cached-image_e251ffd6d5a11e1a9128157c25bd33f4c6d0e1ce4027158693f06e9af599c660.jpg"
+        },
+        {
+          "url": "media/cached-image_4eac4c3fcaed03a2bb0520db1c4404dc42916a52fed396397ed7d7b765589659.jpg"
+        },
+        {
+          "url": "media/cached-image_c62a5ab7c349e6cc03cb1ee517ca0d8576d0fb897859b58fda1ff6fe65d609f8.jpg"
+        },
+        {
+          "url": "media/cached-image_36a3bf96783c88c9105ec7d6436a0227e1251c941f321fc86525a998a7178a3f.jpg"
+        }
+      ],
+      "type": "Karaoke",
+      "categories": [
+        "Karaoke"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Karaokekan Asakusa Kokusai Doriten, 浅草駅前平和ビル 2 Chome-11-3 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7137838,139.7924854,3a,75y,83.07h,96.61t/data=!3m7!1e1!3m5!1sRbpAy3jpWvt3wHA10pUwzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.613037248400289%26panoid%3DRbpAy3jpWvt3wHA10pUwzA%26yaw%3D83.06622558130137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This karaoke parlor on Asakusa Kokusai Dori appears in episode 2, part of the lively entertainment-district streetscape that surrounds Yaiba's Asakusa home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm2TXf-aLGGARtR9aL0V6gxE",
+      "name": "Kimuraya",
+      "localName": "木村屋總本店 銀座本店",
+      "coordinates": {
+        "lat": 35.671667899999996,
+        "lng": 139.7652695
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc04c34a-d3cb-4ef8-907c-ab52b491d09f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc04c34a-d3cb-4ef8-907c-ab52b491d09f.webp"
+        },
+        {
+          "url": "media/cached-image_b2df2691695f099a7ba78f39a42a3995a6bcfd31cef162c9fa6ec66ae1d2d51f.jpg"
+        }
+      ],
+      "type": "Bakery",
+      "categories": [
+        "Bakery"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kimura-ya Main Store, Ginza, 4 Chome-5-7 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kimuraya/@35.71352,139.7967496,2a,90y,96.2h,90.19t/data=!3m8!1e1!3m6!1sUJ4U2GSNac7LNwpb2ePu2w!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.1906963968028208%26panoid%3DUJ4U2GSNac7LNwpb2ePu2w%26yaw%3D96.20353729744552!7i13312!8i6656!4m9!3m8!1s0x60188ec1a5d72cb5:0xb24f4a07a3704829!8m2!3d35.713538!4d139.7966702!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tglyzvm?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kimuraya's famous Ginza bakery appears in episode 2, where Yaiba makes a brief Tokyo detour to this historic bread shop, one of Japan's oldest Western-style bakeries."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBT6mOL6OGGARkyfpo4byDoA",
+      "name": "Osteria KIKUYA",
+      "localName": "喜久屋",
+      "coordinates": {
+        "lat": 35.7129817,
+        "lng": 139.7897174
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cf92bca7-d8f0-4705-8e04-c91a263c8ed6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cf92bca7-d8f0-4705-8e04-c91a263c8ed6.webp"
+        },
+        {
+          "url": "media/cached-image_445701689cc7eb586e15bd8bd75232f7e848f1594ca61f0695da10646f122ff5.jpg"
+        },
+        {
+          "url": "media/cached-image_5242bd22b2a518e430e11126b46d4a4b396b2cd53f00336fe4473688df28e38f.jpg"
+        },
+        {
+          "url": "media/cached-image_c9fd162eaa55a044f7dc57361ab1a20d206aacb0e29bb068fcd4523c2f4d7b0d.jpg"
+        },
+        {
+          "url": "media/cached-image_34e100a70e18eb9b6d38aab36115847faec990f108c12346bcaacb93b1ae8bb2.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒111-0035 Tokyo, Taito City, Nishiasakusa, 2 Chome−8−7 Osteria KIKUYA",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7115582,139.7964206,3a,75y,45.09h,84.94t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgIDqvcOE5QE!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1iEBs01TD54OsHDXcfRbvle8ETCAA-OSIV9I2FpBuvk1yC7Aj_MhIsiTt_VAkJ4ChNX4IvwnsJjPXAPe7Pe63hJNhhrPRdZlinwnb3ZEEYaeJnLbtChx25mRQ6G6NNgHALphL2%3Dw900-h600-k-no-pi5.055934179056933-ya26.395693145639665-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This West Asakusa Italian restaurant appears in episode 2 as a neighborhood dining spot near Yaiba's base, part of the eclectic modern-traditional mix of the Asakusa area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIRO-7h2PGGAR33w7FERkX-o",
+      "name": "Kototoi Bridge",
+      "localName": "言問橋",
+      "coordinates": {
+        "lat": 35.7142056,
+        "lng": 139.8033951
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e0e4e56e-1bff-4a6d-b48f-2f7a26f24460.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e0e4e56e-1bff-4a6d-b48f-2f7a26f24460.webp"
+        },
+        {
+          "url": "media/cached-image_db13ca59bd372ae9a8bd32705d11227581cd22443d4f55ae1e0031e7fc491ec8.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒111-0032 Tokyo, Sumida City, Mukojima, 1 Chome−1 Kototoi Bridge, ~台東区浅草６丁目",
+      "city": "Sumida City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7147021,139.8025502,3a,75y,108.23h,100.46t/data=!3m7!1e1!3m5!1stfj04irUyFGI5v8ahCLMoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.461840153185662%26panoid%3Dtfj04irUyFGI5v8ahCLMoQ%26yaw%3D108.2348495031137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Kototoi Bridge over the Sumida River appears in the ending credits sequence, one of several classic Asakusa bridges that define the Shitamachi Tokyo visual identity of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUY0PFMOOGGARUtKsxmKT3nc",
+      "name": "Asakusa Police Station Shotencho Police Box",
+      "localName": "浅草警察署 聖天町交番",
+      "coordinates": {
+        "lat": 35.7155351,
+        "lng": 139.80199199999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce44c6a5-68a4-4739-853d-0086a5e52f17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce44c6a5-68a4-4739-853d-0086a5e52f17.webp"
+        },
+        {
+          "url": "media/cached-image_c12ee5fa8f13eb118539ade20d5e4ab10706b972d02ba33ddbc0a695c51bc94a.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shotencho Police Box, 浅草警察署聖天町交番 7 Chome-2-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7154157,139.8017914,3a,58.3y,94.41h,100.1t/data=!3m7!1e1!3m5!1sOu3Slz3v7fgaf6Pq00Dqsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.104660295335705%26panoid%3DOu3Slz3v7fgaf6Pq00Dqsg%26yaw%3D94.40577657326111!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This neighborhood police box in North Asakusa appears in the ending credits, contributing to the local Shitamachi street atmosphere that characterizes YAIBA's Tokyo home setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDVBcS5qOGGARhOAxmR0V-uU",
+      "name": "Coffee House Katsura 珈琲店 桂 昭和通り角店",
+      "localName": "珈琲家",
+      "coordinates": {
+        "lat": 35.716155799999996,
+        "lng": 139.7806302
+      },
+      "image": null,
+      "images": [],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Coffee House Katsura 珈琲店 桂 昭和通り角店, 7 Chome-12-8 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.716933,139.8164172,3a,90y,51.32h,94.04t/data=!3m7!1e1!3m5!1swPQy-yg2uNhiQHVhgFqwGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.0387705539791625%26panoid%3DwPQy-yg2uNhiQHVhgFqwGw%26yaw%3D51.31689147082105!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This old-style Showa-era coffee house appears in the ending credits, embodying the retro downtown Tokyo mood that accompanies Yaiba's quieter moments in his Asakusa neighborhood."
+    }
+  ]
+}

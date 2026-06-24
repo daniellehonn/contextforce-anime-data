@@ -1,0 +1,941 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Journal with Witch",
+  "slug": "journal-with-witch",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_d8ca2a0466ffb026ae8b8657fce1e7cc8b8a1228a6bc557f03fa4d3ec6333e27.webp",
+  "image": "media/cached-image_d8ca2a0466ffb026ae8b8657fce1e7cc8b8a1228a6bc557f03fa4d3ec6333e27.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.679332832,
+    "lng": 139.53569951599997
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Journal with Witch"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_0",
+      "name": "Shindo Coffee Shop",
+      "localName": "新藤珈琲店",
+      "coordinates": {
+        "lat": 35.65328,
+        "lng": 139.33065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a71c5d3-cce8-4d43-963e-1a152a4c97b4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a71c5d3-cce8-4d43-963e-1a152a4c97b4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/dEjNBKRfazYo6EjB6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Shown in Episode 3, this coffee shop near Nishi-Ogikubo stands in for the kind of unhurried local cafe that defines Makio's daily life. It captures the slow, contemplative atmosphere that surrounds the novelist's home neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_1",
+      "name": "Koyasu Park",
+      "localName": "子安公園",
+      "coordinates": {
+        "lat": 35.65217,
+        "lng": 139.33514
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8bb51adf-a2fe-43f7-b5f3-b77fe581713b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8bb51adf-a2fe-43f7-b5f3-b77fe581713b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/wy2B95S6Muyrc2Az8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This park near Hachioji appears in Episode 5 as an outdoor space where characters pause for quiet reflection. The park's open, unhurried setting fits the series' tendency to let difficult emotions breathe in neutral everyday spaces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_2",
+      "name": "B.S.P.",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.653,
+        "lng": 139.32917
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6465b679-4cfe-4e3d-bf39-142a6a6a4932.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6465b679-4cfe-4e3d-bf39-142a6a6a4932.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Ymvvh5BmbJ5XBgKN8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Shown in Episode 5, this spot in the Hachioji area is one of the local landmarks that populate Asahi's original home territory. Its appearance connects scenes set near where Asahi grew up before moving to live with Makio."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB1x33nDhGGARnCuc6fg4d5w",
+      "name": "Jonathan's Tachikawa North Exit",
+      "localName": "ジョナサン 立川北口店",
+      "coordinates": {
+        "lat": 35.7005483,
+        "lng": 139.41230489999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8e2c37d1-fa33-4f5f-85be-77c4d485a3ac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8e2c37d1-fa33-4f5f-85be-77c4d485a3ac.webp"
+        },
+        {
+          "url": "media/cached-image_58b29b19134b78f5cc071a445e6c2d3937f5234a4f8e8377b3f055c69be661b7.jpg"
+        },
+        {
+          "url": "media/cached-image_ee46c4e12f7c6bb78a46caa44864b511f8c01131758e36a623f07fc18cbd5803.jpg"
+        },
+        {
+          "url": "media/cached-image_54a9d77c474d459a0132318e036738d598bdda515774520c460e475515f1ccf4.jpg"
+        },
+        {
+          "url": "media/cached-image_f85615c70b821d7d31e374f5d308bd06a9418ecd8d8be74097238f6459993f04.jpg"
+        },
+        {
+          "url": "media/cached-image_400a619d4b5fe3c2bbba14c9554e2b2f8c3965376ecd39bbc1fd9879c7a32f44.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ジョナサン 立川北口店, パークアベニュ １Ｆ, 2 Chome-42-1 Akebonocho, Tachikawa, Tokyo 190-0012, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DdyPpsATe41jr9RS6",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "In Episode 7, this family restaurant in Tachikawa is where characters meet for a relaxed meal, a key scene showing how the relationship between Makio and Asahi gradually grows more comfortable over shared, ordinary meals."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_4",
+      "name": "GREEN SPRINGS",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.70289,
+        "lng": 139.41247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/80d01aee-a95f-4df3-a0be-fe074455c9bc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/80d01aee-a95f-4df3-a0be-fe074455c9bc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/UsHRchMQkCpnfEZr8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Also in Episode 7, the open-air GREEN SPRINGS complex in Tachikawa provides a spacious backdrop for an outing scene. The modern, airy development contrasts with the older Chuo Line neighborhoods the series usually inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvR7UQyGNGGARq-0JW5GifjE",
+      "name": "Hublot Omotesando Boutique",
+      "localName": "ウブロ表参道ブティック",
+      "coordinates": {
+        "lat": 35.666965499999996,
+        "lng": 139.7081406
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8dff32fa-642c-4274-8e4e-e02dd78557c0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8dff32fa-642c-4274-8e4e-e02dd78557c0.webp"
+        },
+        {
+          "url": "media/cached-image_f77e3c61e454fed2a59878d4301c9ad6383d7e5ba16ed018593831b279caf022.jpg"
+        }
+      ],
+      "type": "Watch store",
+      "categories": [
+        "Watch store"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hublot Omotesando Boutique, Omotesando / 表参道, 5 Chome-8-2 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mgSLgub6VPFoSsip9",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "In Episode 8, Makio takes Asahi to the Omotesando luxury strip and the Hublot boutique's distinctive facade appears in background shots. The high-end watch store anchors the scene's sense of Asahi being introduced to a side of Tokyo far outside her experience."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJby6BcqSMGGAROxBRLnrwKD0",
+      "name": "Repark Jingumae 6-Chome",
+      "localName": "三井のリパーク 神宮前６丁目 駐車場",
+      "coordinates": {
+        "lat": 35.6676796,
+        "lng": 139.7059105
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7279fee9-7b48-45f4-800b-3c116f2e1a23.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7279fee9-7b48-45f4-800b-3c116f2e1a23.webp"
+        },
+        {
+          "url": "media/cached-image_daac444e275400631bdf5b2e17cd31b23cbd7fbe8c2b6a9c7575f86dc048eefb.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Repark Jingumae 6-Chome, 6 Chome-6 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ctF4tx297E5rz3VX7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This parking lot in Jingumae appears in Episode 8 during the Omotesando excursion, used as a recognizable street-level landmark in the pilgrimage community for matching the anime's background art to real-world Harajuku geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIemmE6SMGGARAQOeh-1PMzs",
+      "name": "原宿キャシディ(HARAJYUKU CASSIDY)",
+      "localName": "原宿キャシディ",
+      "coordinates": {
+        "lat": 35.667334,
+        "lng": 139.7056087
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce8ec3ce-7d42-4a6f-b753-e94d514fe73b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce8ec3ce-7d42-4a6f-b753-e94d514fe73b.webp"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 6 Chome−6−4 原宿キャシディ(HARAJYUKU CASSIDY)",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HdLkPCXMNoj4NhRC7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Appearing in Episode 8, this Harajuku boutique is part of the fashion-district streetscape Asahi walks through with Makio. The colourful, youthful shop front adds energy to the episode's Omotesando sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcfdlApzvGGARICDoLL9hixw",
+      "name": "Queen’s ISETAN Musashisakai",
+      "localName": "クイーンズ伊勢丹 武蔵境店",
+      "coordinates": {
+        "lat": 35.702161499999995,
+        "lng": 139.543073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/550ab4d5-1874-4954-94dc-7487c58f4e91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/550ab4d5-1874-4954-94dc-7487c58f4e91.webp"
+        },
+        {
+          "url": "media/cached-image_a9ce4378df6bfc905aafd4c5b8727aa18644b2a0661e205ff45afdb96b78c1c8.jpg"
+        },
+        {
+          "url": "media/cached-image_93fc5844924d92a6fa2f90b41c617a1b484928cd173bd9aa7c47a39c7626a4c6.jpg"
+        },
+        {
+          "url": "media/cached-image_eb2216629d4d60f10779798f1b4a48c50ee9c150b66c2b9e850b3be5d2f516fc.jpg"
+        },
+        {
+          "url": "media/cached-image_bc43e930ab7669821562991da34884f1515426303ebe401033da6abfe449bf62.jpg"
+        },
+        {
+          "url": "media/cached-image_46e3129518c7bc354ec3c07d09869c72a73138c6b10564c788d3548860439cad.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Queen’s ISETAN Musashisakai, nonowa武蔵境 内 2 Chome-1-28 Kyonancho, Musashino, Tokyo 180-0023, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/C5LGdANJ5BBuTwgx9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "In Episode 9, this upscale supermarket at Musashisakai is where Makio shops for groceries, a quietly domestic scene that shows Asahi observing how her novelist aunt actually lives day to day."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1Y1GJZbvGGARA3_JBVAnwHY",
+      "name": "Japanese Red Cross Musashino Hospital",
+      "localName": "武蔵野赤十字病院",
+      "coordinates": {
+        "lat": 35.6968442,
+        "lng": 139.5477847
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5916d529-793c-4542-ae2e-4482d066954a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5916d529-793c-4542-ae2e-4482d066954a.webp"
+        },
+        {
+          "url": "media/cached-image_dab5fb0471a525e90dd86077cc7e42675328ae990f338bd760ee8b210bcb708a.jpg"
+        },
+        {
+          "url": "media/cached-image_93b89e23356f617a313195bc3c5ca204d4783c144aca3f66d331180288734d6b.jpg"
+        },
+        {
+          "url": "media/cached-image_93bc4b8edae1b05c6bb508786caf079aa3438a50d8f62af50a6b1bf416f9b083.jpg"
+        },
+        {
+          "url": "media/cached-image_01798ddb3edab4bfb7364c1a42843826a410f0c4743f4c79ba15b578b7e20885.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 2.9,
+      "reviewCount": 68,
+      "priceLevel": null,
+      "address": "Japanese Red Cross Musashino Hospital, 1 Chome-26-1 Kyonancho, Musashino, Tokyo 180-0023, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mi4UizmHctxtnAZk9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The hospital appears in Episode 10 in a tense scene involving a character's health, one of the more emotionally charged moments in the series that forces Makio and Asahi to confront vulnerability and care for each other.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4VeCeYEeGWARDdC5Sm6GxvE",
+      "name": "Daimachi Shimin Center",
+      "localName": "八王子市台町市民センター",
+      "coordinates": {
+        "lat": 35.6550665,
+        "lng": 139.32014759999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5cbfd2c1-397e-44a5-aefe-5be60c8b2229.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5cbfd2c1-397e-44a5-aefe-5be60c8b2229.webp"
+        },
+        {
+          "url": "media/cached-image_0c87bdf803b3e030ef778149d5ed22e7d7fe27d32ab180acbce2f3c6833c00e4.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Daimachi Shimin Center, 市民センタ 3 Chome-20-1 Daimachi, Hachioji, Tokyo 193-0931, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qMmmFRQ9R97EqumJ7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This community center in Hachioji appears in Episode 10, used as a public gathering space in a scene connected to events in Asahi's past life in the area. It grounds the episode's return to Hachioji's quieter civic spaces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqcuDM5nvGGARyd5DLbfLNL4",
+      "name": "Musashisakai Station",
+      "localName": "武蔵境駅",
+      "coordinates": {
+        "lat": 35.7021388,
+        "lng": 139.5436578
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89b2ead4-8fe5-4b8c-842f-bbb5f720f0dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89b2ead4-8fe5-4b8c-842f-bbb5f720f0dd.webp"
+        },
+        {
+          "url": "media/cached-image_bf1d6c5407a0925b5e3a108943456daf678ae66123992d9db8e949f0604423bf.jpg"
+        },
+        {
+          "url": "media/cached-image_8946ad6aa3f56537d363a03f87af4f4fb2459eef60699ee3593ec6097be71ea6.jpg"
+        },
+        {
+          "url": "media/cached-image_d9412e0c1d1815ee35d8184e74ed9791c9c4c2887c7f4385cfb7f459536ed0ff.jpg"
+        },
+        {
+          "url": "media/cached-image_c5eaf87a2791b7e6bb1cb327f11e34cd27bb4a727d514bd5fb75c1b2a9245a86.jpg"
+        },
+        {
+          "url": "media/cached-image_0422430f0cb264ef2d3b3c9e308cc5136dc108b073c82bc0b52fa9a40b4071e1.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 593,
+      "priceLevel": null,
+      "address": "Musashisakai Station, 2 Chome-1-12 Kyonancho, Musashino, Tokyo 180-0023, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RiNzc25LcwEAbZXa9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In Episode 10, Musashisakai Station is where Asahi walks and collects thoughts, with the station's platform and concourse shown as she processes events in her life. The Chuo Line station is a key recurring hub for the characters in this stretch of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_12",
+      "name": "Waseda Academy",
+      "localName": "早稲田アカデミー 武蔵境校",
+      "coordinates": {
+        "lat": 35.70081,
+        "lng": 139.54432
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f498f07-9f6a-464b-90dc-af48cb06d0e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f498f07-9f6a-464b-90dc-af48cb06d0e0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/bvRgSVpSXVZKETt18",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This cram school in the Musashisakai area appears in Episode 10 as part of the academic pressures in Asahi's life. Its appearance ties into scenes about Asahi's studies and her efforts to figure out her own future."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_13",
+      "name": "Freeman Cafe",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66167,
+        "lng": 139.70246
+      },
+      "image": "https://cdn.animepilgrimage.com/places/rds7mNjklUdNZUb6T75R.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/rds7mNjklUdNZUb6T75R.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/7dfXen1jCQmc3TFt9",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "In Episode 13, the final episode, Freeman Cafe in the Harajuku area is where characters meet for a meaningful conversation that closes out their arc. A cafe setting for the ending reinforces the series' theme of quiet, honest exchange between people."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2XdM0tsdGWAR-RfoXD7HQD0",
+      "name": "Starbucks Coffee - Southern Sky Tower Hachioji",
+      "localName": "スターバックス コーヒー サザンスカイタワー八王子店",
+      "coordinates": {
+        "lat": 35.6546598,
+        "lng": 139.3376371
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d73068e-9737-4d32-ad7b-063565a2324b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d73068e-9737-4d32-ad7b-063565a2324b.webp"
+        },
+        {
+          "url": "media/cached-image_343ffaef5325b967fa9aec38d30df57fabde69f28dfe4bd400c7d18bb2fdeb56.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Starbucks Coffee - Southern Sky Tower Hachioji, サザンスカイタワー八王子 4 Chome-7-1 Koyasumachi, Hachioji, Tokyo 192-0904, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dUcxGhJAeyeUmRhT8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "In Episode 1, Makio meets Asahi here in Hachioji after her parents' funeral, marking the awkward first moment these two very different people become family. The Starbucks in the shadow of Southern Sky Tower anchors the scene where Makio reluctantly agrees to take her niece in.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDcZ1YZiLGGAR8j1tcFitQ8k",
+      "name": "Seiko House Ginza Clock Tower",
+      "localName": "セイコーハウス 時計塔",
+      "coordinates": {
+        "lat": 35.6715697,
+        "lng": 139.7650504
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7453ef98-d2fc-474d-9b54-6fabd21f9422.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7453ef98-d2fc-474d-9b54-6fabd21f9422.webp"
+        },
+        {
+          "url": "media/cached-image_8a88242659b1886e0a6c4743a0f83aa0bcddb06f58b2404eac9538f9ad8cb910.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seiko House Ginza Clock Tower, 4 Chome-5-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6712759,139.7650773,3a,90y,355.97h,116.65t/data=!3m7!1e1!3m5!1sS7ybAvIoTN0jWJ4R5Zgv5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.651487790801312%26panoid%3DS7ybAvIoTN0jWJ4R5Zgv5A%26yaw%3D355.9674039206958!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In Episode 2, Makio brings Asahi to Ginza and the iconic Seiko House clock tower appears as they walk through the upscale district. For Asahi, raised in quieter Hachioji, the gleaming Ginza streetscape signals how foreign her new guardian's world is.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh6G6Kg7uGGARWwTV2s8zEb0",
+      "name": "Nishi-Ogikubo Station",
+      "localName": "西荻窪駅",
+      "coordinates": {
+        "lat": 35.7041224,
+        "lng": 139.6003514
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a3a6594-309c-4bb6-8caf-48b514e0600d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a3a6594-309c-4bb6-8caf-48b514e0600d.webp"
+        },
+        {
+          "url": "media/cached-image_17ee099edffc02b41bbedc0a71e97f6bb06497297e40448ac7d55ea3c45213b6.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome Nishiogiminami, Suginami City, Tokyo, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7041224,139.6003514,3a,90y,256.57h,99.01t/data=!3m6!1e1!3m4!1s1vjp3kImkgJN4ngT3LafYA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Nishi-Ogikubo Station appears in Episode 3 as the gateway to the antique-shop neighborhood where Makio lives. Asahi passes through here as she begins to learn the rhythms of her aunt's quiet, bookish life along the Chuo Line.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz0B6NlfvGGARIzSQ71X8MYg",
+      "name": "Sweets Design Studio MAPRIL",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.70752,
+        "lng": 139.59957
+      },
+      "image": "https://cdn.animepilgrimage.com/places/767f8a56-c2ca-4015-802e-9f4ce375ed84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/767f8a56-c2ca-4015-802e-9f4ce375ed84.webp"
+        },
+        {
+          "url": "media/cached-image_be1a4e0b11456974317ecaeaf9dc3a77abd034ab971379fbd11ddb535d68c522.jpg"
+        },
+        {
+          "url": "media/cached-image_8335fe76e025e7517e45a7abe28b816d0a6d2debe8da5835ade467796e97d481.jpg"
+        },
+        {
+          "url": "media/cached-image_b925b36cec685e6ee04f0349ad2b1c931ba2df11db0bc44f7f70ac12f79b7c94.jpg"
+        },
+        {
+          "url": "media/cached-image_7a4fd47754b37a9e73958c0c2f23847a4f66b2c83df806e8cfc2e7adb6f10b83.jpg"
+        }
+      ],
+      "type": "Cake shop",
+      "categories": [
+        "Cake shop"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒167-0042 Tokyo, Suginami City, Nishiogikita, 3 Chome−38−16",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7074436,139.5995492,3a,74.1y,195.73h,102.11t/data=!3m7!1e1!3m5!1sovJZje4MeQyRXUTjT_GITg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.111149508512483%26panoid%3DovJZje4MeQyRXUTjT_GITg%26yaw%3D195.72781229676013!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Nishi-Ogikubo cake shop appears in Episode 3 as part of the neighborhood Asahi explores around Makio's home. The small, artisan sweet shop reflects the eclectic, low-key character of the area that gradually becomes Asahi's new normal."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6xBTbDvGGARWjMM50vhcgE",
+      "name": "Mitaka Station",
+      "localName": "三鷹駅",
+      "coordinates": {
+        "lat": 35.7021581,
+        "lng": 139.5607749
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5pqV6gU3BOyzN3lIdQNP.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5pqV6gU3BOyzN3lIdQNP.webp"
+        },
+        {
+          "url": "media/cached-image_052cba8a2d0b4d6428bea03e3a19f705368fb8d5fd46aa631775cf35ce8fb7e0.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-46-1 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7021581,139.5607749,3a,75y,0.74h,106.87t/data=!3m6!1e1!3m4!1s4POGp2StsUs_-2QhhPBkaw!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Mitaka Station appears in Episode 12 as a transit point along the Chuo Line. Its station frontage is shown in scenes where characters travel between their home neighborhoods, underscoring the series' use of the Chuo Line corridor as emotional geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwcxgqpbyGGARh2KZXe_fHTQ",
+      "name": "KINOKUNIYA Bakery Nakanoekiten",
+      "localName": "KINOKUNIYA Bakery 中野駅店",
+      "coordinates": {
+        "lat": 35.705959199999995,
+        "lng": 139.66569389999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9f4a63a3-99a2-4b39-bcf8-caced9c8f1aa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9f4a63a3-99a2-4b39-bcf8-caced9c8f1aa.webp"
+        },
+        {
+          "url": "media/cached-image_a267bfd2dd365a619d6946819f78a071f6cd5310c6b617975e2ae9be2df56790.jpg"
+        }
+      ],
+      "type": "Bakery",
+      "categories": [
+        "Bakery"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KINOKUNIYA Bakery Nakanoekiten, JR中野駅北口 5 Chome-31-1 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HkuTfSx99sbhmpRH7",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Featured in Episode 3, this bakery near Nakano station is one of the everyday spots Asahi discovers while navigating life along the Chuo Line. It represents the ordinary domestic details the series observes with quiet affection."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_journal-with-witch_20",
+      "name": "Tamura Store",
+      "localName": "田村商店",
+      "coordinates": {
+        "lat": 35.65474,
+        "lng": 139.33189
+      },
+      "image": "https://cdn.animepilgrimage.com/places/369fc17d-eb52-47a2-bce1-521712fd147b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/369fc17d-eb52-47a2-bce1-521712fd147b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/zaaUW7dXf5aujMGz9",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This local shop in the Hachioji area appears in Episode 3, representing the small neighbourhood businesses that texture the setting. It is one of the background details that ground the series in everyday Tokyo life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlwLNGACLGGARu2E_YbWapSU",
+      "name": "Cartier Ginza 4 Chome",
+      "localName": "カルティエ 銀座４丁目ブティック",
+      "coordinates": {
+        "lat": 35.672284399999995,
+        "lng": 139.7639978
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc61ca6e-9d11-49c0-ae04-4981f150c6a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc61ca6e-9d11-49c0-ae04-4981f150c6a8.webp"
+        },
+        {
+          "url": "media/cached-image_1c720edbc3ad706b23c444f677ac68542aaa8106fb904d616eb31470c3ae2b9f.jpg"
+        }
+      ],
+      "type": "Jewelry store",
+      "categories": [
+        "Jewelry store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Cartier Ginza 4 Chome, 4 Chome-2-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9FCEKkAv9zTwHDbh9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Appearing alongside the Seiko House in Episode 2, this Cartier boutique is part of the Ginza shopping strip where Makio and Asahi explore together. The luxury storefronts underscore the gap between Makio's adult novelist world and Asahi's suburban upbringing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw5fF09sdGWARArX4jYofitQ",
+      "name": "7-Eleven Hachioji Southern Sky Tower Store",
+      "localName": "セブン-イレブン 八王子サザンスカイタワー店",
+      "coordinates": {
+        "lat": 35.6541779,
+        "lng": 139.3380291
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c6350ae7-66fe-4681-8ba3-10d35e3cdba1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c6350ae7-66fe-4681-8ba3-10d35e3cdba1.webp"
+        },
+        {
+          "url": "media/cached-image_c378fef4e75b92d827cfb63370b59bb228a29891adb00c27238cb0ce0e642bb1.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 4 Chome-7-1 Koyasumachi, Hachioji, Tokyo 192-0904, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SEri7gX1fKpUqr4J7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This convenience store near Southern Sky Tower appears in Episode 1 as part of the Hachioji station area backdrop, capturing the ordinary urban texture of the neighborhood where Asahi's old life ends and her new one begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4-5WBYHlGGARMJS9GTFdKyA",
+      "name": "Higashi-Koganei Station",
+      "localName": "東小金井駅",
+      "coordinates": {
+        "lat": 35.7016243,
+        "lng": 139.5236028
+      },
+      "image": "https://cdn.animepilgrimage.com/places/878e0bed-78de-4152-ba2b-834f45b9e04b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/878e0bed-78de-4152-ba2b-834f45b9e04b.webp"
+        },
+        {
+          "url": "media/cached-image_0fd2da6613efc640e1646fd20f4f3a5a7d2762f471d2db678878ecf9fb83c327.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5-chōme-2 Kajinochō, Koganei, Tokyo 184-0002, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Higashi-Koganei+Station/@35.7016243,139.5236028,3a,40.7y,94.02h,92.37t/data=!3m8!1e1!3m6!1sAF1QipPg-_wFtgglhmAnNNIf4RFHSCf7qs1MIhCdvw3F!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPg-_wFtgglhmAnNNIf4RFHSCf7qs1MIhCdvw3F%3Dw203-h100-k-no-pi-10-ya41-ro-0-fo100!7i8704!8i4352!4m9!3m8!1s0x6018e5810556eee3:0x202b5d3119bd9430!8m2!3d35.7015507!4d139.5239042!10e5!14m1!1BCgIgARICCAI!16zL20vMGRfdm1o?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Appearing in Episode 3, this Chuo Line station is part of the commuter geography Asahi learns as she moves between Hachioji and Nishi-Ogikubo. The station platform scenes reflect the series' use of train travel as a metaphor for emotional distance and closeness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr5ae1OWLGGAR52GRn2rVy54",
+      "name": "Charcoal Roast Coffee RIN Main Store",
+      "localName": "炭火焙煎珈琲.凛 銀座4丁目本店",
+      "coordinates": {
+        "lat": 35.6719466,
+        "lng": 139.7650527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e5386cd-0052-4d8f-975b-7475be23a9cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e5386cd-0052-4d8f-975b-7475be23a9cf.webp"
+        },
+        {
+          "url": "media/cached-image_89ec6c3d6d27a83dc2be1ae036ce0391acb83d2d367e204b322bf7409d8be216.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-14-14 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6719466,139.7650527,3a,90y,283.87h,94.15t/data=!3m7!1e1!3m5!1sjQALhUn-o21_IbPfUOly7Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DjQALhUn-o21_IbPfUOly7Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D281.24203%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Ginza coffee spot appears in Episode 2 during Makio and Asahi's first real outing together in Tokyo. The charcoal-roast coffee shop adds a warm, lived-in counterpoint to the gleaming Ginza boutiques surrounding it."
+    }
+  ]
+}

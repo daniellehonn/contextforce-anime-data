@@ -1,0 +1,682 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Horimiya: The Missing Pieces",
+  "slug": "horimiya-the-missing-pieces",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_54f7286e20ba54e3ea61d253f1249552185167e5ef39a8005835aff603498bcf.webp",
+  "image": "media/cached-image_54f7286e20ba54e3ea61d253f1249552185167e5ef39a8005835aff603498bcf.webp",
+  "banner": null,
+  "primaryLocation": "Kyoto, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.32000381333333,
+    "lng": 137.35666253333332
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Horimiya: The Missing Pieces"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJT9_o5QwJAWAR4e9kfgYjnJo",
+      "name": "Kannon-den (Ginkaku)",
+      "localName": "観音殿",
+      "coordinates": {
+        "lat": 35.026541699999996,
+        "lng": 135.7980464
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93a14a3f-f5a0-4fec-a857-ea3b06931b93.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93a14a3f-f5a0-4fec-a857-ea3b06931b93.webp"
+        },
+        {
+          "url": "media/cached-image_20bce6c87ee086602fdc18689a17d8abe2e105f79e00eab56a259bc50810b4e4.jpg"
+        },
+        {
+          "url": "media/cached-image_c4e0f27379ca098c58e900fc67cfd7e1c36ca948b44000e87c0c447ba30f8d28.jpg"
+        },
+        {
+          "url": "media/cached-image_0347bcfba1b59984e18b865a92c353405fd800dd77e6a2ea26f7e7fdd7340381.jpg"
+        },
+        {
+          "url": "media/cached-image_a762c9ad1095d333fec6d314008c9ab6829f8c2cee95f36a01ffcb1bdcdcf5e8.jpg"
+        },
+        {
+          "url": "media/cached-image_f4e383a8e5664b25f959cf73dd90e445245dfbb17789a37faeb31b3f52a879c4.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 261,
+      "priceLevel": null,
+      "address": "Kannon-den (Ginkaku), ２ Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.026413,135.7983697,3a,63.4y,291.42h,98.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqy_WRQQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha9JY96UTi7BOq4UFbAm0-8k_ExctMzObBY3cDlwy53YDi5W6DbiAfBewJDos6TENSthsJv07aEJrE7hck6J-pzdGwQeH-chB1x0vBuko3MnhP96asmwUw7Ob0hxHyt2SsLCPM%3Dw900-h600-k-no-pi-8.819974338702309-ya258.42473662336744-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Ginkaku-ji Silver Pavilion is one of the Kyoto landmarks the class visits together in Episode 1, with Miyamura and Hori walking its iconic moss garden paths side by side. The temple's quiet, reflective atmosphere mirrors the understated warmth of their relationship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFxF2LoLdIWARMvmnNop1ONQ",
+      "name": "Ryumon Falls",
+      "localName": "龍門の滝",
+      "coordinates": {
+        "lat": 36.6455986,
+        "lng": 140.1398144
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f83cf7ae-016d-4e9b-a13e-df752aa58776.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f83cf7ae-016d-4e9b-a13e-df752aa58776.webp"
+        },
+        {
+          "url": "media/cached-image_fba64b0dce5241cd010c88d5475e85740f89224f0374a5f51e26ed3fe778cf11.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ryumon Falls, 414 Taki, Nasukarasuyama, Tochigi 321-0633, Japan",
+      "city": "Nasukarasuyama",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0399748,135.7284914,3a,90y,358.62h,83.72t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICMsvOnXw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZD3IelNQGZBu39a-igjaGIj5EfN0jj9NdTghbaAKgV3IrO-kQ-dcYsOUBMVvuvxOxNlxEPjjeQjYSrMzfrsd43dQq8CgJl3adniRl0ty0jHgRSFYevX9yD5cz3agQgZgtO8sc%3Dw900-h600-k-no-pi6.276475741600365-ya358.6171625894341-ro0-fo100!7i7200!8i3600?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ryumon Falls in Tochigi appears as a scenic backdrop in Episode 1, one of the documented real-world locations the pilgrimage list tracks for this series. The dramatic cascade framed by nature captures the expansive, unhurried energy of the side-story episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3WRLgdMIAWARIxXdujjserk",
+      "name": "The Stage of Kiyomizu",
+      "localName": "清水の舞台",
+      "coordinates": {
+        "lat": 34.9947118,
+        "lng": 135.7850324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/214f447d-e690-41a4-b4e1-a497b61eb1a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/214f447d-e690-41a4-b4e1-a497b61eb1a5.webp"
+        },
+        {
+          "url": "media/cached-image_6861d02875fd48bf9e7315c73d7154c5d5b811902206ca89e928232adc82015e.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The Stage of Kiyomizu, 1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9946785,135.7850189,3a,90y,261.34h,98.57t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEn82BhwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaNVQp71zQQGJ-nqhF3bLbV1XgVNoxu8dGfTddfupXuCc-mOscQOMcmqV_DvO2lXIMNdDzQqJ0iSO_iV1EgCesovTlP6HHNgjsA0umu_qUOdmlPpSipiES5rd43zOP3S5cNsk7AyQ%3Dw900-h600-k-no-pi-8.568291309600355-ya21.34167191363946-ro0-fo100!7i3584!8i1792?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The famous wooden stage of Kiyomizu-dera features in the class trip episode, where the group looks out over Kyoto from the veranda. The sweeping view from the stage becomes a shared memory among the characters, reinforcing the episode's theme of savoring ordinary days.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq_lDMQ4JAWARKKF3f4LIttc",
+      "name": "Tatsumi Bridge",
+      "localName": "巽橋(白川)",
+      "coordinates": {
+        "lat": 35.0055745,
+        "lng": 135.7745134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a76d85bf-036c-4e11-915b-25bb81591cd3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a76d85bf-036c-4e11-915b-25bb81591cd3.webp"
+        },
+        {
+          "url": "media/cached-image_d7790da1a8c335e00fa9788a8d16e3cb5a6aa911c87dee43390e6dc31fd22f28.jpg"
+        },
+        {
+          "url": "media/cached-image_599d8846e4e3aae69f78aed79628251637f596627fb0973cfa07ee2b91147902.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.6,
+      "reviewCount": 1021,
+      "priceLevel": null,
+      "address": "Tatsumi Bridge, 祇園巽橋 372 Kiyomotocho, Higashiyama Ward, Kyoto, 605-0084, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0057082,135.7745396,3a,48.7y,50.48h,94.02t/data=!3m7!1e1!3m5!1sYyZMUDCutpKYRgd8fQi1vA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.02352588008597%26panoid%3DYyZMUDCutpKYRgd8fQi1vA%26yaw%3D50.47617089436567!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tatsumi Bridge in the Gion district is among the Kyoto stops from the class trip in Episode 1, with its willow-lined canal and traditional machiya backdrop. The picturesque lane is a quiet moment between the louder group activities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpzTiFuqMGGAR4uvTgBAtMN8",
+      "name": "Greenhouse, Shinjuku Gyoen National Garden",
+      "localName": "温室",
+      "coordinates": {
+        "lat": 35.6867561,
+        "lng": 139.71262249999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/666d772a-58af-4a43-a16f-df4e15ce8e87.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/666d772a-58af-4a43-a16f-df4e15ce8e87.webp"
+        },
+        {
+          "url": "media/cached-image_90894c1caa60c34434083913bfc3a4a069538aed2faf8d535d39399deb439234.jpg"
+        }
+      ],
+      "type": "Greenhouse",
+      "categories": [
+        "Greenhouse"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Greenhouse, Shinjuku Gyoen National Garden, 11 Naitomachi, Shinjuku City, Tokyo 160-0014, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Greenhouse,+Shinjuku+Gyoen+National+Garden/@35.6867561,139.7126225,3a,90y,43.37h,104.76t/data=!3m8!1e1!3m6!1sCIABIhAGbyfQvhT4IGfdUcMAAUg6!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbRsAQOUlH5BhzMTOjmeAqIb_7J16wkGyp5FSioQSsPym9UXg7bZTFO8oIWOLvD_MenxrBWO1BEGidZPie-ngnj2rCPsYU2wEqEmgohajJ9hE1COoAbdIBn_fzvvZ6E3JIx3ckjTYCUl-F3%3Dw900-h600-k-no-pi-14.761235797031304-ya245.54137707495482-ro0-fo100!7i8192!8i4096!4m9!3m8!1s0x60188cea16e234a7:0xdf302d1080d3ebe2!8m2!3d35.6867561!4d139.7126225!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11c42nd6hz?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The tropical greenhouse at Shinjuku Gyoen appears in the opening animation sequence, establishing the lush, intimate mood of the series. Its warm, enclosed greenery visually echoes the safe, private world Hori and Miyamura share away from school."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5zOC7K2JGGARr0GGHO4bZHE",
+      "name": "Kachidoki Bridge",
+      "localName": "勝鬨橋",
+      "coordinates": {
+        "lat": 35.66351,
+        "lng": 139.7749
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c59a5c00-c235-4c9d-84c4-6d96bce80234.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c59a5c00-c235-4c9d-84c4-6d96bce80234.webp"
+        },
+        {
+          "url": "media/cached-image_799ac951c8f5fcaa63febc1fcaf088b0482c3c31139f9897b4d8330fa1040a78.jpg"
+        },
+        {
+          "url": "media/cached-image_a46e97622c64cf18b84190262e87b2130afc5d72ab84529d7a1a34def54cabdc.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "19, Chuo City, Tokyo 104-0045, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6638096,139.7751716,3a,65.8y,150.17h,90.79t/data=!3m7!1e1!3m5!1sAF1QipMYHY42ABFM3G70kuRLl0-m_OQ5SIJGrBhHKQ3P!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMYHY42ABFM3G70kuRLl0-m_OQ5SIJGrBhHKQ3P%3Dw900-h600-k-no-pi-0.7912756422272906-ya192.9139967879687-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Kachidoki Bridge over the Sumida River appears in the opening animation of Horimiya: The Missing Pieces, its silhouette against the sky part of the montage that sets the series' nostalgic, slice-of-life tone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuaEq5mXyGGARGfaix0mzdtg",
+      "name": "Umezato Central Park",
+      "localName": "梅里中央公園",
+      "coordinates": {
+        "lat": 35.6963455,
+        "lng": 139.6409401
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4b3e127-ccca-4e58-a5d8-0c02fdf05377.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4b3e127-ccca-4e58-a5d8-0c02fdf05377.webp"
+        },
+        {
+          "url": "media/cached-image_60261ce338aacad0ce435770cd20f16857f9cea61b71f560021675fe675521d4.jpg"
+        },
+        {
+          "url": "media/cached-image_f9cd99a768e1c9636af982e661e21b7a15d2d475109e7a2c49a35d7e7468e4d2.jpg"
+        },
+        {
+          "url": "media/cached-image_78e6df0393e0ffedd544cbaf06d7bfe8ab580a6f9d02949ead13679769c47fd3.jpg"
+        },
+        {
+          "url": "media/cached-image_fdf9a2cdba272510f47d5c1bc184d101cf211d583a92420d598294be36521db4.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 22,
+      "priceLevel": null,
+      "address": "2 Chome-34-20 Umezato, 杉並区 Suginami City, Tokyo 166-0011, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6963455,139.6409401,3a,90y,168.62h,92.59t/data=!3m7!1e1!3m5!1s_KX02payPmsmoRt6m8n57w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D_KX02payPmsmoRt6m8n57w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D313.46893%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Umezato Central Park in Suginami City, near Shin-Koenji, appears in Episode 4 as a neighborhood hangout spot reflecting the everyday Tokyo backdrop of Hori and Miyamura's lives. The low-key park setting fits the series' focus on small, unhurried moments between characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp7ocMCqoAWARQoXXRj4Xq-E",
+      "name": "Ryoan-ji",
+      "localName": "龍安寺",
+      "coordinates": {
+        "lat": 35.0344788,
+        "lng": 135.7182141
+      },
+      "image": "https://cdn.animepilgrimage.com/places/540b8cb9-bbd7-4acb-b6f3-a608822d5a2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/540b8cb9-bbd7-4acb-b6f3-a608822d5a2f.webp"
+        },
+        {
+          "url": "media/cached-image_9d643e652bd6d4d107dc05143b78254bcb17397a0e0cba7df11bee4f091b364e.jpg"
+        },
+        {
+          "url": "media/cached-image_e16ea72175e83439416c1be1571283187f7e2ed39209dee54cd80da456369fc0.jpg"
+        },
+        {
+          "url": "media/cached-image_56cbb6035fcc5ea71fc634ec00a7456896ad205da539c8641ca8db3f6ace0cfe.jpg"
+        },
+        {
+          "url": "media/cached-image_af33b3cd19d56db7283dfd4a9a0725a5de2e81460e17d23fce02847c2a832f62.jpg"
+        },
+        {
+          "url": "media/cached-image_066cb19f43f2a0222bdbcf281f9ba8383831dd1e9356bcf5f7361dd418a2e8a7.jpg"
+        },
+        {
+          "url": "media/cached-image_cf1ebed73a3fab24b0c166bbcaf979cc0e82a871322e3b89db4f9bfb6aef27bf.jpg"
+        },
+        {
+          "url": "media/cached-image_fc42dcc1f6510ae6adf143879287add5791fae35de582da23c286fbca43865da.jpg"
+        },
+        {
+          "url": "media/cached-image_8e44e995f8f95aa6bf29309d633a8f6cf466893bad5135f9bfab9fcc8cc5b070.jpg"
+        },
+        {
+          "url": "media/cached-image_c2abc844d46fc71d9e552209739bb694e5152114ecfd082c493ef0bbf155d94d.jpg"
+        },
+        {
+          "url": "media/cached-image_c98c7a08aace9a73e072427a0612831e0b90a0039093019153492e3677948c93.jpg"
+        },
+        {
+          "url": "media/cached-image_9d4915fbb676550c6147abdc4906e0df68ac008a94d879a6e07e015f0db6cd24.jpg"
+        },
+        {
+          "url": "media/cached-image_fc162fc84c3e973062787aca12869ce075954ae484355126cd1ac64c5803dd7c.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 11095,
+      "priceLevel": null,
+      "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0344788,135.7182141,2a,41.3y,252.22h,88.84t/data=!3m6!1e1!3m4!1saXbdnZqMc2WMXJXVC0c1IQ!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ryoan-ji and its famous rock garden are part of the Kyoto class trip itinerary in Episode 1, visited as the group moves through the city's historic northwest. The spare, meditative space contrasts with the cheerful noise of the friend group."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvUbrwCCoAWARX2QiHCsn5A4",
+      "name": "Rokuon-ji Kinkaku",
+      "localName": "鹿苑寺金閣",
+      "coordinates": {
+        "lat": 35.0386791,
+        "lng": 135.7285615
+      },
+      "image": "https://cdn.animepilgrimage.com/places/821c0c4f-0dd7-4d63-a457-9432cb336687.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/821c0c4f-0dd7-4d63-a457-9432cb336687.webp"
+        },
+        {
+          "url": "media/cached-image_ef1911ec21ed640f93518f31a8dfa38ef3b7fcd287bf82723356249a0d1b794e.jpg"
+        }
+      ],
+      "type": "仏教寺院",
+      "categories": [
+        "仏教寺院"
+      ],
+      "rating": 4.6,
+      "reviewCount": 68152,
+      "priceLevel": null,
+      "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0386791,135.7285615,3a,90y,34.58h,93.64t/data=!3m6!1e1!3m4!1sAF1QipOs71nqVckefY3zjlyUyD1zNGNbxam38wkgIe13!2e10!7i5376!8i2688?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Golden Pavilion, Kinkaku-ji, is one of the most recognizable stops on the class trip in Episode 1, with the group gathering at the pond-side viewing area. Its brilliant gold reflection on the water makes it one of the most shareable pilgrimage photos for fans.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGzWRQZFFGGARFWcKYj7tVK0",
+      "name": "Benzaiten",
+      "localName": "銭洗弁財天 宇賀福神社",
+      "coordinates": {
+        "lat": 35.3256988,
+        "lng": 139.5422058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c0e54db-a8b2-41be-824c-b7d1d779fcee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c0e54db-a8b2-41be-824c-b7d1d779fcee.webp"
+        },
+        {
+          "url": "media/cached-image_737d07e21921b6d264bf1233f116a8c1cf6aae61a45652ddb70ee9fc0f17b50d.jpg"
+        },
+        {
+          "url": "media/cached-image_73d65d3c6c5a8495ef55e52f73f76a857478193d6b6c22e1ee25753a2fe50ef5.jpg"
+        },
+        {
+          "url": "media/cached-image_a0c72798b26b84a0608fa4b7ecf28f4ee623b623e20304796901ec82cd3eb91a.jpg"
+        },
+        {
+          "url": "media/cached-image_1527765cec6b7eb1438665b9a8f921f66811279578ee9e43a0322b3c0755ef77.jpg"
+        },
+        {
+          "url": "media/cached-image_4c6e4caae4ecff9f4c98d10ede7d9578b3524d0e0ee7d864e065121769929221.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 7664,
+      "priceLevel": null,
+      "address": "Zeniarai Benten Shrine, 2 Chome-25-16 Sasuke, Kamakura, Kanagawa 248-0017, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0269279,135.7987479,3a,90y,12.86h,105.89t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICU2sj3ywE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbnUBVQ0Mlij2BuWNyTNa-RkezHaN1uU9hAmBzuTMxgDrbxxXf2k06NvNc4CGMULIU0UQw7Hk6dezWX_EYAbffftYZkzmsVjK-EvOXcInMkFGvdJrxN5N5ekFPYriGO8Z0onGUaOA%3Dw900-h600-k-no-pi-15.892335405938269-ya12.862394840248392-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Zeniarai Benzaiten shrine in Kamakura is listed as a documented location from Episode 1 of the series, a tucked-away cave shrine reached through a narrow tunnel. The hidden, intimate character of the shrine suits the quiet revelations that define the side-story episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC5srCtQHAWARLy9qkFmHaxA",
+      "name": "Nijo Castle",
+      "localName": "元離宮二条城",
+      "coordinates": {
+        "lat": 35.0140379,
+        "lng": 135.7484258
+      },
+      "image": "https://cdn.animepilgrimage.com/places/732af8da-0920-4a3b-bf0e-542be3ce7340.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/732af8da-0920-4a3b-bf0e-542be3ce7340.webp"
+        },
+        {
+          "url": "media/cached-image_0665277b659d6f05b45c21f77cdfc9f3eed9408b06191793d662beb76082d1ee.jpg"
+        },
+        {
+          "url": "media/cached-image_f4b442355cbc7c928faf4b9b54fb9b30211059c0957d76c209c53b4bf482ca7e.jpg"
+        },
+        {
+          "url": "media/cached-image_20cb5c4eff47c93f36550d1b789e33303f2c3be0d4021bbe4d8469ff6ed9b567.jpg"
+        },
+        {
+          "url": "media/cached-image_c673c3402a1b46a65ef16de16fa624b05d9217dd9e95ea0600b16ef7aeb66d95.jpg"
+        },
+        {
+          "url": "media/cached-image_89b2797829e01b0816d0d4f7cf6630c67ded756b41f67a742f275de753d0949a.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.4,
+      "reviewCount": 2880,
+      "priceLevel": null,
+      "address": "Nijō Castle, 541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0140914,135.7488358,3a,90y,160.74h,93.07t/data=!3m7!1e1!3m5!1sEPqGvDO4LbkCeZ5E5s1FZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0700537784078534%26panoid%3DEPqGvDO4LbkCeZ5E5s1FZg%26yaw%3D160.7378961718768!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Nijo Castle is part of the Kyoto class trip in Episode 1, its grand Ninomaru Palace and blossoming grounds forming a backdrop for the group's exploration. Walking the famous nightingale floors together is a shared experience that cements the trip as a cherished memory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuT-OGAIJAWARlxvqGYam7ic",
+      "name": "Yasaka Pagoda (Gojunoto), Hōkan-ji Temple",
+      "localName": "八坂の塔",
+      "coordinates": {
+        "lat": 34.9985199,
+        "lng": 135.7792491
+      },
+      "image": "https://cdn.animepilgrimage.com/places/83e48aac-0ac6-4100-8896-1ccd3fb99c70.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/83e48aac-0ac6-4100-8896-1ccd3fb99c70.webp"
+        },
+        {
+          "url": "media/cached-image_f7ff4c5205e6bc40ffd6be2feeab15852a36e64b2ad9acfa2a394bc6affbb6d5.jpg"
+        },
+        {
+          "url": "media/cached-image_b2f2961228f9325c65e7163a3985513a6963548eec61139b6426085a986ed049.jpg"
+        },
+        {
+          "url": "media/cached-image_364bf9e1eb09da9bcf030eaf874cee248da40f5daf719b81a9d4a9551bd9a0a5.jpg"
+        },
+        {
+          "url": "media/cached-image_401d59366676ba89d11738515b5659830d853ce219a1ff1c20f6f72f2f1c73b3.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 251,
+      "priceLevel": null,
+      "address": "Yasaka Pagoda (Gojunoto), Hōkan-ji Temple, Yasaka Kamimachi, Higashiyama Ward, Kyoto, 605-0827, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9984407,135.7790935,3a,90y,52.35h,133.01t/data=!3m7!1e1!3m5!1svmPX4Bdi4SP7hS50m2bCKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-43.00710391001252%26panoid%3DvmPX4Bdi4SP7hS50m2bCKA%26yaw%3D52.35459258604379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The five-story Yasaka Pagoda rising above the Higashiyama cobblestone lanes is a key visual from the Kyoto class trip episode, its silhouette immediately recognizable to fans. The atmospheric stone-paved alley leading to it appears in scene compositions placing characters against Kyoto's iconic skyline.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbzlMh9QIAWARAeNzNHohufA",
+      "name": "Kiyomizudera Okunoin",
+      "localName": "奥の院",
+      "coordinates": {
+        "lat": 34.9946042,
+        "lng": 135.7855902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32795faf-2ba2-4c52-88b0-8eea802fb270.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32795faf-2ba2-4c52-88b0-8eea802fb270.webp"
+        },
+        {
+          "url": "media/cached-image_d4a49252090f62197bdc826a2bb91927c4dc26d5c6824ffdb453c63ab7df3fc0.jpg"
+        },
+        {
+          "url": "media/cached-image_cbbb8837d08dd63a619a69bc1a6132440ca02523664c918d81c0a5b7081bb36f.jpg"
+        },
+        {
+          "url": "media/cached-image_704585f42e7f96c641ed2f11197407d6f70eebe67dc34ce82e476bb9bc017897.jpg"
+        },
+        {
+          "url": "media/cached-image_c6ba70f110918502e40fe58e8a3e3124f529333e5fb8627caa25a38d955cbd30.jpg"
+        },
+        {
+          "url": "media/cached-image_0e5bba579971ed2311addf74156d571de746b32d56b17fd2640aa0d93df814fe.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 143,
+      "priceLevel": null,
+      "address": "XQVP+R7 Kiyomizudera Okunoin, Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9945774,135.7854099,2a,90y,295.59h,97.28t/data=!3m7!1e1!3m5!1sp9b6VX17b9kUkZjEUTYm8g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.279571763932239%26panoid%3Dp9b6VX17b9kUkZjEUTYm8g%26yaw%3D295.58848325607244!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Okunoin inner sanctuary at Kiyomizudera, with its dramatic view back toward the main hall's wooden stage, is part of the class trip sequence in Episode 1. The vantage point looking across to the main hall captures a quieter, more reflective moment away from the crowds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi90hbl0PAWARYHXiSci-UJI",
+      "name": "Tofuku-ji Hojo (Abbot's Quarters)",
+      "localName": "方丈",
+      "coordinates": {
+        "lat": 34.977043,
+        "lng": 135.7740979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f04f6d4-9038-4abe-a573-207a521231b5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f04f6d4-9038-4abe-a573-207a521231b5.webp"
+        },
+        {
+          "url": "media/cached-image_53debcf9e78d15aa967029ba30fd4ed2b5ea767b53c88e68ac547facb2490798.jpg"
+        },
+        {
+          "url": "media/cached-image_c221224ac874677cd12f54ace1694f4f40d37bee325ec34623562dc711cb4a89.jpg"
+        },
+        {
+          "url": "media/cached-image_84b8ea4c51042e1428cea444f18844f257d22af14502713db22bd3f2f55e70c9.jpg"
+        },
+        {
+          "url": "media/cached-image_028ac2954d7fb05afbf75353ae4a103047ddd606521c212c019d60144a6c41cf.jpg"
+        },
+        {
+          "url": "media/cached-image_db807087d8af7e0a89dac66dc869cf819cf0d3d3068a1c0311a558e7a78a0a86.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 39,
+      "priceLevel": null,
+      "address": "Tofuku-ji Hojo (Abbot's Quarters), 15 Chome-778 Honmachi, Higashiyama Ward, Kyoto, 605-0981, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9770061,135.7742541,3a,90y,207.74h,90.11t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqrZGjxQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYKkM9LEC74hNgjND4iTbdfcEyP6ghOjEjnkWBEORUKz3ClcSJ9LVJNkN7eW2kTSgAhL7jyqPRMl2eXXvSgwbL_QDN47riTArVtERV7UZiV4O9JXC0AjxNFCjiiE-aDptPVn-SAPQ%3Dw900-h600-k-no-pi-0.1145682043772922-ya316.7447745815141-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Hojo at Tofuku-ji, known for its beautiful checkerboard and moss gardens, is among the Kyoto locations visited in Episode 1. The geometric garden provides a visually distinctive setting within the broader Kyoto class trip sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcyidf2HyGGARc6_X-N6hdMs",
+      "name": "McDonald's Shin-Koenji Restaurant",
+      "localName": "マクドナルド 新高円寺店",
+      "coordinates": {
+        "lat": 35.6979573,
+        "lng": 139.6477244
+      },
+      "image": "https://cdn.animepilgrimage.com/places/487593a2-fae0-4c28-8143-ebc67994538e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/487593a2-fae0-4c28-8143-ebc67994538e.webp"
+        },
+        {
+          "url": "media/cached-image_1425759a4359ca794e6ff06e027d7422aa85a33dc650a9517d7cac666a646aee.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's Shin-Koenji Restaurant, 2 Chome-20-3 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6977648,139.647676,3a,31.2y,6.64h,92.34t/data=!3m7!1e1!3m5!1sS2DFnHJnEJ8moDIPZg9ggg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.340929294879558%26panoid%3DS2DFnHJnEJ8moDIPZg9ggg%26yaw%3D6.636768143036079!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The McDonald's near Shin-Koenji station appears in Episode 6, a familiar fast-food stop in the Suginami neighborhood that grounds the characters in everyday Tokyo life. The mundane, comfortable setting fits the series' celebration of ordinary after-school moments."
+    }
+  ]
+}

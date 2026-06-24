@@ -1,0 +1,1012 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Bungo Stray Dogs 3",
+  "slug": "bungo-stray-dogs-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_c733961b76c928658858dfa431bb195584f0e7bda79cd9ae8bf52caa41eb4fd5.webp",
+  "image": "media/cached-image_c733961b76c928658858dfa431bb195584f0e7bda79cd9ae8bf52caa41eb4fd5.webp",
+  "banner": null,
+  "primaryLocation": "Kanagawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.56937386399999,
+    "lng": 139.64902597999998
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Bungo Stray Dogs 3"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJe9fvGR5dGGARXuPrDE6hTTo",
+      "name": "Motomachi Plaza",
+      "localName": "元町プラザ",
+      "coordinates": {
+        "lat": 35.4413447,
+        "lng": 139.65087459999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a3b7d83-e933-4887-bdd9-74469757c10b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a3b7d83-e933-4887-bdd9-74469757c10b.webp"
+        },
+        {
+          "url": "media/cached-image_63b2516b7c271348e108f48b6a6e94f079ac6bc5786083a755c8cb82b02b5b7f.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Motomachi Plaza, 1 Chome-１３ Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4414386,139.6507732,2a,90y,140.04h,89.62t/data=!3m7!1e1!3m5!1spCfY1zobi_-xfKSzp9yhwg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.38059450111715876%26panoid%3DpCfY1zobi_-xfKSzp9yhwg%26yaw%3D140.03581115270651!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Motomachi Shopping Street's distinctive Western-style arcade appears in episode 5 as Atsushi and Kyoka explore Yokohama's elegant shopping district, with Kyoka experiencing ordinary civilian life for the first time."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1e7seJcGGARbDdyYvFJuuM",
+      "name": "Yamashita Park",
+      "localName": "山下公園",
+      "coordinates": {
+        "lat": 35.44555,
+        "lng": 139.64971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de416d27-8a2e-484d-a4e9-a7edd686c8cd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de416d27-8a2e-484d-a4e9-a7edd686c8cd.webp"
+        },
+        {
+          "url": "media/cached-image_7281206f920b001f87a523c3c04e673b4f314e6a44ad3625dd412af5d8b493b3.jpg"
+        },
+        {
+          "url": "media/cached-image_b430298ec0c5a85862edb6aa8cd908481559847a6594052854680f5e8038241b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b4c287953132ce0f6742f4ac234768bbd1d6163cba83d75714fbdb74abf3f80.jpg"
+        },
+        {
+          "url": "media/cached-image_409e3fd7b20ccd618548395c527a7e7310a15fd6fde087cb61799c4a90eed76d.jpg"
+        },
+        {
+          "url": "media/cached-image_25bd26be6878dfa8b035d86cab10563c402db700ed322b30877332fc78547c40.jpg"
+        },
+        {
+          "url": "media/cached-image_2607f3f79ef882e8a6f3958548c164eead77a5f0d4eb47ca731bee38d61c4896.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2320,
+      "priceLevel": null,
+      "address": "279 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454931,139.6497994,3a,90y,309.78h,95.72t/data=!3m7!1e1!3m5!1sBbTlT5945dCtth4vFWB8gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.724795431178734%26panoid%3DBbTlT5945dCtth4vFWB8gQ%26yaw%3D309.7801928323015!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Yamashita Park's seaside promenade is featured in episode 6 as a backdrop for character moments near the Yokohama waterfront, one of the most recognizable and frequently visited BSD pilgrimage locations in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvdMQOx9dGGARbLStP8GzB9k",
+      "name": "Harbor View Park Observatory",
+      "localName": "横浜市港の見える丘公園 展望台",
+      "coordinates": {
+        "lat": 35.4402386,
+        "lng": 139.654596
+      },
+      "image": "https://cdn.animepilgrimage.com/places/66452138-8361-496e-b53f-142c930e4b23.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/66452138-8361-496e-b53f-142c930e4b23.webp"
+        },
+        {
+          "url": "media/cached-image_85062c61af6b5d3213f96ccfcbc7d2f34f49b32f69a052a34aff46c10f3280b6.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "114 Yamatecho, Naka Ward, Yokohama, Kanagawa 231-0862, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4402386,139.654596,3a,47.9y,14.92h,92.53t/data=!3m7!1e1!3m5!1s1Yq_wxeSKyNW00vruCqfVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1Yq_wxeSKyNW00vruCqfVA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D34.450264%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Harbor View Park Observatory overlooking Yokohama Bay appears in episode 7 during tense scenes involving the Port Mafia, its dramatic hilltop view of the port making it a fitting setting for high-stakes confrontations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtfthAx5dGGAR2TP-ppzQ7yk",
+      "name": "Starbucks Coffee - Yokohama Motomachi",
+      "localName": "スターバックスコーヒー 横浜元町店",
+      "coordinates": {
+        "lat": 35.4413916,
+        "lng": 139.6506118
+      },
+      "image": "https://cdn.animepilgrimage.com/places/329549a0-b974-47a0-8c4c-8c3bd2f41211.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/329549a0-b974-47a0-8c4c-8c3bd2f41211.webp"
+        },
+        {
+          "url": "media/cached-image_effd6965a94db4d6db6674dffe4308e0eee81fe082cce5840638b3858002f4b5.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ラヴィ元町 1F, 1 Chome-13-5 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4413916,139.6506118,3a,75y,45.78h,94.93t/data=!3m6!1e1!3m4!1sF-jFpMnwH8KojlSHo3VdXA!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Motomachi Starbucks, with its distinctive storefront on the shopping street, appears in episode 5 as one of the street-level background locations during Atsushi and Kyoka's day out in Motomachi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk4z8B-aLGGAROOtd06yMyeA",
+      "name": "Bar Lupin",
+      "localName": "ルパン",
+      "coordinates": {
+        "lat": 35.6710445,
+        "lng": 139.7633112
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c21e7209-9098-4c57-9d49-81349fdf1c2c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c21e7209-9098-4c57-9d49-81349fdf1c2c.webp"
+        },
+        {
+          "url": "media/cached-image_cb010efbc36e7710f9bb7806655b360fc567699ddda9883c6e98ddd0fb6c5fee.jpg"
+        }
+      ],
+      "type": "Bar",
+      "categories": [
+        "Bar"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bar Lupin, 塚本不動産ビル 地下 5 Chome-5-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6709426,139.7631654,3a,75y,32.47h,95.26t/data=!3m7!1e1!3m5!1s4UFgkfYKLyliL4kKw0VmgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.257344712634421%26panoid%3D4UFgkfYKLyliL4kKw0VmgQ%26yaw%3D32.46762480110855!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 4,
+      "entityContext": "Bar Lupin, a legendary 1928 Ginza bar frequented by real literary figures including Osamu Dazai, appears in the season 4 opening sequence as a nod to the historical literary world that inspired the BSD characters.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWUURTV1cGGARBqx4CqSvTOc",
+      "name": "Yokohama Museum of Art",
+      "localName": "横浜美術館",
+      "coordinates": {
+        "lat": 35.456961899999996,
+        "lng": 139.63064749999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/153af887-4b52-49dd-8401-a31c75772f54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/153af887-4b52-49dd-8401-a31c75772f54.webp"
+        },
+        {
+          "url": "media/cached-image_b06f1744fa6358aa697ca35439dc49d99e0c26acf83f3fa90b64279e6a70e659.jpg"
+        },
+        {
+          "url": "media/cached-image_7b8321a664c3a3a2314daae08b3c3087b5b479e658991eb9f6664f1ef487ba2a.jpg"
+        },
+        {
+          "url": "media/cached-image_69016f1f3eb919ac8e96842688c870161e97359f64cd41f1da64412b13dbfd1c.jpg"
+        },
+        {
+          "url": "media/cached-image_7f42dd8a11e3fa4050e80ec576b0714044aca58a46b330350bda7f50d9ca3ab8.jpg"
+        },
+        {
+          "url": "media/cached-image_92273239a6b143f9e44c0fed99b841c1567a165de4a65173f2f274e4a2cc1a79.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.2,
+      "reviewCount": 36,
+      "priceLevel": null,
+      "address": "Yokohama Museum of Art, 横浜美術館 内 3 Chome-4-1 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Yokohama+Museum+of+Art/@35.4572232,139.6304563,3a,75y,44.35h,95.64t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDc067Q6gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu24dEeTHVkhH7hP5tT-HBTUe4yMq6Id5557Xg1UcDvVNr1Br-oO813OEGKYM_F3GXR1TxX7OrLVlRbOro5kqh8xYKIVhQMlc2pnJt3jmpieyQlGQo8HVSndgiIQ5Lo7bbS7Uy6s3w%3Dw900-h600-k-no-pi-5.64298881905269-ya78.34900949633357-ro0-fo100!7i8192!8i4096!4m9!3m8!1s0x60185c5d4d114559:0xe74cafa40a78ac06!8m2!3d35.4569619!4d139.6306475!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F03w9zz4?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 4,
+      "entityContext": "The grand Yokohama Museum of Art in Minato Mirai appears in the opening sequence of season 4, representing Yokohama's cultural prestige as the city where the Armed Detective Agency operates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6_5KR_pcGGARIm-SnMIjl1c",
+      "name": "Yokohama District Court",
+      "localName": "横浜地方裁判所",
+      "coordinates": {
+        "lat": 35.446447,
+        "lng": 139.6416226
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e76dfada-ece1-4a9c-9ce0-1884ca49bc7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e76dfada-ece1-4a9c-9ce0-1884ca49bc7d.webp"
+        },
+        {
+          "url": "media/cached-image_e4e61e3c021c7dac85e3c90a25400512490551ebb0c4242c3620f6d1e498bbae.jpg"
+        },
+        {
+          "url": "media/cached-image_63eb63190d4e329315616cc5a39ac543575a4dab903546e4896f024405f7929b.jpg"
+        },
+        {
+          "url": "media/cached-image_b0573559f7dbffc9d1d8eec5da3b83c526aaab2f34f50dcd5335e23354926785.jpg"
+        },
+        {
+          "url": "media/cached-image_0bd398f76f73399b570208bd59f6552f7df8e77a9369b3548cb05bc64bbfed7d.jpg"
+        }
+      ],
+      "type": "City courthouse",
+      "categories": [
+        "City courthouse"
+      ],
+      "rating": 3.4,
+      "reviewCount": 23,
+      "priceLevel": null,
+      "address": "Yokohama District Court, ９ Nihonodori, Naka Ward, Yokohama, Kanagawa 231-8502, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.446227,139.6420101,3a,90y,336.11h,118.25t/data=!3m7!1e1!3m5!1sRP5S9eOP3n7SyXawVLQwug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-28.24640689083168%26panoid%3DRP5S9eOP3n7SyXawVLQwug%26yaw%3D336.11146703804155!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Yokohama District Court serves as the setting for tense courtroom scenes in episode 8 as characters navigate legal and political machinations surrounding the Decay of Angels' framing of the Agency.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI0JCh9amH2AR5y9YEeyfKjk",
+      "name": "Shinko Bridge",
+      "localName": "神橋",
+      "coordinates": {
+        "lat": 36.75337,
+        "lng": 139.60400339999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/081c99b8-d340-4e05-9333-0aefc84d39da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/081c99b8-d340-4e05-9333-0aefc84d39da.webp"
+        },
+        {
+          "url": "media/cached-image_621cd3a736d7626e0f30595ad7005dbfe18602f79968e87e1149a37e72c4f5a4.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shinkyō Bridge, Kamihatsuishimachi, Nikko, Tochigi 321-1401, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4508598,139.6425068,3a,90y,70.1h,92.75t/data=!3m7!1e1!3m5!1sAnZwlz6bQFEOru7I9sy0tA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7497021340970775%26panoid%3DAnZwlz6bQFEOru7I9sy0tA%26yaw%3D70.10188540031524!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": 4,
+      "entityContext": "The sacred vermilion Shinkyo Bridge in Nikko, a UNESCO World Heritage site, is featured in the ending credits of the season as an evocative historical landmark reflecting BSD's literary and historical atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQQ3WLfpcGGARML7FrZ_1wZI",
+      "name": "Kanagawa Prefectural Government Office",
+      "localName": "神奈川県庁",
+      "coordinates": {
+        "lat": 35.4477712,
+        "lng": 139.6425415
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c23dc1d-1282-4444-94e7-030be07ddd06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c23dc1d-1282-4444-94e7-030be07ddd06.webp"
+        },
+        {
+          "url": "media/cached-image_60cbf2892ddf79602b538b3a670f979ed8f5c5b9c4b18f0c48ad8aaf8f9d66ed.jpg"
+        },
+        {
+          "url": "media/cached-image_a71d815dd357ade35cca2eb6f1bc3a681fb1114ec06a8c335447590019934514.jpg"
+        },
+        {
+          "url": "media/cached-image_6a4b99bae0200d9d852a111a58735741c13271719c018feee50bffa540f261fd.jpg"
+        },
+        {
+          "url": "media/cached-image_6b8aaed24078a3d6d83a42b7d6c0374ce6b9e581086730f554157c2c790c6b3a.jpg"
+        },
+        {
+          "url": "media/cached-image_9d011e42b0a57b8c30697c7f109e8d6ada89d0293c5f6810c563625c4b559e4c.jpg"
+        }
+      ],
+      "type": "Japanese prefecture government office",
+      "categories": [
+        "Japanese prefecture government office"
+      ],
+      "rating": 4.1,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Kanagawa Prefectural Government Office, 1 Nihonodori, Naka Ward, Yokohama, Kanagawa 231-8588, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.447392,139.6431287,3a,90y,305.41h,102.25t/data=!3m7!1e1!3m5!1s2NT8G_168CxUdKctpLl0VQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.251409361732868%26panoid%3D2NT8G_168CxUdKctpLl0VQ%26yaw%3D305.41076863690256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 4,
+      "entityContext": "The historic Kanagawa Prefectural Government Building, known as King of the Three Towers in Yokohama, appears in the opening sequence as one of the city's most iconic colonial-era landmarks tied to the series' Yokohama setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtU5d-vtcGGARa3aFm0-TI5o",
+      "name": "Yokohama Intl Passenger Terminal",
+      "localName": "横浜港大さん橋国際客船ターミナル",
+      "coordinates": {
+        "lat": 35.4511766,
+        "lng": 139.64732279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/534e97ca-c7ee-48e8-b00e-9976a6f61a0d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/534e97ca-c7ee-48e8-b00e-9976a6f61a0d.webp"
+        },
+        {
+          "url": "media/cached-image_af69a844df0402b5051c9cd31717442460c9c3a778f49f6ebd4f6d98d2cf00fb.jpg"
+        }
+      ],
+      "type": "Ferry terminal",
+      "categories": [
+        "Ferry terminal"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒231-0002 Kanagawa, Yokohama, 1-4 Yokohama Intl Passenger Terminal, 中区海岸通１丁目",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4528964,139.6489085,3a,90y,90.82h,91.3t/data=!3m7!1e1!3m5!1s6UV-5h_YetTkpdOmPeJV2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3010688025248243%26panoid%3D6UV-5h_YetTkpdOmPeJV2A%26yaw%3D90.81728993171743!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 4,
+      "entityContext": "Osanbashi International Passenger Terminal appears in the opening sequence of season 4, its sweeping wooden roof deck over Yokohama Harbor establishing the cinematic city backdrop central to the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFd7qcMddGGAR19XzEs-fW78",
+      "name": "COFFEE ROASTERY MEGURO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.4421244,
+        "lng": 139.6500515
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1764d138-03ba-48cc-bb74-ae6f6bc9688e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1764d138-03ba-48cc-bb74-ae6f6bc9688e.webp"
+        },
+        {
+          "url": "media/cached-image_5ebba28fd1449a71715d3ec07b19eb429bbfa3b8b9c2a371f03ed642191d8cf3.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒231-0023 Kanagawa, Yokohama, Naka Ward, Yamashitacho, 88-5 COFFEE ROASTERY MEGURO",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.442013,139.6503441,3a,75y,257.45h,95.96t/data=!3m7!1e1!3m5!1sUyL1Zz3I39o4BakKAL-2WQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.962593314182456%26panoid%3DUyL1Zz3I39o4BakKAL-2WQ%26yaw%3D257.44537029213046!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOXF2lfxdGGARabVsE-AB-Mg",
+      "name": "Mallory Pork Steak Yokohama",
+      "localName": "マロリーポークステーキ 横浜店",
+      "coordinates": {
+        "lat": 35.463628299999996,
+        "lng": 139.6155635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0809653-adbc-4fd6-b898-bd5f6170f27e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0809653-adbc-4fd6-b898-bd5f6170f27e.webp"
+        },
+        {
+          "url": "media/cached-image_9e71ee074c2cb4b3e4ba119ae40ee638866b85cc93a1d6984e85ef4477e167b6.jpg"
+        },
+        {
+          "url": "media/cached-image_ea4043fa7a9fc0f31b399daab45f7cb9807acebb203a6ae77b170574a4f6ba39.jpg"
+        }
+      ],
+      "type": "Steak house",
+      "categories": [
+        "Steak house"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mallory Pork Steak Yokohama, 2 Chome-18 Minamisaiwai, Nishi Ward, Yokohama, Kanagawa 220-0005, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4635518,139.6155845,3a,90y,221.95h,98.3t/data=!3m7!1e1!3m5!1sc8Z7yoxuyN3JOsRO9XIkOg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.299378862474697%26panoid%3Dc8Z7yoxuyN3JOsRO9XIkOg%26yaw%3D221.9546870342847!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": 4,
+      "entityContext": "This Yokohama restaurant appears in the ending credits sequence of season 4, representing the everyday civilian city life that the Agency members protect and that characters like Atsushi cherish."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bungo-stray-dogs-3_12",
+      "name": "Alfred Gérard's tiles and bricks",
+      "localName": "ジェラールの瓦工場と水屋敷跡",
+      "coordinates": {
+        "lat": 35.43915,
+        "lng": 139.65119
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fd362a15-536e-425b-99cc-fcf8fa124df6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fd362a15-536e-425b-99cc-fcf8fa124df6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4391111,139.6511842,3a,90y,343.92h,98.15t/data=!3m7!1e1!3m5!1sT1xaHlRclNBp10wo0HttYQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.149315679098393%26panoid%3DT1xaHlRclNBp10wo0HttYQ%26yaw%3D343.9153315325209!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The historic remains of Alfred Gerard's tile factory in Yamate appear in episode 1, their 19th-century French colonial character echoing Yokohama's foreign settlement history that permeates the BSD setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFW8gguRcGGARs2d1YSn4usk",
+      "name": "Yokohama Kuan Ti Miao",
+      "localName": "横浜関帝廟",
+      "coordinates": {
+        "lat": 35.442282,
+        "lng": 139.64526
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b113571-13d3-4da9-9539-2594db58da64.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b113571-13d3-4da9-9539-2594db58da64.webp"
+        },
+        {
+          "url": "media/cached-image_53244c322f59c3b6145f090888e27091d25e1119d8ff76c71a4d3e0b827d5ff5.jpg"
+        },
+        {
+          "url": "media/cached-image_ea5751cabc8c6f2dbd1596ecfa36b57e882b80070b78cc09e17b962542b05954.jpg"
+        },
+        {
+          "url": "media/cached-image_38b8b93a4795f2b61a8407f287d989ba84fc58275055d174df5dd569ca03f5fa.jpg"
+        },
+        {
+          "url": "media/cached-image_0958f10551efe809cafd49268f5b2b83efa1c08c522afcd59e5007a4f7d939c6.jpg"
+        },
+        {
+          "url": "media/cached-image_c8fe3aaea2e9dc80257dacb158e614b9632cdd076dba38353ce4d3e74a81b3ec.jpg"
+        }
+      ],
+      "type": "Taoist temple",
+      "categories": [
+        "Taoist temple"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1562,
+      "priceLevel": null,
+      "address": "Yokohama Kuan Ti Miao, 140 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4421722,139.6452387,3a,90y,7.56h,105.56t/data=!3m7!1e1!3m5!1s7S2Ifnq0b9APhEQ0RXeCyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.560640675906455%26panoid%3D7S2Ifnq0b9APhEQ0RXeCyw%26yaw%3D7.558806974593471!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Yokohama Chinatown's iconic Kuan Ti Miao temple appears in episode 10 during scenes set in Chinatown, its ornate red facade a recognizable landmark in the district where several BSD encounters take place."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD2qKPRxdGGARlJHe2OvLaa0",
+      "name": "Yamashita Pier Police Box",
+      "localName": "横浜水上警察署 山下ふ頭交番",
+      "coordinates": {
+        "lat": 35.4442705,
+        "lng": 139.654132
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45e63c93-0210-4026-b49b-192f415d52d6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45e63c93-0210-4026-b49b-192f415d52d6.webp"
+        },
+        {
+          "url": "media/cached-image_3da53424af7a537b3bb4cef369c7797ec23de39c599ad48df95e48848dd64cad.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Yamashita Pier Police Box, ２７９番地１ Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4438802,139.654013,3a,90y,286.45h,101.03t/data=!3m7!1e1!3m5!1sbq5k5m_8oq9suVB__t6Pdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.025570069585797%26panoid%3Dbq5k5m_8oq9suVB__t6Pdg%26yaw%3D286.45162866079215!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Yamashita Pier police box near Yamashita Park appears in episode 10, a small waterfront outpost that grounds the scene in Yokohama's portside geography during the Decay of Angels arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI2lkKhJdGGARSSvO8SuGkro",
+      "name": "Yokohama Port",
+      "localName": "横浜港",
+      "coordinates": {
+        "lat": 35.449818,
+        "lng": 139.66494079999998
+      },
+      "image": null,
+      "images": [],
+      "type": "Seaport",
+      "categories": [
+        "Seaport"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yokohama Port, Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4495149,139.6460091,3a,49.6y,31.08h,92.33t/data=!3m7!1e1!3m5!1spjyXmn-HlsNl95BAnrRc4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3250705879373044%26panoid%3DpjyXmn-HlsNl95BAnrRc4w%26yaw%3D31.081829583533864!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Yokohama Port's industrial waterfront appears in episode 9 during critical confrontation scenes, the working harbor representing the dangerous underbelly of the city that both the Agency and Port Mafia operate within."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0ZV392dcGGARgHYhLFaaM9Y",
+      "name": "Mitsubishi Minatomirai Industrial Museum",
+      "localName": "三菱みなとみらい技術館",
+      "coordinates": {
+        "lat": 35.455921599999996,
+        "lng": 139.6299412
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fcfadccc-f564-4749-b3d1-f38e4581bc17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fcfadccc-f564-4749-b3d1-f38e4581bc17.webp"
+        },
+        {
+          "url": "media/cached-image_724ed5f5a781c0a72839ef618709020010eb52b0014c5e36ab45f9a5b17e72e4.jpg"
+        },
+        {
+          "url": "media/cached-image_7682912bbc32d367f7c906f443421e3ccb3279ccae6de15c6e71b1c6d7ea9e91.jpg"
+        },
+        {
+          "url": "media/cached-image_b757a2def76d68892dde28e62d1a0cff8b0e8ad7adfd8d2bf162eabe79d6e709.jpg"
+        },
+        {
+          "url": "media/cached-image_0090e8d50c6f0c97c67cd19d7753c9a428b4c0b1deb0a975db70a0f5b85a4910.jpg"
+        },
+        {
+          "url": "media/cached-image_64faa77b603fb8a3437bdf1d1237de46ea5519d9eed8f083c95cdaad933b2736.jpg"
+        }
+      ],
+      "type": "Technology museum",
+      "categories": [
+        "Technology museum"
+      ],
+      "rating": 4.1,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Mitsubishi Minatomirai Industrial Museum, KDX 横浜みなとみらいタワ, 3 Chome-3-1 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-8401, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4562713,139.6290003,3a,90y,99.32h,133.38t/data=!3m7!1e1!3m5!1sYLCqlqk8fAo8wYTqHxmTew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-43.3815108152119%26panoid%3DYLCqlqk8fAo8wYTqHxmTew%26yaw%3D99.32369158089548!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Mitsubishi Minatomirai Industrial Museum in Minato Mirai appears in episode 7 as a background location in the futuristic bayside district, contributing to the high-tech urban atmosphere of Yokohama in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN5Rzu-RcGGARHASwo8SYs3w",
+      "name": "Manchinro",
+      "localName": "萬珍樓 本店",
+      "coordinates": {
+        "lat": 35.443336599999995,
+        "lng": 139.6444803
+      },
+      "image": "https://cdn.animepilgrimage.com/places/259d98b8-5add-4205-80a0-96f3781b5afd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/259d98b8-5add-4205-80a0-96f3781b5afd.webp"
+        },
+        {
+          "url": "media/cached-image_bdc5655cafd4eccf91fca6a3768039a220acb288fbae2cc996d4a47737da9591.jpg"
+        }
+      ],
+      "type": "Cantonese restaurant",
+      "categories": [
+        "Cantonese restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Manchinro, 153 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4431614,139.6445184,3a,90y,350.75h,100.24t/data=!3m7!1e1!3m5!1sKGNse492FJWXFu4U7tuPzw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.23611896789275%26panoid%3DKGNse492FJWXFu4U7tuPzw%26yaw%3D350.74755367588045!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Manchinro, one of Yokohama Chinatown's most celebrated restaurants, appears in episode 7 as a recognizable Chinatown landmark during scenes where characters move through this culturally distinct district of the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXco9RXvGGARYzRNqY-U-o8",
+      "name": "Harmonica Yokocho",
+      "localName": "吉祥寺ハーモニカ横丁",
+      "coordinates": {
+        "lat": 35.703595899999996,
+        "lng": 139.5790815
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50bfce10-76c9-4e20-9dde-698ff1530317.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50bfce10-76c9-4e20-9dde-698ff1530317.webp"
+        },
+        {
+          "url": "media/cached-image_e5ea7b49b51f1bc6185b2f27c85317855dddb08d6c2d1be314735cd0c8d63b73.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Harmonica Yokocho, 1 Chome-1-3 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4466977,139.6305971,3a,90y,190.8h,95.71t/data=!3m7!1e1!3m5!1sGqFQoEaPcAEJPRbGWaBrqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.707567420830301%26panoid%3DGqFQoEaPcAEJPRbGWaBrqA%26yaw%3D190.80104278763955!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Kichijoji's Harmonica Yokocho alley, a dense network of tiny postwar drinking establishments, appears in episode 6 as a Tokyo location reflecting the gritty nocturnal urban atmosphere that recurs in the BSD world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB2v6EqpDGGARl6C9aPgSs2k",
+      "name": "Yokohama Bayside Marina",
+      "localName": "横浜ベイサイドマリーナ",
+      "coordinates": {
+        "lat": 35.380217,
+        "lng": 139.6479365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3366df44-1da5-4170-8d4e-ada0fd20abcd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3366df44-1da5-4170-8d4e-ada0fd20abcd.webp"
+        },
+        {
+          "url": "media/cached-image_adab6bd3a3261cec6776667fc775f3be5070dec25663454a28fa6eebcc098170.jpg"
+        },
+        {
+          "url": "media/cached-image_f33ee15ed731ab64ee2c070c4413781e2c5d077bf3cf47e71317080583198c4a.jpg"
+        },
+        {
+          "url": "media/cached-image_0c5e3295a4e85f1513d900af5c48ac3a44cca90ee66bc4058426ac04f0415013.jpg"
+        },
+        {
+          "url": "media/cached-image_9e90baf85a0a245f0ae8b4552c5ea369199881aca864bf68b73d780a91ec0067.jpg"
+        },
+        {
+          "url": "media/cached-image_d4adcb83d69eeb9ba731322605a3c397c14cda2c66ca0bdabd0907f3ad4da932.jpg"
+        }
+      ],
+      "type": "Marina",
+      "categories": [
+        "Marina"
+      ],
+      "rating": 4,
+      "reviewCount": 293,
+      "priceLevel": null,
+      "address": "Yokohama Bayside Marina, 5-1 Shiraho, Kanazawa Ward, Yokohama, Kanagawa 236-0007, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3797528,139.6477889,3a,90y,210.66h,94.77t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqo9LuaA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hb37MUT1kBuSTP2hPZKP0ttzAPWtH9F2REEi99pCsDCjJHfw6YO9xvEmq1HtZI_Xb26UlMbKKCACRqSbeGyj2s0InqrGmOfxJr9lz_Tf4jnwplQZIjrWY4UxDAMvm_bfRQEFrTm%3Dw900-h600-k-no-pi-4.767528553554655-ya128.98239787271385-ro0-fo100!7i2048!8i1024?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Yokohama Bayside Marina in Kanazawa Ward appears in episode 6 as a waterfront location, its boat-filled harbor providing a contrast between peaceful civilian life and the danger lurking in the BSD world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWwX5UmufH2AR785TMlSTRLQ",
+      "name": "Tobu World Square",
+      "localName": "東武ワールドスクウェア",
+      "coordinates": {
+        "lat": 36.80804,
+        "lng": 139.7111335
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_799b23fa711687f0445cb9cee779100b44d0d2bf96d16c839b932fe1384fac3a.jpg"
+        },
+        {
+          "url": "media/cached-image_3dfb386955a22b8dd2dedc16b8c59d51308b5fc7fb1c60ff24262caba5b83750.jpg"
+        },
+        {
+          "url": "media/cached-image_245d1b2b52b4cd41b723f8427691e1c8254f81f55ac8c3f9fd8c0a3047fbc0e6.jpg"
+        },
+        {
+          "url": "media/cached-image_240e8dd9583d17f9dc0ef4353e5ce729d1fa90f6c7bd72892510c96af4204457.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 50,
+      "priceLevel": null,
+      "address": "Tobu World Square, 209-1 Kinugawaonsen Ohara, Nikko, Tochigi 321-2522, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.444043,139.6526057,3a,90y,50.19h,92.6t/data=!3m7!1e1!3m5!1sQI03ScbXlWj5ezvG8gyVxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5954258491981363%26panoid%3DQI03ScbXlWj5ezvG8gyVxQ%26yaw%3D50.189164960857326!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Tobu World Square in Nikko, a theme park featuring miniature reproductions of world monuments, appears in episode 5 as a location outside Yokohama that characters visit, its surreal atmosphere fitting BSD's eclectic sensibility."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHdJrTuJcGGARGt8tEB4cC0U",
+      "name": "Yokohama Daisekai",
+      "localName": "横浜大世界",
+      "coordinates": {
+        "lat": 35.4425749,
+        "lng": 139.6479986
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cfbe2d97-c542-4213-8b34-668c5327ae04.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cfbe2d97-c542-4213-8b34-668c5327ae04.webp"
+        },
+        {
+          "url": "media/cached-image_6e5bdc3937126f5c9a96b12566f17c378affae1976efe6656b705fe3aeb4afb7.jpg"
+        },
+        {
+          "url": "media/cached-image_457140f943948637963fb28f931e57ca817692c4cdecd7e84e8cad3e6f6c9c6a.jpg"
+        },
+        {
+          "url": "media/cached-image_2dc931be6d457cd984eb2c808abd43c83b33b246a3272c4d3741c2745f8d6bd5.jpg"
+        },
+        {
+          "url": "media/cached-image_74e7011a882971a20896abd6e8cbc2d7f28bd47ca439ded1057bb0137f119a42.jpg"
+        },
+        {
+          "url": "media/cached-image_f9a81e5477274e9d8b2f8ff1a0b10111cd091205b8ab8e12f7477e9a8919bced.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 211,
+      "priceLevel": null,
+      "address": "Yokohama Daisekai, 97 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4425382,139.6478531,3a,90y,107.33h,108.33t/data=!3m7!1e1!3m5!1smCV__bUirUnO-T00nLlHwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.329591329236067%26panoid%3DmCV__bUirUnO-T00nLlHwA%26yaw%3D107.32765787334164!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Yokohama Daisekai, the large Chinese entertainment complex in Chinatown, appears in episode 5 as a background landmark in the Chinatown scenes, its elaborate facade instantly recognizable to visitors of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJma3-JeJcGGARb0JK2z77Ero",
+      "name": "7-Eleven Yokohama Chinatown Suzakumon Store",
+      "localName": "セブン-イレブン 横浜中華街朱雀門店",
+      "coordinates": {
+        "lat": 35.4414325,
+        "lng": 139.64827019999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2dcf1bfb-8873-4cc3-b6e2-08baf5e52c4e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2dcf1bfb-8873-4cc3-b6e2-08baf5e52c4e.webp"
+        },
+        {
+          "url": "media/cached-image_9b592e60cfb5330a83c59bf62bf9c2dd27e8f2516607fa71807604e964d1b445.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 106-3 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4412467,139.6482939,3a,90y,136.53h,102.77t/data=!3m7!1e1!3m5!1sbT9EI_AkocHqXzP3JqwvSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.771271903095723%26panoid%3DbT9EI_AkocHqXzP3JqwvSw%26yaw%3D136.52844451704235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The 7-Eleven near Chinatown's Suzaku Gate appears in episode 5 as a modern convenience store set against Chinatown's ornate gate architecture, a slice of everyday Yokohama life in the anime's pilgrimage circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bungo-stray-dogs-3_23",
+      "name": "Kitamura K 2 Motomachi Honten",
+      "localName": "キタムラK2 元町本店",
+      "coordinates": {
+        "lat": 35.44093,
+        "lng": 139.64955
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bb5f58d6-bca4-4b2d-b321-929c8f4b1e6d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bb5f58d6-bca4-4b2d-b321-929c8f4b1e6d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4409415,139.6495448,3a,90y,151.28h,101.7t/data=!3m7!1e1!3m5!1suZWyTK1mmnYxYYFhrHo7RA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.697844518187011%26panoid%3DuZWyTK1mmnYxYYFhrHo7RA%26yaw%3D151.27585080064998!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Kitamura K2's Motomachi flagship store appears in episode 5 along the Motomachi Shopping Street, part of the distinctive European-style shopping district where Atsushi and Kyoka spend time in the episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQBzBR5dGGARrST1l03Vw_g",
+      "name": "Kagamachi Police Station Motomachi Police Box",
+      "localName": "加賀町警察署 元町交番",
+      "coordinates": {
+        "lat": 35.4417288,
+        "lng": 139.6508785
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1615bc3-ff02-454e-abcb-fb48142a3e78.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1615bc3-ff02-454e-abcb-fb48142a3e78.webp"
+        },
+        {
+          "url": "media/cached-image_a993d15c063bf3d38514937e986eba6cad782d31aecbb72ff96f763494f4923e.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kagamachi Police Station Motomachi Police Box, 1 Chome-１３ Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4418702,139.6511679,3a,75y,224.79h,94t/data=!3m7!1e1!3m5!1sq7vmKNLizygsnZuW9qguUQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.00054205555098%26panoid%3Dq7vmKNLizygsnZuW9qguUQ%26yaw%3D224.7945380612133!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Motomachi Police Box appears in episode 5 on the Motomachi Shopping Street, a small local koban that appears as street-level detail during the episode's scenes in this Yokohama neighborhood."
+    }
+  ]
+}

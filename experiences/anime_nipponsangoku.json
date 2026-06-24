@@ -1,0 +1,1486 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "NIPPON SANGOKU",
+  "slug": "nippon-sangoku",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_471ca5b320e2d0db986e656439721299502c0734a95412e560832d72d8eb1b1b.webp",
+  "image": "media/cached-image_471ca5b320e2d0db986e656439721299502c0734a95412e560832d72d8eb1b1b.webp",
+  "banner": null,
+  "primaryLocation": "Osaka, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.92267853783784,
+    "lng": 136.4634493837838
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "NIPPON SANGOKU"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJeT1R4R5N-F8R0dKNEmU6dGQ",
+      "name": "Tsukasakigyokabuishikawanomieigyosho",
+      "localName": "司企業（株）石川能美営業所",
+      "coordinates": {
+        "lat": 36.4612142,
+        "lng": 136.494261
+      },
+      "image": "https://cdn.animepilgrimage.com/places/FIZq6hADmjQKEVyEdEOE.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/FIZq6hADmjQKEVyEdEOE.webp"
+        },
+        {
+          "url": "media/cached-image_467eeb428ad11dbaf15ba5c7858e6315f9e865eb71c2f07c43442faae86dd9cb.jpg"
+        }
+      ],
+      "type": "Logistics service",
+      "categories": [
+        "Logistics service"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsukasakigyokabuishikawanomieigyosho, U-200番 Aomachi, Nomi, Ishikawa 923-1101, Japan",
+      "city": "Nomi",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ypkq4QUSzUCFqcCt9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This logistics office in Nomi, Ishikawa serves as a background location in Episode 6 as Aoteru's forces mobilize through Seii territory, capturing the everyday infrastructure of the wartime Seii nation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb2kmYTZR-F8Rb2lWatuVL5Q",
+      "name": "Komatsu Airport",
+      "localName": "小松空港",
+      "coordinates": {
+        "lat": 36.392808599999995,
+        "lng": 136.4059768
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cETooXUfx6Y1jokYE53U.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cETooXUfx6Y1jokYE53U.webp"
+        },
+        {
+          "url": "media/cached-image_b1ba65af99725bfc2ec94e851d6f2f6ac927626fa7c31d9a1a05ae51f479b010.jpg"
+        },
+        {
+          "url": "media/cached-image_948cc39ddbb01488520acb29e95bb7fdc6391d2b4e8539be5801a96e0b5961f6.jpg"
+        },
+        {
+          "url": "media/cached-image_8dad05d132b27db21361fe72e47501efac6adf58e808a04d70f94d1579596508.jpg"
+        },
+        {
+          "url": "media/cached-image_683d92cfe3d9256c8c50d648dd806d9cd1260d41f5f1562ae7b2793d0a4eb423.jpg"
+        },
+        {
+          "url": "media/cached-image_8abcf99874f0b4a1d97fc7d8498ca95bf23ba2aadc437d0e441e346c89d7ddcc.jpg"
+        }
+      ],
+      "type": "Airport",
+      "categories": [
+        "Airport"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1215,
+      "priceLevel": null,
+      "address": "Komatsu Airport, ５０番地先 Yo Ukiyanagimachi, Komatsu, Ishikawa 923-0993, Japan",
+      "city": "Komatsu",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5ehGPwij1RSUKgjH8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Komatsu Airport appears in Episode 6 as a key transit point for Seii military movements, its runways and terminal standing in for the contested northern gateway that Aoteru's alliance must secure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd1PHDIyF-F8RmrehAl4qBCQ",
+      "name": "Tani Tunnel",
+      "localName": "谷トンネル",
+      "coordinates": {
+        "lat": 36.136117999999996,
+        "lng": 136.5837578
+      },
+      "image": "https://cdn.animepilgrimage.com/places/WJCzdgeX7iBOn0tOrWg9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/WJCzdgeX7iBOn0tOrWg9.webp"
+        },
+        {
+          "url": "media/cached-image_6dece685cafe50de9ec23d4400c4e826c54472173e29c9d2fdf590f57a0e0d11.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tani Tunnel, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tCt5EPP5jE6MHPvg6",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Tani Tunnel features in Episode 6 as a strategic passage through the Fukui highlands, used during troop movements that precede the campaign into Seii's heartland."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiSL7BPK--F8RH-tjj5_3nfs",
+      "name": "Fukui Prefectural Government Office",
+      "localName": "福井県庁",
+      "coordinates": {
+        "lat": 36.0650939,
+        "lng": 136.2217502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/snK3iFtci43CD9CQHzhI.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/snK3iFtci43CD9CQHzhI.webp"
+        },
+        {
+          "url": "media/cached-image_3f16be08b93187fe1c6ce76182669015bbf6ed46451563efcee10220796c1601.jpg"
+        },
+        {
+          "url": "media/cached-image_3615a535f4545699fb50c68d5d94a24ab2df691d9f34dba59dd4390d88a88709.jpg"
+        }
+      ],
+      "type": "Japanese prefecture government office",
+      "categories": [
+        "Japanese prefecture government office"
+      ],
+      "rating": 3.4,
+      "reviewCount": 18,
+      "priceLevel": null,
+      "address": "Fukui Prefectural Government Office, 3 Chome-17-1 Ote, Fukui, 910-8580, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cR2f6p4PrvR7GSHP8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Fukui Prefectural Government Office stands in for the administrative seat of the Seii nation in Episode 7, where rival generals negotiate and maneuver for political control of the northern kingdom."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6pmooIz-F8RtaxVYDyIVhI",
+      "name": "Kanazawa Castle",
+      "localName": "金沢城",
+      "coordinates": {
+        "lat": 36.565581,
+        "lng": 136.659806
+      },
+      "image": "https://cdn.animepilgrimage.com/places/IBtNyTcx0ZHHBPjwqp4r.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/IBtNyTcx0ZHHBPjwqp4r.webp"
+        },
+        {
+          "url": "media/cached-image_f586f3d25504cdb2fafffd2d9de56f24cf8fe0b7bdf3d0b93c1dde9250199b53.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Kanazawa Castle, 1-1 Marunouchi, Kanazawa, Ishikawa, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6eW4j5TeSSy9gFY4A",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Kanazawa Castle is the fortress at the center of the Episode 7 'Kanazawa Night Raid,' where Muuton launches a bold but ultimately unsuccessful surprise assault against the Seii garrison, marking a pivotal turning point in the northern campaign.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk7gtgXMz-F8RqrJlN97Met4",
+      "name": "Asanogawa Bridge",
+      "localName": "浅野川大橋",
+      "coordinates": {
+        "lat": 36.572071099999995,
+        "lng": 136.66445919999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ZlHs5rHFAA6gjwPi1IHC.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ZlHs5rHFAA6gjwPi1IHC.webp"
+        },
+        {
+          "url": "media/cached-image_067befaed8107e4c36292ee55ede0091505b1f8758094e485d10a04669a4a55e.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒920-0911 Ishikawa, Kanazawa, Hashibacho, 4 Asanogawa Bridge, 主計町－東山",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/FTqS79NazkUsgFdU8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Asanogawa Bridge in Kanazawa appears in Episode 7 during the night raid sequence, as forces cross the river under cover of darkness in one of the series' most tense infiltration scenes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtfm9r3Qz-F8RWyApgjN6Ghc",
+      "name": "Shibafune Koide Higashiyama Store",
+      "localName": "柴舟小出 東山店",
+      "coordinates": {
+        "lat": 36.5727299,
+        "lng": 136.6673401
+      },
+      "image": "https://cdn.animepilgrimage.com/places/xJez2kQ1BBwiQtFq0nNj.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/xJez2kQ1BBwiQtFq0nNj.webp"
+        },
+        {
+          "url": "media/cached-image_45171df94d7e87e23b793ddfb2ae28a3fc8cdd90ebde97ac7ee127b79d4c65fe.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibafune Koide Higashiyama Store, 1 Chome-13-13 Higashiyama, Kanazawa, Ishikawa 920-0831, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2E72rTtimkArrugW8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This Higashiyama confectionery shop appears in Episode 7 as a background landmark along the old merchant quarter, lending the Kanazawa arc its distinctive historic-town atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh_swrXQz-F8RB7LHCS2PN08",
+      "name": "Higashiyama Sugawara Shrine",
+      "localName": "東山菅原神社",
+      "coordinates": {
+        "lat": 36.5728321,
+        "lng": 136.66787739999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/PoI949qEuUeJfMB0Mujv.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/PoI949qEuUeJfMB0Mujv.webp"
+        },
+        {
+          "url": "media/cached-image_8ab20fd2506b7d1a1942cdc804492383748ae9013afc4aec6578bd2bb2cf8b0c.jpg"
+        },
+        {
+          "url": "media/cached-image_a9fe66a5833b781af385a7f4e2facaf3425c696419323f680d02f2d6cef92f81.jpg"
+        },
+        {
+          "url": "media/cached-image_3c349e66a682ea5d44504c806cfc3cb3813ec19fa17fc0a694842d7f90e1b850.jpg"
+        },
+        {
+          "url": "media/cached-image_67a42dba5a61bfb1ac198a2d28310dd400ebfd7b3782890c004fb23b684a4a95.jpg"
+        },
+        {
+          "url": "media/cached-image_d4e2906f54494d5880ab94cc7f0ae982a893747de212598903e818874c8c0559.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.1,
+      "reviewCount": 91,
+      "priceLevel": null,
+      "address": "Higashiyama Sugawara Shrine, 1 Chome-27-7 Higashiyama, Kanazawa, Ishikawa 920-0831, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ajAMgLvTQt4NSezt9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Higashiyama Sugawara Shrine is shown in Episode 7 as a quiet refuge in the Kanazawa Higashiyama district, visited by characters seeking respite amid the tensions of the Seii campaign."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeXrpXVzr-F8RyAOcr44yWRM",
+      "name": "Maruoka Castle",
+      "localName": "丸岡城",
+      "coordinates": {
+        "lat": 36.1523454,
+        "lng": 136.2721028
+      },
+      "image": "https://cdn.animepilgrimage.com/places/QJ0TbKpo8TTvDJSKBWbm.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/QJ0TbKpo8TTvDJSKBWbm.webp"
+        },
+        {
+          "url": "media/cached-image_15884843e4ec5cbae0cc672f774826380f314298fca79891f3a06bc9a829f4b4.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maruoka Castle, 1 Chome-５９ Maruokacho Kasumicho, Sakai, Fukui 910-0231, Japan",
+      "city": "Sakai",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yHitw2zd3HjyeweNA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Maruoka Castle, one of Japan's oldest surviving castle keeps, appears in Episode 8 as a fortified stronghold Aoteru's forces must contend with on their advance into Fukui's interior."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_nippon-sangoku_9",
+      "name": "Morita Post Office",
+      "localName": "森田郵便局",
+      "coordinates": {
+        "lat": 36.107466,
+        "lng": 136.22433
+      },
+      "image": "https://cdn.animepilgrimage.com/places/UCoy0QzONpUQOqw7OCFt.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/UCoy0QzONpUQOqw7OCFt.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/sVx6BiQw1ugoiSkNA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Morita Post Office in Fukui appears in Episode 8 as a local community landmark, used to depict the civilian life disrupted by the armies marching through Yamato's border territories."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh6F6IYCaGWARaEAnsDJb7QI",
+      "name": "Mishima Taisha",
+      "localName": "三嶋大社",
+      "coordinates": {
+        "lat": 35.1208084,
+        "lng": 138.9189781
+      },
+      "image": "https://cdn.animepilgrimage.com/places/jFmUbqKZALAE30lswnZm.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/jFmUbqKZALAE30lswnZm.webp"
+        },
+        {
+          "url": "media/cached-image_6d53ddca079a481b46b45785588c33eb33d8a16012c5c2b31dc6be5aa833dc28.jpg"
+        },
+        {
+          "url": "media/cached-image_e4c8d42d8486d9a3717fd9b560af70725f7622758b5e3e6b52d11f03d0c895ac.jpg"
+        },
+        {
+          "url": "media/cached-image_05a9cd1bf9eab521b5de90ad3098270ca361825ea6ec7aeb9644e0c70f642d83.jpg"
+        },
+        {
+          "url": "media/cached-image_3ec4b086db027c05d24d84efd0d597ccc5484482c68fd69bd79a3604aa8f999b.jpg"
+        },
+        {
+          "url": "media/cached-image_37e0d23ee98246a0be2ee86df929a42935aa9e4635c4c69caa3fabe32781f77d.jpg"
+        },
+        {
+          "url": "media/cached-image_59c6eb85b95979a248a17d9a0a47665e2ce503af006367836008eb282547dbab.jpg"
+        },
+        {
+          "url": "media/cached-image_23bc793ad96f96f71fd3447c5678176dfaf49b4c7e4f5a1a437b21272e371da1.jpg"
+        },
+        {
+          "url": "media/cached-image_c90a020e08366e5f8b98c468d6055598274bd8119a7b41ff7773c9379a01833b.jpg"
+        },
+        {
+          "url": "media/cached-image_b0475cf9086a7ed5dc5c8f1668a28da26aff033cc1b8f0f1f185d8d0207a77b7.jpg"
+        },
+        {
+          "url": "media/cached-image_59d648cc8829575277ee642e4e2b10218f260d6df550d055a8b79aa48cf08e88.jpg"
+        },
+        {
+          "url": "media/cached-image_4f9932485538408c4cc63371c69138bc3c425ff7d4dbe000ddd5bc31412352c0.jpg"
+        },
+        {
+          "url": "media/cached-image_88a3b1f0f54f286523acb270b68a1140b13b73df7ca3437ac1378969f1843f9f.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.3,
+      "reviewCount": 12075,
+      "priceLevel": null,
+      "address": "2 Chome-1-5 Omiyacho, Mishima, Shizuoka 411-0035, Japan",
+      "city": "Mishima",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1208084,138.9189781,2a,75y,13.18h,97.36t/data=!3m6!1e1!3m4!1shP4db9av9zDHyhkfqyY9eA!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Mishima Taisha in Shizuoka appears in Episode 1 as a distant shrine referenced in backstory, distinct from the Iyo-Mishima area in Ehime that forms Aoteru's actual hometown setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt9IU1qib-F8RhcaNEZXExBI",
+      "name": "Daishiyama Seidai Temple",
+      "localName": "大師山 清大寺",
+      "coordinates": {
+        "lat": 36.054111299999995,
+        "lng": 136.5181423
+      },
+      "image": "https://cdn.animepilgrimage.com/places/y6UAWreOTlLjBXBdnIoH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/y6UAWreOTlLjBXBdnIoH.webp"
+        },
+        {
+          "url": "media/cached-image_7c497c16e0cc49b18cef77ebb5533f74d3a72fe44c25c14f466530083f9c2058.jpg"
+        },
+        {
+          "url": "media/cached-image_fe1fcc646f1d35501ace7918a81ae406703a63faa1235fff13510d9a707c6fa4.jpg"
+        },
+        {
+          "url": "media/cached-image_baa2423d91c372cb2b27a89ef488a6bd1a85c314b97fbda119f836c35356446e.jpg"
+        },
+        {
+          "url": "media/cached-image_9e96157a14a2fcbf85aa1a05a9f2e8d9b10eb89cc0d00f1c6058fe538f8eb37a.jpg"
+        },
+        {
+          "url": "media/cached-image_19744f1e96ac68e8e6cdd6cd92a50573580c472fa5f3a2afcbe723d4f65c02a2.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.4,
+      "reviewCount": 49,
+      "priceLevel": null,
+      "address": "Daishiyama Seidai Temple, 50-1-1 Katase, Katsuyama, Fukui 911-0811, Japan",
+      "city": "Katsuyama",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mtooTKSq3uU3jFR2A",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Daishiyama Seidai Temple in Katsuyama, Fukui appears in Episode 8, its towering Echizen Great Buddha providing a dramatic backdrop for a scene reflecting on sacrifice and resolve during the Seii campaign."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmfQvitm_-F8R92HVi1LuJpA",
+      "name": "Nakatofureai Park",
+      "localName": "中藤ふれあい公園",
+      "coordinates": {
+        "lat": 36.0973152,
+        "lng": 136.239204
+      },
+      "image": null,
+      "images": [],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nakatofureai Park, 8-28-8 Takayanagicho, Fukui, 910-0837, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Y5uPVAHaTFjMTyLg7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Nakatofureai Park in Fukui appears in Episode 8 as a gathering point where local residents and soldiers briefly coexist, illustrating the human cost of the three-kingdoms conflict on ordinary communities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJedhrVPOa-F8R4bRGdkr_0VU",
+      "name": "Fukui Prefectural Consumers' Cooperative Hearts Dinosaur",
+      "localName": "福井県立恐竜博物館",
+      "coordinates": {
+        "lat": 36.0822889,
+        "lng": 136.5066612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0DCFSz4iWHLiJicyKmbW.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0DCFSz4iWHLiJicyKmbW.webp"
+        },
+        {
+          "url": "media/cached-image_5ccd82b84cbdc34f1c4a29814ee1de7d62bf35ab5b1f0cbfa09b277c9dd8c46e.jpg"
+        }
+      ],
+      "type": "Natural history museum",
+      "categories": [
+        "Natural history museum"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukui Prefectural Dinosaur Museum, 51-11 Murokocho Terao, Katsuyama, Fukui 911-8601, Japan",
+      "city": "Katsuyama",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r1cBzmsaMbyuBfQJ9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Fukui Prefectural Dinosaur Museum appears in Episode 6 as a recognizable local landmark, its distinctive silver dome visible as Aoteru's envoys travel through Katsuyama on their mission into Seii."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ77qWZJvYBmARHho3uTNJl7o",
+      "name": "Gohonjo Bridge",
+      "localName": "御廟橋",
+      "coordinates": {
+        "lat": 34.2219359,
+        "lng": 135.6058162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/EUHEpMcYaU00h5LV0fep.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/EUHEpMcYaU00h5LV0fep.webp"
+        },
+        {
+          "url": "media/cached-image_55803897dfa95763746f05d51baeee377327c1edbf1bd459f4bc6915264ccff5.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gobyo-bashi bridge, 550 Koyasan, Koya, Ito District, Wakayama 648-0211, Japan",
+      "city": "Koya",
+      "region": "Ito District, Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fuhbv8KuuT9KFXRc8",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Gohonjo Bridge at Koyasan in Wakayama appears in the opening sequence, its ancient stone arches evoking the spiritual solemnity of the world Aoteru inherits and seeks to restore."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV6JXdmDnAGAR-9a4atjXsTY",
+      "name": "Shinsekai",
+      "localName": "新世界",
+      "coordinates": {
+        "lat": 34.651601299999996,
+        "lng": 135.50595619999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cBA36WptKy7gvDN3BhQz.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cBA36WptKy7gvDN3BhQz.webp"
+        },
+        {
+          "url": "media/cached-image_a0c9b41e128afff33b59670c02cc277963e4dd2bcc37cdd1ddd19ad0db35ae92.jpg"
+        },
+        {
+          "url": "media/cached-image_480dd4263d2a00111eb7588b6f72633c492fba1675d166348e618b0a4a233a26.jpg"
+        },
+        {
+          "url": "media/cached-image_ed06422c628926388222f9a5c83e7c19c903c8a4608daea7653daf62732371e9.jpg"
+        },
+        {
+          "url": "media/cached-image_4cb36a0c4d762ed7d43ab2b379b79b00ccfe6884752c3cb24430f2ab1703894d.jpg"
+        },
+        {
+          "url": "media/cached-image_5545fb2be8858a00d23e0380869ce6fd576bc68881f6e0ae173f393b1a5642fb.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 42208,
+      "priceLevel": null,
+      "address": "Shinsekai, 2 Chome-5 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wftQCa4co9zNDpfG9",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Shinsekai, the retro entertainment district beneath Tsutenkaku, appears in the opening and throughout the Osaka arc as the vibrant heart of the Yamato capital, where commoners and aspirants gather in the shadow of the tower that hosts the Toryumon exam.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_nippon-sangoku_16",
+      "name": "Colombo 1000 Mishima",
+      "localName": "コロンボ1000三島店",
+      "coordinates": {
+        "lat": 33.97962,
+        "lng": 133.55241
+      },
+      "image": "https://cdn.animepilgrimage.com/places/TV36ecl1luD1mkZSuBdH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/TV36ecl1luD1mkZSuBdH.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Tt7KkpZErqdnfBgw8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Colombo 1000 Mishima in Shikokuchuo, Ehime appears in Episode 1 as a recognizable commercial landmark in Aoteru's hometown, grounding the story's opening in the everyday streetscape of the Seii borderlands."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5whz7-CUUTUR7wTySeRnrqM",
+      "name": "Gujo Observatory",
+      "localName": "具定展望台",
+      "coordinates": {
+        "lat": 33.9579443,
+        "lng": 133.5250391
+      },
+      "image": "https://cdn.animepilgrimage.com/places/wkl5oxGXavjlm2Tw30Ts.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/wkl5oxGXavjlm2Tw30Ts.webp"
+        },
+        {
+          "url": "media/cached-image_5fc30f574427487ce67e2b632327639c210f6a4269bc3865ca6099df14296d86.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒799-0643 Ehime, Shikokuchuo, Sangawacho, Gujo Observatory, 乙254-46",
+      "city": "Shikokuchuo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cexCddEFc8cFo8cv9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Gujo Observatory in Ehime appears in Episode 1 with a sweeping coastal panorama, offering a vista over the Seto Inland Sea that underscores the isolation of Aoteru's hometown at the story's outset."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCQf1zWqUUTUR94zJItDFDsY",
+      "name": "Hiroshima Bank Mishima Branch",
+      "localName": "広島銀行 三島支店",
+      "coordinates": {
+        "lat": 33.983715,
+        "lng": 133.543262
+      },
+      "image": "https://cdn.animepilgrimage.com/places/FOjQXHiom5RBSrB1NiPw.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/FOjQXHiom5RBSrB1NiPw.webp"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hiroshima Bank Mishima Branch, 1 Chome-7-34 Mishimachuo, Shikokuchuo, Ehime 799-0405, Japan",
+      "city": "Shikokuchuo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KmGvAWdrPdJSMPNF9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Hiroshima Bank's Mishima branch in Shikokuchuo appears in Episode 1 as a background detail of the Ehime townscape, part of the series of local landmarks that establish Aoteru's origins in the former Seii borderlands."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
+      "name": "Osaka Castle",
+      "localName": "大阪城",
+      "coordinates": {
+        "lat": 34.6872571,
+        "lng": 135.5258546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fD87MfiHwOiDNGE2NW2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fD87MfiHwOiDNGE2NW2b.webp"
+        },
+        {
+          "url": "media/cached-image_b477095b2654e3257c2f92293fdf4044861a6dfb32c6c704940f2e903997015a.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osaka Castle, 1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bH1q7FnDQSKG2o4M7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Osaka Castle anchors the Yamato capital in Episode 1 and beyond, serving as the seat of power that Aoteru sets his sights on when he first arrives in the city to compete in the Toryumon examination.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu2fH2WqUUTURSHvs8pNJdsg",
+      "name": "Harukiya Pharmacy",
+      "localName": "ハルキヤ薬局",
+      "coordinates": {
+        "lat": 33.98314,
+        "lng": 133.54365099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/DvaYQZ2XPLRE0WVkph2r.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/DvaYQZ2XPLRE0WVkph2r.webp"
+        },
+        {
+          "url": "media/cached-image_a96575b39cfb116aa209a3a08d378adf35537424f4c4a0d442d2e9b94f101875.jpg"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Harukiya Pharmacy, 2 Chome-12-4 Mishimachuo, Shikokuchuo, Ehime 799-0405, Japan",
+      "city": "Shikokuchuo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HU3kycYzJ85PJdb88",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Harukiya Pharmacy in Shikokuchuo appears in Episode 1 as a detail of the Iyo-Mishima streetscape, one of the ordinary storefronts that populate Aoteru's hometown before he departs on his journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPytd-mmUUTURttI2PR0bq3A",
+      "name": "Iyo-Mishima Station",
+      "localName": "伊予三島駅",
+      "coordinates": {
+        "lat": 33.9795917,
+        "lng": 133.5419877
+      },
+      "image": "https://cdn.animepilgrimage.com/places/mDTAYUdqcPZwnmi4BvVX.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/mDTAYUdqcPZwnmi4BvVX.webp"
+        },
+        {
+          "url": "media/cached-image_c3e7119fc6a1bab1c8cc74fb916722f1924a12b0dacd6ac06e0819f40c096225.jpg"
+        },
+        {
+          "url": "media/cached-image_b5431e78277c36eaa83d53fb3b5cb7e532fbd743e771e34ed00806485918fb6c.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.3,
+      "reviewCount": 7,
+      "priceLevel": null,
+      "address": "Iyo-Mishima Station, 3-chōme-1 Mishimachūō, Shikokuchuo, Ehime 799-0405, Japan",
+      "city": "Shikokuchuo",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GATDTyuzvaALHHfh7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Iyo-Mishima Station is the departure point in Episode 1 where Aoteru leaves his hometown behind, the platform scene marking the emotional beginning of his quest to reunify Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSQkdEkZhUzURPl5Kepg_9UQ",
+      "name": "Naruto Mountain Lookout",
+      "localName": "鳴門山展望台",
+      "coordinates": {
+        "lat": 34.237004999999996,
+        "lng": 134.6401962
+      },
+      "image": "https://cdn.animepilgrimage.com/places/v0FPSwYKeirtXuvuTnPl.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/v0FPSwYKeirtXuvuTnPl.webp"
+        },
+        {
+          "url": "media/cached-image_203d8ea3db77ef2b088f2c3fe64b86d7eb2977174000290ce25617fc3f271f7f.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Naruto Mountain Lookout, Fukuike Narutocho Tosadomariura, Naruto, Tokushima 772-0053, Japan",
+      "city": "Naruto",
+      "region": "Tokushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Jaagu8e4bVLhvuke7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Naruto Mountain Lookout in Tokushima appears in Episode 1, its panoramic view over the Naruto Strait used to convey the fractured landscape of a Japan divided into warring kingdoms."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb14d3wnoAGARavZkiHuVR8c",
+      "name": "IKEA Tsuruhama",
+      "localName": "IKEA鶴浜",
+      "coordinates": {
+        "lat": 34.636769099999995,
+        "lng": 135.44951229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/pp3DUHDR9cioLm081TdQ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/pp3DUHDR9cioLm081TdQ.webp"
+        },
+        {
+          "url": "media/cached-image_8378883809dc7d93f517e599a94fa497aba6a88fa36462d7b5770e925e66c4ae.jpg"
+        },
+        {
+          "url": "media/cached-image_b17d3ca4877bff195564a9456b953feb44d9c13e4e9e1fcbce86f9def66e3b75.jpg"
+        },
+        {
+          "url": "media/cached-image_a7f81f0c350b7f314d4d0738f14998b326822aad2cb090f64aa762304c56b52f.jpg"
+        }
+      ],
+      "type": "Furniture store",
+      "categories": [
+        "Furniture store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "IKEA Tsuruhama, 2 Chome-24-55 Tsurumachi, Taishō-ku, Osaka, 551-0023, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QddjZh566LUTMXnE8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "IKEA Tsuruhama in Osaka appears in Episode 2 as a background landmark in the Yamato capital's harbor district, part of the repurposed commercial infrastructure that survives in the post-collapse Osaka metropolis."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5aNFEO_dAGARui3O21tqoz4",
+      "name": "Abeno Bridge",
+      "localName": "阿倍野橋",
+      "coordinates": {
+        "lat": 34.6472969,
+        "lng": 135.513004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/zG9wDdwgLWGsTXELm81f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/zG9wDdwgLWGsTXELm81f.webp"
+        },
+        {
+          "url": "media/cached-image_9da0b6cf1bba910e92d27bed25dd9d92b4fb0e4347432bef0a22fb455181474d.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Abeno Bridge, 5, Tennoji Ward, Osaka, 543-0063, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qddMU8rBC8ck5UAK7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Abeno Bridge in Osaka appears in Episode 2 as a key crossing in the southern part of the Yamato capital, used during scenes of movement through the city as Aoteru navigates his early days in Osaka."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
+      "name": "Tsutenkaku",
+      "localName": "通天閣",
+      "coordinates": {
+        "lat": 34.6524992,
+        "lng": 135.5063058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b0mngVGUAWhvtEqcJkrG.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b0mngVGUAWhvtEqcJkrG.webp"
+        },
+        {
+          "url": "media/cached-image_554bb827c6539672f2637caee2375182f4204b6813d9a415a2f71944c24013cd.jpg"
+        },
+        {
+          "url": "media/cached-image_7bb5dc9bedd572e9d4a860d788a2fa09aabde1e1a9749142510681af585c0e81.jpg"
+        },
+        {
+          "url": "media/cached-image_485a23ce8127341b679bb644cbbf3e694fe63c29e17f2e245cb5cc04e7a6a586.jpg"
+        },
+        {
+          "url": "media/cached-image_7360c75f712bf48ab71710baf800a844741d8c345f66a3bbcba0032144833194.jpg"
+        },
+        {
+          "url": "media/cached-image_914c8a71310d71505e1221cbc781ff05275b0b44a760dfa8261a85e46147f247.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.1,
+      "reviewCount": 588,
+      "priceLevel": null,
+      "address": "Tsutenkaku, 1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pH7qKkcojFG65KyM6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Tsutenkaku is the iconic tower that hosts the Toryumon, the high-stakes examination through which Aoteru enters the Yamato government's ranks in Episode 2. Its appearance signals the series' central theme of talent and ambition rising above birthright.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM23878PnAGARFJ5l2R036-Q",
+      "name": "Aiaubashi Bridge",
+      "localName": "相合橋",
+      "coordinates": {
+        "lat": 34.6690464,
+        "lng": 135.5042875
+      },
+      "image": "https://cdn.animepilgrimage.com/places/vqb3GR2HDpJM7iEgDmjN.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/vqb3GR2HDpJM7iEgDmjN.webp"
+        },
+        {
+          "url": "media/cached-image_1177b3faebc7a664bf2352ae176a4660f62bf534b590b4a0426bdd60bdd11892.jpg"
+        },
+        {
+          "url": "media/cached-image_81263fa1f04f0b0c1e965e7e897fd3d69adb3055825088faea32c05b9c87cd60.jpg"
+        },
+        {
+          "url": "media/cached-image_4d5215bfb91e4bd49c83f94f201af425f26051ce2972b6a74f6ca54a55ea2bc7.jpg"
+        },
+        {
+          "url": "media/cached-image_a8031e4e54145446b52c9a3ff09136ee20703ef2908ab635172765a6696fdabf.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": 78,
+      "priceLevel": null,
+      "address": "Aiaubashi Bridge, 1 Chome-1 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/AFvyEC8iCj6rSFm59",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Aiaubashi Bridge near Dotonbori appears in Episode 4 during a dramatic confrontation sequence in Osaka's canal district, its romantic name and lively surroundings contrasting with the political tensions Aoteru faces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLXiJO9tdiV8RwXjBE3tv7Ss",
+      "name": "Kosekiya (Annex)",
+      "localName": "古勢起屋別館",
+      "coordinates": {
+        "lat": 38.5698127,
+        "lng": 140.53130769999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ZF4g4OhgaaYFTQMU16Au.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ZF4g4OhgaaYFTQMU16Au.webp"
+        },
+        {
+          "url": "media/cached-image_f1f81a30718a4161a9479edb5c8205c21976752802de5444443ad10aa3b18169.jpg"
+        },
+        {
+          "url": "media/cached-image_e446d3e5af72535cdfa41a72b159aa0478c419924636740ab863ba62a94420e7.jpg"
+        },
+        {
+          "url": "media/cached-image_d629273b56e9ba6ccd7ff2554a36f187831b880c8cbb6d892cff58b76aa67c00.jpg"
+        },
+        {
+          "url": "media/cached-image_f831638f1301265066ca3bce6ba55b11e35c0a128f54104aa390d741f7fbb377.jpg"
+        },
+        {
+          "url": "media/cached-image_2d10025221126b39abff4b20ca693cd56b28266d1174a7584a60ac057d7fa0dd.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Kosekiya (Annex), 417 銀山温泉 Obanazawa, Yamagata 999-4333, Japan",
+      "city": "Obanazawa",
+      "region": "Yamagata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1uqudVte4hcD22397",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Kosekiya Annex at Ginzan Onsen in Yamagata appears in Episode 4, the atmospheric Taisho-era inn standing in for a northern refuge where key characters hold a clandestine meeting away from the front lines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn6khh4g1i18RmRA0_W8tb-U",
+      "name": "ニコタン･モモタン 新発田ガス(株)",
+      "localName": "ニコタン･モモタン 新発田ガス(株)",
+      "coordinates": {
+        "lat": 37.9535665,
+        "lng": 139.2464555
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dQCZLNIG2PZ3aoNti6ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dQCZLNIG2PZ3aoNti6ed.webp"
+        }
+      ],
+      "type": "Gas company",
+      "categories": [
+        "Gas company"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒957-0127 Niigata, Kitakambara District, Seiro, Fujiyose, 3147-1 ニコタン･モモタン 新発田ガス(株)",
+      "city": "Seiro",
+      "region": "Kitakambara District, Niigata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8qcUNAdpkQPctwyt8v",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Niigata gas company location appears in Episode 4 as a background location during the Buo arc, its rural Niigata setting conveying the resource-scarce conditions that drive factional conflict in the northern kingdom."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_nippon-sangoku_29",
+      "name": "Shirakabe Barracks Public Relations Museum",
+      "localName": "白壁兵舎広報史料館",
+      "coordinates": {
+        "lat": 37.95396,
+        "lng": 139.32228
+      },
+      "image": "https://cdn.animepilgrimage.com/places/YUwUkEgIAWD59pcvaDNQ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/YUwUkEgIAWD59pcvaDNQ.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/oBBpgJf4UXhkMaUa9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Shirakabe Barracks museum in Niigata appears in Episode 4, its historical military architecture repurposed in the story as a base of operations for Buo's regional forces during the inter-kingdom power struggle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ57twdy4-il8RIyLOk4VXfVQ",
+      "name": "Shibatajoshi Park Parking Lot",
+      "localName": "船岡城址公園駐車場",
+      "coordinates": {
+        "lat": 38.0551909,
+        "lng": 140.75832739999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/OqDXHassQFfiVf8aYqDW.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/OqDXHassQFfiVf8aYqDW.webp"
+        },
+        {
+          "url": "media/cached-image_f43bc7d50d3e150e6543e04306f3bb08a93a9efd4306b43bffb9170ddd4d39b8.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Funaokajoshi Park Parking Lot, Tateyama Funaoka, Shibata, Shibata District, Miyagi 989-1606, Japan",
+      "city": "Shibata",
+      "region": "Shibata District, Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uD2iqqQHNkQUaFkA7",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ02sPL2sxi18RRFEKL36QaQw",
+      "name": "Shibata Castle Ruins",
+      "localName": "新発田城跡",
+      "coordinates": {
+        "lat": 37.9547806,
+        "lng": 139.3260149
+      },
+      "image": "https://cdn.animepilgrimage.com/places/NA6B8elyq1bVct6GHHSg.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/NA6B8elyq1bVct6GHHSg.webp"
+        },
+        {
+          "url": "media/cached-image_9415003db302aea9a595ce4a23f3cd3e80e3e87c89778a2ae354ac5e1ed1b89c.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibata Castle Ruins, 6 Chome-4-80 Otemachi, Shibata, Niigata 957-0052, Japan",
+      "city": "Shibata",
+      "region": "Niigata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Rw5GaoJsLpWpMqLA",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Shibata Castle Ruins in Niigata appear in Episode 4 during the Buo arc, the crumbling fortification serving as a visual metaphor for the old order's collapse and the power vacuum that Aoteru must navigate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJseVkTg4W-F8RegJ6zJErGlU",
+      "name": "Ainokura Gassho-zukuri Village",
+      "localName": "相倉合掌造り集落",
+      "coordinates": {
+        "lat": 36.426006099999995,
+        "lng": 136.9354778
+      },
+      "image": "https://cdn.animepilgrimage.com/places/tqOJtbuG96hbzxclLGW3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/tqOJtbuG96hbzxclLGW3.webp"
+        },
+        {
+          "url": "media/cached-image_4c2084842415a32405dae1f43225e1aac2ac8ffd33fa2519ea87f0a4d7e6c900.jpg"
+        },
+        {
+          "url": "media/cached-image_81b553e17f16e67acf1646cc19f332b24dfc8f63b3107fe3d9a9ac03ed6c46f6.jpg"
+        },
+        {
+          "url": "media/cached-image_f9005e1d86aea7125ff7495b247cca71cfd0d52209f722104b759dfb2450df3d.jpg"
+        },
+        {
+          "url": "media/cached-image_3077f561b2e4151d235ac64f1fd68b4e49a2aad861e8fbae4102ed39693ab0a6.jpg"
+        },
+        {
+          "url": "media/cached-image_1d81d9f4251e2cfaea7c2ccbcc92bdeb29378aa66fbe08a52c7cfc2ca9fb1805.jpg"
+        }
+      ],
+      "type": "Heritage preservation",
+      "categories": [
+        "Heritage preservation"
+      ],
+      "rating": 4.4,
+      "reviewCount": 118,
+      "priceLevel": null,
+      "address": "Ainokura Gassho-zukuri Village, Ainokura, Nanto, Toyama 939-1915, Japan",
+      "city": "Nanto",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/rkeKE9X9fcAp3VuTA",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Ainokura Gassho-zukuri Village in Toyama appears in Episode 4, its UNESCO-listed thatched farmhouses evoking the self-sufficient rural communities that survive on the margins of the three-kingdoms conflict."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJR3JQJ3YpC18R680ES0qomxs",
+      "name": "Sapporo Clock Tower",
+      "localName": "札幌市時計台",
+      "coordinates": {
+        "lat": 43.062576799999995,
+        "lng": 141.3534928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1dSj8afwKswFmg9CmlBp.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1dSj8afwKswFmg9CmlBp.webp"
+        },
+        {
+          "url": "media/cached-image_afc145c209b4f23242226aa45ff9b3b633bcf49cc6ecc1f71b7070838ab3d94c.jpg"
+        },
+        {
+          "url": "media/cached-image_79b13b9ef0a5440d5fd72f3ab648cadefee21829ba5ada3ecdef4d292ef690f8.jpg"
+        },
+        {
+          "url": "media/cached-image_1cc9d9939efb43a2818ad02491032965868095a29b59b5c9a724fb95cffb62f1.jpg"
+        },
+        {
+          "url": "media/cached-image_d47534787a87185653fef6cda8394f240dffe9b5cc7436ea4059b6d5f327aaed.jpg"
+        }
+      ],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": 3.9,
+      "reviewCount": 350,
+      "priceLevel": null,
+      "address": "Sapporo Clock Tower, 2 Chome Kita 1 Jonishi, Chuo Ward, Sapporo, Hokkaido 060-0001, Japan",
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Zr15PPVHvgZcDX987",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Sapporo Clock Tower appears in Episode 4 as a northern landmark, its Meiji-era architecture reflecting the anime's world where Japan has regressed to early-modern technology following societal collapse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYwWDHWoz-F8RfWIvAKx4jrk",
+      "name": "Tsuzumi-mon Gate",
+      "localName": "鼓門",
+      "coordinates": {
+        "lat": 36.5778025,
+        "lng": 136.6491445
+      },
+      "image": "https://cdn.animepilgrimage.com/places/G3sRQKYxcW9ltzsZS009.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/G3sRQKYxcW9ltzsZS009.webp"
+        },
+        {
+          "url": "media/cached-image_39b7cae161ea3322397ada63bc59f0083572c1b346b8b06cff1fcfcaa573de16.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsuzumi-mon Gate, 2 Kinoshinbomachi, Kanazawa, Ishikawa 920-0858, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/i7ETYJTgApEySrPK9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Tsuzumi-mon Gate at Kanazawa Station appears in Episode 4 as the grand entrance to the Seii capital, its distinctive drum-shaped pillars making it one of the most recognizable settings in the show's Kanazawa arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6rqEijnAGAR4FzXN6CBp2Y",
+      "name": "Temmabashi Bridge",
+      "localName": "天満橋",
+      "coordinates": {
+        "lat": 34.691152699999996,
+        "lng": 135.5174937
+      },
+      "image": "https://cdn.animepilgrimage.com/places/qwY0VkcLoowhDBXE6QA8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/qwY0VkcLoowhDBXE6QA8.webp"
+        },
+        {
+          "url": "media/cached-image_8d97cbfb98bdb3bf217b528e0bf2e456edb66207b1732f616801785f5a7dc0b5.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Temmabashi Bridge, 7 Tenmabashikyomachi, Chuo Ward, Osaka, 540-0032, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XM2u9h4PqLtKKpj4A",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Temmabashi Bridge over the Okawa River in Osaka appears in Episode 5 during a pivotal strategy scene, the view of the old river-city skyline framing a key conversation between Aoteru and his Yamato allies."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOcwivWDnAGARci1Ozkt1dyw",
+      "name": "Tsutenkaku Hondori Shopping Street",
+      "localName": "通天閣本通商店街",
+      "coordinates": {
+        "lat": 34.6540512,
+        "lng": 135.5057034
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cGszDuaP6xxx4S8wnLsN.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cGszDuaP6xxx4S8wnLsN.webp"
+        },
+        {
+          "url": "media/cached-image_7bf7f7fdcac8549bacb802f6b8fd77a0a971728fe4c84db18ea53ec73104c582.jpg"
+        },
+        {
+          "url": "media/cached-image_a66d3fa029aca1139e2362835ebc49b1d9200b95a9bd269b428aabab0acc289e.jpg"
+        },
+        {
+          "url": "media/cached-image_4be54011f16e131e4f0604a5c6fc1e31423d7911518b40a46fcf3f1c04182ea4.jpg"
+        },
+        {
+          "url": "media/cached-image_cb549849d80c2559a82c9547b5f5d0ad6e7b051dfffe1e427b0f163203d89184.jpg"
+        },
+        {
+          "url": "media/cached-image_4ff51e055d0953d978e5f2a14b0ca3da30e902daa0b1c18f0b5ad8cd69691ec5.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.6,
+      "reviewCount": 4650,
+      "priceLevel": null,
+      "address": "Tsutenkaku Hondori Shopping Street, 1 Chome-22-4 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7UvdAZe2wLcMqocC8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Tsutenkaku Hondori Shopping Street appears in Episode 5 as the lively commercial artery beneath the tower, where Aoteru's supporters and ordinary citizens mingle in scenes that show the Yamato capital's resilient street culture."
+    }
+  ]
+}

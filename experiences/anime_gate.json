@@ -1,0 +1,1050 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "GATE",
+  "slug": "gate",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_2a116bdfea194c951d3ab7da12c1a97fc9e4814cd9661fdc1f183962f1d9c2ef.webp",
+  "image": "media/cached-image_2a116bdfea194c951d3ab7da12c1a97fc9e4814cd9661fdc1f183962f1d9c2ef.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.651155503999995,
+    "lng": 139.713898524
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "GATE"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQAsR--LGGAR_AmB8WMDy88",
+      "name": "GINZA SIX",
+      "localName": "GINZA SIX",
+      "coordinates": {
+        "lat": 35.6697688,
+        "lng": 139.76417619999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7f64857-8da4-473c-9fa7-a52aa6143c27.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7f64857-8da4-473c-9fa7-a52aa6143c27.webp"
+        },
+        {
+          "url": "media/cached-image_1f5cc923f8e564b794f6f40b6998f69e15fdeec1da9698df1a4d3905eea6ec3f.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4,
+      "reviewCount": 22946,
+      "priceLevel": null,
+      "address": "6 Chome-10-1 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6698474,139.7636344,3a,90y,181.98h,106.53t/data=!3m7!1e1!3m5!1sffU1NK_Hws0EDS9vLWslOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.531170414331697%26panoid%3DffU1NK_Hws0EDS9vLWslOw%26yaw%3D181.97659874988778!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Ginza shopping district is ground zero for the Gate's sudden appearance in episode 1, with fantasy creatures and soldiers flooding streets that look directly onto this building. Fans recognize the surrounding storefronts from the chaotic opening invasion sequence.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ21Z9sOeJGGARdN8dU-X15ak",
+      "name": "Tokyo Big Sight Station",
+      "localName": "東京ビッグサイト駅",
+      "coordinates": {
+        "lat": 35.630275,
+        "lng": 139.7914821
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e802ac99-31b1-405c-9195-ede3dadd772d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e802ac99-31b1-405c-9195-ede3dadd772d.webp"
+        },
+        {
+          "url": "media/cached-image_45831bd935c7c045360693c78da9906ebad11db463bdc28b16a43c03ce2b38fd.jpg"
+        },
+        {
+          "url": "media/cached-image_4ab343f7655157ba16be346af99fcb0b526a9bb110bbce98856be57e3d167f29.jpg"
+        },
+        {
+          "url": "media/cached-image_727af67866b89a32af9d374acd1b938c0fdc19d027149a6a53e5b46a038e1378.jpg"
+        },
+        {
+          "url": "media/cached-image_515a44dfc1ae7d0ffd4add7a604b2d380059cc9c56e2a32bae525bb9ee304057.jpg"
+        },
+        {
+          "url": "media/cached-image_179ef84bc23b0e8062300c6654b3c6700cee51a8c72040190b5183479e688b1c.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Tokyo Big Sight Station, 3-chōme-6 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LdwA43BfrQi7icn99",
+      "episodeType": "EP",
+      "episodeNumber": 24,
+      "entityContext": "Itami arrives near Tokyo Big Sight via this station en route to the Summer Comiket in the later episodes, completing the callback to his fateful otaku outing that was interrupted by the Gate's appearance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d22d791-4689-4954-87a9-8bc096b02f62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d22d791-4689-4954-87a9-8bc096b02f62.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 24,
+      "entityContext": "The Summer Comiket at Tokyo Big Sight is Itami's sole reason for being in Ginza on the day the Gate opens, and his status as a self-described otaku who prioritized the doujin event over everything else defines his character arc. The venue appears directly in episode 24 as the convention resumes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQ4EnOWLGGAR7aQEhpJkdKc",
+      "name": "Nishiginza Department Store",
+      "localName": "NISHIGINZA",
+      "coordinates": {
+        "lat": 35.672971,
+        "lng": 139.7633189
+      },
+      "image": "https://cdn.animepilgrimage.com/places/22872886-f159-475a-a5ac-15fffdf18b9e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/22872886-f159-475a-a5ac-15fffdf18b9e.webp"
+        },
+        {
+          "url": "media/cached-image_bf1dd3709a552c346ab562a571a3a6e98b0d5e1975f244e7ca1efb8f3a6c2b0b.jpg"
+        },
+        {
+          "url": "media/cached-image_273b6023ff1f20510a79be93636aec689037cac175c17c2d70000442bf3a167d.jpg"
+        },
+        {
+          "url": "media/cached-image_8e8cd3b7580ecd9effbedbf89e11535eae88ce68700b1072f1b8366c29a21fa0.jpg"
+        },
+        {
+          "url": "media/cached-image_864fa7485572fa89dfb1c811ccffd4eb95bc44aa677db55eedb93cc1c38d3087.jpg"
+        },
+        {
+          "url": "media/cached-image_96dbb3c07e5129362fd5df81dd7985e87951ab091b0c3677b17e13d5d30e3b7e.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": 2252,
+      "priceLevel": null,
+      "address": "Nishiginza Department Store, 4 Chome-1-先 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Ka5C8rUWxQnWDxM8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This Ginza shopping complex near the Gate site appears in episode 10 as the Ginza district slowly rebuilds after the initial invasion, visible in background shots of the city returning to civilian life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJydg_xB_4GGARCDC8Lpyi4KM",
+      "name": "Kohoku PA Eastbound",
+      "localName": "港北 パーキングエリア (上り)",
+      "coordinates": {
+        "lat": 35.532869999999996,
+        "lng": 139.52683399999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76147780-50b5-4b09-8ec9-df389a7c50bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76147780-50b5-4b09-8ec9-df389a7c50bb.webp"
+        },
+        {
+          "url": "media/cached-image_8dea2bda65a11d0900e362228045b451dc55b73bae1dc8858e542ebf270f6631.jpg"
+        },
+        {
+          "url": "media/cached-image_a361f605423e36be8433f94238d5f309e32c98d261b09d835869f6236fd84201.jpg"
+        },
+        {
+          "url": "media/cached-image_04368c61548530d232175d60d8836888b4d6e0cb4f75b5f01b8969c5e8a24362.jpg"
+        },
+        {
+          "url": "media/cached-image_0184a7b87c6e9f7c188e2a419510ee4d7becaf2aec35eebc6dfc03c31a89c9c7.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.5,
+      "reviewCount": 1035,
+      "priceLevel": null,
+      "address": "Kohoku PA Eastbound, ３２-30 Umegaoka, Aoba Ward, Yokohama, Kanagawa 227-0052, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3CULFmYQ6XRi4E9t5",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkcetZP-hGWARBihlqY6odqc",
+      "name": "Gora Kansuirou",
+      "localName": "強羅環翠楼",
+      "coordinates": {
+        "lat": 35.2491523,
+        "lng": 139.0493071
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5556b537-f330-4b64-9787-3eaebabe514f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5556b537-f330-4b64-9787-3eaebabe514f.webp"
+        },
+        {
+          "url": "media/cached-image_dff06c51f56d7124dd8eedd6ed993542b3c96519e6b9dd3d7b8a621cb755fdda.jpg"
+        },
+        {
+          "url": "media/cached-image_ddcc3474351ef209c329ad817dd8bc239d51573e1e189ff2aa6f593d25d17a9a.jpg"
+        },
+        {
+          "url": "media/cached-image_eeee48b34c541146a020468884a5b467dd4a1a1bc51e36b4a6b7b68394cbea01.jpg"
+        },
+        {
+          "url": "media/cached-image_c1bd89eb63e70175982023fe4fae13a29b9f214c313309c48f86afc39291d7d9.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gora Kansuirou, 1300 Gora, Hakone, Ashigarashimo District, Kanagawa 250-0408, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6VCD5Yq5a7DgX5iJ7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This historic Hakone ryokan appears in episode 9 as the backdrop for a political meeting involving Diet members and figures connected to the JSDF's Special Region operations, giving the high-stakes negotiation scene an appropriately refined setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b87700ed-a2a6-4de5-bf83-31d74caac1a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b87700ed-a2a6-4de5-bf83-31d74caac1a1.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Akihabara UDX building appears in the opening animation, representing the otaku culture that defines protagonist Itami and connecting the modern Electric Town to his life before the Gate changed everything."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2eBQWsKMGGARtLg_kRTK14w",
+      "name": "The Park House Shinjuku Gyoen",
+      "localName": "ザ・パークハウス新宿御苑",
+      "coordinates": {
+        "lat": 35.6882252,
+        "lng": 139.709775
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1edb96d0-ec61-44cc-870c-6e9123e458d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1edb96d0-ec61-44cc-870c-6e9123e458d0.webp"
+        },
+        {
+          "url": "media/cached-image_2a02961e719a3b4059dfebcf6ac11a1e1b8f7341e8e2b72520abf64c8f1d62d2.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The Park House Shinjuku Gyoen, 2 Chome-1-15 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bVEgD7fuhz2XZfuP9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Shinjuku residential complex near the gardens appears in episode 9 in background shots during scenes involving characters traveling through the city, reflecting the ordinary urban life that contrasts with the chaos of the Special Region."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcTA-aeaLGGARj3kIPKAI23M",
+      "name": "Ginza Pedestrian Paradise",
+      "localName": "Ginza Pedestrian Paradise",
+      "coordinates": {
+        "lat": 35.670581299999995,
+        "lng": 139.76434179999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98f670f8-5c56-443a-8f87-0dc56c570d64.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98f670f8-5c56-443a-8f87-0dc56c570d64.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.6,
+      "reviewCount": 253,
+      "priceLevel": null,
+      "address": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 8 Chome−7 中央通り",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Ada1anJi2ftxwfzb6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The closed-to-traffic Ginza pedestrian zone is one of the clearest match points for episode 10's street scenes, where the district's recovery from the Gate attack is shown through crowds returning to the Sunday walking area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoWCjwuWLGGARLl-ktwyr3KY",
+      "name": "Ginza Station",
+      "localName": "銀座駅",
+      "coordinates": {
+        "lat": 35.6717279,
+        "lng": 139.7644425
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7dd841cc-e8f8-4a48-9b6b-01b75fed8d61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7dd841cc-e8f8-4a48-9b6b-01b75fed8d61.webp"
+        },
+        {
+          "url": "media/cached-image_896a18edf04c16ad35071cfb3c3448d384186e7ec1a41d71241d3c003fd183d6.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ginza Station, 4 Chome-1-2 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fBUvzWkToX6taWV68",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Ginza Station serves as an orientation landmark during the episode 8 political and civilian scenes set around the Ginza district, with its subway entrance visible in street-level shots of characters moving through the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY1UVOo2LGGAR5yIdN1AWGNA",
+      "name": "Kasumigaseki Station",
+      "localName": "霞ケ関駅",
+      "coordinates": {
+        "lat": 35.6740083,
+        "lng": 139.7511011
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e88718c-a213-4f97-984e-e9690ba2446e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e88718c-a213-4f97-984e-e9690ba2446e.webp"
+        },
+        {
+          "url": "media/cached-image_baec324a46f8531c3685914db09ada586721673cb774a30f596afb08aa764e9c.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasumigaseki Station, 2 Chome-1-2 Kasumigaseki, Chiyoda City, Tokyo 100-0013, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aVuy4MbKaDeDrKsN7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kasumigaseki Station, located at the heart of Japan's government ministry district, appears in episode 8 as characters navigate the bureaucratic center of Tokyo, connecting the series' political subplot to real-world corridors of power."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdQ2bI4mLGGARPDQoAipyY_U",
+      "name": "Kokkai-gijidomae Station.",
+      "localName": "国会議事堂前駅",
+      "coordinates": {
+        "lat": 35.6738959,
+        "lng": 139.7449634
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7caffb61-78b1-48c2-9660-14a16e07dbe8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7caffb61-78b1-48c2-9660-14a16e07dbe8.webp"
+        },
+        {
+          "url": "media/cached-image_e4dbf738d51ef9c792383bdbfa63fac8d47e003cd1a5848d31d3bbc6b117281f.jpg"
+        },
+        {
+          "url": "media/cached-image_2680ba6f0232322295d0af02aa82b1c56a6acfbdf6378fd7c5838f3be0daad9d.jpg"
+        },
+        {
+          "url": "media/cached-image_8710e06d579dca349a5191ee294be8cf975bf9b9175e91982291de4ebbce8398.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Kokkai-gijidōmae Sta., 1 Chome-7-1 Nagatachō, Chiyoda City, Tokyo 100-0014, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qdipUitu27wsdGgq7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The station directly beneath the National Diet Building appears in episode 8 when Diet members and government officials convene to debate policy toward the Special Region, grounding the show's political drama in this recognizable seat of Japanese government."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy7ZNTnyMGGAR3usmy65efC8",
+      "name": "Hotel New Otani Tokyo Garden Tower",
+      "localName": "ガーデンタワー ホテルニューオータニ東京",
+      "coordinates": {
+        "lat": 35.679812999999996,
+        "lng": 139.7350195
+      },
+      "image": "https://cdn.animepilgrimage.com/places/59490db1-1e46-4b32-a54d-b13db1fcf201.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/59490db1-1e46-4b32-a54d-b13db1fcf201.webp"
+        },
+        {
+          "url": "media/cached-image_0913ce9ea65554440573588a096a22feb28e5a1c58019bdae8a2f7d4fd3bbf32.jpg"
+        },
+        {
+          "url": "media/cached-image_86d9a044eacd5afc64a61949959206a4d37fb33d56c672e23dd225df184d1aae.jpg"
+        },
+        {
+          "url": "media/cached-image_b88054612809d175f0ff135b64a8e07be18e20686e95cddd1cb75bdfc6a8d176.jpg"
+        },
+        {
+          "url": "media/cached-image_c140421ca485fbf87e9022e8ceee6b6712cfb8a26c8838bb0f0d5e414689f507.jpg"
+        },
+        {
+          "url": "media/cached-image_9abf7d9543c0821bd19e220db8d73ef25359027b6c39b99f59b9e94fe7b7b2be.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.4,
+      "reviewCount": 2074,
+      "priceLevel": null,
+      "address": "Hotel New Otani Tokyo Garden Tower, ホテル New Otani Garden Tower, 4-1 Kioicho, Chiyoda City, Tokyo 102-8578, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3aNpph4bxA4Hd6Zt5",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Hotel New Otani is used as a meeting venue in episode 8 for high-level discussions between government officials and figures connected to the JSDF's Special Region operations, its prestigious Chiyoda location signaling the political weight of the conversations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5VCGSoaLGGARbljXFK38PGw",
+      "name": "TAG HEUER TOKYO GINZA HIMIKO BOUTIQUE",
+      "localName": "タグ・ホイヤー",
+      "coordinates": {
+        "lat": 35.6728784,
+        "lng": 139.7664091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/636aac3c-80a1-4dd0-9cd2-69cb92347fd2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/636aac3c-80a1-4dd0-9cd2-69cb92347fd2.webp"
+        },
+        {
+          "url": "media/cached-image_16b8ff5cddee426e747791b3681c2306fb3cf998a67c39dc3ea66a730d6a91bb.jpg"
+        }
+      ],
+      "type": "Watch store",
+      "categories": [
+        "Watch store"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TAG HEUER TOKYO GINZA HIMIKO BOUTIQUE, 3 Chome-5-5 Ginza, 中央区 Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2mTJTnw4mDBfCaHSA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmXkHXuaLGGARz_3JG4R37Ww",
+      "name": "Ginza Core",
+      "localName": "銀座コア",
+      "coordinates": {
+        "lat": 35.6705731,
+        "lng": 139.76489279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55799151-c6b5-4641-9045-4e3b5c01fecf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55799151-c6b5-4641-9045-4e3b5c01fecf.webp"
+        },
+        {
+          "url": "media/cached-image_0d0b287702ed81be5a7106df5d35cd4037f592ba5809b469805f545f158c9212.jpg"
+        },
+        {
+          "url": "media/cached-image_45052a610657719a2bb4096bef5317a4344a910c11bc29cd2aa750bb31264740.jpg"
+        },
+        {
+          "url": "media/cached-image_1d2d46869c52e387b78e71709718e665af06361cfe832fa2d7bc17ff422cd000.jpg"
+        },
+        {
+          "url": "media/cached-image_40284f5db194150271854a1a380976bb970c6fb263f8c42253b8466235de1f4d.jpg"
+        },
+        {
+          "url": "media/cached-image_a68e4ebaf7a84e247ea4e973989d5b633655746e62b923faa34db34786cb36b5.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1612,
+      "priceLevel": null,
+      "address": "Ginza Core, 5 Chome-8-20 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/u7FiF74zG1zASM8x5",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Ginza Core shopping complex appears in episode 8 street scenes set in the Ginza district, visible in background shots as characters move through the area where the Gate first appeared, now back under civilian activity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4RGvL-aLGGARBHZ6hWmQMPk",
+      "name": "Ginza Lion Beer Hall (Ginza 7-chome)",
+      "localName": "ビヤホールライオン 銀座七丁目店",
+      "coordinates": {
+        "lat": 35.669201799999996,
+        "lng": 139.7631589
+      },
+      "image": "https://cdn.animepilgrimage.com/places/435bdbbc-6472-4e21-9f93-86a27e64f4a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/435bdbbc-6472-4e21-9f93-86a27e64f4a8.webp"
+        },
+        {
+          "url": "media/cached-image_be2a3c06dd47800fa11b8aa1be5efb1a686a2fa43c7f9c02c0419014a3804629.jpg"
+        }
+      ],
+      "type": "Beer hall",
+      "categories": [
+        "Beer hall"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ginza Lion Beer Hall (Ginza 7-chome), Ginza Lion Building, 7 Chome-9-20 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/w6q3H4JmFWNLZEcF8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This landmark Ginza beer hall, open since 1934, appears in episode 8 background shots of the Ginza streetscape as JSDF-connected characters move through the district, its distinctive facade unchanged from the invasion scenes of episode 1."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP0L4jUmLGGARi1cZg_m-mew",
+      "name": "Seimon Ishibashi",
+      "localName": "二重橋",
+      "coordinates": {
+        "lat": 35.6800089,
+        "lng": 139.754703
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d0bc0e5-8259-4106-a879-97fb67cd12d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d0bc0e5-8259-4106-a879-97fb67cd12d0.webp"
+        },
+        {
+          "url": "media/cached-image_8891f28e246829bd45f39308988746439d3809be320464481c3abc037559bf6f.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seimon Ishibashi, 二重橋 1-7 Chiyoda, Chiyoda City, Tokyo 100-0001, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pS2KMi1uegEXuB3BA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The iconic stone bridge at the Imperial Palace front plaza appears in episode 1 as JSDF units deploy across central Tokyo in response to the Gate attack, with this recognizable landmark serving as a rallying point in the emergency mobilization sequence.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY_U6rvWLGGARKYlIvmYHmLk",
+      "name": "Iwaidacho Police Box",
+      "localName": "丸の内警察署 祝田町見張所",
+      "coordinates": {
+        "lat": 35.6798791,
+        "lng": 139.755597
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c6c8d7db-2bc5-407f-8568-b2e4a7b84a12.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c6c8d7db-2bc5-407f-8568-b2e4a7b84a12.webp"
+        },
+        {
+          "url": "media/cached-image_74c1338e8103793d0e5920e30d21828e080a6dceaa4f89cac02edb7c947ac30b.jpg"
+        }
+      ],
+      "type": "Police box",
+      "categories": [
+        "Police box"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Iwaidacho Police Box, 2 Kōkyogaien, Chiyoda City, Tokyo 100-0002, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6h82Qij3CKQ5UeHA8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small police box near the Imperial Palace outer gardens appears in episode 1 during the immediate chaos following the Gate's opening, visible as law enforcement struggles to respond to the fantasy creature invasion flooding out of Ginza."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJVoxR-mLGGARMJX2tRb0JMo",
+      "name": "Tsukiji Police Station Dobashi Of Social Safety Center",
+      "localName": "築地警察署 土橋地域安全センター",
+      "coordinates": {
+        "lat": 35.668263599999996,
+        "lng": 139.758694
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43ecf368-1dc7-4709-a4a7-42baa207064d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43ecf368-1dc7-4709-a4a7-42baa207064d.webp"
+        },
+        {
+          "url": "media/cached-image_366bab70456250cc2c95649a6177f0eeb441bb859d6b6fd975841ee7b836262f.jpg"
+        }
+      ],
+      "type": "Police station",
+      "categories": [
+        "Police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tsukiji Police Station Dobashi Of Social Safety Center, 8 Chome-3-7 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7tVBdtX52NhWEQxaA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This police facility near Ginza appears in episode 1 background shots as emergency services mobilize in the aftermath of the Gate's opening, representing the civilian law enforcement overwhelmed by the sudden fantasy invasion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfXa6UYmLGGAR7ZFtkmekPKA",
+      "name": "Taiyaki Kanda Daruma Ginza Store",
+      "localName": "たいやき神田達磨 銀座店",
+      "coordinates": {
+        "lat": 35.6679342,
+        "lng": 139.7584531
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fda76920-2c33-42e8-be73-52c43fa5ec7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fda76920-2c33-42e8-be73-52c43fa5ec7e.webp"
+        },
+        {
+          "url": "media/cached-image_832cf23d92c9fc51ce86b36e3a99c139d4346ff0aff5cb569cdfd8863cff1b24.jpg"
+        },
+        {
+          "url": "media/cached-image_a74016ebb59f6484a711b18317ff80f61f412c586722cbf3a555e71e0b9276da.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Taiyaki Kanda Daruma, 1 Chome-13-5 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yvW3jhQWB12B1Gdp8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV4TDwfeLGGARZZY83rpWpSA",
+      "name": "Wadakura Fountain National Park",
+      "localName": "和田倉噴水公園",
+      "coordinates": {
+        "lat": 35.6833415,
+        "lng": 139.7608736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0dbc395-d231-4bc4-9733-30b94aa2af48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0dbc395-d231-4bc4-9733-30b94aa2af48.webp"
+        },
+        {
+          "url": "media/cached-image_e2cf9ba67b079a0c793b3890c9a72ac2c661548321fd49b2043c05f0ca08353a.jpg"
+        },
+        {
+          "url": "media/cached-image_f776ade202dc7820e747ed2cc44fc92b00ebd6b7980d26245bd56b50a8212d11.jpg"
+        },
+        {
+          "url": "media/cached-image_2f353cf3cca91d482214af5f358c7ad054cdf1d5201ff9d15dfb3fa69c63381a.jpg"
+        },
+        {
+          "url": "media/cached-image_372d44547adff089de8e769cb88a9aadfcc17aa2788f1224b1774dc9cf56c172.jpg"
+        },
+        {
+          "url": "media/cached-image_e963cc1422aa0929d5430347eed1a8de006766c26ba402a7419a44b8a5b94f90.jpg"
+        }
+      ],
+      "type": "National park",
+      "categories": [
+        "National park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1185,
+      "priceLevel": null,
+      "address": "Wadakura Fountain Park, 3-1 Kokyogaien, Chiyoda City, Tokyo 100-0002, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1mqmiPnsWtbtv8uR8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Wadakura Fountain Park near the Imperial Palace appears in the opening animation among shots of Tokyo landmarks, representing the ordinary beauty of the city that the Gate's appearance threatens and that Itami and the JSDF fight to protect."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8S5SheWLGGAR96spDz2FzQM",
+      "name": "Tsukiji Police Station Sukiyabashi Police Box",
+      "localName": "築地警察署 数寄屋橋交番",
+      "coordinates": {
+        "lat": 35.6728446,
+        "lng": 139.76329819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c109166c-2e07-481e-b245-3eb378fd64dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c109166c-2e07-481e-b245-3eb378fd64dc.webp"
+        },
+        {
+          "url": "media/cached-image_29a84a1753e51de4fd7db4e1823b479ca788a44bdfce4c28ff074dbe6642b1c5.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sukiyabashi Police Box, 4 Chome-1-2 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.672676,139.7631826,3a,48.8y,109.74h,96.81t/data=!3m7!1e1!3m5!1s8OYf_HIjno_YELCxmMfIbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.809679288745272%26panoid%3D8OYf_HIjno_YELCxmMfIbA%26yaw%3D109.74480938262691!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Sukiyabashi Police Box near the Ginza intersection appears in episode 8 street-level shots, one of the recognizable Ginza fixtures that fans use to match the anime's meticulous background art to real Ginza locations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDcZ1YZiLGGAR8j1tcFitQ8k",
+      "name": "Seiko House Ginza Clock Tower",
+      "localName": "セイコーハウス 時計塔",
+      "coordinates": {
+        "lat": 35.6715697,
+        "lng": 139.7650504
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd4c7052-a5a8-478b-8933-4e45912d954b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd4c7052-a5a8-478b-8933-4e45912d954b.webp"
+        },
+        {
+          "url": "media/cached-image_8a88242659b1886e0a6c4743a0f83aa0bcddb06f58b2404eac9538f9ad8cb910.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seiko House Ginza Clock Tower, 4 Chome-5-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6712759,139.7650773,3a,90y,355.97h,116.65t/data=!3m7!1e1!3m5!1sS7ybAvIoTN0jWJ4R5Zgv5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.651487790801312%26panoid%3DS7ybAvIoTN0jWJ4R5Zgv5A%26yaw%3D355.9674039206958!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Seiko Clock Tower is a Ginza landmark that appears in episode 10 background shots of the district, its prominent facade a reliable reference point for fans comparing the show's detailed Ginza street art to real locations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4RGu0emLGGARuUX8XtPxUVg",
+      "name": "Yashirobashi",
+      "localName": "社橋",
+      "coordinates": {
+        "lat": 35.7086657,
+        "lng": 139.6060451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62927f0a-7c5d-4ebb-a4b4-77900007c903.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62927f0a-7c5d-4ebb-a4b4-77900007c903.webp"
+        },
+        {
+          "url": "media/cached-image_4364633bc232dba5dc8195ec05650bcb29bb264facfbfab4cafc5dd9be4c436b.jpg"
+        },
+        {
+          "url": "media/cached-image_5ae07b9043ebf924b0fe5dc79de0e6fa8ca2c522f094ae1aca64f6c5aed1b64b.jpg"
+        },
+        {
+          "url": "media/cached-image_0c4681004396147124b5087dd86853a4d8c1dd41d7e4873f28f6954ce8b6bec4.jpg"
+        },
+        {
+          "url": "media/cached-image_79742560bb9cd38388e26e50187ac8d0668093215f69c4addc2b710fb106a2fc.jpg"
+        },
+        {
+          "url": "media/cached-image_ce3b6ec1caf9cfe97f471e0f66ce9e0eb9151c4fcad3d8461929f33a23c468a8.jpg"
+        },
+        {
+          "url": "media/cached-image_16d9cb3dfea8fced20894361a0eeeeb6a81aceabe196e6ae4172ba1bb3921c4e.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1891,
+      "priceLevel": null,
+      "address": "2 Chome-17 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7086657,139.6060451,3a,90y,117.25h,95.67t/data=!3m7!1e1!3m5!1s1hwxJm7utjrX-HyKvEPWtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1hwxJm7utjrX-HyKvEPWtg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.41923%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This bridge near Shimbashi appears in episode 1 during the initial chaos as civilians flee the Gate's creature invasion spreading out from Ginza, its canal-side setting visible in scenes of the city's emergency response."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ffbc1d6d-9bd4-4fc6-bc87-fbb87764c6a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ffbc1d6d-9bd4-4fc6-bc87-fbb87764c6a2.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Shinjuku Station Odakyu Line entrance appears in episode 9 as characters travel through Tokyo on their way to or from Hakone, grounding the episode's out-of-city excursion in a recognizable major transit hub."
+    }
+  ]
+}

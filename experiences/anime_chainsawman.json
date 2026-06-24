@@ -3,86 +3,20 @@
   "entityType": "anime",
   "entityName": "Chainsaw Man",
   "slug": "chainsaw-man",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
-  "image": "media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cache.contextforce.com/media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
+  "image": "https://cache.contextforce.com/media/cached-image_3fdcb208e358be126b5ebf982468e820db0d07e1999bfe55d030948c91a3059c.webp",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
   "primaryLocation": "Tokyo, Japan",
   "primaryLocationCoords": {
     "lat": 35.43567,
-    "lng": 138.70124750000002
+    "lng": 138.7012475
   },
   "metadata": {
     "entityType": "anime",
     "entityName": "Chainsaw Man"
   },
   "ingredients": [
-    {
-      "kind": "poi",
-      "placeId": "ChIJJUv9zA7tGGARq-Iy0akEuog",
-      "name": "Pitattohausu Nerimaekimaeten",
-      "localName": "ピタットハウス 練馬駅前店",
-      "coordinates": {
-        "lat": 35.73759,
-        "lng": 139.65498
-      },
-      "image": "media/cached-image_6ce7f7b9039538407046b4ba7bcd90d89f908d4205efe8a02af890c96bf23834.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6ce7f7b9039538407046b4ba7bcd90d89f908d4205efe8a02af890c96bf23834.webp"
-        },
-        {
-          "url": "media/cached-image_d2855aa78b41bbe91281e245a51f3e2d224bfd20522a116b6dff96358b755464.jpg"
-        }
-      ],
-      "type": "不動産店",
-      "categories": [
-        "不動産店"
-      ],
-      "rating": 4.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-2-5 Nerima, Nerima City, Tokyo 176-0001, Japan",
-      "city": "Nerima City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/JKYVZCm8VLV6iSHz9"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJa24Ipa_tGGARHfXkbFYHbk4",
-      "name": "Koyamacho (Bus)",
-      "localName": "向山町 (バス)",
-      "coordinates": {
-        "lat": 35.73863,
-        "lng": 139.6422
-      },
-      "image": "media/cached-image_729682d4d1c23d4871cd16f85f84e1d16ff64a1378c39c70a83e45222881f144.webp",
-      "images": [
-        {
-          "url": "media/cached-image_729682d4d1c23d4871cd16f85f84e1d16ff64a1378c39c70a83e45222881f144.webp"
-        },
-        {
-          "url": "media/cached-image_92199cb1dbda9d1c2135b0e10b066c81f585701d08d96863229f1659c9aee35d.jpg"
-        }
-      ],
-      "type": "バス停",
-      "categories": [
-        "バス停"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "2-chōme-9 Kōyama, Nerima City, Tokyo 176-0022, Japan",
-      "city": "Nerima City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/vwFvgpMUiBRrjRjB8"
-    },
     {
       "kind": "poi",
       "placeId": "ChIJzxDLbwntGGARfg_YxccvvxE",
@@ -92,10 +26,10 @@
         "lat": 35.73767,
         "lng": 139.65458
       },
-      "image": "media/cached-image_8cd114263c1532d8021b5199f0f689df790158a865bbf7ddce25379b248837b1.webp",
+      "image": "https://cdn.animepilgrimage.com/places/81c00482-93db-4575-8732-cc97a65f0a07.webp",
       "images": [
         {
-          "url": "media/cached-image_8cd114263c1532d8021b5199f0f689df790158a865bbf7ddce25379b248837b1.webp"
+          "url": "https://cdn.animepilgrimage.com/places/81c00482-93db-4575-8732-cc97a65f0a07.webp"
         },
         {
           "url": "media/cached-image_b2a5a2cb861ed54ae9437cfbd3f39a05cf6010cb5553c9896cb87b4ae0662778.jpg"
@@ -115,7 +49,9 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://maps.app.goo.gl/RZaGsCuZtN5FpRvr8",
-      "entityContext": "The plaza outside Nerima Station is where Power slays the Sea Fiend without orders, and where Makima dresses down Denji and Power for going rogue.",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Nerima Station and the surrounding residential streets serve as the backdrop for Denji and Aki's early devil-hunting missions in Tokyo, including the eel devil encounter depicted across episodes 2 and 3. The quiet commuter hub anchors the show's grounded, working-class atmosphere that sets Chainsaw Man apart from other action anime.",
       "fanTopPick": true
     },
     {
@@ -127,10 +63,10 @@
         "lat": 34.52879,
         "lng": 135.85323
       },
-      "image": "media/cached-image_91d13196c320de4a7a6d6d55f32480e8bff11bc26bd8af5dc928f9f6d9d4d159.webp",
+      "image": "https://cdn.animepilgrimage.com/places/88154acd-ffeb-4e59-8d02-2eb4dbd9f1e0.webp",
       "images": [
         {
-          "url": "media/cached-image_91d13196c320de4a7a6d6d55f32480e8bff11bc26bd8af5dc928f9f6d9d4d159.webp"
+          "url": "https://cdn.animepilgrimage.com/places/88154acd-ffeb-4e59-8d02-2eb4dbd9f1e0.webp"
         },
         {
           "url": "media/cached-image_eb62f66f547d3f1d5c702b1e33182f0f3fdd7903ef906eb2dba2236b8f90821b.jpg"
@@ -145,7 +81,7 @@
           "url": "media/cached-image_a677570fe1ca848e1a98813f29adcf7351791da93aaf8782239b88b6b66eaeed.jpg"
         },
         {
-          "url": "media/cached-image_8fcf1db4af385445c77dec64922df1032c1e70a0392b04372726c7319bebb7d7.jpg"
+          "url": "media/cached-image_8fcf1db4af385445c77dec64922df1032c1e70a0392b04372716c7319bebb7d7.jpg"
         },
         {
           "url": "media/cached-image_d88c42abd737df2276d196f1f7672c8c807033f0dc3130e5554655f996593fc5.jpg"
@@ -183,8 +119,84 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://maps.app.goo.gl/wyEMpq4ekis6YaBA8",
-      "entityContext": "This Nara shrine is where Makima appears during the Katana Man assault, using its sacred ground to remotely annihilate the attackers.",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Omiwa Jinja, one of Japan's oldest Shinto shrines at the base of sacred Mount Miwa, is the real-life model for the forest shrine where Makima unleashes her terrifying power in episode 9. The shrine's ancient, deity-as-mountain mystique mirrors Makima's enigmatic and otherworldly control, making this a deeply resonant pilgrimage stop for fans who want to feel the weight of that scene.",
       "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJUv9zA7tGGARq-Iy0akEuog",
+      "name": "Pitattohausu Nerimaekimaeten",
+      "localName": "ピタットハウス 練馬駅前店",
+      "coordinates": {
+        "lat": 35.73759,
+        "lng": 139.65498
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2419c5ed-3275-4769-8fd4-70bb981b734c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2419c5ed-3275-4769-8fd4-70bb981b734c.webp"
+        },
+        {
+          "url": "media/cached-image_d2855aa78b41bbe91281e245a51f3e2d224bfd20522a116b6dff96358b755464.jpg"
+        }
+      ],
+      "type": "不動産店",
+      "categories": [
+        "不動産店"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2-5 Nerima, Nerima City, Tokyo 176-0001, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JKYVZCm8VLV6iSHz9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This real estate shop directly in front of Nerima Station appears in the background streetscape of episode 2 as Denji first arrives in Tokyo and takes in the ordinary urban scenery he has never experienced before. It is one of the small, recognizable details that ground Chainsaw Man's world in the mundane reality of western Tokyo commuter life.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa24Ipa_tGGARHfXkbFYHbk4",
+      "name": "Koyamacho (Bus)",
+      "localName": "向山町 (バス)",
+      "coordinates": {
+        "lat": 35.73863,
+        "lng": 139.6422
+      },
+      "image": "https://cdn.animepilgrimage.com/places/46092af4-fd68-4941-b494-3fadd8ae8a26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/46092af4-fd68-4941-b494-3fadd8ae8a26.webp"
+        },
+        {
+          "url": "media/cached-image_92199cb1dbda9d1c2135b0e10b066c81f585701d08d96863229f1659c9aee35d.jpg"
+        }
+      ],
+      "type": "バス停",
+      "categories": [
+        "バス停"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2-chōme-9 Kōyama, Nerima City, Tokyo 176-0022, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/vwFvgpMUiBRrjRjB8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This quiet residential bus stop in Nerima's Koyama neighborhood appears in episode 12 as part of the ordinary Tokyo streetscape that frames Aki's tragic final arc. The sleepy suburban setting contrasts sharply with the violence Aki endures, and visiting it brings the bittersweet everyday world Aki was fighting to protect into vivid focus.",
+      "fanTopPick": false
     }
   ]
 }

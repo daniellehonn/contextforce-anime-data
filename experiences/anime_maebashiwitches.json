@@ -1,0 +1,2076 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Maebashi Witches",
+  "slug": "maebashi-witches",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3c09fd2b496bc52cecd6b2fd4abc4cc0870c2f6c6eae50c81d01f06764a09eb0.webp",
+  "image": "media/cached-image_3c09fd2b496bc52cecd6b2fd4abc4cc0870c2f6c6eae50c81d01f06764a09eb0.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.33748529298246,
+    "lng": 139.07357954736838
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Maebashi Witches"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_0",
+      "name": "Mr. Bourbon.",
+      "localName": "ミスターバーボン",
+      "coordinates": {
+        "lat": 36.39296,
+        "lng": 139.07099
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5d57c5c-592a-44bc-b53a-a31955010df1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5d57c5c-592a-44bc-b53a-a31955010df1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3929476,139.071009,3a,90y,335.15h,95.47t/data=!3m7!1e1!3m5!1sTWX9DKY6IIi7Uo7z35f73g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.468748753100456%26panoid%3DTWX9DKY6IIi7Uo7z35f73g%26yaw%3D335.1537215631586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdUwgZhvzHmARRCB9lxigHkM",
+      "name": "Suzuran Department Store Maebashi",
+      "localName": "スズラン百貨店 前橋店",
+      "coordinates": {
+        "lat": 36.3918853,
+        "lng": 139.0701316
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93f1cde7-5c8b-4608-ac02-a10a9b9bc10c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93f1cde7-5c8b-4608-ac02-a10a9b9bc10c.webp"
+        },
+        {
+          "url": "media/cached-image_24450f116654d298bef53ead2a518cf64f05371864f9f2790c47c7194b99431a.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Suzuran Department Store Maebashi, 2 Chome-12-3 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.391328,139.0704835,3a,64.3y,354.18h,95.01t/data=!3m7!1e1!3m5!1s_uuXG507dl4mUrvsRGk9fw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.012069199163051%26panoid%3D_uuXG507dl4mUrvsRGk9fw%26yaw%3D354.1838996292887!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Suzuran department store appears as a backdrop to several downtown Maebashi scenes in episode 10, capturing the everyday city atmosphere the witches inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_2",
+      "name": "LAUGH COFFEE",
+      "localName": null,
+      "coordinates": {
+        "lat": 36.39273,
+        "lng": 139.06956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82da435f-d1ba-46e2-86de-2abc370edae4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82da435f-d1ba-46e2-86de-2abc370edae4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3927441,139.0695243,3a,90y,101.34h,92.13t/data=!3m7!1e1!3m5!1s046WfKX5r-qEC9mjfD-smQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.132109558452541%26panoid%3D046WfKX5r-qEC9mjfD-smQ%26yaw%3D101.34076362440216!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1cyrPRbzHmAR2dOsPx-JCoM",
+      "name": "Rinkokaku",
+      "localName": "臨江閣",
+      "coordinates": {
+        "lat": 36.395869999999995,
+        "lng": 139.06223939999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ccc2232-8906-4998-bc5a-0fbc321f72d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ccc2232-8906-4998-bc5a-0fbc321f72d9.webp"
+        },
+        {
+          "url": "media/cached-image_157652546c1fed93b9d62c5ed7e33de793da3fd984ffebeb5764ba3f9392e5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_1bb284a202bddbfd4143c1a281facac6f80112381a25b073b0ed21bde72e1b67.jpg"
+        },
+        {
+          "url": "media/cached-image_b6242b37097c16a95f1db440759b99e05884e5cb74b8c910294e6deafce16dfb.jpg"
+        },
+        {
+          "url": "media/cached-image_93aca4bbb13d45f68c1d43fb41e2f2d9f8c053533a4bc19ae9f4a9ee54833948.jpg"
+        },
+        {
+          "url": "media/cached-image_75c65270a6cccf7939a31cea569af1d85f01ad93075488b942e7ab7b867ceb15.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": 13,
+      "priceLevel": null,
+      "address": "Rinkokaku, 3 Chome-15-3 Otemachi, Maebashi, Gunma 371-0026, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3953757,139.0622555,3a,75y,338.35h,93.76t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICfoqL7kQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0Jh0RfwwR6xPrl8DrbM7JNS8tK4GtR8q5IObzAVbfDbi2EpAV8IfR_kf7lyNICkI9qGAZJbKfbzrHSDIJxwxnogZnCXcuevEXEuCJLmYjXBpJr1n_MdUfu7QpqWscOzboamEqZdQ%3Dw900-h600-k-no-pi-3.7608102061652744-ya338.3483475641649-ro0-fo100!7i6944!8i3472?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The historic Meiji-era Rinkokaku villa is one of the most visually distinctive settings in the anime, appearing in episode 4 as the witches gather near its traditional architecture along the Tone River.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ51LTppySHmARWFMJgt5HccI",
+      "name": "Lawson Takasaki Station West Exit",
+      "localName": "ローソン 高崎駅西口店",
+      "coordinates": {
+        "lat": 36.3224152,
+        "lng": 139.01195769999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12473875-b555-438c-914d-7d4876c5e60f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12473875-b555-438c-914d-7d4876c5e60f.webp"
+        },
+        {
+          "url": "media/cached-image_431922b17b01c3e3f0c65e312c314bc629acc106c0e276ac2e9b13d296a51a73.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Takasaki Station West Exit, 222 Yashimacho, Takasaki, Gunma 370-0849, Japan",
+      "city": "Takasaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3223012,139.0117202,3a,37.2y,90.45h,95.56t/data=!3m7!1e1!3m5!1s4rycF79Qkgn0ntCxh65FKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.5563599646644946%26panoid%3D4rycF79Qkgn0ntCxh65FKQ%26yaw%3D90.45249722629431!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-UzSgLT0HmARv3YzMVugp30",
+      "name": "JINS Maebashi Store",
+      "localName": "JINS 前橋店",
+      "coordinates": {
+        "lat": 36.4250505,
+        "lng": 139.04586519999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1c2f0be-99db-47e9-bb25-829907e4fd9c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1c2f0be-99db-47e9-bb25-829907e4fd9c.webp"
+        },
+        {
+          "url": "media/cached-image_90dc3f4256e5f3531e70c7c3a19133bfbf46f0d58256a7a01d4c0020a10be59f.jpg"
+        }
+      ],
+      "type": "Optician",
+      "categories": [
+        "Optician"
+      ],
+      "rating": 4,
+      "reviewCount": 195,
+      "priceLevel": null,
+      "address": "JINS, 1 Chome-21-9 Kawaharamachi, Maebashi, Gunma 371-0046, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4247332,139.0457,3a,75y,30.86h,95.69t/data=!3m7!1e1!3m5!1s9_jW-fqiXw2_sbyDyyITHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.688772900366885%26panoid%3D9_jW-fqiXw2_sbyDyyITHA%26yaw%3D30.857468236420154!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4e5u0ATzHmARci4X6RKlDu4",
+      "name": "Sakutaro Hagiwara Memorial Maebashi City Museum of Literature",
+      "localName": "萩原朔太郎記念 前橋文学館",
+      "coordinates": {
+        "lat": 36.3938523,
+        "lng": 139.0721781
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6ac039fa-781b-41f4-95d4-2e0ba4adca95.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6ac039fa-781b-41f4-95d4-2e0ba4adca95.webp"
+        },
+        {
+          "url": "media/cached-image_f549958d25e3b6c07e80e69ae4319e40cc7bc317fbc323fd23f8bcd555cddc64.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Sakutaro Hagiwara Memorial Maebashi City Museum of Literature, 前橋文学館 1F 3 Chome-12-10 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3939402,139.0723842,3a,75y,231.8h,91.88t/data=!3m7!1e1!3m5!1sbSuKwAnxpB3PMzGAAVBfkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8770130343875735%26panoid%3DbSuKwAnxpB3PMzGAAVBfkA%26yaw%3D231.79906436541125!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The literary museum dedicated to Maebashi's famous poet Sakutaro Hagiwara appears in episode 8, adding a layer of local cultural pride to the witches' city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9SahiMXwHmARaBztxRzxMOM",
+      "name": "Gunma Flower Park",
+      "localName": "ぐんまフラワーパーク プラス",
+      "coordinates": {
+        "lat": 36.4559017,
+        "lng": 139.1758954
+      },
+      "image": "https://cdn.animepilgrimage.com/places/904a8536-0cda-446d-8fd5-66318e35a20e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/904a8536-0cda-446d-8fd5-66318e35a20e.webp"
+        },
+        {
+          "url": "media/cached-image_6d8f8157fb692c33e82f15d777905ad16f68c5bb0610ebc5649c73e8a2cd1818.jpg"
+        },
+        {
+          "url": "media/cached-image_f9891d277a8c20be4649f8db0f3bd13ab4bf09a7608dbe9e812dab3e94e6fa07.jpg"
+        },
+        {
+          "url": "media/cached-image_3c2e2c4c97bd596d4432e8d4f9024726eaab2479d4a69693777abb7c5b07eb9d.jpg"
+        },
+        {
+          "url": "media/cached-image_d1e6a1ff5a57c42bd85d80f33e115d5c8d6ab41221724a9f073a2c824be9e40d.jpg"
+        },
+        {
+          "url": "media/cached-image_b777fd5772827be4d6d5db1ad17a86e2db05868f771de89248330a1ff7fcc80b.jpg"
+        }
+      ],
+      "type": "Botanical garden",
+      "categories": [
+        "Botanical garden"
+      ],
+      "rating": 3.9,
+      "reviewCount": 19,
+      "priceLevel": null,
+      "address": "Gunma Flower Park, 2471-7 Kashiwaguramachi, Maebashi, Gunma 371-0246, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4558251,139.175832,3a,66.2y,333.63h,97.27t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4t6XWlwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hbw4LQuVdRxK8oxO8ZB7VsQUnldDg6iiw486xBkcrDk7FbN05iYqxRGcmqHHUZp6da9WQjbCecfXE5mlxv-t8-pg99wNFdNSd0CK7rKrIMW0O2ZyLreE8cj6fDr0g01QgpBFCUc9Q%3Dw900-h600-k-no-pi-7.269938503616999-ya7.634271143894068-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Gunma Flower Park appears in episode 10, its botanical garden setting providing a colorful backdrop for a character outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo9mEfj3zHmAR8BmciWZF798",
+      "name": "Rakuhodou Maebashi Park",
+      "localName": "楽歩堂前橋公園",
+      "coordinates": {
+        "lat": 36.3948805,
+        "lng": 139.0603051
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0893553-9995-4be5-afc3-944814da53cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0893553-9995-4be5-afc3-944814da53cf.webp"
+        },
+        {
+          "url": "media/cached-image_ce95f59c8521fadf642fa67c4e78b996123afcda0698851ed95f0d249eda1c93.jpg"
+        },
+        {
+          "url": "media/cached-image_d633a848e236ae71bb5dcecec13cba49a33b3dd2baa7954f3637d512bbd22346.jpg"
+        },
+        {
+          "url": "media/cached-image_157652546c1fed93b9d62c5ed7e33de793da3fd984ffebeb5764ba3f9392e5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_0ae40b76ffd21865f439562932a368511a5dd794d8736490c4d2ddc9fd4b0000.jpg"
+        },
+        {
+          "url": "media/cached-image_d0fe3a30ab779a06893baa8ee55f00def4c2ec9748931ef6c1e5f98bb1f2d7a1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 2008,
+      "priceLevel": null,
+      "address": "Rakuhodou Maebashi Park, 3 Chome-7-7 Otemachi, Maebashi, Gunma 371-0026, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3947229,139.0602323,3a,90y,233.58h,100.2t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDp_7edVQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaNm0XzH6iuoR4Tdls7ouOVeOy44EKN2FN65M5vY4WlZU4h8YVjsIxm6eChEXi6ZKllVpwY_2apCbHxSTsgSrSn3o_qVKZsioDVgyefl4Kgs_aOlPNArB045bg_LE2LIYJnqbJD%3Dw900-h600-k-no-pi-10.197339746359134-ya240.24410245637497-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The large park adjacent to Rinkokaku appears in episode 10, its riverside greenery and open plazas serving as a gathering space for the characters in the finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIaVaOjfzHmARlEf1XQcjdTM",
+      "name": "Maebashi Galleria",
+      "localName": "まえばしガレリア",
+      "coordinates": {
+        "lat": 36.391443599999995,
+        "lng": 139.0723993
+      },
+      "image": "https://cdn.animepilgrimage.com/places/115f6961-2a03-4a7d-b2f8-c556351e642f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/115f6961-2a03-4a7d-b2f8-c556351e642f.webp"
+        },
+        {
+          "url": "media/cached-image_587306564eb6320e120926464d855390b91cc11f6a99fcd20a8fd8f8f6fb5f76.jpg"
+        },
+        {
+          "url": "media/cached-image_7cc10d728ed8ebb472d5b4e19ccbd3efec02faaad2655f9f26e62ec51d5910c6.jpg"
+        },
+        {
+          "url": "media/cached-image_2e4d2e7657f671377c038c77fa1eb51d137f17fde72972abefdefe04a4721419.jpg"
+        },
+        {
+          "url": "media/cached-image_d1a72458d755b761e78c375dd464627b1cff3d6dea4dc1d72c3cc417b1e2a81b.jpg"
+        },
+        {
+          "url": "media/cached-image_8add344a62867ec99e9811ff38b9023fbb984c5c9005d71c8ae78dbcf462c458.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maebashi Galleria, 5 Chome-9-1 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3911891,139.0724632,3a,90y,337.49h,109.37t/data=!3m7!1e1!3m5!1sjtdmw0t8qYSEWNaZdpxZiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.368376408393146%26panoid%3Djtdmw0t8qYSEWNaZdpxZiQ%26yaw%3D337.4852958440392!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Maebashi Galleria, the converted hotel in the city center, appears in episode 10 as part of the witches' tour through downtown Maebashi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ32Sy0RzzHmAR-0202Rq9z2s",
+      "name": "Maebashi Plaza Genki 21",
+      "localName": "ミヤケン元気21",
+      "coordinates": {
+        "lat": 36.3898375,
+        "lng": 139.0710794
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4cec01a3-14ee-4d24-9bb9-b9b94b55337a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4cec01a3-14ee-4d24-9bb9-b9b94b55337a.webp"
+        },
+        {
+          "url": "media/cached-image_fa9082873dad2c1a396395bc5574d48d90ebfc6e96110d48f60d2b58cf03ca2e.jpg"
+        }
+      ],
+      "type": "Cultural center",
+      "categories": [
+        "Cultural center"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maebashi Plaza Genki 21, 2 Chome-12-1 Honmachi, Maebashi, Gunma 371-0023, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3902203,139.0714818,3a,90y,65.32h,93.24t/data=!3m7!1e1!3m5!1sDjb3L-TUdkuRUDfI40Kz-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2403758642232106%26panoid%3DDjb3L-TUdkuRUDfI40Kz-Q%26yaw%3D65.31650467651554!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Genki 21 cultural center in central Maebashi is featured in episode 10 scenes depicting the city's civic spaces."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_11",
+      "name": "Kuruman Bridge",
+      "localName": "久留万橋",
+      "coordinates": {
+        "lat": 36.39132,
+        "lng": 139.07425
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7d7539d8-9b8f-44c3-82f7-d5f370071413.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7d7539d8-9b8f-44c3-82f7-d5f370071413.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3911276,139.0742519,3a,54.9y,359.33h,96.9t/data=!3m7!1e1!3m5!1sDK-2eDagCDcJE_F941uOhA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.902638955214613%26panoid%3DDK-2eDagCDcJE_F941uOhA%26yaw%3D359.3318342752136!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_12",
+      "name": "Yasukawa Cigarette Shop",
+      "localName": "安川たばこ店",
+      "coordinates": {
+        "lat": 36.39383,
+        "lng": 139.07107
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1398e119-5d13-4edb-b0ac-abc0334c2bb9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1398e119-5d13-4edb-b0ac-abc0334c2bb9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3938397,139.0711243,3a,75y,283.27h,93.27t/data=!3m7!1e1!3m5!1s7KFLkPK90RAVi-1qDxPOOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2723931163163513%26panoid%3D7KFLkPK90RAVi-1qDxPOOQ%26yaw%3D283.27015706230367!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_13",
+      "name": "Maruka",
+      "localName": "喫茶マルカ",
+      "coordinates": {
+        "lat": 36.39105,
+        "lng": 139.06956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4519080c-ed11-4f13-bbaa-0ac9642dd0cc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4519080c-ed11-4f13-bbaa-0ac9642dd0cc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3910495,139.0695952,3a,75y,318.04h,97.73t/data=!3m7!1e1!3m5!1sRObX4mJ7CzyWZPfTxCfPdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.73013869193808%26panoid%3DRObX4mJ7CzyWZPfTxCfPdA%26yaw%3D318.0362322526813!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_14",
+      "name": "Tatekawa-cho toori nishi",
+      "localName": "立川町通り西",
+      "coordinates": {
+        "lat": 36.39367,
+        "lng": 139.06928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa1125d0-0c63-46a2-bbfc-be419e83e969.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa1125d0-0c63-46a2-bbfc-be419e83e969.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3937,139.0693566,3a,90y,315.14h,110.88t/data=!3m7!1e1!3m5!1sa51mbNVqHtVVtCK-SnA9wQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.87867694009013%26panoid%3Da51mbNVqHtVVtCK-SnA9wQ%26yaw%3D315.139929839414!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaSd3xBnnAGARW-s2x5g-xrQ",
+      "name": "Yamaguchi Clothing Store",
+      "localName": "山口ストアー",
+      "coordinates": {
+        "lat": 34.6769105,
+        "lng": 135.5031323
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a23b36e5-da70-437d-b4b6-ee7f3eb1d820.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a23b36e5-da70-437d-b4b6-ee7f3eb1d820.webp"
+        },
+        {
+          "url": "media/cached-image_2949733d208a76dfa7648cfd1e4dddc3d1944ac2872f6932206e7f83c864330d.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒542-0081 Osaka, Chuo Ward, Minamisenba, 3 Chome−2−6 山口ストアー 大阪農林会館 4F",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4142488,139.1587028,3a,31.8y,196.71h,91.53t/data=!3m7!1e1!3m5!1ssjZucSgQe3w_pU9gslXe7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5283417310804595%26panoid%3DsjZucSgQe3w_pU9gslXe7w%26yaw%3D196.70634116665082!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_16",
+      "name": "Ogo Town Neighborhood Association's Dondoyaki",
+      "localName": "大胡町自治会のどんど焼き",
+      "coordinates": {
+        "lat": 36.41411,
+        "lng": 139.15859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9213d866-2190-4d0e-b023-f7e017d7676b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9213d866-2190-4d0e-b023-f7e017d7676b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4143432,139.1587811,3a,78y,30.44h,92.09t/data=!3m7!1e1!3m5!1sfukWZSfqMa0OTGSs6nwm-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0916791312555887%26panoid%3DfukWZSfqMa0OTGSs6nwm-Q%26yaw%3D30.441754761987912!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPdYjoMlnH2ARIl1shAnEleE",
+      "name": "Orion Street Shopping Street",
+      "localName": "オリオン通り商店街",
+      "coordinates": {
+        "lat": 36.560263299999995,
+        "lng": 139.8833357
+      },
+      "image": "https://cdn.animepilgrimage.com/places/361ea341-cd24-4194-b74c-edcf25558ff6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/361ea341-cd24-4194-b74c-edcf25558ff6.webp"
+        },
+        {
+          "url": "media/cached-image_3e98228da1a5a1c7463765d5b945784399e9b72d734bd8a603dc13f357365c43.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Orion-dori Shopping Street, トライスタービル 101 1-9 Enomachi, Utsunomiya, Tochigi 320-0802, Japan",
+      "city": "Utsunomiya",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3930821,139.0711286,3a,75y,15.8h,105.54t/data=!3m7!1e1!3m5!1sIyZIU2Kbg9uU95MRMijYKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.538191802404342%26panoid%3DIyZIU2Kbg9uU95MRMijYKg%26yaw%3D15.802343068687398!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF-Hs5bHxHmARUZGcnUOKf2A",
+      "name": "Ōgo Station",
+      "localName": "大胡駅",
+      "coordinates": {
+        "lat": 36.4128068,
+        "lng": 139.1561216
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7abfec4b-b8f6-4e81-b0e2-d8c4e8b8b2b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7abfec4b-b8f6-4e81-b0e2-d8c4e8b8b2b0.webp"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ōgo Station, Motogimachi, Maebashi, Gunma 371-0232, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.413151,139.1567047,3a,48.1y,194.55h,93.63t/data=!3m7!1e1!3m5!1sRGJWr5t5qdjW5zwToexlOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.629573633772125%26panoid%3DRGJWr5t5qdjW5zwToexlOQ%26yaw%3D194.54623254332387!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ogo Station on the Joshin Electric Railway appears in episode 1, its retro wooden platform establishing the rural-meets-suburban character of the girls' home territory.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUd7eSADzHmARXNmidntXkNI",
+      "name": "Silk patterned railings and silk bridge",
+      "localName": "絹の橋",
+      "coordinates": {
+        "lat": 36.394346299999995,
+        "lng": 139.0721381
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78824907-63fe-4ffb-806f-dded9cfbf54a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78824907-63fe-4ffb-806f-dded9cfbf54a.webp"
+        },
+        {
+          "url": "media/cached-image_b403c065e324f15e0aa961b7fb0951c5001151238347be330ab20f1fd6076751.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Silk patterned railings and silk bridge, 12 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3944961,139.0721423,3a,75y,149.32h,96.33t/data=!3m7!1e1!3m5!1sHqyLh_ElcSrAeq8x0HvxwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.333932963757476%26panoid%3DHqyLh_ElcSrAeq8x0HvxwQ%26yaw%3D149.31819636828044!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Kinu no Hashi pedestrian bridge, with its silk-motif railings referencing Gunma's sericulture heritage, is shown in episode 1 and serves as a recognizable landmark the characters pass on their routes through central Maebashi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs3fRkxzzHmAReO5OeWfK27M",
+      "name": "Maebashi Taikido",
+      "localName": "（株）前橋大気堂",
+      "coordinates": {
+        "lat": 36.390336999999995,
+        "lng": 139.069905
+      },
+      "image": "https://cdn.animepilgrimage.com/places/47252e97-9bae-4658-a203-cb6bb349fad1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/47252e97-9bae-4658-a203-cb6bb349fad1.webp"
+        },
+        {
+          "url": "media/cached-image_6577c62ecec79d0285aac3d303497be214407df71f6627d810b31c82cbc4a633.jpg"
+        }
+      ],
+      "type": "Stationery store",
+      "categories": [
+        "Stationery store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maebashi Taikido, 2 Chome-2-16 Honmachi, Maebashi, Gunma 371-0023, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3900958,139.0698325,3a,37.6y,19.12h,91.37t/data=!3m7!1e1!3m5!1s7SA9UfZXrNiuOHtkCZvzIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3715792366145223%26panoid%3D7SA9UfZXrNiuOHtkCZvzIA%26yaw%3D19.11816138200242!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This longtime stationery and goods shop on Honmachi appears in episode 12, part of the nostalgic commercial streetscape the anime celebrates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ918cFvfyHmARnxMqQMOuzDo",
+      "name": "KEYAKI WALK Maebashi",
+      "localName": "けやきウォーク前橋",
+      "coordinates": {
+        "lat": 36.3791667,
+        "lng": 139.0780556
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8f45a388-349b-4104-bb40-14e2edaa4fe8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8f45a388-349b-4104-bb40-14e2edaa4fe8.webp"
+        },
+        {
+          "url": "media/cached-image_86d8ccfc645cc223872e6db3385303e86b57dbd622749a2cb6ea137f9f7f292b.jpg"
+        },
+        {
+          "url": "media/cached-image_67d64213a840e3430286a97d2490a6dfb2aa96bd136e3d19fd1bfe55a41624ca.jpg"
+        },
+        {
+          "url": "media/cached-image_96838e8450608e2fde2460fa795d4ce39eb8d453e0f915a0ab705c5f2c7642e3.jpg"
+        },
+        {
+          "url": "media/cached-image_9dd80ab4cfe29bbc797a15ad0b051c52e1af01d683e6cadf567d4f39bceed36a.jpg"
+        },
+        {
+          "url": "media/cached-image_d7181b326ca3380b448271ab33246fa56cb85e3e346e6f891ba10b76c8530d21.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2163,
+      "priceLevel": null,
+      "address": "KEYAKI WALK Maebashi, 2 Chome-1-1 Bunkyocho, Maebashi, Gunma 371-0801, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3800201,139.078064,3a,90y,167.87h,61.39t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC2746fVA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaMDUhsV8sjY-yo8PwoE1zYw3S-kyybdufkGLMK0XxbGWXpm2ZVLishwItgbIwwKeThITxVhqPca7QxU_yfMiDTEuxK7Pj-qg31uDSgU3a0eE0BvW3mZMrkaMNHRzgtESUIdNnX%3Dw900-h600-k-no-pi28.61439444921583-ya167.86996470057767-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The KEYAKI WALK shopping mall appears in episode 12, one of the modern retail anchors visited by the characters as they navigate everyday Maebashi life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_22",
+      "name": "Bird Day",
+      "localName": "火ノ鳥",
+      "coordinates": {
+        "lat": 36.39371,
+        "lng": 139.06979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37933e66-7cf8-4454-af54-72e3cd3dbc37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37933e66-7cf8-4454-af54-72e3cd3dbc37.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3936254,139.0697092,3a,90y,26.5h,98.1t/data=!3m7!1e1!3m5!1s-UXKDDTI_ESMDMIx6oyGZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.096045251111406%26panoid%3D-UXKDDTI_ESMDMIx6oyGZQ%26yaw%3D26.50293049492187!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj-cNlhrzHmARzSIO6TC0Dks",
+      "name": "Restaurant ponchi",
+      "localName": "レストラン ポンチ",
+      "coordinates": {
+        "lat": 36.395052199999995,
+        "lng": 139.0703375
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e27dce97-bb91-40d7-a26f-f10c254b4b5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e27dce97-bb91-40d7-a26f-f10c254b4b5a.webp"
+        },
+        {
+          "url": "media/cached-image_d9bde564b6fe6d7fa2b0df6a606fa3b721dbd612bdef8d0a4ab2d68c8b61a4ff.jpg"
+        }
+      ],
+      "type": "Japanized western restaurant",
+      "categories": [
+        "Japanized western restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Restaurant ponchi, レストランポンチ 3 Chome-3-18 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3948426,139.0703844,3a,75y,15.91h,94.22t/data=!3m7!1e1!3m5!1sLkwc1hJ_MYlvTikbACVzrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.217502676542779%26panoid%3DLkwc1hJ_MYlvTikbACVzrQ%26yaw%3D15.912579810988575!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Restaurant Ponchi, a long-established western-style restaurant in Chiyoda-machi, appears in episode 12 and represents the kind of retro yoshoku dining spot the characters frequent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJByg3lSTzHmARSn9rifRM9HA",
+      "name": "Seiyo-tei Ichi Maebashi",
+      "localName": "一楽・Ｒｙｏｕｔｅｉ",
+      "coordinates": {
+        "lat": 36.388442999999995,
+        "lng": 139.055229
+      },
+      "image": "https://cdn.animepilgrimage.com/places/176881fb-bc40-4157-9287-8a5d04d53eba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/176881fb-bc40-4157-9287-8a5d04d53eba.webp"
+        },
+        {
+          "url": "media/cached-image_71243c5bcc5271acd5a333b1041cc2afdcce56e1fb8d584bb826a04409a665dc.jpg"
+        }
+      ],
+      "type": "Ryotei restaurant",
+      "categories": [
+        "Ryotei restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒371-0841 Gunma, Maebashi, Ishikuramachi, 4 Chome−１−16 料亭一楽 一楽・Ｒｙｏｕｔｅｉ",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3911948,139.0692367,3a,90y,30.6h,93.45t/data=!3m7!1e1!3m5!1sHRGsZIm0FrEQjHdg0N6FNg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.451212723750473%26panoid%3DHRGsZIm0FrEQjHdg0N6FNg%26yaw%3D30.604036714761435!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This traditional ryotei restaurant in Ishikura-machi appears in episode 12, its refined atmosphere contrasting with the girls' everyday routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJadmlA6Lznl8Rj1O3VQThFYM",
+      "name": "Kikuya shokudo",
+      "localName": "海鮮丼 きくよ食堂 函館朝市本店",
+      "coordinates": {
+        "lat": 41.772689199999995,
+        "lng": 140.7247447
+      },
+      "image": null,
+      "images": [],
+      "type": "Seafood donburi restaurant",
+      "categories": [
+        "Seafood donburi restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ajidokoro Kikuyo shokudo, 11-15 Wakamatsucho, Hakodate, Hokkaido 040-0063, Japan",
+      "city": "Hakodate",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3920646,139.0692063,3a,75y,23.18h,96.42t/data=!3m7!1e1!3m5!1sOvhrMWZ9zAGnfUCviFPN6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.418367312797258%26panoid%3DOvhrMWZ9zAGnfUCviFPN6A%26yaw%3D23.182834352437638!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUWpetKmMGGARmrGFvI1axEg",
+      "name": "ABC-MART Shibuya Store",
+      "localName": "ABC-MART 渋谷店",
+      "coordinates": {
+        "lat": 35.66038,
+        "lng": 139.69862
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fae93ad3-6ac1-46ef-a7c2-680ac0676caa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fae93ad3-6ac1-46ef-a7c2-680ac0676caa.webp"
+        },
+        {
+          "url": "media/cached-image_2d56c59019e991fb4c71afc5b010b11866c5e5e2abbbdb4264f71e12efa34871.jpg"
+        }
+      ],
+      "type": "靴店",
+      "categories": [
+        "靴店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya T Bldg., 27-6 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/54uJiPptmxPST34G9",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU8v-HmaNGGARL6GwGBVxqYE",
+      "name": "UNIQLO Ikebukuro Sunshine 60 Street Store",
+      "localName": "ユニクロ 池袋サンシャイン６０通り店",
+      "coordinates": {
+        "lat": 35.7299241,
+        "lng": 139.7155689
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ba844aa-3bec-401b-ac18-39c8c3f49b7f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ba844aa-3bec-401b-ac18-39c8c3f49b7f.webp"
+        },
+        {
+          "url": "media/cached-image_bcb704dc1e4539bbfba3211da451356aa862cfd94321dc19bf0a4f9a00c631af.jpg"
+        },
+        {
+          "url": "media/cached-image_6299c565bc2edfc118d15c9caee157ca0ee8a530b158162ca04661133559aa43.jpg"
+        },
+        {
+          "url": "media/cached-image_da1176de79f48030885af21288dbe617228ddb5ee6dc142530e26f772888d2c6.jpg"
+        },
+        {
+          "url": "media/cached-image_4b3c6da8dcf85e23362fefad6ef64af54a9b1405bedf90f874219bc0359de2a7.jpg"
+        },
+        {
+          "url": "media/cached-image_c1fbad34edd523576afbc4a0a25b116a45bca06c9d2ab3cbe01a0280edb010b2.jpg"
+        },
+        {
+          "url": "media/cached-image_83a35bf28f3b1f23237ac1e8dfc9631c006a428534c4d0d38e6d79df34c678bc.jpg"
+        },
+        {
+          "url": "media/cached-image_254c41c1d3b0a0334354057749d3076fdbbf42cae5715c3666cae2653e242589.jpg"
+        },
+        {
+          "url": "media/cached-image_8c9fa7ca7b00e10d45658417aac65ce6c23b6474c782622e3241ae3dea0e43a4.jpg"
+        }
+      ],
+      "type": "衣料品店",
+      "categories": [
+        "衣料品店"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1階, 1 Chome-21-4 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7299241,139.7155689,3a,67.8y,33.68h,99.32t/data=!3m7!1e1!3m5!1s_wZzNwvP5T5PbfwH6n4khQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D_wZzNwvP5T5PbfwH6n4khQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D343.98026%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtcovuyLzHmARSJUqqZDammE",
+      "name": "Gunma Prefecture Office",
+      "localName": "群馬県庁",
+      "coordinates": {
+        "lat": 36.390642,
+        "lng": 139.0603145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f126e41-1078-4413-a741-95c5a03e31ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f126e41-1078-4413-a741-95c5a03e31ec.webp"
+        },
+        {
+          "url": "media/cached-image_b371817f0d1f03fae2a3ab30a63ad6add45b1a7eae4bbf39ab87338fa4eb4fbb.jpg"
+        }
+      ],
+      "type": "Japanese prefecture government office",
+      "categories": [
+        "Japanese prefecture government office"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Gunma Prefectural Government Office, 1 Chome-1-1 Otemachi, Maebashi, Gunma 371-8570, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3912988,139.0617441,3a,90y,263.74h,108.14t/data=!3m7!1e1!3m5!1s9WwPDZqq-CxYmXqUxIR4iw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.141326886376476%26panoid%3D9WwPDZqq-CxYmXqUxIR4iw%26yaw%3D263.74095050624976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Gunma Prefectural Government Office building features in the opening sequence, its modernist tower a familiar horizon marker that anchors the show's visual identity for the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTdemZvvyHmARYJlShSx36V8",
+      "name": "Maebashi Station",
+      "localName": "前橋駅",
+      "coordinates": {
+        "lat": 36.383322199999995,
+        "lng": 139.0731784
+      },
+      "image": "https://cdn.animepilgrimage.com/places/03bfcb9c-3994-4165-bd02-1e6f664e7944.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/03bfcb9c-3994-4165-bd02-1e6f664e7944.webp"
+        },
+        {
+          "url": "media/cached-image_3294ec03cb518027916a2837ce4d1864b3eb3a40216857cf18801728179ed315.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maebashi Station, 2-chōme-29 Omotechō, Maebashi, Gunma 371-0024, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3838013,139.0730704,3a,75y,199.38h,98.58t/data=!3m7!1e1!3m5!1sVxiGmgWAe4t0VvRPUQwi5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.57874514792627%26panoid%3DVxiGmgWAe4t0VvRPUQwi5Q%26yaw%3D199.38294378925215!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Maebashi Station appears in the opening, the city's main rail gateway and the starting point for the characters' daily journeys across the city.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe6fQ4D7zHmARZykmFj3FK00",
+      "name": "Nippon Totor Green Dome Maebashi",
+      "localName": "日本トーターグリーンドーム前橋",
+      "coordinates": {
+        "lat": 36.397180399999996,
+        "lng": 139.0578255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/939b4c67-08fc-419f-a889-43a71c90c52d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/939b4c67-08fc-419f-a889-43a71c90c52d.webp"
+        },
+        {
+          "url": "media/cached-image_a5db94de50d3c67029575c47342aecf10f635017fbc2d03857d6b3d113184f16.jpg"
+        },
+        {
+          "url": "media/cached-image_7a3c9edafc339a4adb1133657a402f4c03e6638c3d24aa8e29ff30c271217357.jpg"
+        },
+        {
+          "url": "media/cached-image_94e21c999bc184fc093b7cc479076e90cb0f08ea8b7d407a926a8f0c6f11c105.jpg"
+        },
+        {
+          "url": "media/cached-image_b857ed6cff9a29b299bcf46ac487ba80d8f19a96a2f80ad8369d18eeb0250fe2.jpg"
+        },
+        {
+          "url": "media/cached-image_309308f1d5a2c21862c2a33297ef1a451e0437909763ef6d594282fa4f42cb52.jpg"
+        }
+      ],
+      "type": "Velodrome",
+      "categories": [
+        "Velodrome"
+      ],
+      "rating": 3.8,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Nippon Totor Green Dome Maebashi, 1 Chome-2-1 Iwagamimachi, Maebashi, Gunma 371-0035, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3956709,139.0587762,3a,75y,334.11h,101.5t/data=!3m7!1e1!3m5!1sHfBwdIYIdXlQk1HCSgRZmQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.496963668397768%26panoid%3DHfBwdIYIdXlQk1HCSgRZmQ%26yaw%3D334.10787417201976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Green Dome, Maebashi's distinctive oval velodrome, appears in episode 12 as a landmark of the city skyline visible from multiple scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_31",
+      "name": "COMME des GARCONS",
+      "localName": "マール・コムデギャルソン",
+      "coordinates": {
+        "lat": 36.39251,
+        "lng": 139.06988
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71c88e1c-2a4f-44aa-8a1a-5633b14e0283.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71c88e1c-2a4f-44aa-8a1a-5633b14e0283.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3924374,139.0700381,3a,75y,292.72h,100.15t/data=!3m7!1e1!3m5!1sD9gacEVCgsf-HZf6OQW54A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.148867164308498%26panoid%3DD9gacEVCgsf-HZf6OQW54A%26yaw%3D292.72169520025943!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz6IarQgnB2ARr7WOPh8kdPM",
+      "name": "Daimon Gate",
+      "localName": "大門",
+      "coordinates": {
+        "lat": 34.2131859,
+        "lng": 135.5728609
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_aef727a7eb3c441ec389ddab371680eaf5ea69c00b45a397352616a4c5afd422.jpg"
+        },
+        {
+          "url": "media/cached-image_764056ea665e590f760ccad69fa2ee75fd47c721f7801c2e654897174845e324.jpg"
+        },
+        {
+          "url": "media/cached-image_7a8b225cb148cbf3c01bbf681d1f947f42469b3c713edfa0cfb830961a10dbf4.jpg"
+        },
+        {
+          "url": "media/cached-image_ad2b11c764d3571ba35af220a91968e2d8752de17cd79541de0a15d8f0921951.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.4,
+      "reviewCount": 2130,
+      "priceLevel": null,
+      "address": "Daimon Gate, Koyasan, 高野町 Koya, Ito District, Wakayama 648-0211, Japan",
+      "city": "Koya",
+      "region": "Ito District, Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3939817,139.0699456,3a,90y,20.37h,94.82t/data=!3m7!1e1!3m5!1s_tVcl-R14OpQAkIG3_1ysg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.81970357874394%26panoid%3D_tVcl-R14OpQAkIG3_1ysg%26yaw%3D20.3664577218591!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQelEB0llGGARtp0Rdn_-FVE",
+      "name": "Nikoniko Parking Ginza St.",
+      "localName": "にこにこパーキング",
+      "coordinates": {
+        "lat": 35.519933099999996,
+        "lng": 139.78685489999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/510596a7-cd5c-45ef-b3b3-e5a5ed0ee593.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/510596a7-cd5c-45ef-b3b3-e5a5ed0ee593.webp"
+        },
+        {
+          "url": "media/cached-image_8b8c5f7a1679949369a01618a269ad3cadea4fcb3fc2135c7dc746fcd94ea3fc.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nikoniko Parking Lot, 11-3 Ukishimacho, Kawasaki Ward, Kawasaki, Kanagawa 210-0862, Japan",
+      "city": "Kawasaki",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3929281,139.0711319,3a,90y,50.52h,93.72t/data=!3m7!1e1!3m5!1s-MWr01tYSdmY1Qt4SnXQ2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7177652221928525%26panoid%3D-MWr01tYSdmY1Qt4SnXQ2A%26yaw%3D50.521551726554016!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcUDpCKn0HmARbvKtKiJXaag",
+      "name": "King God Burger",
+      "localName": "Botanical cafe King-God (道の駅 まえばし赤城)",
+      "coordinates": {
+        "lat": 36.4395867,
+        "lng": 139.05308739999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7dcd7dfb-0004-414a-84a9-36a5fe564bc1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7dcd7dfb-0004-414a-84a9-36a5fe564bc1.webp"
+        },
+        {
+          "url": "media/cached-image_d5579e924184a061156888fb01052872a335852b489ee5fa802d222cfb822079.jpg"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "King God Burger, 道の駅まえばし赤城, 36 Taguchimachi, Maebashi, Gunma 371-0048, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4389011,139.0534733,3a,90y,257.5h,92.09t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICD9KutswE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYHoyt-dqHGkTH-bU_4awjLEo4xqyXgJb5cWFjdEBfxNKWUDbNjzo1gtUcuIml-5ADlGqp3mqLw69IuhuaOHalxd-BnDnHsabUmHUK3LuUguTOIserafAe9SIjWhVzfLN-PC2VNwg%3Dw900-h600-k-no-pi-2.0902771327374694-ya257.5015869823338-ro0-fo100!7i11968!8i5984?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_TPIoVmNGGARl1NMQLJYTyE",
+      "name": "harevutai",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7319531,
+        "lng": 139.7155912
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca903a70-9ad6-483b-a7b9-01b25c11fe41.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca903a70-9ad6-483b-a7b9-01b25c11fe41.webp"
+        },
+        {
+          "url": "media/cached-image_96954a735e9d4c50c891a7d9cfe0c607f3310840a7149757335f3a1bcea90787.jpg"
+        }
+      ],
+      "type": "Live music venue",
+      "categories": [
+        "Live music venue"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1 Chome−19−1 harevutai",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7318102,139.7153203,3a,49.6y,43.13h,95.85t/data=!3m7!1e1!3m5!1s7E3Cv2NCiNaXZEVU4SJcbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.847523076192132%26panoid%3D7E3Cv2NCiNaXZEVU4SJcbw%26yaw%3D43.134196336718716!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2dPESnyNGGARPoUPX5Prz1U",
+      "name": "Ikefukurou",
+      "localName": "いけふくろう",
+      "coordinates": {
+        "lat": 35.7308005,
+        "lng": 139.71212169999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82d45458-c227-45f1-bebc-539d9f5932ce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82d45458-c227-45f1-bebc-539d9f5932ce.webp"
+        },
+        {
+          "url": "media/cached-image_e21e762d35ee314920b5b0d450bcb78fe40bf3b19b3358f3f714dd2658a3eca8.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikefukurou, 1 Chome-1-28-2 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7307928,139.7122167,2a,75y,299.03h,95.36t/data=!3m7!1e1!3m5!1sLd3_j_e6Do_E5medk0_7sQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.361509388495207%26panoid%3DLd3_j_e6Do_E5medk0_7sQ%26yaw%3D299.03424996628655!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLTF96meNGGARecj4H7FKeUc",
+      "name": "Ikebukuro Sta. Higashiguchi (East Exit)",
+      "localName": "池袋駅東口",
+      "coordinates": {
+        "lat": 35.729538399999996,
+        "lng": 139.7131303
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7849a9a-9ef3-4b40-a0a1-dc3a9d62e3bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7849a9a-9ef3-4b40-a0a1-dc3a9d62e3bf.webp"
+        },
+        {
+          "url": "media/cached-image_6050eecdd205ec2f9991961010f5307fdd6b47c503178a65ad466b62568d370e.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikebukuro Sta. Higashiguchi (East Exit), 1-chōme-27 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7305715,139.712884,3a,90y,291.91h,99.11t/data=!3m7!1e1!3m5!1sbhKAhe2AFrHM7UA5Vb-duQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.105818735897287%26panoid%3DbhKAhe2AFrHM7UA5Vb-duQ%26yaw%3D291.90544341556983!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_38",
+      "name": "ＧＭ global market",
+      "localName": null,
+      "coordinates": {
+        "lat": 36.39167,
+        "lng": 139.06902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c8a091e-52f9-4f03-8582-c557ce548cc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c8a091e-52f9-4f03-8582-c557ce548cc4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3916614,139.0690269,3a,90y,23.62h,98.43t/data=!3m7!1e1!3m5!1sjjLIWgBO1RnQWXcPplqi1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.427687637227507%26panoid%3DjjLIWgBO1RnQWXcPplqi1g%26yaw%3D23.61843244284205!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ0kXBBvzHmARcr5sh63KYtY",
+      "name": "Maebashi Central Event Square",
+      "localName": "前橋中央イベント広場",
+      "coordinates": {
+        "lat": 36.3928224,
+        "lng": 139.0693789
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9549c24b-c96d-4c1c-9e97-701561ad7619.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9549c24b-c96d-4c1c-9e97-701561ad7619.webp"
+        },
+        {
+          "url": "media/cached-image_5483d1bdd5e5142490f438ab71f68339061110cfb750c558fd325b663117f234.jpg"
+        }
+      ],
+      "type": "Fairground",
+      "categories": [
+        "Fairground"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maebashi Central Event Square, ８-２１-ほか 2丁目 千代田町 Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3931315,139.0696773,3a,90y,291.33h,97.64t/data=!3m7!1e1!3m5!1s-hxWcNw2LFzCCEliKM0ReQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.636859815845611%26panoid%3D-hxWcNw2LFzCCEliKM0ReQ%26yaw%3D291.33265944639857!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The downtown event square in episode 6 hosts an outdoor gathering that draws the witches into the bustle of Maebashi's street-level community events."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_40",
+      "name": "Waga-Jan",
+      "localName": "わがじゃん",
+      "coordinates": {
+        "lat": 36.3942,
+        "lng": 139.07002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fa4c3c06-c2c1-494c-83e7-8eeaf7c13587.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fa4c3c06-c2c1-494c-83e7-8eeaf7c13587.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3941736,139.0700407,3a,90y,333.35h,93.68t/data=!3m7!1e1!3m5!1sUhbSd6YAXAuj--I6v-TAJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6762126341977535%26panoid%3DUhbSd6YAXAuj--I6v-TAJg%26yaw%3D333.35255627357566!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This local Maebashi shop appears in episode 5 as one of the neighborhood spots the witches pass through on their walks around the city center."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS7vGzRfzHmARzt9ZUpmQlU8",
+      "name": "Maebashi Toshogu Shrine",
+      "localName": "前橋東照宮",
+      "coordinates": {
+        "lat": 36.3946191,
+        "lng": 139.0622745
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7ea21fc-df92-4cac-be62-9c33d69fa766.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7ea21fc-df92-4cac-be62-9c33d69fa766.webp"
+        },
+        {
+          "url": "media/cached-image_29f43598fe46c5d01b8889ebe07fed36a6d453784627c5b4cae5f57e43b7b238.jpg"
+        },
+        {
+          "url": "media/cached-image_a0528c66f8e49a1aa2cc7657504e055e3214673344b2492441eea3cab70a56e0.jpg"
+        },
+        {
+          "url": "media/cached-image_47468e69d98b6ae7a2d87b689a63311002bd1f85d5553cabc014f13947a4d469.jpg"
+        },
+        {
+          "url": "media/cached-image_d8aff0c0046ae57912e71f7f1b4e2c3f1429cd44bc509c9bc452e6a3d6bab0dd.jpg"
+        },
+        {
+          "url": "media/cached-image_9090bd0cafda1e5ffa62cc64558b942adeb5e27557e6b9e4d6e4925b215e2247.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.1,
+      "reviewCount": 819,
+      "priceLevel": null,
+      "address": "Maebashi Toshogu Shrine, 3 Chome-13-19 Otemachi, Maebashi, Gunma 371-0026, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3945845,139.0627606,3a,51.6y,279.47h,97.14t/data=!3m7!1e1!3m5!1steOz2Jv-d1rxXO0vXN_ELg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.1382370195425295%26panoid%3DteOz2Jv-d1rxXO0vXN_ELg%26yaw%3D279.4676022684319!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Maebashi Toshogu shrine in Otemachi, with its vermilion gates set among mature trees, appears in the opening sequence as one of the city's atmospheric heritage sites."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZag_XbD2HmARFyXrXruD-kA",
+      "name": "Roadside Station Green Flower Ranch Ogo",
+      "localName": "道の駅 ぐりーんふらわー牧場・大胡",
+      "coordinates": {
+        "lat": 36.459055899999996,
+        "lng": 139.1364538
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf337a89-83a5-43d7-a477-4b220190c437.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf337a89-83a5-43d7-a477-4b220190c437.webp"
+        },
+        {
+          "url": "media/cached-image_b73890e11b68d7180612c122f341347ba5e7084aa5be53b9d2ad8915cf16b018.jpg"
+        },
+        {
+          "url": "media/cached-image_6d296f699de91bc6b4f5cf776668c5b197d5b3a985fe139bb8ad7275db395a74.jpg"
+        },
+        {
+          "url": "media/cached-image_5a738a498448b74d286a3448c79935abb62f8b37ba9f317dc1fc437540251481.jpg"
+        },
+        {
+          "url": "media/cached-image_dc7cbc1fd1a0882717d40f069decdae7ebebf33821eb6ba4a2b962b1e178dda5.jpg"
+        },
+        {
+          "url": "media/cached-image_37ea9b6ce72c5cd72ac4cf5b86e7a40d18b2dc3289891750ac37eeabf7ce1d23.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.7,
+      "reviewCount": 432,
+      "priceLevel": null,
+      "address": "Roadside Station Green Flower Ranch Ogo, 1369-1 Takikubomachi, Maebashi, Gunma 371-0235, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4595309,139.133445,3a,90y,2.24h,102.92t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICk_NH5LA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0g05Rw7yvt1toBvuk7sOWbC9ZJF9SI-L-uPM9XsLWXr0bXKeHpN72VdEXX_dSSxvNjGlSkIMEtfinkindnsiYx8Aj6T2MJTCkN7Z3sq6eufGmqspob-aXDP1sk0PE6Y-aNYqQ%3Dw900-h600-k-no-pi-12.9186593590438-ya2.242102337978622-ro0-fo100!7i11116!8i5558?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Michi-no-Eki roadside station near Ogo appears in the opening, its pastoral setting on the outskirts of Maebashi signaling the countryside that borders the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_43",
+      "name": "Hitone Bridge",
+      "localName": "比刀根橋",
+      "coordinates": {
+        "lat": 36.39515,
+        "lng": 139.07048
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce1d9d6e-155e-40f3-bff3-61747b4dcef4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce1d9d6e-155e-40f3-bff3-61747b4dcef4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3950275,139.0707541,3a,73.2y,316h,100.98t/data=!3m7!1e1!3m5!1siSFcfVMqZ7ytS-L3cWpoug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.984263988221244%26panoid%3DiSFcfVMqZ7ytS-L3cWpoug%26yaw%3D316.0012528641667!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Hitone Bridge over the river appears in the opening sequence as one of the small bridges that characterize the waterway network running through central Maebashi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMyx5SxbzHmARgIlDvJTxeEk",
+      "name": "System Park Maebashi Sumiyoshicho",
+      "localName": "前橋市中央児童遊園 るなぱあく",
+      "coordinates": {
+        "lat": 36.3952957,
+        "lng": 139.06308909999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/512c7191-f34c-4d26-bdc6-dd2f859e5450.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/512c7191-f34c-4d26-bdc6-dd2f859e5450.webp"
+        },
+        {
+          "url": "media/cached-image_5ed1acce5671da5e492c1ecaad6de82ec4bae49c02bd89b01b0561ced5763d13.jpg"
+        }
+      ],
+      "type": "Amusement park",
+      "categories": [
+        "Amusement park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Luna Amusement Park, 3 Chome-16-3 Otemachi, Maebashi, Gunma 371-0026, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Luna+Amusement+Park/@36.3947133,139.06445,3a,90y,349.66h,90.8t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4gYKD_AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAB5caB-xEBKaPejg0Q0vUHHfuFcaXDzI5lYY278AKlzmb9lfrQDpqWWleE__t-Bb93chJaasYTk4dtYNSGSLZ88xdikUMh4jWJkyCbZROFf2Z0OBl4iF4Engnw-_oJp2GH-aGC_rjB7ksg%3Dw900-h600-k-no-pi-0.7967905331003777-ya349.66109592835704-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x601ef3164b792c33:0x4978f194bc438980!8m2!3d36.3952957!4d139.0630891!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F121m2qd8?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Runapaaku (Luna Amusement Park), one of Japan's oldest amusement parks with its vintage rides, appears in the opening and is a beloved local landmark tied to Maebashi childhood memories.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_45",
+      "name": "Sakutaro Bridge",
+      "localName": "朔太郎橋",
+      "coordinates": {
+        "lat": 36.39392,
+        "lng": 139.07261
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9b053be-dd47-43d0-bc22-1c01e3f45d37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9b053be-dd47-43d0-bc22-1c01e3f45d37.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3939402,139.0723842,3a,66.5y,98.18h,92.42t/data=!3m7!1e1!3m5!1sbSuKwAnxpB3PMzGAAVBfkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.417037653594818%26panoid%3DbSuKwAnxpB3PMzGAAVBfkA%26yaw%3D98.18099846084885!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Sakutaro Bridge, named after the poet Hagiwara Sakutaro, appears in episode 5 as the characters cross a river passage that echoes the literary heritage of the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVQXA3QTzHmARL2XGnGz8ruw",
+      "name": "Mobigakuen Shobi Daiichi Kindergarten",
+      "localName": "裳美学園 しょうび第一幼稚園",
+      "coordinates": {
+        "lat": 36.394324999999995,
+        "lng": 139.072791
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c46e0fb1-42e0-4d9b-9160-0b00ec94ef22.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c46e0fb1-42e0-4d9b-9160-0b00ec94ef22.webp"
+        },
+        {
+          "url": "media/cached-image_8454f7917503d1c61271f958751c8e349e824906abeb4cd238a3473295dcf685.jpg"
+        }
+      ],
+      "type": "Kindergarten",
+      "categories": [
+        "Kindergarten"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mobigakuen Shobi Daiichi Kindergarten, しょうび第一幼稚園 1 Chome-２-7 Jotomachi, Maebashi, Gunma 371-0016, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3942032,139.0725688,3a,90y,317.09h,98.6t/data=!3m7!1e1!3m5!1s9jYtf4wu6XSVV_jbAibWpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.604501701929152%26panoid%3D9jYtf4wu6XSVV_jbAibWpQ%26yaw%3D317.08844640193917!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This kindergarten appears in episode 5, its building facade visible in street scenes that establish the residential texture of the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_47",
+      "name": "Eitoku Sushi",
+      "localName": "永徳寿司",
+      "coordinates": {
+        "lat": 36.39538,
+        "lng": 139.06958
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd8d6898-eba2-4960-87aa-72d2cbf2a39a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd8d6898-eba2-4960-87aa-72d2cbf2a39a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3954078,139.0695491,3a,75y,183.56h,87.81t/data=!3m7!1e1!3m5!1sqUXjxN7sJnZ-j3FKBj9WJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.1932793305320075%26panoid%3DqUXjxN7sJnZ-j3FKBj9WJQ%26yaw%3D183.55608226818816!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The long-running sushi shop in central Maebashi appears in episode 5 as part of the everyday commercial fabric the witches inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGeYlX_mLGGARwsJahMe-XZg",
+      "name": "Yatai Ramen Hao Oden Stall",
+      "localName": "東京ラーメンストリート",
+      "coordinates": {
+        "lat": 35.6802935,
+        "lng": 139.7679568
+      },
+      "image": "https://cdn.animepilgrimage.com/places/858e567f-59ff-4aa5-8094-365dc8c9faef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/858e567f-59ff-4aa5-8094-365dc8c9faef.webp"
+        },
+        {
+          "url": "media/cached-image_6988e45c0d0b9b804c6a4adb43a104d3c28e3a1fb618d368ff27cfdf4f631c6e.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tokyo Ramen Street, 東京駅一番街 B1 1 Chome-9-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3931761,139.0726186,3a,90y,271.76h,95.37t/data=!3m7!1e1!3m5!1sSMLFqMixTv1Clf9Bb_FzCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.3679952449952%26panoid%3DSMLFqMixTv1Clf9Bb_FzCQ%26yaw%3D271.7634119740065!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhQDmtPzyHmAR9P0KyldtAGc",
+      "name": "AQERU Maebashi",
+      "localName": "AQERU前橋",
+      "coordinates": {
+        "lat": 36.383877,
+        "lng": 139.071708
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dcbac4ba-bc9b-4fe8-943f-8d84128bc3bc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dcbac4ba-bc9b-4fe8-943f-8d84128bc3bc.webp"
+        },
+        {
+          "url": "media/cached-image_5bf9a1a131d07e8758562b7b9425e34a2473cbafcc026fd03fa52acaa44839c1.jpg"
+        }
+      ],
+      "type": "Tenant ownership",
+      "categories": [
+        "Tenant ownership"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "AQERU Maebashi, 2 Chome-30-8 Omotecho, Maebashi, Gunma 371-0024, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3842692,139.072368,3a,43.8y,215.23h,95.12t/data=!3m7!1e1!3m5!1srMiOLV8qvCUORXJBYWjE1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.123223429593622%26panoid%3DrMiOLV8qvCUORXJBYWjE1A%26yaw%3D215.22514368881204!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "AQERU, the commercial complex near Maebashi Station, appears in episode 6 as a modern gathering point for the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_50",
+      "name": "Bentendori Adult Day Care",
+      "localName": "デイサービスセンター弁天通り",
+      "coordinates": {
+        "lat": 36.3945,
+        "lng": 139.07031
+      },
+      "image": "https://cdn.animepilgrimage.com/places/db3bef30-bcd5-419b-8aa2-7a26078cd238.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/db3bef30-bcd5-419b-8aa2-7a26078cd238.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3945006,139.0702694,3a,90y,141.99h,98.83t/data=!3m7!1e1!3m5!1sR3ov7dwwWO0vgDs8PXbOaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.833802137240326%26panoid%3DR3ov7dwwWO0vgDs8PXbOaw%26yaw%3D141.99496527151302!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Benten-dori building appears in episode 7 as the witches move through the shotengai streets of central Maebashi."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi8nbGEvzHmAR9CluSjtlZrM",
+      "name": "Bookman's Academy Maebashi",
+      "localName": "ブックマンズアカデミー前橋店",
+      "coordinates": {
+        "lat": 36.396093799999996,
+        "lng": 139.0426736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3399f4cc-8f31-4cd3-a5a7-5e70a19530d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3399f4cc-8f31-4cd3-a5a7-5e70a19530d8.webp"
+        },
+        {
+          "url": "media/cached-image_260eb75ce8868f6ffd9cd2bde6ca07f918cbf89d1e3b23bd48b993a8e03943b9.jpg"
+        }
+      ],
+      "type": "Book store",
+      "categories": [
+        "Book store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Bookman's Academy Maebashi, ブックマンズアカデミー前橋店 2 Chome-３-1 Owatarimachi, Maebashi, Gunma 371-0854, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3959723,139.0425493,3a,90y,52.13h,94.42t/data=!3m7!1e1!3m5!1s6sCZ7Ls0EuMbV-Q3Ner7jg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.418134786548606%26panoid%3D6sCZ7Ls0EuMbV-Q3Ner7jg%26yaw%3D52.12659804597582!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This used-book store appears in episode 7, visited by a character seeking books in a scene that highlights the ordinary leisure of city life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_52",
+      "name": "Hashimoto Western Goods Store",
+      "localName": "はしもと洋品店",
+      "coordinates": {
+        "lat": 36.39442,
+        "lng": 139.07027
+      },
+      "image": "https://cdn.animepilgrimage.com/places/51197c57-d77b-4ffa-a897-b5411b8d7bd1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/51197c57-d77b-4ffa-a897-b5411b8d7bd1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3945002,139.0702689,3a,48.7y,174.99h,93.49t/data=!3m7!1e1!3m5!1sR3ov7dwwWO0vgDs8PXbOaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.490283772669457%26panoid%3DR3ov7dwwWO0vgDs8PXbOaw%26yaw%3D174.98854478371982!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small clothing shop in central Maebashi appears in episode 5 as part of the shotengai streetscape the witches frequent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_53",
+      "name": "Maria Building",
+      "localName": "マリアビル",
+      "coordinates": {
+        "lat": 36.39264,
+        "lng": 139.07101
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1145bb8-cc98-4217-9a5e-8f4b1f9b67e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1145bb8-cc98-4217-9a5e-8f4b1f9b67e6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3926315,139.0709818,3a,90y,98.4h,92.05t/data=!3m7!1e1!3m5!1siLbRlNFhOrZ4URwImgRxig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.053011460850314%26panoid%3DiLbRlNFhOrZ4URwImgRxig%26yaw%3D98.40163699729152!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Maria Building appears in episode 2 as a distinctive piece of Maebashi's downtown architecture in the background of a street scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx5jKXvvyHmARMuvsH0XlzcI",
+      "name": "Pizzeria Pesca Maebashi Station",
+      "localName": "前橋まちなかPESCA!",
+      "coordinates": {
+        "lat": 36.3908543,
+        "lng": 139.0687321
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39f29c19-e5e6-4caf-8cfe-9c115ec64143.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39f29c19-e5e6-4caf-8cfe-9c115ec64143.webp"
+        },
+        {
+          "url": "media/cached-image_1d960460f8a05b0ea9464a7614a5cade42c1bb6d9012dd3d69cba832fca9d589.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pizzeria PESCA! Maebashi Machinaka, 1 Chome-2-11 Honmachi, Maebashi, Gunma 371-0023, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3907189,139.0685843,3a,90y,65.54h,107.93t/data=!3m7!1e1!3m5!1sc6rxJKowUQ-fIDhkBy3r2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.92519099286794%26panoid%3Dc6rxJKowUQ-fIDhkBy3r2w%26yaw%3D65.5375096645679!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This casual Italian restaurant near Maebashi Station appears in episode 2 as a spot the characters visit in the city center."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_maebashi-witches_55",
+      "name": "Momoya",
+      "localName": "パーラーレストラン モモヤ",
+      "coordinates": {
+        "lat": 36.39157,
+        "lng": 139.06898
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca9120a5-31de-4f43-b804-79fb0c2bffe3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca9120a5-31de-4f43-b804-79fb0c2bffe3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3917557,139.0690808,3a,48.7y,202.92h,96.31t/data=!3m7!1e1!3m5!1s593qkPsIKlQxz8ckyhT1Hw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.307490507681962%26panoid%3D593qkPsIKlQxz8ckyhT1Hw%26yaw%3D202.9211775857636!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The old-school parlor restaurant Momoya appears in episode 2, its retro storefront characteristic of the shotengai Maebashi setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJizWDDhvzHmAR0Xd9vs8wy8k",
+      "name": "Suzuhan",
+      "localName": "すずはん",
+      "coordinates": {
+        "lat": 36.392486999999996,
+        "lng": 139.069522
+      },
+      "image": "https://cdn.animepilgrimage.com/places/708da9e4-7621-4679-aea2-aa68fb1a7436.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/708da9e4-7621-4679-aea2-aa68fb1a7436.webp"
+        },
+        {
+          "url": "media/cached-image_ac4b9074833b79025a409d93b5190d9a0bc23e6aa815ea6aa93e76ad7f4fed85.jpg"
+        }
+      ],
+      "type": "Luggage store",
+      "categories": [
+        "Luggage store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Suzuhan, 2 Chome-11-5 Chiyodamachi, Maebashi, Gunma 371-0022, Japan",
+      "city": "Maebashi",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3926068,139.0694817,3a,75y,262.31h,103.48t/data=!3m7!1e1!3m5!1sVuGraPRHkxSGckZBkXBjRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.483281320848377%26panoid%3DVuGraPRHkxSGckZBkXBjRg%26yaw%3D262.3059603466326!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Suzuhan bag and luggage shop in Chiyoda-machi appears in episode 2 as part of the commercial streetscape visited by the characters."
+    }
+  ]
+}

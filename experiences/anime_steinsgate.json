@@ -3,14 +3,14 @@
   "entityType": "anime",
   "entityName": "Steins;Gate",
   "slug": "steins-gate",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_3d8c843bf9c3d4aace86f5bf8749333ee49dd810aa0db039685b3fd9f9fbd641.webp",
-  "image": "media/cached-image_3d8c843bf9c3d4aace86f5bf8749333ee49dd810aa0db039685b3fd9f9fbd641.webp",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cdn.animepilgrimage.com/anime/VYoUbJBIkUiLX3HPYQGl.webp",
+  "image": "https://cdn.animepilgrimage.com/anime/VYoUbJBIkUiLX3HPYQGl.webp",
   "banner": null,
   "primaryLocation": "Tokyo, Japan",
   "primaryLocationCoords": {
-    "lat": 35.69875722222222,
-    "lng": 139.77125296296293
+    "lat": 35.69876796296297,
+    "lng": 139.77122481481481
   },
   "metadata": {
     "entityType": "anime",
@@ -19,105 +19,86 @@
   "ingredients": [
     {
       "kind": "poi",
-      "placeId": "ChIJozkGaR6MGGARnH_D0h83vYI",
-      "name": "Suehirocho Area Safety Center",
-      "localName": "万世橋警察署 末広町地域安全センター",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
       "coordinates": {
-        "lat": 35.70287,
-        "lng": 139.77127
+        "lat": 35.69967,
+        "lng": 139.77221
       },
-      "image": "media/cached-image_9cbd6a968e8a16836fc15fc99a388972f37638b53ab3423a55c6f360251907f5.webp",
+      "image": "https://cdn.animepilgrimage.com/places/44b6367b-6bd0-46e1-a617-c656fa1eff33.webp",
       "images": [
         {
-          "url": "media/cached-image_9cbd6a968e8a16836fc15fc99a388972f37638b53ab3423a55c6f360251907f5.webp"
+          "url": "https://cdn.animepilgrimage.com/places/44b6367b-6bd0-46e1-a617-c656fa1eff33.webp"
         },
         {
-          "url": "media/cached-image_b99876b0a355873a398e1dbb41b8208a1fb47b8797e08f1ecd381c2d02ccb64b.jpg"
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
         }
       ],
-      "type": "ポリスボックス",
+      "type": "ビジネス センター",
       "categories": [
-        "ポリスボックス"
+        "ビジネス センター"
       ],
-      "rating": null,
-      "reviewCount": 3,
+      "rating": 3.8,
+      "reviewCount": null,
       "priceLevel": null,
-      "address": "秋葉原三和東洋ビル, 3 Chome-16-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/EGQU2jXwXRuQj1P67",
-      "entityContext": "Located at the Suehirocho end of Akihabara, in the area identified as the fictional site of the Future Gadget Lab. The lab's building is modeled on the narrow multi-story structures north of Horin Park, making this vicinity the heart of Okabe's neighborhood."
+      "streetViewUrl": "https://maps.app.goo.gl/KdSA1KQN8Hrjnqv87",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Akihabara UDX appears in episode 1 as part of the Akihabara skyline backdrop when Okabe and Mayuri arrive at the Radio Kaikan event, and its distinctive facade is referenced throughout the series as part of the lab's neighborhood.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJy09DJACNGGARbMLEHxY_6MA",
-      "name": "Akihabara Sta. Electric Town Exit West Square",
-      "localName": "秋葉原駅 電気街口西側広場",
+      "placeId": "ChIJ58mpjx6MGGARseWnPsaMkNI",
+      "name": "Horin Park",
+      "localName": "千代田区立芳林公園",
       "coordinates": {
-        "lat": 35.69928,
-        "lng": 139.77259
+        "lat": 35.70223,
+        "lng": 139.77008
       },
-      "image": "media/cached-image_6e0be50513884b140dfb4604fa11fd2600f30e6f6aa8fc7078eb0d3956c297f6.webp",
+      "image": "https://cdn.animepilgrimage.com/places/09609e5b-9fc8-42c6-937f-2e69471ce2b6.webp",
       "images": [
         {
-          "url": "media/cached-image_6e0be50513884b140dfb4604fa11fd2600f30e6f6aa8fc7078eb0d3956c297f6.webp"
+          "url": "https://cdn.animepilgrimage.com/places/09609e5b-9fc8-42c6-937f-2e69471ce2b6.webp"
         },
         {
-          "url": "media/cached-image_73cec715d21a365ae781e3f9347e1a815746bd28b7a94b27fedf0c398490bcff.jpg"
+          "url": "media/cached-image_e5f14fdfba0624e6dc3856231a3224c1caa6693f9eed646488dde95ac4c99b7b.jpg"
+        },
+        {
+          "url": "media/cached-image_c2507903555f34b8825de3e9929923ed847d3b004690f46eb87b03399e2c0852.jpg"
+        },
+        {
+          "url": "media/cached-image_48bb1c7496d1dcebce4ec132c9f50d79fd81ff77ae71bf9386a02b554b8bc9f3.jpg"
+        },
+        {
+          "url": "media/cached-image_e61541dfb6a9c1f5fe641d0bcd039101297114c86316508f9b58bd1b718d1a25.jpg"
         }
       ],
-      "type": "観光名所",
+      "type": "公园",
       "categories": [
-        "観光名所"
+        "公园"
       ],
-      "rating": 4.1,
-      "reviewCount": null,
+      "rating": 3.9,
+      "reviewCount": 82,
       "priceLevel": null,
-      "address": "1 Chome-17-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "3 Chome-5-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/6QLUmzHPDQFRshzR9",
-      "entityContext": "The Electric Town exit plaza is the central hub of the series: the square Okabe crosses daily, where key early scenes unfold and where fans recreate the show's establishing shots of Akihabara.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJBbqNAqiOGGARZWHhhR-qluM",
-      "name": "Mimatsu tobacco",
-      "localName": "ミマツたばこ",
-      "coordinates": {
-        "lat": 35.6975,
-        "lng": 139.77295
-      },
-      "image": "media/cached-image_f98ecbb08375d0c4a50e2454d4fa2d20f93c7e18f5eafe6c67bc9e1a21930c63.webp",
-      "images": [
-        {
-          "url": "media/cached-image_f98ecbb08375d0c4a50e2454d4fa2d20f93c7e18f5eafe6c67bc9e1a21930c63.webp"
-        },
-        {
-          "url": "media/cached-image_8f76d699be2f586e5fb92684c091715cdad791ad3a3b0352777d56f5d9df7df2.jpg"
-        }
-      ],
-      "type": "たばこ店",
-      "categories": [
-        "たばこ店"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-7-3 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/h58zq3k9F6Jj2Upi9"
+      "streetViewUrl": "https://maps.app.goo.gl/YvhPWY4j88drkoKx8",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Horin Park is the small public park near the Future Gadget Laboratory that Okabe and Kurisu pass through during conversations, appearing in multiple episodes as part of the lab's surrounding neighborhood.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -128,10 +109,10 @@
         "lat": 35.69873,
         "lng": 139.7714
       },
-      "image": "media/cached-image_4b55dd6bfbb3cd81342e734282448b301d1e46e599a13a61ccd6aceebb5a8d3a.webp",
+      "image": "https://cdn.animepilgrimage.com/places/0a5ecdef-9911-4144-a682-2cf3fe8ab887.webp",
       "images": [
         {
-          "url": "media/cached-image_4b55dd6bfbb3cd81342e734282448b301d1e46e599a13a61ccd6aceebb5a8d3a.webp"
+          "url": "https://cdn.animepilgrimage.com/places/0a5ecdef-9911-4144-a682-2cf3fe8ab887.webp"
         },
         {
           "url": "media/cached-image_1ef11c67467d694e2344ee8da626f13c3d78f66e327fc6982239a5cd873db9c7.jpg"
@@ -174,806 +155,276 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/fSGZRNkMNdSrLaeT9"
+      "streetViewUrl": "https://maps.app.goo.gl/fSGZRNkMNdSrLaeT9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "GamePanic Akihabara is featured in the background of episode 10 as Okabe navigates Akihabara, reflecting the dense arcade culture that defines the neighborhood's streets in the series.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ58mpjx6MGGARseWnPsaMkNI",
-      "name": "Horin Park",
-      "localName": "千代田区立芳林公園",
+      "placeId": "ChIJBbqNAqiOGGARZWHhhR-qluM",
+      "name": "Mimatsu tobacco",
+      "localName": "ミマツたばこ",
       "coordinates": {
-        "lat": 35.70223,
-        "lng": 139.77008
+        "lat": 35.6975,
+        "lng": 139.77295
       },
-      "image": "media/cached-image_eadaa333c800069da5bc357fee38f2e2d4d7580e969d9405094dd8ccec3d7337.webp",
+      "image": "https://cdn.animepilgrimage.com/places/0c69433a-006f-4ceb-8bcb-bda0f8908b24.webp",
       "images": [
         {
-          "url": "media/cached-image_eadaa333c800069da5bc357fee38f2e2d4d7580e969d9405094dd8ccec3d7337.webp"
+          "url": "https://cdn.animepilgrimage.com/places/0c69433a-006f-4ceb-8bcb-bda0f8908b24.webp"
         },
         {
-          "url": "media/cached-image_e5f14fdfba0624e6dc3856231a3224c1caa6693f9eed646488dde95ac4c99b7b.jpg"
-        },
-        {
-          "url": "media/cached-image_c2507903555f34b8825de3e9929923ed847d3b004690f46eb87b03399e2c0852.jpg"
-        },
-        {
-          "url": "media/cached-image_48bb1c7496d1dcebce4ec132c9f50d79fd81ff77ae71bf9386a02b554b8bc9f3.jpg"
-        },
-        {
-          "url": "media/cached-image_e61541dfb6a9c1f5fe641d0bcd039101297114c86316508f9b58bd1b718d1a25.jpg"
+          "url": "media/cached-image_8f76d699be2f586e5fb92684c091715cdad791ad3a3b0352777d56f5d9df7df2.jpg"
         }
       ],
-      "type": "公园",
+      "type": "たばこ店",
       "categories": [
-        "公园"
-      ],
-      "rating": 3.9,
-      "reviewCount": 82,
-      "priceLevel": null,
-      "address": "3 Chome-5-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/YvhPWY4j88drkoKx8",
-      "entityContext": "The small park north of Akihabara Station that appears in the series as a quiet corner of the neighborhood near the Future Gadget Lab's fictional location, making it a common stop on Steins;Gate walking routes."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJXeIi3x2MGGAR90DzVDBeH2Q",
-      "name": "Akiba-style idol shop",
-      "localName": "アキバ系アイドルショップ",
-      "coordinates": {
-        "lat": 35.70174,
-        "lng": 139.77142
-      },
-      "image": "media/cached-image_1e0de6546402eea7b0e732efda81b2d76e6827bf8576a6a74a17a0f2818ab658.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1e0de6546402eea7b0e732efda81b2d76e6827bf8576a6a74a17a0f2818ab658.webp"
-        },
-        {
-          "url": "media/cached-image_c81a502829b3be6c0638253899e3c5c548d7f535282bd824397356c930bb19df.jpg"
-        },
-        {
-          "url": "media/cached-image_f9518e9b19a6efea60f38f6830934d5a37bac649dcea9bd9d76bc1bf5f650ce0.jpg"
-        }
-      ],
-      "type": "店舗",
-      "categories": [
-        "店舗"
-      ],
-      "rating": 3.5,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3 Chome−15−6 秋葉原M2ビル 5階",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/dmJQ5rNHndxXWcgv6"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJYw8TVByMGGARPWTTQaJLuR0",
-      "name": "Sengoku Densyo (Akihabara Main Store)",
-      "localName": "千石電商 秋葉原本店",
-      "coordinates": {
-        "lat": 35.69937,
-        "lng": 139.7701
-      },
-      "image": "media/cached-image_b7d7480d3585d40b933268932e6204772f5ccc58fca5fe919407c029f59afe62.webp",
-      "images": [
-        {
-          "url": "media/cached-image_b7d7480d3585d40b933268932e6204772f5ccc58fca5fe919407c029f59afe62.webp"
-        },
-        {
-          "url": "media/cached-image_6c26c3b778aa2762a86743a9105b2041015744c90f8cca449e6041c6b716ca1d.jpg"
-        }
-      ],
-      "type": "電器店",
-      "categories": [
-        "電器店"
+        "たばこ店"
       ],
       "rating": 4.3,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "B1-3F, 1 Chome-8-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "1 Chome-7-3 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/C2bACJ1N7uebUZQ47"
+      "streetViewUrl": "https://maps.app.goo.gl/h58zq3k9F6Jj2Upi9",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": null,
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJSVM8EbqNGGARnPmT3HB_6yE",
-      "name": "AOKI Akihabaraten",
-      "localName": "AOKI 秋葉原店",
+      "placeId": "ChIJy09DJACNGGARbMLEHxY_6MA",
+      "name": "Akihabara Sta. Electric Town Exit West Square",
+      "localName": "秋葉原駅 電気街口西側広場",
       "coordinates": {
-        "lat": 35.69917,
-        "lng": 139.7718
+        "lat": 35.69928,
+        "lng": 139.77259
       },
-      "image": "media/cached-image_d8dbddf947680b5355c84d1b2d1ab369e385abfa74cebd2652e90ffdb3e39db4.webp",
+      "image": "https://cdn.animepilgrimage.com/places/ec7be73a-bcfd-4e1d-8a8f-7361ebc71316.webp",
       "images": [
         {
-          "url": "media/cached-image_d8dbddf947680b5355c84d1b2d1ab369e385abfa74cebd2652e90ffdb3e39db4.webp"
+          "url": "https://cdn.animepilgrimage.com/places/ec7be73a-bcfd-4e1d-8a8f-7361ebc71316.webp"
         },
         {
-          "url": "media/cached-image_dba030208d8ae8106bf35877e995aa612bc153b1f136dbfb7e02145c766b933b.jpg"
-        },
-        {
-          "url": "media/cached-image_708e9da39b5392a1ac965cc6e5dfe9b91ed1e4dc041b023266741ea60601d408.jpg"
-        },
-        {
-          "url": "media/cached-image_43df57855304594439922a6e911292765dadbd6a90bb0278d4ed928492376d6c.jpg"
-        },
-        {
-          "url": "media/cached-image_8bc787f7588d9d9bb46207707dfbdca6a50f8c86fc8d9cd08756865a0cc92112.jpg"
-        },
-        {
-          "url": "media/cached-image_4fb1996e04009b08477d4d58ae059efd0c936e69cceafe761b6dda405e21faab.jpg"
-        },
-        {
-          "url": "media/cached-image_694cd178529af18a775842981b04f46e4a32a9222f5f0a8b3a7db1f4d9f274ee.jpg"
-        },
-        {
-          "url": "media/cached-image_0f59003ad91a0706a7d648d8106b9e81d01804cc91eecc8c78a7b2ab3f0b536e.jpg"
-        },
-        {
-          "url": "media/cached-image_34b8076434f30b33a07575a8b55c00a11b7180b61f7bd1cf34f0a5a163ae31a0.jpg"
-        },
-        {
-          "url": "media/cached-image_c7e6c30e2fabfae98ac3338929297015ca496cf0c646fb14cda028d60b780179.jpg"
-        },
-        {
-          "url": "media/cached-image_03f409ac7e0b126e64896f1a5c1e360c6935af22b5a9e45e27370b55656e65c6.jpg"
-        },
-        {
-          "url": "media/cached-image_907a141bf780c1a32bfb581ecf798bb47bab6bc077670091112f8526b8f30193.jpg"
-        },
-        {
-          "url": "media/cached-image_bcc1e39f737298738d22880571a3e0c817ae769d027a67a059f8b3863fd9b9c3.jpg"
+          "url": "media/cached-image_73cec715d21a365ae781e3f9347e1a815746bd28b7a94b27fedf0c398490bcff.jpg"
         }
       ],
-      "type": "衣料品店",
+      "type": "観光名所",
       "categories": [
-        "衣料品店"
+        "観光名所"
       ],
-      "rating": 3.9,
-      "reviewCount": 1056,
-      "priceLevel": null,
-      "address": "1 Chome-13-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/y8BxCthhPQuRC17V8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJVSFIwqCOGGART8l-bFmdiLw",
-      "name": "Mihara pearl shop",
-      "localName": "三原真珠",
-      "coordinates": {
-        "lat": 35.7043,
-        "lng": 139.77427
-      },
-      "image": "media/cached-image_3791d879f0bf950cfc3da49bb60ab9c24f50a5cc61fff47c692d4cd29d659424.webp",
-      "images": [
-        {
-          "url": "media/cached-image_3791d879f0bf950cfc3da49bb60ab9c24f50a5cc61fff47c692d4cd29d659424.webp"
-        },
-        {
-          "url": "media/cached-image_83e11efd7ebba486e5c279c16b02a3b9df6bb3b8a7cb9271a0b22adffe9ea52a.jpg"
-        }
-      ],
-      "type": "珠宝商",
-      "categories": [
-        "珠宝商"
-      ],
-      "rating": 4.8,
+      "rating": 4.1,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "三原ビル, 5 Chome-8-7 Ueno, Taito City, Tokyo 110-0005, Japan",
-      "city": "Taito City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/j9NmdYwQMj4dt6se9"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJGU_M2aeOGGARdnOLcMYXuXs",
-      "name": "Yodobashi Akiba",
-      "localName": "ヨドバシカメラ マルチメディアAkiba",
-      "coordinates": {
-        "lat": 35.69917,
-        "lng": 139.77446
-      },
-      "image": "media/cached-image_21da8d27db740f62efa6c663751de22a8b2c393e6d3327cc5aee9f969d715370.webp",
-      "images": [
-        {
-          "url": "media/cached-image_21da8d27db740f62efa6c663751de22a8b2c393e6d3327cc5aee9f969d715370.webp"
-        },
-        {
-          "url": "media/cached-image_e168886fd8762621716a5506ca6d97a4db5e61bae6f2764358e309f40aaebc08.jpg"
-        }
-      ],
-      "type": "Electrical supply store",
-      "categories": [
-        "Electrical supply store"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1-1 Kanda Hanaokacho, Chiyoda City, Tokyo 101-0028, Japan",
+      "address": "1 Chome-17-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/uJUBThJRKSs7B4Ax6"
+      "streetViewUrl": "https://maps.app.goo.gl/6QLUmzHPDQFRshzR9",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "The Electric Town Exit west plaza of Akihabara Station is shown in episode 14 as a busy gathering point where Okabe moves through crowds, capturing the frenetic energy of the real-life hub that connects the station to Akihabara's main shopping street.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJSTiO2h2MGGAR_MLihM0W0DE",
-      "name": "Beef Bowl specialty shop Sambo",
-      "localName": "牛丼専門 サンボ",
+      "placeId": "ChIJVVUV9B2MGGARqKxzgd8jXyY",
+      "name": "Tokyo Times Tower",
+      "localName": "東京タイムズタワー",
       "coordinates": {
-        "lat": 35.70126,
-        "lng": 139.77097
+        "lat": 35.70123,
+        "lng": 139.77252
       },
-      "image": "media/cached-image_60513b0a048d366c13f3f315f12dbb1dbe8b9faac68d5fcf25943a5f8ad6dbed.webp",
+      "image": "https://cdn.animepilgrimage.com/places/0e88e901-2463-4fc1-aaa0-5ef3912d4c6b.webp",
       "images": [
         {
-          "url": "media/cached-image_60513b0a048d366c13f3f315f12dbb1dbe8b9faac68d5fcf25943a5f8ad6dbed.webp"
+          "url": "https://cdn.animepilgrimage.com/places/0e88e901-2463-4fc1-aaa0-5ef3912d4c6b.webp"
         },
         {
-          "url": "media/cached-image_5007a6ad87b1fb73b3757845527961cb23885f080b67b1fb145919566d7dcaa4.jpg"
+          "url": "media/cached-image_e503d22c4ba7343541c89e0021ec3fb9516a6af5bf372e1002473259ac23b487.jpg"
+        },
+        {
+          "url": "media/cached-image_53234efe659c53f518878d56039fa34c438c279aae6dd5d3fa938f8c3e38aaaf.jpg"
+        },
+        {
+          "url": "media/cached-image_cb4a1f2ebdc4efc1ae5e56d467ce2658c829e8a2df9c6588891b1552f3a03424.jpg"
         }
       ],
-      "type": "牛丼屋",
+      "type": "集合住宅",
       "categories": [
-        "牛丼屋"
+        "集合住宅"
       ],
-      "rating": 3.9,
-      "reviewCount": null,
+      "rating": 3.8,
+      "reviewCount": 609,
       "priceLevel": null,
-      "address": "Kokusai Buil., 3 Chome-14-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "4 Chome-14-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/r3HWtuNwckG67ioQ6",
-      "entityContext": "The no-frills gyudon stand that Okabe, Daru, and Suzuha frequent throughout the series. The scene where Suzuha tastes beef bowl for the first time is one of the show's warmest moments. Confirmed Steins;Gate location with its distinctive 'no phones, no questions' house rules."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJF99tdACNGGARJ1KBhcC08iI",
-      "name": "Shoheibashikado Bridge",
-      "localName": "昌平橋架道橋",
-      "coordinates": {
-        "lat": 35.69824,
-        "lng": 139.76866
-      },
-      "image": "media/cached-image_641bfe5bdf4f146752c6f60ae7c9523a65bdf3866912f04e53e8a6c9bde156ac.webp",
-      "images": [
-        {
-          "url": "media/cached-image_641bfe5bdf4f146752c6f60ae7c9523a65bdf3866912f04e53e8a6c9bde156ac.webp"
-        },
-        {
-          "url": "media/cached-image_c385fc0623dc7fdc7fb1d4e4ca80de7f0c0d5e30ec9dfbc70b3cd365c32d643a.jpg"
-        }
-      ],
-      "type": "橋樑",
-      "categories": [
-        "橋樑"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "2 Chome-12 Kanda Awajicho, Chiyoda City, Tokyo 101-0063, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/UcTdmFTW9SeLUEst9",
-      "entityContext": "A bridge on the Kanda River near Akihabara that appears in the anime as part of the district's streetscape, along the same riverside corridor as Mansei Bridge and visible in background shots."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
-      "name": "Akihabara Radio Kaikan",
-      "localName": "秋葉原ラジオ会館",
-      "coordinates": {
-        "lat": 35.69806,
-        "lng": 139.7721
-      },
-      "image": "media/cached-image_37a062bd63fb11a9b14c60a00a146b5b912f0c456a9e0c0100a1c3094e6c93b9.webp",
-      "images": [
-        {
-          "url": "media/cached-image_37a062bd63fb11a9b14c60a00a146b5b912f0c456a9e0c0100a1c3094e6c93b9.webp"
-        },
-        {
-          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
-        }
-      ],
-      "type": "ショッピング モール",
-      "categories": [
-        "ショッピング モール"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/8sm9KmHMDp8cTz1K6",
-      "entityContext": "The real-world building whose rooftop the satellite crashes into at the start of the series, and the exact spot where Okabe first discovers Makise Kurisu's body before the time leap resets everything. The single most iconic Steins;Gate pilgrimage site in Akihabara.",
+      "streetViewUrl": "https://maps.app.goo.gl/ZsKXLc56i43JYiJcA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Tokyo Times Tower is identified by fans as the real-world model for the luxury apartment building where Faris NyanNyan and her father live, visible in episode 9 when Okabe visits Faris and learns about her D-mail wish.",
       "fanTopPick": true
     },
     {
       "kind": "poi",
-      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
-      "name": "Akihabara UDX",
-      "localName": "秋葉原UDX",
+      "placeId": "ChIJrezhCvOuA2AR0KUJxVKAQEM",
+      "name": "Fureai Hall",
+      "localName": "ふれあい会館",
       "coordinates": {
-        "lat": 35.69967,
-        "lng": 139.77221
+        "lat": 35.69667,
+        "lng": 139.77318
       },
-      "image": "media/cached-image_4a3c354b8de6f1ab5f0a4531abc96ae5b0d6ba213c9faffb41944610bf4f465c.webp",
+      "image": "https://cdn.animepilgrimage.com/places/12be5b29-1eff-48bf-8c20-87f8ea03cbc9.webp",
       "images": [
         {
-          "url": "media/cached-image_4a3c354b8de6f1ab5f0a4531abc96ae5b0d6ba213c9faffb41944610bf4f465c.webp"
+          "url": "https://cdn.animepilgrimage.com/places/12be5b29-1eff-48bf-8c20-87f8ea03cbc9.webp"
         },
         {
-          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+          "url": "media/cached-image_57cc916f4306b6dc4ee7f33e85d3de865c5291847f889a0a529a8fe101f1ae79.jpg"
         }
       ],
-      "type": "ビジネス センター",
+      "type": "イベント会場",
       "categories": [
-        "ビジネス センター"
+        "イベント会場"
       ],
       "rating": 3.8,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
+      "address": "5 Chome-14-53 Yabutaminami, Gifu, 500-8384, Japan",
+      "city": "Gifu",
+      "region": "Gifu",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/KdSA1KQN8Hrjnqv87",
-      "entityContext": "The large UDX office-and-event complex that forms a prominent backdrop in numerous Akihabara street scenes across Steins;Gate, visible in establishing shots of the district throughout the series."
+      "streetViewUrl": "https://www.google.com/maps/@35.6965953,139.7731669,3a,75y,4.56h,90.6t/data=!3m7!1e1!3m5!1smSdEd90b_gIs9RNcyHAquA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DmSdEd90b_gIs9RNcyHAquA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D15.079153%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": null,
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJa9HmMxyMGGAROnIj3teE0jw",
-      "name": "Tougenkyou",
-      "localName": "橙幻郷",
+      "placeId": "ChIJi6zaXgCNGGARkcjOfAyiT8M",
+      "name": "FUKUSHIMAYA dining area",
+      "localName": "福島屋 TASTING MARKET イートインコーナー",
       "coordinates": {
-        "lat": 35.7006,
-        "lng": 139.77
+        "lat": 35.70028,
+        "lng": 139.77222
       },
-      "image": "media/cached-image_82d5cb641bf53038e43cf47f322c590267680f6302fdcbedbbcf62b8710af8df.webp",
+      "image": "https://cdn.animepilgrimage.com/places/12c067a7-1062-4373-9610-eed8cc454d09.webp",
       "images": [
         {
-          "url": "media/cached-image_82d5cb641bf53038e43cf47f322c590267680f6302fdcbedbbcf62b8710af8df.webp"
+          "url": "https://cdn.animepilgrimage.com/places/12c067a7-1062-4373-9610-eed8cc454d09.webp"
         },
         {
-          "url": "media/cached-image_fde5679d7233042f2af34bac675b6f15e640c9639e53b0265e0c4e8c32797396.jpg"
-        },
-        {
-          "url": "media/cached-image_0f014c85bd3b4f2fa8b0686c218f4f43167915f03bef9b8d84ca90d46e7e864f.jpg"
+          "url": "media/cached-image_081312d495aaf0fe6e7d8827806e8bca37981b4c445c4d6a26638f8b04e05222.jpg"
         }
       ],
-      "type": "コスプレカフェ",
+      "type": "ラーメン屋",
       "categories": [
-        "コスプレカフェ"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Ishizuka Bldg., 1F, 3 Chome-2-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/icvUT2sjLnybxxpQ9"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJpdqViKeOGGARNASaou5hEg8",
-      "name": "Yanaka Coffee Chabara Shop",
-      "localName": "やなか珈琲店 CHABARA店",
-      "coordinates": {
-        "lat": 35.69957,
-        "lng": 139.77308
-      },
-      "image": "media/cached-image_e2dec34f369e5904a91b132e0f1e2265fef5bae6b4af390964f2448c84a749ec.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e2dec34f369e5904a91b132e0f1e2265fef5bae6b4af390964f2448c84a749ec.webp"
-        },
-        {
-          "url": "media/cached-image_1b69929b75f81e0b3816cec4c6ccd4c697be44a4c3ce416fbc83f3988cf4c620.jpg"
-        }
-      ],
-      "type": "コーヒーショップ・喫茶店",
-      "categories": [
-        "コーヒーショップ・喫茶店"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "8-2 Kanda Neribeicho, Chiyoda City, Tokyo 101-0029, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/PAZPupS1gYDSWzyXA"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJzbvesxuMGGARtkXcDRE9-2I",
-      "name": "Holy Resurrection Cathedral - St. Nikolai",
-      "localName": "東京復活大聖堂",
-      "coordinates": {
-        "lat": 35.69804,
-        "lng": 139.76584
-      },
-      "image": "media/cached-image_6703d32bb4297996f7e6ad9eca9dace38213975e8739f473005c91ca710fbb9f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6703d32bb4297996f7e6ad9eca9dace38213975e8739f473005c91ca710fbb9f.webp"
-        },
-        {
-          "url": "media/cached-image_cf5c3452ac435efef6f75349c7a5b16ef657420b5163ff4fa5a12f5b51626c9c.jpg"
-        },
-        {
-          "url": "media/cached-image_d13d760b051f1844e2f58be4f0f6db9539fd6b4d6ee9ce9fd2e6c843b626bf86.jpg"
-        },
-        {
-          "url": "media/cached-image_f438815795325004639790349dd4f7761227ed1582cd7b7549ad754082b76b85.jpg"
-        },
-        {
-          "url": "media/cached-image_dafe14f22f4fdfe5366f1e5066d4665e9abe0b25c7b723bc5d69225dff434919.jpg"
-        },
-        {
-          "url": "media/cached-image_8d710daa8948ce732d4ddff4d988b97e625efd02a4f5459152977a6f99c49567.jpg"
-        },
-        {
-          "url": "media/cached-image_79efb9e771564ad147718b57effe46dc46a033346bb030034e8aabc0b9486164.jpg"
-        },
-        {
-          "url": "media/cached-image_1183bfbb9ce6ac4d92d18ae7aec258f8266663bfedebe5c5de6bced016966dee.jpg"
-        },
-        {
-          "url": "media/cached-image_60b89dc0522a04ba262e2903b014230d0f9a7c0e296096d81fbf04bbcb21f768.jpg"
-        },
-        {
-          "url": "media/cached-image_1c6bff97b1208cb0648217afee43fe07d21db27d8130ebb2b5a75971e8d7261d.jpg"
-        },
-        {
-          "url": "media/cached-image_b3744ccec158eb493dbbd3233aa210923c8b384fbe8948495ef5ae43931edf84.jpg"
-        },
-        {
-          "url": "media/cached-image_2ae638f926e3f5e1d19943b18736e019d70a1fbdf300e2c60fe91f54584f364d.jpg"
-        },
-        {
-          "url": "media/cached-image_6db0940a23eb353ff76d37ce137651ad38dfaca354b0f67df371974e7461889c.jpg"
-        }
-      ],
-      "type": "大教堂",
-      "categories": [
-        "大教堂"
-      ],
-      "rating": 4.2,
-      "reviewCount": 1173,
-      "priceLevel": null,
-      "address": "4 Chome-1-3 Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/itLeH6BQ4ePmQqj6A"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ4xLwKAOMGGAR2mmZY7fASAg",
-      "name": "Japan Kennel Club",
-      "localName": "一般社団法人ジャパンケネルクラブ",
-      "coordinates": {
-        "lat": 35.69598,
-        "lng": 139.77066
-      },
-      "image": "media/cached-image_1f150b64f0748ac5d8acfca6c1843660dadd51b1a8b298910d98d98c20fd3dcd.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1f150b64f0748ac5d8acfca6c1843660dadd51b1a8b298910d98d98c20fd3dcd.webp"
-        },
-        {
-          "url": "media/cached-image_14c5dc59c29bad2ed1447a5ac58982da0969703e82bd3509edcdd15b861baa14.jpg"
-        }
-      ],
-      "type": "協会/組織",
-      "categories": [
-        "協会/組織"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "1 Chome-５ Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/Dmv5igAKErdpVzuk8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "offgrid_steins-gate_20",
-      "name": "Gallery SPACE8510-2",
-      "localName": "",
-      "coordinates": {
-        "lat": 35.7025,
-        "lng": 139.78282
-      },
-      "image": "media/cached-image_0dca355ac607d228beccb06358b37432999de73c8ab494bc23dcc73edf5fa3be.webp",
-      "images": [
-        {
-          "url": "media/cached-image_0dca355ac607d228beccb06358b37432999de73c8ab494bc23dcc73edf5fa3be.webp"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": null,
-      "city": null,
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": "Gallery SPACE8510-2 — local art spot in Tokyo, near Hashiyuki Chopsticks Shop & Workshop and Akihabara Park. Not listed on Google Maps, but the coordinates fall in this area — a verified scene location. Navigate by coordinates / Street View.",
-      "geoStatus": "offgrid",
-      "streetViewUrl": "https://maps.app.goo.gl/wWSdRTQsH3WZSUhL6"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJA3zEdB2MGGARqNGpoKTmncE",
-      "name": "Aisan Denki Co., Ltd.",
-      "localName": "愛三電機",
-      "coordinates": {
-        "lat": 35.69956,
-        "lng": 139.77159
-      },
-      "image": "media/cached-image_8dbe4fd84f9639ad6ba9359ad6f65600cb72821fc1510f8def1958ac1c1b1f93.webp",
-      "images": [
-        {
-          "url": "media/cached-image_8dbe4fd84f9639ad6ba9359ad6f65600cb72821fc1510f8def1958ac1c1b1f93.webp"
-        },
-        {
-          "url": "media/cached-image_5b9187233a35a6f773e41842419897169ddc8b379df4dce24a71cd7f64cf9a4d.jpg"
-        }
-      ],
-      "type": "電器舖",
-      "categories": [
-        "電器舖"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-12-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/dNWmVFWojMEdE5fk8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJkdGXtTeNGGARpQBGphIMVD0",
-      "name": "Starbucks Coffee - JR-East Hotel Mets Akihabara",
-      "localName": "スターバックス コーヒー JR東日本ホテルメッツ プレミア 秋葉原店",
-      "coordinates": {
-        "lat": 35.69764,
-        "lng": 139.77257
-      },
-      "image": "media/cached-image_e281f8871c59c9246fca4b50695bcfee0c0cea05ef58ac3a273f08e0a2e90e4e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e281f8871c59c9246fca4b50695bcfee0c0cea05ef58ac3a273f08e0a2e90e4e.webp"
-        },
-        {
-          "url": "media/cached-image_0aa0e50516d392e45b57423bff34c11b822b83de165b106e5031587ed53e4692.jpg"
-        }
-      ],
-      "type": "コーヒーショップ・喫茶店",
-      "categories": [
-        "コーヒーショップ・喫茶店"
-      ],
-      "rating": 3.7,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "東日本ホテルメッツ プレミア 秋葉原, 1 Chome-17-4JR Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/mc1B8ycEpajAmNcK8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ6Xurbx2MGGARtYkSPjenVos",
-      "name": "Excelsior Caffé Akihabara",
-      "localName": "エクセルシオール カフェ 秋葉原ダイビル店",
-      "coordinates": {
-        "lat": 35.69948,
-        "lng": 139.77239
-      },
-      "image": "media/cached-image_d04ac5ac8eaf10a2344e41557454c5aa95ee0b292497010a23cfc038bbeaa050.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d04ac5ac8eaf10a2344e41557454c5aa95ee0b292497010a23cfc038bbeaa050.webp"
-        },
-        {
-          "url": "media/cached-image_a53a1f9af5e63d0860a704870730bdbb6af52c744b66f986113d2f88a362cc13.jpg"
-        },
-        {
-          "url": "media/cached-image_eb2166ed7947f8c994448bd13dff642e2a17b2f50e1ad4421226335cfdb08c5d.jpg"
-        }
-      ],
-      "type": "カフェ・喫茶",
-      "categories": [
-        "カフェ・喫茶"
-      ],
-      "rating": 3.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-18-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/ktd4e195XLqkdvnr7"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJS6eXQB2MGGAR9W0Xk2Q7B3Y",
-      "name": "Akihabara Gamers",
-      "localName": "AKIHABARAゲーマーズ本店",
-      "coordinates": {
-        "lat": 35.69826,
-        "lng": 139.77159
-      },
-      "image": "media/cached-image_e05ef0e62cab684713a7f2ef4288d56e777a3cce1318096ea48cbb9ac0998ecf.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e05ef0e62cab684713a7f2ef4288d56e777a3cce1318096ea48cbb9ac0998ecf.webp"
-        },
-        {
-          "url": "media/cached-image_ddf8d3d1cae48b227de6610af3d096fd5351bfd0ef52c3d92c19e25d8de2c38e.jpg"
-        },
-        {
-          "url": "media/cached-image_13ad3869aeaeca7e5307569fd01b4464622daf19a7fbcd230ab045c2d702baee.jpg"
-        }
-      ],
-      "type": "ホビーショップ",
-      "categories": [
-        "ホビーショップ"
-      ],
-      "rating": 4.2,
-      "reviewCount": 52,
-      "priceLevel": null,
-      "address": "1 Chome-14-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/cCjWkGxgb4Qjc6YT8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ9SIfQB2MGGARl5DTn32rJck",
-      "name": "Tiger Radio",
-      "localName": "タイガー無線",
-      "coordinates": {
-        "lat": 35.69857,
-        "lng": 139.77141
-      },
-      "image": "media/cached-image_04e3abe2644404fa8adcaa50458587aabdd4c707fca08ca2cdb09476f0dfaaaa.webp",
-      "images": [
-        {
-          "url": "media/cached-image_04e3abe2644404fa8adcaa50458587aabdd4c707fca08ca2cdb09476f0dfaaaa.webp"
-        },
-        {
-          "url": "media/cached-image_e19ec39c830c06c0209984ce994b94e7e1482e81da551ce180d4649713a1b423.jpg"
-        }
-      ],
-      "type": "通信機器販売業者",
-      "categories": [
-        "通信機器販売業者"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "1 Chome-14-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/uBkF4toKvv9Em3vu7"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJw6MSy_OPGGAR7VYs0YzL4RM",
-      "name": "Miraizaka Akihabara Ekimae Store",
-      "localName": "ミライザカ 秋葉原駅前店",
-      "coordinates": {
-        "lat": 35.69735,
-        "lng": 139.77339
-      },
-      "image": "media/cached-image_d40b61584b6ca077485adc83171f7459b619f68aac4ff5efcb4ca0b721450779.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d40b61584b6ca077485adc83171f7459b619f68aac4ff5efcb4ca0b721450779.webp"
-        },
-        {
-          "url": "media/cached-image_6c1a51d1ff7de985db22ce75b293a1146e712109173c264028c3d680b96319a4.jpg"
-        },
-        {
-          "url": "media/cached-image_f199d9e9ae33c501bab1628bd0f3035959092179d836a7a57c7ab9c588476fae.jpg"
-        },
-        {
-          "url": "media/cached-image_0b5f4cecf299bbce12a5a5c3e15e5c877f284c993179d792d7c0e3b912c44b48.jpg"
-        },
-        {
-          "url": "media/cached-image_08a18805431a7d81566b16a1a33a19790288eb8f460583ec878f4f1f3f668849.jpg"
-        },
-        {
-          "url": "media/cached-image_5e05e7703d6089741f6f5ce18bf1b3de6cdc8ce292228896c590896d6c000f6f.jpg"
-        },
-        {
-          "url": "media/cached-image_cf9dd4646aba2ac39a7379a1b21f52254a73d711f16082a7679361c0d2064d6c.jpg"
-        },
-        {
-          "url": "media/cached-image_d7f747bfc02f33aa98e6f825950db5b91b2dd0dbc50cdc8ae469c6e35ba0a1f5.jpg"
-        }
-      ],
-      "type": "居酒屋",
-      "categories": [
-        "居酒屋"
+        "ラーメン屋"
       ],
       "rating": 3.4,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "東亜ビル 1F, 1 Chome-8-7 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "address": "秋葉原UDX1F, 4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/SFPg6CZiPcMoAFb98"
+      "streetViewUrl": "https://maps.app.goo.gl/8zox5JAmejqejCE97",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUcqcff2NGGAR75BgpF1K6J4",
+      "name": "NewDays Mets Akihabara",
+      "localName": "NewDays メッツ秋葉原",
+      "coordinates": {
+        "lat": 35.6982,
+        "lng": 139.77256
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13f02d5d-48c3-4cf3-a365-61e4ac4158dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13f02d5d-48c3-4cf3-a365-61e4ac4158dd.webp"
+        },
+        {
+          "url": "media/cached-image_e80869d985d30662d9fcd978c6bb6f6d4b8653b6fc7340cef0811811fa81276b.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1 Chome−17−4 ＪＲ東日本ホテルメッツプレミア秋葉原 １階",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DGoMFWfjaNCthLvaA",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNfjL492JGGARIUzKvWzbgcY",
+      "name": "Tokyo Big Sight Rooftop Exhibition Area",
+      "localName": "東京ビッグサイト屋上展示場",
+      "coordinates": {
+        "lat": 35.62853,
+        "lng": 139.79397
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1859f5d0-b30a-449e-8976-1510be4fae3e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1859f5d0-b30a-449e-8976-1510be4fae3e.webp"
+        },
+        {
+          "url": "media/cached-image_224db3f9d9c906d14ced469fb2c46d32d2f883a9a1ec56385d8ad8048db22d59.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0063 Tokyo, Koto City, Ariake, 3 Chome−11−1, 東京国際展示場西展示棟4F",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cbrA38chNymfcozs6",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Tokyo Big Sight is the venue for the Comiket (Comic Market) event depicted in episode 21, where Okabe and the lab members attend the doujin event during a climactic timeline.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -981,13 +432,13 @@
       "name": "Shin-ochanomizu Sta.",
       "localName": "新御茶ノ水駅",
       "coordinates": {
-        "lat": 35.69801,
-        "lng": 139.76599
+        "lat": 35.69909,
+        "lng": 139.76538
       },
-      "image": "media/cached-image_065ceae41550a06f010921e7b44433bdedc10bfa50faf8b7f2be952410f8bbd4.webp",
+      "image": "https://cdn.animepilgrimage.com/places/895f2e19-ccda-4f1b-abb2-4092b2d0dad4.webp",
       "images": [
         {
-          "url": "media/cached-image_065ceae41550a06f010921e7b44433bdedc10bfa50faf8b7f2be952410f8bbd4.webp"
+          "url": "https://cdn.animepilgrimage.com/places/895f2e19-ccda-4f1b-abb2-4092b2d0dad4.webp"
         },
         {
           "url": "media/cached-image_91b6cbb44a6b545b4516a50339ddd1e4ba3fabfa0f19831242c2e7fe05943b20.jpg"
@@ -1015,735 +466,238 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6980571,139.7659858,2a,90y,112.97h,91.29t/data=!3m6!1e1!3m4!1s6hE8IY06G-dpiHCuQnS18Q!2e0!7i13312!8i6656?entry=ttu"
+      "streetViewUrl": "https://maps.app.goo.gl/7Mn3vdvzCH8rSh3M7",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Shin-Ochanomizu Station is referenced in the series as the subway station near which Nae pushes Mayuri onto the tracks in episode 13, a traumatic moment in the series' time-loop arc.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJQf-fxR2MGGARFljBOYSQuZc",
-      "name": "Pasokon Kobo Akihabara BUYMORE",
-      "localName": "パソコン工房 秋葉原本店",
+      "placeId": "ChIJC_icoqeOGGARZgoe1U1K59w",
+      "name": "Fujisoft Akiba Plaza",
+      "localName": "富士ソフトアキバプラザ",
       "coordinates": {
-        "lat": 35.70097,
-        "lng": 139.77091
+        "lat": 35.69955,
+        "lng": 139.77375
       },
-      "image": "media/cached-image_3c745d1120dd2651fd79b1079cdb63928dbc29290ed13e1a74d6a57ed380dec3.webp",
+      "image": "https://cdn.animepilgrimage.com/places/2afaeada-cafd-4345-ae05-fe8595e823b6.webp",
       "images": [
         {
-          "url": "media/cached-image_3c745d1120dd2651fd79b1079cdb63928dbc29290ed13e1a74d6a57ed380dec3.webp"
+          "url": "https://cdn.animepilgrimage.com/places/2afaeada-cafd-4345-ae05-fe8595e823b6.webp"
         },
         {
-          "url": "media/cached-image_f0bd9eff7efbadacfeaf8d0d15864ef9b5947e613c979ca8f2f9bfa09eb1c5fc.jpg"
-        },
-        {
-          "url": "media/cached-image_09cb939d1f737b4de8a75a16c960a5ccd7af1150e88996875c3a91e960c8f3a2.jpg"
-        },
-        {
-          "url": "media/cached-image_3120e0df6858f7173592ace927802f0708b9555365d2241830d75847186b1200.jpg"
-        },
-        {
-          "url": "media/cached-image_440524a4057d7ac34b4673c8ed944e8be7f7422f36fe4ac66776153487f49070.jpg"
-        },
-        {
-          "url": "media/cached-image_9fc346d0a8740c3a02acf7c2fb2d3a683cda44505c18b77da62af35327feb416.jpg"
-        },
-        {
-          "url": "media/cached-image_ec1025888da82b15c90f6d5f810972638462c766a42579f838ffb3dbe5f0e60b.jpg"
-        },
-        {
-          "url": "media/cached-image_7e92d2d8374084db379afac228b450e4ee9ad5da4b52e315cab82f6f10caf596.jpg"
-        },
-        {
-          "url": "media/cached-image_b49907a385ab3622810e4ef21b3ee8070ded6d77f9d915b4fae14b8db03eef01.jpg"
-        },
-        {
-          "url": "media/cached-image_4d109ca449db038bbfc1300f4989c7d1a9f001be3926c01faaf46bfdfa13282d.jpg"
-        },
-        {
-          "url": "media/cached-image_37ae6e9a121a7ceb935a9e14d44400dba8f399024dbca12eb4a2cc0c6d071216.jpg"
-        },
-        {
-          "url": "media/cached-image_f46c31953be7ae44b1938d3a05fbe16caf51e08a353690311433542dcad01026.jpg"
+          "url": "media/cached-image_de9c6c4ef2d2590c3c8f7fe9c47543e23891814e94b40715fe1afd3052e15348.jpg"
         }
       ],
-      "type": "パソコンショップ",
+      "type": "会議場",
       "categories": [
-        "パソコンショップ"
+        "会議場"
       ],
-      "rating": 3.9,
+      "rating": 3.8,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "秋葉原HFビル 1F, 3 Chome-14-10 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "ヒューリック秋葉原タワービルディング, ３-３-3 Kanda Neribeicho, Chiyoda City, Tokyo 101-0022, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7010573,139.7709257,3a,75y,182.06h,97.33t/data=!3m7!1e1!3m5!1sbA8WESWS5e3DBoHsZ97Zdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DbA8WESWS5e3DBoHsZ97Zdg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D20.381502%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+      "streetViewUrl": "https://maps.app.goo.gl/PqY7hTNFKuANWb1B6",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": null,
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJAyaWbl6NGGAREd5a8xST-eE",
-      "name": "Mansei Bridge",
-      "localName": "万世橋",
+      "placeId": "ChIJS2dPOKiOGGAREfQsUq73wP0",
+      "name": "Yanagimori Shrine",
+      "localName": "柳森神社",
       "coordinates": {
-        "lat": 35.69707,
-        "lng": 139.77111
+        "lat": 35.69666,
+        "lng": 139.77364
       },
-      "image": "media/cached-image_1aaf50d3dd2a73822267bd12684a113f15b08648fb151a023774cb7e16ec9e35.webp",
+      "image": "https://cdn.animepilgrimage.com/places/2c166d28-7c0c-4962-8ee7-fc8efbc0e489.webp",
       "images": [
         {
-          "url": "media/cached-image_1aaf50d3dd2a73822267bd12684a113f15b08648fb151a023774cb7e16ec9e35.webp"
+          "url": "https://cdn.animepilgrimage.com/places/2c166d28-7c0c-4962-8ee7-fc8efbc0e489.webp"
         },
         {
-          "url": "media/cached-image_8258d41bb5c868538bc485fde0819246ef93cb4c5c75fc8d382670006fb7c3bf.jpg"
+          "url": "media/cached-image_84997af77db1226a5a206d753be490b2dfad6441e899750536e61a20955124dd.jpg"
+        },
+        {
+          "url": "media/cached-image_8bd6d3e764659882d3013917a7f13d630f41873de8610506c9e1cbbc07391c64.jpg"
+        },
+        {
+          "url": "media/cached-image_b0be5a5b1247ef075fb18a1d5028b6edf07ededccce2972a444b23e92cfbf009.jpg"
+        },
+        {
+          "url": "media/cached-image_104b4bd2e4d26b88a70861588eddc7f23f92d231e1e78b2cdba1233ac6959d69.jpg"
+        },
+        {
+          "url": "media/cached-image_93144188fbd22d636b0fc7e939170f1d7ce05140975c30339963c1891dab9c6d.jpg"
         }
       ],
-      "type": "橋",
+      "type": "神社",
       "categories": [
-        "橋"
+        "神社"
       ],
-      "rating": 4.3,
-      "reviewCount": null,
+      "rating": 4.2,
+      "reviewCount": 818,
       "priceLevel": null,
-      "address": "1 Chome-1, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "2 Chome-25-1 Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/U6VCw9a8Z6ByuuF59",
-      "entityContext": "The bridge over the Kanda River that anchors the Akihabara streetscape and recurs across the series as a transition and meeting-point location. The IBN 5100 is transported past this bridge in a pivotal episode."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJl2017R6MGGAR5iQnG5lQx1U",
-      "name": "Cafe Mai:lish",
-      "localName": "カフェ メイリッシュ",
-      "coordinates": {
-        "lat": 35.70232,
-        "lng": 139.76956
-      },
-      "image": "media/cached-image_2c217dca52002d3cac23bdb41192a92ae4f1a87740523b660df2765a7b2ef778.webp",
-      "images": [
-        {
-          "url": "media/cached-image_2c217dca52002d3cac23bdb41192a92ae4f1a87740523b660df2765a7b2ef778.webp"
-        },
-        {
-          "url": "media/cached-image_9faf79d002101d518f5d52760015ecf9f1a2ae3219189921336b7a010c47c30a.jpg"
-        }
-      ],
-      "type": "コスプレカフェ",
-      "categories": [
-        "コスプレカフェ"
-      ],
-      "rating": 4.5,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Fh協和スクエア, 3 Chome-6-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/BHRGQHL3QWAR9TMP9",
-      "entityContext": "The maid café that is the near-identical model for Mayqueen Nyan², the café where Faris NyanNyan and Mayuri work. The interior, uniforms, and layout match the anime closely, making it a staple of any Steins;Gate pilgrimage.",
+      "streetViewUrl": "https://www.google.com/maps/@35.6965765,139.773619,3a,90y,0.75h,96.01t/data=!3m7!1e1!3m5!1s91zbA9To6i2A59s_lG6XWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91zbA9To6i2A59s_lG6XWQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D78.97553%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Yanagimori Shrine is the real-world basis for the shrine where Ruka Urushibara serves as a shrine maiden, appearing in episode 2 and throughout the series as a key location tied to Ruka's identity and the D-mail arc.",
       "fanTopPick": true
     },
     {
       "kind": "poi",
-      "placeId": "ChIJq6oW5R2MGGARykDF7ElgAh0",
-      "name": "Koizumi Musen",
-      "localName": "コイズミ無線",
+      "placeId": "ChIJC6K-bB2MGGARJATjxYx8cJc",
+      "name": "Moses Kebab AKIBA Sta.",
+      "localName": "モーゼスさんのケバブ 秋葉原駅前店",
       "coordinates": {
-        "lat": 35.70176,
-        "lng": 139.77223
+        "lat": 35.6988,
+        "lng": 139.77174
       },
-      "image": "media/cached-image_8531e50c1758f69993b314a7ea7d227b382f55be9892879bc0853ef0bd327ee9.webp",
+      "image": "https://cdn.animepilgrimage.com/places/345fb0c4-3afd-4586-97aa-8c0b8972c6d5.webp",
       "images": [
         {
-          "url": "media/cached-image_8531e50c1758f69993b314a7ea7d227b382f55be9892879bc0853ef0bd327ee9.webp"
+          "url": "https://cdn.animepilgrimage.com/places/345fb0c4-3afd-4586-97aa-8c0b8972c6d5.webp"
         },
         {
-          "url": "media/cached-image_7cede8221e2647600115d90b18a4a382bb049522117773a7557d409e775c8b88.jpg"
-        },
-        {
-          "url": "media/cached-image_ae1970e8a0770291b44d0cc0b3c4558c108bedc740f12b861a0610f511e7ecf7.jpg"
+          "url": "media/cached-image_641a85970a0e705d2c951a7a5bbc7abe2c101ad36c6366d45179384df4e8d950.jpg"
         }
       ],
-      "type": "家庭用オーディオ機器",
+      "type": "ケバブショップ",
       "categories": [
-        "家庭用オーディオ機器"
+        "ケバブショップ"
       ],
-      "rating": 4.2,
-      "reviewCount": 10,
-      "priceLevel": null,
-      "address": "アキバ三滝館 2F, 4 Chome-5-5 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/s4Bep3MqoeLPPeMSA"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJWz5Ueh6MGGAR8Yys1TjCSeM",
-      "name": "J.PARK Sotokanda #2",
-      "localName": "NPC24H外神田第２パーキング",
-      "coordinates": {
-        "lat": 35.70199,
-        "lng": 139.77082
-      },
-      "image": "media/cached-image_a94d11a8692bd3474542f0e9ca717deb97a8dcf3f93e618dc717dd4d5f0af3ac.webp",
-      "images": [
-        {
-          "url": "media/cached-image_a94d11a8692bd3474542f0e9ca717deb97a8dcf3f93e618dc717dd4d5f0af3ac.webp"
-        },
-        {
-          "url": "media/cached-image_6719557f786c3c1874597a5cf5fde39cf428815a6eb013f9f9e3b181e37c2088.jpg"
-        },
-        {
-          "url": "media/cached-image_a7134609faedd569c0f5768f9a45430dadb6f098169b97bf4af73208af8452e8.jpg"
-        },
-        {
-          "url": "media/cached-image_78ee24d955ed6b272d09452296d7248b5b78fdf5351a017bbbfb2ac8463905b8.jpg"
-        },
-        {
-          "url": "media/cached-image_de7ea0a9c86ef46e907a765c94bc8d850dffb91e01acb22c1536f266dc6804ff.jpg"
-        },
-        {
-          "url": "media/cached-image_44cc95e98997d9203cd8f18b2940ce3d80941479db6fbe4df0b00e7fb070358b.jpg"
-        },
-        {
-          "url": "media/cached-image_482285b4aa679c8f5f0d657a13bf1d762283d55496329167a5f7fdfc38a6c9f2.jpg"
-        },
-        {
-          "url": "media/cached-image_cbfebf9c720c37971002478f67528db0189ee53d43b966a37a8a441313b4ec9e.jpg"
-        },
-        {
-          "url": "media/cached-image_a9713353d8d4f62fe4889dd5b02b672cd170f725cc768731d7d2fcc1bae4a562.jpg"
-        },
-        {
-          "url": "media/cached-image_972a308c9aa679cca06020dcca67ef4b8f6aa2ace0224468133577d11cda2f74.jpg"
-        },
-        {
-          "url": "media/cached-image_0a973a1f0f1cfba08ca65ff870294fcb01a494f4ac5e9a8f45cb909ee38f94e4.jpg"
-        }
-      ],
-      "type": "駐車場",
-      "categories": [
-        "駐車場"
-      ],
-      "rating": 3.4,
+      "rating": 4.1,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "3 Chome-8-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "address": "1 Chome-13-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/hCuop6WNeWNqgKCz6"
+      "streetViewUrl": "https://maps.app.goo.gl/NkXRVSrdVouwfNxn8",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "A kebab stand near Akihabara Station appears in episode 15 as part of the street-level scenery Okabe moves through, reflecting the real-life food vendors that line the area outside the Electric Town exit.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ-0iqC_OuA2ARKwv9hQifjCg",
-      "name": "Fureai Hall",
-      "localName": "ふれあい会館",
+      "placeId": "ChIJozkGaR6MGGARnH_D0h83vYI",
+      "name": "Suehirocho Area Safety Center",
+      "localName": "万世橋警察署 末広町地域安全センター",
       "coordinates": {
-        "lat": 35.69654,
-        "lng": 139.77308
+        "lat": 35.70287,
+        "lng": 139.77127
       },
-      "image": "media/cached-image_e75ec34056423f0016a433aa3d7b6e9214c280b77cf0b6a90cbadd600cc49fdc.webp",
+      "image": "https://cdn.animepilgrimage.com/places/34d5593d-99fa-4022-9107-757768942e9e.webp",
       "images": [
         {
-          "url": "media/cached-image_e75ec34056423f0016a433aa3d7b6e9214c280b77cf0b6a90cbadd600cc49fdc.webp"
+          "url": "https://cdn.animepilgrimage.com/places/34d5593d-99fa-4022-9107-757768942e9e.webp"
         },
         {
-          "url": "media/cached-image_20327c636837c47c4c132e63000ce2b132c1d3198b267c3998e63d1543864f33.jpg"
+          "url": "media/cached-image_b99876b0a355873a398e1dbb41b8208a1fb47b8797e08f1ecd381c2d02ccb64b.jpg"
         }
       ],
-      "type": "コミュニティ センター",
+      "type": "ポリスボックス",
       "categories": [
-        "コミュニティ センター"
+        "ポリスボックス"
       ],
-      "rating": 4.2,
-      "reviewCount": null,
+      "rating": null,
+      "reviewCount": 3,
       "priceLevel": null,
-      "address": "Japan, 〒500-8384 Gifu, Yabutaminami, 5 Chome−14−53",
-      "city": "Gifu",
-      "region": "Gifu",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/YxZ2FVWnzU5pcB6KA"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJKTP54qeOGGARsZf1fyU2jxU",
-      "name": "Akihabara Station",
-      "localName": "秋葉原駅",
-      "coordinates": {
-        "lat": 35.69911,
-        "lng": 139.77323
-      },
-      "image": "media/cached-image_ad9c0863c2411b57b7d4b4bd96ade019de4b15bffd4c1a278769f0cbad9f963c.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ad9c0863c2411b57b7d4b4bd96ade019de4b15bffd4c1a278769f0cbad9f963c.webp"
-        },
-        {
-          "url": "media/cached-image_988d5fa52dcd4e10468a38f5fcd8904c763a01bfb0f511f301d56d1301df6357.jpg"
-        }
-      ],
-      "type": "駅 / 停留所",
-      "categories": [
-        "駅 / 停留所"
-      ],
-      "rating": 3.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome Sotokanda, Chiyoda City, Tokyo, Japan",
+      "address": "秋葉原三和東洋ビル, 3 Chome-16-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/ojqkqDqL1EHmBnWeA",
-      "entityContext": "The main gateway to the Steins;Gate world. The station's stairs and platforms appear in transition shots throughout the anime, and the coin lockers inside the Electric Town exit are where Okabe and Moeka find the IBN 5100."
+      "streetViewUrl": "https://maps.app.goo.gl/EGQU2jXwXRuQj1P67",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": null,
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJwQY4mB2MGGARgn-IBKS98Q8",
-      "name": "TAITO Station Akihabara",
-      "localName": "タイトーステーション 秋葉原店",
+      "placeId": "ChIJLxe9rB2MGGARBM4XdJcSvGo",
+      "name": "Lashinbang Akihabara New Store",
+      "localName": "らしんばん秋葉原店新館",
       "coordinates": {
-        "lat": 35.7003,
-        "lng": 139.77169
+        "lat": 35.69939,
+        "lng": 139.77041
       },
-      "image": "media/cached-image_6950852ebd071635fda1838b7e742a0d49f506ea1cce01bec75fb3730e7438af.webp",
+      "image": "https://cdn.animepilgrimage.com/places/35e80124-16b6-4df8-9c59-3875e484d6db.webp",
       "images": [
         {
-          "url": "media/cached-image_6950852ebd071635fda1838b7e742a0d49f506ea1cce01bec75fb3730e7438af.webp"
+          "url": "https://cdn.animepilgrimage.com/places/35e80124-16b6-4df8-9c59-3875e484d6db.webp"
         },
         {
-          "url": "media/cached-image_1ebbdf34fde154f9cd1f673d89bf61536237f0464dab03bc8ea977589745fbe7.jpg"
-        }
-      ],
-      "type": "Video arcade",
-      "categories": [
-        "Video arcade"
-      ],
-      "rating": 3,
-      "reviewCount": 9,
-      "priceLevel": null,
-      "address": "貴三ビル, 4 Chome-2-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7002873,139.7719105,3a,71.1y,272.47h,99.44t/data=!3m6!1e1!3m4!1sJL5cP77YAwTVu8Jgm94MlQ!2e0!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJL6qgjB6MGGARX0HNTQGRMUk",
-      "name": "Repark Soto-Kanda 3-Chome #2",
-      "localName": "三井のリパーク 外神田３丁目第２ 駐車場",
-      "coordinates": {
-        "lat": 35.70255,
-        "lng": 139.77009
-      },
-      "image": "media/cached-image_b8ee942be7373c84151e2283f8a0489daff3a1ef7d74590abbf14706f7fd036a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_b8ee942be7373c84151e2283f8a0489daff3a1ef7d74590abbf14706f7fd036a.webp"
+          "url": "media/cached-image_1d66a816c48d0d4915e17b6241bc952425ffce6b2524c7f03affe3ed9a7f5f1e.jpg"
         },
         {
-          "url": "media/cached-image_f125e6559b6f6360d9807ef9bee97695714db0b63d14269e2a26c41fa0c91f4a.jpg"
-        }
-      ],
-      "type": "駐車場",
-      "categories": [
-        "駐車場"
-      ],
-      "rating": 2.7,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-6-13 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7027707,139.7701095,3a,90y,180.24h,101.02t/data=!3m6!1e1!3m4!1siKF3pitJSSPUOloIckbigg!2e0!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJKwoa6HaNGGARUzpD42qFb7g",
-      "name": "Volks Akihabara Hobby Paradise 2",
-      "localName": "ボークス秋葉原ホビー天国2",
-      "coordinates": {
-        "lat": 35.70001,
-        "lng": 139.77158
-      },
-      "image": "media/cached-image_ee11506c0a6cf04f8c4e6407e2e9a00cf42c1dae5667c13a486dead09180fdfe.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ee11506c0a6cf04f8c4e6407e2e9a00cf42c1dae5667c13a486dead09180fdfe.webp"
+          "url": "media/cached-image_0dbe42e02e424fbe740b5bd9c189d9416503cfd639955f1ce4cd524b4f39767c.jpg"
         },
         {
-          "url": "media/cached-image_f4a03521afbe65393770bdafb8e65ec3bcab77b5bbcdfc15cda8d509add0c27a.jpg"
+          "url": "media/cached-image_6368832ec18e7cb6bcf677a4f184ae57fca59d8270117f22ac9231316fa22bec.jpg"
         },
         {
-          "url": "media/cached-image_9926a3350fbcfdf84926153cdfc6c51743788afa6a58af34941dc167ad417b66.jpg"
+          "url": "media/cached-image_9dfb00875f80858b45e528b0c8bdb1c0bbd0e921776b41964a61b956fffe4bf0.jpg"
         },
         {
-          "url": "media/cached-image_deaf2e37d1fd476dc18df1e00522e4e58200ea0913f036e9fa53e5ccef4f8aaa.jpg"
+          "url": "media/cached-image_c10da531e482c2c284b3b6703117bbcac435e72ad35dc302b52a08cc84aca13d.jpg"
         },
         {
-          "url": "media/cached-image_87d23bf3f955a06605c8291d85a2269e5874e0d97854a7e28201b0a6e847944f.jpg"
+          "url": "media/cached-image_fe2a05e0f071115778631855f572253685121a7dec6094f1729b971720017120.jpg"
         },
         {
-          "url": "media/cached-image_e857316a0c4b893bb544c71039bc7115eabd210b2cfde236984f4963e1bca5a5.jpg"
+          "url": "media/cached-image_d832a7d0e478d5e2273eb453fa4622e89ca65e37a91176916866c21248810f8f.jpg"
         },
         {
-          "url": "media/cached-image_1023d13fc6b794d22c383ec84e797275f08140f80467c5236f6a674bb704d9e2.jpg"
+          "url": "media/cached-image_53fa4ea8c07b8a91f800a4c7abaa5acf6b6a3025dfb848c3a60da12be1edb4ae.jpg"
         },
         {
-          "url": "media/cached-image_841a1d3ad787880108b286e0e9696c96ac4cb46f25986358ec8d33149eb085a9.jpg"
+          "url": "media/cached-image_5851c58d58b9c56d08aef2d87b0cbb32601f370eaeea83b262bcb6b02061e5a4.jpg"
         },
         {
-          "url": "media/cached-image_2ea5c94f11c7bd39cba8ad6fadfbdec505a03adea4d23b6445efaadedf498fbb.jpg"
+          "url": "media/cached-image_663e4a44f4aba5920b0c53586052feb1c585b5f8adbf3f7811cccfc8aeac88a9.jpg"
         },
         {
-          "url": "media/cached-image_1869e870cb0390b28834d5d306c69091a4e78f37dfe948c15a8850897a91d221.jpg"
-        },
-        {
-          "url": "media/cached-image_e181bba56fd456daa1206c5acbf72e603fdb660d53f7e6d5d00b3c0a116e0b96.jpg"
-        },
-        {
-          "url": "media/cached-image_062ae0c27067a810ba6e3a57b85673c7f91947156f0a538071c0911d561a8e16.jpg"
-        },
-        {
-          "url": "media/cached-image_87114e81eb797d8e9163c27e25219df776ea833af46e6876bad2f3157f19b306.jpg"
+          "url": "media/cached-image_12da6a6d896f9dce2d2b61f84cfc7fcbfbe6e5af23c2b144edb9eeba46b190a3.jpg"
         }
       ],
       "type": "ホビーショップ",
       "categories": [
         "ホビーショップ"
       ],
-      "rating": 3.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "4 Chome-2-10 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/Zt4Juh4jCC1KC3VH6"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJpQd7ZqiOGGARsRs2aimeHl4",
-      "name": "Akihabara Park",
-      "localName": "千代田区立秋葉原公園",
-      "coordinates": {
-        "lat": 35.6976,
-        "lng": 139.77486
-      },
-      "image": "media/cached-image_5ee27759e505bf4d312554cf0a31988eb6396b5b3485c7ced8802922a8b5b0ab.webp",
-      "images": [
-        {
-          "url": "media/cached-image_5ee27759e505bf4d312554cf0a31988eb6396b5b3485c7ced8802922a8b5b0ab.webp"
-        },
-        {
-          "url": "media/cached-image_10ce28a2a6f0daf5bf433f6dec143cec6a814ba88917e70e30fd3de3e2b47c79.jpg"
-        },
-        {
-          "url": "media/cached-image_205bd0e6f3335bc7cd2cca10b319e7e2cc20b1f9ff4ec9cf438609dc58755d80.jpg"
-        },
-        {
-          "url": "media/cached-image_3c4f8da213001fb244f1ea9ceee8adde0a8e0d23457ae6c7d4f966975bbd87dd.jpg"
-        }
-      ],
-      "type": "公園",
-      "categories": [
-        "公園"
-      ],
-      "rating": 3.5,
-      "reviewCount": 14,
-      "priceLevel": null,
-      "address": "1 Chome-18 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/VijfDYijGAXcfcy59"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJjSfc2x2MGGARtPzVSblhj7o",
-      "name": "Excelsior Caffé Akihabara Chuo Dori Store",
-      "localName": "エクセルシオール カフェ 秋葉原中央通り店",
-      "coordinates": {
-        "lat": 35.70146,
-        "lng": 139.77141
-      },
-      "image": "media/cached-image_aa6b9047d4df1fa71c38766b34dbaf224d91c42c79206f2761fe31db1aebc1b1.webp",
-      "images": [
-        {
-          "url": "media/cached-image_aa6b9047d4df1fa71c38766b34dbaf224d91c42c79206f2761fe31db1aebc1b1.webp"
-        },
-        {
-          "url": "media/cached-image_ba616c1d9e88f14e8d0c9fd776e78134096e3755a5ba0bb017b58a20bf63e2dd.jpg"
-        },
-        {
-          "url": "media/cached-image_3482dc9c704d5f78fc32567df5a203a9bdeb7704bf278623f995d98e806ca2ed.jpg"
-        }
-      ],
-      "type": "カフェ・喫茶",
-      "categories": [
-        "カフェ・喫茶"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Akiba Place, １Ｆ, 3 Chome-15-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/Fg5EsWNrfvJQzyy16"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJH8hUDqiOGGARKbhUAocHMfs",
-      "name": "remm AKIHABARA",
-      "localName": "レム秋葉原",
-      "coordinates": {
-        "lat": 35.69765,
-        "lng": 139.77377
-      },
-      "image": "media/cached-image_0b513ba3380a7079b5956e083b3887851326cc4183c3f312148972015aee3b8d.webp",
-      "images": [
-        {
-          "url": "media/cached-image_0b513ba3380a7079b5956e083b3887851326cc4183c3f312148972015aee3b8d.webp"
-        },
-        {
-          "url": "media/cached-image_bf9a608d8897515bcea9c941c264525d779a61a92a591f65c722c6bdd14ecafb.jpg"
-        },
-        {
-          "url": "media/cached-image_baca1aebf85510a4f42c1b5de098495600426a3355f6025f71d7ebce59fd3213.jpg"
-        },
-        {
-          "url": "media/cached-image_d9844afe94c4fefa47447ace6852bb3475cd924f4bc28e490d48230ad2b5187b.jpg"
-        },
-        {
-          "url": "media/cached-image_551d82afd85f5027a36a34f05c2f5b9b32239c9356d66db6dbc488ceafcb3ac8.jpg"
-        },
-        {
-          "url": "media/cached-image_c16f2102f42217b4982ef396c19a834d922a23b1296bba60c6c4157214a9eac4.jpg"
-        },
-        {
-          "url": "media/cached-image_18c001f5abd33a65ebe2987862cf5d4175f823c280e594f237400279aa32d830.jpg"
-        },
-        {
-          "url": "media/cached-image_f4f8860acda8ec240f5bd2539d7031a8b11f6f6fc8be8974cd3e2dc8575bd28c.jpg"
-        },
-        {
-          "url": "media/cached-image_dffd295cb71f680b684f599a001561e7f9bfa6d460dd79370f3b546921667bbc.jpg"
-        },
-        {
-          "url": "media/cached-image_4202be3c7de060a56cee34ff676fb0885aaf7e752209739649830dba47227fc7.jpg"
-        },
-        {
-          "url": "media/cached-image_f7b717c531d79595a33554e0c17b2c680805aa557dc2a39097aee2a4712a6d13.jpg"
-        },
-        {
-          "url": "media/cached-image_1a3bcfbd5b92ec216dd82e8d213d6c452966cfe39bd7801bdf43e5d07d4a800a.jpg"
-        },
-        {
-          "url": "media/cached-image_bc70c30e7c276f2efc393fa52dd7519e5a0e0ffae631608681ed50e273ee3f76.jpg"
-        }
-      ],
-      "type": "ビジネスホテル",
-      "categories": [
-        "ビジネスホテル"
-      ],
       "rating": 4.3,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "1 Chome-6-5 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "address": "AKIBAカルチャーズZONE 1階・2階, 1 Chome-7-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
       "city": "Chiyoda City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/bkq4zSwbtELiaeR56"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ6aRXtRONGGARzjkjOvJpSQM",
-      "name": "FamilyMart Toshima Minami-Ikebukuro 3-chome Store",
-      "localName": "ファミリーマート 豊島南池袋三丁目店",
-      "coordinates": {
-        "lat": 35.72189,
-        "lng": 139.71606
-      },
-      "image": "media/cached-image_0eb25b25025ad884e8c17fc60944f7ca41caf3b0b3fb651a844ad06e8c6b4198.webp",
-      "images": [
-        {
-          "url": "media/cached-image_0eb25b25025ad884e8c17fc60944f7ca41caf3b0b3fb651a844ad06e8c6b4198.webp"
-        },
-        {
-          "url": "media/cached-image_dfdd84871bf472005b06b7fd562f12c5785b341b59499dbf891421cdeaaf7f78.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "3 Chome-1-10 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
-      "city": "Toshima City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/hXoPjsx7BBGeaEKz9"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJAQBwbh6MGGARaIsPslXTS0w",
-      "name": "Akiba CO Gallery",
-      "localName": "アキバCOギャラリー",
-      "coordinates": {
-        "lat": 35.70254,
-        "lng": 139.77151
-      },
-      "image": "media/cached-image_11c9d4afce5046c3d8eed41a8642a41808fc5a9b43912e8ecf7930d880a735e2.webp",
-      "images": [
-        {
-          "url": "media/cached-image_11c9d4afce5046c3d8eed41a8642a41808fc5a9b43912e8ecf7930d880a735e2.webp"
-        },
-        {
-          "url": "media/cached-image_922e19717557a26f06ac88cf414ec6dbd1f1c7bc865d031e30691c4d7518e387.jpg"
-        }
-      ],
-      "type": "アート ギャラリー",
-      "categories": [
-        "アート ギャラリー"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-16-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7024295,139.7716143,3a,75y,332.85h,101.09t/data=!3m6!1e1!3m4!1swsqctcvhMGUA5kMDAYzEpg!2e0!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJgfTzlaeOGGARXW6txkjm7to",
-      "name": "7-Eleven Akihabara Station North Store",
-      "localName": "セブン-イレブン 秋葉原駅北店",
-      "coordinates": {
-        "lat": 35.6995,
-        "lng": 139.77422
-      },
-      "image": "media/cached-image_c24f2f8897a82460911e1cbae549d2fccc7019cd31d3dbab99e7b6eb854722ce.webp",
-      "images": [
-        {
-          "url": "media/cached-image_c24f2f8897a82460911e1cbae549d2fccc7019cd31d3dbab99e7b6eb854722ce.webp"
-        },
-        {
-          "url": "media/cached-image_41e8a8a61afe5035f618b64c6cce85292bd538521b7d0c177d87013e9400543b.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": 2.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "大東ビル, ３-３-3 Kanda Neribeicho, Chiyoda City, Tokyo 101-0022, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/GVkE53FEFMSRYkLe9"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ76X9mh6MGGAR_fhLJ312wT0",
-      "name": "Park Gallery",
-      "localName": "",
-      "coordinates": {
-        "lat": 35.70148,
-        "lng": 139.76959
-      },
-      "image": "media/cached-image_abc07051d6fb0d4d2a258cd022f4e78b7335c02c1e4278efd4550bbdbba7dff8.webp",
-      "images": [
-        {
-          "url": "media/cached-image_abc07051d6fb0d4d2a258cd022f4e78b7335c02c1e4278efd4550bbdbba7dff8.webp"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": 4,
-      "reviewCount": 75,
-      "priceLevel": null,
-      "address": "Park Gallery, 1F / 3F, 3 Chome-5-20 Sotokanda, Chiyoda City, Tokyo 101-0021",
-      "city": null,
-      "region": null,
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7015044,139.7694953,3a,90y,89.83h,99.15t/data=!3m6!1e1!3m4!1saOL7Mvtn_P5es3heYI4LSg!2e0!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJY7XVdh6MGGARqvqnUWxj-F0",
-      "name": "Tuun-kaikan",
-      "localName": "通運会館",
-      "coordinates": {
-        "lat": 35.70188,
-        "lng": 139.77101
-      },
-      "image": "media/cached-image_1d94a7664788b3401fe4ed264ae2d2eddde1d634f717229d79f2191c2bfd8448.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1d94a7664788b3401fe4ed264ae2d2eddde1d634f717229d79f2191c2bfd8448.webp"
-        },
-        {
-          "url": "media/cached-image_8b704986c782c9aca5ada4312f14909f2abfcb82cb6996dadedc893f23287fc1.jpg"
-        }
-      ],
-      "type": "イベント会場",
-      "categories": [
-        "イベント会場"
-      ],
-      "rating": 3.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-16-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/AEDeYD2taZLFg51V7"
+      "streetViewUrl": "https://maps.app.goo.gl/RPguk2f61SazTTjA8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Lashinbang's Akihabara store sits inside the AKIBAカルチャーズZONE building on Chuo-dori, visible in episode 4 street scenes as Okabe navigates the main shopping strip's anime merchandise shops.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
@@ -1754,10 +708,10 @@
         "lat": 35.69981,
         "lng": 139.77133
       },
-      "image": "media/cached-image_4fa679f49040177c52eeb9b1ef0ce9614e9e64fc54f0adf8802ae37cc7155676.webp",
+      "image": "https://cdn.animepilgrimage.com/places/3c767e50-f778-4994-836f-9ddf79c87e91.webp",
       "images": [
         {
-          "url": "media/cached-image_4fa679f49040177c52eeb9b1ef0ce9614e9e64fc54f0adf8802ae37cc7155676.webp"
+          "url": "https://cdn.animepilgrimage.com/places/3c767e50-f778-4994-836f-9ddf79c87e91.webp"
         },
         {
           "url": "media/cached-image_bfa480505dacd9b89e4a8d2ff7f4a05367fcc1e9f5e7582d2b4f1f360ab09d60.jpg"
@@ -1809,355 +763,1601 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6997314,139.7713166,3a,75y,2.36h,100.8t/data=!3m6!1e1!3m4!1s4ZSkTGISbIotUmyl4rucFg!2e0!7i16384!8i8192?entry=ttu"
+      "streetViewUrl": "https://www.google.com/maps/@35.6997314,139.7713166,3a,75y,2.36h,100.8t/data=!3m6!1e1!3m4!1s4ZSkTGISbIotUmyl4rucFg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "BicCamera AKIBA is one of the large electronics stores shown in the opening episode as Okabe and Mayuri walk through Akihabara on their way to the Radio Kaikan lecture, establishing the dense consumer electronics character of the neighborhood.",
+      "fanTopPick": false
     },
     {
       "kind": "poi",
-      "placeId": "ChIJLxe9rB2MGGARBM4XdJcSvGo",
-      "name": "Lashinbang Akihabara New Store",
-      "localName": "らしんばん秋葉原店新館",
+      "placeId": "ChIJY7XVdh6MGGARqvqnUWxj-F0",
+      "name": "Tuun-kaikan",
+      "localName": "通運会館",
       "coordinates": {
-        "lat": 35.69939,
-        "lng": 139.77041
+        "lat": 35.70188,
+        "lng": 139.77101
       },
-      "image": "media/cached-image_ac3f23836c6d92e538a6c0ff4afae6ce5aff33f178925f509a5401c085dc2d3d.webp",
+      "image": "https://cdn.animepilgrimage.com/places/3f3d529c-dcab-48d5-9525-e50a3784ac1f.webp",
       "images": [
         {
-          "url": "media/cached-image_ac3f23836c6d92e538a6c0ff4afae6ce5aff33f178925f509a5401c085dc2d3d.webp"
+          "url": "https://cdn.animepilgrimage.com/places/3f3d529c-dcab-48d5-9525-e50a3784ac1f.webp"
         },
         {
-          "url": "media/cached-image_1d66a816c48d0d4915e17b6241bc952425ffce6b2524c7f03affe3ed9a7f5f1e.jpg"
-        },
-        {
-          "url": "media/cached-image_0dbe42e02e424fbe740b5bd9c189d9416503cfd639955f1ce4cd524b4f39767c.jpg"
-        },
-        {
-          "url": "media/cached-image_6368832ec18e7cb6bcf677a4f184ae57fca59d8270117f22ac9231316fa22bec.jpg"
-        },
-        {
-          "url": "media/cached-image_9dfb00875f80858b45e528b0c8bdb1c0bbd0e921776b41964a61b956fffe4bf0.jpg"
-        },
-        {
-          "url": "media/cached-image_c10da531e482c2c284b3b6703117bbcac435e72ad35dc302b52a08cc84aca13d.jpg"
-        },
-        {
-          "url": "media/cached-image_fe2a05e0f071115778631855f572253685121a7dec6094f1729b971720017120.jpg"
-        },
-        {
-          "url": "media/cached-image_d832a7d0e478d5e2273eb453fa4622e89ca65e37a91176916866c21248810f8f.jpg"
-        },
-        {
-          "url": "media/cached-image_53fa4ea8c07b8a91f800a4c7abaa5acf6b6a3025dfb848c3a60da12be1edb4ae.jpg"
-        },
-        {
-          "url": "media/cached-image_5851c58d58b9c56d08aef2d87b0cbb32601f370eaeea83b262bcb6b02061e5a4.jpg"
-        },
-        {
-          "url": "media/cached-image_663e4a44f4aba5920b0c53586052feb1c585b5f8adbf3f7811cccfc8aeac88a9.jpg"
-        },
-        {
-          "url": "media/cached-image_12da6a6d896f9dce2d2b61f84cfc7fcbfbe6e5af23c2b144edb9eeba46b190a3.jpg"
-        }
-      ],
-      "type": "ホビーショップ",
-      "categories": [
-        "ホビーショップ"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "AKIBAカルチャーズZONE 1階・2階, 1 Chome-7-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/RPguk2f61SazTTjA8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJVVUV9B2MGGARqKxzgd8jXyY",
-      "name": "Tokyo Times Tower",
-      "localName": "東京タイムズタワー",
-      "coordinates": {
-        "lat": 35.70123,
-        "lng": 139.77252
-      },
-      "image": "media/cached-image_d237e8c982ee052fbf0b8e0be97b5dedbc12b2a172c6adf315081eac1cfc074e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d237e8c982ee052fbf0b8e0be97b5dedbc12b2a172c6adf315081eac1cfc074e.webp"
-        },
-        {
-          "url": "media/cached-image_e503d22c4ba7343541c89e0021ec3fb9516a6af5bf372e1002473259ac23b487.jpg"
-        },
-        {
-          "url": "media/cached-image_53234efe659c53f518878d56039fa34c438c279aae6dd5d3fa938f8c3e38aaaf.jpg"
-        },
-        {
-          "url": "media/cached-image_cb4a1f2ebdc4efc1ae5e56d467ce2658c829e8a2df9c6588891b1552f3a03424.jpg"
-        }
-      ],
-      "type": "集合住宅",
-      "categories": [
-        "集合住宅"
-      ],
-      "rating": 3.8,
-      "reviewCount": 609,
-      "priceLevel": null,
-      "address": "4 Chome-14-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/ZsKXLc56i43JYiJcA",
-      "entityContext": "The luxury high-rise identified across multiple guides as the model for Faris NyanNyan's family apartment building, the lavish Akihabara residence of Faris and her father."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJC6K-bB2MGGARJATjxYx8cJc",
-      "name": "Moses Kebab AKIBA Sta.",
-      "localName": "モーゼスさんのケバブ 秋葉原駅前店",
-      "coordinates": {
-        "lat": 35.6988,
-        "lng": 139.77174
-      },
-      "image": "media/cached-image_e65b5fc002e8408623416ec072318f8ac42dfd1bee84cff70dc1d0253ed31960.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e65b5fc002e8408623416ec072318f8ac42dfd1bee84cff70dc1d0253ed31960.webp"
-        },
-        {
-          "url": "media/cached-image_641a85970a0e705d2c951a7a5bbc7abe2c101ad36c6366d45179384df4e8d950.jpg"
-        }
-      ],
-      "type": "ケバブショップ",
-      "categories": [
-        "ケバブショップ"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-13-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/NkXRVSrdVouwfNxn8"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJS2dPOKiOGGAREfQsUq73wP0",
-      "name": "Yanagimori Shrine",
-      "localName": "柳森神社",
-      "coordinates": {
-        "lat": 35.69666,
-        "lng": 139.77364
-      },
-      "image": "media/cached-image_7a1e7741a7f9c0f7fb0b73fb6547991891b89b0dd06af213cff328abb5aac09c.webp",
-      "images": [
-        {
-          "url": "media/cached-image_7a1e7741a7f9c0f7fb0b73fb6547991891b89b0dd06af213cff328abb5aac09c.webp"
-        },
-        {
-          "url": "media/cached-image_84997af77db1226a5a206d753be490b2dfad6441e899750536e61a20955124dd.jpg"
-        },
-        {
-          "url": "media/cached-image_8bd6d3e764659882d3013917a7f13d630f41873de8610506c9e1cbbc07391c64.jpg"
-        },
-        {
-          "url": "media/cached-image_b0be5a5b1247ef075fb18a1d5028b6edf07ededccce2972a444b23e92cfbf009.jpg"
-        },
-        {
-          "url": "media/cached-image_104b4bd2e4d26b88a70861588eddc7f23f92d231e1e78b2cdba1233ac6959d69.jpg"
-        },
-        {
-          "url": "media/cached-image_93144188fbd22d636b0fc7e939170f1d7ce05140975c30339963c1891dab9c6d.jpg"
-        }
-      ],
-      "type": "神社",
-      "categories": [
-        "神社"
-      ],
-      "rating": 4.2,
-      "reviewCount": 818,
-      "priceLevel": null,
-      "address": "2 Chome-25-1 Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6965765,139.773619,3a,90y,0.75h,96.01t/data=!3m7!1e1!3m5!1s91zbA9To6i2A59s_lG6XWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91zbA9To6i2A59s_lG6XWQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D78.97553%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "The real-world model for Yanabayashi Shrine, the small Akihabara shrine where Okabe and Ruka have several significant scenes, including conversations about Ruka's wish and gender-swap plotline."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJC_icoqeOGGARZgoe1U1K59w",
-      "name": "Fujisoft Akiba Plaza",
-      "localName": "富士ソフトアキバプラザ",
-      "coordinates": {
-        "lat": 35.69955,
-        "lng": 139.77375
-      },
-      "image": "media/cached-image_bd321695370c7478a2558b306624179a0158253af04e0b11dcb564a1dc72463a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_bd321695370c7478a2558b306624179a0158253af04e0b11dcb564a1dc72463a.webp"
-        },
-        {
-          "url": "media/cached-image_de9c6c4ef2d2590c3c8f7fe9c47543e23891814e94b40715fe1afd3052e15348.jpg"
-        }
-      ],
-      "type": "会議場",
-      "categories": [
-        "会議場"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "ヒューリック秋葉原タワービルディング, ３-３-3 Kanda Neribeicho, Chiyoda City, Tokyo 101-0022, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/PqY7hTNFKuANWb1B6",
-      "entityContext": "The Fujisoft building is a recognizable Akihabara landmark that appears in background shots across the series, part of the dense visual tapestry of the Electric Town district."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJNfjL492JGGARIUzKvWzbgcY",
-      "name": "Tokyo Big Sight Rooftop Exhibition Area",
-      "localName": "東京ビッグサイト屋上展示場",
-      "coordinates": {
-        "lat": 35.62853,
-        "lng": 139.79397
-      },
-      "image": "media/cached-image_fe5eec60ae47e91a46a77b7cbf3835eb058f183f248e55d2034554c4cca5c2f7.webp",
-      "images": [
-        {
-          "url": "media/cached-image_fe5eec60ae47e91a46a77b7cbf3835eb058f183f248e55d2034554c4cca5c2f7.webp"
-        },
-        {
-          "url": "media/cached-image_224db3f9d9c906d14ced469fb2c46d32d2f883a9a1ec56385d8ad8048db22d59.jpg"
-        }
-      ],
-      "type": "コンベンション センター",
-      "categories": [
-        "コンベンション センター"
-      ],
-      "rating": 3.8,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒135-0063 Tokyo, Koto City, Ariake, 3 Chome−11−1, 東京国際展示場西展示棟4F",
-      "city": "Koto City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/cbrA38chNymfcozs6"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJUcqcff2NGGAR75BgpF1K6J4",
-      "name": "NewDays Mets Akihabara",
-      "localName": "NewDays メッツ秋葉原",
-      "coordinates": {
-        "lat": 35.6982,
-        "lng": 139.77256
-      },
-      "image": "media/cached-image_49f7c4cab9b85bf093aa40dbc054cd60e30405be9faaf8ba9f2ca6a03c03a7bb.webp",
-      "images": [
-        {
-          "url": "media/cached-image_49f7c4cab9b85bf093aa40dbc054cd60e30405be9faaf8ba9f2ca6a03c03a7bb.webp"
-        },
-        {
-          "url": "media/cached-image_e80869d985d30662d9fcd978c6bb6f6d4b8653b6fc7340cef0811811fa81276b.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": 3.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1 Chome−17−4 ＪＲ東日本ホテルメッツプレミア秋葉原 １階",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/DGoMFWfjaNCthLvaA"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJi6zaXgCNGGARkcjOfAyiT8M",
-      "name": "FUKUSHIMAYA dining area",
-      "localName": "福島屋 TASTING MARKET イートインコーナー",
-      "coordinates": {
-        "lat": 35.70028,
-        "lng": 139.77222
-      },
-      "image": "media/cached-image_e937b2925d3c12116df1326b738bece21582786c546c2241d6c3daa8374cdd9a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e937b2925d3c12116df1326b738bece21582786c546c2241d6c3daa8374cdd9a.webp"
-        },
-        {
-          "url": "media/cached-image_081312d495aaf0fe6e7d8827806e8bca37981b4c445c4d6a26638f8b04e05222.jpg"
-        }
-      ],
-      "type": "ラーメン屋",
-      "categories": [
-        "ラーメン屋"
-      ],
-      "rating": 3.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "秋葉原UDX1F, 4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
-      "city": "Chiyoda City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://maps.app.goo.gl/8zox5JAmejqejCE97"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJrezhCvOuA2AR0KUJxVKAQEM",
-      "name": "Fureai Hall",
-      "localName": "ふれあい会館",
-      "coordinates": {
-        "lat": 35.69667,
-        "lng": 139.77318
-      },
-      "image": "media/cached-image_db08acc03ddfe812909bd8dbcaee0e3226bad0be886563737d022f7ed493d4bb.webp",
-      "images": [
-        {
-          "url": "media/cached-image_db08acc03ddfe812909bd8dbcaee0e3226bad0be886563737d022f7ed493d4bb.webp"
-        },
-        {
-          "url": "media/cached-image_57cc916f4306b6dc4ee7f33e85d3de865c5291847f889a0a529a8fe101f1ae79.jpg"
+          "url": "media/cached-image_8b704986c782c9aca5ada4312f14909f2abfcb82cb6996dadedc893f23287fc1.jpg"
         }
       ],
       "type": "イベント会場",
       "categories": [
         "イベント会場"
       ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-16-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/AEDeYD2taZLFg51V7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ76X9mh6MGGAR_fhLJ312wT0",
+      "name": "Park Gallery",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.70148,
+        "lng": 139.76959
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4195333a-a0be-4ad9-ae6a-575eb03a4c52.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4195333a-a0be-4ad9-ae6a-575eb03a4c52.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 4,
+      "reviewCount": 75,
+      "priceLevel": null,
+      "address": "Park Gallery, 1F / 3F, 3 Chome-5-20 Sotokanda, Chiyoda City, Tokyo 101-0021",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7015044,139.7694953,3a,90y,89.83h,99.15t/data=!3m6!1e1!3m4!1saOL7Mvtn_P5es3heYI4LSg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgfTzlaeOGGARXW6txkjm7to",
+      "name": "7-Eleven Akihabara Station North Store",
+      "localName": "セブン-イレブン 秋葉原駅北店",
+      "coordinates": {
+        "lat": 35.6995,
+        "lng": 139.77422
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4498e9ad-ae8f-463e-923a-ae59111e334d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4498e9ad-ae8f-463e-923a-ae59111e334d.webp"
+        },
+        {
+          "url": "media/cached-image_41e8a8a61afe5035f618b64c6cce85292bd538521b7d0c177d87013e9400543b.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "大東ビル, ３-３-3 Kanda Neribeicho, Chiyoda City, Tokyo 101-0022, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GVkE53FEFMSRYkLe9",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKTP54qeOGGARsZf1fyU2jxU",
+      "name": "Akihabara Station",
+      "localName": "秋葉原駅",
+      "coordinates": {
+        "lat": 35.69849,
+        "lng": 139.77251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6be86366-aee2-4b3a-bb31-ddf78b2bc548.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6be86366-aee2-4b3a-bb31-ddf78b2bc548.webp"
+        },
+        {
+          "url": "media/cached-image_988d5fa52dcd4e10468a38f5fcd8904c763a01bfb0f511f301d56d1301df6357.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Sotokanda, Chiyoda City, Tokyo, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/efautM6zQjC5ZxH5A",
+      "episodeType": "EP",
+      "episodeNumber": 22,
+      "entityContext": "Akihabara Station is a recurring landmark throughout the series, shown in episode 22 during the finale when Okabe rushes through the crowd, and its distinctive elevated tracks and stairways appear in key scenes across multiple episodes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQBwbh6MGGARaIsPslXTS0w",
+      "name": "Akiba CO Gallery",
+      "localName": "アキバCOギャラリー",
+      "coordinates": {
+        "lat": 35.70254,
+        "lng": 139.77151
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4810ac86-cc19-408d-b9da-77b69a874586.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4810ac86-cc19-408d-b9da-77b69a874586.webp"
+        },
+        {
+          "url": "media/cached-image_922e19717557a26f06ac88cf414ec6dbd1f1c7bc865d031e30691c4d7518e387.jpg"
+        }
+      ],
+      "type": "アート ギャラリー",
+      "categories": [
+        "アート ギャラリー"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-16-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7024295,139.7716143,3a,75y,332.85h,101.09t/data=!3m6!1e1!3m4!1swsqctcvhMGUA5kMDAYzEpg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpQd7ZqiOGGARsRs2aimeHl4",
+      "name": "Akihabara Park",
+      "localName": "千代田区立秋葉原公園",
+      "coordinates": {
+        "lat": 35.69802,
+        "lng": 139.77493
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60c49735-ba2c-4122-9fdf-78f17e98c352.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60c49735-ba2c-4122-9fdf-78f17e98c352.webp"
+        },
+        {
+          "url": "media/cached-image_10ce28a2a6f0daf5bf433f6dec143cec6a814ba88917e70e30fd3de3e2b47c79.jpg"
+        },
+        {
+          "url": "media/cached-image_205bd0e6f3335bc7cd2cca10b319e7e2cc20b1f9ff4ec9cf438609dc58755d80.jpg"
+        },
+        {
+          "url": "media/cached-image_3c4f8da213001fb244f1ea9ceee8adde0a8e0d23457ae6c7d4f966975bbd87dd.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.5,
+      "reviewCount": 14,
+      "priceLevel": null,
+      "address": "1 Chome-18 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qJZZRemsLXAhwSUA9",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6aRXtRONGGARzjkjOvJpSQM",
+      "name": "FamilyMart Toshima Minami-Ikebukuro 3-chome Store",
+      "localName": "ファミリーマート 豊島南池袋三丁目店",
+      "coordinates": {
+        "lat": 35.72189,
+        "lng": 139.71606
+      },
+      "image": "https://cdn.animepilgrimage.com/places/56b714ea-3188-4adf-ab37-d8a69aa701d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/56b714ea-3188-4adf-ab37-d8a69aa701d2.webp"
+        },
+        {
+          "url": "media/cached-image_dfdd84871bf472005b06b7fd562f12c5785b341b59499dbf891421cdeaaf7f78.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "3 Chome-1-10 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hXoPjsx7BBGeaEKz9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH8hUDqiOGGARKbhUAocHMfs",
+      "name": "remm AKIHABARA",
+      "localName": "レム秋葉原",
+      "coordinates": {
+        "lat": 35.69765,
+        "lng": 139.77377
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5cfd0cc7-765c-42c1-aef3-a9f718dedb77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5cfd0cc7-765c-42c1-aef3-a9f718dedb77.webp"
+        },
+        {
+          "url": "media/cached-image_bf9a608d8897515bcea9c941c264525d779a61a92a591f65c722c6bdd14ecafb.jpg"
+        },
+        {
+          "url": "media/cached-image_baca1aebf85510a4f42c1b5de098495600426a3355f6025f71d7ebce59fd3213.jpg"
+        },
+        {
+          "url": "media/cached-image_d9844afe94c4fefa47447ace6852bb3475cd924f4bc28e490d48230ad2b5187b.jpg"
+        },
+        {
+          "url": "media/cached-image_551d82afd85f5027a36a34f05c2f5b9b32239c9356d66db6dbc488ceafcb3ac8.jpg"
+        },
+        {
+          "url": "media/cached-image_c16f2102f42217b4982ef396c19a834d922a23b1296bba60c6c4157214a9eac4.jpg"
+        },
+        {
+          "url": "media/cached-image_18c001f5abd33a65ebe2987862cf5d4175f823c280e594f237400279aa32d830.jpg"
+        },
+        {
+          "url": "media/cached-image_f4f8860acda8ec240f5bd2539d7031a8b11f6f6fc8be8974cd3e2dc8575bd28c.jpg"
+        },
+        {
+          "url": "media/cached-image_dffd295cb71f680b684f599a001561e7f9bfa6d460dd79370f3b546921667bbc.jpg"
+        },
+        {
+          "url": "media/cached-image_4202be3c7de060a56cee34ff676fb0885aaf7e752209739649830dba47227fc7.jpg"
+        },
+        {
+          "url": "media/cached-image_f7b717c531d79595a33554e0c17b2c680805aa557dc2a39097aee2a4712a6d13.jpg"
+        },
+        {
+          "url": "media/cached-image_1a3bcfbd5b92ec216dd82e8d213d6c452966cfe39bd7801bdf43e5d07d4a800a.jpg"
+        },
+        {
+          "url": "media/cached-image_bc70c30e7c276f2efc393fa52dd7519e5a0e0ffae631608681ed50e273ee3f76.jpg"
+        }
+      ],
+      "type": "ビジネスホテル",
+      "categories": [
+        "ビジネスホテル"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-6-5 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bkq4zSwbtELiaeR56",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+      "name": "Akihabara Radio Kaikan",
+      "localName": "秋葉原ラジオ会館",
+      "coordinates": {
+        "lat": 35.69812,
+        "lng": 139.77194
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f21a975d-b4cf-432c-b775-a0b04e5a47e5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f21a975d-b4cf-432c-b775-a0b04e5a47e5.webp"
+        },
+        {
+          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981869,139.7719398,3a,90y,168.82h,114.06t/data=!3m7!1e1!3m5!1s8sIi0xcNOuhg7GkIFqubGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8sIi0xcNOuhg7GkIFqubGw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D73.600174%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Akihabara Radio Kaikan is the most iconic Steins;Gate location: in episode 1, a satellite crashes into the roof of this building, and it is later revealed to be connected to SERN's time machine. Fans visit it to photograph the roof from below and recreate the scene.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjSfc2x2MGGARtPzVSblhj7o",
+      "name": "Excelsior Caffé Akihabara Chuo Dori Store",
+      "localName": "エクセルシオール カフェ 秋葉原中央通り店",
+      "coordinates": {
+        "lat": 35.70146,
+        "lng": 139.77141
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e0b623e-81df-409e-9bd9-edd2fcf3e944.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e0b623e-81df-409e-9bd9-edd2fcf3e944.webp"
+        },
+        {
+          "url": "media/cached-image_ba616c1d9e88f14e8d0c9fd776e78134096e3755a5ba0bb017b58a20bf63e2dd.jpg"
+        },
+        {
+          "url": "media/cached-image_3482dc9c704d5f78fc32567df5a203a9bdeb7704bf278623f995d98e806ca2ed.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
       "rating": 3.8,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "5 Chome-14-53 Yabutaminami, Gifu, 500-8384, Japan",
+      "address": "Akiba Place, １Ｆ, 3 Chome-15-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Fg5EsWNrfvJQzyy16",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKwoa6HaNGGARUzpD42qFb7g",
+      "name": "Volks Akihabara Hobby Paradise 2",
+      "localName": "ボークス秋葉原ホビー天国2",
+      "coordinates": {
+        "lat": 35.70001,
+        "lng": 139.77158
+      },
+      "image": "https://cdn.animepilgrimage.com/places/652188ce-2b72-40a6-ae70-3fa47366581e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/652188ce-2b72-40a6-ae70-3fa47366581e.webp"
+        },
+        {
+          "url": "media/cached-image_f4a03521afbe65393770bdafb8e65ec3bcab77b5bbcdfc15cda8d509add0c27a.jpg"
+        },
+        {
+          "url": "media/cached-image_9926a3350fbcfdf84926153cdfc6c51743788afa6a58af34941dc167ad417b66.jpg"
+        },
+        {
+          "url": "media/cached-image_deaf2e37d1fd476dc18df1e00522e4e58200ea0913f036e9fa53e5ccef4f8aaa.jpg"
+        },
+        {
+          "url": "media/cached-image_87d23bf3f955a06605c8291d85a2269e5874e0d97854a7e28201b0a6e847944f.jpg"
+        },
+        {
+          "url": "media/cached-image_e857316a0c4b893bb544c71039bc7115eabd210b2cfde236984f4963e1bca5a5.jpg"
+        },
+        {
+          "url": "media/cached-image_1023d13fc6b794d22c383ec84e797275f08140f80467c5236f6a674bb704d9e2.jpg"
+        },
+        {
+          "url": "media/cached-image_841a1d3ad787880108b286e0e9696c96ac4cb46f25986358ec8d33149eb085a9.jpg"
+        },
+        {
+          "url": "media/cached-image_2ea5c94f11c7bd39cba8ad6fadfbdec505a03adea4d23b6445efaadedf498fbb.jpg"
+        },
+        {
+          "url": "media/cached-image_1869e870cb0390b28834d5d306c69091a4e78f37dfe948c15a8850897a91d221.jpg"
+        },
+        {
+          "url": "media/cached-image_e181bba56fd456daa1206c5acbf72e603fdb660d53f7e6d5d00b3c0a116e0b96.jpg"
+        },
+        {
+          "url": "media/cached-image_062ae0c27067a810ba6e3a57b85673c7f91947156f0a538071c0911d561a8e16.jpg"
+        },
+        {
+          "url": "media/cached-image_87114e81eb797d8e9163c27e25219df776ea833af46e6876bad2f3157f19b306.jpg"
+        }
+      ],
+      "type": "ホビーショップ",
+      "categories": [
+        "ホビーショップ"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-2-10 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Zt4Juh4jCC1KC3VH6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL6qgjB6MGGARX0HNTQGRMUk",
+      "name": "Repark Soto-Kanda 3-Chome #2",
+      "localName": "三井のリパーク 外神田３丁目第２ 駐車場",
+      "coordinates": {
+        "lat": 35.70255,
+        "lng": 139.77009
+      },
+      "image": "https://cdn.animepilgrimage.com/places/68dc78c6-f038-4f21-a5f7-072015d02243.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/68dc78c6-f038-4f21-a5f7-072015d02243.webp"
+        },
+        {
+          "url": "media/cached-image_f125e6559b6f6360d9807ef9bee97695714db0b63d14269e2a26c41fa0c91f4a.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-6-13 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7027707,139.7701095,3a,90y,180.24h,101.02t/data=!3m6!1e1!3m4!1siKF3pitJSSPUOloIckbigg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQY4mB2MGGARgn-IBKS98Q8",
+      "name": "TAITO Station Akihabara",
+      "localName": "タイトーステーション 秋葉原店",
+      "coordinates": {
+        "lat": 35.7003,
+        "lng": 139.77169
+      },
+      "image": "https://cdn.animepilgrimage.com/places/69274fdd-7b48-4471-84d8-fda84ae51d04.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/69274fdd-7b48-4471-84d8-fda84ae51d04.webp"
+        },
+        {
+          "url": "media/cached-image_1ebbdf34fde154f9cd1f673d89bf61536237f0464dab03bc8ea977589745fbe7.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "貴三ビル, 4 Chome-2-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7002873,139.7719105,3a,71.1y,272.47h,99.44t/data=!3m6!1e1!3m4!1sJL5cP77YAwTVu8Jgm94MlQ!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-0iqC_OuA2ARKwv9hQifjCg",
+      "name": "Fureai Hall",
+      "localName": "ふれあい会館",
+      "coordinates": {
+        "lat": 35.69654,
+        "lng": 139.77308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d9e9c52-b0a8-4e4c-a702-a6bc3eaf96fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d9e9c52-b0a8-4e4c-a702-a6bc3eaf96fb.webp"
+        },
+        {
+          "url": "media/cached-image_20327c636837c47c4c132e63000ce2b132c1d3198b267c3998e63d1543864f33.jpg"
+        }
+      ],
+      "type": "コミュニティ センター",
+      "categories": [
+        "コミュニティ センター"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒500-8384 Gifu, Yabutaminami, 5 Chome−14−53",
       "city": "Gifu",
       "region": "Gifu",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6965953,139.7731669,3a,75y,4.56h,90.6t/data=!3m7!1e1!3m5!1smSdEd90b_gIs9RNcyHAquA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DmSdEd90b_gIs9RNcyHAquA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D15.079153%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
+      "streetViewUrl": "https://maps.app.goo.gl/YxZ2FVWnzU5pcB6KA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw6MSy_OPGGAR7VYs0YzL4RM",
+      "name": "Miraizaka Akihabara Ekimae Store",
+      "localName": "ミライザカ 秋葉原駅前店",
+      "coordinates": {
+        "lat": 35.69699,
+        "lng": 139.77329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77343b4d-fe28-452f-86e6-147bfa1c6a1f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77343b4d-fe28-452f-86e6-147bfa1c6a1f.webp"
+        },
+        {
+          "url": "media/cached-image_6c1a51d1ff7de985db22ce75b293a1146e712109173c264028c3d680b96319a4.jpg"
+        },
+        {
+          "url": "media/cached-image_f199d9e9ae33c501bab1628bd0f3035959092179d836a7a57c7ab9c588476fae.jpg"
+        },
+        {
+          "url": "media/cached-image_0b5f4cecf299bbce12a5a5c3e15e5c877f284c993179d792d7c0e3b912c44b48.jpg"
+        },
+        {
+          "url": "media/cached-image_08a18805431a7d81566b16a1a33a19790288eb8f460583ec878f4f1f3f668849.jpg"
+        },
+        {
+          "url": "media/cached-image_5e05e7703d6089741f6f5ce18bf1b3de6cdc8ce292228896c590896d6c000f6f.jpg"
+        },
+        {
+          "url": "media/cached-image_cf9dd4646aba2ac39a7379a1b21f52254a73d711f16082a7679361c0d2064d6c.jpg"
+        },
+        {
+          "url": "media/cached-image_d7f747bfc02f33aa98e6f825950db5b91b2dd0dbc50cdc8ae469c6e35ba0a1f5.jpg"
+        }
+      ],
+      "type": "居酒屋",
+      "categories": [
+        "居酒屋"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "東亜ビル 1F, 1 Chome-8-7 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4JupVyPSG3XVv26G7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWz5Ueh6MGGAR8Yys1TjCSeM",
+      "name": "J.PARK Sotokanda #2",
+      "localName": "NPC24H外神田第２パーキング",
+      "coordinates": {
+        "lat": 35.70199,
+        "lng": 139.77082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7753059f-dd86-47c7-9b83-5c8fc2ab3e80.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7753059f-dd86-47c7-9b83-5c8fc2ab3e80.webp"
+        },
+        {
+          "url": "media/cached-image_6719557f786c3c1874597a5cf5fde39cf428815a6eb013f9f9e3b181e37c2088.jpg"
+        },
+        {
+          "url": "media/cached-image_a7134609faedd569c0f5768f9a45430dadb6f098169b97bf4af73208af8452e8.jpg"
+        },
+        {
+          "url": "media/cached-image_78ee24d955ed6b272d09452296d7248b5b78fdf5351a017bbbfb2ac8463905b8.jpg"
+        },
+        {
+          "url": "media/cached-image_de7ea0a9c86ef46e907a765c94bc8d850dffb91e01acb22c1536f266dc6804ff.jpg"
+        },
+        {
+          "url": "media/cached-image_44cc95e98997d9203cd8f18b2940ce3d80941479db6fbe4df0b00e7fb070358b.jpg"
+        },
+        {
+          "url": "media/cached-image_482285b4aa679c8f5f0d657a13bf1d762283d55496329167a5f7fdfc38a6c9f2.jpg"
+        },
+        {
+          "url": "media/cached-image_cbfebf9c720c37971002478f67528db0189ee53d43b966a37a8a441313b4ec9e.jpg"
+        },
+        {
+          "url": "media/cached-image_a9713353d8d4f62fe4889dd5b02b672cd170f725cc768731d7d2fcc1bae4a562.jpg"
+        },
+        {
+          "url": "media/cached-image_972a308c9aa679cca06020dcca67ef4b8f6aa2ace0224468133577d11cda2f74.jpg"
+        },
+        {
+          "url": "media/cached-image_0a973a1f0f1cfba08ca65ff870294fcb01a494f4ac5e9a8f45cb909ee38f94e4.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-8-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hCuop6WNeWNqgKCz6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6oW5R2MGGARykDF7ElgAh0",
+      "name": "Koizumi Musen",
+      "localName": "コイズミ無線",
+      "coordinates": {
+        "lat": 35.70176,
+        "lng": 139.77223
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7779bd76-4dd8-4166-8e35-bd8245ae5231.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7779bd76-4dd8-4166-8e35-bd8245ae5231.webp"
+        },
+        {
+          "url": "media/cached-image_7cede8221e2647600115d90b18a4a382bb049522117773a7557d409e775c8b88.jpg"
+        },
+        {
+          "url": "media/cached-image_ae1970e8a0770291b44d0cc0b3c4558c108bedc740f12b861a0610f511e7ecf7.jpg"
+        }
+      ],
+      "type": "家庭用オーディオ機器",
+      "categories": [
+        "家庭用オーディオ機器"
+      ],
+      "rating": 4.2,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "アキバ三滝館 2F, 4 Chome-5-5 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/s4Bep3MqoeLPPeMSA",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Koizumi Musen is an audio electronics shop in Akihabara visible in episode 13 street-level shots, part of the dense cluster of specialist electronics retailers that define the show's Akihabara backdrop.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl2017R6MGGAR5iQnG5lQx1U",
+      "name": "Cafe Mai:lish",
+      "localName": "カフェ メイリッシュ",
+      "coordinates": {
+        "lat": 35.70232,
+        "lng": 139.76956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/79aced3d-901a-4f30-8e79-2844490279ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/79aced3d-901a-4f30-8e79-2844490279ff.webp"
+        },
+        {
+          "url": "media/cached-image_9faf79d002101d518f5d52760015ecf9f1a2ae3219189921336b7a010c47c30a.jpg"
+        }
+      ],
+      "type": "コスプレカフェ",
+      "categories": [
+        "コスプレカフェ"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fh協和スクエア, 3 Chome-6-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BHRGQHL3QWAR9TMP9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Cafe Mai:lish is the real Akihabara maid cafe that directly inspired the MayQueen+Nyan2 cafe where Faris works, first seen in episode 2 when Okabe and Daru visit and encounter Faris in her maid costume.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAyaWbl6NGGAREd5a8xST-eE",
+      "name": "Mansei Bridge",
+      "localName": "万世橋",
+      "coordinates": {
+        "lat": 35.69707,
+        "lng": 139.77111
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b3adc29-ccb7-4647-a018-2b5287394a16.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b3adc29-ccb7-4647-a018-2b5287394a16.webp"
+        },
+        {
+          "url": "media/cached-image_8258d41bb5c868538bc485fde0819246ef93cb4c5c75fc8d382670006fb7c3bf.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/U6VCw9a8Z6ByuuF59",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Mansei Bridge is a confirmed pilgrimage spot: in episode 4, Okabe uses the IBN 5100 computer near this bridge, and it is one of the most photographed real-world Steins;Gate locations due to its distinctive low-arched appearance over the Kanda River.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQf-fxR2MGGARFljBOYSQuZc",
+      "name": "Pasokon Kobo Akihabara BUYMORE",
+      "localName": "パソコン工房 秋葉原本店",
+      "coordinates": {
+        "lat": 35.70097,
+        "lng": 139.77091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86279f5d-cde6-4761-8603-5764e2b71c4d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86279f5d-cde6-4761-8603-5764e2b71c4d.webp"
+        },
+        {
+          "url": "media/cached-image_f0bd9eff7efbadacfeaf8d0d15864ef9b5947e613c979ca8f2f9bfa09eb1c5fc.jpg"
+        },
+        {
+          "url": "media/cached-image_09cb939d1f737b4de8a75a16c960a5ccd7af1150e88996875c3a91e960c8f3a2.jpg"
+        },
+        {
+          "url": "media/cached-image_3120e0df6858f7173592ace927802f0708b9555365d2241830d75847186b1200.jpg"
+        },
+        {
+          "url": "media/cached-image_440524a4057d7ac34b4673c8ed944e8be7f7422f36fe4ac66776153487f49070.jpg"
+        },
+        {
+          "url": "media/cached-image_9fc346d0a8740c3a02acf7c2fb2d3a683cda44505c18b77da62af35327feb416.jpg"
+        },
+        {
+          "url": "media/cached-image_ec1025888da82b15c90f6d5f810972638462c766a42579f838ffb3dbe5f0e60b.jpg"
+        },
+        {
+          "url": "media/cached-image_7e92d2d8374084db379afac228b450e4ee9ad5da4b52e315cab82f6f10caf596.jpg"
+        },
+        {
+          "url": "media/cached-image_b49907a385ab3622810e4ef21b3ee8070ded6d77f9d915b4fae14b8db03eef01.jpg"
+        },
+        {
+          "url": "media/cached-image_4d109ca449db038bbfc1300f4989c7d1a9f001be3926c01faaf46bfdfa13282d.jpg"
+        },
+        {
+          "url": "media/cached-image_37ae6e9a121a7ceb935a9e14d44400dba8f399024dbca12eb4a2cc0c6d071216.jpg"
+        },
+        {
+          "url": "media/cached-image_f46c31953be7ae44b1938d3a05fbe16caf51e08a353690311433542dcad01026.jpg"
+        }
+      ],
+      "type": "パソコンショップ",
+      "categories": [
+        "パソコンショップ"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "秋葉原HFビル 1F, 3 Chome-14-10 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7010573,139.7709257,3a,75y,182.06h,97.33t/data=!3m7!1e1!3m5!1sbA8WESWS5e3DBoHsZ97Zdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DbA8WESWS5e3DBoHsZ97Zdg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D20.381502%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Pasokon Kobo Akihabara BUYMORE is a PC components shop in Akihabara seen in episode 8, reflecting the type of specialist electronics and computer parts stores that Okabe frequents as part of his mad-scientist persona.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9SIfQB2MGGARl5DTn32rJck",
+      "name": "Tiger Radio",
+      "localName": "タイガー無線",
+      "coordinates": {
+        "lat": 35.69857,
+        "lng": 139.77141
+      },
+      "image": "https://cdn.animepilgrimage.com/places/903da26c-b4aa-479f-a2b0-cf5c9a0a75da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/903da26c-b4aa-479f-a2b0-cf5c9a0a75da.webp"
+        },
+        {
+          "url": "media/cached-image_e19ec39c830c06c0209984ce994b94e7e1482e81da551ce180d4649713a1b423.jpg"
+        }
+      ],
+      "type": "通信機器販売業者",
+      "categories": [
+        "通信機器販売業者"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-14-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uBkF4toKvv9Em3vu7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS6eXQB2MGGAR9W0Xk2Q7B3Y",
+      "name": "Akihabara Gamers",
+      "localName": "AKIHABARAゲーマーズ本店",
+      "coordinates": {
+        "lat": 35.69826,
+        "lng": 139.77159
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99795390-6587-4b61-bf49-f0e7970bf2d4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99795390-6587-4b61-bf49-f0e7970bf2d4.webp"
+        },
+        {
+          "url": "media/cached-image_ddf8d3d1cae48b227de6610af3d096fd5351bfd0ef52c3d92c19e25d8de2c38e.jpg"
+        },
+        {
+          "url": "media/cached-image_13ad3869aeaeca7e5307569fd01b4464622daf19a7fbcd230ab045c2d702baee.jpg"
+        }
+      ],
+      "type": "ホビーショップ",
+      "categories": [
+        "ホビーショップ"
+      ],
+      "rating": 4.2,
+      "reviewCount": 52,
+      "priceLevel": null,
+      "address": "1 Chome-14-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cCjWkGxgb4Qjc6YT8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Akihabara Gamers is the anime and manga specialty store visible on Chuo-dori in episode 9, representing the otaku retail environment that defines the neighborhood Okabe and the Future Gadget Lab call home.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6Xurbx2MGGARtYkSPjenVos",
+      "name": "Excelsior Caffé Akihabara",
+      "localName": "エクセルシオール カフェ 秋葉原ダイビル店",
+      "coordinates": {
+        "lat": 35.69948,
+        "lng": 139.77239
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ff4a4bb-d2d4-462f-86c1-19f420187e36.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ff4a4bb-d2d4-462f-86c1-19f420187e36.webp"
+        },
+        {
+          "url": "media/cached-image_a53a1f9af5e63d0860a704870730bdbb6af52c744b66f986113d2f88a362cc13.jpg"
+        },
+        {
+          "url": "media/cached-image_eb2166ed7947f8c994448bd13dff642e2a17b2f50e1ad4421226335cfdb08c5d.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-18-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ktd4e195XLqkdvnr7",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkdGXtTeNGGARpQBGphIMVD0",
+      "name": "Starbucks Coffee - JR-East Hotel Mets Akihabara",
+      "localName": "スターバックス コーヒー JR東日本ホテルメッツ プレミア 秋葉原店",
+      "coordinates": {
+        "lat": 35.69764,
+        "lng": 139.77257
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a00805f2-c5de-41fa-8793-f487a1892849.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a00805f2-c5de-41fa-8793-f487a1892849.webp"
+        },
+        {
+          "url": "media/cached-image_0aa0e50516d392e45b57423bff34c11b822b83de165b106e5031587ed53e4692.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "東日本ホテルメッツ プレミア 秋葉原, 1 Chome-17-4JR Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mc1B8ycEpajAmNcK8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA3zEdB2MGGARqNGpoKTmncE",
+      "name": "Aisan Denki Co., Ltd.",
+      "localName": "愛三電機",
+      "coordinates": {
+        "lat": 35.69956,
+        "lng": 139.77159
+      },
+      "image": "https://cdn.animepilgrimage.com/places/acd2d147-a940-43e0-b679-ebbe5d550407.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/acd2d147-a940-43e0-b679-ebbe5d550407.webp"
+        },
+        {
+          "url": "media/cached-image_5b9187233a35a6f773e41842419897169ddc8b379df4dce24a71cd7f64cf9a4d.jpg"
+        }
+      ],
+      "type": "電器舖",
+      "categories": [
+        "電器舖"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-12-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dNWmVFWojMEdE5fk8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Aisan Denki is a small electronics shop on Akihabara's main strip, one of the specialty component stores shown in episode 1 as part of the neighborhood backdrop when Okabe arrives in Akihabara.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzbvesxuMGGARtkXcDRE9-2I",
+      "name": "Holy Resurrection Cathedral - St. Nikolai",
+      "localName": "東京復活大聖堂",
+      "coordinates": {
+        "lat": 35.69804,
+        "lng": 139.76584
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b0479f5e-fc52-4c4e-bc16-d5570642137f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b0479f5e-fc52-4c4e-bc16-d5570642137f.webp"
+        },
+        {
+          "url": "media/cached-image_cf5c3452ac435efef6f75349c7a5b16ef657420b5163ff4fa5a12f5b51626c9c.jpg"
+        },
+        {
+          "url": "media/cached-image_d13d760b051f1844e2f58be4f0f6db9539fd6b4d6ee9ce9fd2e6c843b626bf86.jpg"
+        },
+        {
+          "url": "media/cached-image_f438815795325004639790349dd4f7761227ed1582cd7b7549ad754082b76b85.jpg"
+        },
+        {
+          "url": "media/cached-image_dafe14f22f4fdfe5366f1e5066d4665e9abe0b25c7b723bc5d69225dff434919.jpg"
+        },
+        {
+          "url": "media/cached-image_8d710daa8948ce732d4ddff4d988b97e625efd02a4f5459152977a6f99c49567.jpg"
+        },
+        {
+          "url": "media/cached-image_79efb9e771564ad147718b57effe46dc46a033346bb030034e8aabc0b9486164.jpg"
+        },
+        {
+          "url": "media/cached-image_1183bfbb9ce6ac4d92d18ae7aec258f8266663bfedebe5c5de6bced016966dee.jpg"
+        },
+        {
+          "url": "media/cached-image_60b89dc0522a04ba262e2903b014230d0f9a7c0e296096d81fbf04bbcb21f768.jpg"
+        },
+        {
+          "url": "media/cached-image_1c6bff97b1208cb0648217afee43fe07d21db27d8130ebb2b5a75971e8d7261d.jpg"
+        },
+        {
+          "url": "media/cached-image_b3744ccec158eb493dbbd3233aa210923c8b384fbe8948495ef5ae43931edf84.jpg"
+        },
+        {
+          "url": "media/cached-image_2ae638f926e3f5e1d19943b18736e019d70a1fbdf300e2c60fe91f54584f364d.jpg"
+        },
+        {
+          "url": "media/cached-image_6db0940a23eb353ff76d37ce137651ad38dfaca354b0f67df371974e7461889c.jpg"
+        }
+      ],
+      "type": "大教堂",
+      "categories": [
+        "大教堂"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1173,
+      "priceLevel": null,
+      "address": "4 Chome-1-3 Kanda Surugadai, Chiyoda City, Tokyo 101-0062, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/itLeH6BQ4ePmQqj6A",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Holy Resurrection Cathedral (Nicorai-do) is visible from the Ochanomizu area featured in episode 13, its distinctive green dome appearing in establishing shots as Okabe moves through the neighborhood adjacent to the Kanda River.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpdqViKeOGGARNASaou5hEg8",
+      "name": "Yanaka Coffee Chabara Shop",
+      "localName": "やなか珈琲店 CHABARA店",
+      "coordinates": {
+        "lat": 35.69957,
+        "lng": 139.77308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d50c5615-cc4f-400b-8f13-2607524286bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d50c5615-cc4f-400b-8f13-2607524286bd.webp"
+        },
+        {
+          "url": "media/cached-image_1b69929b75f81e0b3816cec4c6ccd4c697be44a4c3ce416fbc83f3988cf4c620.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "8-2 Kanda Neribeicho, Chiyoda City, Tokyo 101-0029, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PAZPupS1gYDSWzyXA",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_steins-gate_53",
+      "name": "Gallery SPACE8510-2",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.7025,
+        "lng": 139.78282
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de2848a6-24eb-4946-af44-0776660ba660.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de2848a6-24eb-4946-af44-0776660ba660.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": "Gallery SPACE8510-2 — local art spot in Tokyo, near Hashiyuki Chopsticks Shop & Workshop and Akihabara Park. Not listed on Google Maps, but the coordinates fall in this area — a verified scene location. Navigate by coordinates / Street View.",
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/wWSdRTQsH3WZSUhL6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXeIi3x2MGGAR90DzVDBeH2Q",
+      "name": "Akiba-style idol shop",
+      "localName": "アキバ系アイドルショップ",
+      "coordinates": {
+        "lat": 35.70174,
+        "lng": 139.77142
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e0fe9983-6a6b-45fd-9ba5-5a9463f3582b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e0fe9983-6a6b-45fd-9ba5-5a9463f3582b.webp"
+        },
+        {
+          "url": "media/cached-image_c81a502829b3be6c0638253899e3c5c548d7f535282bd824397356c930bb19df.jpg"
+        },
+        {
+          "url": "media/cached-image_f9518e9b19a6efea60f38f6830934d5a37bac649dcea9bd9d76bc1bf5f650ce0.jpg"
+        }
+      ],
+      "type": "店舗",
+      "categories": [
+        "店舗"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3 Chome−15−6 秋葉原M2ビル 5階",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dmJQ5rNHndxXWcgv6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYw8TVByMGGARPWTTQaJLuR0",
+      "name": "Sengoku Densyo (Akihabara Main Store)",
+      "localName": "千石電商 秋葉原本店",
+      "coordinates": {
+        "lat": 35.69937,
+        "lng": 139.7701
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e56ff6d7-fb04-4a5a-9833-0e1f5e072274.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e56ff6d7-fb04-4a5a-9833-0e1f5e072274.webp"
+        },
+        {
+          "url": "media/cached-image_6c26c3b778aa2762a86743a9105b2041015744c90f8cca449e6041c6b716ca1d.jpg"
+        }
+      ],
+      "type": "電器店",
+      "categories": [
+        "電器店"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "B1-3F, 1 Chome-8-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/C2bACJ1N7uebUZQ47",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Sengoku Densyo is an Akihabara electronics component shop that appears in episode 4 street scenes, the type of specialist parts shop that would be familiar to Okabe as he sources components for Future Gadget Lab experiments.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSVM8EbqNGGARnPmT3HB_6yE",
+      "name": "AOKI Akihabaraten",
+      "localName": "AOKI 秋葉原店",
+      "coordinates": {
+        "lat": 35.69917,
+        "lng": 139.7718
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e6d656ae-8cc5-4c04-b8b4-9506e06a699e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e6d656ae-8cc5-4c04-b8b4-9506e06a699e.webp"
+        },
+        {
+          "url": "media/cached-image_dba030208d8ae8106bf35877e995aa612bc153b1f136dbfb7e02145c766b933b.jpg"
+        },
+        {
+          "url": "media/cached-image_708e9da39b5392a1ac965cc6e5dfe9b91ed1e4dc041b023266741ea60601d408.jpg"
+        },
+        {
+          "url": "media/cached-image_43df57855304594439922a6e911292765dadbd6a90bb0278d4ed928492376d6c.jpg"
+        },
+        {
+          "url": "media/cached-image_8bc787f7588d9d9bb46207707dfbdca6a50f8c86fc8d9cd08756865a0cc92112.jpg"
+        },
+        {
+          "url": "media/cached-image_4fb1996e04009b08477d4d58ae059efd0c936e69cceafe761b6dda405e21faab.jpg"
+        },
+        {
+          "url": "media/cached-image_694cd178529af18a775842981b04f46e4a32a9222f5f0a8b3a7db1f4d9f274ee.jpg"
+        },
+        {
+          "url": "media/cached-image_0f59003ad91a0706a7d648d8106b9e81d01804cc91eecc8c78a7b2ab3f0b536e.jpg"
+        },
+        {
+          "url": "media/cached-image_34b8076434f30b33a07575a8b55c00a11b7180b61f7bd1cf34f0a5a163ae31a0.jpg"
+        },
+        {
+          "url": "media/cached-image_c7e6c30e2fabfae98ac3338929297015ca496cf0c646fb14cda028d60b780179.jpg"
+        },
+        {
+          "url": "media/cached-image_03f409ac7e0b126e64896f1a5c1e360c6935af22b5a9e45e27370b55656e65c6.jpg"
+        },
+        {
+          "url": "media/cached-image_907a141bf780c1a32bfb581ecf798bb47bab6bc077670091112f8526b8f30193.jpg"
+        },
+        {
+          "url": "media/cached-image_bcc1e39f737298738d22880571a3e0c817ae769d027a67a059f8b3863fd9b9c3.jpg"
+        }
+      ],
+      "type": "衣料品店",
+      "categories": [
+        "衣料品店"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1056,
+      "priceLevel": null,
+      "address": "1 Chome-13-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/y8BxCthhPQuRC17V8",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVSFIwqCOGGART8l-bFmdiLw",
+      "name": "Mihara pearl shop",
+      "localName": "三原真珠",
+      "coordinates": {
+        "lat": 35.7043,
+        "lng": 139.77427
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7ddd1cf-4a60-4067-8579-4169e5d54847.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7ddd1cf-4a60-4067-8579-4169e5d54847.webp"
+        },
+        {
+          "url": "media/cached-image_83e11efd7ebba486e5c279c16b02a3b9df6bb3b8a7cb9271a0b22adffe9ea52a.jpg"
+        }
+      ],
+      "type": "珠宝商",
+      "categories": [
+        "珠宝商"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "三原ビル, 5 Chome-8-7 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/j9NmdYwQMj4dt6se9",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": null,
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGU_M2aeOGGARdnOLcMYXuXs",
+      "name": "Yodobashi Akiba",
+      "localName": "ヨドバシカメラ マルチメディアAkiba",
+      "coordinates": {
+        "lat": 35.69917,
+        "lng": 139.77446
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ec186a30-ed8a-48ec-a197-807039ed5910.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ec186a30-ed8a-48ec-a197-807039ed5910.webp"
+        },
+        {
+          "url": "media/cached-image_e168886fd8762621716a5506ca6d97a4db5e61bae6f2764358e309f40aaebc08.jpg"
+        }
+      ],
+      "type": "Electrical supply store",
+      "categories": [
+        "Electrical supply store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-1 Kanda Hanaokacho, Chiyoda City, Tokyo 101-0028, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uJUBThJRKSs7B4Ax6",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Yodobashi Akiba is the massive electronics megastore shown in episode 18 as part of the Akihabara streetscape near the station, one of the defining landmarks of the real-world Electric Town that shapes the series' setting.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSTiO2h2MGGAR_MLihM0W0DE",
+      "name": "Beef Bowl specialty shop Sambo",
+      "localName": "牛丼専門 サンボ",
+      "coordinates": {
+        "lat": 35.70126,
+        "lng": 139.77097
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f20112a9-ca98-47aa-b18c-22fee1c7cf17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f20112a9-ca98-47aa-b18c-22fee1c7cf17.webp"
+        },
+        {
+          "url": "media/cached-image_5007a6ad87b1fb73b3757845527961cb23885f080b67b1fb145919566d7dcaa4.jpg"
+        }
+      ],
+      "type": "牛丼屋",
+      "categories": [
+        "牛丼屋"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kokusai Buil., 3 Chome-14-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r3HWtuNwckG67ioQ6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Beef Bowl Sambo is the long-standing gyudon restaurant in Akihabara that serves as the type of cheap everyday eating spot Okabe and the lab members frequent, appearing in episode 3 as a neighborhood staple.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF99tdACNGGARJ1KBhcC08iI",
+      "name": "Shoheibashikado Bridge",
+      "localName": "昌平橋架道橋",
+      "coordinates": {
+        "lat": 35.69824,
+        "lng": 139.76866
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f219437c-1acb-43a9-99c5-b9b199db8b5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f219437c-1acb-43a9-99c5-b9b199db8b5d.webp"
+        },
+        {
+          "url": "media/cached-image_c385fc0623dc7fdc7fb1d4e4ca80de7f0c0d5e30ec9dfbc70b3cd365c32d643a.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome-12 Kanda Awajicho, Chiyoda City, Tokyo 101-0063, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UcTdmFTW9SeLUEst9",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "Shoheibashikado Bridge is the railway underpass bridge near Ochanomizu shown in episode 15 as Okabe moves through the Kanda area, its distinctive low brick archway a recognizable background element in the series.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa9HmMxyMGGAROnIj3teE0jw",
+      "name": "Tougenkyou",
+      "localName": "橙幻郷",
+      "coordinates": {
+        "lat": 35.7006,
+        "lng": 139.77
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fce02367-d02f-4c0a-92cd-ea0ff143fd7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fce02367-d02f-4c0a-92cd-ea0ff143fd7c.webp"
+        },
+        {
+          "url": "media/cached-image_fde5679d7233042f2af34bac675b6f15e640c9639e53b0265e0c4e8c32797396.jpg"
+        },
+        {
+          "url": "media/cached-image_0f014c85bd3b4f2fa8b0686c218f4f43167915f03bef9b8d84ca90d46e7e864f.jpg"
+        }
+      ],
+      "type": "コスプレカフェ",
+      "categories": [
+        "コスプレカフェ"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ishizuka Bldg., 1F, 3 Chome-2-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/icvUT2sjLnybxxpQ9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Tougenkyou is a cosplay cafe in Akihabara that appears in episode 6, representing the maid and cosplay cafe culture central to the series' Akihabara setting and to Faris's identity as a maid cafe worker.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4xLwKAOMGGAR2mmZY7fASAg",
+      "name": "Japan Kennel Club",
+      "localName": "一般社団法人ジャパンケネルクラブ",
+      "coordinates": {
+        "lat": 35.69598,
+        "lng": 139.77066
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d5613362-a317-4d4a-907f-a370c43e2e42.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d5613362-a317-4d4a-907f-a370c43e2e42.webp"
+        },
+        {
+          "url": "media/cached-image_14c5dc59c29bad2ed1447a5ac58982da0969703e82bd3509edcdd15b861baa14.jpg"
+        }
+      ],
+      "type": "協会/組織",
+      "categories": [
+        "協会/組織"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-５ Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Dmv5igAKErdpVzuk8",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": null,
+      "fanTopPick": false
     }
   ]
 }

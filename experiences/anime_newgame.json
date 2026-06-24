@@ -1,0 +1,1005 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "NEW GAME!",
+  "slug": "new-game",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_ea89c564f77495b5976004a95637877c24830ab3cf1c3f24cd80345a6e339a94.webp",
+  "image": "media/cached-image_ea89c564f77495b5976004a95637877c24830ab3cf1c3f24cd80345a6e339a94.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.69610870769231,
+    "lng": 139.68196624615382
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "NEW GAME!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJC962IfrtGGARv5l7q5OnilU",
+      "name": "Nagomi no Yu",
+      "localName": "東京荻窪天然温泉 なごみの湯",
+      "coordinates": {
+        "lat": 35.7047941,
+        "lng": 139.6183582
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cf3e8567-254e-4583-b511-881f33e63057.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cf3e8567-254e-4583-b511-881f33e63057.webp"
+        },
+        {
+          "url": "media/cached-image_e298deb97d3fa1f55bba8a958c86818e60b62db4824384d839885e4f13c3db48.jpg"
+        },
+        {
+          "url": "media/cached-image_8a5c1f2d6d438079bbc12b066e039d105fb7d52e1015026aee2273f14c1a38dd.jpg"
+        },
+        {
+          "url": "media/cached-image_5b8503eb731120e0320a6e29863a0f41a7241e18eb9c4accced432a3bfdad2d3.jpg"
+        },
+        {
+          "url": "media/cached-image_f89c29c0273c5d9bae53cc262e2b1731c1dd3f3fbf5bf40d5f734332f5aa9097.jpg"
+        },
+        {
+          "url": "media/cached-image_f02e2d3c13a2ec159a43713cd9117b171c299b0fc1fcfeb60ca4cd8ea47286c1.jpg"
+        }
+      ],
+      "type": "Onsen",
+      "categories": [
+        "Onsen"
+      ],
+      "rating": 3.8,
+      "reviewCount": 263,
+      "priceLevel": null,
+      "address": "Nagomi no Yu, 1 Chome-10-10 Kamiogi, Suginami City, Tokyo 167-0043, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7049271,139.6182589,3a,90y,181.78h,106.5t/data=!3m7!1e1!3m5!1sOv8tQeaDpi-Ldaqi6aJKmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.502153117672293%26panoid%3DOv8tQeaDpi-Ldaqi6aJKmw%26yaw%3D181.77827937820166!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Aoba and her Eagle Jump colleagues visit this Ogikubo natural hot spring onsen together in Episode 9, sharing a relaxing bonding moment outside the office that highlights the close-knit team dynamic."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGU_M2aeOGGARdnOLcMYXuXs",
+      "name": "Yodobashi Akiba",
+      "localName": "ヨドバシカメラ マルチメディアAkiba",
+      "coordinates": {
+        "lat": 35.69917,
+        "lng": 139.77446
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0baedb83-8ce1-4806-ad1d-3b72ee58c324.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0baedb83-8ce1-4806-ad1d-3b72ee58c324.webp"
+        },
+        {
+          "url": "media/cached-image_e168886fd8762621716a5506ca6d97a4db5e61bae6f2764358e309f40aaebc08.jpg"
+        }
+      ],
+      "type": "Electrical supply store",
+      "categories": [
+        "Electrical supply store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-1 Kanda Hanaokacho, Chiyoda City, Tokyo 101-0028, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uJUBThJRKSs7B4Ax6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Characters browse this Akihabara electronics mega-store in Episode 5, picking up gaming gear and supplies, capturing the anime's love of game culture and the iconic Akihabara shopping district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK-m5fnbyGGARzAqJYzNX0MI",
+      "name": "Asagaya Station",
+      "localName": "阿佐ヶ谷駅",
+      "coordinates": {
+        "lat": 35.70441,
+        "lng": 139.63637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ef66e3e-52e2-4311-b8fc-f822400721a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ef66e3e-52e2-4311-b8fc-f822400721a2.webp"
+        },
+        {
+          "url": "media/cached-image_3d5da480bd1b9e5c7c0827da1732974598512f51d655287245bb890575a2ec1f.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-36-2 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Pmg9Kdy5siR4kWy8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Suzukaze Aoba nervously commutes through this station on her very first day at Eagle Jump in Episode 1, a milestone scene that fans recall as the start of her game developer journey.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0xDnetGMGGAR8nKtA693PgI",
+      "name": "Japan Finance Corporation Shinjuku",
+      "localName": "日本政策金融公庫 新宿支店",
+      "coordinates": {
+        "lat": 35.688482199999996,
+        "lng": 139.69674759999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/559c8df4-4d70-480f-bc8d-5c2444174edb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/559c8df4-4d70-480f-bc8d-5c2444174edb.webp"
+        },
+        {
+          "url": "media/cached-image_1f89ab31c6ae8c3bc007168bb780870f75bf3c8fc3430e7b81d30153e152dd5b.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan Finance Corporation Shinjuku, 1 Chome-14-9 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6884384,139.6968883,3a,73.2y,268.03h,103.09t/data=!3m7!1e1!3m5!1sY-bQF1PvQw5dh-p1q_H4cA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.086731602166523%26panoid%3DY-bQF1PvQw5dh-p1q_H4cA%26yaw%3D268.0255955071675!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The building exterior appears as a background location in the Shinjuku area scenes of Episode 12, blending into the urban environment the characters move through during the season finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ43iHANqMGGARp-JJGRtJ-xg",
+      "name": "JR Shinjuku East Exit Station Square",
+      "localName": "JR新宿駅 東口駅前広場",
+      "coordinates": {
+        "lat": 35.6918627,
+        "lng": 139.7010601
+      },
+      "image": "https://cdn.animepilgrimage.com/places/83e1e44f-f527-448f-ac7a-1bbc2cd2e5a6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/83e1e44f-f527-448f-ac7a-1bbc2cd2e5a6.webp"
+        },
+        {
+          "url": "media/cached-image_1ab262c75f649ad2a76914cb4b1e2ba8e488f95d9c1467c086ef5e380d2a5b1b.jpg"
+        },
+        {
+          "url": "media/cached-image_79f5a7d012042f6a40b29d0908973c4446793959f80676253f1ae959367c96c5.jpg"
+        },
+        {
+          "url": "media/cached-image_04591bd3aa41bc8a471699ba485c16c57fd20a555ff05af859d488bf5c85ed56.jpg"
+        },
+        {
+          "url": "media/cached-image_64ee871e9e5c8bd3903a7ceb942ed74c461edf44a5ce85747d2b610c9348412d.jpg"
+        },
+        {
+          "url": "media/cached-image_2cc8ddf53a1584f17497aa010ec0694c995283b2f7b7c47a9a195704e04d2914.jpg"
+        },
+        {
+          "url": "media/cached-image_888d86d2d2ad08079203992cd8a2e254d313cc4cc5ffb318b21c2512d5a2ff57.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": 811,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JR+Shinjuku+East+Exit+Station+Square/@35.6919504,139.7010262,3a,75y,114.47h,110.48t/data=!3m6!1e1!3m4!1sXCeA2VkAExmqcsm0s_kxFw!2e0!7i16384!8i8192!4m14!1m7!3m6!1s0x60188d0046d3f0fd:0xae9329798e9b8a14!2zSlLmlrDlrr_pp4Ug5p2x5Y-j!8m2!3d35.6918627!4d139.7010601!16s%2Fg%2F11vk7r8f01!3m5!1s0x60188cda008778e3:0x18fb491b1949e2a7!8m2!3d35.6921225!4d139.7010791!16s%2Fg%2F11bwgwh047?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Aoba and her colleagues gather at this busy Shinjuku plaza in Episode 12, a recognizable landmark that serves as a meeting point during the season's climactic moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ378u1R-CImAR4EXtS5zAwM4",
+      "name": "Makuhari Messe",
+      "localName": "幕張メッセ",
+      "coordinates": {
+        "lat": 35.6476973,
+        "lng": 140.0355251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce5a2702-2bf6-4e5f-92c7-211ce9ae16d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce5a2702-2bf6-4e5f-92c7-211ce9ae16d1.webp"
+        },
+        {
+          "url": "media/cached-image_13804c76075cfd0978147763833ac1ef62fc6eb04ed429e4b6cd00a0c4ead876.jpg"
+        }
+      ],
+      "type": "イベント会場",
+      "categories": [
+        "イベント会場"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-1 Nakase, Mihama Ward, Chiba, 261-8550, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6476973,140.0355251,2a,75y,219.07h,95.23t/data=!3m6!1e1!3m4!1szs_9oz8KnqCBoZ5B0ptmYw!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Eagle Jump team attends a large game industry convention held at this venue in Episode 11, mirroring real-world Tokyo Game Show events and marking a proud milestone for Aoba and the staff.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_new-game_6",
+      "name": "Keith's English Lessons",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.67244,
+        "lng": 139.53418
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a9a8c24-1b8c-406e-99fb-d91e56f98daf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a9a8c24-1b8c-406e-99fb-d91e56f98daf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6723675,139.5342576,3a,90y,145.31h,82.81t/data=!3m8!1e1!3m6!1sAF1QipOtX-Ktdv4z7W4-qc58KPeD5Oi5AvrhYpadgO3K!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOtX-Ktdv4z7W4-qc58KPeD5Oi5AvrhYpadgO3K%3Dw900-h600-k-no-pi7.1917352514214485-ya343.75083897761897-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Aoba attends English lessons at this small school in Episode 3 as part of her self-improvement efforts early in her career, showing her earnest dedication even outside work hours."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_new-game_7",
+      "name": "Panda Coffee",
+      "localName": "ぱんだ珈琲店",
+      "coordinates": {
+        "lat": 35.70204,
+        "lng": 139.63602
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7dd4795-e3a6-4c81-8fe4-223fa647889e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7dd4795-e3a6-4c81-8fe4-223fa647889e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7020763,139.6361284,3a,90y,242.69h,97.69t/data=!3m7!1e1!3m5!1s0XmPtGV8sJQ-4KjxT2HywA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.68818651554615%26panoid%3D0XmPtGV8sJQ-4KjxT2HywA%26yaw%3D242.69336078940506!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This charming neighborhood coffee shop near Asagaya appears in Episode 4 as a spot where characters relax and chat outside the office, reflecting the cozy local atmosphere of the Suginami area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq3HTrkbzGGARwS7_3GvepCU",
+      "name": "kiihi（キイヒ）",
+      "localName": "キイヒ",
+      "coordinates": {
+        "lat": 35.7019677,
+        "lng": 139.6362566
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0fe43ef-66bb-4289-946e-70fd49d17f96.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0fe43ef-66bb-4289-946e-70fd49d17f96.webp"
+        },
+        {
+          "url": "media/cached-image_59fc82c6838390139d3c09f6c2ad23e1e959bff44effbf26d29cc2df603c5634.jpg"
+        },
+        {
+          "url": "media/cached-image_7b6fba3e91428874d0aae49992b2e6726ac604cc428f42577277d8a8814554eb.jpg"
+        },
+        {
+          "url": "media/cached-image_861d31408a913e555616e44acb885d780cd2f6522cd87c1e2a4aa622b6567f60.jpg"
+        }
+      ],
+      "type": "美容院",
+      "categories": [
+        "美容院"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0004 Tokyo, Suginami City, Asagayaminami, 1 Chome−35−23 第一横川ビル 402 kiihi（キイヒ）",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.70202,139.6362231,3a,90y,267.87h,100.12t/data=!3m7!1e1!3m5!1sAF4dj5wyDAXj4D0R2eoB2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.117986525108748%26panoid%3DAF4dj5wyDAXj4D0R2eoB2w%26yaw%3D267.86784404116287!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Aoba visits this Asagaya hair salon in Episode 4, a slice-of-life moment that grounds the series in the everyday neighborhood life of its young protagonist."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_Ra7dnHyGGAR1Ky2rgbD1c4",
+      "name": "Lawson Suginami ward office-mae store",
+      "localName": "ローソン 杉並区役所前店",
+      "coordinates": {
+        "lat": 35.7004459,
+        "lng": 139.6359268
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a4e01082-6232-49fc-8f5b-a7c7cd09a9bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a4e01082-6232-49fc-8f5b-a7c7cd09a9bf.webp"
+        },
+        {
+          "url": "media/cached-image_aa5b03d95de543243db3093d3253fbab0577e3e1a5b523532f1e74ba615719ce.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson, 1 Chome-16-7 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6999781,139.6357482,3a,75.1y,35.84h,96.93t/data=!3m7!1e1!3m5!1sGrKEv5it4taJBX2Bs8sNCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.931633517876847%26panoid%3DGrKEv5it4taJBX2Bs8sNCw%26yaw%3D35.83862303565537!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This convenience store near Eagle Jump's Asagaya office appears in Episode 5 as a quick stop for the characters, typical of the series' warm depiction of daily working-life routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-4VkGM_zGGARf9iySThrN7s",
+      "name": "Patisserie Harmonica",
+      "localName": "パティスリー ハーモニカ",
+      "coordinates": {
+        "lat": 35.6989133,
+        "lng": 139.6373003
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1112eaac-8206-499a-90c3-c077aa0ad670.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1112eaac-8206-499a-90c3-c077aa0ad670.webp"
+        },
+        {
+          "url": "media/cached-image_6c1d42367c6c0c1b2e2ecd8bf5dba03fc22d28b139a4be9b2092a803c6f33680.jpg"
+        }
+      ],
+      "type": "Pastry shop",
+      "categories": [
+        "Pastry shop"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Patisserie Harmonica, 1 Chome-12-3 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6989317,139.6371887,3a,90y,271.46h,105.05t/data=!3m7!1e1!3m5!1smZQfgQIA3k-ngDTu-o7EUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.050149727403351%26panoid%3DmZQfgQIA3k-ngDTu-o7EUA%26yaw%3D271.45887902470156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Asagaya pastry shop is featured in Episode 5 as a local treat destination for the characters, and fans visit it to pick up the same sweets the staff enjoys in the show."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6pqW9uMGGARk5rRKGiiF4c",
+      "name": "Shinjuku Marui Annex",
+      "localName": "新宿マルイ アネックス",
+      "coordinates": {
+        "lat": 35.6901053,
+        "lng": 139.7058564
+      },
+      "image": "https://cdn.animepilgrimage.com/places/854f9060-6505-4c3b-8a80-6939a7898cc8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/854f9060-6505-4c3b-8a80-6939a7898cc8.webp"
+        },
+        {
+          "url": "media/cached-image_23308a8d6fe01480ff99fa722d0a91cf3d9598ac145ab86071c37241e92a7cfe.jpg"
+        },
+        {
+          "url": "media/cached-image_992933a14300aad3c51d31da6a7fd58bb2a937121128e9d60ce5b88a1e70fdc8.jpg"
+        },
+        {
+          "url": "media/cached-image_64f064abc971e643cf951437882df20bceccececf9bbaec2ac8496890a894f24.jpg"
+        },
+        {
+          "url": "media/cached-image_f52a95cb6b82aff456f060d3188def69cbd82e5f13860e9fd9a82a0df377854c.jpg"
+        },
+        {
+          "url": "media/cached-image_e3ea0c7af9fd32d3f680663b8e49d2b48657e280743a88a218dc3791cec83f12.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1949,
+      "priceLevel": null,
+      "address": "Shinjuku Marui - Annex, 3 Chome-1-26 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.689886,139.7057447,3a,75y,73.69h,95.44t/data=!3m7!1e1!3m5!1syX5uzmZMpDxIlc04r-kwpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.4351866081300955%26panoid%3DyX5uzmZMpDxIlc04r-kwpQ%26yaw%3D73.6865464030446!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Characters visit this Shinjuku shopping complex in Episode 6 during an outing, the building's distinctive facade appearing in background shots of the busy east Shinjuku district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSZWNWtuMGGARreT4_9UTBzg",
+      "name": "Shinjuku Wald 9",
+      "localName": "新宿バルト9",
+      "coordinates": {
+        "lat": 35.6901053,
+        "lng": 139.7058564
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c04587a2-a44d-4e61-8841-c4ee58ae990d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c04587a2-a44d-4e61-8841-c4ee58ae990d.webp"
+        },
+        {
+          "url": "media/cached-image_01a96bb8ca4ec9703ec9a74e8685080a68a375cd70c6dde548a4dd34e32e256c.jpg"
+        },
+        {
+          "url": "media/cached-image_241c382e62c1c12b67f50cd6ef57dc764b91bf0a623f237117833b79a96dcd48.jpg"
+        }
+      ],
+      "type": "Movie theater",
+      "categories": [
+        "Movie theater"
+      ],
+      "rating": 4.1,
+      "reviewCount": 61,
+      "priceLevel": null,
+      "address": "Shinjuku Wald 9, 三丁目イーストビル ９階 3 Chome-1-26 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Shinjuku+Wald+9/@35.6900184,139.7059409,3a,90y,332.41h,93.51t/data=!3m8!1e1!3m6!1sAF1QipPq3H8kObouBYXB06VXPJ_c34kEyqW_QSarfIYY!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPq3H8kObouBYXB06VXPJ_c34kEyqW_QSarfIYY%3Dw900-h600-k-no-pi-3.507541434408566-ya332.40807087286765-ro0-fo100!7i9588!8i4794!4m9!3m8!1s0x60188cdb5a8d9549:0x380713d5fff8e4ad!8m2!3d35.6901053!4d139.7058564!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F12yygnz42?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Aoba and colleagues watch a movie at this Shinjuku multiplex in Episode 6, a fun group outing scene that shows the team enjoying leisure time together after a hard stretch of development work."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKX4sE7HxGGARIyeDoQa3zQg",
+      "name": "Tsutsujigaoka Station",
+      "localName": "つつじヶ丘駅",
+      "coordinates": {
+        "lat": 35.6581118,
+        "lng": 139.5753087
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f7b1dfda-0929-4850-9e1f-126539fa0d4e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f7b1dfda-0929-4850-9e1f-126539fa0d4e.webp"
+        },
+        {
+          "url": "media/cached-image_58134833eb7c4ab49a1980a33b0957736a2e7ab69139c22be6942369c92b9890.jpg"
+        },
+        {
+          "url": "media/cached-image_5077a200ab0376b99feb5ebbf9b7acd08b8bd57948f86cebc43e411d918541cd.jpg"
+        },
+        {
+          "url": "media/cached-image_4dcac544b27ce970a820ea6413326258e27b010c6a246917057bc61f9a3500f8.jpg"
+        },
+        {
+          "url": "media/cached-image_055d10ca1eed1ebb7f66543d95a027c710ab1cb9cebc28bb42a6865937dec3f1.jpg"
+        },
+        {
+          "url": "media/cached-image_e5c203f9cf4c09a125c34724d404a3f2b36ccaad912694c3d6ad9576db011d4e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": 264,
+      "priceLevel": null,
+      "address": "Tsutsujigaoka Station, 3 Chome-35-1 Nishitsutsujigaoka, Chofu, Tokyo 182-0006, Japan",
+      "city": "Chofu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6580962,139.5752644,2a,90y,277.1h,92.49t/data=!3m7!1e1!3m5!1s0Stq26Jkqy6cK2A-oJXVmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4861388626569862%26panoid%3D0Stq26Jkqy6cK2A-oJXVmw%26yaw%3D277.1007608898439!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Aoba passes through this Keio line station in Episode 3 during her daily commute, part of the anime's careful recreation of the real suburban train route she takes to reach Eagle Jump's office."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY6xAdNrzGGARrQjc7bB-CxA",
+      "name": "Anytime Fitness Asagayaminami",
+      "localName": "エニタイムフィットネス 阿佐谷南店",
+      "coordinates": {
+        "lat": 35.6987769,
+        "lng": 139.6380212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9b1cf0a-e2eb-4d5f-89d5-4d66fbbffa38.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9b1cf0a-e2eb-4d5f-89d5-4d66fbbffa38.webp"
+        },
+        {
+          "url": "media/cached-image_25b42e7e059b3d84bc9acb315d83f437c48863014837db5001d26f4deb507c27.jpg"
+        }
+      ],
+      "type": "Gym",
+      "categories": [
+        "Gym"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anytime Fitness Asagayaminami, ニューアド社ビル １F, 1 Chome-11-1 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.698623,139.6379995,3a,75y,351.47h,92.52t/data=!3m7!1e1!3m5!1sCelpNAlJ8e5uquUljw8q4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.521073288960821%26panoid%3DCelpNAlJ8e5uquUljw8q4w%26yaw%3D351.46748994320694!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This gym near Asagaya appears in the background of Episode 1 street scenes as Aoba walks to work on her first day, one of many real Suginami landmarks that establish the show's grounded local setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_new-game_15",
+      "name": "Tsutsui Fabric Store",
+      "localName": "ツツヰ生地店",
+      "coordinates": {
+        "lat": 35.6995,
+        "lng": 139.63778
+      },
+      "image": "https://cdn.animepilgrimage.com/places/846acc8a-ec3c-4496-be61-46cc74325dc5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/846acc8a-ec3c-4496-be61-46cc74325dc5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6995071,139.6377773,3a,90y,145.86h,93.36t/data=!3m7!1e1!3m5!1siYeVhIHXIV44TUiMJ4wRcg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3575612095439595%26panoid%3DiYeVhIHXIV44TUiMJ4wRcg%26yaw%3D145.8552461808872!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This local fabric and sundry shop near Asagaya appears in Episode 1 background scenes, one of several real storefronts along Aoba's commute route that fans hunt down on pilgrimage walks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd_ue23byGGARby2Jlo6cwPw",
+      "name": "7 day's Asagaya",
+      "localName": "セブンデイズ 阿佐ヶ谷店",
+      "coordinates": {
+        "lat": 35.7037676,
+        "lng": 139.63709169999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/529fcaf1-6a38-41c9-bc40-edc9642f1162.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/529fcaf1-6a38-41c9-bc40-edc9642f1162.webp"
+        },
+        {
+          "url": "media/cached-image_c2c3f838597ba13ebe31a9075a6992d1b9ff0ab079b509aafb03bf3c77175926.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "7 day's Asagaya, 1 Chome-47 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7037126,139.6369641,3a,75y,40.72h,107.89t/data=!3m7!1e1!3m5!1s5SjHIT2I0S1XpyX6Y7alQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.892575037962587%26panoid%3D5SjHIT2I0S1XpyX6Y7alQQ%26yaw%3D40.71576364501124!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Asagaya clothing shop is spotted in Episode 2 street scenes, part of the anime's faithful recreation of the Pearl Center shopping arcade area that Aoba passes through near her home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB93CMz_zGGARXK1jukLg8oA",
+      "name": "2nd Street Asagaya",
+      "localName": "セカンドストリート阿佐ヶ谷店",
+      "coordinates": {
+        "lat": 35.7038562,
+        "lng": 139.6367487
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bfa96b35-f3d3-4c2f-b379-8608a348fb83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bfa96b35-f3d3-4c2f-b379-8608a348fb83.webp"
+        },
+        {
+          "url": "media/cached-image_690acc25fb4c0c26f357e669f660ed547b3ee38d87869b48f6f805912319d193.jpg"
+        }
+      ],
+      "type": "Used clothing store",
+      "categories": [
+        "Used clothing store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0004 Tokyo, Suginami City, Asagayaminami, 1 Chome−48−13 横川ビル 2nd Street Asagaya, 2号館 B1F、1F",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7038039,139.636948,3a,75y,6.23h,111.35t/data=!3m7!1e1!3m5!1syfvwJYuJ79uN0xoBsyyWRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.352627586611803%26panoid%3DyfvwJYuJ79uN0xoBsyyWRg%26yaw%3D6.2260612897251235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This secondhand clothing store on the Asagaya Pearl Center arcade features in Episode 2, its distinctive shopfront one of the background details fans spot when retracing Aoba's neighborhood walks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpxQTr33yGGAR1L3fiqt9iFU",
+      "name": "バー私 「Bar WATASHI」",
+      "localName": "BAR私",
+      "coordinates": {
+        "lat": 35.705466699999995,
+        "lng": 139.6483041
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1ec85bbb-11e7-4ca4-91e9-70fcdc3880c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1ec85bbb-11e7-4ca4-91e9-70fcdc3880c4.webp"
+        },
+        {
+          "url": "media/cached-image_ba5220b1c7203aacc25801ae53979026a711b7813935700897c3b3c8c9fca33b.jpg"
+        },
+        {
+          "url": "media/cached-image_ce7c9ef4dbc8344d3f6ff0d8507c430caec086d21a4df43863d34aa6b1a94f9c.jpg"
+        },
+        {
+          "url": "media/cached-image_fd3f4d0eedd7a1941d6f00f4c918cb5b041cecb0c58163b777a85392b907380a.jpg"
+        },
+        {
+          "url": "media/cached-image_05adc896c66ddb333586f74522fcb47c0fa2920b34f85b897fe0d3037fb10058.jpg"
+        }
+      ],
+      "type": "バー",
+      "categories": [
+        "バー"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "バー私 「Bar WATASHI」, 3 Chome-2-1 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.705438,139.6483097,3a,75y,346.77h,91.21t/data=!3m7!1e1!3m5!1sx0w8kaxfqAHG6kkMUTZ6gg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2111244764797107%26panoid%3Dx0w8kaxfqAHG6kkMUTZ6gg%26yaw%3D346.7709162985978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Rin Toyama and senior colleagues visit this cozy Koenji bar in Episode 2 after work, a scene that illustrates the adult social life of the older Eagle Jump staff and contrasts with Aoba's newbie excitement."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkwosfyXzGGARmvSqqD5eqZg",
+      "name": "My Basket Asagaya Ekiminami Shop",
+      "localName": "まいばすけっと 阿佐ケ谷駅南店",
+      "coordinates": {
+        "lat": 35.703745,
+        "lng": 139.6363553
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3bd03ce7-e024-47b1-80af-c7db7aa6820c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3bd03ce7-e024-47b1-80af-c7db7aa6820c.webp"
+        },
+        {
+          "url": "media/cached-image_dce56d13de2caa988c100a026ea04394df5e6d8dee5dd21b1bd62af8160c4315.jpg"
+        },
+        {
+          "url": "media/cached-image_c1a74d4317de23588b34d0b187674addedd2b23b94447a8d83601116dafb86d3.jpg"
+        },
+        {
+          "url": "media/cached-image_20fc7a6fc9660fe1b8c7453524e2768d22830b1efc55d9023ab5fcd9478bd135.jpg"
+        },
+        {
+          "url": "media/cached-image_7d6b903f6ec83ebd35765b9e5277d573bee8025c071f20ec9cdedc6f59b702e8.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.5,
+      "reviewCount": 84,
+      "priceLevel": null,
+      "address": "My Basket Asagaya Ekiminami Shop, ＭＳＡビル B1 3 Chome-35-19 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7038224,139.6365539,3a,75y,329.68h,92.17t/data=!3m7!1e1!3m5!1sPimehIEVqexcl7184Y9LVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.172976416853004%26panoid%3DPimehIEVqexcl7184Y9LVg%26yaw%3D329.6776373256712!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small Asagaya supermarket appears in Episode 3 as part of the everyday neighborhood scenery Aoba moves through, grounding the series' slice-of-life feel in a real and recognizable local shop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_new-game_20",
+      "name": "Hosoda Corporation",
+      "localName": "株式会社細田工務店",
+      "coordinates": {
+        "lat": 35.70331,
+        "lng": 139.63635
+      },
+      "image": "https://cdn.animepilgrimage.com/places/73d1a3b2-cd13-44e4-857d-55429f40ec09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/73d1a3b2-cd13-44e4-857d-55429f40ec09.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7031553,139.6363894,3a,36.4y,344.13h,93.57t/data=!3m7!1e1!3m5!1seD7DE9NQwgVM-dByq4xp-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.570273799085598%26panoid%3DeD7DE9NQwgVM-dByq4xp-Q%26yaw%3D344.12529209008875!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The exterior of this Asagaya building appears as background scenery in Episode 3 street scenes, one of the many real local structures the production team incorporated to authentically recreate the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxxQPBdaGGGAROcUa-ZrpIP8",
+      "name": "Ichikawa Ryuseido",
+      "localName": "市川市",
+      "coordinates": {
+        "lat": 35.7135721,
+        "lng": 139.9279808
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6df42455-ce57-4681-97af-e303f20b2e8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6df42455-ce57-4681-97af-e303f20b2e8d.webp"
+        },
+        {
+          "url": "media/cached-image_d0135b3339e840a85abdaeee4a10db06853dfd4b3360636609ee73ea3f7fc609.jpg"
+        },
+        {
+          "url": "media/cached-image_59bbc5ca137275f40988d371dbb67bdf6c9e08b41ed384b1e97da2e6b2e80b12.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ichikawa, Chiba, Japan",
+      "city": "Ichikawa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7026411,139.636193,3a,75y,4.28h,92.98t/data=!3m7!1e1!3m5!1sV1gtuyNbcD9wVQ4694a1AQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9805238981244457%26panoid%3DV1gtuyNbcD9wVQ4694a1AQ%26yaw%3D4.275565246296113!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRX9xoF6NGGAR3wJuQl662t8",
+      "name": "à la campagne Asagaya Store",
+      "localName": "ア・ラ・カンパーニュ東武池袋店",
+      "coordinates": {
+        "lat": 35.7302986,
+        "lng": 139.7102329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/75915742-deec-4f6e-aac5-0c4c02a4363e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/75915742-deec-4f6e-aac5-0c4c02a4363e.webp"
+        },
+        {
+          "url": "media/cached-image_c4d47589e67a3262218c84a79d10d5d4c87eef2f70648b99e6b566ce5a829526.jpg"
+        }
+      ],
+      "type": "Patisserie",
+      "categories": [
+        "Patisserie"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "A La Campagne Ikebukuro, 東武百貨店池袋店 Ｂ１Ｆ 1 Chome-1-25 Nishiikebukuro, Toshima City, Tokyo 171-8512, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7022398,139.6361687,3a,75y,334.69h,96.13t/data=!3m7!1e1!3m5!1sOGBIIhA-_wHS5mfiCJIDjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1318545380790965%26panoid%3DOGBIIhA-_wHS5mfiCJIDjQ%26yaw%3D334.68562014844144!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This well-known patisserie chain location appears in Episode 3 as a sweets shop the characters pass or visit, its real-world storefront matching the background art that fans cross-reference on pilgrimage trips."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_new-game_23",
+      "name": "Tanaka Sangyo",
+      "localName": "タナカ産業",
+      "coordinates": {
+        "lat": 35.70083,
+        "lng": 139.63575
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c814494-97b0-424c-84dd-944f8e5ff2b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c814494-97b0-424c-84dd-944f8e5ff2b7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7009142,139.6358527,3a,75y,224.94h,96.35t/data=!3m7!1e1!3m5!1s2seBXJcxuFCYiaqx-RACNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.347275647590436%26panoid%3D2seBXJcxuFCYiaqx-RACNw%26yaw%3D224.93584996500246!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small Asagaya business appears in the background of Episode 3 street scenes, one of the granular local details the NEW GAME! production team used to accurately depict the Suginami neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRXvrQ9GMGGARyODnOaYXrVQ",
+      "name": "Yodobashi Camera Shinjuku Nishiguchi Hobby & Toy Pavilion",
+      "localName": "ヨドバシカメラ［新宿西口本店］ホビー･おもちゃ館",
+      "coordinates": {
+        "lat": 35.6897182,
+        "lng": 139.6973995
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9aec1227-531b-4851-8e99-fbb169321b31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9aec1227-531b-4851-8e99-fbb169321b31.webp"
+        },
+        {
+          "url": "media/cached-image_d66ad7afa061d84f1ca01e89c1b394c00f27a77e4ab44718e197002ff0ac710f.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yodobashi Camera Shinjuku Nishiguchi Hobby & Toy Pavilion, 1 Chome-12-3 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.689839,139.6975045,3a,75y,345.95h,105.59t/data=!3m7!1e1!3m5!1sqqbjdywlR_Y1BTsTQTwMHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.59304530686319%26panoid%3DqqbjdywlR_Y1BTsTQTwMHg%26yaw%3D345.94562264272236!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This hobby and toy annex of Yodobashi Camera near Shinjuku station appears in Episode 12, where characters browse figures and games, connecting the finale's plot to the gamer culture the team celebrates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrZPAHBGMGGAR3vwzAn7neFc",
+      "name": "Tea House Takano",
+      "localName": "Tea House TAKANO",
+      "coordinates": {
+        "lat": 35.6954395,
+        "lng": 139.759882
+      },
+      "image": null,
+      "images": [],
+      "type": "Tea house",
+      "categories": [
+        "Tea house"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tea House Takano, 寿ビルディング 地下1階 1 Chome-3 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6668153,139.7742233,3a,75y,203.75h,95.5t/data=!3m7!1e1!3m5!1siknhpVyJt4JS2cAMMRyPpw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.496690784423819%26panoid%3DiknhpVyJt4JS2cAMMRyPpw%26yaw%3D203.74644407589133!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Characters share tea and conversation at this elegant Jimbocho tea house in Episode 7, a quiet character moment that shows the more refined side of the Eagle Jump staff's social gatherings."
+    }
+  ]
+}

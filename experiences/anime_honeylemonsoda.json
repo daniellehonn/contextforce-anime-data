@@ -1,0 +1,917 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Honey Lemon Soda",
+  "slug": "honey-lemon-soda",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_cfb8837ed02c19c67ca9fe7473dd8b029a9721960675b80204853f7b499d511f.webp",
+  "image": "media/cached-image_cfb8837ed02c19c67ca9fe7473dd8b029a9721960675b80204853f7b499d511f.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.636765708333336,
+    "lng": 139.68314502499996
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Honey Lemon Soda"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJU5TurauMGGARRMehC02l2Z0",
+      "name": "Times Shoto #2",
+      "localName": "タイムズ松濤第２",
+      "coordinates": {
+        "lat": 35.659456,
+        "lng": 139.693683
+      },
+      "image": "https://cdn.animepilgrimage.com/places/01bafa31-b56c-4aa6-b054-f42952b8dd3f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/01bafa31-b56c-4aa6-b054-f42952b8dd3f.webp"
+        },
+        {
+          "url": "media/cached-image_8380205b46d03dcab86b2ecd05ed20455d183d7f540de6014e19ceaa06d77cfa.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Times Shōto #2, Parking lot, 1 Chome-27-27 Shoto, Shibuya, Tokyo 150-0046, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6593261,139.693901,3a,90y,1h,98.56t/data=!3m7!1e1!3m5!1sb6lr-QsqVkBBN_v05eqbdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.555102186398045%26panoid%3Db6lr-QsqVkBBN_v05eqbdA%26yaw%3D1.0024845895657108!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This parking lot near Shoto appears in episode 12 as a backdrop for a pivotal late-night scene where Uka and Kai's relationship reaches a turning point after a long, emotional day together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOS60DpqMGGARWFIchIVAF1o",
+      "name": "Meiji Jingu Baseball Stadium",
+      "localName": "明治神宮野球場",
+      "coordinates": {
+        "lat": 35.6744316,
+        "lng": 139.7170391
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9e2ac79-5a2d-48bd-9c42-0269a4cdcccc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9e2ac79-5a2d-48bd-9c42-0269a4cdcccc.webp"
+        },
+        {
+          "url": "media/cached-image_0411437aeea7481d9a9427f37e4db79e3fce44dc818bd45534da5a0e3eb5cbaf.jpg"
+        },
+        {
+          "url": "media/cached-image_8da7090afead4e78f0ff5dbf7b7c35eee04770c1e527343fe601cf4ea19f6862.jpg"
+        },
+        {
+          "url": "media/cached-image_d0eff23e36c26b6803b9b01b78d6c47bb4f5acd6b588eec75efb3575badb6686.jpg"
+        },
+        {
+          "url": "media/cached-image_da8cdd4fa0d4734de2e09e9514121ce6dc6e9d2e56e4d481fad00f4b90b088b0.jpg"
+        },
+        {
+          "url": "media/cached-image_3037e6621524e07a7a82a0c574ffe6220ad0228fd0dcac77cd8cc9973b97f136.jpg"
+        }
+      ],
+      "type": "Baseball field",
+      "categories": [
+        "Baseball field"
+      ],
+      "rating": 4.3,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Meiji Jingu Baseball Stadium, 3-1 Kasumigaokamachi, Shinjuku City, Tokyo 160-0013, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6735279,139.7162353,3a,90y,252.9h,98.64t/data=!3m7!1e1!3m5!1sz8zeTpHG61I_ga_9cxfdFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.636448254747009%26panoid%3Dz8zeTpHG61I_ga_9cxfdFw%26yaw%3D252.9019508318897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "In episode 7, Kai and his friends attend a baseball game at Jingu Stadium, and Uka joins them in the stands, marking one of the first times she begins to feel at ease within his circle.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_honey-lemon-soda_2",
+      "name": "Le RESTAURANT",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.30821,
+        "lng": 139.48872
+      },
+      "image": "https://cdn.animepilgrimage.com/places/444d5522-e851-444a-8b07-471de532c6ab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/444d5522-e851-444a-8b07-471de532c6ab.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3080049,139.4888048,2a,90y,4.38h,98.44t/data=!3m7!1e1!3m5!1sL2rWnPGBM4enk-gA-7-1VQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.442323443493791%26panoid%3DL2rWnPGBM4enk-gA-7-1VQ%26yaw%3D4.384246305097349!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Shonan-area restaurant appears in episode 8 during the beach day arc, where the group stops for a meal and Uka experiences a rare moment of comfort and belonging with Kai's friends."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO_Ej9qOMGGAREeo7o-ATPlE",
+      "name": "LANVIN Collection Omotesando",
+      "localName": "ランバン コレクション 表参道店(LANVIN COLLECTION OMOTESANDOU)旧 ランバンオンブルー",
+      "coordinates": {
+        "lat": 35.6674437,
+        "lng": 139.7065131
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1bdc89ad-a934-43af-b725-d58b90d0e630.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1bdc89ad-a934-43af-b725-d58b90d0e630.webp"
+        },
+        {
+          "url": "media/cached-image_ec107fd613e9960073aca26b8a3c08d724e7aa9954d9381d8eaf7b1e378856b9.jpg"
+        }
+      ],
+      "type": "Boutique",
+      "categories": [
+        "Boutique"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "LANVIN Collection Omotesando, 6 Chome-1-3 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6673868,139.706558,3a,75y,64.05h,97.77t/data=!3m7!1e1!3m5!1sxqR9UWcm1Q6gGWpzvjtb7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.773850730548659%26panoid%3DxqR9UWcm1Q6gGWpzvjtb7w%26yaw%3D64.05237370493488!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "In episode 8, this Omotesando boutique serves as a backdrop for the group's shopping outing, where Kai notices Uka admiring clothes she would never ordinarily buy for herself."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ17kZCKOMGGAR0ANFBM3oK0Y",
+      "name": "Cat Street",
+      "localName": "Cat St",
+      "coordinates": {
+        "lat": 35.6670292,
+        "lng": 139.7063518
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e26c873-1b60-4822-a0dd-0ca1b4628a53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e26c873-1b60-4822-a0dd-0ca1b4628a53.webp"
+        },
+        {
+          "url": "media/cached-image_3e8df9b505b081dc380e575459d8b3864247ce24086ab308dd01c2a0c43e2a5f.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Cat St, Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6670074,139.7063317,3a,75y,357.29h,94.55t/data=!3m7!1e1!3m5!1skqHgLT6kD6PGw37SsR_9Dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.550777519725699%26panoid%3DkqHgLT6kD6PGw37SsR_9Dw%26yaw%3D357.2853468576167!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Cat Street in Shibuya appears in episode 8 as the group strolls through the neighborhood together, and Uka begins opening up as Kai walks close beside her through the relaxed backstreet atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzyIFf-6NGGAR0teHQ3ueyio",
+      "name": "GU Shibuya",
+      "localName": "ジーユー 渋谷店",
+      "coordinates": {
+        "lat": 35.660986099999995,
+        "lng": 139.697567
+      },
+      "image": "https://cdn.animepilgrimage.com/places/874ddfdf-4b22-4ce9-9f0e-f46b31f74eeb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/874ddfdf-4b22-4ce9-9f0e-f46b31f74eeb.webp"
+        },
+        {
+          "url": "media/cached-image_937dfc18ded19bdc4301dc9b77d8ed9b396678e7a3bc9841009fa8e7610ef121.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "GU Shibuya, B1F-3F 32-13 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6610369,139.6979133,3a,90y,295.36h,99.87t/data=!3m7!1e1!3m5!1s_t97bJ6Thw1cY-NtbAq_MQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.868525884659121%26panoid%3D_t97bJ6Thw1cY-NtbAq_MQ%26yaw%3D295.36314031836105!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The GU Shibuya store is featured in episode 9 when Uka shops for new clothes as part of her gradual transformation in confidence, encouraged by Kai's offhand compliments about her style."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC6wM-tiNGGAR-fndQvGyxFY",
+      "name": "VANS STORE HARAJUKU",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.667736399999995,
+        "lng": 139.7050741
+      },
+      "image": "https://cdn.animepilgrimage.com/places/56079d3e-a595-4dc0-846e-96f1a4a02c52.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/56079d3e-a595-4dc0-846e-96f1a4a02c52.webp"
+        },
+        {
+          "url": "media/cached-image_26c448c0d75ddae202b795dfc6c8709b650a43783da93f88899fb34ead58a9d7.jpg"
+        }
+      ],
+      "type": "Shoe store",
+      "categories": [
+        "Shoe store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "VANS STORE HARAJUKU, 6 Chome-10-13 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6678518,139.7049671,3a,75y,156.08h,92.28t/data=!3m7!1e1!3m5!1scjZQ9CLngKA2KIJ7Dc6NDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.283067861359413%26panoid%3DcjZQ9CLngKA2KIJ7Dc6NDA%26yaw%3D156.07904818741085!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In episode 10, Kai is seen near the VANS Harajuku store during a Harajuku outing with Uka, a scene that highlights his effortlessly stylish presence and how it influences Uka's own self-image."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeWbcSaaMGGARWT44Q4-WR-g",
+      "name": "FamilyMart Shibuya Cat Street Store",
+      "localName": "ファミリーマート 渋谷キャットストリート店",
+      "coordinates": {
+        "lat": 35.663206699999996,
+        "lng": 139.70267579999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a56073ef-0a31-4ace-98e7-09d5f67adc84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a56073ef-0a31-4ace-98e7-09d5f67adc84.webp"
+        },
+        {
+          "url": "media/cached-image_558e45748e3cdfe893caa296e1fab7fda257eace7ad16ed5db5b46c5bb987838.jpg"
+        },
+        {
+          "url": "media/cached-image_83f4075bbf512fc366e7a73cf8ce5ab0193eddedf42d568e01841bf28c2e6d59.jpg"
+        },
+        {
+          "url": "media/cached-image_56486b57dc8700e36048002533cce87dc95d0dadf769d814c2de8d6daf7ff7e5.jpg"
+        },
+        {
+          "url": "media/cached-image_11ac9389733568db2ef2cbafaaa4b8aadf03988ef77f6774225c20b9d505b311.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 第２東邦ビル 1 Chome-22-10 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6630948,139.7025082,3a,75y,325.16h,93.6t/data=!3m7!1e1!3m5!1sTPVvIdHJZxGXfQSKyu_Lbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6006426918295915%26panoid%3DTPVvIdHJZxGXfQSKyu_Lbg%26yaw%3D325.1594201665473!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This convenience store on Cat Street appears in episode 10 as a casual stop during the group's Harajuku and Shibuya outing, capturing the relaxed, everyday moments that bring Uka and Kai closer."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_honey-lemon-soda_8",
+      "name": "Undefeated",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66414,
+        "lng": 139.7029
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ccde187-2a89-424e-a4a6-c849efa3ace1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ccde187-2a89-424e-a4a6-c849efa3ace1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6641261,139.7028992,3a,75y,41.95h,101.63t/data=!3m7!1e1!3m5!1sqAxkPb5TQSdxiTxQZB5YCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.631068080910339%26panoid%3DqAxkPb5TQSdxiTxQZB5YCg%26yaw%3D41.952847633380635!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Undefeated streetwear shop in Harajuku appears in episode 10 as part of Kai's world, giving Uka a window into the youth street-culture scene she had previously felt too withdrawn to approach."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS8rj5bCNGGAR0UKgjv-0jf0",
+      "name": "Kith -Tokyo",
+      "localName": "KITH TOKYO",
+      "coordinates": {
+        "lat": 35.662959,
+        "lng": 139.70198059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f420cec0-18c9-4b21-8e65-2ad925bdc302.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f420cec0-18c9-4b21-8e65-2ad925bdc302.webp"
+        },
+        {
+          "url": "media/cached-image_deae70dd1c32339fe059a68c84901dc8511851988748da9f884f9cfe9deb7b43.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kith -Tokyo, 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.662941,139.7020861,3a,90y,270.74h,90.56t/data=!3m7!1e1!3m5!1suK8rmH8DYDXetmVRMWRRMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5558018371087456%26panoid%3DuK8rmH8DYDXetmVRMWRRMw%26yaw%3D270.7422658832856!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In episode 10, the KITH Tokyo store in Harajuku is one of the stops during the friend group's outing, underscoring the cool, fashion-forward Tokyo environment that frames Uka's social awakening."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi_eNH6qMGGARJKC7yncMW2w",
+      "name": "SHIBUYA Hyakkendana",
+      "localName": "しぶや百軒店",
+      "coordinates": {
+        "lat": 35.6588615,
+        "lng": 139.697183
+      },
+      "image": "https://cdn.animepilgrimage.com/places/46eb5afd-8711-4b6c-86f0-848e2dcc01ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/46eb5afd-8711-4b6c-86f0-848e2dcc01ec.webp"
+        },
+        {
+          "url": "media/cached-image_c2a8cd17a747c78fe8d76a8a50572cb6597bc72e082731a00c9fd9feb56dda35.jpg"
+        },
+        {
+          "url": "media/cached-image_f3c0f6a28b1bca3c9b2af0627477ec36f2e886ff22c37b35a94b65ab1526b9e0.jpg"
+        },
+        {
+          "url": "media/cached-image_7dd3fc74e596a1d4bee39d1e0ec3df504e29b84dc8681e08576093a5aa072a2a.jpg"
+        },
+        {
+          "url": "media/cached-image_8d3be185121a0b705b741e9d7642cd923125b92d10ccca35823c717d0ebae0e2.jpg"
+        },
+        {
+          "url": "media/cached-image_914ddd6ff047b6a44e8b71e64c64663f3821709795f8f584002cde7ce68ae997.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 3426,
+      "priceLevel": null,
+      "address": "SHIBUYA Hyakkendana, 2 Chome-18-16-2 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6587906,139.6972492,3a,90y,313.87h,138.16t/data=!3m7!1e1!3m5!1spQdcibRycfKI1zB-90wTrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-48.162481723705014%26panoid%3DpQdcibRycfKI1zB-90wTrg%26yaw%3D313.873040283014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Hyakkendana alleyway district in Shibuya appears in episode 11, where Uka and Kai walk through the narrow nighttime streets in a quiet, intimate moment away from the group."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo9BwwI_yGGARzEFspqeGj3Q",
+      "name": "Smoking area under the east-west connecting passageway at the north exit of Nakano Station",
+      "localName": "中野区",
+      "coordinates": {
+        "lat": 35.7075331,
+        "lng": 139.6637591
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_10dc5e338fb020fdb73cdb86a57b2386c24d85b6d2961645c250870609719232.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Nakano City, Tokyo, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7063145,139.6652921,2a,90y,358h,96.41t/data=!3m7!1e1!3m5!1sRlUOrfjuGB8YnIiBo7HeIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.414371265928565%26panoid%3DRlUOrfjuGB8YnIiBo7HeIw%26yaw%3D358.00156465148297!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This underpass area at Nakano Station's north exit is featured in episode 2 as the location where Uka has an early encounter that foreshadows the tension between Kai's public persona and private warmth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1agNS6iMGGARP_n0VMiiaQM",
+      "name": "Burger King Shibuya Center Street",
+      "localName": "バーガーキング 渋谷センター街店",
+      "coordinates": {
+        "lat": 35.66029,
+        "lng": 139.69888
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7992fc4c-668b-41ed-9595-e21ad2b856aa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7992fc4c-668b-41ed-9595-e21ad2b856aa.webp"
+        },
+        {
+          "url": "media/cached-image_0ca78a5865ff41cd662549dc86bf31ee32d2e473dde60d65054fdd1746f492d4.jpg"
+        }
+      ],
+      "type": "ファースト フード店",
+      "categories": [
+        "ファースト フード店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Center Bldg., 1F, 25-5 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.660308,139.6988385,3a,90y,85.87h,95.3t/data=!3m7!1e1!3m5!1splzBlwyMzpHH86fZyi9z6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.300850930336168%26panoid%3DplzBlwyMzpHH86fZyi9z6w%26yaw%3D85.87404708211834!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "In episode 11, Uka and friends stop at Burger King on Shibuya Center Street, a casual scene that shows how much more at ease Uka has become joining the group for ordinary outings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSXJEFqmMGGAR8ctb-YsQ_xM",
+      "name": "Hands Shibuya",
+      "localName": "ハンズ渋谷店",
+      "coordinates": {
+        "lat": 35.66219,
+        "lng": 139.69747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dfadf78d-256d-4b54-8ac2-852b322ad881.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dfadf78d-256d-4b54-8ac2-852b322ad881.webp"
+        },
+        {
+          "url": "media/cached-image_0e924dfd2a5624c348973f8834ec6f0fc270875a25fabd8c6274ca57eacf995e.jpg"
+        }
+      ],
+      "type": "雑貨店",
+      "categories": [
+        "雑貨店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "12-18 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6621184,139.6974002,3a,70.2y,51.95h,104.8t/data=!3m7!1e1!3m5!1sDN-S5Ry3XoXvNgJ3RZWv2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.80130569995164%26panoid%3DDN-S5Ry3XoXvNgJ3RZWv2A%26yaw%3D51.95138813620993!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Hands Shibuya appears in episode 7 during a group errand run, where Kai's attentiveness toward Uka in a crowded store setting quietly signals his growing feelings for her."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9fvGqKmMGGARMl8j1JuabWk",
+      "name": "Karaoke Kan Shibuya",
+      "localName": "カラオケ館 渋谷店",
+      "coordinates": {
+        "lat": 35.6609251,
+        "lng": 139.6981644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/03b31d49-a980-4fa9-b332-c5c391e1f67d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/03b31d49-a980-4fa9-b332-c5c391e1f67d.webp"
+        },
+        {
+          "url": "media/cached-image_d277f33d33331bf1e13914091dbd408a8c1ae225bd763df15918738d30eb5e26.jpg"
+        }
+      ],
+      "type": "カラオケ",
+      "categories": [
+        "カラオケ"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ビル K&F, 30-8 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6609251,139.6981644,3a,75y,84.29h,93.31t/data=!3m6!1e1!3m4!1sMpQml1lzJQgCjS6pdm_fGA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "In episode 9, Uka joins Kai and the group for karaoke at this Shibuya location, a scene fans highlight as the moment she finally lets her guard down and sings in front of others.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcyH-4qiMGGARGzk4lZCx2xo",
+      "name": "Shibuya PARCO",
+      "localName": "渋谷PARCO",
+      "coordinates": {
+        "lat": 35.6619145,
+        "lng": 139.6992841
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6ec6299-f2fb-4891-bce3-02ee80b452ac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6ec6299-f2fb-4891-bce3-02ee80b452ac.webp"
+        },
+        {
+          "url": "media/cached-image_485827495626a7fb43381e59644c53053ab6f7e143e6910ee7282a7af55ce791.jpg"
+        },
+        {
+          "url": "media/cached-image_ce2dfff15e93897ac361b47eb99efd61e98f2dc3971b9158d25bbf64fa8a7180.jpg"
+        },
+        {
+          "url": "media/cached-image_7ac21eb3aca02bedf538f4bbc8976ce9b5db4eaaebaab896410754c7c86e8b11.jpg"
+        },
+        {
+          "url": "media/cached-image_799b0a207db86a4488591773c9463604d863ff5b2f1963a008d5d960934a1040.jpg"
+        },
+        {
+          "url": "media/cached-image_5e23d1781f4fcc570f1f574c77858d77cb11b1284357bb0083c009c2efb791d2.jpg"
+        },
+        {
+          "url": "media/cached-image_69154ae0fba6820fae043e914979c4d9f8b1e02fc5fc392c00293c93eb4e59b1.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.3,
+      "reviewCount": 4345,
+      "priceLevel": null,
+      "address": "渋谷パルコ・ヒューリックビル B1-10階, 15-1 Udagawacho, Shibuya, Tokyo 150-8377",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6619145,139.6992841,3a,75y,356.39h,94.81t/data=!3m7!1e1!3m5!1sS7uQ6NGvSWgJXJLVKY8shA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DS7uQ6NGvSWgJXJLVKY8shA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D133.98666%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Shibuya PARCO features in episode 7 as a meeting point for Uka and Kai, with the building's distinctive facade visible in the background as their after-school relationship begins to deepen."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJURWUIuaNGGARvtlnJNz-AFQ",
+      "name": "Miyashita Park",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.6617783,
+        "lng": 139.7017902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e57906fe-a1e6-497a-8a92-a244159590e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e57906fe-a1e6-497a-8a92-a244159590e4.webp"
+        },
+        {
+          "url": "media/cached-image_02aee0a3ecf7f8d4f360a2b3a922d633c4d02e21eec3bd466717d5d8ec899766.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6617783,139.7017902,2a,75y,274.66h,90.78t/data=!3m6!1e1!3m4!1s_qZS3qaOjQvjiL6afIx2Wg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Miyashita Park appears in episode 6 as an outdoor setting where Kai and Uka spend time together above the bustle of Shibuya, and Uka takes her first tentative steps toward trusting him.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOS5PVv1OGGARdDB4RJHELHE",
+      "name": "Katase Higashihama Beach",
+      "localName": "片瀬東浜海水浴場",
+      "coordinates": {
+        "lat": 35.3066852,
+        "lng": 139.4846396
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6434a1a3-7329-4b79-957d-702d4ea5bb09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6434a1a3-7329-4b79-957d-702d4ea5bb09.webp"
+        },
+        {
+          "url": "media/cached-image_354a84e255dfe087139f2fb3469902b720cefd161d4e8c6c3c41c34019c6cbe3.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-1 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3066852,139.4846396,2a,75y,352.76h,101.36t/data=!3m6!1e1!3m4!1seoqjQIxwo6DxoXP0tnb8Jw!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Shonan beach is the central setting for episode 8's summer beach arc, where Kai reaches out to Uka in the water in the iconic scene that fans widely regard as the emotional heart of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_honey-lemon-soda_18",
+      "name": "Ruins of Sando Bridge",
+      "localName": "参道橋跡",
+      "coordinates": {
+        "lat": 35.66794,
+        "lng": 139.70693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc753237-eca2-4428-a2c6-67116ba2c9d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc753237-eca2-4428-a2c6-67116ba2c9d2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6678395,139.7069319,3a,75y,14.83h,90.83t/data=!3m7!1e1!3m5!1sIFmYB9S4aJGiYwLVcsoMKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8266774809351745%26panoid%3DIFmYB9S4aJGiYwLVcsoMKA%26yaw%3D14.829050898895314!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Sando Bridge ruins near Omotesando appear in the opening sequence, establishing the Harajuku neighborhood as the visual identity of the series and Uka's world as a first-year student."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_honey-lemon-soda_19",
+      "name": "Café Marly",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66232,
+        "lng": 139.69885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/976fc09f-fe26-4b2d-a322-72761ea50ab2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/976fc09f-fe26-4b2d-a322-72761ea50ab2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6623478,139.6988205,3a,64.3y,156.11h,93.19t/data=!3m7!1e1!3m5!1sXAFb4zIrSQcjk5v1jtY-Tg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1852904036652347%26panoid%3DXAFb4zIrSQcjk5v1jtY-Tg%26yaw%3D156.10642552025234!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Shibuya cafe appears in episode 1 as an early location where Uka encounters Kai outside of school, a low-key moment that first hints at his interest in her beyond their classroom dynamic."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpeoD-jSNGGARW9hcQpxMNtY",
+      "name": "OVERRIDE Jingumae",
+      "localName": "OVERRIDE 神宮前",
+      "coordinates": {
+        "lat": 35.6647026,
+        "lng": 139.7028397
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c03324ff-a49a-4d6a-a2a1-900795a98173.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c03324ff-a49a-4d6a-a2a1-900795a98173.webp"
+        },
+        {
+          "url": "media/cached-image_381adcacd39d8bef3114f85c2d713493f267df0be896408247d791f36a8a8d83.jpg"
+        }
+      ],
+      "type": "Hat shop",
+      "categories": [
+        "Hat shop"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 6 Chome−18−11 明治ビルディング OVERRIDE 神宮前",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6649462,139.7027607,3a,90y,147.3h,96.4t/data=!3m7!1e1!3m5!1skIhP35s3yyo2f2a9QR570w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.395273624717063%26panoid%3DkIhP35s3yyo2f2a9QR570w%26yaw%3D147.29826052467237!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The OVERRIDE hat store in Jingumae appears in episode 2, where Kai is spotted browsing caps in his off-duty style, a scene that lets Uka see a more relaxed, personal side of him for the first time."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa0VI66eMGGARyKSdYgGd_to",
+      "name": "PRONTO - Shibuya Miyashita Park",
+      "localName": "PRONTO 渋谷宮下公園店",
+      "coordinates": {
+        "lat": 35.6615387,
+        "lng": 139.7024606
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d6fa84a-e8d1-40f8-9cd1-a85bb3834cc7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d6fa84a-e8d1-40f8-9cd1-a85bb3834cc7.webp"
+        },
+        {
+          "url": "media/cached-image_91939c11443b69b1bbaa489ae31c6cd8f0eb417a50c07d62fc978d559eb4907f.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "PRONTO - Shibuya Miyashita Park, メトロプラザ １階 1 Chome-16-14 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6616371,139.7023727,3a,90y,177.95h,97.7t/data=!3m7!1e1!3m5!1skddt1HyN1Ha4MGvAPPJJMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.702057685202064%26panoid%3Dkddt1HyN1Ha4MGvAPPJJMQ%26yaw%3D177.94675532278862!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In episode 2, Uka stops at this cafe near Miyashita Park in an early episode, a transitional moment that anchors her growing familiarity with the Shibuya neighborhood where Kai's world is centered."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2_Im6bqMGGARnWQETcytO54",
+      "name": "SOCCER SHOP KAMO Harajuku",
+      "localName": "サッカーショップKAMO 原宿店",
+      "coordinates": {
+        "lat": 35.671268,
+        "lng": 139.703104
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7fcc1570-871e-414a-b358-8baeafac3997.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7fcc1570-871e-414a-b358-8baeafac3997.webp"
+        }
+      ],
+      "type": "Soccer store",
+      "categories": [
+        "Soccer store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−14−35 Kamo Harajuku Bldg., B1 SOCCER SHOP KAMO Harajuku, 2,3,4,5F",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6623676,139.6985689,3a,90y,358.14h,95.02t/data=!3m7!1e1!3m5!1sctnHOlILCRleCFJaTlbJAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.01547753062934%26panoid%3DctnHOlILCRleCFJaTlbJAQ%26yaw%3D358.1426855603545!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Soccer Shop KAMO in Harajuku is featured in episode 7, where Kai browses sports gear and Uka accompanies him, a domestically ordinary errand that feels significant given how little she has ever shared with anyone before."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzcr8rpaMGGARrj2DaL4S0Hk",
+      "name": "Seitoku Memorial Art Gallery",
+      "localName": "聖徳記念絵画館",
+      "coordinates": {
+        "lat": 35.6788313,
+        "lng": 139.71762139999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5f25e811-9e43-4cda-acb8-238229114824.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5f25e811-9e43-4cda-acb8-238229114824.webp"
+        },
+        {
+          "url": "media/cached-image_25d99cefe544d83a538638137803cd6fb790474d52932c9541afa3433d2e3624.jpg"
+        },
+        {
+          "url": "media/cached-image_6be4969d0f98d317013efbff61f493208d2695662f35d481d7290ff177996fb8.jpg"
+        },
+        {
+          "url": "media/cached-image_9b7d563cdd3d34a93f1e51e9fac937d6a31b270c320dcb9512a36cd7c77d6ba1.jpg"
+        },
+        {
+          "url": "media/cached-image_cb2505000f8acbcc12f38a964fcb600a0ef6ca63d9def74cc1183c40298ac4a8.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.2,
+      "reviewCount": 22,
+      "priceLevel": null,
+      "address": "Seitoku Memorial Art Gallery, 1-1 Kasumigaokamachi, Shinjuku City, Tokyo 160-0013, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6778889,139.7180417,3a,75y,211.1h,102.12t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDztbjFPg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu3CAh8EWIrGL63HMFZL1FrGZHp84uVVPcQx3c0HnlJUAlds7ctldQPVwj6ReO_5HNDMRIH2Vb8aKS7cVrWJ0S3h8g3njDP8sOMAnfPtbuI_dNdAhGysdQ9wB5JYdXBWU0P6nzVp%3Dw900-h600-k-no-pi-12.124836612980431-ya185.0961221728019-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Seitoku Memorial Picture Gallery near Meiji Jingu appears in episode 7 as a landmark during the group's outing in the Shinjuku/Meiji area, visible as Uka and Kai walk along the long approach toward the stadium."
+    }
+  ]
+}

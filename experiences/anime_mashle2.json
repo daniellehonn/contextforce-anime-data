@@ -1,0 +1,292 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Mashle: Magic and Muscles Season 2",
+  "slug": "mashle-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_b3092db22bbda7014aba50f359d8dde14c6792f3da9ac6ce34ca04bdfd704c1a.webp",
+  "image": "media/cached-image_b3092db22bbda7014aba50f359d8dde14c6792f3da9ac6ce34ca04bdfd704c1a.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.669063887499995,
+    "lng": 139.7486805125
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Mashle: Magic and Muscles Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJD15ggveLGGARr4k9yZZngqo",
+      "name": "Gyoko-Dori Ave.",
+      "localName": "行幸通り",
+      "coordinates": {
+        "lat": 35.6822345,
+        "lng": 139.7621512
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Gyoko-Dori Ave., Chiyoda City, Tokyo, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6819417,139.7634785,3a,90y,108.48h,119.44t/data=!3m7!1e1!3m5!1s-LtiTEZNZ311s8fHPYpmUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-29.43970289397133%26panoid%3D-LtiTEZNZ311s8fHPYpmUA%26yaw%3D108.48196871015234!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The grand ceremonial boulevard stretching from Tokyo Station to the Imperial Palace appears in the \"Tokyo's Way!\" ending credits, framing the Shiritsu Ebisu Chugaku members against one of Tokyo's most iconic formal streetscapes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-Wz0l9WMGGARffzhnOGip_w",
+      "name": "Robert Indiana Sculpture: \"LOVE\"",
+      "localName": "「LOVE」ロバート・インディアナ",
+      "coordinates": {
+        "lat": 35.6927435,
+        "lng": 139.6944369
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c5876c1-4ab5-4c39-9380-5d1784d90d1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c5876c1-4ab5-4c39-9380-5d1784d90d1c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 4.1,
+      "reviewCount": 2130,
+      "priceLevel": null,
+      "address": "6 Chome-5-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6927435,139.6944369,3a,67.2y,304.36h,97.47t/data=!3m7!1e1!3m5!1sDwl3vMET4wP5-8Zp4rYoCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DDwl3vMET4wP5-8Zp4rYoCg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D185.53244%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The bright red LOVE sculpture in West Shinjuku's sculpture garden is featured in the ending animation, where the girls pose playfully around this pop-art landmark as part of their tour of Tokyo's hidden gems."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fa712ea8-72e2-4f25-acf7-a9c98b834c56.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fa712ea8-72e2-4f25-acf7-a9c98b834c56.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The world-famous scramble crossing appears in the \"Tokyo's Way!\" ED as the Ebisu Chugaku members dash through the intersection in a burst of energy, capturing the chaotic heartbeat of Tokyo that mirrors Mashle's own frenetic action.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG3BL76yJGGAR3JDMXI0Oz6Q",
+      "name": "Harumiohashi Bridge",
+      "localName": "晴海大橋",
+      "coordinates": {
+        "lat": 35.649426,
+        "lng": 139.7865594
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a12771b9-cfa5-49bb-921b-75f8b2f2f873.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a12771b9-cfa5-49bb-921b-75f8b2f2f873.webp"
+        },
+        {
+          "url": "media/cached-image_b7451783f47d4f1158d24d56c8530fd111c0f274ad66e7a2ec9640ad5d3792af.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "センタービル, 2 Chome-5-24 Harumi, Chuo City, Tokyo 104-0053, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.649426,139.7865594,3a,47.8y,161.56h,98.72t/data=!3m8!1e1!3m6!1sAF1QipM3hL1-nhSXGTSuTsyzTrCidz6mUywFBngqnrKn!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM3hL1-nhSXGTSuTsyzTrCidz6mUywFBngqnrKn%3Dw203-h100-k-no-pi-0-ya77.33324-ro-0-fo100!7i8704!8i4352?coh=205409&entry=ttu",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This long cable-stayed bridge over Tokyo Bay is shown in the ending sequence with a sweeping waterfront vista, the girls walking its span as a quiet counterpoint to the bustling city scenes elsewhere in the credits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9aeqHiCKGGARFh-fljrxUT0",
+      "name": "Daiba Park",
+      "localName": "台場公園",
+      "coordinates": {
+        "lat": 35.633554499999995,
+        "lng": 139.77207819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c11416ef-301d-43a7-a252-2f8ee1624569.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c11416ef-301d-43a7-a252-2f8ee1624569.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 15243,
+      "priceLevel": null,
+      "address": "Daiba Park, 1 Chome-10-1 Daiba, Minato City, Tokyo 135-0091",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.63177,139.7733608,3a,55.7y,332.93h,97.75t/data=!3m8!1e1!3m6!1sAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNmWRw89D7jbRdj7ghPhoPP0ZctdKnlYUGdzr5G%3Dw900-h600-k-no-pi-7.753813955402322-ya167.93335639293383-ro0-fo100!7i7168!8i3584?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The historic Odaiba fort park on Tokyo Bay appears in the ending credits with views of Rainbow Bridge in the background, giving the scene an open seaside atmosphere distinct from the dense urban stops elsewhere in the ED."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+      "name": "Akihabara Electric Town",
+      "localName": "秋葉原電気街",
+      "coordinates": {
+        "lat": 35.699647299999995,
+        "lng": 139.7713703
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1386b61b-d1e6-4301-b15a-5311d7a46320.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1386b61b-d1e6-4301-b15a-5311d7a46320.webp"
+        },
+        {
+          "url": "media/cached-image_6075d56acd87ddafc4958573e39dbb950ca77a679af9a12cdf34675a0e732a3f.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Akihabara Electric Town, Tokyo, Japan",
+      "city": null,
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6998131,139.7713267,3a,48.7y,228.04h,101.32t/data=!3m7!1e1!3m5!1si9h-zzu-5pcCQNGrv5bv_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.316823976859354%26panoid%3Di9h-zzu-5pcCQNGrv5bv_Q%26yaw%3D228.0388837031379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Akihabara's neon-lit main street is featured in the \"Tokyo's Way!\" ending as an obligatory stop for the otaku-aware Mashle franchise, with the girls wandering through the electronics and anime goods district beloved by fans of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqxNsh7uLGGARmfZLBVczpcg",
+      "name": "Akabane Bridge",
+      "localName": "赤羽橋",
+      "coordinates": {
+        "lat": 35.6547142,
+        "lng": 139.74521099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/58039340-a40c-4dc7-88b7-deb14136abb7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/58039340-a40c-4dc7-88b7-deb14136abb7.webp"
+        },
+        {
+          "url": "media/cached-image_ee0f1224939b744110620478eae168ec8a57e7611766f0d911c0f65a9846a86a.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akabane Bridge, 30 Mita, Minato City, Tokyo 108-0073, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6548277,139.745286,3a,90y,32.29h,97.35t/data=!3m7!1e1!3m5!1s1JeG2xLLdd57q6TPExOd5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.352209909570888%26panoid%3D1JeG2xLLdd57q6TPExOd5w%26yaw%3D32.29491207558315!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Akabane Bridge in Minato's Shiba district appears in the ending sequence as one of the quieter urban-infrastructure moments, framing the group against the elevated Metropolitan Expressway that defines this corner of central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp-dA1_WLGGARR_cCaYUEDwA",
+      "name": "Kokyo-mae Hiroba",
+      "localName": "皇居前広場",
+      "coordinates": {
+        "lat": 35.6806711,
+        "lng": 139.75728709999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce421f14-e3d4-4ede-a2df-b167aa47f5f9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce421f14-e3d4-4ede-a2df-b167aa47f5f9.webp"
+        },
+        {
+          "url": "media/cached-image_90a7e4ac65c5af0d0cec8f42b9f3296c1de5e08a34d300f1e8b661333e7a271e.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Imperial Palace Front Gardens, 2 Kokyogaien, Chiyoda City, Tokyo 100-0002, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.682208,139.7584711,2a,75y,106.65h,98.26t/data=!3m7!1e1!3m5!1sABCBBKYZQ_fzJCqXagSQZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.262286892769154%26panoid%3DABCBBKYZQ_fzJCqXagSQZg%26yaw%3D106.64574177528792!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The vast open plaza in front of the Imperial Palace is one of the most visually striking stops in the \"Tokyo's Way!\" ED, with the Ebisu Chugaku members spread across its wide gravel expanse and the Nijubashi bridge gates visible beyond, anchoring the ending's sense of Tokyo pride.",
+      "fanTopPick": true
+    }
+  ]
+}

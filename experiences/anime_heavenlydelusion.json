@@ -1,0 +1,1147 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Heavenly Delusion",
+  "slug": "heavenly-delusion",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_79e1d467567e8aeb9bf4f875777b5b7b45f75f9edd16f6f699947dc3205c416d.webp",
+  "image": "media/cached-image_79e1d467567e8aeb9bf4f875777b5b7b45f75f9edd16f6f699947dc3205c416d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.647868953333344,
+    "lng": 139.27719346333336
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Heavenly Delusion"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6bFne5hBGWAR3SkMSf5S1f8",
+      "name": "Otsuki Bridge",
+      "localName": "猿橋",
+      "coordinates": {
+        "lat": 35.6157453,
+        "lng": 138.9802273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ea784908-6203-47ea-9f8a-02020c2f9fc7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ea784908-6203-47ea-9f8a-02020c2f9fc7.webp"
+        },
+        {
+          "url": "media/cached-image_df6ecafee2efdcae4f4c9177849aa01cc0fdefb2504264e2968f81612deee220.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saruhashi, Saruhashimachi, Otsuki, Yamanashi 409-0614, Japan",
+      "city": "Otsuki",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6091501,138.9367834,3a,90y,144.1h,99.59t/data=!3m7!1e1!3m5!1syIpHbWeZcyy7QjzS7n0MzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.591308195847802%26panoid%3DyIpHbWeZcyy7QjzS7n0MzA%26yaw%3D144.0978557346395!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Kiruko and Maru cross this traditional wooden arch bridge early in their journey through the ruins of Japan, one of the first recognizable real-world landmarks fans see as the pair head toward Tokyo in episode 1.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAyaWbl6NGGAREd5a8xST-eE",
+      "name": "Mansei Bridge",
+      "localName": "万世橋",
+      "coordinates": {
+        "lat": 35.69707,
+        "lng": 139.77111
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f7f86cf-7c1f-4175-ad09-28efbd7a22d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f7f86cf-7c1f-4175-ad09-28efbd7a22d7.webp"
+        },
+        {
+          "url": "media/cached-image_8258d41bb5c868538bc485fde0819246ef93cb4c5c75fc8d382670006fb7c3bf.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/U6VCw9a8Z6ByuuF59",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The distinctive red bridge over the Kanda River appears as Kiruko and Maru pass through the overgrown ruins of Akihabara in episode 7, a striking backdrop to their search for the man-eaters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a0d3a66-9bee-4a6d-ba15-ff6e3bbf7658.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a0d3a66-9bee-4a6d-ba15-ff6e3bbf7658.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The UDX building's exterior is faithfully recreated as part of the decaying Akihabara streetscape that Kiruko and Maru navigate in episode 8, the district's familiar tech-tower silhouette now draped in post-apocalyptic quiet."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL9d2wNumRjUReDSf1kJ7QzA",
+      "name": "Takegawara Bridge",
+      "localName": "竹瓦温泉",
+      "coordinates": {
+        "lat": 33.277455599999996,
+        "lng": 131.5059894
+      },
+      "image": "https://cdn.animepilgrimage.com/places/de59483f-530b-461c-a6a2-fe7cc75c4f4f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/de59483f-530b-461c-a6a2-fe7cc75c4f4f.webp"
+        },
+        {
+          "url": "media/cached-image_7b57e1c4d78c7b0d24bee5e523f6c7c7b79d7e54ccdd8c035cc8435bdea3ff0d.jpg"
+        }
+      ],
+      "type": "Day-use onsen",
+      "categories": [
+        "Day-use onsen"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takegawara Onsen, 16-23 Motomachi, Beppu, Oita 874-0944, Japan",
+      "city": "Beppu",
+      "region": "Oita",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4922182,140.5847882,3a,48.7y,36.99h,95.49t/data=!3m7!1e1!3m5!1s444ldD0gBVr5SNnoaix5mg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.488962676519407%26panoid%3D444ldD0gBVr5SNnoaix5mg%26yaw%3D36.985222903182134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The historic Takegawara Onsen building in Beppu serves as a location reference in episode 13, its ornate wooden facade evoking the thermal-bath town that the survivors encounter near the end of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ02BKMsOMGGARg-h52x8HPro",
+      "name": "2 Chome Kobayashidaimonshita",
+      "localName": "2 Chome Shinjuku",
+      "coordinates": {
+        "lat": 35.6897887,
+        "lng": 139.7083697
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92a9724a-2dde-41bb-b17e-3d61cedae3df.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92a9724a-2dde-41bb-b17e-3d61cedae3df.webp"
+        },
+        {
+          "url": "media/cached-image_e04f10af95e6cc0200f827eb3ffea7568b70eb09e643af758eefde1cdd475038.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2 Chome Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8234495,140.1851895,3a,90y,25.2h,93.08t/data=!3m7!1e1!3m5!1s9uEDNIyj4HNuDoLNKiry5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.079962521749792%26panoid%3D9uEDNIyj4HNuDoLNKiry5Q%26yaw%3D25.19705044918486!7i16384!8i8192?hl=ja&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A Shinjuku 2-chome street corner appears in episode 10 as a location that Kiruko and Maru pass through in the Tokyo area, part of the dense urban grid of the ruined capital."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP-zCmd59ImARVKJWAPJ6L5I",
+      "name": "Niiyamadai 2 Park",
+      "localName": "にいやま第2公園",
+      "coordinates": {
+        "lat": 35.822156199999995,
+        "lng": 140.1828794
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5a117758-d8d5-4b37-9182-0f2bda238ab2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5a117758-d8d5-4b37-9182-0f2bda238ab2.webp"
+        },
+        {
+          "url": "media/cached-image_56dde448546cc2f0b0154c66cd31599a4ff9646296deddc25d807ab249a60a47.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Niiyamadai 2 Park, 2 Chome-10-10 Kobayashidaimonshita, Inzai, Chiba 270-1316, Japan",
+      "city": "Inzai",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8218526,140.1818014,3a,42.2y,113.28h,96.97t/data=!3m7!1e1!3m5!1s9gRDqXtzvO9UuB3IB7Ds_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.96678117845758%26panoid%3D9gRDqXtzvO9UuB3IB7Ds_Q%26yaw%3D113.27586879940591!7i16384!8i8192?hl=en&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This small park in Inzai, Chiba is used in episode 10 as a neighborhood location seen in scenes set in the suburbs outside Tokyo, where Maru and Kiruko encounter survivors living in former residential areas."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_heavenly-delusion_6",
+      "name": "Charmant",
+      "localName": "シャルマン",
+      "coordinates": {
+        "lat": 35.70726,
+        "lng": 139.77123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57146336-2643-48cd-bfb3-046a74365e83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57146336-2643-48cd-bfb3-046a74365e83.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7073357,139.7712214,3a,90y,182.43h,110.42t/data=!3m7!1e1!3m5!1so6GK5kaaT6fR3w5TS88tdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.4168597999427%26panoid%3Do6GK5kaaT6fR3w5TS88tdA%26yaw%3D182.43006698957888!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Charmant, a small building in the Ueno area, is shown in episode 9 as part of the overgrown urban streetscape that Kiruko and Maru pass through near the Akihabara district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj-GA4x-MGGAR3wXz0zp0fLQ",
+      "name": "Caffè Veloce - Ueno 3-chome",
+      "localName": "カフェ・ベローチェ 上野三丁目店",
+      "coordinates": {
+        "lat": 35.7062174,
+        "lng": 139.772565
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9533ee5e-068d-4955-8606-a607b0200cdf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9533ee5e-068d-4955-8606-a607b0200cdf.webp"
+        },
+        {
+          "url": "media/cached-image_b4991653c0b235945be7a6676ca00d057a4b30b43d495f8c0110a395d93be8e2.jpg"
+        },
+        {
+          "url": "media/cached-image_0a34d975a2b1aaac81f5ebd9c7b3432976e5c047ac42f6d91775d7e7287406e6.jpg"
+        },
+        {
+          "url": "media/cached-image_5ee0dece6eb1fe9abd52ca0d3842cbf197f20b723b288389d40978a982c02605.jpg"
+        },
+        {
+          "url": "media/cached-image_181e0b0db99a98e59b92494f7d2df32850e5e851479174fc4596c44812ce3abb.jpg"
+        },
+        {
+          "url": "media/cached-image_fde6b8fce9301b011f5fef6b5d6ae0e7ff73531f010efde7975ab126f0190d04.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Caffè Veloce - Ueno 3-chome, Ｇ－ＳＱＵＡＲＥ上野 １階 3 Chome-17-7 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.706268,139.772253,3a,48.7y,92.51h,97.54t/data=!3m7!1e1!3m5!1sRZDPfPzs48KqbEEX41M3ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.540774398233793%26panoid%3DRZDPfPzs48KqbEEX41M3ig%26yaw%3D92.51430270517659!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Caffe Veloce chain cafe near Ueno appears in episode 9 as a recognizable urban landmark reduced to a crumbling shell, part of the Ueno-Akihabara corridor that Kiruko and Maru traverse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcwUryR2MGGARhDKaGNGC6BU",
+      "name": "Times Sotokanda #12",
+      "localName": "タイムズ外神田第１２",
+      "coordinates": {
+        "lat": 35.700779499999996,
+        "lng": 139.770807
+      },
+      "image": "https://cdn.animepilgrimage.com/places/adafa8a1-cef9-41b6-877f-c0daeaea3f06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/adafa8a1-cef9-41b6-877f-c0daeaea3f06.webp"
+        },
+        {
+          "url": "media/cached-image_4ba20b64143f11baa35fea7bc5e9451b6872be45dd5dd7d02fa5116096ee9464.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 1.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Times Sotokanda #12, 3 Chome-11-11 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7007559,139.7708944,3a,75y,46.68h,87.81t/data=!3m7!1e1!3m5!1ssIk-94Y1kfpifewd2qHZeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.1872459944591043%26panoid%3DsIk-94Y1kfpifewd2qHZeQ%26yaw%3D46.68373790210435!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This parking lot near Akihabara is used in episode 8 as a location Kiruko and Maru move through in the deserted Sotokanda district, its empty bays emphasizing the city's abandonment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2_RFjx2MGGARcpYt-JU_AcU",
+      "name": "Oerbierman",
+      "localName": "ウルビアマン 秋葉原",
+      "coordinates": {
+        "lat": 35.7007002,
+        "lng": 139.7725192
+      },
+      "image": "https://cdn.animepilgrimage.com/places/09c0acfa-4259-4108-9c4e-8bf7a4c206e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/09c0acfa-4259-4108-9c4e-8bf7a4c206e8.webp"
+        },
+        {
+          "url": "media/cached-image_4f6c1b7fcda11823274b51dd9ddf33b9262c50e381efce4743835fec2427aa70.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Oerbierman, 秋葉原ＵＤＸビル １Ｆ 4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7007501,139.7722804,2a,90y,145.43h,98.33t/data=!3m7!1e1!3m5!1soLWEW0rEYjVEYSSYefVO3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.332192811482102%26panoid%3DoLWEW0rEYjVEYSSYefVO3w%26yaw%3D145.42700595133255!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Oerbierman restaurant in the Akihabara UDX building appears in episode 7 as part of the complex's ground-floor commercial space, its signage intact while the district stands abandoned around Maru and Kiruko."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF-kS1ByMGGARfX9TAILqL3w",
+      "name": "Manseibashi Station Remains",
+      "localName": "万世橋駅跡",
+      "coordinates": {
+        "lat": 35.6971491,
+        "lng": 139.7701557
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4138b859-88ab-47ed-877c-225334179afd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4138b859-88ab-47ed-877c-225334179afd.webp"
+        },
+        {
+          "url": "media/cached-image_9a30e18a84408558598887a624bc204e01a3913d7002eb60a5a461ce5dfc0515.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0041 Tokyo, Chiyoda City, Kanda Sudacho, 1 Chome−２５−4 Manseibashi Station Remains, マーチエキュート神田万世橋",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6969534,139.7702818,3a,90y,307.75h,94.11t/data=!3m7!1e1!3m5!1sT0dOnhfIeDz3kTFskM0FEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.113590997590194%26panoid%3DT0dOnhfIeDz3kTFskM0FEw%26yaw%3D307.74636761353486!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The red-brick ruins of the old Manseibashi rail station, now a heritage retail space beside the Kanda River, appear in the episode 7 Akihabara sequence as Kiruko and Maru pick through the eerily deserted district.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZzSYoB2MGGARfBcicn7sx28",
+      "name": "Akihabara Electric Town",
+      "localName": "秋葉原電気街",
+      "coordinates": {
+        "lat": 35.699717799999995,
+        "lng": 139.7713799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba894515-0293-4be6-b390-27a2d1a01ebf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba894515-0293-4be6-b390-27a2d1a01ebf.webp"
+        },
+        {
+          "url": "media/cached-image_daf5bcc0ecad03f87223eeffa43ad283fcb2819972814774ce3184f4d4c10dee.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akihabara Electric Town, 1 Chome-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6998934,139.7713361,3a,90y,178.29h,117.93t/data=!3m7!1e1!3m5!1sT5eykqpV1n2BEBbeKjBqUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-27.933579989558268%26panoid%3DT5eykqpV1n2BEBbeKjBqUg%26yaw%3D178.29430254465808!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The iconic Akihabara Electric Town streetscape, normally packed with neon and shoppers, is shown as a ghost district in episode 7, the silent storefronts underscoring the scale of the world's collapse as Maru and Kiruko pass through.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwzNv1gKMGGARJesr3w5cBdk",
+      "name": "apollostation Manseibashi Self Service Station",
+      "localName": "apollostation セルフ万世橋SS（ヤマヒロ）",
+      "coordinates": {
+        "lat": 35.6966009,
+        "lng": 139.7704791
+      },
+      "image": "https://cdn.animepilgrimage.com/places/def1635d-3401-4325-81c6-229c849f1548.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/def1635d-3401-4325-81c6-229c849f1548.webp"
+        },
+        {
+          "url": "media/cached-image_5cc56c77292dc314fa687a44b1b9c2b78f3025247687c09835d3797c56c8158b.jpg"
+        },
+        {
+          "url": "media/cached-image_b3f387404bef719e685c3747b2ee8419ef55337ac33275fa12ddfbc0e8ad1bfa.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "apollostation Manseibashi Self Service Station, 1 Chome-5 Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6966794,139.770408,3a,90y,158.29h,97.73t/data=!3m7!1e1!3m5!1sxSxGWqUqonmJXZciwPSedg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.729133327741351%26panoid%3DxSxGWqUqonmJXZciwPSedg%26yaw%3D158.28767131061932!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This gas station near Manseibashi appears in episode 7 as part of the Kanda area streetscape that Kiruko and Maru navigate, an everyday landmark now drained and silent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgcCkfmlF9V8R-dkfyjTahVA",
+      "name": "Fukushima Bridge",
+      "localName": "第一只見川橋梁ビューポイント",
+      "coordinates": {
+        "lat": 37.478320499999995,
+        "lng": 139.6720675
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc43eafd-017e-4d42-bdf6-1f1d374cb8f0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc43eafd-017e-4d42-bdf6-1f1d374cb8f0.webp"
+        },
+        {
+          "url": "media/cached-image_c694b4c732fc9b98528b8a5f465e457056eec34969c766c546fdc513ca72c9e0.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "First Tadami River Bridge Viewpoint, 天屋原 Kawai, Mishima, Onuma District, Fukushima 969-7402, Japan",
+      "city": "Mishima",
+      "region": "Onuma District, Fukushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6745671,139.7906167,3a,90y,312.97h,100.14t/data=!3m7!1e1!3m5!1siZQEAdVnYTmz1hO6lwuG-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.142594418829361%26panoid%3DiZQEAdVnYTmz1hO6lwuG-Q%26yaw%3D312.9739612246019!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The dramatic First Tadami River Bridge viewpoint in Fukushima is referenced in episode 6 as the duo crosses through the mountainous interior of Japan, the sweeping river valley reinforcing the vast emptiness of the post-apocalyptic countryside.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_heavenly-delusion_14",
+      "name": "Night Inn Maki",
+      "localName": "ナイトイン麻紀",
+      "coordinates": {
+        "lat": 35.6762,
+        "lng": 139.7929
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2590988-2ccb-42cd-b43a-e982553176ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2590988-2ccb-42cd-b43a-e982553176ed.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6762487,139.7927763,3a,47.9y,109.99h,91.87t/data=!3m7!1e1!3m5!1sLPR-Qc4UQrlKRb-y_kD4KQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8707190846060655%26panoid%3DLPR-Qc4UQrlKRb-y_kD4KQ%26yaw%3D109.994923441701!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Night Inn Maki, a small Tokyo inn near Ueno, appears in episode 6 as a shelter location where characters rest during their journey through the ruined city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMTZgCUSJGGARy71FRO9CaDA",
+      "name": "FamilyMart Nihonbashi Hakozakicho Store",
+      "localName": "ファミリーマート 日本橋箱崎町店",
+      "coordinates": {
+        "lat": 35.680926899999996,
+        "lng": 139.7871473
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2bb3536e-463f-43a6-b23c-baeb392b8e3c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2bb3536e-463f-43a6-b23c-baeb392b8e3c.webp"
+        },
+        {
+          "url": "media/cached-image_60db8737a9c12d5a1824efad19a1c4027b4ef5fb211e9b50c47243ad064ebbba.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "FamilyMart Nihonbashi Hakozakicho Store, 32-3 Nihonbashihakozakicho, Chuo City, Tokyo 103-0015, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6810174,139.7869549,3a,63.6y,207.97h,102.71t/data=!3m7!1e1!3m5!1sx9zwBdgsUpIowlBviOdPvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.705772130983618%26panoid%3Dx9zwBdgsUpIowlBviOdPvg%26yaw%3D207.9721674638771!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This FamilyMart near Nihonbashi is used in episode 6 as a convenience store ruin that Kiruko and Maru loot for supplies, a recurring motif in the series of familiar retail landmarks reduced to scavenge sites."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkaCvGgeDA2ARUCfJIC0VeYw",
+      "name": "FamilyMart Kiba 2-chome",
+      "localName": "ファミリーマート 飛島木場二丁目店",
+      "coordinates": {
+        "lat": 35.058080499999996,
+        "lng": 136.8228642
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca147f08-6b6e-418d-b262-5eaaccc72972.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca147f08-6b6e-418d-b262-5eaaccc72972.webp"
+        },
+        {
+          "url": "media/cached-image_bea4c6d83b074b01375708743b03ffdd700bf288784c0396a324e6403eac26f7.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 2 Chome-９２ Kiba, Tobishima, Ama District, Aichi 490-1444, Japan",
+      "city": "Tobishima",
+      "region": "Ama District, Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6694997,139.8055592,3a,90y,207.14h,112.51t/data=!3m7!1e1!3m5!1sJ0cJOCojSjFUdWWPMVUDcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.506414644282017%26panoid%3DJ0cJOCojSjFUdWWPMVUDcw%26yaw%3D207.13994627424498!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This FamilyMart in Aichi appears in episode 5 as a convenience store ruin that Maru and Kiruko encounter during their travel westward, consistent with the series' motif of gutted chain stores marking humanity's former reach."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ02q0xcGOGGAR-cYGD9scF0Y",
+      "name": "Sensoji Hospital",
+      "localName": "浅草寺病院",
+      "coordinates": {
+        "lat": 35.715821,
+        "lng": 139.796644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c18d5d4-a983-46c5-82e9-bed6695c2cf7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c18d5d4-a983-46c5-82e9-bed6695c2cf7.webp"
+        },
+        {
+          "url": "media/cached-image_e01b6a7bbf2724e88863e09397551e9cb8eb5a19ec669582a18900c318a67dcf.jpg"
+        },
+        {
+          "url": "media/cached-image_1ab39447e12b154f98b690427994fe028f7aa425ee52933f98ee8d02f92190a3.jpg"
+        }
+      ],
+      "type": "Hospital",
+      "categories": [
+        "Hospital"
+      ],
+      "rating": 2.7,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Sensoji Hospital, 2 Chome-30-17 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7163627,139.7967476,3a,74.7y,199.07h,102.33t/data=!3m7!1e1!3m5!1sBgqYzYpkKEvcdNnN6J7q_g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.330460480237804%26panoid%3DBgqYzYpkKEvcdNnN6J7q_g%26yaw%3D199.07007543762595!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The real Senso-ji Hospital in Asakusa is referenced in episode 3, its exterior appearing as Maru and Kiruko search for supplies and shelter in the overgrown Asakusa district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRUZaZ7-OGGARDNJ7DsDy2o0",
+      "name": "Dengana Asakusaten",
+      "localName": "串かつ でんがな 浅草店",
+      "coordinates": {
+        "lat": 35.7116981,
+        "lng": 139.7929928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eec85fc8-7550-4c31-8f96-e40fa3256ea5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eec85fc8-7550-4c31-8f96-e40fa3256ea5.webp"
+        },
+        {
+          "url": "media/cached-image_fae797b82082309a51c7e11e2a641d2fce744b8aa6052897ba116799073ff447.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dengana Asakusa, 椿ビル 1F 1 Chome-9-7 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.711575,139.7930392,3a,75y,334.25h,106.06t/data=!3m7!1e1!3m5!1sLrlzUUKDrU_Rf-CTVaL2Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.060201755187535%26panoid%3DLrlzUUKDrU_Rf-CTVaL2Ew%26yaw%3D334.24916986616967!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Dengana kushikatsu restaurant storefront in Asakusa appears in episode 3 as part of the entertainment district streetscape that Maru and Kiruko walk through near the temple area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_heavenly-delusion_19",
+      "name": "Okuyama Gate",
+      "localName": "奧山門牌坊",
+      "coordinates": {
+        "lat": 35.71438,
+        "lng": 139.79527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99d7b4ba-b01a-4feb-818e-4bccc8b4c5d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99d7b4ba-b01a-4feb-818e-4bccc8b4c5d7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7143192,139.7949483,3a,75y,76.57h,97.53t/data=!3m7!1e1!3m5!1sF7mU20xGzayO0-v818nTmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.525184332181652%26panoid%3DF7mU20xGzayO0-v818nTmw%26yaw%3D76.56732456229987!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Okuyama approach gate area near Senso-ji appears in episode 3 as part of the Asakusa pilgrimage that Kiruko and Maru make through the ruined temple district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA57bJs6PGGAR-fYxDkwewd0",
+      "name": "Matsumoto Kiyoshi Asakusa Nitenmon Higashi-sando",
+      "localName": "薬 マツモトキヨシ 浅草二天門東参道店",
+      "coordinates": {
+        "lat": 35.7144027,
+        "lng": 139.7978741
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4ff2d97c-eaf1-4b1e-96d5-269bd5ae765a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4ff2d97c-eaf1-4b1e-96d5-269bd5ae765a.webp"
+        },
+        {
+          "url": "media/cached-image_73e608b23b987bba97e8aff306f1a81cec849ccf52113fae171ae596017792b5.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Matsumoto Kiyoshi Asakusa Nitenmon Higashi-sando, 2 Chome-34-3 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7143465,139.7978571,3a,90y,78.7h,95.3t/data=!3m7!1e1!3m5!1s1yjN-1bWNuqN6I-qmuvQsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.297862489178286%26panoid%3D1yjN-1bWNuqN6I-qmuvQsw%26yaw%3D78.70427291737688!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Matsumoto Kiyoshi drugstore near Senso-ji's east approach appears in episode 3 as part of the Asakusa shopping street that Kiruko and Maru walk through, its familiar purple signage a touchstone of pre-collapse normalcy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHQMzFIiPGGARxyU6M_thU4E",
+      "name": "Tonkatsu Oribe",
+      "localName": "とんかつ おりべ 浅草店",
+      "coordinates": {
+        "lat": 35.7114476,
+        "lng": 139.7929419
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ef84bdb-da19-4bb0-b155-5e949a65dc0e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ef84bdb-da19-4bb0-b155-5e949a65dc0e.webp"
+        },
+        {
+          "url": "media/cached-image_5f005837a45910d815511c9325e118ba1aa8ba8271fa2e14df6ae326e55565f8.jpg"
+        }
+      ],
+      "type": "Tonkatsu restaurant",
+      "categories": [
+        "Tonkatsu restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tonkatsu Oribe, 國立ビル 1 Chome-9-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.711575,139.7930392,3a,48.7y,188.39h,91.97t/data=!3m7!1e1!3m5!1sLrlzUUKDrU_Rf-CTVaL2Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9675468105404406%26panoid%3DLrlzUUKDrU_Rf-CTVaL2Ew%26yaw%3D188.39400096839273!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Tonkatsu Oribe restaurant in Asakusa appears in episode 3 as part of the street-level scenery near the Senso-ji area that Kiruko and Maru pass through, its storefront faithfully rendered in the anime's detailed background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ4oTScOOGGAR16BfN7ADXMk",
+      "name": "Sumida Park",
+      "localName": "台東区立隅田公園",
+      "coordinates": {
+        "lat": 35.7137617,
+        "lng": 139.80145059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55f883ab-4c3e-4eb6-9f4f-95dcd92a41d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55f883ab-4c3e-4eb6-9f4f-95dcd92a41d0.webp"
+        },
+        {
+          "url": "media/cached-image_067ab422c341e3c241b03af58709509a004bdc3899d91bbb10e008164748e95d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sumida Park, 1 Chome-1 Hanakawado, Taito City, Tokyo 111-0033, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7153307,139.8031601,3a,90y,124.24h,94.88t/data=!3m8!1e1!3m6!1sAF1QipMZFZDwVJhVQUfR-NN69KFe24twuvNffwFEGH0i!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMZFZDwVJhVQUfR-NN69KFe24twuvNffwFEGH0i%3Dw900-h600-k-no-pi-4.882438589271402-ya124.24123905409063-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Sumida Park along the river in Asakusa provides the backdrop for a scene in episode 3 where Kiruko and Maru rest near the water, the cherry-tree-lined riverbank rendered in the anime's lush, melancholic style."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQAMd8GOGGAR945X-Jjf2ug",
+      "name": "Senso-ji Nitemmon",
+      "localName": "二天門",
+      "coordinates": {
+        "lat": 35.7144231,
+        "lng": 139.7975674
+      },
+      "image": "https://cdn.animepilgrimage.com/places/896d2f74-8ff3-48b3-9a91-4898f38c6986.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/896d2f74-8ff3-48b3-9a91-4898f38c6986.webp"
+        },
+        {
+          "url": "media/cached-image_fe407a5d058d9c79f7807b8536aea937a123b7bc35a5848ebe5e44b297b35037.jpg"
+        },
+        {
+          "url": "media/cached-image_d33cd0d2d08e59a353273d4451c752c44093b1c2c96054711b2456d0994db3e3.jpg"
+        },
+        {
+          "url": "media/cached-image_09ac41e0f6be41836ad7de4a3e3624459dcc25129502a6626f564970581dcada.jpg"
+        },
+        {
+          "url": "media/cached-image_fe07b5bf5f972ea1f5a84e52cb2563b982e3421df4dcc8ade685e169b90c689f.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.3,
+      "reviewCount": 353,
+      "priceLevel": null,
+      "address": "Senso-ji Nitemmon, 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7128712,139.8000471,3a,75y,51.73h,93.11t/data=!3m7!1e1!3m5!1sLtNkeiGQtkEJebAs6XmsWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.110633259779533%26panoid%3DLtNkeiGQtkEJebAs6XmsWA%26yaw%3D51.73262761077393!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Nitenmon gate at Senso-ji is seen in episode 3 as Maru and Kiruko explore the abandoned Asakusa temple grounds, a quiet moment of beauty amid the collapsed world around them."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_heavenly-delusion_24",
+      "name": "Otsuki Printing Co.",
+      "localName": "（株）大月プリント社",
+      "coordinates": {
+        "lat": 35.61018,
+        "lng": 138.93787
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7baf883-bdb8-4e69-b660-923c3f24a84e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7baf883-bdb8-4e69-b660-923c3f24a84e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6101933,138.9378811,3a,90y,339.62h,100.48t/data=!3m7!1e1!3m5!1sVT6uVunvwv4Irdlqxzjm7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.481704668974913%26panoid%3DVT6uVunvwv4Irdlqxzjm7w%26yaw%3D339.6159203894257!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A building near Otsuki city appears in episode 1 as Kiruko and Maru navigate the outskirts of the Yamanashi town at the very start of their journey, setting the regional tone of the post-collapse world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs55N49BBGWARF3iceQKjkR0",
+      "name": "Otsuki Cosplay",
+      "localName": "おおつきCosplay",
+      "coordinates": {
+        "lat": 35.610763299999995,
+        "lng": 138.9383249
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a064e2a-d4bb-4a10-92dc-409e74539209.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a064e2a-d4bb-4a10-92dc-409e74539209.webp"
+        },
+        {
+          "url": "media/cached-image_4fe03ae573e1b23f96209c1f7f8999814bddec4ca3c63a9589dd0e9320858320.jpg"
+        }
+      ],
+      "type": "Travel agency",
+      "categories": [
+        "Travel agency"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒401-0013 Yamanashi, Otsuki, 2 Chome−13−16 1F おおつきCosplay",
+      "city": "Otsuki",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6099154,138.9378535,3a,39.9y,16.95h,90.99t/data=!3m7!1e1!3m5!1sl1ujHt-P9MQegXWIjt96yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9947934257407809%26panoid%3Dl1ujHt-P9MQegXWIjt96yw%26yaw%3D16.953351326918195!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A street-level Otsuki location near the city center is used in episode 1 as part of the establishing shots of the decayed town that Kiruko and Maru pass through at the opening of their journey."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJobiBhM5DGWARoRkPD46c_OM",
+      "name": "Bigecho Otsuki",
+      "localName": "カラオケ ビッグエコー大月店",
+      "coordinates": {
+        "lat": 35.614182,
+        "lng": 138.947485
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9313be5-b29d-46f5-9944-245b7d663cf0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9313be5-b29d-46f5-9944-245b7d663cf0.webp"
+        },
+        {
+          "url": "media/cached-image_d2afa18e6eb3a49d0f47bf1122ffaa9bfa3ca54718d1cc693a69032fb2c2a46a.jpg"
+        },
+        {
+          "url": "media/cached-image_2765c5de70aaec0af62ba66bb5022eb628c740e0562d7c93fa08ddebcc4cfce5.jpg"
+        }
+      ],
+      "type": "Karaoke bar",
+      "categories": [
+        "Karaoke bar"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bigecho Otsuki, 1 Chome-2-31 Komahashi, Otsuki, Yamanashi 401-0011, Japan",
+      "city": "Otsuki",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6139446,138.9475449,3a,90y,57.57h,95.69t/data=!3m7!1e1!3m5!1s1R71ZCFPtf8BnU5WTmd2KA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.6855336856620795%26panoid%3D1R71ZCFPtf8BnU5WTmd2KA%26yaw%3D57.57125614178065!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Bigecho karaoke building in Otsuki appears in episode 1 as part of the commercial street Kiruko and Maru move through, its familiar chain-store facade now a weathered ruin in the post-apocalypse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-_P0cLVDGWAREXPbHwvFndA",
+      "name": "Otsuki Nursery",
+      "localName": "大月保育園",
+      "coordinates": {
+        "lat": 35.608079599999996,
+        "lng": 138.9396908
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5a810505-88bc-417f-ae87-061d8bd11283.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5a810505-88bc-417f-ae87-061d8bd11283.webp"
+        },
+        {
+          "url": "media/cached-image_60298f6053e8d8c845396697359aa717636b31055cd7b0f186971f1d545c614d.jpg"
+        }
+      ],
+      "type": "Nursery school",
+      "categories": [
+        "Nursery school"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Otsuki Nursery, 2 Chome-10-12 Otsuki, Yamanashi 401-0013, Japan",
+      "city": "Otsuki",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6077931,138.9402225,3a,47.9y,38.8h,87.24t/data=!3m7!1e1!3m5!1s2FRXbsIg_ze0RGCOuQJqkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7631592553858866%26panoid%3D2FRXbsIg_ze0RGCOuQJqkA%26yaw%3D38.79973359490914!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Otsuki Nursery building features in episode 1 as a background location in the Otsuki streetscape, part of the residential neighborhood that Kiruko and Maru pass through at the very start of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEQofb0SJGGARBGPnsduh68s",
+      "name": "7-Eleven Nihonbashi T-CAT",
+      "localName": "セブン-イレブン 日本橋T-CAT店",
+      "coordinates": {
+        "lat": 35.6814264,
+        "lng": 139.78634409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a58c2a46-0eba-46d5-98c6-3a79f6be6a83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a58c2a46-0eba-46d5-98c6-3a79f6be6a83.webp"
+        },
+        {
+          "url": "media/cached-image_c10e885a556d49129798b8edd0e97fbed4ed9af65df357974d8f553ce51b6712.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 22-1 Nihonbashihakozakicho, Chuo City, Tokyo 103-0015, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812159,139.7865885,3a,90y,132.19h,120.87t/data=!3m7!1e1!3m5!1smYjQ-uveJi9O_aYUlpMifQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-30.869102475899155%26panoid%3DmYjQ-uveJi9O_aYUlpMifQ%26yaw%3D132.19237831731334!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The 7-Eleven near Nihonbashi T-CAT terminal appears in episode 6 as another recognizable urban convenience store turned abandoned ruin, part of the Nihonbashi area scenes as Maru and Kiruko travel through central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0YwG28aOGGARvRKAXIBWqNk",
+      "name": "Kaminarimon",
+      "localName": "雷門",
+      "coordinates": {
+        "lat": 35.7110262,
+        "lng": 139.7962413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/897ae9fe-61ab-491c-8fb3-91439bcc35b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/897ae9fe-61ab-491c-8fb3-91439bcc35b7.webp"
+        },
+        {
+          "url": "media/cached-image_e8e802bb3859295b3496d28d331d24c32177e6fa3d39ab1e77ba1602f09d52ee.jpg"
+        },
+        {
+          "url": "media/cached-image_60ae4ca225e3429af5502eb5c41432e40845bc46c07a0c06d87f48e9c7473cdf.jpg"
+        },
+        {
+          "url": "media/cached-image_d1c670fcae51fa0fb427e1cb229710622b48126ea4c530ff9e0c8636b6fb0247.jpg"
+        },
+        {
+          "url": "media/cached-image_783af5ea403a38ecf422c7dc2c1df96f9f9da0ee7d9c30d69232cf69458ae23a.jpg"
+        },
+        {
+          "url": "media/cached-image_47be5716cf0539288e783b8bfc8b77eec69dfd551c91ce261c20e71d79d6d21b.jpg"
+        },
+        {
+          "url": "media/cached-image_c93b62bb2d7a70bd25dfaaa8263f95ce1f547cf1279a73312d62e880ba1b5768.jpg"
+        },
+        {
+          "url": "media/cached-image_49c66ff8de72ec91f6711285ab0e3dfcff65d6a42490906092e84704663bbd93.jpg"
+        },
+        {
+          "url": "media/cached-image_657c421be9963a9d3504b82a815da2e5b6ef851b9bde0561aaf42842ad4732e4.jpg"
+        },
+        {
+          "url": "media/cached-image_8d2d8f542782a20c9430b47304fb0d6bdf415db757a160323196a679f983826c.jpg"
+        },
+        {
+          "url": "media/cached-image_0191222ef0c59897e686a742adf585c67f8a9767dcca3bff0686b2408391fbde.jpg"
+        },
+        {
+          "url": "media/cached-image_04b319e1657266ccc0e7f19186c2c691b26101be41b9ca253399667cf0522b16.jpg"
+        },
+        {
+          "url": "media/cached-image_8fc98828a6d8c801b62338c48c4b4335b10fa5966e6cc26952610b79fafa3c20.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 37019,
+      "priceLevel": null,
+      "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7110262,139.7962413,3a,90y,5.94h,93.79t/data=!3m6!1e1!3m4!1s15QA6e0u2NEO_WLYiNNFbg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The iconic Thunder Gate of Senso-ji temple in Asakusa appears in episode 3 as Kiruko and Maru move through a deserted Tokyo, the giant red lantern standing unchanged while the city around it has fallen into ruin.",
+      "fanTopPick": true
+    }
+  ]
+}

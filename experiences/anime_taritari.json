@@ -1,0 +1,1833 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "TARI TARI",
+  "slug": "tari-tari",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3b7a745c25cbafd4a0200e97a428dee114cc08cbbffd253b5f4928c806f4c07d.webp",
+  "image": "media/cached-image_3b7a745c25cbafd4a0200e97a428dee114cc08cbbffd253b5f4928c806f4c07d.webp",
+  "banner": null,
+  "primaryLocation": "Kanagawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.47752212708335,
+    "lng": 139.2845096541667
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "TARI TARI"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJOS5PVv1OGGARdDB4RJHELHE",
+      "name": "Katase Higashihama Beach",
+      "localName": "片瀬東浜海水浴場",
+      "coordinates": {
+        "lat": 35.3066852,
+        "lng": 139.4846396
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3a3e559a-759b-4a78-8e57-051fb93c796b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3a3e559a-759b-4a78-8e57-051fb93c796b.webp"
+        },
+        {
+          "url": "media/cached-image_354a84e255dfe087139f2fb3469902b720cefd161d4e8c6c3c41c34019c6cbe3.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-1 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3066852,139.4846396,2a,75y,352.76h,101.36t/data=!3m6!1e1!3m4!1seoqjQIxwo6DxoXP0tnb8Jw!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The beach where the choir club performs their final outdoor concert in episode 12, with Wakana finally singing alongside her friends as the Shonan sun sets behind them.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIRZ85hZPGGARffzavFo4QRk",
+      "name": "Kamakurakoko-Mae Station",
+      "localName": "鎌倉高校前駅",
+      "coordinates": {
+        "lat": 35.3065879,
+        "lng": 139.5004683
+      },
+      "image": "https://cdn.animepilgrimage.com/places/53654b85-9783-4f4e-ab12-ce84448d8fb4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/53654b85-9783-4f4e-ab12-ce84448d8fb4.webp"
+        },
+        {
+          "url": "media/cached-image_fe88437b95e17d70ed2ba98a36c48bd3963aeca3297671924990a3b9f79e2543.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-1 Koshigoe, Kamakura, Kanagawa 248-0033, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3065879,139.5004683,3a,75y,358.87h,91.17t/data=!3m6!1e1!3m4!1svpPIcgYsiWPfmewDLCVx5w!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Featured in the opening sequence, the level crossing here captures the coastal Enoden train line with the ocean backdrop, one of the most replicated pilgrimage shots from the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ11SDMbdGGAR57cTpquOVz0",
+      "name": "Tokorozawa Citizen Gymnasium",
+      "localName": "所沢市民体育館",
+      "coordinates": {
+        "lat": 35.8106117,
+        "lng": 139.4636538
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bfb4a183-66e6-4c44-b743-878594ce3fd2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bfb4a183-66e6-4c44-b743-878594ce3fd2.webp"
+        },
+        {
+          "url": "media/cached-image_fb1f757ec255ec7698313f67f323788af6f298328c0ac482b8de89b5f5137cba.jpg"
+        }
+      ],
+      "type": "スポーツ複合施設",
+      "categories": [
+        "スポーツ複合施設"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5 Chome-3番地 Namiki, Tokorozawa, Saitama 359-0042, Japan",
+      "city": "Tokorozawa",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8106117,139.4636538,3a,75y,196.15h,97.7t/data=!3m6!1e1!3m4!1sDQJL4AwnXVhj3oI4lZJyqQ!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Stands in for the gymnasium where Taichi and Sawa compete in a badminton tournament in episode 5, a key moment in establishing the friends' athletic side."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4eA-82ZcGGARIZZsmtDDF0Y",
+      "name": "music hall",
+      "localName": "音楽堂",
+      "coordinates": {
+        "lat": 35.996588,
+        "lng": 139.0553743
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc4804e1-6e7c-467b-be42-be588179ed42.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc4804e1-6e7c-467b-be42-be588179ed42.webp"
+        },
+        {
+          "url": "media/cached-image_a2eb10a711b00310db1e9d7fc53d331bcc691a749de53cf246f342a0030d2d6a.jpg"
+        }
+      ],
+      "type": "コンサート ホール",
+      "categories": [
+        "コンサート ホール"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "9-2 Momijigaoka, Nishi Ward, Yokohama, Kanagawa 220-0044, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.996588,139.0553743,3a,75y,124.01h,95.15t/data=!3m8!1e1!3m6!1sAF1QipPqgi6GxNIWySAVCAVc4pGtTlIpyaqbgVygtMx4!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPqgi6GxNIWySAVCAVc4pGtTlIpyaqbgVygtMx4%3Dw203-h100-k-no-pi-0-ya130.22282-ro-0-fo100!7i5760!8i2880?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The concert hall setting referenced in episode 2 when Wakana recalls memories of her late mother performing on stage, the emotional core of her reluctance to sing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_4",
+      "name": "Bastides",
+      "localName": "ラ・バスティード・シュール・ラ・メール",
+      "coordinates": {
+        "lat": 35.30666,
+        "lng": 139.49965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/efac0a41-3619-480f-b3c3-ba3c24c31a2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/efac0a41-3619-480f-b3c3-ba3c24c31a2a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3066217,139.4998205,3a,47.9y,242.99h,100.08t/data=!3m7!1e1!3m5!1s4LKjWXGDle94P15aWbpxdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.077194979844151%26panoid%3D4LKjWXGDle94P15aWbpxdg%26yaw%3D242.9929061503008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The European-style building near Katase that appears in the opening animation, adding to the sun-drenched Shonan atmosphere surrounding the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_5",
+      "name": "Ishinazaka Environmental Office",
+      "localName": "石名坂環境事業所",
+      "coordinates": {
+        "lat": 35.35022,
+        "lng": 139.46937
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62ed2dc3-af8d-46f6-990b-5a303caa2919.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62ed2dc3-af8d-46f6-990b-5a303caa2919.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3502518,139.4693806,3a,90y,204.75h,102.28t/data=!3m7!1e1!3m5!1st4HCxKVoDClhJnFzSTQ1Vg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.283122770440471%26panoid%3Dt4HCxKVoDClhJnFzSTQ1Vg%26yaw%3D204.7471666385481!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Background location seen in episode 12 as the group makes their way through the neighborhood for their final farewell performance before the school is demolished."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVze90XnzImARoRp3YqEpbtU",
+      "name": "Narita International Airport",
+      "localName": "成田国際空港",
+      "coordinates": {
+        "lat": 35.770178,
+        "lng": 140.3843215
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f814d25e-3561-40f5-ae85-8acbd65d94be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f814d25e-3561-40f5-ae85-8acbd65d94be.webp"
+        },
+        {
+          "url": "media/cached-image_1877fbe78620c311bb460957e21a14e1f401dc693bed9c77e82f442fd165e419.jpg"
+        },
+        {
+          "url": "media/cached-image_1b579a15c77901b450ae4286f34672c3ff7787918fab1bae7c369b12208f3312.jpg"
+        },
+        {
+          "url": "media/cached-image_3b97227bd22e27a4848a0b41eb53fa97481976fdadc1f5c1a875da193c0d32b8.jpg"
+        },
+        {
+          "url": "media/cached-image_0335ec029bf24a3b978a678176bf1c96982f4f24dee95c6d3dcede9d39ba19f0.jpg"
+        },
+        {
+          "url": "media/cached-image_72c965f66e7ce50035cc64e20386b7cafffed3b4a1bc2e39f77c8585d0766fe2.jpg"
+        }
+      ],
+      "type": "International airport",
+      "categories": [
+        "International airport"
+      ],
+      "rating": 4.3,
+      "reviewCount": 3349,
+      "priceLevel": null,
+      "address": "Narita International Airport (NRT), 1-1 Furugome, Narita, Chiba 282-0004, Japan",
+      "city": "Narita",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7633731,140.3863095,3a,90y,202.43h,101.22t/data=!3m8!1e1!3m6!1sAF1QipM6KC1mbGnpdtDQEtvE0u4Ub8Im9yWJO1x52ts!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM6KC1mbGnpdtDQEtvE0u4Ub8Im9yWJO1x52ts%3Dw900-h600-k-no-pi-11.223808937047693-ya337.4325160927074-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Where Wien says his tearful farewell to the group in the final episode before flying back to Austria, the last gathering of all five friends before they go their separate ways.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJUUwx_BFGGARx83eixtczqg",
+      "name": "Lawson Kamakura Sakanoshita",
+      "localName": "ローソン 鎌倉坂ノ下店",
+      "coordinates": {
+        "lat": 35.309087399999996,
+        "lng": 139.534073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aade3174-753c-48e4-8f6a-88a42943f2f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aade3174-753c-48e4-8f6a-88a42943f2f1.webp"
+        },
+        {
+          "url": "media/cached-image_43748612f2f20d86e7ad5680be0f0bc19785cb64dee18254618f178a3b6cd46b.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Kamakura Sakanoshita, 21-1 Sakanoshita, Kamakura, Kanagawa 248-0021, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.308703,139.5339054,3a,71.7y,56.89h,96.78t/data=!3m7!1e1!3m5!1sDGr5Tyvt95U37Kv4NnmyVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.7814274965234915%26panoid%3DDGr5Tyvt95U37Kv4NnmyVA%26yaw%3D56.886387369879166!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The convenience store glimpsed in the opening credits as the characters pass through the Shonan coastal streets on their daily commute."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_1Ey9phFGGARCkOZm5gG2B4",
+      "name": "Jochi-ji",
+      "localName": "浄智寺",
+      "coordinates": {
+        "lat": 35.3334214,
+        "lng": 139.5463092
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e1b37b7-5f47-45e8-b423-a8c62cce87b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e1b37b7-5f47-45e8-b423-a8c62cce87b6.webp"
+        },
+        {
+          "url": "media/cached-image_6de8cf22b3be86e8e3228dd9200e209f3678b2d3c4ef03f90e7a0a5c518141f5.jpg"
+        },
+        {
+          "url": "media/cached-image_4f0dce33c6742a56b86da0b4d7d88a73162a4cb3128a9270c4098c233c843ae4.jpg"
+        },
+        {
+          "url": "media/cached-image_fc362c58c6ec641efbcce253abb201cdd52418988367d7e60e127305c167056d.jpg"
+        },
+        {
+          "url": "media/cached-image_984834a4cadf7c5ce0420a2f75dd846dfa2d0e33c73a5ddaa50f5877ab4d67ad.jpg"
+        },
+        {
+          "url": "media/cached-image_5ade48c1061d77961af40d7303f9f11719eb209fe5768c77965e701663a6d8bb.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1597,
+      "priceLevel": null,
+      "address": "Jōchi-ji, 1402 Yamanouchi, Kamakura, Kanagawa 247-0062, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3334325,139.5466006,3a,75y,114.85h,95.8t/data=!3m7!1e1!3m5!1s6YHDICUH-DvTB743DIjy3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.802785663212688%26panoid%3D6YHDICUH-DvTB743DIjy3Q%26yaw%3D114.85479991742817!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The mossy Zen temple path appears in the opening animation as the characters walk through Kamakura's historic lanes, setting the quiet, cultural tone of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGzWRQZFFGGARFWcKYj7tVK0",
+      "name": "Benzaiten",
+      "localName": "銭洗弁財天 宇賀福神社",
+      "coordinates": {
+        "lat": 35.3256988,
+        "lng": 139.5422058
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_737d07e21921b6d264bf1233f116a8c1cf6aae61a45652ddb70ee9fc0f17b50d.jpg"
+        },
+        {
+          "url": "media/cached-image_73d65d3c6c5a8495ef55e52f73f76a857478193d6b6c22e1ee25753a2fe50ef5.jpg"
+        },
+        {
+          "url": "media/cached-image_a0c72798b26b84a0608fa4b7ecf28f4ee623b623e20304796901ec82cd3eb91a.jpg"
+        },
+        {
+          "url": "media/cached-image_1527765cec6b7eb1438665b9a8f921f66811279578ee9e43a0322b3c0755ef77.jpg"
+        },
+        {
+          "url": "media/cached-image_4c6e4caae4ecff9f4c98d10ede7d9578b3524d0e0ee7d864e065121769929221.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 7664,
+      "priceLevel": null,
+      "address": "Zeniarai Benten Shrine, 2 Chome-25-16 Sasuke, Kamakura, Kanagawa 248-0017, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0269279,135.7987479,3a,90y,12.86h,105.89t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICU2sj3ywE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbnUBVQ0Mlij2BuWNyTNa-RkezHaN1uU9hAmBzuTMxgDrbxxXf2k06NvNc4CGMULIU0UQw7Hk6dezWX_EYAbffftYZkzmsVjK-EvOXcInMkFGvdJrxN5N5ekFPYriGO8Z0onGUaOA%3Dw900-h600-k-no-pi-15.892335405938269-ya12.862394840248392-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Visited in episode 13 as the friends tour Kamakura landmarks together in a bittersweet send-off day before Wien's departure, marking the end of their shared summer."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtb9OmD1PGGARnuauYLKCzSY",
+      "name": "Observatory Square Wood Deck",
+      "localName": "展望台広場ウッドデッキ",
+      "coordinates": {
+        "lat": 35.2995162,
+        "lng": 139.4806893
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1ea72dd-52e7-4c55-8f21-ee3b66a63a99.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1ea72dd-52e7-4c55-8f21-ee3b66a63a99.webp"
+        },
+        {
+          "url": "media/cached-image_57d3468a94f647f604b91ea590f31a19825b55b873600298c0ca221a4061fb9e.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-3-19 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2995162,139.4806893,2a,75y,65.78h,97.64t/data=!3m7!1e1!3m5!1soXYigo6UWjHJALAMMoUkug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DoXYigo6UWjHJALAMMoUkug%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D4.366911%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Enoshima observation deck where Konatsu looks out over the ocean in episode 1, dreaming of starting her own choir club after being barred from the school's music club.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIQPxryFPGGARGOG1_Jtfldg",
+      "name": "Enoshima Benten Bridge",
+      "localName": "江の島弁天橋",
+      "coordinates": {
+        "lat": 35.3049706,
+        "lng": 139.4824315
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e70453d-35c3-4894-9c34-c59291932bfe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e70453d-35c3-4894-9c34-c59291932bfe.webp"
+        },
+        {
+          "url": "media/cached-image_11639bf3a29791dc71451b1b685002ebe9aab2354d5469299e4a540dc0e9c57f.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enoshima Benten Bridge, Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3049706,139.4824315,2a,90y,202.31h,102.84t/data=!3m6!1e1!3m4!1sKo0bX2Js09REV8GfJBHmLg!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The causeway to Enoshima Island featured in episode 3 as the friends cross over together, one of the show's most recognizable Shonan vistas.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_12",
+      "name": "Takahashi Tofu Shop",
+      "localName": "高橋豆腐店",
+      "coordinates": {
+        "lat": 35.3154,
+        "lng": 139.48494
+      },
+      "image": "https://cdn.animepilgrimage.com/places/54f7c9d6-9ed1-49c7-9a7c-332c91364582.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/54f7c9d6-9ed1-49c7-9a7c-332c91364582.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.315425,139.4849291,3a,75y,341.97h,95.88t/data=!3m7!1e1!3m5!1sgDgZDKxN6rhXgXd21s1OUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.87809150095876%26panoid%3DgDgZDKxN6rhXgXd21s1OUg%26yaw%3D341.9703667359772!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The neighborhood tofu shop in Katase that appears in episode 10 during a slice-of-life sequence showing the everyday town life around Wien and the other characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzxA1CVlPGGARzWqzsvnu118",
+      "name": "Ramen Izakaya MoriMori",
+      "localName": "麺屋酒場 盛盛",
+      "coordinates": {
+        "lat": 35.3121935,
+        "lng": 139.48766
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0da893e2-2b04-4b59-8a44-d9aaed6cef2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0da893e2-2b04-4b59-8a44-d9aaed6cef2b.webp"
+        },
+        {
+          "url": "media/cached-image_ba61a86b67184f9f353e9a49a914d5425ee8547aee47f48d59edade87308accd.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ramen Izakaya MoriMori, 3 Chome-15-17 Katase, Fujisawa, Kanagawa 251-0032, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3123427,139.4876723,3a,75y,186.41h,97.84t/data=!3m7!1e1!3m5!1sQHFLdyMB-Wad5zWvQUyk-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.836743083141954%26panoid%3DQHFLdyMB-Wad5zWvQUyk-A%26yaw%3D186.41018193131148!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Background restaurant in the Katase shopping district seen in episode 10, part of the detailed Enoshima streetscape PA Works animated with careful accuracy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_14",
+      "name": "GALLERY AAA",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.3118,
+        "lng": 139.48742
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86be6171-e080-465b-bcb7-80296df21c99.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86be6171-e080-465b-bcb7-80296df21c99.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3119516,139.4874723,3a,49.6y,197.34h,95.91t/data=!3m7!1e1!3m5!1seIYXB4FnXl9AvJCsYiITVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.91270927743966%26panoid%3DeIYXB4FnXl9AvJCsYiITVQ%26yaw%3D197.33531621259738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A small gallery in the Katase area recreated in episode 10 as part of the neighborhood backdrop during Wien's exploration of the town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuQUlySRPGGARtHXW5-W8wjQ",
+      "name": "Cafe&Bar NIQLOG",
+      "localName": "ニクログ 江の島",
+      "coordinates": {
+        "lat": 35.3111859,
+        "lng": 139.48780069999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/38b5fdc0-c2b1-43a5-8101-4903d5f417ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/38b5fdc0-c2b1-43a5-8101-4903d5f417ec.webp"
+        },
+        {
+          "url": "media/cached-image_973ea05ee513b0c46cb52b8490745bad52b83a12b8fa22ee1d5d8d23003c2b49.jpg"
+        }
+      ],
+      "type": "Bar & grill",
+      "categories": [
+        "Bar & grill"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "NIQLOG Enoshima, エースタワ １０２ 1 Chome-4-4 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3112583,139.4879513,3a,90y,349.41h,97.89t/data=!3m7!1e1!3m5!1sopUxeWZlxuXiWgoLti-njg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.889306816066636%26panoid%3DopUxeWZlxuXiWgoLti-njg%26yaw%3D349.41148712047436!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The cafe near Shonan-Enoshima Station depicted in episode 10 as part of the coastal town streetscape the characters move through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK-GB8JZFGGARsKa0Gut5Wt8",
+      "name": "Kamakura Municipal Onari Elementary School Old Auditorium",
+      "localName": "旧鎌倉市立御成尋常小学校講堂",
+      "coordinates": {
+        "lat": 35.3181534,
+        "lng": 139.5477655
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ac2df8f-be26-4415-9db4-3416d70c09ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ac2df8f-be26-4415-9db4-3416d70c09ba.webp"
+        },
+        {
+          "url": "media/cached-image_f7b23ad9d4862dd4edee6ecf90cd92948bc562e8b226680f8195fab01a8592ff.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kamakura Municipal Onari Elementary School Old Auditorium, 19-625-3 Onarimachi, Kamakura, Kanagawa 248-0012, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3180046,139.5479889,3a,90y,315.98h,110.61t/data=!3m7!1e1!3m5!1sbLSYr2mvyTJzZbnZH-sDrw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.609100293158164%26panoid%3DbLSYr2mvyTJzZbnZH-sDrw%26yaw%3D315.983840774956!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The historic wooden auditorium used as reference for scenes in episode 8 involving the students searching through Kamakura for a performance venue."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-bCf9OGGAR8bJ6tl0ziyk",
+      "name": "Sango Katase Guest Rooms",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.3140389,
+        "lng": 139.48460749999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7cf20a57-e734-4e9a-8de8-160267584453.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7cf20a57-e734-4e9a-8de8-160267584453.webp"
+        },
+        {
+          "url": "media/cached-image_adff8d94356e1bdfbb6702a86e9aff34fcd78c6a1d63f682e7946dc4a138f254.jpg"
+        },
+        {
+          "url": "media/cached-image_df93c5ecbdc6e38bf09296ab8a4d7e7b71ae2f76b8b3c084cd031e083997f522.jpg"
+        },
+        {
+          "url": "media/cached-image_ee163ffbe18da099fa439f3bcc371da4852605d16faa3a1b4e178fef0128b90a.jpg"
+        },
+        {
+          "url": "media/cached-image_4071311839adda004ebc4713fed2dca3ca00ec4dd06a55e549f4ba9351f83379.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.9,
+      "reviewCount": 18,
+      "priceLevel": null,
+      "address": "Sango Katase Guest Rooms, 4 Chome-16-27 Katase, Fujisawa, Kanagawa 251-0032, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3140464,139.4844066,3a,90y,127.05h,91.81t/data=!3m7!1e1!3m5!1s-xnSwui2Y_WFWDcyQCs4Jw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8131024275081415%26panoid%3D-xnSwui2Y_WFWDcyQCs4Jw%26yaw%3D127.04619593726743!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The small guesthouse in Katase visible in episode 10 as part of the quiet residential neighborhood the characters pass through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl1xelAJPGGARFwR9ls3_d4g",
+      "name": "Enoshima Apartment Hotel",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.3116621,
+        "lng": 139.4880488
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d9e922f-2e26-4fa0-8dad-9fa93fd12998.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d9e922f-2e26-4fa0-8dad-9fa93fd12998.webp"
+        },
+        {
+          "url": "media/cached-image_712ef0cdc5e16fa80c1b1fb1604ad9e7431f4ddc67596349ec5624daaeb0065e.jpg"
+        },
+        {
+          "url": "media/cached-image_adff8d94356e1bdfbb6702a86e9aff34fcd78c6a1d63f682e7946dc4a138f254.jpg"
+        },
+        {
+          "url": "media/cached-image_4071311839adda004ebc4713fed2dca3ca00ec4dd06a55e549f4ba9351f83379.jpg"
+        },
+        {
+          "url": "media/cached-image_46ee040a1d996a35b18563abcdf5b024db466f939d47092d1e8a5a4c037488bf.jpg"
+        },
+        {
+          "url": "media/cached-image_0b222dd893658740b5c68bbac332edd1078269f1b17b1e996c5383af45866b4a.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒251-0032 Kanagawa, Fujisawa, Katase, 3 Chome−14−39 Enoshima Apartment Hotel",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3115832,139.4882005,3a,90y,154.52h,100.65t/data=!3m7!1e1!3m5!1sJgpuwsSL4p6UcYjI1oYS_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.645060450842053%26panoid%3DJgpuwsSL4p6UcYjI1oYS_A%26yaw%3D154.51706965877906!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Appears in episode 10 as background architecture in the Katase neighborhood, part of PA Works' faithful recreation of the Enoshima coastal district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt_axx9mZc18Rn5_VLNMsOzA",
+      "name": "Takahashi Internal Medicine Clinic",
+      "localName": "医療法人社団 たかはし内科・呼吸器内科クリニック",
+      "coordinates": {
+        "lat": 42.9275362,
+        "lng": 143.2003447
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0bc48295-b4d3-46d2-aa89-c6c49ad26ca6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0bc48295-b4d3-46d2-aa89-c6c49ad26ca6.webp"
+        },
+        {
+          "url": "media/cached-image_d34d7c27ac11f68308f59f25cda84aef9b5a22fe622f0e76b6536fc49f8dbfac.jpg"
+        }
+      ],
+      "type": "Medical clinic",
+      "categories": [
+        "Medical clinic"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takahashi Internal Medicine and Respiratory Clinic, 三条メディカルセンタービル 3F 4 Chome-14 Nishi 3 Jominami, Obihiro, Hokkaido 080-0013, Japan",
+      "city": "Obihiro",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3109202,139.4895419,3a,75y,75.05h,94.45t/data=!3m7!1e1!3m5!1sm713GZAsfv5tVJmMtR4ceA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.45363272152224%26panoid%3Dm713GZAsfv5tVJmMtR4ceA%26yaw%3D75.0521433509261!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A clinic in the Katase area that serves as background in episode 10 during the neighborhood scenes, part of the meticulously sourced real-world streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58JJ7e1FGGARL2YCpXJh6B8",
+      "name": "Kamakura Museum of Literature",
+      "localName": "鎌倉文学館",
+      "coordinates": {
+        "lat": 35.3155978,
+        "lng": 139.5388269
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c14945b9-2f3c-415c-9f13-26e6ca3aebec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c14945b9-2f3c-415c-9f13-26e6ca3aebec.webp"
+        },
+        {
+          "url": "media/cached-image_47c0fc742d67d1d3a814bb8e44d1a22817b21730d2596ef676668d69e7c9925c.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Museum of Literature, 1 Chome-5-3 Hase, Kamakura, Kanagawa 248-0016, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kamakura+Museum+of+Literature/@35.3156365,139.5388344,3a,90y,5.5h,111.78t/data=!3m8!1e1!3m6!1sAF1QipNE7679DZnPUD60zh2arruGj8uYn7Nf1abPB0_4!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNE7679DZnPUD60zh2arruGj8uYn7Nf1abPB0_4%3Dw900-h600-k-no-pi-21.78086931797091-ya0.49898039289708507-ro0-fo100!7i10240!8i5120!4m9!3m8!1s0x601845eded49c2e7:0x1fe86172a502662f!8m2!3d35.3155978!4d139.5388269!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F04csvg_?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The rose-garden museum in Kamakura's Hase district seen in episode 8 when the students wander through historic Kamakura, reflecting the series' love of the area's literary and cultural atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD41PrdsIAWARXEjfpvINSMo",
+      "name": "Site of Chorakuji Temple",
+      "localName": "長楽寺",
+      "coordinates": {
+        "lat": 35.002576399999995,
+        "lng": 135.7835289
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8cee9418-eced-44e2-8957-e7f57549fdf2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8cee9418-eced-44e2-8957-e7f57549fdf2.webp"
+        },
+        {
+          "url": "media/cached-image_7f31425cc6384ea6211a02c1d5ebfb52f3c7f46ac380ae0d38fa743d14a86751.jpg"
+        },
+        {
+          "url": "media/cached-image_b52a4542e4b36a9c0e3422fed7874abf46cc3feabb32cdf7fdfcd31fcfa7b42d.jpg"
+        },
+        {
+          "url": "media/cached-image_e557125975a36ba3bbdecba69cb6a2a76f159367a92b8201323d9a3f758e5251.jpg"
+        },
+        {
+          "url": "media/cached-image_673e6f2889b25e32cc259d7fa14a8aaec03acd326ecb502abd0be74370258ff1.jpg"
+        },
+        {
+          "url": "media/cached-image_c87ed4b19164dcdbc1e372a72c71bbcf9f2b7aadabac4b56df5765db18a720f8.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.1,
+      "reviewCount": 325,
+      "priceLevel": null,
+      "address": "Chōraku-ji Temple, 626 Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.314833,139.5394524,3a,90y,11.73h,101.66t/data=!3m7!1e1!3m5!1sl1Fa4bDB0vPWWOidxeSZHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.664044890469967%26panoid%3Dl1Fa4bDB0vPWWOidxeSZHQ%26yaw%3D11.731723024390135!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "A Kamakura temple ruin area glimpsed in episode 8 as the characters explore the city's historic back streets, adding depth to the Kamakura setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz2DmWwFPGGARqwZ1vM6ZQls",
+      "name": "Mejiroyamashita Station",
+      "localName": "目白山下駅",
+      "coordinates": {
+        "lat": 35.3140164,
+        "lng": 139.4914837
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fdefb148-9856-4ab7-be11-09285d4dab38.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fdefb148-9856-4ab7-be11-09285d4dab38.webp"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Mejiroyamashita Station, 3 Chome-2776 Katase, Fujisawa, Kanagawa 251-0032, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3150988,139.4933214,3a,90y,217.64h,99.34t/data=!3m7!1e1!3m5!1s6yRxHrQs0svZkVdU-AjwTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.342797608581577%26panoid%3D6yRxHrQs0svZkVdU-AjwTA%26yaw%3D217.6434142012088!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The small Enoden line station near Katase seen in episode 8 as the characters travel along the coastal railway, a recurring transit landmark in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw6J7lMdFGGARgOIEfCdaaYk",
+      "name": "Shirahata Shrine",
+      "localName": "相州藤沢 白旗神社",
+      "coordinates": {
+        "lat": 35.3505293,
+        "lng": 139.4787129
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ec93260-6e80-42e4-a80c-10602ef333c5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ec93260-6e80-42e4-a80c-10602ef333c5.webp"
+        },
+        {
+          "url": "media/cached-image_52cfb6192b406327e0f82b360da12452d9f0dc76d9c4b1853bd8aaa88dfc1357.jpg"
+        },
+        {
+          "url": "media/cached-image_0d0376954268c087431d933555f5b7992fbd2e1a25d921be97510d762ab8c2c7.jpg"
+        },
+        {
+          "url": "media/cached-image_cce0f2639d427ddb41c3acaaedeb8491c58edb71b2b0c5eae75de5ae48d65ecc.jpg"
+        },
+        {
+          "url": "media/cached-image_d05e93c26ea1e98b138c6147be49e2c8d4d817b20a124a973fe51f69bc9ea9b9.jpg"
+        },
+        {
+          "url": "media/cached-image_a9775fff715bb4ba9b0dd168911a5b8bff3df6d43a04ba71346fe15053c9873b.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 782,
+      "priceLevel": null,
+      "address": "Shirahata Shrine, 2 Chome-4-7 Fujisawa, Kanagawa 251-0052, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3250074,139.5568909,3a,90y,238.2h,94.64t/data=!3m7!1e1!3m5!1sz_lK6NeTuT29y2xdX9brxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.643230939830104%26panoid%3Dz_lK6NeTuT29y2xdX9brxw%26yaw%3D238.20134410609668!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The local Fujisawa shrine appearing in episode 7 during a community festival sequence, where the group enjoys traditional summer festival activities together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfe0P-ONOGGARFKhCh9ZQTO0",
+      "name": "Zazamaru",
+      "localName": "湘南海鮮 座々丸",
+      "coordinates": {
+        "lat": 35.300982999999995,
+        "lng": 139.482402
+      },
+      "image": "https://cdn.animepilgrimage.com/places/30613622-1dd7-4fb4-ab0b-de855f34b24c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/30613622-1dd7-4fb4-ab0b-de855f34b24c.webp"
+        },
+        {
+          "url": "media/cached-image_1e4bc7ca8fc38022edfa33064fdcd8c835d4c8bdef32242004212996a6957f11.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Zazamaru, 1 Chome-6-7 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3009425,139.4826173,3a,90y,262.93h,97.01t/data=!3m7!1e1!3m5!1sn-5Nt9nKuvIrWKZPSWCVSA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.013746145812135%26panoid%3Dn-5Nt9nKuvIrWKZPSWCVSA%26yaw%3D262.9325441749712!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Enoshima seafood restaurant seen in episode 7 where the friends eat together after the festival, a warm group dining moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAe8gwtRPGGAREg1NEE2V4hU",
+      "name": "MAHALO Enoshima store",
+      "localName": "MAHALO 江ノ島店",
+      "coordinates": {
+        "lat": 35.3079222,
+        "lng": 139.4861928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa8fa82b-b4cf-48de-a1e6-3d6287155745.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa8fa82b-b4cf-48de-a1e6-3d6287155745.webp"
+        },
+        {
+          "url": "media/cached-image_aa340405839e97eb816f9e8a8d89f071336a618e9bb37e58149f2dc0b41f2b18.jpg"
+        },
+        {
+          "url": "media/cached-image_cdecf761d5c013c2132dba12b98109ed02a45e197001c9abd8e3c148d049229d.jpg"
+        },
+        {
+          "url": "media/cached-image_b54a5409c7b78d36c96dcbfe90038962de94e724a70b6e017d05875dfa4f6cfc.jpg"
+        },
+        {
+          "url": "media/cached-image_080605053735d8521a651a92a84e80c0cc4be49eecc03d6e5f44d7dce8046f90.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MAHALO Enoshima store, シルフィードタワー 1F 1 Chome-12-7 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3077875,139.4866316,2a,90y,293.5h,137.19t/data=!3m7!1e1!3m5!1sxzqwNCmSjh6GvcDOjNR3jA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-47.19190286942859%26panoid%3DxzqwNCmSjh6GvcDOjNR3jA%26yaw%3D293.498598886799!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The beachside restaurant near Katase beach depicted in episode 6 during the group's beach day, part of the lively summer Enoshima atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_26",
+      "name": "Cruising Motor Boat Ramp",
+      "localName": "クルージングモーターボート乗り場",
+      "coordinates": {
+        "lat": 35.30639,
+        "lng": 139.48308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4b49b55-f29d-4d72-baeb-1e077e259f35.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4b49b55-f29d-4d72-baeb-1e077e259f35.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3067513,139.4833832,3a,44.6y,307.35h,96.76t/data=!3m8!1e1!3m6!1sAF1QipP2wm6yX1JujYXJYXcREE6IP4g6RILtLZmTPON1!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipP2wm6yX1JujYXJYXcREE6IP4g6RILtLZmTPON1%3Dw900-h600-k-no-pi-6.758884988815922-ya307.35048456132336-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The boat launch near Enoshima Marina seen in episode 6 during the group's seaside outing, capturing the leisure culture of the Shonan coast."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXTiCoXZPGGAR1P_sJVdfuv0",
+      "name": "Chigogafuchi Abyss",
+      "localName": "稚児ヶ淵",
+      "coordinates": {
+        "lat": 35.2987385,
+        "lng": 139.4744322
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afa38bd0-63f0-4fcc-8973-0584c63cf273.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afa38bd0-63f0-4fcc-8973-0584c63cf273.webp"
+        },
+        {
+          "url": "media/cached-image_bd8a9d91f031770599ba1a9d40559f4bbdeef3650fa29267cc1e44069415c49a.jpg"
+        },
+        {
+          "url": "media/cached-image_8ca5c0536417df381f2c57bab403b3702cc5b856db0c7c0cd3d84207e431a500.jpg"
+        }
+      ],
+      "type": "Scenic spot",
+      "categories": [
+        "Scenic spot"
+      ],
+      "rating": 4.5,
+      "reviewCount": 36,
+      "priceLevel": null,
+      "address": "Chigogafuchi Abyss, 2 Chome-5-2 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2988023,139.4749791,2a,90y,191.89h,96.55t/data=!3m7!1e1!3m5!1sKr9Nhd8XZTpu3TO49rJgMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.551087841732226%26panoid%3DKr9Nhd8XZTpu3TO49rJgMw%26yaw%3D191.89335112821917!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The dramatic rocky coastline at Enoshima's tip featured in episode 6, where the characters stand at the ocean's edge during their island exploration."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA1lj4-NOGGARNwZpVwH6JdA",
+      "name": "Enoshima Samarina",
+      "localName": "江の島マリーナ",
+      "coordinates": {
+        "lat": 35.301546,
+        "lng": 139.483305
+      },
+      "image": "https://cdn.animepilgrimage.com/places/383d7b8f-cc9f-44be-ac77-602b533e6644.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/383d7b8f-cc9f-44be-ac77-602b533e6644.webp"
+        },
+        {
+          "url": "media/cached-image_19dd41df7c2ce5af2c86b629abffb888ee6857ee057de73a1df643c53227e75d.jpg"
+        }
+      ],
+      "type": "Marina",
+      "categories": [
+        "Marina"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enoshima Marina, 1 Chome-2 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.307384,139.4849013,3a,75y,76.78h,100.35t/data=!3m7!1e1!3m5!1sNRTmq2ZZYOsaCGRAwt0q3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.34929598160285%26panoid%3DNRTmq2ZZYOsaCGRAwt0q3g%26yaw%3D76.78368658833911!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The marina near Enoshima Island that appears in episode 5, used as a backdrop for a waterside scene as the group spends time by the sea."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9urP_1OGGARcLOVuj1HLPg",
+      "name": "Chotto Yacht Beach House",
+      "localName": "海の家ちょっとヨットビーチハウス湘南江ノ島",
+      "coordinates": {
+        "lat": 35.307057,
+        "lng": 139.485696
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8b0568d5-42f2-47af-aba5-4d668fce5afd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8b0568d5-42f2-47af-aba5-4d668fce5afd.webp"
+        },
+        {
+          "url": "media/cached-image_01f8e682134b515fdf592777d53eb447bd59c78afbeb66e53414181d4b4bc448.jpg"
+        },
+        {
+          "url": "media/cached-image_43e4676eb60c276ba13fc09c0a7a71ab5b07e253ddf0e9c5bb9e2730da9ce945.jpg"
+        },
+        {
+          "url": "media/cached-image_df2591bf02077e808e242ab59e10ad06f3be103d1cd369d787788c1bcacc0fa2.jpg"
+        },
+        {
+          "url": "media/cached-image_6e6b19741807dc0af476fac00e8e84be62f5b6d1160b8de3f6fd3b570cde217d.jpg"
+        },
+        {
+          "url": "media/cached-image_79d89cee7275fb992fda1fead9fb83fa8e8d30ddcc22bf4ce694ccf8b247b940.jpg"
+        }
+      ],
+      "type": "Barbecue restaurant",
+      "categories": [
+        "Barbecue restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒251-0035 Kanagawa, Fujisawa, Katasekaigan, 1 Chome−15 Chotto Yacht Beach House, 東浜海水浴場 A-22（Google Mapでご利用ください",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3075367,139.4857916,2a,75y,256.74h,97.13t/data=!3m7!1e1!3m5!1sPgLYD7McFY5oB1wdZOMXVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.134738114949741%26panoid%3DPgLYD7McFY5oB1wdZOMXVA%26yaw%3D256.74395724625!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The beach house on Katase Higashihama Beach where the group works part-time in episode 4, Konatsu's plan to earn money for the choir club's activities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_30",
+      "name": "Beach House OLIVE",
+      "localName": "海の家OLIVE",
+      "coordinates": {
+        "lat": 35.30708,
+        "lng": 139.48574
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d411bf0-8c2f-45e5-8b8a-e29ddaacc5d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d411bf0-8c2f-45e5-8b8a-e29ddaacc5d1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3070034,139.4859394,2a,75y,196.84h,103.02t/data=!3m7!1e1!3m5!1sBmasEyDwFif4q0xHq3mrZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.016673837827668%26panoid%3DBmasEyDwFif4q0xHq3mrZQ%26yaw%3D196.84079531198987!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Another Katase beach house seen in episode 4 adjacent to where the characters are working, part of the lively summer beach atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI_5leQEJAWAR2g7NJIEjjEM",
+      "name": "Shione",
+      "localName": "SIONE 銀閣寺本店 / SHOWKO",
+      "coordinates": {
+        "lat": 35.027172,
+        "lng": 135.79258
+      },
+      "image": "https://cdn.animepilgrimage.com/places/63a98678-8a5a-43da-95c1-de8bbfe2d762.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/63a98678-8a5a-43da-95c1-de8bbfe2d762.webp"
+        },
+        {
+          "url": "media/cached-image_d97ba9efcabd1ee5dcc83a576d79399a535ba3190d8cc2dd1d1eec73cd8a4831.jpg"
+        }
+      ],
+      "type": "Pottery store",
+      "categories": [
+        "Pottery store"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "SIONE, 29 Jodoji Ishibashicho, Sakyo Ward, Kyoto, 606-8406, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3058709,139.4830541,2a,90y,180.38h,98.06t/data=!3m7!1e1!3m5!1shOHEpt4owd02kZZW_aD9VA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.05826322036772%26panoid%3DhOHEpt4owd02kZZW_aD9VA%26yaw%3D180.3838065240005!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A shop near the Katase beach area visible in episode 4 as the friends walk the beachside strip during their summer beach house work stint."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUazYaDBKGmARHoX1acS7Zgk",
+      "name": "Kanehachi Rice Store",
+      "localName": "かねはち茶園",
+      "coordinates": {
+        "lat": 34.9780598,
+        "lng": 138.3678819
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7dacd4bd-0709-41eb-9443-0946775c25e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7dacd4bd-0709-41eb-9443-0946775c25e0.webp"
+        },
+        {
+          "url": "media/cached-image_0c6ed442a8704af19a5f50382bd0217294498aa65c69d5930e79e24bb18fafba.jpg"
+        }
+      ],
+      "type": "Tea store",
+      "categories": [
+        "Tea store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒420-0005 Shizuoka, Aoi Ward, Kitabancho, 130 かねはち茶園",
+      "city": "Shizuoka",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3122206,139.4875785,3a,49.6y,179.55h,93.53t/data=!3m7!1e1!3m5!1sgThUg8gETJVyNK-vzxU8IA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.52899327126984%26panoid%3DgThUg8gETJVyNK-vzxU8IA%26yaw%3D179.54531080748683!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A local shop in the Katase neighborhood seen in episode 4 as part of the detailed background scenery PA Works sourced from the real Enoshima area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq232UTmcBGARjLI6VLkEPYE",
+      "name": "Nagata Photo Studio",
+      "localName": "ナガタフォトスタジオ",
+      "coordinates": {
+        "lat": 35.004667999999995,
+        "lng": 137.04315499999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d344d99d-c23e-4a2f-b566-a40b6e2b7d0f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d344d99d-c23e-4a2f-b566-a40b6e2b7d0f.webp"
+        },
+        {
+          "url": "media/cached-image_57c37821cdb4d32dec0a92452c1df0319af8a819be81aeabd4ba1cfa0e9b72bd.jpg"
+        }
+      ],
+      "type": "Portrait studio",
+      "categories": [
+        "Portrait studio"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagata Photo Studio, 1 Chome-56 Shintomi, Chiryu, Aichi 472-0047, Japan",
+      "city": "Chiryu",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3129567,139.4876976,3a,90y,3.17h,98.01t/data=!3m7!1e1!3m5!1s8cKG4eoR86rZeybfEGn12g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.0060093496989%26panoid%3D8cKG4eoR86rZeybfEGn12g%26yaw%3D3.168112355876463!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A photo studio on the Katase shopping street seen in episode 4, part of the neighborhood's commercial district depicted in the beach episode arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnTQHTwA9GGARp9mbIg61wPw",
+      "name": "Umi-no-ie Sasaoka-tei",
+      "localName": "UMI no YADO みなと",
+      "coordinates": {
+        "lat": 35.1481323,
+        "lng": 139.61730889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6cd86322-b566-4589-afab-d1943cb1da95.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6cd86322-b566-4589-afab-d1943cb1da95.webp"
+        },
+        {
+          "url": "media/cached-image_c9df1b16c4483c3a6a3832c48040704769b920a597d938dede86e1e239528aa2.jpg"
+        }
+      ],
+      "type": "Budget Japanese inn",
+      "categories": [
+        "Budget Japanese inn"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒238-0245 Kanagawa, Miura, Kaitocho, 12−15 UMI no YADO みなと",
+      "city": "Miura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3075668,139.487887,2a,75y,334.91h,98.31t/data=!3m7!1e1!3m5!1sr-1RY-3jmd47TwBIRCcFHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.308841237660431%26panoid%3Dr-1RY-3jmd47TwBIRCcFHA%26yaw%3D334.90830229076124!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "A seaside inn near Enoshima referenced in episode 3 as part of the coastal scenery when the group explores the area around the island."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQcxQBAJPGGARy9OUpizISmU",
+      "name": "Shonan-Enoshima Station",
+      "localName": "湘南江の島駅",
+      "coordinates": {
+        "lat": 35.3117812,
+        "lng": 139.4877095
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1744202f-ca00-456c-8ca5-27372d16fb2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1744202f-ca00-456c-8ca5-27372d16fb2e.webp"
+        },
+        {
+          "url": "media/cached-image_0ec00319a6ab2b15915138c348e326053bcb5600c5e41189de08fe665fd040de.jpg"
+        },
+        {
+          "url": "media/cached-image_1aa8e8d36c01ed307806bd7f6de498bee813be4ca63168b1abcb28a8533ebcb4.jpg"
+        },
+        {
+          "url": "media/cached-image_ce0ae165745ed15573f7dbadc00bfe8e1148e264c83ac7d89ec3f52c675cdc6e.jpg"
+        },
+        {
+          "url": "media/cached-image_522e477fe8bf5ea1a8a27461f664f4afc5dd1ae3012a2234347f0db523ab39a0.jpg"
+        },
+        {
+          "url": "media/cached-image_29747524ddb395acf01c62533b0fe067c44210ad030317e5d3ec496fb00e2ed0.jpg"
+        }
+      ],
+      "type": "Monorail station",
+      "categories": [
+        "Monorail station"
+      ],
+      "rating": 4.3,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Shōnan-Enoshima Station, 3-chōme-15 Katase, Fujisawa, Kanagawa 251-0032, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Sh%C5%8Dnan-Enoshima+Station/@35.3118944,139.487912,3a,90y,78.29h,94.6t/data=!3m7!1e1!3m5!1sAF1QipNNEoq-5FMhhm6Kxq5xLQqXBAMV3krhAP0Otrg_!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNNEoq-5FMhhm6Kxq5xLQqXBAMV3krhAP0Otrg_%3Dw900-h600-k-no-pi-4.6049616697153795-ya31.288612248070038-ro0-fo100!7i8704!8i4352!4m9!3m8!1s0x60184f020450cc41:0x654ac82ca694d3cb!8m2!3d35.3117812!4d139.4877095!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F0czclvm?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Shonan Monorail terminus at Enoshima depicted in episode 3 as the characters arrive on the island, a key transport hub connecting the students to their Shonan playground."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7ZBgjxZPGGAR1KFkZmmTVo0",
+      "name": "Koshigoe Rakko Park",
+      "localName": "腰越ラッコ公園",
+      "coordinates": {
+        "lat": 35.306762299999995,
+        "lng": 139.5019008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/960bc90d-8715-479d-afbb-7f3478b5781b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/960bc90d-8715-479d-afbb-7f3478b5781b.webp"
+        },
+        {
+          "url": "media/cached-image_046447aeb3258ec0343f18f312eaa527701f237359a30ea5382bd1fc9057aca8.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Koshigoe Rakko Park, 1 Chome-1-1 Koshigoe, Kamakura, Kanagawa 248-0033, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3067897,139.5025332,3a,90y,69.01h,98.47t/data=!3m7!1e1!3m5!1s1vkYUGwx02gR9AXV-R-xcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.471568669414566%26panoid%3D1vkYUGwx02gR9AXV-R-xcQ%26yaw%3D69.01472928455264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The small seaside park near Kamakurakoko-Mae Station seen in episode 3, where the characters pause with a view of the Enoden tracks and the Shonan coastline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tari-tari_37",
+      "name": "Shoroumon Gate",
+      "localName": "鐘楼門",
+      "coordinates": {
+        "lat": 35.33347,
+        "lng": 139.54703
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ce8523d-1a24-4bc9-b092-3a55f6f219d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ce8523d-1a24-4bc9-b092-3a55f6f219d1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3335363,139.5470495,3a,75y,212.47h,105.83t/data=!3m7!1e1!3m5!1sAF1QipP9zBO_aMKFgTVSRHwFLOXMm3Pt0jEPIWznUdN7!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipP9zBO_aMKFgTVSRHwFLOXMm3Pt0jEPIWznUdN7%3Dw900-h600-k-no-pi-15.825590876282021-ya26.32258921325203-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The bell tower gate near Jochi-ji temple in Kamakura featured in episode 2, seen as Wakana walks the historic trails while carrying memories of her late mother."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMfpujsFFGGARLXb255557MM",
+      "name": "Kamakura Station Old Station Clock Tower",
+      "localName": "鎌倉駅旧駅舎時計台",
+      "coordinates": {
+        "lat": 35.3193415,
+        "lng": 139.5500097
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b8602204-aaf8-4e76-a4e9-f8206414570f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b8602204-aaf8-4e76-a4e9-f8206414570f.webp"
+        },
+        {
+          "url": "media/cached-image_75083cece6cc8d80d2f13b3570403de3a659335680b6fae604ffb48b1463afc4.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Station Old Station Clock Tower, 12 Onarimachi, Kamakura, Kanagawa 248-0012, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3192724,139.549939,3a,48.8y,41.08h,94.41t/data=!3m7!1e1!3m5!1sJ0_n-tEyzM8WzQBbXLvKPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.413765746141664%26panoid%3DJ0_n-tEyzM8WzQBbXLvKPw%26yaw%3D41.082623810443316!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The historic clock tower at Kamakura Station's west exit seen in episode 1 as the students commute to school, establishing the Kamakura backdrop of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcYHULH2PGGARjaj9K8kdSoI",
+      "name": "Hanakagura Panda-Yaki",
+      "localName": "花神楽パンダ焼き御徒町店",
+      "coordinates": {
+        "lat": 35.707713,
+        "lng": 139.7747579
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18b585b1-5fe1-4bea-9154-c4a1c8810198.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18b585b1-5fe1-4bea-9154-c4a1c8810198.webp"
+        },
+        {
+          "url": "media/cached-image_090eacde7bb5ea5eaa81d5741d665173ebbf12d2dee2a35da7187bf19f9cce54.jpg"
+        }
+      ],
+      "type": "Dessert restaurant",
+      "categories": [
+        "Dessert restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hanakagura Pandayaki, ＪＲ御徒町駅１Ｆ＿ 北口改札外 5 Chome-27-8 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3191916,139.5499787,3a,75y,117.84h,95t/data=!3m7!1e1!3m5!1sS6HIFm8YbD1AgK6h_GRQnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.998793542691089%26panoid%3DS6HIFm8YbD1AgK6h_GRQnQ%26yaw%3D117.84063816670125!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A snack stall near Kamakura Station glimpsed in episode 1 as Konatsu and friends pass through the shopping area on their way home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4QKNduZOGGARZt77as3gZU8",
+      "name": "Shima Cafe Enomaru",
+      "localName": "しまカフェ 江のまる",
+      "coordinates": {
+        "lat": 35.299222,
+        "lng": 139.47878409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d92b8a74-9ac2-4511-a349-057865c1a6a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d92b8a74-9ac2-4511-a349-057865c1a6a3.webp"
+        },
+        {
+          "url": "media/cached-image_3f67f87c90997e5e439d0ac0b0a7fd28f6404e9d560ad0d4d3395cd4d97f27be.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shima Cafe Enomaru, 2 Chome-3-37 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2991674,139.4788371,2a,90y,342.95h,91.19t/data=!3m7!1e1!3m5!1sf6O4C17LjSWC0GURo1-QQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1854062427374288%26panoid%3Df6O4C17LjSWC0GURo1-QQg%26yaw%3D342.95110850393644!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A cafe on Enoshima Island seen in episode 1 when the main characters first explore the island together, part of PA Works' loving depiction of the Enoshima tourist area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPSxIMxRPGGARq1LwJSiz02Q",
+      "name": "7 Miles Club",
+      "localName": "セブンマイルズクラブ",
+      "coordinates": {
+        "lat": 35.3070428,
+        "lng": 139.5034264
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b15d3f68-c21e-4a03-9584-044fc88cb1e9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b15d3f68-c21e-4a03-9584-044fc88cb1e9.webp"
+        },
+        {
+          "url": "media/cached-image_fb789316dafd6362a8035372fc934950d448478ebf72898d7cc82a19956f2e0e.jpg"
+        }
+      ],
+      "type": "Fashion accessories store",
+      "categories": [
+        "Fashion accessories store"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7 Miles Club, 2 Chome-17-9 Shichirigahama, Kamakura, Kanagawa 248-0026, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3069786,139.5042322,3a,90y,92.68h,101.59t/data=!3m7!1e1!3m5!1s42icWuQrcfVNyiyWfGIowA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.589847999403801%26panoid%3D42icWuQrcfVNyiyWfGIowA%26yaw%3D92.68007470236618!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A shop in the Shichirigahama area seen in episode 1, named after the famous seven-mile (shichirigahama) beach stretch that gives this part of Kamakura its identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8xAo-gFPGGAR19HeGA1FpbY",
+      "name": "Nakajima Flower Shop Enoshima Branch",
+      "localName": "（有）中島生花店 江の島店",
+      "coordinates": {
+        "lat": 35.312503,
+        "lng": 139.487769
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cff3f999-8ad6-4d1a-904d-2690ea31f2c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cff3f999-8ad6-4d1a-904d-2690ea31f2c9.webp"
+        },
+        {
+          "url": "media/cached-image_ff0a9f4f35b564523139f45853770b30f5141c374ea47a1434e6b036b20fc044.jpg"
+        }
+      ],
+      "type": "Florist",
+      "categories": [
+        "Florist"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nakajima Flower Shop Enoshima Branch, 3 Chome-14-46 Katase, Fujisawa, Kanagawa 251-0032, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3125426,139.4876774,3a,90y,118.45h,94.82t/data=!3m7!1e1!3m5!1sDm4A0_DXQMvM1l-IAquxqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.823361558833668%26panoid%3DDm4A0_DXQMvM1l-IAquxqg%26yaw%3D118.44886794047189!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The flower shop near Shonan-Enoshima Station depicted in episode 1 as part of the Katase shopping street, one of many real businesses faithfully reproduced by PA Works."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxwn1VRRPGGARH_wAQYKbFbE",
+      "name": "Shichirigahama Nichome Park",
+      "localName": "七里ガ浜二丁目公園",
+      "coordinates": {
+        "lat": 35.307908499999996,
+        "lng": 139.505088
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dfc756c6-56e2-4694-99bc-2d4d435aee88.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dfc756c6-56e2-4694-99bc-2d4d435aee88.webp"
+        },
+        {
+          "url": "media/cached-image_3fbcacad1c241cb877256f09a3df3628368e994c902cb18e0efd6e0e7f51a3b0.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shichirigahama Nichome Park, 2 Chome-21 Shichirigahama, Kamakura, Kanagawa 248-0026, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3070755,139.5048857,3a,48.7y,52.14h,99.66t/data=!3m7!1e1!3m5!1swOGTByU-BJ5oGhrFziKtfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.65849127950132%26panoid%3DwOGTByU-BJ5oGhrFziKtfA%26yaw%3D52.13519140625109!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The small park in Shichirigahama seen in episode 1 as the characters walk along the coastal road, framed by the ocean views characteristic of Tari Tari's Shonan setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbY_IQeROGGARfMxXQ9aM8B4",
+      "name": "Enoshima Post Office",
+      "localName": "江ノ島郵便局",
+      "coordinates": {
+        "lat": 35.3015587,
+        "lng": 139.4808165
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ac76c708-e3f7-4aab-889b-95938b11e46e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ac76c708-e3f7-4aab-889b-95938b11e46e.webp"
+        },
+        {
+          "url": "media/cached-image_8b8815509b6323ce7dba44ef03f388aae6fdc0cb627be97d81394a37548ce9e3.jpg"
+        },
+        {
+          "url": "media/cached-image_d85ce2b85f1e94689e0e3df0d6deccd68ae8edee13c77f844e0a008654efc4f5.jpg"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Enoshima Post Office, 1 Chome-4-13 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3015163,139.4807306,3a,73.3y,24.23h,86.18t/data=!3m7!1e1!3m5!1ssWaPID1pSoWIxjl4b6YfWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.816920931976995%26panoid%3DsWaPID1pSoWIxjl4b6YfWw%26yaw%3D24.231463856084623!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The post office on Enoshima Island featured in episode 1, one of the real landmarks PA Works incorporated to ground the fantasy of Shirahamazaka High in actual Enoshima geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA3KO9eVOGGARAqorawfvozA",
+      "name": "Enoshima-tei",
+      "localName": "江之島亭",
+      "coordinates": {
+        "lat": 35.2996972,
+        "lng": 139.47715159999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f7615881-de7d-4d84-97fd-cb4ff1d4fa5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f7615881-de7d-4d84-97fd-cb4ff1d4fa5a.webp"
+        },
+        {
+          "url": "media/cached-image_37e5264713d191a5d091085728db013a9c3982ea7086ddfb461645bcd395eeb7.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enoshima-tei, 2 Chome-6-5 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2995883,139.4771411,2a,75y,58.57h,94.42t/data=!3m7!1e1!3m5!1sXQ9-EkGDBPZG7YYTpvHFoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.42200896244222%26panoid%3DXQ9-EkGDBPZG7YYTpvHFoA%26yaw%3D58.57305312095622!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A seafood restaurant on Enoshima Island seen in episode 1, part of the island's dining strip depicted as the group explores their coastal hometown."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmR3TPe9OGGARv9bd2DTFaNc",
+      "name": "Shima-no-chaya Aburaya",
+      "localName": "島の茶屋あぶらや",
+      "coordinates": {
+        "lat": 35.2990334,
+        "lng": 139.4754443
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd7e656d-f487-4deb-9b8b-75882ff5446c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd7e656d-f487-4deb-9b8b-75882ff5446c.webp"
+        },
+        {
+          "url": "media/cached-image_5a2e555b0e9c95aad019dcb4031d96046d097473e3a70ce9dcb73da5e1444307.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shima-no-chaya Aburaya, 2 Chome-5-8 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2990709,139.4755976,2a,90y,237.33h,96.8t/data=!3m7!1e1!3m5!1s5UtNIoubVmQTG_xgdSLKBA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.799110091586499%26panoid%3D5UtNIoubVmQTG_xgdSLKBA%26yaw%3D237.33344471332902!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "A traditional island tea house on Enoshima seen in episode 1, contributing to the nostalgic, small-town charm that defines Tari Tari's Shonan atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAarRjMkJAWAR38sBC3Dq4Yk",
+      "name": "Ryukou Kaikan",
+      "localName": "龍池会館",
+      "coordinates": {
+        "lat": 35.0023646,
+        "lng": 135.7804759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7c3524b-c47c-42cb-900e-a68274baf137.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7c3524b-c47c-42cb-900e-a68274baf137.webp"
+        },
+        {
+          "url": "media/cached-image_7544cf2f17d9ed8f90481ca56410ae8d5244c5f19a5ecfbad6d788cb34c0b4c4.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ryuchi-Kaikan, 594-1 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3109673,139.4901254,3a,90y,220.04h,87.29t/data=!3m7!1e1!3m5!1skv_hVGGmCLJ4qgJM4HcoKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7098010464479927%26panoid%3Dkv_hVGGmCLJ4qgJM4HcoKQ%26yaw%3D220.04042497212455!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "An event venue in the Katase area seen in episode 10, part of the neighborhood scenery as Wien and the others move through the familiar local streets."
+    }
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Miss Kobayashi's Dragon Maid S",
+  "slug": "miss-kobayashis-dragon-maid-s",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_58a3b922f877f51761dd64846818e12e027a62e5f76e73beb07b6113cf2cb68d.webp",
+  "image": "media/cached-image_58a3b922f877f51761dd64846818e12e027a62e5f76e73beb07b6113cf2cb68d.webp",
+  "banner": null,
+  "primaryLocation": "Saitama, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.72832028717949,
+    "lng": 139.33067270769232
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Miss Kobayashi's Dragon Maid S"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJDUC4KADhGmARRj_I7R6KLUM",
+      "name": "Kitajima Parking Lot",
+      "localName": "北島駐車場",
+      "coordinates": {
+        "lat": 34.7324073,
+        "lng": 137.7864413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/878e0214-cad2-42c8-8c73-ff5523a938d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/878e0214-cad2-42c8-8c73-ff5523a938d3.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitajima Parking Lot, 0041 435 Kitajimacho, Chuo Ward, Hamamatsu, Shizuoka 435-0041, Japan",
+      "city": "Hamamatsu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8927459,139.7926929,3a,57.4y,184.26h,98.22t/data=!3m7!1e1!3m5!1sBGwPJUd-rGZCAeMhHERhPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.221322344860639%26panoid%3DBGwPJUd-rGZCAeMhHERhPg%26yaw%3D184.2645340196067!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This parking lot in Hamamatsu appears in Episode 8 during the characters' trip outside their usual Koshigaya neighbourhood, used as a background location for the group's arrival scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe4zx-GOWGGARPcIQh8DQWAA",
+      "name": "Hatsu Koshigaya Eki Higashiguchi Ten Dry Cleaners",
+      "localName": "日の出クリーニング",
+      "coordinates": {
+        "lat": 35.8826325,
+        "lng": 139.7877749
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bfc02f1c-c26d-4436-9f7b-71a8efdd48ac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bfc02f1c-c26d-4436-9f7b-71a8efdd48ac.webp"
+        }
+      ],
+      "type": "Laundry",
+      "categories": [
+        "Laundry"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒343-0815 Saitama, Koshigaya, Motoyanagidacho, 6−2 日の出クリーニング",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8886718,139.786734,3a,49.6y,72.13h,92.96t/data=!3m7!1e1!3m5!1sKgEISeD3Z7znWuJocYubPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.962324829785743%26panoid%3DKgEISeD3Z7znWuJocYubPg%26yaw%3D72.12950376993133!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This real dry-cleaning shop near Koshigaya Station is faithfully reproduced in Episode 8, visible as Kobayashi and Tohru pass through the shopping streets on their way home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_2",
+      "name": "Hair Salon Alai",
+      "localName": "ヘアーサロンアライ",
+      "coordinates": {
+        "lat": 35.88723,
+        "lng": 139.83469
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c08ce08-0083-4311-8157-f9e7b6f3bf37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c08ce08-0083-4311-8157-f9e7b6f3bf37.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8866325,139.8357631,3a,33.7y,306.62h,94.02t/data=!3m7!1e1!3m5!1sWlhjYWITblmV9ubPviyPLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.022752511746944%26panoid%3DWlhjYWITblmV9ubPviyPLQ%26yaw%3D306.61506932102793!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This hair salon in Koshigaya appears as a background storefront in Episode 6, part of the dense collection of real local businesses the show recreates in the residential neighbourhood scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8Z-fLgFYAGARP4qanzQ_M48",
+      "name": "Yoshikawa Bridge",
+      "localName": "Yoshikawa Brg",
+      "coordinates": {
+        "lat": 34.9097911,
+        "lng": 135.4454563
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ca7a13e-026f-4d02-81d7-93632ed6a33c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ca7a13e-026f-4d02-81d7-93632ed6a33c.webp"
+        },
+        {
+          "url": "media/cached-image_e71624f9a5fabddb293f431f3949729b960e362ff8959d8fe086168c6f04c7ba.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yoshikawa Brg, Yoshikawa, Toyono, Toyono District, Osaka 563-0101, Japan",
+      "city": "Toyono",
+      "region": "Toyono District, Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8867277,139.8358519,3a,75y,102.8h,96.41t/data=!3m7!1e1!3m5!1secxcBQLF_dV4WitpypPS3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.409959783692841%26panoid%3DecxcBQLF_dV4WitpypPS3A%26yaw%3D102.79822710836518!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Yoshikawa Bridge in Toyono, Osaka, appears as a background location in Episode 6, used for a scene set outside the main Koshigaya setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbdJWdWWjWjURlIQY7lDr1sU",
+      "name": "Heiwa Bridge",
+      "localName": "平和大橋",
+      "coordinates": {
+        "lat": 34.390346799999996,
+        "lng": 132.4536745
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a73fffee-b7ee-4a48-ad90-b0c992b0eeee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a73fffee-b7ee-4a48-ad90-b0c992b0eeee.webp"
+        },
+        {
+          "url": "media/cached-image_8513a8b5871cdd0de5f4b46643f71cf0baa77882f12dcb6c16eafe3fa2ee9f52.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Peace Bridge, Naka Ward, Hiroshima, 730-0051, Japan",
+      "city": "Hiroshima",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8910917,139.7918783,3a,90y,317.53h,103.86t/data=!3m8!1e1!3m6!1sAF1QipNawhWJzFG-giaU5mrFxj5ihbaNuHiPXQ5bEo1-!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNawhWJzFG-giaU5mrFxj5ihbaNuHiPXQ5bEo1-%3Dw900-h600-k-no-pi-13.86168487264284-ya317.530578808154-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Heiwa Bridge in Hiroshima is referenced in Episode 6 as a distant background location, appearing briefly during a travel-related scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6rqzhmXGGAR6cWV7v4g6Sc",
+      "name": "Okagesama Koshigaya Store",
+      "localName": "イオンレイクタウン kaze",
+      "coordinates": {
+        "lat": 35.877477899999995,
+        "lng": 139.8246589
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9b05f936-91d6-45d0-916f-8d0389932548.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9b05f936-91d6-45d0-916f-8d0389932548.webp"
+        },
+        {
+          "url": "media/cached-image_c185fb336b583db07a3935d1bfe8d952b53bd2a13d3c1c9c917ecbde5e1f0f1d.jpg"
+        },
+        {
+          "url": "media/cached-image_10aaadc75e2c49af587a19c2113959482c0e72b51476504b6c1d4851a5294074.jpg"
+        },
+        {
+          "url": "media/cached-image_6f77f69c160b8556a3afe203a032b8ca19806ac882dffbd65a6e3ef31c656ebf.jpg"
+        },
+        {
+          "url": "media/cached-image_d045913377216991f12818ce527796ba365a26f694f7091602779ff6cea01e50.jpg"
+        },
+        {
+          "url": "media/cached-image_a1079f4b0a7dd55dd35f773abad44b8838f2d987645d8dc70d77b41d06d2e445.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.8,
+      "reviewCount": 5791,
+      "priceLevel": null,
+      "address": "AEON LakeTown kaze, 4 Chome-2-2 Lake Town, Koshigaya, Saitama 343-0828, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8948869,139.7911446,3a,75y,189.1h,96.93t/data=!3m8!1e1!3m6!1sAF1QipOtbXshtL_qiMwE3ZJEXnqadaByiwwYkDczn1Mo!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOtbXshtL_qiMwE3ZJEXnqadaByiwwYkDczn1Mo%3Dw900-h600-k-no-pi-6.925461341393785-ya189.1037292768087-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "AEON LakeTown in Koshigaya, one of Japan's largest shopping malls, is used in Episode 6 as the setting where Tohru and Kanna accompany Kobayashi on a shopping outing, with its distinctive atrium recognisable in the background.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjaIgeOOVGGAR5tou-ynY-GI",
+      "name": "Verdemur Koshigaya Shinmeicho",
+      "localName": "神明町",
+      "coordinates": {
+        "lat": 35.8959358,
+        "lng": 139.7664859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9bcfab72-1737-437e-91e4-71d0c0ecc84e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9bcfab72-1737-437e-91e4-71d0c0ecc84e.webp"
+        },
+        {
+          "url": "media/cached-image_07fea8f4468fa5da41ebd930072af9dfa08e9af52815bf8540c47972c1fc3863.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shinmeicho, Koshigaya, Saitama 343-0805, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8963758,139.7754204,3a,43.8y,296.24h,95.92t/data=!3m8!1e1!3m6!1sAF1QipPkQbZ6MTb1Nqh7POFpu6vWL0rmQBEdAn4epwYo!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPkQbZ6MTb1Nqh7POFpu6vWL0rmQBEdAn4epwYo%3Dw900-h600-k-no-pi-5.9221941626448995-ya6.257479758389138-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Shinmeicho residential area of Koshigaya is depicted in Episode 6 as the quiet suburban streets surrounding Kobayashi's apartment, the show's core neighbourhood setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs9QdlOKVGGARQELuzfzHwLA",
+      "name": "7-Eleven Koshigaya Shinmeicho 2-chome",
+      "localName": "セブン-イレブン 越谷神明町２丁目店",
+      "coordinates": {
+        "lat": 35.8980538,
+        "lng": 139.77181299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61b31f60-7361-45df-acbc-aed236e1d62c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61b31f60-7361-45df-acbc-aed236e1d62c.webp"
+        },
+        {
+          "url": "media/cached-image_dc3b326d227944c894236e85a86c4f1c7a4850a051d1697a2de0fd3a5fec715d.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, 2 Chome-１-54 Shinmeicho, Koshigaya, Saitama 343-0805, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8984628,139.7722012,3a,75y,304.48h,102.6t/data=!3m8!1e1!3m6!1sAF1QipMM2mqhm8pzOvRjL2r2EtpSSvkJGQHitDhqf8Dw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMM2mqhm8pzOvRjL2r2EtpSSvkJGQHitDhqf8Dw%3Dw900-h600-k-no-pi-12.601042362632114-ya9.25093540592303-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This 7-Eleven convenience store appears in Episode 6, located near Kobayashi's apartment in Koshigaya and depicted as part of the characters' daily local routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_8",
+      "name": "Sunny Heights A",
+      "localName": "サニーハイツA棟",
+      "coordinates": {
+        "lat": 35.88915,
+        "lng": 139.79843
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e9be0f6-a07e-4cab-be45-f920e3786386.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e9be0f6-a07e-4cab-be45-f920e3786386.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8891643,139.7984618,3a,90y,320.35h,89.64t/data=!3m7!1e1!3m5!1sOXRvvPBhXnU9fYW5Ehmfyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.35829078742295906%26panoid%3DOXRvvPBhXnU9fYW5Ehmfyg%26yaw%3D320.34684028282095!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This apartment building in Koshigaya is the real-world model for Kobayashi's home, where she lives with Tohru and Kanna, and appears in Episode 6 as a key residential backdrop.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWQFGQ7PtGGARmembaVO7aUA",
+      "name": "Toshimaen Memories Corner",
+      "localName": "としまえん 思い出コーナー",
+      "coordinates": {
+        "lat": 35.742934399999996,
+        "lng": 139.6472647
+      },
+      "image": "https://cdn.animepilgrimage.com/places/51c77c39-c0a7-462f-84b1-45732606509d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/51c77c39-c0a7-462f-84b1-45732606509d.webp"
+        },
+        {
+          "url": "media/cached-image_afc13860109b50842a8879984a7b27c4301524aca662cb799c02c9d2d3b50858.jpg"
+        }
+      ],
+      "type": "Exhibit",
+      "categories": [
+        "Exhibit"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toshimaen Memories Corner, 3 Chome-25-25 Koyama, Nerima City, Tokyo 176-0022, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.742983,139.647725,3a,48.7y,311.06h,94.59t/data=!3m7!1e1!3m5!1s-VvK892KWMqCKDIduuR5_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.590344786819031%26panoid%3D-VvK892KWMqCKDIduuR5_w%26yaw%3D311.0622820379155!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Toshimaen Memories Corner (on the site of the former Toshimaen amusement park) is featured in Episode 4, where Kanna and Saikawa visit the park's rides together in one of the season's most heartwarming outings.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_10",
+      "name": "MaaS Car Nishikata 1-chome station",
+      "localName": "カーシェアのMaaS Car 西方1丁目ステーション",
+      "coordinates": {
+        "lat": 35.88476,
+        "lng": 139.79518
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8d5989f-e9e6-4f4b-9f26-66ffe5cf6f1d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8d5989f-e9e6-4f4b-9f26-66ffe5cf6f1d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8849441,139.7951596,3a,45.4y,174.88h,93.6t/data=!3m7!1e1!3m5!1sx0OuU-Lr0ND-283KnJLY0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.604271722438753%26panoid%3Dx0OuU-Lr0ND-283KnJLY0Q%26yaw%3D174.88116828558665!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This car-share station in Koshigaya's Nishikata district appears in Episode 4 as part of the background streetscape in scenes set near Kobayashi's neighbourhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJTM3V1mWGGARIGjFMSa5SqA",
+      "name": "Hair Salon Ishizuka",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.8871551,
+        "lng": 139.79904729999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74f8ae2a-9745-48c4-ad0f-fdb03e19cabd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74f8ae2a-9745-48c4-ad0f-fdb03e19cabd.webp"
+        },
+        {
+          "url": "media/cached-image_12cb06bab2e7e0dc163148c1fc1d40ca62038a9c48665ffa1d70e29d64c0fe5d.jpg"
+        }
+      ],
+      "type": "Barber shop",
+      "categories": [
+        "Barber shop"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒343-0823 Saitama, Koshigaya, Sagamicho, 7 Chome−3928-61 Hair Salon Ishizuka",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8873301,139.7985044,3a,75y,251.75h,99.98t/data=!3m7!1e1!3m5!1sMpvGOHRKz1mdfDKUeKvXJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.977187901582965%26panoid%3DMpvGOHRKz1mdfDKUeKvXJQ%26yaw%3D251.74744426421796!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Hair Salon Ishizuka in Koshigaya is faithfully recreated in Episode 4 as a background storefront lining the residential streets the characters walk through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_12",
+      "name": "Yamaichi Motor Co.",
+      "localName": "（株）山一自動車",
+      "coordinates": {
+        "lat": 35.88669,
+        "lng": 139.79742
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dce4f079-bf2d-419f-adaa-1069e3a942f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dce4f079-bf2d-419f-adaa-1069e3a942f1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8867047,139.7974495,3a,90y,153.16h,111.44t/data=!3m7!1e1!3m5!1soFZHvjLla8xxIdxvT2gDNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.438862828554562%26panoid%3DoFZHvjLla8xxIdxvT2gDNQ%26yaw%3D153.15931541079368!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Yamaichi Motor Co. in Koshigaya appears in Episode 4 as one of the real local businesses reproduced in the show's background art of the neighbourhood surrounding Kobayashi's home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk1j5N1yWGGARXin9jYcJp8g",
+      "name": "Tanifurutashusuiguchi Park",
+      "localName": "谷古田取水口公園",
+      "coordinates": {
+        "lat": 35.887357,
+        "lng": 139.7965045
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31d26bd4-41ff-41e3-9296-ff31b084fcd5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31d26bd4-41ff-41e3-9296-ff31b084fcd5.webp"
+        },
+        {
+          "url": "media/cached-image_626a1baf9e720334de64aa7b0654016ab052cb2818ef8785fbcfd0abe5a175ad.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tanifurutashusuiguchi Park, 1 Chome Nishikata, Koshigaya, Saitama 343-0822, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8865534,139.7965384,3a,73.5y,7.7h,96.34t/data=!3m7!1e1!3m5!1sm3x61XYT8zKRTtVwg2pROA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.342166544470146%26panoid%3Dm3x61XYT8zKRTtVwg2pROA%26yaw%3D7.700441044187777!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Tanifurutashusuiguchi Park in Koshigaya is depicted in Episode 4, used as a local green space near the apartment where Kanna and Saikawa play in the after-school scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVWxhEiJGGARsDYT-3WKc0E",
+      "name": "Hamacho Park",
+      "localName": "浜町公園",
+      "coordinates": {
+        "lat": 35.6881422,
+        "lng": 139.7889523
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74b017a8-7730-4102-8d11-42f0896b53d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74b017a8-7730-4102-8d11-42f0896b53d3.webp"
+        },
+        {
+          "url": "media/cached-image_6185139fb6b9ffac85694fe58ff32f620b036232be5f2a2a47f998f5d67d3574.jpg"
+        },
+        {
+          "url": "media/cached-image_034bf2bc61869b4d7c223978a032610c03cdc5d172b6bbac031d7fcf52dc0f3c.jpg"
+        },
+        {
+          "url": "media/cached-image_5624bcd7354a1b56a5f6e8c050515662ca8d579896698a17f90f763e79a63b6f.jpg"
+        },
+        {
+          "url": "media/cached-image_d2b3cd322a9316cd64117bfa0d6bfb6579368106b5118daa210eb1cb6c5c9f7f.jpg"
+        },
+        {
+          "url": "media/cached-image_2b1697ad39d6e90b1659aac08f6cc96ba1b4eccb2b9f3955a81286e5c0f067d2.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 920,
+      "priceLevel": null,
+      "address": "Hamachō Park, 2 Chome-59-1 Nihonbashihamacho, Chuo City, Tokyo 103-0007, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6884852,139.7894315,3a,75y,248.81h,88.11t/data=!3m7!1e1!3m5!1sDDHxhhRb5RBdqGy-6If9_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8912599203984684%26panoid%3DDDHxhhRb5RBdqGy-6If9_Q%26yaw%3D248.80543145602005!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Hamacho Park in Tokyo's Chuo City serves as a setting in Episode 2 for scenes near Kobayashi's workplace district in Ningyocho, where office workers gather during lunch breaks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq2ul2YyJGGAR__jMW2iw8FA",
+      "name": "noodle art gallery Ryota Tezuka",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6852188,
+        "lng": 139.7856013
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4fff88ca-b4fb-4409-969e-954963ad59f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4fff88ca-b4fb-4409-969e-954963ad59f1.webp"
+        },
+        {
+          "url": "media/cached-image_91e2eb3bc8246b672bb8dca00917880d7f8dc1612e09a7efd54e310716cff6fa.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒103-0013 Tokyo, Chuo City, Nihonbashiningyocho, 2 Chome−17−9 noodle art gallery Ryota Tezuka",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6853293,139.7855383,3a,90y,239.82h,99.2t/data=!3m7!1e1!3m5!1sOIFuwFvwXXbrlj-GLW75og!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.204416635893836%26panoid%3DOIFuwFvwXXbrlj-GLW75og%26yaw%3D239.82391603630526!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This noodle restaurant in Ningyocho, Tokyo, near Kobayashi's office appears in Episode 2 as a dining spot in the street scenes around Kobayashi's workplace."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_16",
+      "name": "Hajime",
+      "localName": "一（はじめ）",
+      "coordinates": {
+        "lat": 35.68509,
+        "lng": 139.78536
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dde1cd5a-2310-4ac6-a6bd-a001d1597473.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dde1cd5a-2310-4ac6-a6bd-a001d1597473.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6851808,139.7853164,3a,75y,165.68h,94.54t/data=!3m7!1e1!3m5!1sMYmMGc1wuChDz-4_nw63XQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.536880832884535%26panoid%3DMYmMGc1wuChDz-4_nw63XQ%26yaw%3D165.68179079918247!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Hajime, a small restaurant in Ningyocho, appears in Episode 2 as a background eatery in the street scenes around Kobayashi's Tokyo office district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpU8WDLOOGGAR4P-YdtfeOwE",
+      "name": "Tachibana Inari Shrine",
+      "localName": "橘稲荷神社",
+      "coordinates": {
+        "lat": 35.6868848,
+        "lng": 139.7825282
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e75e77f-b9fc-408c-b995-ffc3aaae85e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e75e77f-b9fc-408c-b995-ffc3aaae85e1.webp"
+        },
+        {
+          "url": "media/cached-image_f8a201595c3417c380cc0f3ee46c49351c7875fb60c9e493b566860ba6bef469.jpg"
+        },
+        {
+          "url": "media/cached-image_801c68aa33bb8721d15921fd920363dd5ee31d6ad7908a94a717de58bc0b5bd5.jpg"
+        },
+        {
+          "url": "media/cached-image_e305c58d0309da6fecef2a90c1279e116bde2375452e2aa39d8c054d718bb548.jpg"
+        },
+        {
+          "url": "media/cached-image_fead06039dd760a8423c1a7278c6c1c56ac57b2a2105c1f50261b6a8f2a055e6.jpg"
+        },
+        {
+          "url": "media/cached-image_d3458c7ad59ee3fa9f07d92fc28b74b312b319ee121bb6f5b29e9b1ec51e1045.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.7,
+      "reviewCount": 40,
+      "priceLevel": null,
+      "address": "Tachibana Inari Shrine, 3 Chome-8-6 Nihonbashiningyocho, Chuo City, Tokyo 103-0013, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6867415,139.7827978,3a,90y,312.08h,91.43t/data=!3m7!1e1!3m5!1sJHV3DatgAVw48rTt7pCOFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.4286612435082588%26panoid%3DJHV3DatgAVw48rTt7pCOFg%26yaw%3D312.0822579170693!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tachibana Inari Shrine in Ningyocho appears in Episode 1, glimpsed by Kobayashi on her walk through the neighbourhood near her Tokyo office, and is one of the most-visited pilgrimage spots fans photograph to match the show's opening scenes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQ28PD6-GGARhdm7NtCpHsI",
+      "name": "Shirakobato Bridge Masei",
+      "localName": "しらこばと公園(アルネットホームスマイルパークしらこばと)",
+      "coordinates": {
+        "lat": 35.9119041,
+        "lng": 139.7476954
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6998af6b-44ca-48c2-b039-c198bfddd242.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6998af6b-44ca-48c2-b039-c198bfddd242.webp"
+        },
+        {
+          "url": "media/cached-image_7fdca040d696b9d5b7d105095457ceedabc9ca0f32976776582b685806ecf514.jpg"
+        },
+        {
+          "url": "media/cached-image_02edb2b3629bc12a163ae9ca01cb1d18ab4b750f919f230ef998c10af619767b.jpg"
+        },
+        {
+          "url": "media/cached-image_16de43808f0fbcdac6ae5651387d51f41378a777627d34b79ae3abac072091d5.jpg"
+        },
+        {
+          "url": "media/cached-image_35e270ab66f89baa84cfc4735249fa35ff0e16696a8eb553f430117b58d87b0c.jpg"
+        },
+        {
+          "url": "media/cached-image_d93b2fca8ddbecf8b0a4fa915bea0c3c333b5c6acb5bfb78a537999ece42869b.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 1062,
+      "priceLevel": null,
+      "address": "Shirakobato Aquatic Park, 985 Osogawa, Iwatsuki Ward, Koshigaya, Saitama 343-0802, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8879094,139.7985049,3a,75y,197.09h,96.58t/data=!3m7!1e1!3m5!1s__SMgxk_vH0_MYYhkXEpyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.576884612623047%26panoid%3D__SMgxk_vH0_MYYhkXEpyw%26yaw%3D197.09355671405925!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Shirakobato Aquatic Park in Koshigaya appears in the opening sequence of the series, its wide waterside promenade recognisable in the pan shots that establish the suburban Saitama setting fans associate with the show.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU0qAzWiWGGAR5blmIWB4FYA",
+      "name": "Saitama Resona Bank Koshigaya",
+      "localName": "埼玉りそな銀行 越谷支店",
+      "coordinates": {
+        "lat": 35.88905,
+        "lng": 139.7881
+      },
+      "image": "https://cdn.animepilgrimage.com/places/28fee79b-2b3f-4301-8b0d-a964a3c31ae6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/28fee79b-2b3f-4301-8b0d-a964a3c31ae6.webp"
+        },
+        {
+          "url": "media/cached-image_000bda58e50c93dfdd2c4a5486b875d5a4f1712a5486fc835512a1da92405ba9.jpg"
+        }
+      ],
+      "type": "銀行",
+      "categories": [
+        "銀行"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-2-40 Koshigaya, Saitama 343-0813, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8890625,139.7880417,3a,90y,57.72h,96.86t/data=!3m7!1e1!3m5!1srTue0L-gp548cn_Mj8jTOg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.861677619138845%26panoid%3DrTue0L-gp548cn_Mj8jTOg%26yaw%3D57.71929679810551!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Saitama Resona Bank in Koshigaya appears in Episode 1, depicted as a landmark on the main street near Kobayashi's home that she passes during her daily commute scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlz0mvE2JGGARmEAGlcN1WuY",
+      "name": "Rotisseries",
+      "localName": "チキンプレイスロティサリｰズ 東日本橋店",
+      "coordinates": {
+        "lat": 35.69021,
+        "lng": 139.78464
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13cefbd5-c4be-4547-a3db-0dbe709d70a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13cefbd5-c4be-4547-a3db-0dbe709d70a7.webp"
+        },
+        {
+          "url": "media/cached-image_2e1ef1561ded9b27bdb2814e51f77bb7188a2212bea071ac29e519e7086e293d.jpg"
+        }
+      ],
+      "type": "イタリア料理店",
+      "categories": [
+        "イタリア料理店"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "12-6 Nihonbashihisamatsucho, Chuo City, Tokyo 103-0005, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6903315,139.7845998,3a,75y,169.1h,92.92t/data=!3m7!1e1!3m5!1s3LFOB-Yhpd3TQzGgnfVR7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.921480215875448%26panoid%3D3LFOB-Yhpd3TQzGgnfVR7g%26yaw%3D169.10189144654768!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This restaurant in Nihonbashi, Tokyo, near Kobayashi's office district is used in Episode 2 as a background storefront in the Ningyocho street scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8zEecm-WGGARK25HDCrRS2M",
+      "name": "KOSHIGAYA STATION",
+      "localName": "越谷駅",
+      "coordinates": {
+        "lat": 35.88832,
+        "lng": 139.7855
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67313672-2232-476f-a2f4-0d8968404e3f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67313672-2232-476f-a2f4-0d8968404e3f.webp"
+        },
+        {
+          "url": "media/cached-image_0544784927aa4a6f3038fb9ab5455eca1e9ff811b0031bcf6759fce68df47339.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Yayoichō, Koshigaya, Saitama 343-0816, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8882978,139.7854193,3a,90y,77.65h,98.84t/data=!3m7!1e1!3m5!1sCJlJnCGfYiR4_G1jvSi5sQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.836781364250896%26panoid%3DCJlJnCGfYiR4_G1jvSi5sQ%26yaw%3D77.64607795886599!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Koshigaya Station is the central transit hub of the show's primary setting and appears in Episode 8 as the departure and arrival point for the characters, faithfully rendered from the real Tobu Skytree Line station exterior.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzxUfRFCWGGAR806X4I0eUfs",
+      "name": "Higashikoshigaya Hatchome Keyaki Park",
+      "localName": "東越谷八丁目けやき公園",
+      "coordinates": {
+        "lat": 35.89263,
+        "lng": 139.80553
+      },
+      "image": "https://cdn.animepilgrimage.com/places/02807702-cd00-46b3-9b0b-d5cc07811f84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/02807702-cd00-46b3-9b0b-d5cc07811f84.webp"
+        },
+        {
+          "url": "media/cached-image_2992bc1d6140d91971716ffa1a68f53a2b71014b36212a9475501c8a1cef7498.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "8 Chome Higashikoshigaya, Koshigaya, Saitama 343-0023, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8925739,139.8052851,3a,49.6y,67.88h,94.49t/data=!3m7!1e1!3m5!1sFAQuD0LzuMCQciNty5OZlA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.493747797856344%26panoid%3DFAQuD0LzuMCQciNty5OZlA%26yaw%3D67.876312745916!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This small zelkova-tree park in East Koshigaya appears in Episode 10 as a local outdoor space where characters pass through during the neighbourhood slice-of-life scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZZrKgtUHAWARa6ZDQin-R8g",
+      "name": "Katsura Imperial Villa Koshoin (Old Study)",
+      "localName": "古書院",
+      "coordinates": {
+        "lat": 34.9839959,
+        "lng": 135.7097463
+      },
+      "image": null,
+      "images": [],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Katsura Imperial Villa Koshoin (Old Study), 1-1 Katsuramisono, Nishikyo Ward, Kyoto, 615-8014, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8951599,139.7779323,3a,90y,182.72h,96.81t/data=!3m8!1e1!3m6!1sAF1QipM-IDAmROhtbUYCX9j9sS4JFnLGI1Z1V61otXkJ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM-IDAmROhtbUYCX9j9sS4JFnLGI1Z1V61otXkJ%3Dw900-h600-k-no-pi-6.805247426123486-ya265.8218562193062-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The historic Old Study building at Katsura Imperial Villa in Kyoto appears in Episode 6 during a scene involving traditional Japanese architecture, referenced as Fafnir and Takiya admire a reproduction of classical design."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD__5BU-JGGAR5IKXKzpGNRo",
+      "name": "Benkei from “Kanjincho”",
+      "localName": "勧進帳の弁慶像",
+      "coordinates": {
+        "lat": 35.68651,
+        "lng": 139.78583
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0209d633-999c-47a5-8492-1a8298fb03c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0209d633-999c-47a5-8492-1a8298fb03c2.webp"
+        },
+        {
+          "url": "media/cached-image_d86aef3298a33e60719445c5f4d009aeda6d62dac878796f4f837aeda96a651c.jpg"
+        }
+      ],
+      "type": "彫刻",
+      "categories": [
+        "彫刻"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-36-13 Nihonbashiningyocho, Chuo City, Tokyo 103-0013, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6865912,139.7859149,3a,75y,215.98h,99.99t/data=!3m7!1e1!3m5!1sqw_tELVf-prTuzWijM-QQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.993613320215232%26panoid%3Dqw_tELVf-prTuzWijM-QQg%26yaw%3D215.98382858652496!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The famous Benkei statue in Ningyocho, named after the kabuki play Kanjincho, appears in Episode 2 as a neighbourhood landmark near Kobayashi's workplace in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO02rxVGJGGARGdyRszeoLc4",
+      "name": "Ningyocho Station",
+      "localName": "人形町駅",
+      "coordinates": {
+        "lat": 35.68657,
+        "lng": 139.78267
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b217d2a6-8e89-4243-bebf-26661e2c8cd4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b217d2a6-8e89-4243-bebf-26661e2c8cd4.webp"
+        },
+        {
+          "url": "media/cached-image_9863cf504d57b125f883b9e37f68d3e765e3b336480b7a15545ecf230ae30322.jpg"
+        },
+        {
+          "url": "media/cached-image_3e1ad9bb608a1515b06c5ac6cf3fa046992f272633aaf1c369ff347847ef52d5.jpg"
+        },
+        {
+          "url": "media/cached-image_4dd84520eb79609991bdc76b9ed878f648fdfe304ccc7eab81c3f56c36b5cbd7.jpg"
+        },
+        {
+          "url": "media/cached-image_1752569cb04dedda7f9cacf25fb97e786450981386173bd67b8b45283d9d75c9.jpg"
+        },
+        {
+          "url": "media/cached-image_6e4447ae3f3117b36c9927c6ae227d150c31d3479bd2dbbeba69869656124d5d.jpg"
+        },
+        {
+          "url": "media/cached-image_8a875f28559f82b107d8f0dff2a40c15016fe3b180144b2f9d3c96b07c74db65.jpg"
+        }
+      ],
+      "type": "地下鉄駅",
+      "categories": [
+        "地下鉄駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 32,
+      "priceLevel": null,
+      "address": "2-chōme-6 Nihonbashiningyōchō, Chuo City, Tokyo 103-0013, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.686624,139.7827352,2a,90y,126.84h,91.34t/data=!3m7!1e1!3m5!1szKeebKaPKNpZ6HjhVj8TtQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3390664180043643%26panoid%3DzKeebKaPKNpZ6HjhVj8TtQ%26yaw%3D126.8426999944787!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ningyocho Station in Tokyo is the closest station to Kobayashi's office and appears in Episode 1 as a key commuter landmark, with the station's distinctive tiled entrance reproduced in faithful detail for the show's Tokyo scenes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt0pRFAaWGGARv7U9l6l_6k0",
+      "name": "Kitakoshigaya Sakurazutsumi",
+      "localName": "北越谷",
+      "coordinates": {
+        "lat": 35.9000437,
+        "lng": 139.77670999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b3dacc5-2516-4555-9446-e0d09fd001a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b3dacc5-2516-4555-9446-e0d09fd001a7.webp"
+        },
+        {
+          "url": "media/cached-image_47e7d54d66ac1084bfdd21be5daeb8f9c5d4f9f6cdad7334abc51ec51a812585.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kitakoshigaya, Koshigaya, Saitama 343-0026, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8984948,139.7728518,3a,75y,326.35h,96.55t/data=!3m8!1e1!3m6!1sAF1QipObbtMhuJo_pO-oanbtAs9aBLyV8HsEAgFUMSyC!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipObbtMhuJo_pO-oanbtAs9aBLyV8HsEAgFUMSyC%3Dw900-h600-k-no-pi-6.553059654515792-ya9.831137984583506-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Kitakoshigaya cherry-blossom embankment along the Motoara River appears in Episode 12, used as a picturesque outdoor setting for a seasonal scene that highlights the neighbourhood's natural charm."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_27",
+      "name": "camior",
+      "localName": "カミオール",
+      "coordinates": {
+        "lat": 35.8964,
+        "lng": 139.77669
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da3a2bb1-3d98-4e02-960a-61107ba44ca9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da3a2bb1-3d98-4e02-960a-61107ba44ca9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.896513,139.7767535,3a,90y,209.38h,94.03t/data=!3m7!1e1!3m5!1shznxDhaUwF8A96seNSxbpw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.031900863570684%26panoid%3DhznxDhaUwF8A96seNSxbpw%26yaw%3D209.38075165096325!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Camior, a small shop near Kitakoshigaya Station, appears in Episode 12 as a background location in the residential streetscape scenes near Kobayashi's neighbourhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0fuING-WGGARJNh4GHjS9nI",
+      "name": "武蔵野銀行 越谷支店",
+      "localName": "武蔵野銀行 越谷支店",
+      "coordinates": {
+        "lat": 35.8885638,
+        "lng": 139.7871042
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4f70dc2-9681-4d7d-8483-8e131d905ecd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4f70dc2-9681-4d7d-8483-8e131d905ecd.webp"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒343-0816 Saitama, Koshigaya, Yayoicho, 14−18 武蔵野銀行 越谷支店",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8885946,139.7868929,3a,48.7y,76.59h,95.28t/data=!3m7!1e1!3m5!1sAPK5oYTidLIdYDEiUcRKnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.280480437389016%26panoid%3DAPK5oYTidLIdYDEiUcRKnw%26yaw%3D76.58575047544385!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Musashino Bank's Koshigaya branch appears in Episode 12 as one of the real local financial landmarks lining the main commercial street near Kobayashi's home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_29",
+      "name": "Shimizu Parking",
+      "localName": "清水パーキング",
+      "coordinates": {
+        "lat": 35.88933,
+        "lng": 139.79897
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78e73737-e778-4edb-8955-c2029098abee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78e73737-e778-4edb-8955-c2029098abee.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8893106,139.7989305,3a,75y,271.26h,107.18t/data=!3m7!1e1!3m5!1s7P3bHd2i9ZASu31VLJ76pA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.17925005788743%26panoid%3D7P3bHd2i9ZASu31VLJ76pA%26yaw%3D271.260642071882!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Shimizu Parking in Koshigaya is reproduced in Episode 10 as a background location in the neighbourhood streetscape scenes around Kobayashi's apartment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUchSRGaWGGAR9xcPtJ3ZIzA",
+      "name": "SPS Koshigaya Dai 1 Dai 2 Parking Lot",
+      "localName": "SPS越谷第１・第２駐車場",
+      "coordinates": {
+        "lat": 35.886646899999995,
+        "lng": 139.78996999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ac1f404-b58e-4fd2-93de-fc01e97e4f76.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ac1f404-b58e-4fd2-93de-fc01e97e4f76.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "SPS Koshigaya Dai 1 Dai 2 Parking Lot, 1 Chome-21 Kawarazone, Koshigaya, Saitama 343-0821, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8866685,139.7896688,3a,90y,312.74h,96.35t/data=!3m7!1e1!3m5!1sv7fFzxtLT1TJMJRG8yequQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.353500558978496%26panoid%3Dv7fFzxtLT1TJMJRG8yequQ%26yaw%3D312.7428777101427!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This parking lot in Koshigaya's Kawarazone area appears in Episode 10 as a background location within the commercial zone near Kobayashi's neighbourhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4ZQtOGaWGGARUtSONQid9-g",
+      "name": "Kappou Hakata Japanese Cuisine Koshigaya",
+      "localName": "割烹 博多",
+      "coordinates": {
+        "lat": 35.8872241,
+        "lng": 139.7901173
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b9857ec-a77b-42ce-bd73-a3af02a83a7b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b9857ec-a77b-42ce-bd73-a3af02a83a7b.webp"
+        },
+        {
+          "url": "media/cached-image_f18b871a884d9427aec887d40d4b08ce1b15bd6105116ccf90b3df8f4e826466.jpg"
+        },
+        {
+          "url": "media/cached-image_22ae5f64c71a39bc921b45ea13609892fe527b11f83d85545d8db2795b2db545.jpg"
+        },
+        {
+          "url": "media/cached-image_e613322af628174f37e154f5bbed6034f2c1d72d8205f78d868f955006463919.jpg"
+        },
+        {
+          "url": "media/cached-image_8dd42bf8e9b5d58bea58cd912f686ebb992d003c9c0cef0c302addfee23a58e4.jpg"
+        },
+        {
+          "url": "media/cached-image_cae2d41d81d70a38f65cf450a0ecb92e79655c7f1bce1baa6ee0ab8bd6f64445.jpg"
+        }
+      ],
+      "type": "Fugu restaurant",
+      "categories": [
+        "Fugu restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kappou Hakata, １番地１３号 1 Chome-1 Kawarazone, Koshigaya, Saitama 343-0821, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8874303,139.7905391,3a,90y,232.26h,95.35t/data=!3m7!1e1!3m5!1sxr6SsQBuBUSI_P6f8gLNMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.345726324910558%26panoid%3Dxr6SsQBuBUSI_P6f8gLNMA%26yaw%3D232.26382081261679!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kappou Hakata, a traditional Japanese restaurant in Koshigaya, is depicted in Episode 10 as a local dining establishment in the commercial district near Kobayashi's home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc9e06BeWGGARwvvDrb4u2s4",
+      "name": "Koshigaya Shi Central City Hall",
+      "localName": "越谷市",
+      "coordinates": {
+        "lat": 35.889699,
+        "lng": 139.7914855
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e758fe5a-c4e6-441e-8ec3-0e8f67c5426d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e758fe5a-c4e6-441e-8ec3-0e8f67c5426d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Koshigaya, Saitama, Japan",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8906013,139.7919299,3a,73.9y,245.36h,98.71t/data=!3m7!1e1!3m5!1sLfrXoH4LgX8yyRPhNo_Ciw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.705897449166358%26panoid%3DLfrXoH4LgX8yyRPhNo_Ciw%26yaw%3D245.3630645705576!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Koshigaya City Hall appears in Episode 10 as a civic landmark visible in the background of scenes set along the main street of the city the show uses as its primary setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_33",
+      "name": "wisteria arcade",
+      "localName": "藤だな通り",
+      "coordinates": {
+        "lat": 35.89138,
+        "lng": 139.79128
+      },
+      "image": "https://cdn.animepilgrimage.com/places/85a6185e-c1ab-4eee-a338-8a436464906d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/85a6185e-c1ab-4eee-a338-8a436464906d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8913217,139.7913283,3a,75y,341.74h,97.69t/data=!3m8!1e1!3m6!1sAF1QipPHcGTEY6fv4m4Dbb40gMEaAe8K4Z3mYcBWx1G7!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPHcGTEY6fv4m4Dbb40gMEaAe8K4Z3mYcBWx1G7%3Dw900-h600-k-no-pi-7.693451148729054-ya341.7416211671481-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The wisteria-covered shopping arcade in central Koshigaya appears in Episode 10, depicted as a charming covered street where Kobayashi and Tohru walk through the local shopping area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_34",
+      "name": "Maple Pharmacy Koshigaya",
+      "localName": "メープル薬局 越谷店",
+      "coordinates": {
+        "lat": 35.88806,
+        "lng": 139.79437
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d046f201-93c6-494b-88f8-dbcf11316b9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d046f201-93c6-494b-88f8-dbcf11316b9f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8879646,139.7945149,3a,73.2y,298.65h,96.82t/data=!3m7!1e1!3m5!1sc3uiIE8v4F327Ly70kFAjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.815249277496392%26panoid%3Dc3uiIE8v4F327Ly70kFAjA%26yaw%3D298.6485366637138!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Maple Pharmacy in Koshigaya is reproduced in Episode 10 as a real local pharmacy storefront in the residential streetscape near Kobayashi's home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_35",
+      "name": "Onishiya Western Goods Store",
+      "localName": "大西屋洋品店",
+      "coordinates": {
+        "lat": 35.8878,
+        "lng": 139.79525
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2edfe939-ae91-4795-95e7-58abf32c5cce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2edfe939-ae91-4795-95e7-58abf32c5cce.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8877941,139.7950775,3a,75y,120.67h,93.93t/data=!3m7!1e1!3m5!1s1o5r4WhPGAnN5JP1eTgaqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.925748277746578%26panoid%3D1o5r4WhPGAnN5JP1eTgaqA%26yaw%3D120.66785413522082!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Onishiya Western Goods Store in Koshigaya appears in Episode 10 as a background clothing shop in the commercial street scenes near Kobayashi's neighbourhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU2u_2k2JGGARQwMI3jPlRIg",
+      "name": "7-ELEVEN Nihonbashi Hisamatsucho Store",
+      "localName": "セブン-イレブン 日本橋久松町店",
+      "coordinates": {
+        "lat": 35.689545599999995,
+        "lng": 139.7850286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b799252f-26d1-44a5-97e1-e5d747f0fed5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b799252f-26d1-44a5-97e1-e5d747f0fed5.webp"
+        },
+        {
+          "url": "media/cached-image_74a8f8f4d20d3a1ddae7ef6a5282c132aae5ffa62d9e691a40c4a0e11205c131.jpg"
+        },
+        {
+          "url": "media/cached-image_2b4b974df5d473d141635964a177a20c0bd506b4d3a29dedf308b7d8e523ab21.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "7-ELEVEN Nihonbashi Hisamatsucho Store, 10-6 Nihonbashihisamatsucho, Chuo City, Tokyo 103-0005, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6895031,139.7848381,3a,64.3y,47.54h,95.55t/data=!3m7!1e1!3m5!1s-fzfU0WkvePhOSml-xkqrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.546321924566826%26panoid%3D-fzfU0WkvePhOSml-xkqrg%26yaw%3D47.5416407860383!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This 7-Eleven in Nihonbashi near Kobayashi's Tokyo workplace appears in Episode 9 as a convenience store Kobayashi stops at during her lunch break, a slice-of-life moment that grounds the fantasy story in everyday Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_miss-kobayashis-dragon-maid-s_37",
+      "name": "Tobu Blueprint Kogeisha Ltd.",
+      "localName": "（有）東武青写真工芸社",
+      "coordinates": {
+        "lat": 35.89361,
+        "lng": 139.79251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93310af1-8162-4f82-b8bc-cacdcd06fcf0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93310af1-8162-4f82-b8bc-cacdcd06fcf0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.8936586,139.79257,3a,90y,97.94h,109.26t/data=!3m7!1e1!3m5!1sp95HBS56g7Wm6tX0c2at6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.256403488303405%26panoid%3Dp95HBS56g7Wm6tX0c2at6Q%26yaw%3D97.93583404429941!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Tobu Blueprint Kogeisha in Koshigaya appears in Episode 8 as a real local business reproduced in the background art of the neighbourhood streets the characters walk through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL99oW7KXGGARAD6-fcKfFP0",
+      "name": "KIMONO KYOSEN Koshigaya",
+      "localName": "KIMONO 京扇 越谷店",
+      "coordinates": {
+        "lat": 35.889740599999996,
+        "lng": 139.7897552
+      },
+      "image": "https://cdn.animepilgrimage.com/places/747c2e2f-3b02-4586-a1c0-ce1bf3242b68.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/747c2e2f-3b02-4586-a1c0-ce1bf3242b68.webp"
+        },
+        {
+          "url": "media/cached-image_89409a135eec50ed45f7dab90440860b7dc87fcd0c492d30fab4fb2c47c5964b.jpg"
+        }
+      ],
+      "type": "Kimono store",
+      "categories": [
+        "Kimono store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒343-0813 Saitama, Koshigaya, 2 Chome−7−25 KIMONO 京扇 越谷店",
+      "city": "Koshigaya",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8894998,139.7897467,3a,90y,123.26h,100.95t/data=!3m7!1e1!3m5!1s7aGi1xFtIdwEeOOo6_LnAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.948610662386159%26panoid%3D7aGi1xFtIdwEeOOo6_LnAQ%26yaw%3D123.26184160101671!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "KIMONO KYOSEN in Koshigaya appears in Episode 8 as a local kimono shop in the commercial street scenes, part of the show's meticulous recreation of real Koshigaya storefronts."
+    }
+  ]
+}

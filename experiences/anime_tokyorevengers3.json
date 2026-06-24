@@ -1,0 +1,853 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tokyo Revengers: Tenjiku-hen",
+  "slug": "tokyo-revengers-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_933e51e6320da23339c7483c9692d7ab7f21ba25a2466879019599ff080f634c.webp",
+  "image": "media/cached-image_933e51e6320da23339c7483c9692d7ab7f21ba25a2466879019599ff080f634c.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.564775350000005,
+    "lng": 139.67186889545454
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tokyo Revengers: Tenjiku-hen"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJU1tiuvxcGGARG5FyA9dpaHA",
+      "name": "Kanagawa Arts Theatre",
+      "localName": "KAAT 神奈川芸術劇場",
+      "coordinates": {
+        "lat": 35.4454291,
+        "lng": 139.6460488
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18b29262-2ce1-4e66-9ac4-1c943d929d13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18b29262-2ce1-4e66-9ac4-1c943d929d13.webp"
+        },
+        {
+          "url": "media/cached-image_ae7fa7db06f702aef3db09d440e6e19e303a84b8a8b1314e08545916b16b9c2e.jpg"
+        },
+        {
+          "url": "media/cached-image_22fd1e9a781b626d0cc2813387eeb689005a431a84adf1b659ed55bcf989f31c.jpg"
+        },
+        {
+          "url": "media/cached-image_2444a49f25b7d0c44d4162f321e7042b9c06162b664a7cfab5efee80f630c5f1.jpg"
+        },
+        {
+          "url": "media/cached-image_413c84289604b39ebbcc42485223a6a34da54e99743ffabf15e2d6f8ae52c87d.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.2,
+      "reviewCount": 244,
+      "priceLevel": null,
+      "address": "Kanagawa Arts Theatre, 281 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454326,139.6452651,3a,75y,110.66h,110.03t/data=!3m7!1e1!3m5!1sT_RhzrZ4X1Rpap2CnvcpmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.02990479189296%26panoid%3DT_RhzrZ4X1Rpap2CnvcpmA%26yaw%3D110.6624341631432!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The striking exterior of this Yokohama arts complex serves as the backdrop for the Tenjiku arc's climactic confrontation, standing in for the grand urban scenery as Takemichi and the allied gangs converge on Yokohama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tokyo-revengers-3_1",
+      "name": "STARBORD CAFE",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.44535,
+        "lng": 139.65136
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f2c1690-1915-412d-9e9f-a41d32b9d115.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f2c1690-1915-412d-9e9f-a41d32b9d115.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4452235,139.6515752,3a,75y,307.83h,99.8t/data=!3m7!1e1!3m5!1s9AubGGSBGkzx39JpJCzScA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.797909273510172%26panoid%3D9AubGGSBGkzx39JpJCzScA%26yaw%3D307.8302352857846!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This Yokohama cafe near Yamashita Park appears in episode 13 background shots during the tense post-battle aftermath in Yokohama's waterfront district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCc988h1dGGARDgEGzO2DzxQ",
+      "name": "Daily Yamazaki Yokohama Yamashita-cho store",
+      "localName": "デイリーヤマザキ 横浜山下町店",
+      "coordinates": {
+        "lat": 35.4463253,
+        "lng": 139.6457247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23d06a74-02a3-431b-a8a9-ebc32357e43f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23d06a74-02a3-431b-a8a9-ebc32357e43f.webp"
+        },
+        {
+          "url": "media/cached-image_b907e39946538683fb1a90062bd7053653edee7855be214c4f97c6241ced42ce.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Daily Yamazaki, 日土地山下町ビル 23 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4461769,139.6457933,3a,69.3y,32.7h,98.64t/data=!3m7!1e1!3m5!1s537gRwfl7uAJTUfpJvHrLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.635609561374096%26panoid%3D537gRwfl7uAJTUfpJvHrLA%26yaw%3D32.69842896676014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This convenience store in Yokohama's Yamashita-cho district is seen in episode 12 street-level shots that establish the everyday Yokohama setting at the heart of Tenjiku territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1e7seJcGGARbDdyYvFJuuM",
+      "name": "Yamashita Park",
+      "localName": "山下公園",
+      "coordinates": {
+        "lat": 35.44555,
+        "lng": 139.64971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ae0bb46-2506-42fe-9e9f-5622b638f7c3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ae0bb46-2506-42fe-9e9f-5622b638f7c3.webp"
+        },
+        {
+          "url": "media/cached-image_7281206f920b001f87a523c3c04e673b4f314e6a44ad3625dd412af5d8b493b3.jpg"
+        },
+        {
+          "url": "media/cached-image_b430298ec0c5a85862edb6aa8cd908481559847a6594052854680f5e8038241b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b4c287953132ce0f6742f4ac234768bbd1d6163cba83d75714fbdb74abf3f80.jpg"
+        },
+        {
+          "url": "media/cached-image_409e3fd7b20ccd618548395c527a7e7310a15fd6fde087cb61799c4a90eed76d.jpg"
+        },
+        {
+          "url": "media/cached-image_25bd26be6878dfa8b035d86cab10563c402db700ed322b30877332fc78547c40.jpg"
+        },
+        {
+          "url": "media/cached-image_2607f3f79ef882e8a6f3958548c164eead77a5f0d4eb47ca731bee38d61c4896.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2320,
+      "priceLevel": null,
+      "address": "279 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454931,139.6497994,3a,90y,309.78h,95.72t/data=!3m7!1e1!3m5!1sBbTlT5945dCtth4vFWB8gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.724795431178734%26panoid%3DBbTlT5945dCtth4vFWB8gQ%26yaw%3D309.7801928323015!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This iconic Yokohama waterfront park is used in the Tenjiku arc to establish the scenic bay backdrop of Yokohama, appearing in episode 11 as characters move through the city ahead of the final showdown.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4cbaa8f-132b-449a-8c2a-5363bd6317e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4cbaa8f-132b-449a-8c2a-5363bd6317e4.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The world-famous crossing appears in episode 4 of Tenjiku-hen, capturing the chaotic energy of Tokyo as Takemichi navigates gang territory and the sprawling conflict that stretches from Shibuya to Yokohama.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSXGAhfhcGGARcz3MKth9lJQ",
+      "name": "Yokohama Red Brick Warehouse",
+      "localName": "横浜赤レンガ倉庫",
+      "coordinates": {
+        "lat": 35.4528668,
+        "lng": 139.6423071
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3308f538-c8b6-4ad5-a55b-f58a48a153ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3308f538-c8b6-4ad5-a55b-f58a48a153ed.webp"
+        },
+        {
+          "url": "media/cached-image_ac6ee8bf37a495b9d28873e1c1156654e18b242cdc336ace77ed3dd93cf9bfc7.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1-1 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4528668,139.6423071,3a,90y,123.04h,99.66t/data=!3m6!1e1!3m4!1sn5x1oCY-NFmV9OxGJPHreQ!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Yokohama's historic red brick warehouses appear in episode 13 as a recognizable waterfront landmark backdrop during the final events of the Tenjiku arc, evoking the port city's distinctive industrial character.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-_2ZmCFdGGARh9KjkvMeO1I",
+      "name": "Kawasaki Plaza Yokohama Yamashita",
+      "localName": "カワサキ プラザ横浜山下",
+      "coordinates": {
+        "lat": 35.444818999999995,
+        "lng": 139.64732139999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc211b95-9e34-4ce5-b106-dbcf1a315ebd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc211b95-9e34-4ce5-b106-dbcf1a315ebd.webp"
+        }
+      ],
+      "type": "Motorcycle shop",
+      "categories": [
+        "Motorcycle shop"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kawasaki Plaza Yokohamayamashita, 58 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4445171,139.6472766,3a,75y,296.83h,103.66t/data=!3m7!1e1!3m5!1swDsDY-lUGYgk4dotUsMwWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.66475513290223%26panoid%3DwDsDY-lUGYgk4dotUsMwWA%26yaw%3D296.82973734527496!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This Yamashita-cho building appears in episode 12 background shots as part of the dense Yokohama streetscape surrounding Tenjiku's stronghold."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJodWH8EpDGGARyiGWBKrJeRI",
+      "name": "Lawson Yokohama Shin-Isogo-cho store",
+      "localName": "ローソン 横浜新磯子町店",
+      "coordinates": {
+        "lat": 35.4081313,
+        "lng": 139.6280198
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27f96076-1b74-47cf-9f13-f7bda20e5eab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27f96076-1b74-47cf-9f13-f7bda20e5eab.webp"
+        },
+        {
+          "url": "media/cached-image_2f3f7918318ca9a039f2df345e7e1c7102397dc0763d4bff70ab9e99f9270c2b.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson, 7 Shinisogocho, Isogo Ward, Yokohama, Kanagawa 235-0017, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4086106,139.6279212,3a,75y,333.66h,96.49t/data=!3m7!1e1!3m5!1s2qjcpJWNtIrlDI_SxqiRRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.489745422048685%26panoid%3D2qjcpJWNtIrlDI_SxqiRRg%26yaw%3D333.6636783386704!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This convenience store in Isogo appears in episode 11 during scenes set in the outer Yokohama neighborhoods, grounding the gang territory in recognizable everyday surroundings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpWTtOXiLGGARheMngAQjX5g",
+      "name": "Roppongi West Park",
+      "localName": "六本木西公園",
+      "coordinates": {
+        "lat": 35.6633551,
+        "lng": 139.7298333
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0ebfb940-727c-4b2e-9702-99d0aeae8809.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0ebfb940-727c-4b2e-9702-99d0aeae8809.webp"
+        },
+        {
+          "url": "media/cached-image_6d31064d7ac90d6383d415c4421ab828a366a5f118bb200d59e7ee483f48a127.jpg"
+        },
+        {
+          "url": "media/cached-image_10f00d70d22c0aed732aca05211bef8626dbb0828ae2c89626bd39bccc1250ab.jpg"
+        },
+        {
+          "url": "media/cached-image_4f1001a51367fc2f519e97030440d6f2a4a7805e2c7e9788e08103930ad26955.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "Roppongi West Park, 7 Chome-17-8 Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6632421,139.7299898,3a,75y,68.5h,99.73t/data=!3m7!1e1!3m5!1sF7Kb3EdrYI0J_hC8glAwvA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.730491738925451%26panoid%3DF7Kb3EdrYI0J_hC8glAwvA%26yaw%3D68.50353796918647!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small Tokyo park in Roppongi appears in episode 8 as a meeting point for characters, reflecting the series' use of quiet urban green spaces for tense conversations and gang negotiations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tokyo-revengers-3_9",
+      "name": "Honda Children Park",
+      "localName": "本田児童公園",
+      "coordinates": {
+        "lat": 35.70425,
+        "lng": 139.59281
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee2f007a-ea0d-461e-9159-c353de19c91c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee2f007a-ea0d-461e-9159-c353de19c91c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7043485,139.5928623,3a,75y,199.09h,98.81t/data=!3m7!1e1!3m5!1sDhGivxZYNNAs_XvQtYON4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.812897043230791%26panoid%3DDhGivxZYNNAs_XvQtYON4g%26yaw%3D199.0866807506149!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This local Tokyo park appears in episode 8 as part of the residential neighborhood backdrop, used for a street-level scene that grounds the Tenjiku arc's action in everyday Tokyo surroundings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx2D_qhXuGGAR0KtUalzcEL0",
+      "name": "Shorai Park",
+      "localName": "松籟公園",
+      "coordinates": {
+        "lat": 35.7051182,
+        "lng": 139.59170899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c8fd021-460d-4395-9d3f-d8f7c64b401b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c8fd021-460d-4395-9d3f-d8f7c64b401b.webp"
+        },
+        {
+          "url": "media/cached-image_8e3a489e473d4529fc35653ac05a9603b0cd72426b4ebce29198754b8e8445df.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shorai Park, 4 Chome-3 Kichijoji Higashicho, Musashino, Tokyo 180-0002, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7050022,139.591467,3a,90y,33.22h,101.16t/data=!3m7!1e1!3m5!1sh4VEHT5EgIODwE_k2ZV5iA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.16132351705997%26panoid%3Dh4VEHT5EgIODwE_k2ZV5iA%26yaw%3D33.218341244196104!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small park near Kichijoji appears in episode 8 as a quiet urban setting, reflecting the series' pattern of using neighborhood parks for character moments between gang confrontations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ878UkRWJGGARBG5SjCgHvzo",
+      "name": "Fukagawa Library",
+      "localName": "江東区立深川図書館",
+      "coordinates": {
+        "lat": 35.6791305,
+        "lng": 139.796762
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9d2485eb-0a15-470b-a3b0-cc3a10ddb319.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9d2485eb-0a15-470b-a3b0-cc3a10ddb319.webp"
+        },
+        {
+          "url": "media/cached-image_c6b47f376b8472a1e007c6f7e2bbd8e4b007a9714e164a1f3df453cbdd911df1.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukagawa Library, 3 Chome-3-39 Kiyosumi, Koto City, Tokyo 135-0024, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Fukagawa+Library/@35.6791303,139.796762,3a,90y,353.88h,129.06t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEyeepjgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1IPciSo4ErZrX98ma8l-FhdS7OiHiqCvaOwl_bgKtBZ2WEMw2fxhP2nWtpqY1QmeB6sHGz3nLDjUCXUjp23Al4e_besrcyO9_dFIaiDQLKTN3qebMKi_rp55z9JCU29Qy7CXaLGQ%3Dw900-h600-k-no-pi-39.06446578693604-ya353.8756640369518-ro0-fo100!7i5792!8i2896!4m9!3m8!1s0x601889159114bff3:0x3abf07288c526e04!8m2!3d35.6791305!4d139.796762!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F122l8bhx?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This public library in Koto City appears in episode 8 as a location reference, establishing the Tenjiku arc's wide geographic reach across Tokyo's eastern wards."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo4uOvXfyGGARsOIwHXdeKDU",
+      "name": "Kawakita General Hospital",
+      "localName": "河北総合病院",
+      "coordinates": {
+        "lat": 35.706105699999995,
+        "lng": 139.6378567
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f812b3ec-3336-45ee-9eb6-4aa5b5b84583.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f812b3ec-3336-45ee-9eb6-4aa5b5b84583.webp"
+        },
+        {
+          "url": "media/cached-image_0897e20c4f8d385cc0c4e89ad5f9f7a44cf64695de5df6177cdb8a168a8f7108.jpg"
+        },
+        {
+          "url": "media/cached-image_737d7f5f03b0e0c8e2dba9cbedc7d76f782e97eefd1f0dd1bc943895b2ebba39.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 2.6,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Kawakita General Hospital, 1 Chome-6-1 Asagayakita, Suginami City, Tokyo 166-8588, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7066642,139.6384213,3a,90y,266.58h,96.25t/data=!3m7!1e1!3m5!1ssO7cukUg3T3HfhGIhaLpTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.254285577457949%26panoid%3DsO7cukUg3T3HfhGIhaLpTQ%26yaw%3D266.58284921073295!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This hospital in Suginami City appears in episode 6, likely as the setting where an injured character is taken after a gang conflict, a recurring scene type throughout the Tokyo Revengers series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs2Vb7yRDGGARi8JrIrXOF6E",
+      "name": "Chiyoda Reizo Isogo Plant",
+      "localName": "電源開発 磯子火力発電所",
+      "coordinates": {
+        "lat": 35.4034214,
+        "lng": 139.6417624
+      },
+      "image": "https://cdn.animepilgrimage.com/places/610a46ac-5a94-4c8e-84f1-6441591bca81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/610a46ac-5a94-4c8e-84f1-6441591bca81.webp"
+        },
+        {
+          "url": "media/cached-image_293f2dbb474aac189bd9916e07bb0623f92a4d34604e3bcd699c04e37fdc1dc8.jpg"
+        }
+      ],
+      "type": "Power station",
+      "categories": [
+        "Power station"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "J-POWER Isogo Power Station, 電源開発磯子火力発電所 37-2 Shinisogocho, Isogo Ward, Yokohama, Kanagawa 235-0017, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4060985,139.629769,3a,90y,155.22h,99.42t/data=!3m7!1e1!3m5!1sM1Lq6sJa-4FwZqIuLbv86g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.42154179800093%26panoid%3DM1Lq6sJa-4FwZqIuLbv86g%26yaw%3D155.21959667003722!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The industrial Isogo power station waterfront appears in episode 1 of Tenjiku-hen, establishing Yokohama's gritty port industrial zone as the opening backdrop for the arc's introduction."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiUykBaKLGGARJRZNccHl6Zc",
+      "name": "Ichinohashi Water Park",
+      "localName": "一の橋公園",
+      "coordinates": {
+        "lat": 35.6558022,
+        "lng": 139.7376308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9f75cf9-b8bb-4f5d-91ea-5b36efe66462.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9f75cf9-b8bb-4f5d-91ea-5b36efe66462.webp"
+        },
+        {
+          "url": "media/cached-image_ac9c901f431061352be831d4702457aec6f6f60ae6369cbf8fa65cf93c95fb38.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ichinohashi Park, 3 Chome-9 Higashiazabu, Minato City, Tokyo 106-0044, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6560479,139.7383145,3a,87y,268.61h,93.38t/data=!3m7!1e1!3m5!1sNtARzM_EmCUQUJrFhcShKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.377594479986726%26panoid%3DNtARzM_EmCUQUJrFhcShKA%26yaw%3D268.6068842513787!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small park in Minato City's Azabu district appears in episode 1 as part of the Tokyo streetscape backdrop during the early setup scenes of the Tenjiku arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1VUJsuhfGGARB72x-O3uonM",
+      "name": "Tama River Green Space (Kamimaruko Sanno District)",
+      "localName": "多摩川ガス橋緑地",
+      "coordinates": {
+        "lat": 35.5652853,
+        "lng": 139.6792929
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76dbeea3-738d-4cfb-92be-53dcff3bf22d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76dbeea3-738d-4cfb-92be-53dcff3bf22d.webp"
+        },
+        {
+          "url": "media/cached-image_8c0d9e565bc4ff3aaf964cfc53e2ae7842cc246063462a59beb3ff1ad33c51a7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tamagawa Gas Bridge Green Space, ２丁目-12-3 Shimomaruko, Ota City, Tokyo 146-0092, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5800941,139.6685524,3a,90y,1.7h,96.12t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDag8OHEA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu32iH9L-HgGAKwsdg4rR3vbMYgebKM8zakUpPx3em5HSvle4mW4ZYNGhbVyMseRfbD92_UNMyuc1x4w2G4R-ZMP8G5XObJNyeuVSRJhS0Erc7-OY4IW8A4ejyEqEqBC9XSaOcg%3Dw900-h600-k-no-pi-6.1155016291827735-ya12.886329943554983-ro0-fo100!7i5760!8i2880?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The wide open banks of the Tama River appear in episode 1, continuing Tokyo Revengers' tradition of using riverside locations for large-scale gang confrontations where crowds can gather."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tokyo-revengers-3_16",
+      "name": "BLOW UP",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.65754,
+        "lng": 139.69746
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e3b812d8-95a3-4c85-a549-da9e5bd83b74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e3b812d8-95a3-4c85-a549-da9e5bd83b74.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6575817,139.6975102,3a,90y,155.75h,100.02t/data=!3m7!1e1!3m5!1sCspnElhgYmiD7uTLU6N2fA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.016421963772189%26panoid%3DCspnElhgYmiD7uTLU6N2fA%26yaw%3D155.75062862556456!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Shibuya area location appears in episode 1 of Tenjiku-hen during the opening scenes, serving as a recognizable neighborhood backdrop as Takemichi re-enters the gang world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ___vEVaLGGARhfCbsnoclNU",
+      "name": "Shibuya REX",
+      "localName": "SHIBUYA REX",
+      "coordinates": {
+        "lat": 35.6574041,
+        "lng": 139.69692089999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2cd5c1a2-2b50-4489-b409-1f8c061ccb07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2cd5c1a2-2b50-4489-b409-1f8c061ccb07.webp"
+        }
+      ],
+      "type": "Live music venue",
+      "categories": [
+        "Live music venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya REX, Premier-Dogenzaka Bldg., 1 Chome-18-3 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6573304,139.6969821,3a,90y,326.85h,95.43t/data=!3m7!1e1!3m5!1sin6OKufXEf53N5rRR2XnlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.432970899577981%26panoid%3Din6OKufXEf53N5rRR2XnlQ%26yaw%3D326.85495095893003!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Shibuya live venue building appears in episode 1, its distinctive facade used to establish the Dogenzaka area as Takemichi navigates Shibuya's gang territory at the start of the Tenjiku arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl-6uWuJcGGARBYZfwxg8cyE",
+      "name": "NPC 24 H Chukagai Dai 3 Pakingu",
+      "localName": "NPC24H中華街第3パーキング",
+      "coordinates": {
+        "lat": 35.442949999999996,
+        "lng": 139.648424
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0137a300-d04a-4601-b444-e6c0cf189c29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0137a300-d04a-4601-b444-e6c0cf189c29.webp"
+        },
+        {
+          "url": "media/cached-image_7dd3bf9cf3d41ec180813e5f68321adb371ff1278c480f898a30875513a0fd00.jpg"
+        },
+        {
+          "url": "media/cached-image_066a184d1f6c297ea20a7c30a0f29714d73acc5d316d211e970630637fca4fae.jpg"
+        },
+        {
+          "url": "media/cached-image_ad0b5903272c5abd0df460ae643fb5d3986356ceea8e701c822feded337b57db.jpg"
+        },
+        {
+          "url": "media/cached-image_e8fea09d8a06171fd68924a3c41c4c19ac7668f10ac19ab041aaf4f33108ef3c.jpg"
+        },
+        {
+          "url": "media/cached-image_0dd6c5c0eaa8ef8e0aaf55e4923344f324c7720d846cfb8004f49dc1aaecd465.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "NPC 24 H Chukagaidai 3 Pakingu, 97-3 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4431222,139.6483592,3a,90y,314.74h,95.99t/data=!3m7!1e1!3m5!1ss_iddmT6gwAznHrLbdYeAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.993899981937616%26panoid%3Ds_iddmT6gwAznHrLbdYeAQ%26yaw%3D314.74087764771843!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This parking structure in Yokohama Chinatown appears in episode 13 during the final Tenjiku arc sequences, part of the Yamashita-cho district that serves as Tenjiku's home territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG-Jvm_-NGGARkZQCoIxalC4",
+      "name": "Shohei Bridge",
+      "localName": "昌平橋",
+      "coordinates": {
+        "lat": 35.6983003,
+        "lng": 139.7689035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f462d77-437a-40ca-ba39-6eec562d57e5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f462d77-437a-40ca-ba39-6eec562d57e5.webp"
+        },
+        {
+          "url": "media/cached-image_a2db1911a6dc2f29727d0b2f6a621c78e13306bdfbbf2ced005a2f8240289d4b.jpg"
+        },
+        {
+          "url": "media/cached-image_48186c255779ae199439c2cc76c0d9d0941dda0e852c52a643fe35eee8eb45a7.jpg"
+        },
+        {
+          "url": "media/cached-image_79f3226b32486d2c27dc3aaf05b70a1b66266d9b8b01cdc1bbfe6ae1936dfd01.jpg"
+        },
+        {
+          "url": "media/cached-image_b5d7947ad28325ddde53a070bc7e800ad75a99167fc5afd55fd5e666c3c1a52d.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 71,
+      "priceLevel": null,
+      "address": "Shohei Bridge, 1 Chome, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6986171,139.7688392,3a,75y,216.64h,102.1t/data=!3m7!1e1!3m5!1sej4pV862e8TCRWdyRgrNkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.096857680151743%26panoid%3Dej4pV862e8TCRWdyRgrNkw%26yaw%3D216.64262080767884!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This bridge over the Kanda River in Chiyoda appears in episode 5, used as a dramatic meeting or confrontation point as characters move across Tokyo during the escalating Tenjiku gang war."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO5zZY5qNGGAR6t0TMKJoAIc",
+      "name": "Ohjo Building",
+      "localName": "王城ビル / OHJO BLDG",
+      "coordinates": {
+        "lat": 35.6944224,
+        "lng": 139.7025054
+      },
+      "image": "https://cdn.animepilgrimage.com/places/255170c4-a52f-47f3-b8c5-e7e1ae8e66ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/255170c4-a52f-47f3-b8c5-e7e1ae8e66ba.webp"
+        },
+        {
+          "url": "media/cached-image_f6d756f2c190670b093196ddc7a72033cc588213e17329e19a34dae3d0c405c1.jpg"
+        },
+        {
+          "url": "media/cached-image_b6298b09bf842086766636991f8568ce43ede8f2f4bbaa7b39f94f5a4eec93a9.jpg"
+        }
+      ],
+      "type": "Fairground",
+      "categories": [
+        "Fairground"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1800,
+      "priceLevel": null,
+      "address": "Ohjo Building, 1 Chome-13-2 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6942532,139.7023414,3a,90y,268.47h,107.24t/data=!3m7!1e1!3m5!1sp2Q6s9ff1nlLAQB2ws56RA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.243373339701847%26panoid%3Dp2Q6s9ff1nlLAQB2ws56RA%26yaw%3D268.46984153094496!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Ohjo Building in Kabukicho, Shinjuku appears in episode 1 as a landmark in Tokyo's entertainment district, establishing the wide urban geography of gang territory at the Tenjiku arc's opening."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL8J18OJcGGARRWifKZK_rnw",
+      "name": "Chukagai-iriguchi [China Town]",
+      "localName": "中華街入口",
+      "coordinates": {
+        "lat": 35.443981,
+        "lng": 139.648403
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f25a43b1-ea5c-460e-a75e-ba1df29b30f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f25a43b1-ea5c-460e-a75e-ba1df29b30f6.webp"
+        },
+        {
+          "url": "media/cached-image_b6fa75d0168e74a3c5ce6f0a863ea4523730eed545693294a7200ab46e45520e.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chukagai-iriguchi [China Town], Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4445012,139.6484907,3a,90y,217.35h,100.48t/data=!3m7!1e1!3m5!1sMs5YDooK9hm7hKwu7JIHzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.48277772759485%26panoid%3DMs5YDooK9hm7hKwu7JIHzA%26yaw%3D217.35153234506095!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The entrance to Yokohama's famous Chinatown is Tenjiku's home turf, and this gateway appears in episode 13 as the symbolic heart of the Tenjiku arc's Yokohama-set climax where Izana Kurokawa's gang holds power.",
+      "fanTopPick": true
+    }
+  ]
+}

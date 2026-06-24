@@ -1,0 +1,1047 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Girl I Like Forgot Her Glasses",
+  "slug": "the-girl-i-like-forgot-her-glasses",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3527a79885e0463b7ec790bce207c4a88472abf8132afb4a679d5aa9ecf1997e.webp",
+  "image": "media/cached-image_3527a79885e0463b7ec790bce207c4a88472abf8132afb4a679d5aa9ecf1997e.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.62492683928572,
+    "lng": 139.40725239285715
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Girl I Like Forgot Her Glasses"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJSZyiaqWFP44RZniUQU8SLNk",
+      "name": "Fukushi Jimusho (Bus)",
+      "localName": "/dir/38.7945952,-106.5348379/Fukushi+Fusi%C3%B3n,+Calle+169B%2367-61,+Bogot%C3%A1,+Colombia/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8e3f85a56aa29c49:0xd92c124f41947866!2m2!1d-74.06333409999999!2d4.7546542",
+      "coordinates": {
+        "lat": 35.7008,
+        "lng": 139.64953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e3ada67-5345-4946-8828-3fbafed9c64d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e3ada67-5345-4946-8828-3fbafed9c64d.webp"
+        },
+        {
+          "url": "media/cached-image_18ebcc6b07d5258d5519a132a5ccd6565a32b53f0bdab45dda8e52bc2c9d8f8c.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 4.7546544,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukushi Fusión, Calle 169B#67-61, Bogotá, Colombia",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7k7vAHLLbamoCjyk8",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg9NyU2LyGGARLaoyGNWgGdM",
+      "name": "COIN PARK Koenji-minami 2-Chome",
+      "localName": "コインパーク 高円寺南",
+      "coordinates": {
+        "lat": 35.700082,
+        "lng": 139.647888
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4c950d9c-5e6e-415c-932b-be5a981f8603.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4c950d9c-5e6e-415c-932b-be5a981f8603.webp"
+        },
+        {
+          "url": "media/cached-image_a2e1955ddfe01eea44e311e472b4e0d04c78735923b9c640face9cf32519e1e3.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Coin Park Koenjiminami, 2 Chome-19-20 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Hy2VNDsznzqzy8B6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This parking lot near Komura and Mie's neighborhood serves as one of the mundane backstreet corners that frames their daily walks to school, grounding the show's slice-of-life atmosphere in the real streets of Koenji."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-girl-i-like-forgot-her-glasses_2",
+      "name": "Inclat",
+      "localName": "インクラット",
+      "coordinates": {
+        "lat": 35.70275,
+        "lng": 139.64971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24905dfe-5332-4121-9a88-082119a13b7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24905dfe-5332-4121-9a88-082119a13b7c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/yq7ZETnWVnWoi5QZ6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Koenji-area shop appears as a street-level backdrop in the early episodes, part of the local commercial strip that Komura and Mie pass through near their homes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-girl-i-like-forgot-her-glasses_3",
+      "name": "Antique Forty-Three",
+      "localName": "アンティークフォーティースリー",
+      "coordinates": {
+        "lat": 35.70476,
+        "lng": 139.6517
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99f9f654-2a7b-49a7-bceb-13b8998308ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99f9f654-2a7b-49a7-bceb-13b8998308ba.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Z5S5t27fRUJKMcFY8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "An antique shop along Koenji's eclectic back-streets that appears as background scenery in Episode 1, reflecting the neighborhood's vintage and subculture character that the anime faithfully captures."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6wPf4IjzGGARCFDukf2P7-M",
+      "name": "Globe The Koenji Premium",
+      "localName": "グローベル ザ高円寺プレミアム",
+      "coordinates": {
+        "lat": 35.7028204,
+        "lng": 139.6506032
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89e707d5-3ff9-4089-b3dc-b3b6d047be9b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89e707d5-3ff9-4089-b3dc-b3b6d047be9b.webp"
+        },
+        {
+          "url": "media/cached-image_c155359c7963e4c8c258d3d51496c555915298695c277d22f491f66c37f3796b.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0003 Tokyo, Suginami City, Koenjiminami, 4 Chome−5−7 Gro-Bel The Koenji Premium, グローベル ザ高円寺プレミアム",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1Nwf1vjzR9KvwDDH8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Koenji condominium building is used as a model for the apartment block near Komura's or Mie's home, placing their everyday domestic life in the Koenji residential streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJByGXShVbGGARYqrPkcaZeM4",
+      "name": "Inoue Otolaryngology",
+      "localName": "井上耳鼻咽喉科",
+      "coordinates": {
+        "lat": 35.4138781,
+        "lng": 139.5890834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/58d17ae9-6dec-402c-b047-2c53e2e4d916.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/58d17ae9-6dec-402c-b047-2c53e2e4d916.webp"
+        },
+        {
+          "url": "media/cached-image_163fb647f2c59f554c9d20ff395cfd22bce8b5e21d5f2f6ae25a68a0e630f2d6.jpg"
+        }
+      ],
+      "type": "Otolaryngologist",
+      "categories": [
+        "Otolaryngologist"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Inoue Otolaryngology, クリニックビル 3F 3 Chome-8-3 Bessho, Minami Ward, Yokohama, Kanagawa 232-0064, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KNzUbUETVUDbN2XZ8",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6pWUtJRA2ARtKygfg8ao4A",
+      "name": "Yanagiya Shokuryohinten",
+      "localName": "御料理 柳家",
+      "coordinates": {
+        "lat": 35.3180079,
+        "lng": 137.33450209999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81f46c1a-33b6-464c-a3f9-c9537079d96f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81f46c1a-33b6-464c-a3f9-c9537079d96f.webp"
+        },
+        {
+          "url": "media/cached-image_ae0c1dce5336099e42d65de66350defda0f4874cf112a7502c94931ee94cf7c6.jpg"
+        }
+      ],
+      "type": "Japanese regional restaurant",
+      "categories": [
+        "Japanese regional restaurant"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yanagiya, Mashizume-573-27 陶町猿爪 Mizunami, Gifu 509-6361, Japan",
+      "city": "Mizunami",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fQf8htgN6dDHfYA77",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-girl-i-like-forgot-her-glasses_7",
+      "name": "Minatomiraieki Bicycle Parking",
+      "localName": "みなとみらい駅自転車駐車場",
+      "coordinates": {
+        "lat": 35.45661,
+        "lng": 139.63204
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b30d3e59-d7c7-4ee7-8673-7a90fb478368.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b30d3e59-d7c7-4ee7-8673-7a90fb478368.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/65cWm6vp2MN9dvWp9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Minatomirai bicycle parking area near the station appears in Episode 9 during the class trip to Yokohama, a transit detail the anime accurately depicts as the group makes their way to the waterfront museum district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSTaI0Y3yGGARcyF4Yc2gJ7M",
+      "name": "Kooenji Higashi Park",
+      "localName": "高円寺東公園",
+      "coordinates": {
+        "lat": 35.701859999999996,
+        "lng": 139.658287
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4bf6d396-f28d-49fc-bc97-c1ac87dc6f84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4bf6d396-f28d-49fc-bc97-c1ac87dc6f84.webp"
+        },
+        {
+          "url": "media/cached-image_057d8f83f878fb4877100b6c2f34befb1ad6ebfba79f55a77f37b8554f2bfebc.jpg"
+        },
+        {
+          "url": "media/cached-image_71b45176caf001ecce0539aef86496dee5df15a2b7206821875ff07ee45efa64.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Kōenji Higashi Park, 5 Chome-11-7 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uCmK27NggCfPnRpaA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small Koenji park appears in Episode 8 as an outdoor setting where Komura and Mie share a quiet moment outside of school, one of the tender neighborhood scenes that defines the show's gentle pace.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0ZV392dcGGARgHYhLFaaM9Y",
+      "name": "Mitsubishi Minatomirai Industrial Museum",
+      "localName": "三菱みなとみらい技術館",
+      "coordinates": {
+        "lat": 35.455921599999996,
+        "lng": 139.6299412
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0666fa1a-d23c-4809-a608-a074d193efbb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0666fa1a-d23c-4809-a608-a074d193efbb.webp"
+        },
+        {
+          "url": "media/cached-image_724ed5f5a781c0a72839ef618709020010eb52b0014c5e36ab45f9a5b17e72e4.jpg"
+        },
+        {
+          "url": "media/cached-image_7682912bbc32d367f7c906f443421e3ccb3279ccae6de15c6e71b1c6d7ea9e91.jpg"
+        },
+        {
+          "url": "media/cached-image_b757a2def76d68892dde28e62d1a0cff8b0e8ad7adfd8d2bf162eabe79d6e709.jpg"
+        },
+        {
+          "url": "media/cached-image_0090e8d50c6f0c97c67cd19d7753c9a428b4c0b1deb0a975db70a0f5b85a4910.jpg"
+        },
+        {
+          "url": "media/cached-image_64faa77b603fb8a3437bdf1d1237de46ea5519d9eed8f083c95cdaad933b2736.jpg"
+        }
+      ],
+      "type": "Technology museum",
+      "categories": [
+        "Technology museum"
+      ],
+      "rating": 4.1,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Mitsubishi Minatomirai Industrial Museum, KDX 横浜みなとみらいタワ, 3 Chome-3-1 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-8401, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4562713,139.6290003,3a,90y,99.32h,133.38t/data=!3m7!1e1!3m5!1sYLCqlqk8fAo8wYTqHxmTew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-43.3815108152119%26panoid%3DYLCqlqk8fAo8wYTqHxmTew%26yaw%3D99.32369158089548!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Yokohama technology museum is the destination for the class field trip in Episode 9, where Komura and Mie spend a rare day outside their usual Koenji routine and grow closer during the excursion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHUjien3yGGARbKdSZURvKnw",
+      "name": "Koenji Station",
+      "localName": "高円寺駅",
+      "coordinates": {
+        "lat": 35.7053168,
+        "lng": 139.6496915
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74001eb5-825f-481e-a7bc-981391e36cd8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74001eb5-825f-481e-a7bc-981391e36cd8.webp"
+        },
+        {
+          "url": "media/cached-image_28876b236889d82549ce2e755c91c333f578b6a6df9318123e7168eeecab389d.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kōenji Station, 4 Chome-48-2 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BXDDm4GMrfAT4wbg9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Koenji Station is the symbolic heart of the anime, the hub from which Komura and Mie's school commute begins each morning and where many chance encounters and shared walks take place. Pilgrims treat the station as the essential first stop on any visit to the show's real-world locations.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo__pjn3yGGAROvpYgdeOK58",
+      "name": "Liquor Off Koenji Junko Shotengai Store",
+      "localName": "リカーオフ 高円寺純情商店街店",
+      "coordinates": {
+        "lat": 35.7064406,
+        "lng": 139.6497904
+      },
+      "image": "https://cdn.animepilgrimage.com/places/38dbafec-cea4-4c0d-b8ca-c8459c4674f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/38dbafec-cea4-4c0d-b8ca-c8459c4674f3.webp"
+        },
+        {
+          "url": "media/cached-image_3be54c61e8451e5c1b468931b43e024be09cacd7fd1ad41342df7ad6e64ce2a6.jpg"
+        }
+      ],
+      "type": "Thrift store",
+      "categories": [
+        "Thrift store"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Liquor Off, 高円寺名店ビル 1F 2 Chome-7-6 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cQQtvJCduTgdvs3n9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Located on the famous Junjo Shotengai shopping arcade north of Koenji Station, this store appears in Episode 5 as part of the lively covered market street that the characters pass through, capturing the distinctive retro atmosphere of this Koenji landmark."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOThVgWHyGGART5ckBCTc_yM",
+      "name": "Ina21 Suginami Shin-koenji",
+      "localName": "新高円寺駅",
+      "coordinates": {
+        "lat": 35.6978382,
+        "lng": 139.6484291
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6ad9338e-8467-4b73-abab-2e9aa3947515.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6ad9338e-8467-4b73-abab-2e9aa3947515.webp"
+        },
+        {
+          "url": "media/cached-image_740998c7023de029db5ee1d2d00216439f9ed33821f100408d8cc1a1032e244c.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shin-Koenji Station, 2 Chome-20-1 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ETvY9JmCd2T1XMeb7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Shin-Koenji Station appears in Episode 5 as a transit point in the characters' movements around the Koenji area, reflecting how the duo navigates the local subway and train network in their daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN7xS7X3yGGAR03Cn-qWa_Pc",
+      "name": "AOKI Koenjiten",
+      "localName": "AOKI 高円寺店",
+      "coordinates": {
+        "lat": 35.7068947,
+        "lng": 139.6497037
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f291277-9800-4abf-8b19-ce2b1366c64a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f291277-9800-4abf-8b19-ce2b1366c64a.webp"
+        },
+        {
+          "url": "media/cached-image_e790c32e72e62d2c9f2d2c2c2f32ab3b3cf58292120ccc16e80729561d3feb21.jpg"
+        },
+        {
+          "url": "media/cached-image_4b677791d668bb6a3bf33e5063ea2dac8915893fd36d35d3c14db216165cdc56.jpg"
+        },
+        {
+          "url": "media/cached-image_0364a65b23dc73d6c9519b667e5ec84166343543800d277f01378d3270814b70.jpg"
+        },
+        {
+          "url": "media/cached-image_d1ebfbc91165839d897cd868a580b27ab30268b72516e5ff4915adfd0423517f.jpg"
+        },
+        {
+          "url": "media/cached-image_51873a97432649c3c6047970028e92bf54d981075f1c2b857fd0c454151594ea.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "AOKI Koenjiten, 3 Chome-24-13 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UqGvPAWaKxkssCzv6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This clothing store on the Koenji shopping strip appears in Episode 5, part of the retail streetscape that Komura moves through during an episode focused on everyday errands near the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCTcfsWLyGGARk8qJH0iXYnU",
+      "name": "Lawson Koenji-minami 4-chome",
+      "localName": "ローソン 高円寺南四丁目店",
+      "coordinates": {
+        "lat": 35.7029938,
+        "lng": 139.6494544
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b93ce4a2-e211-4430-9aa3-909cd4cadce9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b93ce4a2-e211-4430-9aa3-909cd4cadce9.webp"
+        },
+        {
+          "url": "media/cached-image_ade87ef2ed998f12df0b19b9996d1dd2b58dda8b743e382feee975a6aa317be7.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Koenji-minami 4-chome, 4 Chome-6-10 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3jVckCM23BgcacpR6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This convenience store near the characters' Koenji homes appears in Episode 8 as a casual stop, the kind of ordinary neighborhood errand that the anime uses to build the warm, realistic texture of Komura and Mie's shared daily life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW8HQMkbuGGAR1Vj4ujiaD8o",
+      "name": "Miuraya Coppice Kichijoji",
+      "localName": "三浦屋 コピス吉祥寺店",
+      "coordinates": {
+        "lat": 35.7051371,
+        "lng": 139.5795766
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc0899c0-3681-4239-ad43-588e7f1998fe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc0899c0-3681-4239-ad43-588e7f1998fe.webp"
+        },
+        {
+          "url": "media/cached-image_ef3ba77b3d00a9a48deefd00ea24ec1d02f5d9c977e2f5f976a7975838f9dc14.jpg"
+        },
+        {
+          "url": "media/cached-image_617d1fa9d409ffb7b9fe2794ddc59da3383a8f1355159bc3c2900ddef682d7e4.jpg"
+        },
+        {
+          "url": "media/cached-image_94dfd15668c8f24f8714b43fca2075467853f16d7a28536ff4d4f88ccced0f11.jpg"
+        },
+        {
+          "url": "media/cached-image_4d6320da2fcce6209384895be6481b41d160393bbf8591978103c32e7e5a468c.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0004 Tokyo, Musashino, Kichijoji Honcho, 1 Chome−11−5 Miuraya Coppice Kichijoji, コピス吉祥寺B１F",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/q2puZx8wa4dA4US76",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Kichijoji supermarket is visited in Episode 2, when the story expands beyond Koenji and Komura accompanies Mie on an errand, capturing the slightly unfamiliar-yet-familiar feeling of being in a neighboring Tokyo neighborhood with someone you like."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ80-AKEbuGGAReiwmDdqnIq0",
+      "name": "Plaza Capcom Kichijoji",
+      "localName": "プラサカプコン 吉祥寺店",
+      "coordinates": {
+        "lat": 35.7052638,
+        "lng": 139.5790643
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5637c086-04c9-426b-bfbd-346f92269571.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5637c086-04c9-426b-bfbd-346f92269571.webp"
+        },
+        {
+          "url": "media/cached-image_acba83be299299f48dd9e5b1850ff771506770755e90398f114789d982d84157.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Plaza Capcom Kichijōji, いなりやビル B1F 1 Chome-10-1 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/W1jF2MXq5afpc4ur7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Kichijoji arcade appears in Episode 2 as a leisure destination the characters visit together, one of the early shared outings that begins to deepen Komura's feelings for Mie outside of the school setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBXy5l3jyGGARe-1hBg7_Img",
+      "name": "Mabashi Park",
+      "localName": "馬橋公園",
+      "coordinates": {
+        "lat": 35.7097094,
+        "lng": 139.64392949999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a29c637-f413-46c1-8e59-2ce232d24061.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a29c637-f413-46c1-8e59-2ce232d24061.webp"
+        },
+        {
+          "url": "media/cached-image_6cb76f94ed2744e5c0526a797795b4fc8112168ed37866402eb969cc1ab22a10.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mabashi Park, 4 Chome-35-5 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YQXjHaKK4sYhvT8MA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Mabashi Park in the Koenji area appears in Episode 2 as an outdoor spot where the characters spend time together, a green neighborhood space that lends an unhurried, local feel to their growing friendship."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWTaxenHyGGARB8ySiWLqKn4",
+      "name": "Primverelle Asagaya",
+      "localName": "（株）プレール",
+      "coordinates": {
+        "lat": 35.700643,
+        "lng": 139.63557699999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/340d5b2c-80d5-4b9a-9309-06369a8920dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/340d5b2c-80d5-4b9a-9309-06369a8920dc.webp"
+        },
+        {
+          "url": "media/cached-image_a70d9f1c0e56babec0fca13f8fb3f2d0ff379aa79f643c510b0a81fbfd44e917.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0004 Tokyo, Suginami City, Asagayaminami, 3 Chome−1−29 阿佐谷堀野ビル （株）プレール",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DAZiNjiCKpe8v5Ck8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This Asagaya-area building appears in Episode 2 as the anime ventures into the streets just west of Koenji, used as a residential backdrop during scenes that track Komura following Mie through the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA8bKSX3yGGARs5U_rhX7RU0",
+      "name": "powerspex BOSTON",
+      "localName": "powerspex BOSTON パワースペックス ボストン",
+      "coordinates": {
+        "lat": 35.7038975,
+        "lng": 139.6492517
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17bab1bb-e8b3-4c18-b397-2b2ad0b00f98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17bab1bb-e8b3-4c18-b397-2b2ad0b00f98.webp"
+        },
+        {
+          "url": "media/cached-image_8c6591ebff19309a7d4192e43bd16c00e1e2f4af5121f6a4d5ccf3687ec83c2e.jpg"
+        }
+      ],
+      "type": "Optician",
+      "categories": [
+        "Optician"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "powerspex BOSTON, 4 Chome-24-11 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8xD4yQAcz7M8PeH6A",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This optician shop in Koenji is one of the most pilgrimage-documented locations from the series: it directly mirrors the in-anime glasses shop where the story's central premise plays out, as Mie's perpetual forgetfulness about her glasses brings her and Komura together again and again. Fans visit to recreate the storefront shots from Episode 2 and beyond.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ23wOaX3yGGARw-MN3_DP9cA",
+      "name": "Trianon Koenji Main Store",
+      "localName": "トリアノン洋菓子店 高円寺本店",
+      "coordinates": {
+        "lat": 35.7049485,
+        "lng": 139.6495278
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d4bf63b-1ae4-45d2-a806-2c2717d58954.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d4bf63b-1ae4-45d2-a806-2c2717d58954.webp"
+        },
+        {
+          "url": "media/cached-image_608df31aa9a34ae747dad10174fbe02a458d715209a3d0925f458f3bc745e53b.jpg"
+        }
+      ],
+      "type": "Pastry shop",
+      "categories": [
+        "Pastry shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Trianon, 4 Chome-26-12 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Hi3qTTUZPRZXZVUg9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Trianon, a beloved long-standing bakery on the Koenji shopping street, appears in Episode 2 as a real neighborhood landmark the characters pass or visit, anchoring the show's portrayal of Koenji as a place with genuine local character."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcevQihPnAGAR6FF_0muzY4A",
+      "name": "Excelsior Caffé Shinsaibashi Branch",
+      "localName": "エクセルシオール カフェ 心斎橋店",
+      "coordinates": {
+        "lat": 34.669844999999995,
+        "lng": 135.5013632
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b5b72f57-350e-4dbf-833d-89982222bba1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b5b72f57-350e-4dbf-833d-89982222bba1.webp"
+        },
+        {
+          "url": "media/cached-image_6e3ef1e11312eb5cf81baf38fb65759da409e306a00af5cdb916dde74f96684b.jpg"
+        },
+        {
+          "url": "media/cached-image_c0242fdc22f36cffdd4c69afceb647cbedcdcad61866834ecdc55fea7c8d2018.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": null,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "Excelsior Caffé, 2 Chome-3-23 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4qFGYQ1StHvVmojR9",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ4exCzjuGGARzdIVL_tLNxs",
+      "name": "Mizuho Bank ATM Kichijoji Station South Exit Branch",
+      "localName": "みずほ銀行 Mizuho ATM 京王吉祥寺駅出張所",
+      "coordinates": {
+        "lat": 35.7027055,
+        "lng": 139.579998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9dc9de6-0a33-45b2-ac15-530819c1525a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9dc9de6-0a33-45b2-ac15-530819c1525a.webp"
+        },
+        {
+          "url": "media/cached-image_dfc862f79033ae035ec05ac3f124d81e81c2e499f87973f7be388741938f0910.jpg"
+        }
+      ],
+      "type": "ATM",
+      "categories": [
+        "ATM"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0003 Tokyo, Musashino, Kichijoji Minamicho, 2 Chome−1−31 みずほ銀行 Mizuho ATM 京王吉祥寺駅出張所",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dDRoppc6Wpd3mrzC9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This ATM near Kichijoji Station appears in Episode 2 during the characters' Kichijoji outing, a small practical detail in the streetscape that the anime recreates accurately as Komura and Mie navigate a neighborhood beyond their usual Koenji territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQasMt6bzGGARxLBAiuMPuJY",
+      "name": "Grand Vert Koenji WEST",
+      "localName": "グランヴェール高円寺ＷＥＳＴ",
+      "coordinates": {
+        "lat": 35.7078238,
+        "lng": 139.64251919999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/db8d7f5f-efe4-44bb-8895-e028f3a6f7f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/db8d7f5f-efe4-44bb-8895-e028f3a6f7f8.webp"
+        },
+        {
+          "url": "media/cached-image_8f647491c1d25bfa906761df89f5baa8486b6f1c283e1e6d6b22dfae2fa33746.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0002 Tokyo, Suginami City, Koenjikita, 4 Chome−27−6 グランヴェール高円寺ＷＥＳＴ",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/b7Cm3by4SUjkkB8u6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This residential apartment building in Koenji serves as a location model for the characters' home block in Episode 1, part of the meticulous real-world mapping of the Koenji residential streetscape that the anime is known for."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-girl-i-like-forgot-her-glasses_24",
+      "name": "Kuriyama Food Research Institute Co., Ltd.",
+      "localName": "（株）栗山食事研究所",
+      "coordinates": {
+        "lat": 35.70432,
+        "lng": 139.65123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e85f0e09-feff-45d4-9c8d-29c9590db953.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e85f0e09-feff-45d4-9c8d-29c9590db953.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/yCTnyHc28MwrhcFn8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Koenji business appears as a building facade in Episode 1 background scenes, one of many hyper-local details the production used to authentically recreate the texture of the Koenji neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbYe8sGLyGGARPwJmfS5zyo4",
+      "name": "CASE used &select",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.702863,
+        "lng": 139.6494138
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d7cfed80-b940-4709-9ad6-7429a68f8091.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d7cfed80-b940-4709-9ad6-7429a68f8091.webp"
+        },
+        {
+          "url": "media/cached-image_e4145208a85ce51aa9b155cd76306f18fe8a969527d9ca3032cc1707344f2eae.jpg"
+        }
+      ],
+      "type": "Used clothing store",
+      "categories": [
+        "Used clothing store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0003 Tokyo, Suginami City, Koenjiminami, 4 Chome−6−12 1F CASE used &select",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/AicmPV2AGmehkoZf7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This vintage clothing shop in Koenji's south side appears in Episode 1 as a storefront in the local shopping area, contributing to the anime's faithful reproduction of Koenji's well-known secondhand and subculture retail scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsVX8bjDzGGARUxh8V6WJsmo",
+      "name": "Repark Koenjiminami 4-Chome #3",
+      "localName": "三井のリパーク 高円寺南４丁目第３ 駐車場",
+      "coordinates": {
+        "lat": 35.7026215,
+        "lng": 139.651611
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b288285e-ac5a-4868-a055-2f1d9ee3f209.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b288285e-ac5a-4868-a055-2f1d9ee3f209.webp"
+        },
+        {
+          "url": "media/cached-image_c1e2d6fd2f54f9b9109c4ed981ede84f85f0f5d490ad7ad2479654842616c67a.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Repark Koenjiminami 4-Chome #3, 4 Chome-4-21 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hp9UzbqJ5AggdrEc6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This parking lot in Koenji's south side appears in Episode 1 background scenery, part of the residential backstreet landscape near the characters' homes that the anime meticulously mapped from the real Koenji neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGcb1h2LyGGARKgxREnZ8q40",
+      "name": "2000TOYS",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7011993,
+        "lng": 139.64965089999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b062c81c-79f3-4209-943f-364be1e84ed3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b062c81c-79f3-4209-943f-364be1e84ed3.webp"
+        },
+        {
+          "url": "media/cached-image_73ab0d3dddf526a24e488c8ba37782f15e8a59d4196ebdbcf30f58c8d744c734.jpg"
+        }
+      ],
+      "type": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0003 Tokyo, Suginami City, Koenjiminami, 2 Chome−43−9 杉田ビル １F 2000TOYS",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SEeE7tCu12Q3TJhq6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This hobby and toy shop in Koenji appears in Episode 1 as a neighborhood storefront, part of the distinctive Koenji streetscape filled with specialty shops that the anime uses to establish its local atmosphere."
+    }
+  ]
+}

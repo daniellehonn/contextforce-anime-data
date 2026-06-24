@@ -1,0 +1,983 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Today's Menu for the Emiya Family",
+  "slug": "todays-menu-for-the-emiya-family",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_c2ac4a290d90e7e637d1da8831c828c68bcedd7fabb0d58f69f5a3728b69534e.webp",
+  "image": "media/cached-image_c2ac4a290d90e7e637d1da8831c828c68bcedd7fabb0d58f69f5a3728b69534e.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.552681363999994,
+    "lng": 139.283801124
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Today's Menu for the Emiya Family"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ22yn9F_jGGARahR0FUDkeQ8",
+      "name": "Hotel Sakuragaoka",
+      "localName": "ホテル桜ケ丘",
+      "coordinates": {
+        "lat": 35.6477387,
+        "lng": 139.4463034
+      },
+      "image": "https://cdn.animepilgrimage.com/places/47dee406-5520-4618-97c1-11cccd2f1aea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/47dee406-5520-4618-97c1-11cccd2f1aea.webp"
+        },
+        {
+          "url": "media/cached-image_63ce4e57a665dafe0a976b094021dc3ee281cb2e8ff200971fc68acb2dac9aa7.jpg"
+        },
+        {
+          "url": "media/cached-image_9c35940ad436cdf13a77f9ffde9acca6b290d6e7cbdf11ea34ab932e3fdf5be5.jpg"
+        },
+        {
+          "url": "media/cached-image_7d07a61726d2f5d401edec4748a6647ecac5e31d122b694c2f4d9cea646abbb3.jpg"
+        },
+        {
+          "url": "media/cached-image_93bad1d373a97dd79752cc159a0872ecce559587ee01587d86e6bba6bf2ad732.jpg"
+        },
+        {
+          "url": "media/cached-image_c1f2e12bbb76f76a118d3fa0653642879c50ef0d26dd9303be8e19dfc88e7b91.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Sakuragaoka, ホテル桜ヶ丘 1 Chome-３-9 Higashiteragata, Tama, Tokyo 206-0003, Japan",
+      "city": "Tama",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HFukmNTunsstF83J6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "In Episode 5, Shirou and the household enjoy a hot-spring getaway, and the Sakuragaoka area hotel serves as the real-world model for their overnight lodging. The relaxed overnight stay lets Shirou prepare a warming nabe meal for everyone, capturing the series' signature cozy domestic mood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw3WuJUAiGWARyI5hNpg4zlw",
+      "name": "Tokyo Summerland",
+      "localName": "東京サマーランド",
+      "coordinates": {
+        "lat": 35.7178706,
+        "lng": 139.2778786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d857dcb3-ebcb-4aea-a7d5-f6cecdd2632b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d857dcb3-ebcb-4aea-a7d5-f6cecdd2632b.webp"
+        },
+        {
+          "url": "media/cached-image_b7751aa4d06a6d26777ab2fd3b2909614cf970d651d88c3f1f68c74722b44fb2.jpg"
+        },
+        {
+          "url": "media/cached-image_83b2ec93bcbf63dd7f8e8866e8d860ab0deb8b775bae12b7f47dbacd9a2097f0.jpg"
+        },
+        {
+          "url": "media/cached-image_57dce44681961e8d2d3a1364284f8786edfcde4a189e732dea57bddf76175689.jpg"
+        },
+        {
+          "url": "media/cached-image_be6f8c5008c20be4cc086e7e769ce90414d5fc1dff37867c66523e9404a1eadc.jpg"
+        },
+        {
+          "url": "media/cached-image_f4e820b448651fbdcbc4f228252cabb13cd1b3a37c882713d77b35e05759b7ed.jpg"
+        },
+        {
+          "url": "media/cached-image_88077a6f7e8cd25c87779c8f54d8bda261926a50d50402f7338649c9c753f4ed.jpg"
+        },
+        {
+          "url": "media/cached-image_301f54510f1f35c7d275cf2b619d3aa48cfed9100ae748d50da628c1814d5fbb.jpg"
+        }
+      ],
+      "type": "テーマ パーク",
+      "categories": [
+        "テーマ パーク"
+      ],
+      "rating": 4.1,
+      "reviewCount": 72,
+      "priceLevel": null,
+      "address": "600 Kamiyotsugi, Akiruno, Tokyo 197-0832, Japan",
+      "city": "Akiruno",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7178706,139.2778786,3a,20.3y,197.83h,92.21t/data=!3m6!1e1!3m4!1sBJ7VdIRveDjyURzYX3YosQ!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Episode 7 brings the cast to a water park for a summer outing, with Tokyo Summerland serving as the real-world model for the wave pools and slides Shirou, Saber, and Illya enjoy. The episode centers on refreshing summer foods Shirou prepares before and after their day in the water.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPfQr-EHnAGARk9XkdPmh9w4",
+      "name": "Uofuku",
+      "localName": "魚福",
+      "coordinates": {
+        "lat": 34.6646839,
+        "lng": 135.5069298
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da237076-af5c-4596-b282-33af44aed1e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da237076-af5c-4596-b282-33af44aed1e0.webp"
+        },
+        {
+          "url": "media/cached-image_8e26057786b9993268d745c481966bf9a9ad04bbac1c023f48a52ccb42d6e9f6.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Uofuku, OR日本橋ビル 2 Chome-3-7 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jjCXgxGSKehTzTNa7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In Episode 2, Shirou visits a fresh seafood shop to source the fish for his dish, and Uofuku in Osaka's Nipponbashi area is identified by pilgrimage guides as the real-world inspiration for that shop. The scene establishes Shirou's habit of seeking out quality ingredients from specialty vendors."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-4j62VFgGGARJf6dnrR-qyY",
+      "name": "Lee Hallee Kakinuma",
+      "localName": "レ・アル かきぬま",
+      "coordinates": {
+        "lat": 35.56797,
+        "lng": 139.72495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9cf9a001-53a5-425f-93af-590e42e304b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9cf9a001-53a5-425f-93af-590e42e304b7.webp"
+        },
+        {
+          "url": "media/cached-image_93c164ad201e46e32d0984f36aa6e9f542da6d28448eefc953705babfc7d2f8d.jpg"
+        }
+      ],
+      "type": "青果店",
+      "categories": [
+        "青果店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-12-18 Omorinishi, Ota City, Tokyo 143-0015, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5679212,139.7250873,3a,75y,287.56h,92.07t/data=!3m7!1e1!3m5!1sjNE1CiQLvl64R-NsQPU5zg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.066288816501924%26panoid%3DjNE1CiQLvl64R-NsQPU5zg%26yaw%3D287.5553977944772!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This greengrocer in Ota City's Kamata neighborhood appears in Episode 1 as one of the shops Shirou visits to buy fresh vegetables for his inaugural shirasu don. Fans on pilgrimage routes recognize the shop frontage from the anime's carefully replicated streetscapes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_4",
+      "name": "Josuijo (Bus)",
+      "localName": "浄水場前(バス)",
+      "coordinates": {
+        "lat": 35.64322,
+        "lng": 139.44398
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d084526b-0d62-49ff-8469-943d41cc9b47.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d084526b-0d62-49ff-8469-943d41cc9b47.webp"
+        },
+        {
+          "url": "media/cached-image_5f7ee06f0fae113ff8a4b8d13e420c244c72722bea727fcc57de4481810f9db5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/3EXdYXkstGmQZMuZ9",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Josuijo bus stop near Tama serves as a transit landmark in Episode 13, the New Year's episode, when characters travel to a local shrine area to ring in the new year. The stop's ordinary suburban character contrasts warmly with the festive destination ahead."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_5",
+      "name": "Tamajusanbutsureijo 1 Rurikozan Kanzoin",
+      "localName": "多摩十三仏霊場 1瑠璃光山 観蔵院",
+      "coordinates": {
+        "lat": 35.64745,
+        "lng": 139.44562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a210a282-4d37-4bb4-a9cc-8abb883e104e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a210a282-4d37-4bb4-a9cc-8abb883e104e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/H6y3NDPAxexTHr6T9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Buddhist temple in the Tama area appears in Episode 1 as part of the quiet residential neighborhood Shirou walks through on his way to shop for ingredients. The temple grounds and stone markers are faithfully reproduced in the anime's background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_6",
+      "name": "Asahi Sushi",
+      "localName": "旭鮨総本店 桜ヶ丘本館",
+      "coordinates": {
+        "lat": 35.64733,
+        "lng": 139.44693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44623cd9-5840-46d4-a249-a671c61914ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44623cd9-5840-46d4-a249-a671c61914ee.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/rgjAZJzPkYMp64NcA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This sushi restaurant in the Sakuragaoka area near Tama appears in Episode 1's background scenes, reflecting the everyday local dining landscape that surrounds the Emiya household in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2P9Ox_1GGARGNLAR8qP17Y",
+      "name": "MUJI Jiyugaoka",
+      "localName": "無印良品 自由が丘",
+      "coordinates": {
+        "lat": 35.6066541,
+        "lng": 139.6691368
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92865607-92ab-4cef-91cd-fa8fde6591e9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92865607-92ab-4cef-91cd-fa8fde6591e9.webp"
+        },
+        {
+          "url": "media/cached-image_57fb78aeb811d697032e9d2f5ba1bbde2c357e01a64af755fd143d6bd86c5b35.jpg"
+        },
+        {
+          "url": "media/cached-image_9d9fdf9eb241a7149e97f9f2080fbbacf59a3d20b856ed24bac2042367c5f58a.jpg"
+        },
+        {
+          "url": "media/cached-image_d323e05ac9d1b7b44a94e0ba6d31db32bd6ca7797bad9738c39f3f88fbfaa3f3.jpg"
+        },
+        {
+          "url": "media/cached-image_ebb21ba13fd7aa3dcd0ae80fdb27132459f6dd604fbad5e135ce618a5af267c1.jpg"
+        }
+      ],
+      "type": "General store",
+      "categories": [
+        "General store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "無印良品 自由が丘, 5 Chome-26-9 Okusawa, Setagaya City, Tokyo 158-0083, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MksxgX7CYos1hgu98",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "MUJI Jiyugaoka appears in the opening credits sequence, representing the kind of well-stocked lifestyle store Shirou or Sakura might browse for kitchenware and pantry staples. The Jiyugaoka branch's clean aesthetic matches the anime's warm, domestic visual tone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzeae9iGCImARtFg0_eBwt_w",
+      "name": "Makuhari Seaside Park",
+      "localName": "千葉県立幕張海浜公園",
+      "coordinates": {
+        "lat": 35.64484,
+        "lng": 140.04318
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3c370dae-b9c4-4e0b-99f6-ac788bf8205b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3c370dae-b9c4-4e0b-99f6-ac788bf8205b.webp"
+        },
+        {
+          "url": "media/cached-image_729361d581492c5f0d815e3764507a71b33dcc624fa1bc78d9a5424455b4b054.jpg"
+        },
+        {
+          "url": "media/cached-image_31466bbe58ed73f4b43b8cf78a991fc59cf614d3878a34a01a919869071299c1.jpg"
+        },
+        {
+          "url": "media/cached-image_9c9d3f358e5ef1057eae713214841cf135c1f3ad31422a7b3a56c71dcb97ea13.jpg"
+        },
+        {
+          "url": "media/cached-image_53846a6de922809ec95a73b812d8a3cdaa97ecd98ec36e8ae33750b941beee61.jpg"
+        },
+        {
+          "url": "media/cached-image_1cc0d70d141695d062275cbfc3627f8a0ebe880b1c6fd24cc97ad560daa8cea3.jpg"
+        },
+        {
+          "url": "media/cached-image_4382b0d3222d2a7b460ad15ee5ae5caa8ced022c3f8b60f3e8543c41e75515c5.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4,
+      "reviewCount": 114,
+      "priceLevel": null,
+      "address": "2 Chome-116 Hibino, Mihama Ward, Chiba, 261-0021, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6446235,140.0432942,2a,75y,292.02h,107.8t/data=!3m7!1e1!3m5!1shJCIBhdujxkJxMIua0jMJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.801356593823698%26panoid%3DhJCIBhdujxkJxMIua0jMJg%26yaw%3D292.0235649171747!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "In Episode 11, the group heads to a seaside park for an autumn outing, and Makuhari Seaside Park in Chiba is documented by pilgrimage sites as the location model for that coastal scene. The wide open lawn and sea view are visible in the episode's background art.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ_J0L05gGGARmyf6Bty_kBo",
+      "name": "Tsuruwatari Park",
+      "localName": "鶴渡公園",
+      "coordinates": {
+        "lat": 35.568703,
+        "lng": 139.7249874
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1c566bf8-998c-4c3c-aa73-9e3c62bff75a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1c566bf8-998c-4c3c-aa73-9e3c62bff75a.webp"
+        },
+        {
+          "url": "media/cached-image_807a42173b088629a3f542aef7f0881f857e4cfeb11953d916e1a0e029f7af47.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsuruwatari Park, 6 Chome-12 Omorinishi, Ota City, Tokyo 143-0015, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zX5psDA3QswPmgPd8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tsuruwatari Park in Ota City appears in Episode 1 as a small neighborhood park Shirou passes near on his ingredient-shopping route, part of the real-world Kamata streetscape the anime reproduces faithfully."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-_zT1U9gGGARbDlJsiSxoBU",
+      "name": "Nishikimori Fruits and Vegetables",
+      "localName": "錦盛青果",
+      "coordinates": {
+        "lat": 35.5680883,
+        "lng": 139.724017
+      },
+      "image": "https://cdn.animepilgrimage.com/places/63c8f889-448b-434c-969e-823442148c61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/63c8f889-448b-434c-969e-823442148c61.webp"
+        },
+        {
+          "url": "media/cached-image_b7d30f088037b0bd7dc6409ab95797a6de65f7c4616c7aa95365a60dd141324b.jpg"
+        },
+        {
+          "url": "media/cached-image_43e51f52e2e59fc3ee583838040f4c0698a5fd6b82ff912651aababd068dd6cc.jpg"
+        }
+      ],
+      "type": "Produce market",
+      "categories": [
+        "Produce market"
+      ],
+      "rating": 3.8,
+      "reviewCount": 156,
+      "priceLevel": null,
+      "address": "Nishikimori Fruits and Vegetables, 2 Chome-1-6 Kamata, Ota City, Tokyo 143-0015, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aYewsfs2wi2MzNJk6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This produce market in Ota City's Kamata neighborhood is one of the key shopping stops in Episode 1, where Shirou picks up fresh vegetables for his shirasu don. The shop's exterior, crates, and signage are closely matched in the anime's background art, making it a popular first-stop for pilgrims.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvz2p8X3yGGARKWBYSYEkKsk",
+      "name": "Torihira-chan Koenji",
+      "localName": "鳥平ちゃん 高円寺店",
+      "coordinates": {
+        "lat": 35.707239,
+        "lng": 139.6497834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ff9d50ff-05c6-4d44-97e4-7601d75f8fb3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ff9d50ff-05c6-4d44-97e4-7601d75f8fb3.webp"
+        },
+        {
+          "url": "media/cached-image_cf46665eb22219d0080240cbe6073d3d9b63dabf42617d790632aa1875677c00.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Torihira-chan, ストックビル 1F 3 Chome-24-10 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pBsWqWeADPnHJNnG9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This izakaya on the Koenji shopping street is part of the Koenji neighborhood backdrop seen in Episode 1 as the series establishes the lively commercial area near the Emiya household. Fans visiting Koenji for the anime pilgrimage walk pass this restaurant as part of the documented route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj5Kw8n3yGGARxgxivynQnO4",
+      "name": "FamilyMart Koenji Junjo Shopping Street",
+      "localName": "ファミリーマート 高円寺純情商店街店",
+      "coordinates": {
+        "lat": 35.7070376,
+        "lng": 139.64981079999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49cde9ac-f867-4989-b8bb-702913bb139a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49cde9ac-f867-4989-b8bb-702913bb139a.webp"
+        },
+        {
+          "url": "media/cached-image_73e6954eb7077b16bba9dc2fa243d3ed9f3791dbca595150d9dafc4a49c1e7e4.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 3 Chome-24-12 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZGjhdq8w3nSPrZe36",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The FamilyMart on Koenji's Junjo Shopping Street appears in Episode 1, reflecting how convenience stores are woven naturally into Shirou's daily ingredient runs. The specific branch is identified by pilgrims because the shopping street's layout is reproduced in the anime's background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIXCKadNPGGARhJAaPQmy29M",
+      "name": "Yugyo-ji",
+      "localName": "清浄光寺（遊行寺）",
+      "coordinates": {
+        "lat": 35.3479408,
+        "lng": 139.4882625
+      },
+      "image": "https://cdn.animepilgrimage.com/places/deefd435-f480-4988-9145-fd23b8ff6fec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/deefd435-f480-4988-9145-fd23b8ff6fec.webp"
+        },
+        {
+          "url": "media/cached-image_db5b7366cc2f252b882fe40e5d8f875aafb26f34759d6c2ba6e668ad53a02be4.jpg"
+        },
+        {
+          "url": "media/cached-image_51e8f1acbd8465fa19e295a4104d7232363cf4dfcb39492f1d6b82d0d2a398af.jpg"
+        },
+        {
+          "url": "media/cached-image_8109712851eeb7b9258c7ae1919d1d63b50eb8eba9512900ff968db4cfdd9c49.jpg"
+        },
+        {
+          "url": "media/cached-image_0344ce078f0c9c5a18441c7175aea1d91a85c5df2f5cc2b203e31865721b63b6.jpg"
+        },
+        {
+          "url": "media/cached-image_4627c9187669dd9d9b3f600872452ed5ace801032920575dd6e8c5c7d70211e3.jpg"
+        },
+        {
+          "url": "media/cached-image_28ed228b8e9656bffb5476392a6257ed17b9f3e98933fe6dcd6d07b10f389c3f.jpg"
+        },
+        {
+          "url": "media/cached-image_95cbb70dcf89576deeda82e2e5258751f130af9f0bc13cfd14ffc857a73223af.jpg"
+        },
+        {
+          "url": "media/cached-image_e600f6445141dcac9e1253c640f97964a4dbdfd9b09caa127d447e76fb92f035.jpg"
+        },
+        {
+          "url": "media/cached-image_c3371db606089fad2bc547b08391e72cf2a70e4dd171061d278d5a9aa636dd1d.jpg"
+        },
+        {
+          "url": "media/cached-image_adb43646d1f354fb8464d7e2fb63c3b07d0ee10578b71c776310567d482d6a59.jpg"
+        },
+        {
+          "url": "media/cached-image_8c001e08cfaee2ab31ea833c847663b951da2760f04bd375dbc38dcb64a63c39.jpg"
+        },
+        {
+          "url": "media/cached-image_311ddb9ca7b8762f6efc588414871d322ffbeae6ea43478ff3ea5ec498e4b1e7.jpg"
+        }
+      ],
+      "type": "仏教寺院",
+      "categories": [
+        "仏教寺院"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1176,
+      "priceLevel": null,
+      "address": "1 Chome-8-1 Nishitomi, Fujisawa, Kanagawa 251-0001, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3479408,139.4882625,3a,75y,31.81h,96.9t/data=!3m6!1e1!3m4!1s4TUkZW7VoXq-Ec8LFIfHFw!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Yugyo-ji temple in Fujisawa appears in Episode 1 as a landmark the characters visit or pass, with its distinctive ginkgo tree and temple gate replicated in the anime's background art. The temple is one of the more scenic and photogenic pilgrimage stops for fans of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ978G8H3yGGARFnA_mcspMmQ",
+      "name": "Jump Koenji Main Store",
+      "localName": "ジャンプ 高円寺本店",
+      "coordinates": {
+        "lat": 35.7074514,
+        "lng": 139.64967579999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9e6393a-acc4-4374-ad32-494436065217.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9e6393a-acc4-4374-ad32-494436065217.webp"
+        },
+        {
+          "url": "media/cached-image_952afded2801dec6a1daed8eb83ee601a9fc922749edd498046e9f50836a2436.jpg"
+        }
+      ],
+      "type": "Butcher shop",
+      "categories": [
+        "Butcher shop"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Jump, 2 Chome-22-7 Koenjikita, Suginami City, Tokyo 166-0002, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/d91zbwgdcmX1GjCu9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This butcher shop in Koenji is part of the Episode 1 shopping route, where Shirou sources meat alongside his other fresh ingredients. The Koenji shopping district's old-fashioned shotengai character is lovingly reproduced in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsx_b7sPtGGARaZwSDoVfH4o",
+      "name": "Santoku Shimoigusa",
+      "localName": "三徳 下井草店",
+      "coordinates": {
+        "lat": 35.7242977,
+        "lng": 139.6239807
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f7d5699-ee7a-4c49-881c-461f15fbbbf1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f7d5699-ee7a-4c49-881c-461f15fbbbf1.webp"
+        },
+        {
+          "url": "media/cached-image_75181f4761cbae7e453f3987304bbcebbd09642066b4197e443823dc73d7208c.jpg"
+        },
+        {
+          "url": "media/cached-image_36b75f84d31765e8dd87cdd6553539044b65c9fc64c0d3f56a38d0a0c515e79d.jpg"
+        },
+        {
+          "url": "media/cached-image_14763e5834acda9e56945227ed0d301c39dd93e7abc8dd893a207d718b913fe3.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Santoku Shimoigusa, 1 Chome-7-5 Igusa, Suginami City, Tokyo 167-0021, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aBo1EEvndHZdw9zd8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Santoku supermarket in Suginami's Shimoigusa neighborhood appears in Episode 1 as one of the local shops Shirou frequents for everyday groceries. The chain's no-frills neighborhood supermarket atmosphere reflects the series' grounded, everyday cooking theme."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_16",
+      "name": "Tamajusanbutsureijo 1 Rurikozan Kanzoin",
+      "localName": "多摩十三仏霊場 1瑠璃光山 観蔵院",
+      "coordinates": {
+        "lat": 35.64752,
+        "lng": 139.44597
+      },
+      "image": "https://cdn.animepilgrimage.com/places/751acb48-4290-4792-9104-605debb0fc51.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/751acb48-4290-4792-9104-605debb0fc51.webp"
+        },
+        {
+          "url": "media/cached-image_8b44eeac779f5c8f3017734fc568c776d43c9ed865535a82ffe1493f79c12c0e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/XK52BGYDtfi82bAp9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Buddhist temple in the Tama area appears in Episode 1 as part of the quiet residential neighborhood Shirou walks through on his way to shop for ingredients. The temple grounds and stone markers are faithfully reproduced in the anime's background art.",
+      "fanTopPick": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyR59x0LnAGAR-I35hSFIsgs",
+      "name": "ufotable Cafe Osaka / Machi Asobi CAFE Osaka",
+      "localName": "ufotable Cafe Osaka / マチ★アソビCAFE大阪",
+      "coordinates": {
+        "lat": 34.661051799999996,
+        "lng": 135.5075095
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cbb7e401-5c3c-4fd3-9e06-62acd03a65d2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cbb7e401-5c3c-4fd3-9e06-62acd03a65d2.webp"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ufotable Cafe Osaka / Machiasobi CAFE Osaka, 3 Chome-3-3 Nipponbashi, Naniwa Ward, Osaka, 556-0005, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nhJ5YcGq85Shc4mN7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The ufotable Cafe Osaka served as an official tie-in venue where themed menus based on dishes from this anime were offered during the series' run. As the studio behind the production, ufotable's own cafe in Nipponbashi is a natural pilgrimage destination for fans of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_18",
+      "name": "Fashion House Tiger",
+      "localName": "ファッションハウスタイガー",
+      "coordinates": {
+        "lat": 35.7382,
+        "lng": 139.63759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba3447f0-f94d-4962-9858-2fb81aa6fa40.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba3447f0-f94d-4962-9858-2fb81aa6fa40.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/KQ97QJ4KVKFymPUQ7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This clothing shop in Nerima's Nakamurabashi area appears in Episode 9 as a background location seen during a neighborhood shopping scene. It is part of the Nakamurabashi shopping street environment reproduced in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWvYo7HtGGARXckHr9v4ZwQ",
+      "name": "Akidai Nakamurabashi",
+      "localName": "生鮮市場アキダイ 中村橋店",
+      "coordinates": {
+        "lat": 35.738497599999995,
+        "lng": 139.63763649999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/59c480c0-1bd5-47d4-8063-0983664884ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/59c480c0-1bd5-47d4-8063-0983664884ef.webp"
+        },
+        {
+          "url": "media/cached-image_d0c97d3c334ab702bd9d6b93e0ed417343c1b45a4623dccd7e24a4ad2b728d5e.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒177-0051 Tokyo, Nerima City, Nukui, 2 Chome−3−3 Akidai, サンライズ時和1階",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eLi8yQSvgYg4RN896",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Akidai is a well-known discount fresh-food supermarket, and the Nakamurabashi branch appears in Episode 9 as a shopping destination where characters pick up ingredients. The store's famous low-price produce displays are recognizable in the anime's background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_20",
+      "name": "Hashimoto-ya",
+      "localName": "橋本屋",
+      "coordinates": {
+        "lat": 35.56708,
+        "lng": 139.7289
+      },
+      "image": "https://cdn.animepilgrimage.com/places/872c3d38-18f2-42c3-9886-aeb5d786d5c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/872c3d38-18f2-42c3-9886-aeb5d786d5c8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/GirSmJWRxWzkLoHw9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This small shop in the Ota City area appears in Episode 6 as part of the neighborhood commercial landscape Shirou navigates. It is included in fan pilgrimage maps of the Kamata/Umeyashiki area referenced in the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_21",
+      "name": "FamilyMart Ota Umeyashiki",
+      "localName": "ファミリーマート 大田梅屋敷店",
+      "coordinates": {
+        "lat": 35.56684,
+        "lng": 139.72945
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82b878a7-ddde-4b14-8dcb-bd0d7a724065.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82b878a7-ddde-4b14-8dcb-bd0d7a724065.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ZrDPBXKmFUATEhiJ6",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The FamilyMart at Ota Umeyashiki appears in Episode 9 as a convenience store stop in the neighborhood, part of the everyday domestic world the series depicts. The specific branch is identified by pilgrimage records matching its distinctive exterior to the anime scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__K501FgGGARi0S4OkgQYtw",
+      "name": "OK Bungu",
+      "localName": "オーケー文具",
+      "coordinates": {
+        "lat": 35.567898,
+        "lng": 139.724547
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b046f246-ae43-4dc7-a205-a2072be10e39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b046f246-ae43-4dc7-a205-a2072be10e39.webp"
+        },
+        {
+          "url": "media/cached-image_7c4bdd7caabcc98443dfec098fa0fa6e0e1c0080d126221934daae816e68e6bf.jpg"
+        }
+      ],
+      "type": "Stationery store",
+      "categories": [
+        "Stationery store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "OK Bungu, シャルマンＳ 2 Chome-4-3 Kamata, 大田区 Ota City, Tokyo 144-0052, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HQZEwCmcPgDHej3z8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This stationery shop in the Ota City Kamata area appears in Episode 6 as part of the neighborhood streetscape. It sits near other Episode 6 locations in the Umeyashiki and Kamata area that Shirou visits on a daily errand run."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ6ww1U9gGGARyb22y59dBIY",
+      "name": "Pet Shop Ume-Yashiki",
+      "localName": "ペットショップ・ウメヤシキ",
+      "coordinates": {
+        "lat": 35.5681516,
+        "lng": 139.72421889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10ecf88d-1206-4648-9ad7-305365f30ecf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10ecf88d-1206-4648-9ad7-305365f30ecf.webp"
+        },
+        {
+          "url": "media/cached-image_ca353178b9e4543ed367815c295d08797a08ecae36e51dc086e2520ebf0c7546.jpg"
+        }
+      ],
+      "type": "Pet store",
+      "categories": [
+        "Pet store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Pet Shop Ume-Yashiki, ニックハイム梅屋敷 6 Chome-11-16 Omorinishi, Ota City, Tokyo 143-0015, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VvYC9vutEAgNEdy98",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This pet shop in Ota City's Umeyashiki area is part of the Episode 6 neighborhood backdrop, appearing among the small local shops Shirou passes on his errands. The Umeyashiki shopping street cluster of Episode 6 locations is a documented stop on fan pilgrimage maps."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_todays-menu-for-the-emiya-family_24",
+      "name": "Josuijo (Bus)",
+      "localName": "浄水場前 (バス)",
+      "coordinates": {
+        "lat": 35.64328,
+        "lng": 139.44378
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/EkqbtsAznsttTZLf7",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Josuijo bus stop near Tama serves as a transit landmark in Episode 13, the New Year's episode, when characters travel through the neighborhood to reach a shrine for hatsumode celebrations.",
+      "fanTopPick": null
+    }
+  ]
+}

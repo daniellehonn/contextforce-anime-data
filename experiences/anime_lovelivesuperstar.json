@@ -1,0 +1,2530 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Love Live! Superstar!!",
+  "slug": "love-live-superstar",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_31fee9044c7eb0addc9673bff5553f7693213cb0ea5bfa26e1cab9b75e33bef3.webp",
+  "image": "media/cached-image_31fee9044c7eb0addc9673bff5553f7693213cb0ea5bfa26e1cab9b75e33bef3.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.43662863333334,
+    "lng": 139.4699261637681
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Love Live! Superstar!!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJMwpiebSMGGARPr_454zHvDQ",
+      "name": "Yoyogi Park",
+      "localName": "代々木公園",
+      "coordinates": {
+        "lat": 35.6707375,
+        "lng": 139.6960752
+      },
+      "image": "https://cdn.animepilgrimage.com/places/757daba2-6e39-4007-9961-da35756e8cc3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/757daba2-6e39-4007-9961-da35756e8cc3.webp"
+        },
+        {
+          "url": "media/cached-image_ed07efa4e2b333dbec0d02adbdf517dd8c7626a847e3aba880fe94cd93ab4d81.jpg"
+        },
+        {
+          "url": "media/cached-image_e31f5529b097eeae331c2ce223b4c1ebe402821867ad9080213a5511ac0b413d.jpg"
+        },
+        {
+          "url": "media/cached-image_990f9db4de1cac6f27ef2d612a6abc5addc58f616e51e0bba8a3856907ff898a.jpg"
+        },
+        {
+          "url": "media/cached-image_37e69757287e25713338f7611c404b52ad5cc5ab1feb307f884f7449935eb09b.jpg"
+        },
+        {
+          "url": "media/cached-image_5999124e71faf69b91a0127f687d3e14a30caa48db09b769e12fc0ca020d5e4d.jpg"
+        },
+        {
+          "url": "media/cached-image_1714e165ecaecf60b8a23b3ca06024c254d7a5ba16ccb09e19ffb9ca0ec38182.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1773,
+      "priceLevel": null,
+      "address": "2-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6707375,139.6960752,2a,75.7y,331.3h,98.44t/data=!3m6!1e1!3m4!1sH34XRqKtvTqLo1nVrhnBzg!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Liella! hold an outdoor live performance in Yoyogi Park in the episode 12 climax, with Kanon and the group finally singing together in front of a crowd after overcoming their self-doubt. This open green space became the defining image of Liella! performing as a complete unit.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwW8ysHwPF2ARijmiAHSAe2s",
+      "name": "Maehamajido Park",
+      "localName": "前浜児童公園",
+      "coordinates": {
+        "lat": 34.3770027,
+        "lng": 139.25324519999998
+      },
+      "image": null,
+      "images": [],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maehamajido Park, 1 Chome-5-13 Honson, Niijima, Tokyo 100-0402, Japan",
+      "city": "Niijima",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2048977,139.1338666,3a,90y,229.2h,94.37t/data=!3m7!1e1!3m5!1skDyQD0vN_SvPsF94mLjIdw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.368259323791705%26panoid%3DkDyQD0vN_SvPsF94mLjIdw%26yaw%3D229.20339160987464!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzQg4y6OMGGARkWZ784ymNLM",
+      "name": "B4F Jingumae Crossing Gate",
+      "localName": "神宮前",
+      "coordinates": {
+        "lat": 35.6699682,
+        "lng": 139.70900799999998
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6677388,139.7070932,3a,75y,211.74h,94.84t/data=!3m7!1e1!3m5!1sOkSopbtVWfht0jlDF3-NSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.840981600936885%26panoid%3DOkSopbtVWfht0jlDF3-NSQ%26yaw%3D211.74383357760823!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Jingumae crossing area near Omotesando appears in episode 1 as Kanon moves through the Harajuku neighborhood, this busy intersection establishing the visual grammar of Liella!'s urban Tokyo setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx31mo6aMGGARAL11gvjD7Zw",
+      "name": "VENTURER TOKYO",
+      "localName": "ベンチュラー 東京",
+      "coordinates": {
+        "lat": 35.665847,
+        "lng": 139.705311
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84b4c369-a27a-4e81-98b4-3040f86fffda.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84b4c369-a27a-4e81-98b4-3040f86fffda.webp"
+        },
+        {
+          "url": "media/cached-image_fbc3bcc726d7cc7854bd1eb1caf33b66836832160b58dffe8405178d9bae9e26.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 5 Chome−17−8 VENTURER TOKYO, 原宿XS101",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659346,139.7053557,3a,75y,133.36h,108.69t/data=!3m7!1e1!3m5!1sRzSYBHDmN8My2PPCEu6PSA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.688402182620976%26panoid%3DRzSYBHDmN8My2PPCEu6PSA%26yaw%3D133.3553405848886!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_U7mXvdGGGARBoxi2Exlkro",
+      "name": "Nagisabashi",
+      "localName": "渚橋",
+      "coordinates": {
+        "lat": 34.6955511,
+        "lng": 137.6070373
+      },
+      "image": "https://cdn.animepilgrimage.com/places/546dfbb3-5421-4818-8f30-79476c88ba74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/546dfbb3-5421-4818-8f30-79476c88ba74.webp"
+        },
+        {
+          "url": "media/cached-image_bc697e37d4aeb99118eada3931a6d3572f76b78f2cc555f702f3813ce8a2f62c.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "9 Chome-1-10 Sakurayama, Zushi, Kanagawa 249-0005, Japan",
+      "city": "Zushi",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6955511,137.6070373,3a,74.7y,85.85h,104.45t/data=!3m7!1e1!3m5!1sh7nS2OiVwdRj_v9nwNVLNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dh7nS2OiVwdRj_v9nwNVLNA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D271.39468%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPft3N7uMGGAReOEjLwqJIm0",
+      "name": "Marion Crêpes Takeshita Street",
+      "localName": "マリオンクレープ 原宿竹下通り店",
+      "coordinates": {
+        "lat": 35.67123,
+        "lng": 139.70488
+      },
+      "image": "https://cdn.animepilgrimage.com/places/656e1c8d-89cf-4d48-baec-6c9894e9cd68.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/656e1c8d-89cf-4d48-baec-6c9894e9cd68.webp"
+        },
+        {
+          "url": "media/cached-image_6cc28b1ff44cff795d3a41780489210e57ff8e070ad257492827867f3d43a780.jpg"
+        },
+        {
+          "url": "media/cached-image_5e807c147a6e38641d444558e767d92c873964d97e7538812e6e3214f921ad44.jpg"
+        },
+        {
+          "url": "media/cached-image_66767293f203e8c8aece1029b8dd501c074dcb48b99f92e61d15f1c643112382.jpg"
+        },
+        {
+          "url": "media/cached-image_50bf80b149f6210d5a26339b08e20c2b073570376a71e934098d8375b0b20802.jpg"
+        },
+        {
+          "url": "media/cached-image_16719a91a9e87c818c68370eb6bf4b9c9a2b3d3b7efd2b8ab5066fefc64e1b01.jpg"
+        },
+        {
+          "url": "media/cached-image_9ea4c17a083e186271faa73e4bb0ab2ea6b07c703537b992d8a979d990e97b02.jpg"
+        },
+        {
+          "url": "media/cached-image_cd6b4bdf6d7402a09d4f1c23aa04ced231040c4a1938cf1cdcb2a2541d80484c.jpg"
+        },
+        {
+          "url": "media/cached-image_3900cb72d0ed322d77dc1532935bc0f25fd75f08087be8be04e66ccf200877c4.jpg"
+        },
+        {
+          "url": "media/cached-image_b8b48b199d4c12a892ee5a9470247c018b5057de848a2410ee4529b7fd9645fb.jpg"
+        },
+        {
+          "url": "media/cached-image_545199dcff2da7047759bddf79a8f6839860ebdb50953681ede24cfc2917f0f3.jpg"
+        }
+      ],
+      "type": "Creperie",
+      "categories": [
+        "Creperie"
+      ],
+      "rating": 1,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ジュネスビル 1F, 1 Chome-6-15 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/t3P6Fn9GJp1MPjv56",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kanon and Wien Margarete grab crepes on Takeshita Street in episode 2, the casual outing helping Wien experience everyday Harajuku culture for the first time. The iconic storefront is directly recreated in background art throughout the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe-4gBXmNGGAR0Rde9eN3d9U",
+      "name": "Jingumae Pedestrian Bridge",
+      "localName": "神宮前歩道橋",
+      "coordinates": {
+        "lat": 35.667475,
+        "lng": 139.7071892
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d44859e-9884-4a1b-9945-33907efe724c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d44859e-9884-4a1b-9945-33907efe724c.webp"
+        },
+        {
+          "url": "media/cached-image_c996d45835ba0825ace58a6319b72c4560da7f3e15e49e78342704b18aec63f1.jpg"
+        },
+        {
+          "url": "media/cached-image_1c3672b667820256ddaa0881fee477aa4feadc7f29d4c850267bf9b252c75e94.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "6 Chome Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.667475,139.7071892,3a,63.5y,331.96h,97.96t/data=!3m7!1e1!3m5!1sLt6IA_9qAH902Xet2hORKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DLt6IA_9qAH902Xet2hORKQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D8.018471%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?hl=en&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Jingumae overpass bridge appears as a recurring transit shot in episode 5, with Liella! members crossing it on their way to school and during casual meetups around the Harajuku area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_yy1ybqMGGAR0tPR4qiHDVY",
+      "name": "Harajuku station",
+      "localName": "原宿駅",
+      "coordinates": {
+        "lat": 35.67004,
+        "lng": 139.70269
+      },
+      "image": "https://cdn.animepilgrimage.com/places/126161e8-69fe-4ac4-8b45-a1bd17e54316.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/126161e8-69fe-4ac4-8b45-a1bd17e54316.webp"
+        },
+        {
+          "url": "media/cached-image_2a67ae32b7d4daf44f7343ce9e72fbca4db52f38a9da183a967c6bcf519c77ca.jpg"
+        },
+        {
+          "url": "media/cached-image_fccc0dadf3d4b0fd96bcc56b4ad90cc420981b10e07484c19560b0a2ada16b43.jpg"
+        },
+        {
+          "url": "media/cached-image_112e39a4850db69259fe95ee755b14fc1311e9cde442bec9fcb2bd6b00a89708.jpg"
+        },
+        {
+          "url": "media/cached-image_6847f31a6eb22e3aa5e913bbb65d20a826115af2b6dbc510587b975471ed9a05.jpg"
+        },
+        {
+          "url": "media/cached-image_5116fad1f40f79e9a0978c6be6ac5c587c1e2198e963c051cda9c4ea1ed63918.jpg"
+        },
+        {
+          "url": "media/cached-image_353df62fb9222613d38a1d2375e5e37ad508cc2de6c7a266ed1b21cdeaa133e1.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1121,
+      "priceLevel": null,
+      "address": "1 Chome Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6700054,139.7028264,3a,75y,278.65h,96.28t/data=!3m6!1e1!3m4!1s0LbwAxswT3YGIXlZWliD4g!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Harajuku Station is the transit hub the Liella! members pass through repeatedly in episode 5 and the wider series, establishing the neighborhood as the heart of their daily lives near Yuigaoka Girls' High School."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj4M4AjaNGGARLTSHK0tr3RA",
+      "name": "Bassa Nova Harajuku",
+      "localName": "BASSANOVA /バサノバ原宿",
+      "coordinates": {
+        "lat": 35.6668259,
+        "lng": 139.7062898
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50a06258-87ab-43b9-8cab-dc5fda835fee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50a06258-87ab-43b9-8cab-dc5fda835fee.webp"
+        },
+        {
+          "url": "media/cached-image_6b42346064a66cc852cce30e6769a94fd1ef4e3dc25cc132d35c6719ca1dd0b5.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bassa Nova Harajuku, ネスト原宿10 2F, 5 Chome-11-13 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6710376,139.7044172,3a,90y,164.91h,117.34t/data=!3m7!1e1!3m5!1sOmCn9n5KEbhG0l-kEswhLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-27.340263316459286%26panoid%3DOmCn9n5KEbhG0l-kEswhLA%26yaw%3D164.91488868883405!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6qdAaSMGGARBZLSaGXIttU",
+      "name": "WaraTako Harajuku Omotesando Store",
+      "localName": "笑たこ 原宿表参道店",
+      "coordinates": {
+        "lat": 35.6666794,
+        "lng": 139.70618
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2eeb7c97-065a-4ef0-97ba-b93d183b6ab1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2eeb7c97-065a-4ef0-97ba-b93d183b6ab1.webp"
+        },
+        {
+          "url": "media/cached-image_2ae848a3fe0382487a30959e77b0f56bbbf22811d33276a6e04c902e2037b569.jpg"
+        },
+        {
+          "url": "media/cached-image_dd251f1502e5fbe7be8a247623b12ccfaefc00bc907f993fbe724ff77b540ec7.jpg"
+        }
+      ],
+      "type": "Takoyaki restaurant",
+      "categories": [
+        "Takoyaki restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": 7,
+      "priceLevel": null,
+      "address": "WaraTako, 5 Chome-11-3 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.66663,139.7061632,3a,90y,2.01h,92.82t/data=!3m7!1e1!3m5!1stDLJiRSdrqlLtzSSJHTNCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.822829489202121%26panoid%3DtDLJiRSdrqlLtzSSJHTNCQ%26yaw%3D2.0076227848149006!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_10",
+      "name": "Kimino Japanese Bar",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66528,
+        "lng": 139.71369
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31605e83-6a36-4348-bf1b-d182fd587680.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31605e83-6a36-4348-bf1b-d182fd587680.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6652142,139.7136331,3a,90y,44.75h,98.28t/data=!3m7!1e1!3m5!1sxSwpmZ2Ps2zrPT700k3o1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.277822181704622%26panoid%3DxSwpmZ2Ps2zrPT700k3o1A%26yaw%3D44.75120163791968!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6-vMQqWMGGARiSfQAI3X1fw",
+      "name": "Harajuku Eki Iriguchi",
+      "localName": "原宿駅入口",
+      "coordinates": {
+        "lat": 35.6684604,
+        "lng": 139.7020277
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2480e04d-b0dc-41ca-be35-ca833965619e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2480e04d-b0dc-41ca-be35-ca833965619e.webp"
+        },
+        {
+          "url": "media/cached-image_a2ec7c045ddcff6eb32fb2d807804e6b3f4b4880fd4511c32b1b96bf6ba94026.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Harajuku Eki Iriguchi, 1, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.667615,139.7018785,3a,90y,101.22h,98.42t/data=!3m7!1e1!3m5!1sSrIuFc8sEyztaDTcKhiQ8g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.419859630892745%26panoid%3DSrIuFc8sEyztaDTcKhiQ8g%26yaw%3D101.21774448231653!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxcha6qSMGGARqdOIwOETVQc",
+      "name": "Ota Memorial Museum of Art",
+      "localName": "太田記念美術館",
+      "coordinates": {
+        "lat": 35.6693959,
+        "lng": 139.7049808
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aef1425c-c7bc-41fe-85b0-842ac01633fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aef1425c-c7bc-41fe-85b0-842ac01633fc.webp"
+        },
+        {
+          "url": "media/cached-image_d3a3f3780c20473bd973b86405f1d32eb354abe0670bbd261f216f8d09625c21.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ōta Memorial Museum of Art, 1 Chome-10-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6692474,139.7048964,3a,90y,117.78h,97.24t/data=!3m7!1e1!3m5!1sZXX2pSk4jwKdgZQZqXXANw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.242917876930022%26panoid%3DZXX2pSk4jwKdgZQZqXXANw%26yaw%3D117.77780331655435!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_13",
+      "name": "Kinetics",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66903,
+        "lng": 139.70455
+      },
+      "image": "https://cdn.animepilgrimage.com/places/515250a0-e6ab-48ef-8a8c-830f594d2f71.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/515250a0-e6ab-48ef-8a8c-830f594d2f71.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6690221,139.7043934,3a,90y,83.91h,103.07t/data=!3m7!1e1!3m5!1sdFEgLX9D_HWnE8vxbhmmyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.073989705590037%26panoid%3DdFEgLX9D_HWnE8vxbhmmyA%26yaw%3D83.91423394415546!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkdk2OgCNGGARrxkaAiW1beM",
+      "name": "HOKA Harajuku Store",
+      "localName": "HOKA Harajuku",
+      "coordinates": {
+        "lat": 35.668805899999995,
+        "lng": 139.7052742
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f9b5517-818f-4607-b54d-7c7f0a28c194.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f9b5517-818f-4607-b54d-7c7f0a28c194.webp"
+        },
+        {
+          "url": "media/cached-image_19185c47f59037d97cc2ed627f4e5529f4db26a39ea272dcf977d1c22ae9adfe.jpg"
+        }
+      ],
+      "type": "Sportswear store",
+      "categories": [
+        "Sportswear store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "HOKA Harajuku Store, 1階 2階, 1 Chome-11-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6686692,139.7051682,3a,90y,343.8h,104.41t/data=!3m7!1e1!3m5!1sGTFQv_wdZ_aMcdVm2wEyMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.406225812503052%26panoid%3DGTFQv_wdZ_aMcdVm2wEyMw%26yaw%3D343.8044371119263!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEUeXLKSMGGAR7DvmcZl1qyo",
+      "name": "Pocket Park Jingumae Parking Lot",
+      "localName": "ポケットパーク 神宮前駐車場",
+      "coordinates": {
+        "lat": 35.6660344,
+        "lng": 139.70394919999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/466174fa-9176-4ffa-9f1d-6c5ad1d14e20.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/466174fa-9176-4ffa-9f1d-6c5ad1d14e20.webp"
+        },
+        {
+          "url": "media/cached-image_16c20d70d742f5cd0d88c4e8f48e7887fe614d11b18e234f4abc574f634ebf14.jpg"
+        }
+      ],
+      "type": "Parking garage",
+      "categories": [
+        "Parking garage"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pocket Park Jingumae Parking Lot, 6 Chome-12-17 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659463,139.7039048,3a,90y,319.8h,98.78t/data=!3m7!1e1!3m5!1s5dLSmujI2C_EhZ-jAP1P2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.782469324363788%26panoid%3D5dLSmujI2C_EhZ-jAP1P2A%26yaw%3D319.80137412967173!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_16",
+      "name": "Cafe Casa",
+      "localName": "カフェ香咲",
+      "coordinates": {
+        "lat": 35.6712,
+        "lng": 139.71367
+      },
+      "image": "https://cdn.animepilgrimage.com/places/28d49219-e56c-4b11-a27f-74e2c00dc3a4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/28d49219-e56c-4b11-a27f-74e2c00dc3a4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/place/Cafe+Casa/@35.6711543,139.7136913,3a,90y,269.81h,102.15t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICiwYGZaw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1sI9FNDs79Dn6KnFt1uepdypn8OXVO4r8hiObhahd7aOto8CTExGwsHZClBlX-1NhDqUADbcxLkWu37zJ1iuS7UceVwuLN0U8NAUuDZADXd3NlHmQp7I09McwhDD4eG9W3vEWn%3Dw900-h600-k-no-pi-12.145088109246288-ya179.84789939847985-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188c98e4fbc20b:0x35f4c619a147d5!8m2!3d35.6712014!4d139.7136705!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1vmr1cfj?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhfJw7p-MGGARHGNjNbK4VEA",
+      "name": "Omotesando Station.",
+      "localName": "表参道駅",
+      "coordinates": {
+        "lat": 35.6652511,
+        "lng": 139.7120921
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b9b5fde-b303-469d-9a3e-59bc42a5190d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b9b5fde-b303-469d-9a3e-59bc42a5190d.webp"
+        },
+        {
+          "url": "media/cached-image_80253517519ef4b73d4d39e2ccac153724f53d0c8344e0084f547151992e09fe.jpg"
+        },
+        {
+          "url": "media/cached-image_50ec3c87c226823bf167f086c90cb13418c417b6d0566ce7e91e96116e39feee.jpg"
+        },
+        {
+          "url": "media/cached-image_a12a48440eb4d11d549380ff311fd534edfd077083b26c3716ceb806590f5916.jpg"
+        },
+        {
+          "url": "media/cached-image_c2c235f55f4bfc5259c1b7e337c6ac1e076ca9741aa3216eb78bd692ec238a58.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 606,
+      "priceLevel": null,
+      "address": "Omote-Sando Station, 3 Chome-6-12 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6657571,139.7132871,3a,90y,149.22h,103.23t/data=!3m7!1e1!3m5!1sThUMSW6Dudahs5Ep-pHIPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.234161978741255%26panoid%3DThUMSW6Dudahs5Ep-pHIPg%26yaw%3D149.22098997658304!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Omotesando Station appears in episode 1 as Kanon walks through the area and encounters the vibrant neighborhood that will become the backdrop for Liella!'s story, capturing the upscale Aoyama atmosphere the show is steeped in."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk7uwTa6MGGARhn5OxdZnps4",
+      "name": "Yoyogi 2nd National Gymnasium",
+      "localName": "国立代々木競技場 第二体育館",
+      "coordinates": {
+        "lat": 35.6664637,
+        "lng": 139.6985798
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32ecec73-48cf-49e5-ac3a-7cc35ab3da48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32ecec73-48cf-49e5-ac3a-7cc35ab3da48.webp"
+        },
+        {
+          "url": "media/cached-image_8f3565842d1f5e6eb0b8c3753bb552e20594fffbee1b911a5aee3c49d983ba5b.jpg"
+        }
+      ],
+      "type": "Arena",
+      "categories": [
+        "Arena"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yoyogi National Stadium 2nd Gymnasium, 2 Chome-1-1 Jinnan, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.666224,139.6980621,2a,75y,337.52h,95.33t/data=!3m7!1e1!3m5!1sOSyV8jDZTG0_Mgxep7r18A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.326921189721688%26panoid%3DOSyV8jDZTG0_Mgxep7r18A%26yaw%3D337.5244624791401!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The distinctive Kenzo Tange-designed gymnasium is visible in background shots in episode 1, establishing the Yoyogi Park area as part of the geography surrounding Liella!'s world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMU8P45-MGGARCavYQ-iNvGg",
+      "name": "ZeroBase Jingumae",
+      "localName": "ZeroBase表参道",
+      "coordinates": {
+        "lat": 35.6655635,
+        "lng": 139.7125806
+      },
+      "image": "https://cdn.animepilgrimage.com/places/16eb3b0e-c2e9-4758-a1e1-aed91b4febf0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/16eb3b0e-c2e9-4758-a1e1-aed91b4febf0.webp"
+        },
+        {
+          "url": "media/cached-image_f9ede756ee2c75b7463443d503d5fa9e8d03a8a155567b5618fd2c476dff1e71.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ZeroBase Omotesando, 3 Chome-5-22 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.668516,139.7053663,3a,48.7y,120.32h,93.8t/data=!3m7!1e1!3m5!1sJZB0-4H5XM50EsOc6evAGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.803885515814443%26panoid%3DJZB0-4H5XM50EsOc6evAGg%26yaw%3D120.31615617549!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl4BCpRCNGGAR2CDBL_t7XXI",
+      "name": "Matsumoto Kiyoshi",
+      "localName": "薬 マツモトキヨシ 池袋Part2店",
+      "coordinates": {
+        "lat": 35.7297659,
+        "lng": 139.7155583
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a47d40b-9cc0-4120-93b6-2572d65d4e6a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a47d40b-9cc0-4120-93b6-2572d65d4e6a.webp"
+        },
+        {
+          "url": "media/cached-image_4d28e83b368fd8e3a3d728c44779fb26e297d80e511b02182f9f4df4840c3107.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Matsumoto Kiyoshi, 1 Chome-22-8 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6712369,139.7048025,3a,75y,126.78h,104.44t/data=!3m7!1e1!3m5!1sdzuH7Ud1362qiVpWpVoWOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.43688944896033%26panoid%3DdzuH7Ud1362qiVpWpVoWOQ%26yaw%3D126.77745124307324!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn0XzMbuMGGARGV_7eOstGEs",
+      "name": "Viva Goa Indian Cafe",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.670815,
+        "lng": 139.704634
+      },
+      "image": "https://cdn.animepilgrimage.com/places/66a1edc3-00bb-4255-9e78-1185b5d6b22c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/66a1edc3-00bb-4255-9e78-1185b5d6b22c.webp"
+        },
+        {
+          "url": "media/cached-image_23cd2647f030e6e89bbe555793d62a75bfccf5cd887fbcbc916c02b3ff6e2438.jpg"
+        }
+      ],
+      "type": "Indian restaurant",
+      "categories": [
+        "Indian restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−15−1 Viva Goa Indian Cafe",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6707624,139.7048906,3a,75y,317.65h,92.37t/data=!3m7!1e1!3m5!1s90s5n1xlBLvZPDRbQM9f5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3725046863950467%26panoid%3D90s5n1xlBLvZPDRbQM9f5Q%26yaw%3D317.64505684228396!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Viva Goa Indian Cafe in Jingumae is featured in episode 2 background shots along the Harajuku streetscape that Liella! members traverse regularly, documenting the eclectic dining culture of the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeSARaKSMGGARNZFd94VMO6k",
+      "name": "Ichiran Ramen Harajuku Store",
+      "localName": "一蘭 原宿店",
+      "coordinates": {
+        "lat": 35.6678693,
+        "lng": 139.70523509999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5418ea75-564b-4fbd-804f-44cf7f3677d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5418ea75-564b-4fbd-804f-44cf7f3677d7.webp"
+        },
+        {
+          "url": "media/cached-image_96a32c2525a73fd6e1363b733f682a4ef4fb86c8a769f1d324a5c352c331f5da.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ICHIRAN Harajuku, 2F 6 Chome-5-6 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6680578,139.7051174,3a,75y,178.99h,97.46t/data=!3m7!1e1!3m5!1sLSt5WMIxnc64MTT0zCx47w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.458885563313572%26panoid%3DLSt5WMIxnc64MTT0zCx47w%26yaw%3D178.9895567388115!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Ichiran Ramen's Harajuku branch appears in episode 2 as part of the street-level Harajuku scenery Liella! walk past, the solo-booth ramen chain's distinctive facade visible in background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQCnnaaMGGARv3e26w2Kczk",
+      "name": "niko and ... TOKYO",
+      "localName": "niko and... TOKYO",
+      "coordinates": {
+        "lat": 35.6665838,
+        "lng": 139.7044202
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d5778b7e-f289-429e-9ea9-a7987c441429.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d5778b7e-f289-429e-9ea9-a7987c441429.webp"
+        },
+        {
+          "url": "media/cached-image_deadf0304b6f37ad50411d249d7d474b75b30a613925bc15ad019fe64a0018e3.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "niko and ... TOKYO, TOKYO 1F 2F 6 Chome-12-20 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6669289,139.7043165,3a,75y,184.77h,97.32t/data=!3m7!1e1!3m5!1suADcGex_8H1dW0RzreztVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.323045869174251%26panoid%3DuADcGex_8H1dW0RzreztVw%26yaw%3D184.77024954067105!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq8O19qOMGGARnXM9ztaJ4-0",
+      "name": "Island Vintage Coffee Omotesando",
+      "localName": "アイランド ヴィンテージ コーヒー 表参道店",
+      "coordinates": {
+        "lat": 35.6676352,
+        "lng": 139.7066452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1bf9e24e-f823-4959-bce1-bf526964a50e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1bf9e24e-f823-4959-bce1-bf526964a50e.webp"
+        },
+        {
+          "url": "media/cached-image_fff1fda657efaf4fa44d598ee1fdd8e299c31762c45a6c71a80c84131b73e667.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Island Vintage Coffee Omotesando, 富士鳥居ビル 6 Chome-1-10 Jingumae, 渋谷区 Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.667711,139.7068093,3a,90y,262.45h,108.06t/data=!3m7!1e1!3m5!1sGd-P-pKlzh6lEpz5cDDFcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.057784475949546%26panoid%3DGd-P-pKlzh6lEpz5cDDFcQ%26yaw%3D262.4513822765!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjQAhiaaMGGARrVTAPuNdo2o",
+      "name": "Onden Shrine",
+      "localName": "穏田神社",
+      "coordinates": {
+        "lat": 35.664957099999995,
+        "lng": 139.7041836
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e0aed10-829c-4731-b283-761f150751a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e0aed10-829c-4731-b283-761f150751a5.webp"
+        },
+        {
+          "url": "media/cached-image_fd16d48eef8cf713cf5d54939c1be11b2065edbf36ccb26f98a66bcdf745daf7.jpg"
+        },
+        {
+          "url": "media/cached-image_efaaf477b9720ae4325e1c19b15329763aa868b5c259607bcd045a4db15eea57.jpg"
+        },
+        {
+          "url": "media/cached-image_10fb0e9c5273200ea2fbaa760b0c5022d4cacd9aa4f88669229c019a396ba569.jpg"
+        },
+        {
+          "url": "media/cached-image_2262896a5a4a934efc54e243ce251eedf2c4f3090ec347b06fdd5ca38cc4aed8.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 359,
+      "priceLevel": null,
+      "address": "Onden Shrine, 5 Chome-26-6 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Onden+Shrine/@35.6649102,139.7042888,3a,90y,269.3h,100.89t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICBzIaUmgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0FBI6uVJ0-nBUyzoP_4LfuHtSlG_bgg33QR1ylNwCmOOkTqfQ3IYeRZUzMaHpa-H-HYFTuu5skKdAL5sEUsNHazlROScHayw4U9G7R352KtogGLaWeTVJK2HIzDgg8Fc_iDzZnQQ%3Dw900-h600-k-no-pi-10.893464753174769-ya267.3036443293995-ro0-fo100!7i4608!8i2304!4m9!3m8!1s0x60188ca68921008d:0x6aa35de33ec054ad!8m2!3d35.6649571!4d139.7041836!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11fy2vw3fw?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Kanon visits Onden Shrine in episode 4 to pray before an important school idol audition, a quiet character moment that shows her private anxiety before she steps onto the stage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV_HAtKSMGGARpiOls-j3ol8",
+      "name": "CANDY A GO GO! Harajuku Main Store",
+      "localName": "キャンディ・ア・ゴーゴー 原宿本店",
+      "coordinates": {
+        "lat": 35.670860399999995,
+        "lng": 139.7054506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50998e76-a348-47a6-a826-9f6b9d39bd54.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50998e76-a348-47a6-a826-9f6b9d39bd54.webp"
+        },
+        {
+          "url": "media/cached-image_0109e950f4242040f3e1d1f5083411cc71f727e39839f9fdcd2830539ea44e92.jpg"
+        }
+      ],
+      "type": "Candy store",
+      "categories": [
+        "Candy store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 1 Chome−7−1 CANDY A GO GO!, CUTE CUBE HARAJUKU １F",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6709691,139.7052919,3a,75y,152.43h,95.61t/data=!3m7!1e1!3m5!1sK2VDvofv0GQLx6TPrVSNfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.612904143290805%26panoid%3DK2VDvofv0GQLx6TPrVSNfQ%26yaw%3D152.42942172479377!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_WQFfaSMGGARrxwjKDNcpX0",
+      "name": "Omohara Forest",
+      "localName": "おもはらの森",
+      "coordinates": {
+        "lat": 35.668667299999996,
+        "lng": 139.70593639999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33ad1a31-9e8c-456d-9fcd-fbf9e42557bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33ad1a31-9e8c-456d-9fcd-fbf9e42557bf.webp"
+        },
+        {
+          "url": "media/cached-image_2b73dbf15e0d367439911dfd6688464eb0e6438ce36155fad1034d50fab46389.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omohara Forest, 6階, 4 Chome-30-3 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6686358,139.7059432,2a,75y,206.59h,97.57t/data=!3m7!1e1!3m5!1s5Qm08mTVVyb4EAKKOJht2Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.573819242127797%26panoid%3D5Qm08mTVVyb4EAKKOJht2Q%26yaw%3D206.5882418152002!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The rooftop Omohara Forest terrace near Omotesando appears in episode 5 as a casual meeting spot for Liella! members, its lush elevated greenery offering a quiet contrast to the busy streets below."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnWnrgU6NGGARLc202NvdJ6k",
+      "name": "Town Corner Garden",
+      "localName": "街かど庭園",
+      "coordinates": {
+        "lat": 35.6697007,
+        "lng": 139.7030091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2fb30e1e-c661-4727-ad65-40611ddf3f5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2fb30e1e-c661-4727-ad65-40611ddf3f5c.webp"
+        },
+        {
+          "url": "media/cached-image_01e626a316981950a653eca37cad54d2dcf39bab4027c507b8395164fbe2a5e1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Town Corner Garden, 1 Chome-14-17 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6698918,139.7028461,3a,39.2y,128.94h,90.07t/data=!3m7!1e1!3m5!1sPyoZAVppNlXHjSwzS5oWIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.06506866822275015%26panoid%3DPyoZAVppNlXHjSwzS5oWIA%26yaw%3D128.93854763768115!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF5LIgREcF2ARwuBrwRLIfiA",
+      "name": "Akasaki Promenade",
+      "localName": "赤崎遊歩道",
+      "coordinates": {
+        "lat": 34.240623299999996,
+        "lng": 139.137116
+      },
+      "image": "https://cdn.animepilgrimage.com/places/52e0926e-cb29-41ce-9631-0bd0ee2891b2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/52e0926e-cb29-41ce-9631-0bd0ee2891b2.webp"
+        },
+        {
+          "url": "media/cached-image_20b7872d91cc2d5eb8ca99a9b472466f2ddd3fb8b593d8bcd04586d8cedad625.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akasaki Promenade, Kobeyama, Kozushima Village, Tokyo 100-0601, Japan",
+      "city": "Kozushima Village",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2407606,139.1371545,2a,75y,228.74h,90.92t/data=!3m7!1e1!3m5!1sv004Mh0olQ2lc-yihUNp4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9207133712131963%26panoid%3Dv004Mh0olQ2lc-yihUNp4g%26yaw%3D228.74053973961585!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The crystal-clear seaside promenade on Kozushima island is featured prominently in episode 5 during Liella!'s island excursion, where the group bonds against stunning turquoise water views that contrast sharply with their urban Tokyo daily life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_30",
+      "name": "Cafeteria And Snorkeling Rental",
+      "localName": "赤崎売店",
+      "coordinates": {
+        "lat": 34.24012,
+        "lng": 139.13755
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49b9899c-2f4d-43e4-86f2-f7fecb5c58f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49b9899c-2f4d-43e4-86f2-f7fecb5c58f7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.239994,139.1376248,3a,75y,329.5h,96.55t/data=!3m7!1e1!3m5!1sFG3N3cjRgnJF9N4APoQOWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.5458683684003205%26panoid%3DFG3N3cjRgnJF9N4APoQOWQ%26yaw%3D329.5004438854625!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBVDQFTAcF2ARSFeEXaGjVfM",
+      "name": "Nagahama Observatory",
+      "localName": "長浜展望台",
+      "coordinates": {
+        "lat": 34.2216261,
+        "lng": 139.133003
+      },
+      "image": "https://cdn.animepilgrimage.com/places/698c1d08-9796-4d9f-ae22-ce71c3df81ab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/698c1d08-9796-4d9f-ae22-ce71c3df81ab.webp"
+        },
+        {
+          "url": "media/cached-image_afb78e4c5700089d998bc38a1108c14259ff628932830b905a75444436797508.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagahama Observatory, Nagahama, Kozushima Village, Tokyo 100-0601, Japan",
+      "city": "Kozushima Village",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2216323,139.1330967,3a,90y,291.03h,100.1t/data=!3m7!1e1!3m5!1sOZhNt0GErDu8XPL9MJGKNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.096486007975983%26panoid%3DOZhNt0GErDu8XPL9MJGKNQ%26yaw%3D291.03425096495863!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Nagahama Observatory on Kozushima appears in episode 5 as the group takes in a sweeping view of the island, a contemplative moment before the members reflect on why they want to be school idols."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_32",
+      "name": "Buttoshi Rock",
+      "localName": "ぶっ通し岩",
+      "coordinates": {
+        "lat": 34.2241,
+        "lng": 139.1358
+      },
+      "image": "https://cdn.animepilgrimage.com/places/058bde2c-fa29-4a40-ab3b-e70025101d35.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/058bde2c-fa29-4a40-ab3b-e70025101d35.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.2240011,139.1357656,3a,90y,307h,96.89t/data=!3m7!1e1!3m5!1sR7Srv_AGboh0AO_1Gof4cQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.886822277234899%26panoid%3DR7Srv_AGboh0AO_1Gof4cQ%26yaw%3D306.99935161395604!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Buttoshi Rock on Kozushima is visited during the episode 5 island trip, its dramatic coastal formation appearing as a backdrop while Liella! explore the island's natural landmarks together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0TCo1TEcF2ARoz6Sgy71OJk",
+      "name": "Kozushima Onsen Recreation Center",
+      "localName": "神津島温泉保養センター",
+      "coordinates": {
+        "lat": 34.2208003,
+        "lng": 139.1298004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62bcfc90-ff11-4cad-abc7-8bd35df2ddb7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62bcfc90-ff11-4cad-abc7-8bd35df2ddb7.webp"
+        },
+        {
+          "url": "media/cached-image_235a1f6c363656736c09ea8e475eaee7134f5bf442c1cef5c384b67fc5843fd9.jpg"
+        }
+      ],
+      "type": "Day-use onsen",
+      "categories": [
+        "Day-use onsen"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒100-0601 Tokyo, Kozushima Village, Sabisaki, 1-1 神津島温泉保養センター",
+      "city": "Kozushima Village",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2209077,139.1293895,3a,43.8y,168.06h,96.29t/data=!3m7!1e1!3m5!1sgwaLYWwd4VdZfxlu6XqX7Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.28739764078378%26panoid%3DgwaLYWwd4VdZfxlu6XqX7Q%26yaw%3D168.05970016053675!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Liella! relax at the Kozushima onsen center in episode 5, the natural hot spring visit providing a warm comedic bonding scene as the girls unwind together on their island retreat."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_34",
+      "name": "Marushima Souvenir Shop",
+      "localName": "丸島土産店",
+      "coordinates": {
+        "lat": 34.2069,
+        "lng": 139.13358
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f75b8fa9-288b-4788-b84a-327247b839ce.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f75b8fa9-288b-4788-b84a-327247b839ce.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.2069034,139.1338997,3a,90y,282.38h,95.71t/data=!3m7!1e1!3m5!1sl88jEmT16m44fHHpuQRgwg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.708060209949139%26panoid%3Dl88jEmT16m44fHHpuQRgwg%26yaw%3D282.3764529180078!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1bky2GaLGGARcT9b_C-SgmA",
+      "name": "Minami-Aoyama 6-chome Children's Park",
+      "localName": "南青山六丁目児童遊園",
+      "coordinates": {
+        "lat": 35.6599599,
+        "lng": 139.7143401
+      },
+      "image": "https://cdn.animepilgrimage.com/places/14096e84-93ef-4db5-9006-ebb857c350e5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/14096e84-93ef-4db5-9006-ebb857c350e5.webp"
+        },
+        {
+          "url": "media/cached-image_b4c0079c12f2196f5a5d425b046b256bbc7dd1631edc495337deb0b967f32018.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Minami-Aoyama 6-chome Children's Park, 飯塚マンション 6 Chome-13-24 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6599685,139.7143064,3a,75y,154.27h,89.75t/data=!3m7!1e1!3m5!1sT_iQxuWNZUihgocdu_9i1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2466140062255846%26panoid%3DT_iQxuWNZUihgocdu_9i1w%26yaw%3D154.2673098800715!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3eA7J_DdAGARil7_EwUaR_I",
+      "name": "Haruka Observatory",
+      "localName": "ハルカス300（展望台）",
+      "coordinates": {
+        "lat": 34.6463062,
+        "lng": 135.5133091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d33b1526-bbbf-4949-ab51-d28a1c5659bc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d33b1526-bbbf-4949-ab51-d28a1c5659bc.webp"
+        },
+        {
+          "url": "media/cached-image_00b5da16c3e8eb79b2afd41c7b86510038894f72dab4d569f0fac7397bb12cd2.jpg"
+        },
+        {
+          "url": "media/cached-image_ca49323daa40a35db78d8e28f50638f1cf420fac6e74cd6c5b90b295d104969f.jpg"
+        },
+        {
+          "url": "media/cached-image_fcd76ef1f16f01e71a6d73971a4ccafadf7aeca08701420c516feffd147ebdb4.jpg"
+        },
+        {
+          "url": "media/cached-image_4809db4c5375c7ec82cecd4ac7adb15c6afe0d1e79b6de66f39f71427667c8d9.jpg"
+        },
+        {
+          "url": "media/cached-image_fb454a0d3e7d294ee597d2d75daf0106b07be601bc1dcaf07e7366f7060ab13f.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.6,
+      "reviewCount": 249,
+      "priceLevel": null,
+      "address": "Harukas 300, 1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2039565,139.1337631,3a,48.7y,198.73h,92.72t/data=!3m7!1e1!3m5!1sBcxBYdtb7hAWWL-zSzEbXg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7162638348538763%26panoid%3DBcxBYdtb7hAWWL-zSzEbXg%26yaw%3D198.73127295482374!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg371o8VNB2ARUdEHUg9qsx0",
+      "name": "Omiyage Kuroshio",
+      "localName": "黒潮市場",
+      "coordinates": {
+        "lat": 34.1538817,
+        "lng": 135.1759439
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d2c55382-a838-47e0-9359-16faad9d5862.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d2c55382-a838-47e0-9359-16faad9d5862.webp"
+        },
+        {
+          "url": "media/cached-image_ada3ea871587d094131725265132cd3267acb3330d578cc7558fa3b52a2954ee.jpg"
+        },
+        {
+          "url": "media/cached-image_bf2b543d8e045848ae53ada6e7653c5d155d8f6099de9fa428b65bfa09991ef6.jpg"
+        },
+        {
+          "url": "media/cached-image_3195f4c606eac124c2bbe800f14f310447db2a071565e9bbcc9b5f09873dbc17.jpg"
+        },
+        {
+          "url": "media/cached-image_3e680a328d5e2fad7a1c184a795cb72f92021dbcf8223f52cd9615e46518143d.jpg"
+        }
+      ],
+      "type": "Fish store",
+      "categories": [
+        "Fish store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 104,
+      "priceLevel": null,
+      "address": "Kuroshio Market, 1527 Kemi, Wakayama, 641-0014, Japan",
+      "city": "Wakayama",
+      "region": "Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2073743,139.133216,3a,90y,159.37h,100.57t/data=!3m7!1e1!3m5!1swFEQXHV7qlyZRlEDVMw51g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.570185630435475%26panoid%3DwFEQXHV7qlyZRlEDVMw51g%26yaw%3D159.37347875159816!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_38",
+      "name": "Vacation House Familia",
+      "localName": "みんなの別荘ファミリア",
+      "coordinates": {
+        "lat": 34.2051,
+        "lng": 139.13532
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a5e7cca4-bb62-480d-bc93-7908efb39df3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a5e7cca4-bb62-480d-bc93-7908efb39df3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.2051385,139.1353763,3a,90y,180.1h,104.3t/data=!3m7!1e1!3m5!1s5jEU4eLASvcsljNhoce2nA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.299572592904909%26panoid%3D5jEU4eLASvcsljNhoce2nA%26yaw%3D180.09756520639633!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXZOz3zsdF2ARX28Md7ZAS0c",
+      "name": "Kozu island port Wharf Lighthouse",
+      "localName": "神津島港（前浜港）ふ頭灯台",
+      "coordinates": {
+        "lat": 34.2092264,
+        "lng": 139.1277121
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05666fb9-3aa7-4afa-a9ff-44c7756ed82e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05666fb9-3aa7-4afa-a9ff-44c7756ed82e.webp"
+        },
+        {
+          "url": "media/cached-image_120cc0f749223f7d9eb708789cd53314679d04da60e016c8b8febd333c83e77e.jpg"
+        }
+      ],
+      "type": "Local government office",
+      "categories": [
+        "Local government office"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kōzu island port Wharf Lighthouse, Kozushima Village, Tokyo 100-0601, Japan",
+      "city": "Kozushima Village",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.2093601,139.1289537,3a,31.2y,262.48h,90.83t/data=!3m7!1e1!3m5!1sgGuprWk8tSLzyhKyyD8_Cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8283095259046434%26panoid%3DgGuprWk8tSLzyhKyyD8_Cw%26yaw%3D262.47785749353403!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVQ7bT6eMGGARY0Y_ZTIQQkA",
+      "name": "NB Parking Shibuya 1-Chome",
+      "localName": "NBパーキング 渋谷１丁目",
+      "coordinates": {
+        "lat": 35.6624475,
+        "lng": 139.7059277
+      },
+      "image": "https://cdn.animepilgrimage.com/places/19d09db7-1469-414f-be1a-46f54a2406ae.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/19d09db7-1469-414f-be1a-46f54a2406ae.webp"
+        },
+        {
+          "url": "media/cached-image_07e9cf0664fe3cf54ffb2b024abfcbd0c6ac1e599e37801a0aa6817b9430f359.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "NB Parking Shibuya 1-Chōme, 1 Chome-19 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6623196,139.7063202,3a,90y,235.38h,125.15t/data=!3m7!1e1!3m5!1s6mPuBb3cu9msJbJX7ghpOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-35.1515220339944%26panoid%3D6mPuBb3cu9msJbJX7ghpOw%26yaw%3D235.37974969093327!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu0DVseWLGGARtlfpb0-Pw8w",
+      "name": "Tokyo Oxygen and Medical Care Station Tomin no Shiro",
+      "localName": "東京都酸素・医療提供ステーション 都民の城",
+      "coordinates": {
+        "lat": 35.6622353,
+        "lng": 139.7072527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/482a1787-e853-401c-b14d-16cc8cc241c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/482a1787-e853-401c-b14d-16cc8cc241c4.webp"
+        }
+      ],
+      "type": "Medical office",
+      "categories": [
+        "Medical office"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Oxygen and Medical Care Station Tomin no Shiro, 5 Chome-53-1 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6621341,139.7066474,3a,90y,35.83h,96.13t/data=!3m7!1e1!3m5!1sF4N3O5rh0m87rfCAtBGlpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.126474029613334%26panoid%3DF4N3O5rh0m87rfCAtBGlpQ%26yaw%3D35.83151842205223!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4T-x9p-MGGARibq9viGQCrE",
+      "name": "Tourindou Aoyama Main Store",
+      "localName": "桃林堂 青山店",
+      "coordinates": {
+        "lat": 35.6649513,
+        "lng": 139.7119706
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6de08bf0-a112-4cff-9948-afd66308e7ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6de08bf0-a112-4cff-9948-afd66308e7ff.webp"
+        },
+        {
+          "url": "media/cached-image_6d44777e2643e227cb62dc0d930c26e82a92607e99bbe1fbdb31ff0899e97ee2.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tourindou Aoyama Main Store, Hulic Aoyama Building, １階 3 Chome-6-12 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.664994,139.7122818,3a,90y,259.09h,99.7t/data=!3m7!1e1!3m5!1spPVGAggddhQHs-AoHi9J4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.699846139433646%26panoid%3DpPVGAggddhQHs-AoHi9J4w%26yaw%3D259.0882783493862!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEQPUS2CLGGARGabj2jNw_po",
+      "name": "Prada Tokyo Aoyama",
+      "localName": "プラダ 青山店",
+      "coordinates": {
+        "lat": 35.6637663,
+        "lng": 139.71450819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/359e75a7-75b2-47b1-9d0e-e2f3d88d84e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/359e75a7-75b2-47b1-9d0e-e2f3d88d84e8.webp"
+        },
+        {
+          "url": "media/cached-image_67d25bb1afa720ea6ca6be066354b9ce5c47dd5eeb8fad52b0311ed495479283.jpg"
+        }
+      ],
+      "type": "Women's clothing store",
+      "categories": [
+        "Women's clothing store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒107-0062 Tokyo, Minato City, Tokyo5 Chome−2−6 Prada Tokyo Aoyama, Minami-Aoyama",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6638275,139.7146258,3a,75y,43.06h,96.24t/data=!3m7!1e1!3m5!1sHX-1gLvc5-GcO9d4_CRdVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.237955331440531%26panoid%3DHX-1gLvc5-GcO9d4_CRdVA%26yaw%3D43.05704628157005!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZeKfy5qLGGARQQalEwKOSqs",
+      "name": "Kurosaki",
+      "localName": "くろ﨑",
+      "coordinates": {
+        "lat": 35.666002399999996,
+        "lng": 139.71676829999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/29daf829-67cc-4584-bc30-52497795149c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/29daf829-67cc-4584-bc30-52497795149c.webp"
+        },
+        {
+          "url": "media/cached-image_dde182d45779687d524ea4d4bbe76dfb92699c0f6f9da9442844eee266f341b3.jpg"
+        }
+      ],
+      "type": "Sushi restaurant",
+      "categories": [
+        "Sushi restaurant"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurosaki, FPG links MINAMIAOYAMA B2F 4 Chome-16-15 Minamiaoyama, Minato City, Tokyo 107-0062, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6660317,139.7166497,3a,90y,147.13h,86.73t/data=!3m7!1e1!3m5!1sXKv5lJm5gnUC0iiIS4r72A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.2696010385046037%26panoid%3DXKv5lJm5gnUC0iiIS4r72A%26yaw%3D147.13298131295832!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_45",
+      "name": "Spring Hotel and Resort",
+      "localName": "スプリングホテルアンドリゾート",
+      "coordinates": {
+        "lat": 35.66541,
+        "lng": 139.7171
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21c80408-4f27-485a-aa55-b030d171f9da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21c80408-4f27-485a-aa55-b030d171f9da.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6654418,139.7170794,3a,90y,91.34h,106.26t/data=!3m7!1e1!3m5!1sJV9rBaq8hvlItg3_YptqYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.263969670027407%26panoid%3DJV9rBaq8hvlItg3_YptqYA%26yaw%3D91.34359378628471!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_46",
+      "name": "【 Dogram 】aikenkanotamenoinusenmon Photography",
+      "localName": "【Dogram】愛犬家のための犬専門写真館",
+      "coordinates": {
+        "lat": 35.66633,
+        "lng": 139.71779
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8de2027d-8736-4f42-9f4d-54b197ae7f44.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8de2027d-8736-4f42-9f4d-54b197ae7f44.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.666298,139.7178567,3a,75y,305.23h,98.3t/data=!3m7!1e1!3m5!1sKlUxXX2_ZBfL63BRCWinPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.29783318835186%26panoid%3DKlUxXX2_ZBfL63BRCWinPw%26yaw%3D305.22745845897106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_XxY_JqMGGARACDk4sraoN8",
+      "name": "Meiji Jingu Gaien Gingko Avenue",
+      "localName": "外苑いちょう並木",
+      "coordinates": {
+        "lat": 35.6727172,
+        "lng": 139.7205745
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa27b3f7-ce42-4838-9560-f62e7f041dff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa27b3f7-ce42-4838-9560-f62e7f041dff.webp"
+        },
+        {
+          "url": "media/cached-image_b6427c25e90712309a2540cb546c23471295444204a779a57cc3f28ab2d6e4ef.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Meiji Jingu Gaien Ginkgo Avenue, 2 Chome-7-付近 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6748673,139.7194736,3a,48.7y,116.72h,94.86t/data=!3m7!1e1!3m5!1sZ8hGu-rc682RaKQtLUOGhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.863349721642564%26panoid%3DZ8hGu-rc682RaKQtLUOGhw%26yaw%3D116.7244587103146!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The famous gingko-lined avenue appears in episode 10, with the golden autumn canopy providing a scenic backdrop as Liella! walk and talk about their upcoming performance, the seasonal imagery reinforcing the emotional stakes of the season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMxKP1paOGGARHz7Kw7zQTyY",
+      "name": "Akiba Shrine",
+      "localName": "秋葉神社",
+      "coordinates": {
+        "lat": 35.7164833,
+        "lng": 139.7858333
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ec5fabb-d0d0-443f-8fc6-fb33fa5d1b67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ec5fabb-d0d0-443f-8fc6-fb33fa5d1b67.webp"
+        },
+        {
+          "url": "media/cached-image_9599d14afb2e070251c02a3ba26d7380cc1d7e296681f52ca5ab3d77e0be78c9.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 438,
+      "priceLevel": null,
+      "address": "Akiba Shrine, 3 Chome-10-7 Matsugaya, Taito City, Tokyo 111-0036, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6656495,139.7121034,3a,90y,54.66h,94.74t/data=!3m7!1e1!3m5!1sxrZ_fVGL3kD3C4k_pAE0eQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.739891017040236%26panoid%3DxrZ_fVGL3kD3C4k_pAE0eQ%26yaw%3D54.659384826607905!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfyALn6aMGGAR8j_ZMg45TQ4",
+      "name": "adidas Originals Flagship Store Harajuku",
+      "localName": "アディダス オリジナルス フラッグシップ ストア 原宿",
+      "coordinates": {
+        "lat": 35.666220599999995,
+        "lng": 139.7060158
+      },
+      "image": "https://cdn.animepilgrimage.com/places/173982c4-4d86-48bd-83b9-a1c3a8881022.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/173982c4-4d86-48bd-83b9-a1c3a8881022.webp"
+        },
+        {
+          "url": "media/cached-image_c67ac35c6a2ce53f463e46ab036c4ff9a65f822bf038f12df7acf497bf30f21b.jpg"
+        }
+      ],
+      "type": "Sporting goods store",
+      "categories": [
+        "Sporting goods store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "アディダス オリジナルス フラッグシップ ストア 原宿, 5 Chome-17-4 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6663444,139.7058425,3a,90y,101.58h,94.31t/data=!3m7!1e1!3m5!1sh_6jupZR0h5N4urehAcAxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.312366285635321%26panoid%3Dh_6jupZR0h5N4urehAcAxg%26yaw%3D101.57802368393536!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGXk4lqSMGGARNhSNaT3A8Ao",
+      "name": "MASAYA SHOKUDOU Restaurant",
+      "localName": "まさや食堂",
+      "coordinates": {
+        "lat": 35.6696296,
+        "lng": 139.7056122
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ffbbebf8-8dd0-4f27-b0a3-6a87290da29f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ffbbebf8-8dd0-4f27-b0a3-6a87290da29f.webp"
+        },
+        {
+          "url": "media/cached-image_1a18991448e7e7e0422b4dacd6ac2883ed038adb11833ad6cd4188ac5bac77b4.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MASAYA SHOKUDOU Restaurant, 1 Chome-9-12 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6696325,139.7055613,3a,63.4y,148.35h,95.36t/data=!3m7!1e1!3m5!1sumtU2ykbRXx8xG3LGvBHNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.36015986399012%26panoid%3DumtU2ykbRXx8xG3LGvBHNw%26yaw%3D148.34534477105458!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_51",
+      "name": "Dish Fountain",
+      "localName": "皿噴水",
+      "coordinates": {
+        "lat": 35.6701,
+        "lng": 139.70521
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43ad8dbc-fcc8-4918-946c-aa915e30b033.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43ad8dbc-fcc8-4918-946c-aa915e30b033.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6701243,139.7051989,3a,90y,56.3h,93.25t/data=!3m7!1e1!3m5!1sSw9xP96QIw5W5NsmpFZ2hQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.254273142105106%26panoid%3DSw9xP96QIw5W5NsmpFZ2hQ%26yaw%3D56.30378528030577!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJybbvYK-NGGAR0EgkpZXgH3Y",
+      "name": "BONTEMPS Tokyo Harajuku Donut & Coffee",
+      "localName": "BONTEMPS東京原宿",
+      "coordinates": {
+        "lat": 35.670796599999996,
+        "lng": 139.70502919999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82fdb43d-2e98-4ee8-9111-0937cd08c21a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82fdb43d-2e98-4ee8-9111-0937cd08c21a.webp"
+        },
+        {
+          "url": "media/cached-image_c7d9255216411fe907d3c1480b49300ba692d584359a654614dcb4dfb086f43b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b6529d7f96b1cdd9ddde58ab940e3fff4710377df96d197d9b847b464542221.jpg"
+        }
+      ],
+      "type": "Donut shop",
+      "categories": [
+        "Donut shop"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "BONTEMPS Tokyo Harajuku Donut & Coffee, FLEG原宿 1階 1 Chome-9-30 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6706102,139.7049671,3a,75y,331.75h,99.82t/data=!3m7!1e1!3m5!1sBNHUW3h0YtJcy5m8daPt3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.81611794406247%26panoid%3DBNHUW3h0YtJcy5m8daPt3A%26yaw%3D331.7534611539671!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8Q76BaSMGGARstBk9iD-hYY",
+      "name": "Jannu-2",
+      "localName": "JANNU-2",
+      "coordinates": {
+        "lat": 35.6670121,
+        "lng": 139.70620499999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca971c9c-eb72-4772-8d8d-2a8a1a1dc026.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca971c9c-eb72-4772-8d8d-2a8a1a1dc026.webp"
+        },
+        {
+          "url": "media/cached-image_71e70e83a4d87127114c83e2d336ef8a1956fd30511205c30d1bbec7260a95b6.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Jannu-2, 千春ビル 6 Chome-7-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6667923,139.7061858,3a,24.6y,35.41h,89.67t/data=!3m7!1e1!3m5!1s1Dksr3Edtx9RVqy4xl5f5g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.3306556283381781%26panoid%3D1Dksr3Edtx9RVqy4xl5f5g%26yaw%3D35.41297613772604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcyR6z6KMGGAR-2dCPyWoLXE",
+      "name": "bio ojiyan cafe Harajuku",
+      "localName": "bio ojiyan caFe",
+      "coordinates": {
+        "lat": 35.669087999999995,
+        "lng": 139.70788059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b18c36b7-8f40-4d30-8e38-064b41eaa565.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b18c36b7-8f40-4d30-8e38-064b41eaa565.webp"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "bio ojiyan cafe Harajuku, 4 Chome-26-28 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6690366,139.7078767,3a,90y,355.45h,94.52t/data=!3m7!1e1!3m5!1szKWel3-MgIO3eQ1nSRGucQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.524431037802088%26panoid%3DzKWel3-MgIO3eQ1nSRGucQ%26yaw%3D355.4497827586417!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_55",
+      "name": "Garland",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.66606,
+        "lng": 139.70655
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b18233e8-4142-4a7d-9cad-f18a8aba42bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b18233e8-4142-4a7d-9cad-f18a8aba42bf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6661536,139.7066941,3a,48.7y,231.44h,93.08t/data=!3m7!1e1!3m5!1sl2xIQhInnQ27qEOkAqO_zQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.076044149647487%26panoid%3Dl2xIQhInnQ27qEOkAqO_zQ%26yaw%3D231.44072502509889!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqazPB6uNGGARpRlMroAEW-A",
+      "name": "AtelierY Harajuku",
+      "localName": "AtelierY 原宿",
+      "coordinates": {
+        "lat": 35.670634199999995,
+        "lng": 139.7089968
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0550790-d6a8-437a-98c4-3692562ca00d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0550790-d6a8-437a-98c4-3692562ca00d.webp"
+        },
+        {
+          "url": "media/cached-image_28d8c499b9febecc6dcd330834831ce75b00994cb48cf0e76ecd18328d5f6c03.jpg"
+        }
+      ],
+      "type": "Art gallery",
+      "categories": [
+        "Art gallery"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0001 Tokyo, Shibuya, Jingumae, 3 Chome−18−30 神宮前ＫＨＰベーシックビル 2F AtelierY 原宿",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6706459,139.7088083,3a,74.7y,290.5h,111.92t/data=!3m7!1e1!3m5!1sBcBH8if4Vx_J9H7s92Flgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.924287458764283%26panoid%3DBcBH8if4Vx_J9H7s92Flgw%26yaw%3D290.4955711831056!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS1vIJbuMGGAR5j0Q6IFVqlI",
+      "name": "Brahms Path",
+      "localName": "ブラームスの小径",
+      "coordinates": {
+        "lat": 35.671061,
+        "lng": 139.70433549999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/53473654-6b36-44b5-8901-3a00aae01585.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/53473654-6b36-44b5-8901-3a00aae01585.webp"
+        },
+        {
+          "url": "media/cached-image_34e838581b94af6005a878523b61a1478051f46c51b7852dd4a6a44e8a6754d0.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Brahms Path, 1-chōme Jingūmae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6711292,139.7039888,3a,90y,113.24h,100.39t/data=!3m7!1e1!3m5!1suKgv_qSlWtQq5p2uTAT60A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.390560506606263%26panoid%3DuKgv_qSlWtQq5p2uTAT60A%26yaw%3D113.24485557407655!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC_DhW6GMGGARLhQcgPhe6Gs",
+      "name": "TUMI Omotesando Store",
+      "localName": "トゥミ表参道",
+      "coordinates": {
+        "lat": 35.666849899999995,
+        "lng": 139.7073325
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8372621b-6790-470e-ada4-311d2a09ad6a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8372621b-6790-470e-ada4-311d2a09ad6a.webp"
+        },
+        {
+          "url": "media/cached-image_13325c5c8bf2eace108840909dfb43927c86a5334316d90004122ef1c158c814.jpg"
+        },
+        {
+          "url": "media/cached-image_461e0ae7935e2af9fe00a3a2da67c9d8da1e1dcaa1caa7dc707ad603d0c30667.jpg"
+        },
+        {
+          "url": "media/cached-image_fda49dbaa4215824805fc3805f2f5a0d3869d559ce52dfcc3fed67752eb06ea9.jpg"
+        },
+        {
+          "url": "media/cached-image_d65e4b8c08f42cac5ad5e0fdc310db87dcefac4ac6d426ac63f1593f4937b470.jpg"
+        }
+      ],
+      "type": "Bag shop",
+      "categories": [
+        "Bag shop"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TUMI Omotesando Store, 5 Chome-9-17 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6668865,139.7072895,3a,90y,238.35h,98.3t/data=!3m7!1e1!3m5!1sOolFK-KxIwUJIy1rozlerw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.302570094953978%26panoid%3DOolFK-KxIwUJIy1rozlerw%26yaw%3D238.35035006268953!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiXKu7KOMGGAR0wD8vjlCrPs",
+      "name": "Ralph Lauren Omotesando",
+      "localName": "ラルフローレン 表参道店",
+      "coordinates": {
+        "lat": 35.6679939,
+        "lng": 139.70720409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04018651-3ccf-40b3-9412-f41d2a69c49e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04018651-3ccf-40b3-9412-f41d2a69c49e.webp"
+        },
+        {
+          "url": "media/cached-image_a7e63edbb1e89d675de6c99defad41339299ddb41f58565ea5bb8b4a96bf18a1.jpg"
+        },
+        {
+          "url": "media/cached-image_ea8bec1a16be34fe77c4cfeb7e869081f73a29e04473276d4f846a76cc4433de.jpg"
+        },
+        {
+          "url": "media/cached-image_7c0e26e7748f3be2a7a98ee92b22f98c9442b0a34f34090514c36d8e45abd167.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": 4.1,
+      "reviewCount": 689,
+      "priceLevel": null,
+      "address": "Ralph Lauren Omotesando, エスポワール表参道ビル 4 Chome-25-15 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.668491,139.7073227,3a,90y,162.19h,103.49t/data=!3m7!1e1!3m5!1sYmbFotnE31yvLOPYPSl4kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.494863516573105%26panoid%3DYmbFotnE31yvLOPYPSl4kw%26yaw%3D162.1935276845031!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_60",
+      "name": "La Fée Délice",
+      "localName": "ラフェデリース",
+      "coordinates": {
+        "lat": 35.66669,
+        "lng": 139.70628
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e51866c-7d67-4c3f-806a-18acdb82e773.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e51866c-7d67-4c3f-806a-18acdb82e773.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6666868,139.7062499,3a,75y,69.49h,92.94t/data=!3m7!1e1!3m5!1sMqLWAH0lfP9UvBpCabu6qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9425056152344666%26panoid%3DMqLWAH0lfP9UvBpCabu6qg%26yaw%3D69.4940071781783!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFW_Xk6aMGGAR9yKRvAVfqlw",
+      "name": "CAR PARK Jingumae 5-Chome",
+      "localName": "カーパーク 神宮前５丁目",
+      "coordinates": {
+        "lat": 35.6650853,
+        "lng": 139.7047365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1e8d128d-5923-4f95-b9a2-f8acb78cbd20.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1e8d128d-5923-4f95-b9a2-f8acb78cbd20.webp"
+        },
+        {
+          "url": "media/cached-image_c15ee42c1ed6c5271a7a1beca212ababc7456ef209bd09f53f73da0a67972f94.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "CAR PARK Jingumae 5-Chome, 5 Chome-24-4 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6651901,139.704883,3a,90y,193.58h,102.39t/data=!3m7!1e1!3m5!1sR6pzvferKXaBSvNeZt7vDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.393042612631632%26panoid%3DR6pzvferKXaBSvNeZt7vDw%26yaw%3D193.57885581043507!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-superstar_62",
+      "name": "Olympic pedestrian bridge",
+      "localName": "五輪歩道橋",
+      "coordinates": {
+        "lat": 35.66913,
+        "lng": 139.70182
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1191c698-9e4f-4809-a604-b7d8abec38cb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1191c698-9e4f-4809-a604-b7d8abec38cb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6689876,139.7019276,3a,90y,1h,96.04t/data=!3m7!1e1!3m5!1sahvJu-8BLSTmDbtYBlciEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.0426405267050995%26panoid%3DahvJu-8BLSTmDbtYBlciEA%26yaw%3D0.996046771340831!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC6wM-tiNGGAR-fndQvGyxFY",
+      "name": "VANS STORE HARAJUKU",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.667736399999995,
+        "lng": 139.7050741
+      },
+      "image": "https://cdn.animepilgrimage.com/places/be03b524-3bc8-4a47-9ada-2dd5fd3d4fe0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/be03b524-3bc8-4a47-9ada-2dd5fd3d4fe0.webp"
+        },
+        {
+          "url": "media/cached-image_26c448c0d75ddae202b795dfc6c8709b650a43783da93f88899fb34ead58a9d7.jpg"
+        }
+      ],
+      "type": "Shoe store",
+      "categories": [
+        "Shoe store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "VANS STORE HARAJUKU, 6 Chome-10-13 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6678518,139.7049671,3a,75y,156.08h,92.28t/data=!3m7!1e1!3m5!1scjZQ9CLngKA2KIJ7Dc6NDA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.283067861359413%26panoid%3DcjZQ9CLngKA2KIJ7Dc6NDA%26yaw%3D156.07904818741085!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOS60DpqMGGARWFIchIVAF1o",
+      "name": "Meiji Jingu Baseball Stadium",
+      "localName": "明治神宮野球場",
+      "coordinates": {
+        "lat": 35.6744316,
+        "lng": 139.7170391
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a7499e1-1d9f-4122-8611-983f75085cdf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a7499e1-1d9f-4122-8611-983f75085cdf.webp"
+        },
+        {
+          "url": "media/cached-image_0411437aeea7481d9a9427f37e4db79e3fce44dc818bd45534da5a0e3eb5cbaf.jpg"
+        },
+        {
+          "url": "media/cached-image_8da7090afead4e78f0ff5dbf7b7c35eee04770c1e527343fe601cf4ea19f6862.jpg"
+        },
+        {
+          "url": "media/cached-image_d0eff23e36c26b6803b9b01b78d6c47bb4f5acd6b588eec75efb3575badb6686.jpg"
+        },
+        {
+          "url": "media/cached-image_da8cdd4fa0d4734de2e09e9514121ce6dc6e9d2e56e4d481fad00f4b90b088b0.jpg"
+        },
+        {
+          "url": "media/cached-image_3037e6621524e07a7a82a0c574ffe6220ad0228fd0dcac77cd8cc9973b97f136.jpg"
+        }
+      ],
+      "type": "Baseball field",
+      "categories": [
+        "Baseball field"
+      ],
+      "rating": 4.3,
+      "reviewCount": 11,
+      "priceLevel": null,
+      "address": "Meiji Jingu Baseball Stadium, 3-1 Kasumigaokamachi, Shinjuku City, Tokyo 160-0013, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6735279,139.7162353,3a,90y,252.9h,98.64t/data=!3m7!1e1!3m5!1sz8zeTpHG61I_ga_9cxfdFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.636448254747009%26panoid%3Dz8zeTpHG61I_ga_9cxfdFw%26yaw%3D252.9019508318897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Jingu Baseball Stadium is seen in episode 10 as part of the Gaien area scenery near where Liella! have an important conversation about the school idol contest and their preparations for the climax."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCx6jgqGMGGARpfB5UIap15k",
+      "name": "Omotesando Illumination",
+      "localName": "表参道ヒルズ",
+      "coordinates": {
+        "lat": 35.6672869,
+        "lng": 139.7086162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67ca03c4-0499-4780-94a8-88f0363264ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67ca03c4-0499-4780-94a8-88f0363264ee.webp"
+        },
+        {
+          "url": "media/cached-image_66b21b3bf9101a2bbd1393990ee2ccb81a59110892a3e137dc436ebec409c315.jpg"
+        },
+        {
+          "url": "media/cached-image_eab58d3d26023452526e0daeb2d119ebdf09a01de2890abd33a471f3c4413c8e.jpg"
+        },
+        {
+          "url": "media/cached-image_dce13b882f9b008924e1ea3d3fdb2de616973c58a99670e562396af7312361e5.jpg"
+        },
+        {
+          "url": "media/cached-image_35dfd451148fd4c0989d5916625454632cd2d17306279dbe631d1f4f16df59f6.jpg"
+        },
+        {
+          "url": "media/cached-image_7d9008f998b7f9e3e602685de745c963fd09177582a4e60712cdf6742d768bbd.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.4,
+      "reviewCount": 681,
+      "priceLevel": null,
+      "address": "Omotesando Hills, 4 Chome-12-10 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6672895,139.7080984,3a,90y,190.14h,99.87t/data=!3m7!1e1!3m5!1sxvBlNk_q9VeMtng2CQB37Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.865200005853481%26panoid%3DxvBlNk_q9VeMtng2CQB37Q%26yaw%3D190.14279576786217!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Omotesando Hills appears in episode 1 as Kanon walks through the glittering Omotesando area, its distinctive spiraling atrium building visible in the background and cementing the upscale neighborhood atmosphere of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy5uWebWMGGARjFzwBx_rn-U",
+      "name": "Yoyogi Event Plaza",
+      "localName": "代々木公園 イベント広場",
+      "coordinates": {
+        "lat": 35.667523,
+        "lng": 139.6972161
+      },
+      "image": "https://cdn.animepilgrimage.com/places/878f4ddc-c34f-4294-80ef-c8b276e1db81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/878f4ddc-c34f-4294-80ef-c8b276e1db81.webp"
+        },
+        {
+          "url": "media/cached-image_878402655ccff4a21b61cfdb23b589c66e3f8f8a0eba22eaa4af372491bd78c0.jpg"
+        },
+        {
+          "url": "media/cached-image_9d845d98f78ef5ddde233e99c5a46438c4833aed3172dd1e5b93149ad5d435be.jpg"
+        },
+        {
+          "url": "media/cached-image_25ef964da881e84a53d1b6655ba4ed1a997110795b35c5cadbc1509d5cc5feac.jpg"
+        },
+        {
+          "url": "media/cached-image_76334a7811a998a816b6a18748c8e4600128ed9fcc14f519d9d10310c61e2a1f.jpg"
+        },
+        {
+          "url": "media/cached-image_fbfb968164416bb3cf5be3db030e6bc840d4d19feed9f1b56c60ca393f96d967.jpg"
+        },
+        {
+          "url": "media/cached-image_6d4f03867a49d78c4d9647be6bd7ac5a4d1876bac2c06802394f8b7beefdde3b.jpg"
+        }
+      ],
+      "type": "イベント会場",
+      "categories": [
+        "イベント会場"
+      ],
+      "rating": 4.1,
+      "reviewCount": 78,
+      "priceLevel": null,
+      "address": "2 Chome-3 Jinnan, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.667523,139.6972161,2a,75y,330.44h,99.91t/data=!3m6!1e1!3m4!1s8c3aGqrSb0ZtePidE10xgg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Yoyogi Park event plaza is depicted in episode 3 as the site of an outdoor school idol event Liella! attend, showing the girls experiencing a live performance that inspires them to push harder toward their own debut."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKSgs1NGLGGAR-VKyI3yWIxE",
+      "name": "Takeshiba Ship Terminal",
+      "localName": "竹芝客船ターミナル",
+      "coordinates": {
+        "lat": 35.6547506,
+        "lng": 139.7629329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e63a76f2-b26e-4b78-8851-b07e76e38cfa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e63a76f2-b26e-4b78-8851-b07e76e38cfa.webp"
+        },
+        {
+          "url": "media/cached-image_0c8155583bd40f4a254727da08baf153b50b8df4c4b121844b6f2c5128cca49b.jpg"
+        }
+      ],
+      "type": "フェリー サービス",
+      "categories": [
+        "フェリー サービス"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-16-1 Kaigan, Minato City, Tokyo 105-0022, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6547506,139.7629329,3a,75y,182.13h,98.99t/data=!3m6!1e1!3m4!1s7cvPFpLAXo7S1jTqBjG8hA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Liella! depart from Takeshiba Ship Terminal in episode 5 for their island trip, the ferry dock serving as the real-world departure point fans can visit before boarding the same overnight boat the girls took to Kozushima.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGSiEg1KNGGARR2kuDbcgV48",
+      "name": "outdoor stage",
+      "localName": "野外ステージ",
+      "coordinates": {
+        "lat": 35.9966124,
+        "lng": 139.0552462
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76b96ccb-c755-4546-a86b-f451094b17e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76b96ccb-c755-4546-a86b-f451094b17e0.webp"
+        },
+        {
+          "url": "media/cached-image_5058ccc5d1109efa83354fe9433f116573e40d5796e8fe674a37ca236774e494.jpg"
+        }
+      ],
+      "type": "ライブ会場",
+      "categories": [
+        "ライブ会場"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-2 Jinnan, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9966124,139.0552462,3a,75y,70.22h,92.35t/data=!3m8!1e1!3m6!1sAF1QipPn0RQya1jEPTVoT91FBwset1Ha9aQtKCXkTK4P!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPn0RQya1jEPTVoT91FBwset1Ha9aQtKCXkTK4P%3Dw203-h100-k-no-pi0-ya28.48367-ro-0-fo100!7i7680!8i3840?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    }
+  ]
+}

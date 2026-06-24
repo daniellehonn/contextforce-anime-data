@@ -1,0 +1,188 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+  "slug": "kaguya-sama-love-is-war-stairway-to-adulthood",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_bf103efe3be4d430e0f37df6326b63a4dcffce0fbfbcdea2a7d6d91540eae93a.webp",
+  "image": "media/cached-image_bf103efe3be4d430e0f37df6326b63a4dcffce0fbfbcdea2a7d6d91540eae93a.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.4806999,
+    "lng": 138.678988725
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Kaguya-sama: Love Is War -Stairway to Adulthood-"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJiRoa3q2LGGARYRgEX-xV7p8",
+      "name": "Kamezuka Park",
+      "localName": "亀塚公園",
+      "coordinates": {
+        "lat": 35.6434594,
+        "lng": 139.7404157
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ad066b32-7b4d-4515-bfa2-ac9f79e029e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ad066b32-7b4d-4515-bfa2-ac9f79e029e1.webp"
+        },
+        {
+          "url": "media/cached-image_131163e7b1e26c78617ea7d2d0341cc262f10898777bff18024817951041c2f5.jpg"
+        },
+        {
+          "url": "media/cached-image_fa2883c914bfbffb9d5ae78d02c321096068192f0670aa8d4522f9a108bcab07.jpg"
+        },
+        {
+          "url": "media/cached-image_bc2952ffe761aedcd988abc5b61e2cc55e495db8cabea70b3bb0242e6d9f9a2f.jpg"
+        },
+        {
+          "url": "media/cached-image_7714c130c3f515e3e1bd3f73ae95d6ae7737d9016f7e05c20ff24975b1ac2fdf.jpg"
+        },
+        {
+          "url": "media/cached-image_906cfe4889fbaeb561793a017c911530016e385afe750a5533e9ba6b36290c45.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.7,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "4 Chome-17-20 Mita, Minato City, Tokyo 108-0073, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6434594,139.7404157,3a,73.8y,285.21h,97.9t/data=!3m7!1e1!3m5!1swEjgWcSKJldLNiySThD0NQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DwEjgWcSKJldLNiySThD0NQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D348.51553%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kamezuka Park appears in Episode 2 as a neighborhood backdrop during a scene where the student council members navigate the Mita district. The familiar park setting grounds the characters in everyday Tokyo life outside the elite Shuchiin Academy bubble."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH5i4_037GGAR_09aVqEcLkI",
+      "name": "Hijirizaka",
+      "localName": "ひじり坂",
+      "coordinates": {
+        "lat": 35.6370213,
+        "lng": 139.4556436
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d4ae9a2-c571-4891-8647-a093645d7194.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d4ae9a2-c571-4891-8647-a093645d7194.webp"
+        },
+        {
+          "url": "media/cached-image_1391dd7984048af24d7e3cc5be10c1e8762f213343994d0d19b57423f0523218.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hijirizaka, Tama, Tokyo, Japan",
+      "city": "Tama",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/iS6G25C4feXSiSrY8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Hijirizaka, a sloped residential road in Tama, is featured in Episode 2 and connects to the film's central motif of staircases and slopes as metaphors for the characters' growth and the steps toward adulthood. Fans visit this quiet hill to recreate the atmospheric walking scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrxvSda6LGGARUGacP9v5zOc",
+      "name": "Kamezuka Park Police Box",
+      "localName": "三田警察署 亀塚公園前交番",
+      "coordinates": {
+        "lat": 35.6437609,
+        "lng": 139.7406598
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fe57b104-c578-4c67-9397-2fcb7f680b4f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fe57b104-c578-4c67-9397-2fcb7f680b4f.webp"
+        },
+        {
+          "url": "media/cached-image_18f2293ed55c469c7982c8fe4f64ffbb8d5b7908a56778e0e456468e2776666d.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kamezuka Park Police Box, 4 Chome-16-21 Mita, Minato City, Tokyo 108-0073, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1CSBABRx9LBjGAmL7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The small police box outside Kamezuka Park appears in Episode 2 as a street-level landmark during the Mita district sequence, lending a realistic Tokyo neighborhood feel to the scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIcT4YMUIAWARSTUi4EEky7E",
+      "name": "Hokan-ji Temple",
+      "localName": "法観寺",
+      "coordinates": {
+        "lat": 34.998557999999996,
+        "lng": 135.77923579999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a3be430e-2212-4e84-8439-052390ab761e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a3be430e-2212-4e84-8439-052390ab761e.webp"
+        },
+        {
+          "url": "media/cached-image_b2f2961228f9325c65e7163a3985513a6963548eec61139b6426085a986ed049.jpg"
+        },
+        {
+          "url": "media/cached-image_779faef14a6fa438105748c57c5dcb92343883649a59f33ed75cfc35ee1acc12.jpg"
+        },
+        {
+          "url": "media/cached-image_0e37ec667c018f6ef91198eb28a5277701eaeec0eef0eff7c02152f7d3fea526.jpg"
+        },
+        {
+          "url": "media/cached-image_684840b5a67368ad982a143a9d8e8aa10da27f14d3e213fd68a4a8b6565957c8.jpg"
+        },
+        {
+          "url": "media/cached-image_f9045c9901553124820cfca5bb3ed5104e2db41cade8898ffd85bee8e53a006a.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 5826,
+      "priceLevel": null,
+      "address": "Hōkan-ji Temple (Yasaka Pagoda), 388 清水八坂上町 Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HNGxp3nwUHmn6qeP8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Yasaka Pagoda at Hokan-ji Temple serves as a backdrop during the Kyoto school trip scenes in Episode 1, where Shirogane and Kaguya navigate the historic Higashiyama streets. The iconic five-story pagoda frames one of the film's most visually striking romantic moments as the two leads walk through the lantern-lit Kyoto night.",
+      "fanTopPick": true
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Girls & Panzer",
+  "slug": "girls-panzer",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_325e478cdcf325aa51c0bec3b0ce08051c21a178af19c5c619e39ac36722516e.webp",
+  "image": "media/cached-image_325e478cdcf325aa51c0bec3b0ce08051c21a178af19c5c619e39ac36722516e.webp",
+  "banner": null,
+  "primaryLocation": "Higashiibaraki District, Ibaraki, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.3070885090909,
+    "lng": 140.4508997272727
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Girls & Panzer"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_0",
+      "name": "Umimachi Terrace",
+      "localName": "うみまちテラス（観光案内所）",
+      "coordinates": {
+        "lat": 36.31455,
+        "lng": 140.56295
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca175b9d-ee58-41e8-afef-4b4e24dc9464.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca175b9d-ee58-41e8-afef-4b4e24dc9464.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3146294,140.5631019,3a,75y,258.89h,93.52t/data=!3m7!1e1!3m5!1sBAx4zYedKBY4VFm1ymlAZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5162768534351443%26panoid%3DBAx4zYedKBY4VFm1ymlAZA%26yaw%3D258.8876965621672!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This seaside tourist information center appears in Episode 12 as the Oarai team celebrates their victory in the Nationals, with the town's warm community support on full display during the finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_1",
+      "name": "Tonkatsu Restaurant Cook Fan",
+      "localName": "とんかつレストラン クックファン",
+      "coordinates": {
+        "lat": 36.3362,
+        "lng": 140.48487
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3ee7ff2-83a4-47e0-9166-91a1f68f61b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3ee7ff2-83a4-47e0-9166-91a1f68f61b0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3364893,140.4850585,3a,75y,208.67h,98.04t/data=!3m7!1e1!3m5!1sd2k89xj70ttUOouRN3UDzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.036455106018849%26panoid%3Dd2k89xj70ttUOouRN3UDzQ%26yaw%3D208.66649979817964!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Cook Fan appears in Episode 10 as a local eatery in Oarai where the girls enjoy a meal, reflecting the series' recurring theme of the town's residents embracing the Sensha-do team."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsX9ZfvwxImAR4JTmt9eJXPs",
+      "name": "Cawachi Drugstore Oarai",
+      "localName": "カワチ薬品 大洗店",
+      "coordinates": {
+        "lat": 36.3097934,
+        "lng": 140.5695711
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ecc6ec12-f8ef-4c91-896f-9902bb5efebc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ecc6ec12-f8ef-4c91-896f-9902bb5efebc.webp"
+        },
+        {
+          "url": "media/cached-image_bca50981df26afc21cb70ca5fe095ad9de2e989695c52a5836b38857d5fde672.jpg"
+        },
+        {
+          "url": "media/cached-image_2c5954b133682327c8121e19c0f32354caf57258d4264972491fd9608a3b9542.jpg"
+        },
+        {
+          "url": "media/cached-image_c7ee693e3bc89219d7f4d4ca3c06ed09c1aee9ed51c9034ac29b2b642dc2bd54.jpg"
+        },
+        {
+          "url": "media/cached-image_285566ea75f6c0b31a47be6db58e3511ea0123dbe536bc4921efaae966a18b00.jpg"
+        },
+        {
+          "url": "media/cached-image_bd34b4b9fe5bca827c4894f4ca5810b3066bc7b8541b3c078bb86e796fb0d89a.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Cawachi Drugstore Oarai, 11-2 Minatochuo, Oarai, Higashiibaraki District, Ibaraki 311-1305, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.310405,140.5699282,3a,49.6y,207.27h,94.27t/data=!3m7!1e1!3m5!1sXUOkcaeN7LvDQPaX_YbgOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.272799481569663%26panoid%3DXUOkcaeN7LvDQPaX_YbgOw%26yaw%3D207.27018018727242!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This drugstore along the Oarai shopping street appears in Episode 4 during the intense urban tank battle, when Miho leads her team through the town streets against Pravda and other schools."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJbyeAmMxImARC4gcmlaOYFY",
+      "name": "Aqua World Ibaraki Oarai Aquarium",
+      "localName": "アクアワールド茨城県大洗水族館",
+      "coordinates": {
+        "lat": 36.333576199999996,
+        "lng": 140.5940178
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cbbcf84d-fe15-47f6-8319-469f9aa87f84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cbbcf84d-fe15-47f6-8319-469f9aa87f84.webp"
+        },
+        {
+          "url": "media/cached-image_b24721e671f422e42da9504fa7b2141fbae5f7336edd62df18d2edaba845b1dd.jpg"
+        },
+        {
+          "url": "media/cached-image_621f1fe56ecacd34e2db6a33551de6acbae3ed33d9927e5bb366a031557137e2.jpg"
+        },
+        {
+          "url": "media/cached-image_c66e10dd8fa935cbcf03e64e28c61a049a0bae8c736451269c090089080efcd6.jpg"
+        },
+        {
+          "url": "media/cached-image_54de2611e0b6c27f01b53ad63374498460e6cc38ecf6a6a6a6d2c89dc8028606.jpg"
+        },
+        {
+          "url": "media/cached-image_6b141a225aa60480138007af273ed67b7442b3982c56edd2f4686d4bae20c37b.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.3,
+      "reviewCount": 51,
+      "priceLevel": null,
+      "address": "Aqua World Ibaraki Oarai Aquarium, 8252-3 Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3327072,140.5935053,3a,90y,23.45h,99.13t/data=!3m8!1e1!3m6!1sAF1QipPHRkJtjm-WzBa4IJ-Pmx-Mm2PL9bhMTPnApdx2!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPHRkJtjm-WzBa4IJ-Pmx-Mm2PL9bhMTPnApdx2%3Dw900-h600-k-no-pi-9.125221680876678-ya356.45439428360453-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The aquarium appears in Episode 10 as a backdrop during a lighter slice-of-life moment, with the Oarai Girls High School team enjoying the coastal town before their championship matches."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJparJIjwxImARdzK-EkzJIkA",
+      "name": "Brillant at Ooarai",
+      "localName": "ブリアン 大洗店",
+      "coordinates": {
+        "lat": 36.3136522,
+        "lng": 140.56988189999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1d4fb54-5e6b-4782-a19c-d986c4d69732.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1d4fb54-5e6b-4782-a19c-d986c4d69732.webp"
+        },
+        {
+          "url": "media/cached-image_5eaddcc0f9a1074c51d056f92f8bd40f2b762f690ec2343623cc14312bbe294c.jpg"
+        }
+      ],
+      "type": "Bakery",
+      "categories": [
+        "Bakery"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Brillant at Ooarai, 953-4 Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3136699,140.569605,3a,75y,92.94h,96.61t/data=!3m7!1e1!3m5!1syney5_nNvJFBifRwW6lSwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.613749667381242%26panoid%3Dyney5_nNvJFBifRwW6lSwA%26yaw%3D92.9411421389051!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This local bakery along the Oarai shopping street is depicted in Episode 4 during the famous tank chase through town, one of many real storefronts faithfully recreated in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_5",
+      "name": "Care Oaraiten . Hair Salon",
+      "localName": "美容室ケア大洗店.",
+      "coordinates": {
+        "lat": 36.31416,
+        "lng": 140.56324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a807bdf8-1f9e-414f-9d6b-2da2212bf3a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a807bdf8-1f9e-414f-9d6b-2da2212bf3a9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3141126,140.5632262,3a,90y,333.08h,108.36t/data=!3m7!1e1!3m5!1s3ukq_QjTOsNS8G7b5zKTmg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.36274975865919%26panoid%3D3ukq_QjTOsNS8G7b5zKTmg%26yaw%3D333.0840216595714!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This hair salon on the Oarai shopping street appears in Episode 12 during the victory celebration sequence, part of the town-wide backdrop that makes Oarai so recognizable to pilgrimage fans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_6",
+      "name": "Airisu",
+      "localName": "あいりす",
+      "coordinates": {
+        "lat": 36.31236,
+        "lng": 140.5623
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04b2c338-522a-4408-b6bd-96b1297c85ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04b2c338-522a-4408-b6bd-96b1297c85ca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3122125,140.5626276,3a,47.9y,305.12h,94.37t/data=!3m7!1e1!3m5!1sLJES0ig0vU3EGfZiVoljxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.373691134045032%26panoid%3DLJES0ig0vU3EGfZiVoljxQ%26yaw%3D305.1204314840205!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This small Oarai shop appears in Episode 12 as part of the town's victory parade backdrop, one of many local businesses faithfully reproduced in the finale's celebration scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi6m0YxgxImARGwi-XJ4zoqw",
+      "name": "Oarai Station",
+      "localName": "大洗駅",
+      "coordinates": {
+        "lat": 36.3150501,
+        "lng": 140.5629424
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5100aa2f-4403-4048-8f42-e048ca508bd4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5100aa2f-4403-4048-8f42-e048ca508bd4.webp"
+        },
+        {
+          "url": "media/cached-image_b58e25b8d61e0fd831406a900404bcf5f1b80bef7aa1c677d5fff456a961902f.jpg"
+        },
+        {
+          "url": "media/cached-image_287441a0162cfdbfb9a0ddefa530e6c90c3e3135a51265ad74cf56fcfb3423d0.jpg"
+        },
+        {
+          "url": "media/cached-image_1edebd9a3942012076459658eadd9efee25e0763af667ebc4de9671cb5d9250e.jpg"
+        },
+        {
+          "url": "media/cached-image_6353c76a190c8f1b1439f2642af0e25ad9906c42284c4675c7837ec1403ec587.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 44,
+      "priceLevel": null,
+      "address": "Ōarai Station, Sakuramichi, Oarai, Higashiibaraki District, Ibaraki 311-1307, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.315268,140.5633698,3a,75y,253.37h,93.43t/data=!3m7!1e1!3m5!1sSKXAQcalCzp6NwBP9IRLow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.431103993924907%26panoid%3DSKXAQcalCzp6NwBP9IRLow%26yaw%3D253.36551600151844!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Oarai Station is depicted in Episode 7 as Miho and her teammates pass through during a pivotal outing, and the station's real Ibaraki Kotsu signage is faithfully recreated down to its distinctive blue facade.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_8",
+      "name": "OARAI Seaside Station",
+      "localName": "大洗シーサイドステーション",
+      "coordinates": {
+        "lat": 36.30833,
+        "lng": 140.56812
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89f06817-56c9-4eb6-94b2-b8bbdf5100f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89f06817-56c9-4eb6-94b2-b8bbdf5100f1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.308318,140.5682089,3a,90y,314.4h,92.34t/data=!3m8!1e1!3m6!1sAF1QipN-S7Y5lzsn7s3cCguUwcEFCkG09EQshmi9Ayji!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipN-S7Y5lzsn7s3cCguUwcEFCkG09EQshmi9Ayji%3Dw900-h600-k-no-pi-2.3437674978998757-ya301.39802928577495-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The seaside shopping complex appears in Episode 4 during the dramatic tank battle through Oarai, where the coastal setting reinforces the town's identity as home base for the Oarai Girls High School team."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_9",
+      "name": "Takahiko Fuel Shop",
+      "localName": "高彦燃料店",
+      "coordinates": {
+        "lat": 36.31359,
+        "lng": 140.57162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8dcf9a7d-4a01-4f56-8c99-eb5ae2c6f360.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8dcf9a7d-4a01-4f56-8c99-eb5ae2c6f360.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3135793,140.5716002,3a,90y,357.06h,94.63t/data=!3m7!1e1!3m5!1sgDAFLjBau3BaJLBw05P_1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.629734243457065%26panoid%3DgDAFLjBau3BaJLBw05P_1A%26yaw%3D357.0578653543422!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This fuel shop on the Oarai shopping street is one of the many real storefronts depicted in Episode 4 during the town tank battle, where Miho steers her Pz.IV through the narrow commercial streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_10",
+      "name": "Chushin",
+      "localName": "海鮮ちゅう心",
+      "coordinates": {
+        "lat": 36.31418,
+        "lng": 140.57094
+      },
+      "image": "https://cdn.animepilgrimage.com/places/353085e7-5c65-4824-ba63-02659b33ce56.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/353085e7-5c65-4824-ba63-02659b33ce56.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.314206,140.5709308,3a,90y,168.64h,98.42t/data=!3m7!1e1!3m5!1sCaq1zMpc98jbVN0-RVb0eA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.424211344135557%26panoid%3DCaq1zMpc98jbVN0-RVb0eA%26yaw%3D168.6389117630572!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This seafood restaurant on the Oarai shopping street appears in Episode 4 as part of the town-wide tank chase backdrop, faithfully modeled on the real Isohamachi commercial district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_11",
+      "name": "Meat Shop Kojima",
+      "localName": "ミートショップコジマ",
+      "coordinates": {
+        "lat": 36.31433,
+        "lng": 140.57122
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d34d433d-0f15-48c0-bb14-3a0c57324d59.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d34d433d-0f15-48c0-bb14-3a0c57324d59.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3143365,140.5712464,3a,90y,304.16h,97.73t/data=!3m7!1e1!3m5!1sMJfaW816uNGbH6-1nO4z_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.730374187144179%26panoid%3DMJfaW816uNGbH6-1nO4z_Q%26yaw%3D304.16095374860413!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The meat shop on the Oarai shopping street appears in Episode 4 during the iconic urban tank battle, one of many local businesses the animators painstakingly recreated from the real Oarai streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmcK2Pj8xImARAbLIS50UXl4",
+      "name": "Sakanaya Honten",
+      "localName": "旅館 肴屋本店",
+      "coordinates": {
+        "lat": 36.3149772,
+        "lng": 140.5741103
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6f3bd8bb-6034-46b1-8b69-904b51a89a6e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6f3bd8bb-6034-46b1-8b69-904b51a89a6e.webp"
+        },
+        {
+          "url": "media/cached-image_082bf40e11a89982b8ef2d042e5d706d8f71120ba97bc522995d8bea24960c2a.jpg"
+        },
+        {
+          "url": "media/cached-image_485aba27ecc27af89aff83ed3b8e07b0eb8e4f6b9d3b02213a08a0e4a66402e5.jpg"
+        },
+        {
+          "url": "media/cached-image_193318714bcd4efed87bc1c16173630efe64eb24f3eaac24f8cec2138f189526.jpg"
+        },
+        {
+          "url": "media/cached-image_966d55c822fdb116daec2a08a15a4fb2c1aba1fd614cb3996f2e49c60198dade.jpg"
+        },
+        {
+          "url": "media/cached-image_21a71f87eb2764b5d5dbb0b9c3ba402b4c3dc487c07f61f8f8944659f5b854f1.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sakanaya Honten, 715 Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3150164,140.5737674,3a,75y,89.78h,94.64t/data=!3m7!1e1!3m5!1sP7kcSBwiGj83rLFtfPEpXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.640863357593446%26panoid%3DP7kcSBwiGj83rLFtfPEpXw%26yaw%3D89.78431319615389!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This traditional ryokan in Oarai appears in Episode 4 as part of the historic Isohamachi streetscape, and the inn is a well-known lodging spot for Girls & Panzer pilgrims visiting the town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_13",
+      "name": "Suketora Store",
+      "localName": "（有）助虎商店",
+      "coordinates": {
+        "lat": 36.31521,
+        "lng": 140.57256
+      },
+      "image": "https://cdn.animepilgrimage.com/places/681c8410-4bff-4131-8ffb-624cde04d0e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/681c8410-4bff-4131-8ffb-624cde04d0e4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3152072,140.5725573,3a,90y,55.37h,94.81t/data=!3m7!1e1!3m5!1sOybeIztdpRDNFVtjUUCYhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.814004225971615%26panoid%3DOybeIztdpRDNFVtjUUCYhg%26yaw%3D55.368996738524125!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Suketora Store on the Oarai shopping street is depicted in Episode 4 during the tank battle sequence, part of the densely detailed commercial district that fans recognize instantly from the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9-VemxkEHWARdGjxaKjCRR0",
+      "name": "Daishin",
+      "localName": "ダイシン",
+      "coordinates": {
+        "lat": 36.1273534,
+        "lng": 137.9932758
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef766b8e-7f12-43d6-baec-d9003a9c1cdc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef766b8e-7f12-43d6-baec-d9003a9c1cdc.webp"
+        }
+      ],
+      "type": "Manufacturer",
+      "categories": [
+        "Manufacturer"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒399-0711 Nagano, Shiojiri, Kataoka, Daishin, 今泉9828−15",
+      "city": "Shiojiri",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3147191,140.5721971,3a,90y,198.18h,96.66t/data=!3m7!1e1!3m5!1sOFWmr69KoyzuzJWEa5gFlA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.662217281727877%26panoid%3DOFWmr69KoyzuzJWEa5gFlA%26yaw%3D198.17906694204302!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_15",
+      "name": "wisteria trellis",
+      "localName": "藤棚",
+      "coordinates": {
+        "lat": 36.3122,
+        "lng": 140.56754
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4798837b-bcde-463a-8d69-d693272c655b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4798837b-bcde-463a-8d69-d693272c655b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3122191,140.5674989,3a,90y,113.61h,94.92t/data=!3m7!1e1!3m5!1sufm4rImsNpqhUk9bsNWbrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.922668587964438%26panoid%3Dufm4rImsNpqhUk9bsNWbrA%26yaw%3D113.60947754192594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This wisteria trellis near the Oarai shopping district appears in Episode 4 as a recognizable landmark during the tank parade through town, a distinctive seasonal detail faithfully reproduced from the real location."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_girls-panzer_16",
+      "name": "YENYA DOTTOMARU",
+      "localName": "えんやどっと丸",
+      "coordinates": {
+        "lat": 36.30845,
+        "lng": 140.56723
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c4598cb-34e5-4a6c-9821-af8819e40c89.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c4598cb-34e5-4a6c-9821-af8819e40c89.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3082776,140.5671082,3a,73.5y,57.61h,97.51t/data=!3m7!1e1!3m5!1sd59HR_KRY7ZXARpucr2FTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.511626175132676%26panoid%3Dd59HR_KRY7ZXARpucr2FTA%26yaw%3D57.607667941687055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This restaurant near the Oarai Seaside Station area appears in Episode 4 during the tank battle sequence, part of the coastal commercial area where the Oarai team navigates their tanks through familiar streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK2JykmExImARA0s1NRXDI8U",
+      "name": "Seimiya Oarai Store",
+      "localName": "セイミヤ 大洗店",
+      "coordinates": {
+        "lat": 36.309926499999996,
+        "lng": 140.56972
+      },
+      "image": "https://cdn.animepilgrimage.com/places/01de3167-c97c-42ae-beec-e709d324cc34.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/01de3167-c97c-42ae-beec-e709d324cc34.webp"
+        },
+        {
+          "url": "media/cached-image_e663d40893ac36c82e513a2d084cfd9c7a139d1d13d3028e472fcc70000276cf.jpg"
+        }
+      ],
+      "type": "Supermarket",
+      "categories": [
+        "Supermarket"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seimiya Oarai Store, 11-3 Minatochuo, Oarai, Higashiibaraki District, Ibaraki 311-1305, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3099495,140.5689351,3a,72.8y,86.16h,93.99t/data=!3m7!1e1!3m5!1sSYfB3UYreD6acuArUNHwDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9906219727204473%26panoid%3DSYfB3UYreD6acuArUNHwDw%26yaw%3D86.16034524512143!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This supermarket near the Oarai port area is depicted in Episode 4 during the tank battle through town, one of many real Oarai businesses that the production team documented for the series' acclaimed location accuracy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_4GYfzkxImARZupieqpd_-E",
+      "name": "Oarai Marine Tower",
+      "localName": "大洗マリンタワー",
+      "coordinates": {
+        "lat": 36.3104997,
+        "lng": 140.5706698
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87b1a357-a1e8-4fca-9637-cac52c6cfe3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87b1a357-a1e8-4fca-9637-cac52c6cfe3b.webp"
+        },
+        {
+          "url": "media/cached-image_ad87cfc9c4af91579b7b3e3e1577d5991eab00e632dd4e046e25ec4397802441.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Oarai Marine Tower, Tower, １０番地 Minatochuo, Oarai, Higashiibaraki District, Ibaraki 311-1305, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3110033,140.5700063,3a,90y,143.66h,95.78t/data=!3m7!1e1!3m5!1slR7XmVS6-0bZvBGv7Omn4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.776123507158218%26panoid%3DlR7XmVS6-0bZvBGv7Omn4Q%26yaw%3D143.65933215867113!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Marine Tower is one of the most recognizable Oarai landmarks in the series, appearing in Episode 4 as a backdrop during the urban tank battle and serving as a visual anchor for the town's seaside identity.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsUBa5WMxImARe0DWvlMsFw8",
+      "name": "Oarai Hotel",
+      "localName": "大洗パークホテル",
+      "coordinates": {
+        "lat": 36.330745799999995,
+        "lng": 140.59204839999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5407f191-2d77-46e2-a896-881e5a15dfc9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5407f191-2d77-46e2-a896-881e5a15dfc9.webp"
+        },
+        {
+          "url": "media/cached-image_966d55c822fdb116daec2a08a15a4fb2c1aba1fd614cb3996f2e49c60198dade.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ooarai Park Hotel, 8249-10 Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3132904,140.5860828,3a,75y,164.08h,94.8t/data=!3m7!1e1!3m5!1sDvm8fMnA3Z9-ZvJb3tPBJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.795742657291342%26panoid%3DDvm8fMnA3Z9-ZvJb3tPBJg%26yaw%3D164.0847234809008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Oarai Park Hotel appears in Episode 4 as part of the coastal backdrop, located near the aquarium in an area the team passes through, and it is a popular stay for pilgrimage visitors to the town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJma3tHVAxImARvxHpWO7TeO0",
+      "name": "First Torii Gate of Oarai Isosaki Shrine",
+      "localName": "大洗磯前神社 一の鳥居",
+      "coordinates": {
+        "lat": 36.3134142,
+        "lng": 140.58608759999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8b4cb1ef-9477-4f69-bdbb-217b4b2f8de6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8b4cb1ef-9477-4f69-bdbb-217b4b2f8de6.webp"
+        },
+        {
+          "url": "media/cached-image_22fd5be37016285c58c21f982235457a8e52b74c2ad58c581025ed0a16f5cdad.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 80,
+      "priceLevel": null,
+      "address": "First Torii Gate of Oarai Isosaki Shrine, Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3138837,140.5865059,3a,75y,39.31h,98.53t/data=!3m7!1e1!3m5!1sxTYgfvga0YPVHC6crYD9FQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.526274440414937%26panoid%3DxTYgfvga0YPVHC6crYD9FQ%26yaw%3D39.31262882883792!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The seaside torii gate of Oarai Isosaki Shrine is one of the most iconic images in the entire series, appearing in Episode 4 and used repeatedly in promotional art as a symbol of Oarai and the team's home.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPeVVniwxImARRQbDLT2bV3s",
+      "name": "Oarai Kyu Beru Club",
+      "localName": "大洗町",
+      "coordinates": {
+        "lat": 36.3133985,
+        "lng": 140.5748789
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ffdba17-be4a-447a-a34b-f7d6c9cef626.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ffdba17-be4a-447a-a34b-f7d6c9cef626.webp"
+        },
+        {
+          "url": "media/cached-image_6b34a456d6b9d50db2ba9fe778f4f40ba43de069dd9cb6720892db7cebd42724.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Oarai, Higashiibaraki District, Ibaraki, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3151136,140.5726304,3a,75y,133.51h,92.22t/data=!3m7!1e1!3m5!1sWFmca0tJ0drEWWBaKQFLMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.2151947706855992%26panoid%3DWFmca0tJ0drEWWBaKQFLMQ%26yaw%3D133.51135879752624!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This location in Oarai town appears in Episode 4 as part of the urban tank battle sequence through the central shopping district, one of the many real-world settings that fans seek out during Oarai pilgrimages."
+    }
+  ]
+}

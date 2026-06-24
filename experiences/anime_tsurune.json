@@ -1,0 +1,837 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tsurune: Kazemai Koukou Kyuudoubu",
+  "slug": "tsurune",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_218290c1514fcb21d2ed0accfb11a94cf1da0a8867e6d687a223c623a49879a2.webp",
+  "image": "media/cached-image_218290c1514fcb21d2ed0accfb11a94cf1da0a8867e6d687a223c623a49879a2.webp",
+  "banner": null,
+  "primaryLocation": "Nagano, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.47266284090909,
+    "lng": 138.12460799545454
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tsurune: Kazemai Koukou Kyuudoubu"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_0",
+      "name": "Nakajima Archery Shop",
+      "localName": "中島弓具店",
+      "coordinates": {
+        "lat": 36.64138,
+        "lng": 138.1836
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc6904f7-894a-46e0-9acb-524674ef4039.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc6904f7-894a-46e0-9acb-524674ef4039.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6412305,138.1836966,3a,75y,322.47h,100.13t/data=!3m7!1e1!3m5!1szPIMAy66fsSLQY52jnZlpA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.126864638682477%26panoid%3DzPIMAy66fsSLQY52jnZlpA%26yaw%3D322.4737737374568!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Minato visits this archery equipment shop in episode 3 while searching for the right bow setup, a quiet scene that underscores how seriously he is returning to kyudo after his mental block."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_1",
+      "name": "Ichirin Law Offices",
+      "localName": "いちりん法律事務所",
+      "coordinates": {
+        "lat": 36.64956,
+        "lng": 138.18078
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d85b6f69-1746-4ec9-96cc-ba1bb9bdcc8f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d85b6f69-1746-4ec9-96cc-ba1bb9bdcc8f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6494157,138.1808745,3a,49.6y,331.81h,96.5t/data=!3m7!1e1!3m5!1sCavFJTJDVONfiJOACH4Zsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.500123370648097%26panoid%3DCavFJTJDVONfiJOACH4Zsw%26yaw%3D331.80645312701023!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The office building exterior appears in episode 1 as background scenery in Nagano's downtown, part of the everyday townscape Minato and his friends pass through on their way home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_2",
+      "name": "Barber Hosoya",
+      "localName": "理容ホソヤ",
+      "coordinates": {
+        "lat": 36.64932,
+        "lng": 138.18091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b652090-8496-4363-b023-0db8a84afd46.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b652090-8496-4363-b023-0db8a84afd46.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6493861,138.1808982,3a,75y,161.03h,92.69t/data=!3m7!1e1!3m5!1srBKdTDeLYVLrz2zAOwB1Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.689130547814102%26panoid%3DrBKdTDeLYVLrz2zAOwB1Sw%26yaw%3D161.03201151880702!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This barbershop exterior is captured in episode 1 as part of the familiar Nagano streetscape that grounds the series in a real, lived-in city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9a32z-iGHWARLsWNhvKufQE",
+      "name": "Kitahachiman Riverside Esplanade",
+      "localName": "北八幡川遊歩道",
+      "coordinates": {
+        "lat": 36.6504812,
+        "lng": 138.1840422
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f2215ca-9707-44da-8410-1fb9ce5f228f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f2215ca-9707-44da-8410-1fb9ce5f228f.webp"
+        },
+        {
+          "url": "media/cached-image_b9512caaefd5ae1e31f8f7a24796aa29b1ad0b03bf517901690cfae80045d229.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitahachiman Riverside Esplanade, 650 Minaminagano, Nagano, 380-0836, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6505593,138.1844425,3a,75y,264.95h,96.2t/data=!3m7!1e1!3m5!1s6kkuZb8Sj3HcRCJGBewb2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.204671558450926%26panoid%3D6kkuZb8Sj3HcRCJGBewb2A%26yaw%3D264.9522805329116!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The riverside walkway appears in episode 5 as a quiet outdoor setting where characters walk and talk, the calm river atmosphere echoing the meditative mood of kyudo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr3asQViLGGARxLYgAaQoclY",
+      "name": "Uematsu Japanese Art Supply",
+      "localName": "ウエマツ 日本画材・洋画材・額縁販売店",
+      "coordinates": {
+        "lat": 35.65943,
+        "lng": 139.7026
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_1a3eeffd364e10c9cdd1e22c3a125c99b1758cbf739df725ae88866e2b478fb7.jpg"
+        }
+      ],
+      "type": "美術用品店",
+      "categories": [
+        "美術用品店"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-20-8 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uZHva6mTQfNCLPrD7",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW7vsYPKGHWARBaK-kT7kf_s",
+      "name": "Aniveruseru Nagano",
+      "localName": "アニヴェルセル 長野",
+      "coordinates": {
+        "lat": 36.6484066,
+        "lng": 138.1908785
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eda0423b-024f-4675-b258-f1f0998cc436.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eda0423b-024f-4675-b258-f1f0998cc436.webp"
+        },
+        {
+          "url": "media/cached-image_a46b2912fa332a087ee7ea6daa96abd97b47a3330f0543afbde8a9746745e3b0.jpg"
+        },
+        {
+          "url": "media/cached-image_f7c5345fc2a2d59ddae6046c645ea7066b317c9b34d43b1e5a7fa907b2f4e547.jpg"
+        },
+        {
+          "url": "media/cached-image_b76c78499e2e656eac71c5f4c8a732f5798282212131cf8da6bf1132c31a6267.jpg"
+        },
+        {
+          "url": "media/cached-image_cab1d34c493d9d6d594ac141e068a6cdd66a165927595bdb3cbedbb762a72ae2.jpg"
+        },
+        {
+          "url": "media/cached-image_d10de783b8bcbc36ed11d4624f603747d47c4f926c524bcd419aee2135cd942f.jpg"
+        }
+      ],
+      "type": "Wedding venue",
+      "categories": [
+        "Wedding venue"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Aniveruseru Nagano, Kamichitosemachi-1148-1, Nagano, 380-0821, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6482011,138.1910512,3a,42.2y,291.21h,86.46t/data=!3m7!1e1!3m5!1sIjXwAilqe-pFQSkOqgOSfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.5389989652846054%26panoid%3DIjXwAilqe-pFQSkOqgOSfQ%26yaw%3D291.20608578473264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This wedding venue building in Nagano appears in episode 5 as a landmark background in the cityscape, its distinctive architecture recognizable to fans who trace the series through the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_6",
+      "name": "Cosmo Oil / Hanaoka Vehicle Inspection Co.",
+      "localName": "コスモ石油 / ハナオカ車検(株) ライトパーク浅川SS",
+      "coordinates": {
+        "lat": 36.68168,
+        "lng": 138.20085
+      },
+      "image": "https://cdn.animepilgrimage.com/places/545692c6-7b29-4882-9d16-f945a49dbd26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/545692c6-7b29-4882-9d16-f945a49dbd26.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6816779,138.2010067,3a,42.3y,276.02h,98.19t/data=!3m7!1e1!3m5!1s1Qjommel3YLH8TuorYqLmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.190050992506784%26panoid%3D1Qjommel3YLH8TuorYqLmA%26yaw%3D276.02115133215705!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The gas station and adjacent building appear in episode 2 as a roadside background scene, part of the suburban Nagano setting the characters cycle through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpY4MD-iGHWARgGZVghpDapU",
+      "name": "Kenchomae Ryokuchi Park",
+      "localName": "県庁前緑地公園",
+      "coordinates": {
+        "lat": 36.6501442,
+        "lng": 138.18038049999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/515503aa-6333-489f-bff5-60b1a633a0fe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/515503aa-6333-489f-bff5-60b1a633a0fe.webp"
+        },
+        {
+          "url": "media/cached-image_a671adc75d1539d727b03e38720b8bd65e454b19f80ce05b5c3f905aad4fe2fd.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kenchomae Ryokuchi Park, 岡田町 １ Nakagosho, Nagano, 380-0935, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6501959,138.1799413,3a,90y,110.31h,94.88t/data=!3m7!1e1!3m5!1sttzJTXzxgk9YmXwTANA8Lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.881787539071198%26panoid%3DttzJTXzxgk9YmXwTANA8Lg%26yaw%3D110.30509869989613!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small green park near the prefectural office appears in episode 5, used as an outdoor gathering spot where team members share a moment of levity between practice sessions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDf1d4tANHWARFGo0DA7CFaU",
+      "name": "Joyama Koen iriguchi",
+      "localName": "城山公園",
+      "coordinates": {
+        "lat": 36.2470086,
+        "lng": 137.9550294
+      },
+      "image": "https://cdn.animepilgrimage.com/places/275bda5a-fd53-4fa8-9e5d-6d126a8c1f37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/275bda5a-fd53-4fa8-9e5d-6d126a8c1f37.webp"
+        },
+        {
+          "url": "media/cached-image_b7c6d3343243181aa174c86633e9f6aaf53a690bb913599da30feffa24492ebe.jpg"
+        },
+        {
+          "url": "media/cached-image_59a69ceb278813adbb7e5c52d95a287726b1b2193116dfc13cd047b9a3847fdb.jpg"
+        },
+        {
+          "url": "media/cached-image_cc4d887a0c62e3e8301099716f1076801270d522aa75db151f8e131112a56643.jpg"
+        },
+        {
+          "url": "media/cached-image_eb7b201cec59c96fa9a7a3ba6bb0d6599ecaba53e97191241d666ae1c797dc75.jpg"
+        },
+        {
+          "url": "media/cached-image_65ddb716b70e79fc9d7ac9828bcf04647d489abbf595a7cd014ef6b9b79a030d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 23,
+      "priceLevel": null,
+      "address": "Joyama Park, 1219 Arigasaki, Matsumoto, Nagano 390-0861, Japan",
+      "city": "Matsumoto",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6619104,138.1944034,3a,75y,188.68h,91.5t/data=!3m7!1e1!3m5!1sAWHXBaZLQ4rdGK4ybroN_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5026203653767993%26panoid%3DAWHXBaZLQ4rdGK4ybroN_Q%26yaw%3D188.67565481895818!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Joyama Park appears in episode 2 as an outdoor location where characters spend time together, the park's wooded paths providing a natural retreat from the intensity of competition preparation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_9",
+      "name": "Shiyari Shrine",
+      "localName": "伺去神社",
+      "coordinates": {
+        "lat": 36.68542,
+        "lng": 138.19972
+      },
+      "image": "https://cdn.animepilgrimage.com/places/868780cb-40ca-455a-ab51-c278142cd9cd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/868780cb-40ca-455a-ab51-c278142cd9cd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6853745,138.1997122,3a,90y,307.1h,110.69t/data=!3m7!1e1!3m5!1sT3cGnozUcWRhjfXVS4M93g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.68596346700538%26panoid%3DT3cGnozUcWRhjfXVS4M93g%26yaw%3D307.0958437818404!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Shinto shrine appears in episode 1, its quiet precincts setting the contemplative tone of the series as Minato reconnects with the spiritual side of the bow."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo01YAh-HHWARJidnboG3Gew",
+      "name": "Oshoji Park",
+      "localName": "往生地公園",
+      "coordinates": {
+        "lat": 36.6629815,
+        "lng": 138.1821218
+      },
+      "image": "https://cdn.animepilgrimage.com/places/06972c3a-0d8b-4100-8d58-f86f27e55175.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/06972c3a-0d8b-4100-8d58-f86f27e55175.webp"
+        },
+        {
+          "url": "media/cached-image_6aa301c8417da792ad23b32ce5c302546d9569d8ed8601b792c8cfeee0e014cf.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Oshoji Park, Ōjōji Nagano, 380-0867, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6634624,138.1820814,3a,90y,188.87h,92.66t/data=!3m7!1e1!3m5!1sbFsBiX4uq-Bz1OEGs-ZWoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.656216052719131%26panoid%3DbFsBiX4uq-Bz1OEGs-ZWoQ%26yaw%3D188.87197761095558!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Oshoji Park features in episode 1 as an early-series outdoor location, where the familiar neighborhood atmosphere of Nagano is established around the club members."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdzl3ThmGHWARZVenq_q8lNs",
+      "name": "Nagano Sports Park Archery Range",
+      "localName": "長野運動公園 総合運動場",
+      "coordinates": {
+        "lat": 36.658454,
+        "lng": 138.2323217
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8a000d1f-451e-499b-9310-4c02e8ec7c5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8a000d1f-451e-499b-9310-4c02e8ec7c5d.webp"
+        },
+        {
+          "url": "media/cached-image_bc149eae75c4275237a809085b046895ee2a874d442f6e54dab9812936fa07d7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagano Sports Park, 5 Chome-1-19 Yoshida, Nagano, 381-0043, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6617376,138.2310593,3a,90y,181.89h,100.15t/data=!3m7!1e1!3m5!1sgHnQU8U6vXUS9R-ecL5dvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.149968971550535%26panoid%3DgHnQU8U6vXUS9R-ecL5dvw%26yaw%3D181.89228835537986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The real archery range at Nagano Sports Park serves as the model for the tournament venue where Kazemai competes in episode 7, the wide open range and tension of competition captured in meticulous KyoAni detail.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_12",
+      "name": "Saito Kogyo Co.",
+      "localName": "斉藤工業（株）",
+      "coordinates": {
+        "lat": 36.66162,
+        "lng": 138.23161
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44ae9247-7593-4574-8951-1cc946312a05.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44ae9247-7593-4574-8951-1cc946312a05.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6617349,138.231554,3a,90y,176.75h,99.36t/data=!3m7!1e1!3m5!1sMnSWJDT8oUXwFtwUMjfZag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.355143869034023%26panoid%3DMnSWJDT8oUXwFtwUMjfZag%26yaw%3D176.7483558190095!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The industrial building exterior is captured in episode 8 as part of the area surrounding the sports park, a streetscape detail fans spot on their way to the archery range pilgrimage stop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl1Gs0B2HHWARKUl9016mkrU",
+      "name": "Yubuku Shrine",
+      "localName": "湯福神社",
+      "coordinates": {
+        "lat": 36.663157999999996,
+        "lng": 138.18495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21ba5a5c-8ed0-472e-96d0-056dd7b943dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21ba5a5c-8ed0-472e-96d0-056dd7b943dc.webp"
+        },
+        {
+          "url": "media/cached-image_b3f452819b4ab35a47934b99a7d60e5dcd582b3bf21171db527d283da68eaea2.jpg"
+        },
+        {
+          "url": "media/cached-image_816d5ee9229aef13520349ff890e774cf932732f2a735f0a5a6a75db84dcaa70.jpg"
+        },
+        {
+          "url": "media/cached-image_5914b357e8e6d206bae4b550c40f1c78fbcd88975d9a8c6691cf05847581a4ce.jpg"
+        },
+        {
+          "url": "media/cached-image_e8251cee37e9a010fb22a0e94e5579bca5771d0e363abb5b90ec0e7c9a592f81.jpg"
+        },
+        {
+          "url": "media/cached-image_90391989aa0ca92f826c82f694d18b159ba39fdc1901289b3534aa66fc7b6a60.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 96,
+      "priceLevel": null,
+      "address": "Yubuku Shrine, 3 Chome-1-2 Hakoshimizu, Nagano, 380-0801, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6629666,138.1845809,3a,90y,294.95h,102.6t/data=!3m7!1e1!3m5!1sRbrhAbBm-c0UHZdNoQUmoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.602027554225685%26panoid%3DRbrhAbBm-c0UHZdNoQUmoA%26yaw%3D294.94780828703097!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Yubuku Shrine appears in episode 9 as a significant location where a character pauses in quiet reflection, the ancient shrine grounds reinforcing the series' sense that kyudo is inseparable from spiritual practice.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq4BUnQ7nAGARrv43I7O0iA8",
+      "name": "Corpo-Hara",
+      "localName": "Corpo HARA Apartment - One-Bedroom Apartment",
+      "coordinates": {
+        "lat": 34.6675186,
+        "lng": 135.4939575
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a8709d4-f9e9-498a-ab0e-900699209569.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a8709d4-f9e9-498a-ab0e-900699209569.webp"
+        },
+        {
+          "url": "media/cached-image_9dd17f78ffb7512bad717ea14302093184bed7668ec56600d7e8140049237c8d.jpg"
+        },
+        {
+          "url": "media/cached-image_9e43a6346df4bc0f8857fb24d54849353c62d86c71001142727606d922d083bc.jpg"
+        },
+        {
+          "url": "media/cached-image_13481708c7e6a6cd8b0fb5eba31dae83f7f3c5f1c6b1586487ca4c733e477f10.jpg"
+        },
+        {
+          "url": "media/cached-image_8a99d4feeed2d5360c5ca6a3744eab2edef5d67fc6f1f36648886998e5c76c02.jpg"
+        },
+        {
+          "url": "media/cached-image_7312662be86c81e66683eae2ee48655418dfe2d8359453c5b2beb7570ee51ee2.jpg"
+        }
+      ],
+      "type": "Apartment",
+      "categories": [
+        "Apartment"
+      ],
+      "rating": null,
+      "reviewCount": 13,
+      "priceLevel": null,
+      "address": "Corpo HARA Apartment - One-Bedroom Apartment, 1-chōme-1 Sakuragawa, Naniwa Ward, Osaka, 556-0022, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6697285,138.1929119,3a,90y,249.4h,102.13t/data=!3m7!1e1!3m5!1sUY4AYPcv78iMAE1rKtXMhQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.132864464764054%26panoid%3DUY4AYPcv78iMAE1rKtXMhQ%26yaw%3D249.39990311177627!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ02kFFzmGHWARKu5KpApe-h4",
+      "name": "Kitanagano Station",
+      "localName": "北長野駅",
+      "coordinates": {
+        "lat": 36.6652862,
+        "lng": 138.222512
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ce8dba0-ccb8-4bec-9582-3e5190313e45.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ce8dba0-ccb8-4bec-9582-3e5190313e45.webp"
+        },
+        {
+          "url": "media/cached-image_c4995a5df1b54d553c1f12920aef5e8f69d2e56acd184e313162865989ff1a62.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitanagano Station, 2-chōme-34 Nakagoe, Nagano, 381-0044, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6656268,138.2223198,3a,35y,142.82h,92.81t/data=!3m7!1e1!3m5!1s5dlaWXYk73VydzhRgWP5Kg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8149468035888674%26panoid%3D5dlaWXYk73VydzhRgWP5Kg%26yaw%3D142.82277553225825!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kitanagano Station appears in episode 9 as the railway stop the team uses, the small-scale local station perfectly capturing the provincial warmth of Nagano that runs through the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgw1UX_mGHWAR90k5-1K7eww",
+      "name": "Yokoyamako Park",
+      "localName": "横山小公園",
+      "coordinates": {
+        "lat": 36.660255,
+        "lng": 138.1946041
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4906d049-31ec-4407-b1cb-56d162a86f81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4906d049-31ec-4407-b1cb-56d162a86f81.webp"
+        },
+        {
+          "url": "media/cached-image_bdc023d19f4b7e8c2e1c036dd6ac99d870c705ad302594eaceb9c9af9a81d48f.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yokoyamako Park, 6 Chome-26 Miwa, Nagano, 380-0803, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.660129,138.1942401,3a,48.7y,106.83h,90.41t/data=!3m7!1e1!3m5!1sJwmyFa2IoFCxGRnSEpCIPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.407494566581704%26panoid%3DJwmyFa2IoFCxGRnSEpCIPA%26yaw%3D106.82815169583708!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This small neighborhood park is featured in the opening sequence, its quiet streets and low-rise surroundings becoming one of the most recognized backdrop images fans associate with Tsurune.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh-R8ETmGHWAREpj3FcfQtZA",
+      "name": "Lawson; Kita-Nagano Station",
+      "localName": "ローソン 北長野駅前店",
+      "coordinates": {
+        "lat": 36.6657858,
+        "lng": 138.2228346
+      },
+      "image": "https://cdn.animepilgrimage.com/places/feab0e2d-53b4-4ffe-a21e-7e4a06eeedd5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/feab0e2d-53b4-4ffe-a21e-7e4a06eeedd5.webp"
+        },
+        {
+          "url": "media/cached-image_597e6db7bc4462dcd6332ada6f99075ab3059b190f3c01825ed6fde01ef94fde.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson; Kita-Nagano Station, 2 Chome-34-38 Nakagoe, Nagano, 381-0044, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6661345,138.2230474,3a,90y,44.99h,95.69t/data=!3m7!1e1!3m5!1sC9qb30G42cWjm5DTFVc9pg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.686177780712484%26panoid%3DC9qb30G42cWjm5DTFVc9pg%26yaw%3D44.99122677396494!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The convenience store near Kitanagano Station appears in episode 9 as a casual stop for the characters, one of the mundane but charming slice-of-life moments the series sprinkles between training arcs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tsurune_18",
+      "name": "Netsu Shoten",
+      "localName": "ネツ商店",
+      "coordinates": {
+        "lat": 36.66433,
+        "lng": 138.18786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/471146e1-6f0c-4269-bc9b-d62d7e2cfd62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/471146e1-6f0c-4269-bc9b-d62d7e2cfd62.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.6639858,138.1878646,3a,33y,0.19h,92.94t/data=!3m7!1e1!3m5!1sILZ35hAN7Moi4TRTp7_SUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9431885059853045%26panoid%3DILZ35hAN7Moi4TRTp7_SUA%26yaw%3D0.18519446713172805!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small local shop exterior appears in episode 1 as part of the residential Nagano streetscape that forms the daily backdrop of the characters' lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6-3nCmH_HGARXUcbEn9ptUA",
+      "name": "Suwako Service Area (Up)",
+      "localName": "諏訪湖 サービスエリア (上り)",
+      "coordinates": {
+        "lat": 36.0267014,
+        "lng": 138.0774286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/780f3d15-8bc9-4848-8f56-161587b7120f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/780f3d15-8bc9-4848-8f56-161587b7120f.webp"
+        },
+        {
+          "url": "media/cached-image_e110195215dbca0d9a5d7fc985a64999c1427574e1eb6d3c68a0779f852330ce.jpg"
+        },
+        {
+          "url": "media/cached-image_c09c40fe6ec5e3602b6050964d4066db15e895b173bfab312ac16c34b42a1064.jpg"
+        },
+        {
+          "url": "media/cached-image_d55b5ef8f80badc8e813f20f9cc567efd0b79d2050a4ff782fdcad71ce701fd4.jpg"
+        },
+        {
+          "url": "media/cached-image_3d425988c791930c9f199936e4c1a1890b3b3fab1e39f3981b1d5bc837fa2029.jpg"
+        },
+        {
+          "url": "media/cached-image_859d9a9232e9d72fefdd375a8c93b276cba40cf0b79c26998ca5df2cbde08606.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1042,
+      "priceLevel": null,
+      "address": "Japan, 〒392-0016 Nagano, Suwa, Toyoda, Suwako SA (Up), 所久保４１１−７",
+      "city": "Suwa",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nzVkXGPGmr72zYub9",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Suwako Lake Service Area on the Chuo Expressway appears in episode 11 during a road trip segment, the scenic rest stop overlooking Lake Suwa giving characters a moment of calm before a key competition."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrfQ8FU-GHWARz22XN7Uu1xs",
+      "name": "Kirihara Station",
+      "localName": "桐原駅",
+      "coordinates": {
+        "lat": 36.6657412,
+        "lng": 138.2131406
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3607f29b-d6d6-494f-968e-4ac2e4bb1364.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3607f29b-d6d6-494f-968e-4ac2e4bb1364.webp"
+        },
+        {
+          "url": "media/cached-image_7c8010fff4a1952a794970dddb9699474f8b82972a5aa107690aa5c133851284.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kirihara Station, 1-chōme-24 Kirihara, Nagano, 381-0045, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6655195,138.2126079,3a,75y,60.09h,95.49t/data=!3m7!1e1!3m5!1s-Xq7OvPn81L1hnIY7L6Jfw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.494430261486997%26panoid%3D-Xq7OvPn81L1hnIY7L6Jfw%26yaw%3D60.08592875877241!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Kirihara Station on the Nagano Electric Railway appears in the opening sequence, the small rural station platform a recurring image that fans recognize as the visual signature of the show's Nagano setting.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlWe46KGDHWARndo1llwudI4",
+      "name": "Nagano City Nambu Library",
+      "localName": "長野市立 南部図書館",
+      "coordinates": {
+        "lat": 36.573920199999996,
+        "lng": 138.1392444
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e1110dd4-29eb-4e9b-9f57-2d4732a00419.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e1110dd4-29eb-4e9b-9f57-2d4732a00419.webp"
+        },
+        {
+          "url": "media/cached-image_9a0e1980ce9da17b47abc0ec8ca8fe78da96c2ad467883f8f3674d9c3333263e.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Nagano City Nambu Library, １２０１ Shinonoionbegawa, Nagano, 388-8006, Japan",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.573669,138.1393342,3a,90y,2.62h,100.61t/data=!3m7!1e1!3m5!1sVYrKy9iLmArUekdNe6ooBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.613798111457996%26panoid%3DVYrKy9iLmArUekdNe6ooBg%26yaw%3D2.617577933204288!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Nagano City Nambu Library appears in episode 3 as a location the characters visit, its modern public building used as a quiet study or meeting spot in the series."
+    }
+  ]
+}

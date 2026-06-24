@@ -1,0 +1,2186 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Lucky☆Star",
+  "slug": "lucky-star",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_261b3c8fa05c6e9170e5494d8888772878c54a98cc62f29a791f46399d8a79aa.webp",
+  "image": "media/cached-image_261b3c8fa05c6e9170e5494d8888772878c54a98cc62f29a791f46399d8a79aa.webp",
+  "banner": null,
+  "primaryLocation": "Saitama, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.59306628518519,
+    "lng": 138.24257004259258
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Lucky☆Star"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJE3DRXVvBGGARQep9naYMbig",
+      "name": "Technical Park Sakuragi Parking Lot",
+      "localName": "大宮桜木２丁目パーキング",
+      "coordinates": {
+        "lat": 35.906439999999996,
+        "lng": 139.618571
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92529947-37bc-40fa-bc1c-806b7254a0e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92529947-37bc-40fa-bc1c-806b7254a0e0.webp"
+        },
+        {
+          "url": "media/cached-image_1e79e0a684030ddd7c051dfa0f9fdee44a3b656f71381b617693fa25aa3c6db4.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Technical Park Sakuragi Parking Lot, 2 Chome-281 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9064203,139.6188095,3a,90y,342.24h,107.04t/data=!3m7!1e1!3m5!1s3D2ld9jnBautY58Vj36_2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.04445939527747%26panoid%3D3D2ld9jnBautY58Vj36_2A%26yaw%3D342.24274909223533!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS6eXQB2MGGAR9W0Xk2Q7B3Y",
+      "name": "Akihabara Gamers",
+      "localName": "AKIHABARAゲーマーズ本店",
+      "coordinates": {
+        "lat": 35.6981834,
+        "lng": 139.7715103
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a525377-d7ae-43b5-80a6-e478f9f1b90b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a525377-d7ae-43b5-80a6-e478f9f1b90b.webp"
+        },
+        {
+          "url": "media/cached-image_ddf8d3d1cae48b227de6610af3d096fd5351bfd0ef52c3d92c19e25d8de2c38e.jpg"
+        },
+        {
+          "url": "media/cached-image_13ad3869aeaeca7e5307569fd01b4464622daf19a7fbcd230ab045c2d702baee.jpg"
+        }
+      ],
+      "type": "ホビーショップ",
+      "categories": [
+        "ホビーショップ"
+      ],
+      "rating": 4.2,
+      "reviewCount": 52,
+      "priceLevel": null,
+      "address": "1 Chome-14-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981834,139.7715103,3a,75y,115.99h,110.6t/data=!3m7!1e1!3m5!1snN8DjsyAU3-XjynSiLpFjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DnN8DjsyAU3-XjynSiLpFjQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D251.44255%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "The Akihabara Gamers flagship store appears in episode 16, where Konata shops for anime merchandise and games. It is a recurring haunt tied to her otaku lifestyle and the show's loving parody of Akiba culture.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBVmy-YMz-F8R5PID8D17Cpc",
+      "name": "Kenroku-en",
+      "localName": "兼六園",
+      "coordinates": {
+        "lat": 36.5621278,
+        "lng": 136.66265149999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c315f0b-589a-4e5d-abe4-1f901a863755.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c315f0b-589a-4e5d-abe4-1f901a863755.webp"
+        },
+        {
+          "url": "media/cached-image_f9f24ce606050d9b0078bceb202417e4c46b502eacebabb2071c3daf3401e389.jpg"
+        }
+      ],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kenroku-en, 1 Kenrokumachi, Kanazawa, Ishikawa 920-0936, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.563394,136.6628552,2a,49.6y,200.94h,93.22t/data=!3m7!1e1!3m5!1s_-c_dyLB2g2poKzIPKzCaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2164157883687636%26panoid%3D_-c_dyLB2g2poKzIPKzCaw%26yaw%3D200.9353304430989!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 22,
+      "entityContext": "One of Japan's top three gardens, Kenroku-en in Kanazawa appears in episode 22 when the cast takes a trip to the city, providing a picturesque backdrop for relaxed conversation between the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy2_eCJQIAWAR-vhmKGTaJfo",
+      "name": "Photo booth shop Kyoto Olympia",
+      "localName": "プリクラショップ 京都オリンピア",
+      "coordinates": {
+        "lat": 35.005924199999995,
+        "lng": 135.7671212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd3f5897-e4cd-4310-baf8-fc9db87dac1d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd3f5897-e4cd-4310-baf8-fc9db87dac1d.webp"
+        },
+        {
+          "url": "media/cached-image_426508264fc0d240687dc12d49c223fe7ad1b11a900f9de4940cda5b723b90af.jpg"
+        }
+      ],
+      "type": "Camera store",
+      "categories": [
+        "Camera store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Photo booth shop Kyoto Olympia, 502 Higashigawacho, Nakagyo Ward, Kyoto, 604-8046, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0059554,135.7671411,3a,90y,318.22h,101.32t/data=!3m7!1e1!3m5!1ss0XEA7l3kaGzGdmwahGq-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.320068260493414%26panoid%3Ds0XEA7l3kaGzGdmwahGq-w%26yaw%3D318.21666439026245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJncCSapQIAWAR9ak2W7_VM8M",
+      "name": "Animate Kyoto",
+      "localName": "アニメイト京都",
+      "coordinates": {
+        "lat": 35.005362,
+        "lng": 135.767588
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5dae1b2a-61e9-4aa6-818d-273f7bafdd84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5dae1b2a-61e9-4aa6-818d-273f7bafdd84.webp"
+        },
+        {
+          "url": "media/cached-image_282ad6003e26148b1061ff71510104e89efa57db02fc6a80b90a984192638643.jpg"
+        }
+      ],
+      "type": "Comic book store",
+      "categories": [
+        "Comic book store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Animate Kyoto, パッサージオ（吉本ビル 2F 525-1 Higashigawacho, Nakagyo Ward, Kyoto, 604-8046, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0053748,135.7671867,3a,90y,6.41h,108.18t/data=!3m7!1e1!3m5!1sEJCnSlhsA22PB1i3Qq7Pjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.176612899857076%26panoid%3DEJCnSlhsA22PB1i3Qq7Pjw%26yaw%3D6.407347008309964!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Visited during the Kyoto trip in episode 21, where Konata immediately seeks out the local Animate store rather than traditional sightseeing spots, much to her friends' exasperation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_ZOeJKwIAWARnw3mTj4EoWI",
+      "name": "Kyoto Animation Co. Ltd.",
+      "localName": "株式会社京都アニメーション 本社",
+      "coordinates": {
+        "lat": 34.9247558,
+        "lng": 135.79861599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27c53daa-1fec-4085-a840-a0aa96dea98f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27c53daa-1fec-4085-a840-a0aa96dea98f.webp"
+        }
+      ],
+      "type": "Animation studio",
+      "categories": [
+        "Animation studio"
+      ],
+      "rating": 4.8,
+      "reviewCount": 441,
+      "priceLevel": null,
+      "address": "Kyoto Animation Co. Ltd., Osedo-32 Kohata, Uji, Kyoto 611-0002",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.924809,135.7987116,3a,90y,242.97h,107.98t/data=!3m7!1e1!3m5!1sMKhGuEy9I4CCIwpJLvonKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.975896590794818%26panoid%3DMKhGuEy9I4CCIwpJLvonKw%26yaw%3D242.9693929419542!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The studio that produced Lucky Star, visited by the girls in episode 21 during the Kyoto school trip arc. Konata's reverence for the studio is played for comedy as she treats it like a sacred anime pilgrimage site.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_6",
+      "name": "Eburidei Pharmacy",
+      "localName": "エブリデイ薬局",
+      "coordinates": {
+        "lat": 34.92566,
+        "lng": 135.79555
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cae603ca-06cf-4144-a50a-407e6b9e15a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cae603ca-06cf-4144-a50a-407e6b9e15a1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9257005,135.7956768,3a,47.9y,250.68h,100.75t/data=!3m7!1e1!3m5!1s_OrrzcCLc2VLGS1wwdOmgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.747375650513206%26panoid%3D_OrrzcCLc2VLGS1wwdOmgw%26yaw%3D250.68494077768727!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "A pharmacy near the Kyoto Animation studio neighborhood in Uji, visible in episode 21 background shots of the area surrounding the KyoAni headquarters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ19aoI9YRAWARlBsQzg_fBys",
+      "name": "Kowata Station",
+      "localName": "木幡駅（京阪）",
+      "coordinates": {
+        "lat": 34.9260332,
+        "lng": 135.7960062
+      },
+      "image": "https://cdn.animepilgrimage.com/places/269b81fd-7377-45f0-a271-49a0e2e2f8bc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/269b81fd-7377-45f0-a271-49a0e2e2f8bc.webp"
+        },
+        {
+          "url": "media/cached-image_63d222c752d0c54b3855c88bd14ce0746f138643602b8fd256aecf6f87167fbd.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kowata Station, Nishinaka Kohata, Uji, Kyoto 611-0002, Japan",
+      "city": "Uji",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9256222,135.7960337,3a,63.5y,63.39h,95.36t/data=!3m7!1e1!3m5!1sE7WFp9PVmlrq2Kz9iArTqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.355639250366849%26panoid%3DE7WFp9PVmlrq2Kz9iArTqQ%26yaw%3D63.39148408069339!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Kowata Station on the Kintetsu Kyoto Line near the Kyoto Animation studio headquarters appears in episode 21 during the KyoAni-adjacent Uji sequence, recognizable to fans who follow the pilgrimage route to the studio."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ71Mw-o0IAWARW03BBu8FtCY",
+      "name": "Kyoto Shiyakusho mae [Daimonjicho]",
+      "localName": "京都市役所前",
+      "coordinates": {
+        "lat": 35.0109632,
+        "lng": 135.7668984
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e08c7f61-ce93-45c4-a0db-4cb0638affd2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e08c7f61-ce93-45c4-a0db-4cb0638affd2.webp"
+        },
+        {
+          "url": "media/cached-image_5c0bba21a9eedf3b1efd27d598555e7294f7da54308efd306addc6a3f8b143ab.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kyoto Shiyakusho mae [Daimonjicho], Oikedaitōchō, Nakagyo Ward, Kyoto, 604-0942, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.010856,135.7680283,3a,48.8y,216.55h,92.25t/data=!3m7!1e1!3m5!1sTtsrMZzC1sFAkhYjjQIJXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.252514101875363%26panoid%3DTtsrMZzC1sFAkhYjjQIJXw%26yaw%3D216.5515189613156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg4LAZJIIAWAR846tP-P5HGo",
+      "name": "Hotel Honnoji",
+      "localName": "ホテル本能寺",
+      "coordinates": {
+        "lat": 35.0105831,
+        "lng": 135.7683275
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92c372d3-c4eb-4f4a-a1f2-66e0afde45f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92c372d3-c4eb-4f4a-a1f2-66e0afde45f1.webp"
+        },
+        {
+          "url": "media/cached-image_82ff3d72db5dee8e7a1850fff88c4d35b2e58125353242d7b08ed3b4c0aa0041.jpg"
+        },
+        {
+          "url": "media/cached-image_a183784bb55c2133d976308cdd1561fdbba99197235b99931bb99e998228aa91.jpg"
+        },
+        {
+          "url": "media/cached-image_4642302180c229d3878f9bb2e2e05c314b32b7ef739e60c43a6b35035ad516fe.jpg"
+        },
+        {
+          "url": "media/cached-image_dd583ec03e15b6128f0dfec291df6161d144900c1aac2718aa6e4d00f97e0c9e.jpg"
+        },
+        {
+          "url": "media/cached-image_7724e0b5390cf6e92773d472846663f411aca7e4586c5e7fa199d696e338cf8d.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.1,
+      "reviewCount": 216,
+      "priceLevel": null,
+      "address": "Hotel Honnōji, 522 Shimohonnojimaecho, Nakagyo Ward, Kyoto, 604-8091, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0108678,135.7683214,3a,90y,136.7h,95.35t/data=!3m7!1e1!3m5!1s17m-i7jWF8hgrn2hkeotKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.346007237072513%26panoid%3D17m-i7jWF8hgrn2hkeotKg%26yaw%3D136.69915845873362!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJty2QjtMIAWAR9_0wSDYAibI",
+      "name": "Love Fortune Stone",
+      "localName": "恋占いの石",
+      "coordinates": {
+        "lat": 34.9951401,
+        "lng": 135.7850533
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c0e0936e-fbfb-45e3-ae3e-20d3d2e42c6b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c0e0936e-fbfb-45e3-ae3e-20d3d2e42c6b.webp"
+        },
+        {
+          "url": "media/cached-image_c347008891a2812e70d7fcac893b65e40275a91927af311f12c3576038efe1b4.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Love Fortune Stone, 1 Chome-317 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9951323,135.7849881,2a,90y,144.67h,102.28t/data=!3m7!1e1!3m5!1sKjio5gV9KDbpjiC0u9zo-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.283207904341907%26panoid%3DKjio5gV9KDbpjiC0u9zo-w%26yaw%3D144.6662559373164!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The pair of love-divination stones at Jishu Shrine within Kiyomizu-dera grounds are visited in episode 21. Konata's attempt at the stone walk is played for laughs given her disinterest in romance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUw7CYog5AWARP-UHhBKURlw",
+      "name": "Kofuku-ji Nan-endo (Southern Round Hall)",
+      "localName": "南円堂",
+      "coordinates": {
+        "lat": 34.6825439,
+        "lng": 135.83022839999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa2e76f6-c2cd-4aaa-aa24-3bcbc9ec02aa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa2e76f6-c2cd-4aaa-aa24-3bcbc9ec02aa.webp"
+        },
+        {
+          "url": "media/cached-image_54bd3390a5d50addfa7ff0465341fc9fb8f136ad3a1336c44275f18a5fd73b8f.jpg"
+        },
+        {
+          "url": "media/cached-image_179cca7afaabc45d87eca9583fbe676f4a71256e82161fcf4208f0c42d43070a.jpg"
+        },
+        {
+          "url": "media/cached-image_d530d8b896d14206a0782118e371ca4127b387c212d1d2b2cb8c48fca12970b7.jpg"
+        },
+        {
+          "url": "media/cached-image_763b482ef2424825857021623531dea7646b913ec62003dd6f8392b1d3aa4e1e.jpg"
+        },
+        {
+          "url": "media/cached-image_fa13a8ab7154a0e25cb24d3c62dd219deecf197110f06ba4ce2ce382e4d15cc4.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1208,
+      "priceLevel": null,
+      "address": "Nanen-do, 48 Noboriojicho, Nara, 630-8213, Japan",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6825674,135.8311628,3a,48.7y,91.04h,95.07t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC9tcPKeA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbS1OURa1zx6UokRNegxg6UR-Rko1mH0omsrgAtVwryMnIqLInc-5e8b0UBAwZSLCygwJKsiN3AkKUaFoMjePrb-MaiyR7JczUuBY1nuZLj1ioKX-aAiz4PjCtWmcromiG1_gg%3Dw900-h600-k-no-pi-5.070597962472789-ya91.03950962668017-ro0-fo100!7i6528!8i3264?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The distinctive octagonal Southern Octagonal Hall at Kofuku-ji is seen during the Nara portion of the episode 21 school trip, a recognizable silhouette in the Nara skyline backgrounds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpS2_fTG4GGARj0YTP88zE4c",
+      "name": "Tobu-Dobutsu Koen Station",
+      "localName": "東武動物公園駅",
+      "coordinates": {
+        "lat": 36.0248589,
+        "lng": 139.7267885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/823144d8-0a8e-4ea8-a9b4-4c7b2ede5af6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/823144d8-0a8e-4ea8-a9b4-4c7b2ede5af6.webp"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tobu-Dobutsukoen Station, 1-chōme-6 Chūō, Miyashiro, Minamisaitama District, Saitama 345-0821, Japan",
+      "city": "Miyashiro",
+      "region": "Minamisaitama District, Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0245029,139.7274265,2a,90y,299.82h,93.93t/data=!3m7!1e1!3m5!1sfzCCwV4JXQhk5WSi-WXOng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.928289501416245%26panoid%3DfzCCwV4JXQhk5WSi-WXOng%26yaw%3D299.8160795872059!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Tobu-Dobutsukoen Station on the Tobu Skytree Line appears in episode 20 as a transit point in the Saitama local commuter route used by the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqe4mF0m2GGARcX4ll7QZ4IU",
+      "name": "Satte Station",
+      "localName": "幸手駅",
+      "coordinates": {
+        "lat": 36.074829199999996,
+        "lng": 139.71504199999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d523bebf-b5e7-414c-8455-3aa3d5b0af37.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d523bebf-b5e7-414c-8455-3aa3d5b0af37.webp"
+        },
+        {
+          "url": "media/cached-image_8bdb0f764a8c8558c88ee32db4062dd28e554e4e4355199682d4807c14631452.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Satte Station, 1-chōme-1 Naka, Satte, Saitama 340-0115, Japan",
+      "city": "Satte",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0748931,139.7154504,3a,75y,231.41h,93.97t/data=!3m7!1e1!3m5!1swGwKWe_fieNLQYHEsvSJXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.96894033353513%26panoid%3DwGwKWe_fieNLQYHEsvSJXA%26yaw%3D231.40665221150647!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Satte Station appears in episode 20 as part of the local Saitama rail corridor, reflecting the show's careful depiction of the real Tobu-line commute the characters take."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn6UgUTa5GGARRW9GtovrDag",
+      "name": "/ Maguroyamonkikasukabeten",
+      "localName": "春日部駅西口海鮮居酒屋/焼き鳥【まぐろやモンキー春日部西口店】",
+      "coordinates": {
+        "lat": 35.9793229,
+        "lng": 139.7502093
+      },
+      "image": "https://cdn.animepilgrimage.com/places/023fa332-d56a-463c-885d-25f863e60476.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/023fa332-d56a-463c-885d-25f863e60476.webp"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "/ Maguroyamonkikasukabeten, 鹿間ビル 1 Chome-8-9 Central, Kasukabe, Saitama 344-0067, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9795698,139.7501363,3a,90y,48.99h,108.3t/data=!3m7!1e1!3m5!1ss6qrfkz7NKRpIKPwxfWHVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.303488560548104%26panoid%3Ds6qrfkz7NKRpIKPwxfWHVQ%26yaw%3D48.987633024960516!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNQMka0LBGGARyI_-Df7sl_w",
+      "name": "Animate Omiya Comic Kan",
+      "localName": "アニメイト大宮 ２号館",
+      "coordinates": {
+        "lat": 35.904517999999996,
+        "lng": 139.62347889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9714f34-7f85-4d6d-9608-1b5e505084f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9714f34-7f85-4d6d-9608-1b5e505084f1.webp"
+        },
+        {
+          "url": "media/cached-image_8afbab79f73f07fc003e4e164b39ef0b2023ab7c74e3b2fa5ba1b8ecd8249bbe.jpg"
+        }
+      ],
+      "type": "Comic book store",
+      "categories": [
+        "Comic book store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Animate Omiya Comic Kan, 1F 1 Chome-３-6 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9044759,139.6233562,3a,90y,258.7h,95.54t/data=!3m7!1e1!3m5!1sSXbUENtUiShA7kidJHrJ3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.54147063887676%26panoid%3DSXbUENtUiShA7kidJHrJ3w%26yaw%3D258.6957660496737!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ21f6aULBGGARXgr2KBl3IjE",
+      "name": "Hidakaya Omiya Nishiguchi",
+      "localName": "日高屋 大宮西口店",
+      "coordinates": {
+        "lat": 35.904537499999996,
+        "lng": 139.62315429999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5776fda1-ccb2-42eb-864b-a6abbad503b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5776fda1-ccb2-42eb-864b-a6abbad503b6.webp"
+        },
+        {
+          "url": "media/cached-image_7b4f1a4a7ff284842daf882ead9e6453d33505923721589dce405dbb95b48b45.jpg"
+        }
+      ],
+      "type": "Chinese restaurant",
+      "categories": [
+        "Chinese restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hidakaya, 曙ビル 1 Chome-4-7 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.904455,139.6232114,3a,90y,7.43h,93.65t/data=!3m7!1e1!3m5!1stTcyTBp13aHn5aKE4oKiEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6540422056464195%26panoid%3DtTcyTBp13aHn5aKE4oKiEg%26yaw%3D7.433666238389208!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyfJUnT_BGGARkxWrfDVh5yk",
+      "name": "Rairaiken Omiya Nishiguchi Branch",
+      "localName": "ラーメン凪 大宮東口店",
+      "coordinates": {
+        "lat": 35.9068173,
+        "lng": 139.6265113
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e20bb413-c2f6-4101-b074-ac508c9b55c3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e20bb413-c2f6-4101-b074-ac508c9b55c3.webp"
+        },
+        {
+          "url": "media/cached-image_e185f9b40bf7ec18624fc6e14a8d77922e749e071a738c15dd0440346f2e8ef1.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ramen Nagi Omiya East Exit, 大一ビル 1F 1 Chome-24-1 Daimoncho, Omiya Ward, Saitama, 330-0846, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9058906,139.6208364,3a,90y,20.17h,94.77t/data=!3m7!1e1!3m5!1sWpL0Y5HpOapkD2Kf1Iq1jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.765752866053006%26panoid%3DWpL0Y5HpOapkD2Kf1Iq1jQ%26yaw%3D20.169807704359133!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_18",
+      "name": "SONIC CITY",
+      "localName": "ソニックシティ",
+      "coordinates": {
+        "lat": 35.90529,
+        "lng": 139.62156
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e3d2d7e-dbad-4db9-abf2-ee50fdd0db00.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e3d2d7e-dbad-4db9-abf2-ee50fdd0db00.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.9052485,139.6216891,3a,75y,282.19h,112.98t/data=!3m7!1e1!3m5!1smZxIFNakwjQRi6n0kU4qJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.977728917198263%26panoid%3DmZxIFNakwjQRi6n0kU4qJg%26yaw%3D282.1948556609964!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "Sonic City, the large civic hall near Omiya Station, appears in episode 15 as a background building in the Omiya city center streetscape that the show meticulously recreates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm4Y0ZkLBGGARQfPq-frbz5U",
+      "name": "Seimusu Omiya Nishiguchi Pharmacy",
+      "localName": "セイムス 大宮西口薬局",
+      "coordinates": {
+        "lat": 35.9042813,
+        "lng": 139.6228282
+      },
+      "image": "https://cdn.animepilgrimage.com/places/efdef14d-a9c5-4a07-bd7d-5c2b2f138589.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/efdef14d-a9c5-4a07-bd7d-5c2b2f138589.webp"
+        },
+        {
+          "url": "media/cached-image_968d40cca29157d6e911e8b3eedd85effeb8d74ce194f6c9b62a63a3f129eac2.jpg"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": 1.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seimusu Omiya Nishiguchi Pharmacy, ホクシンビル, １Ｆ, 1 Chome-159 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.904474,139.6228111,3a,90y,165.75h,97.28t/data=!3m7!1e1!3m5!1skmyrHwrp7NZQVtSdj-0-HQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.281212004071463%26panoid%3DkmyrHwrp7NZQVtSdj-0-HQ%26yaw%3D165.7474446957362!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqw7q-ULBGGAR6fa9Pehlhb8",
+      "name": "SOGO Omiya Store",
+      "localName": "そごう大宮店",
+      "coordinates": {
+        "lat": 35.904629799999995,
+        "lng": 139.621615
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6439317b-c283-409e-8e6b-9667221a3e1f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6439317b-c283-409e-8e6b-9667221a3e1f.webp"
+        },
+        {
+          "url": "media/cached-image_6fcf2ce45334eb11dfee362d5d3e1eaac6cdcb1aff8eadefa0449be41a76f6d8.jpg"
+        },
+        {
+          "url": "media/cached-image_eb5ef6297ef69820b5be706c35c5892d4be274af0e614b1fb542adb86bca6751.jpg"
+        },
+        {
+          "url": "media/cached-image_ade9f14f867c64c2de8cead59882bb73a54450b7a1c049e88a0eadec92d9ae3c.jpg"
+        },
+        {
+          "url": "media/cached-image_aa6249d099108bc4683b48392bbfec1e94504605a988712b66de067c1121946f.jpg"
+        },
+        {
+          "url": "media/cached-image_8b436b128356151a43f37de7b1c275daeb28f59b7ba70a26dd6d40f6bb4942f6.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 3952,
+      "priceLevel": null,
+      "address": "SOGO Omiya Store, 1 Chome-6-2 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.905277,139.6222732,3a,90y,175.56h,96.27t/data=!3m7!1e1!3m5!1sQaxXE37tUE5mcgxY2nwdqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.265999092653914%26panoid%3DQaxXE37tUE5mcgxY2nwdqw%26yaw%3D175.5594131702374!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnbQQodq-GGARRSiQcwcWjKE",
+      "name": "Kasukabe Kyoei-mae (bus)",
+      "localName": "春日部共栄中学高等学校",
+      "coordinates": {
+        "lat": 35.960280999999995,
+        "lng": 139.74158
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35a36bd8-584d-4475-93f9-b1352a1d6292.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35a36bd8-584d-4475-93f9-b1352a1d6292.webp"
+        },
+        {
+          "url": "media/cached-image_9c103124f1604d3ef03f4881a45dd1fb5aed438c41f01c8b299f5d2d6e33f089.jpg"
+        }
+      ],
+      "type": "Private educational institution",
+      "categories": [
+        "Private educational institution"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kasukabe Kyoei High School, 213番地 Kamiomashi Shinden, Kasukabe, Saitama 344-0037, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.960208,139.742788,3a,48.7y,328.23h,95.12t/data=!3m7!1e1!3m5!1srupkW1qc-oj5MgUIQWK_kQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.120350787886807%26panoid%3DrupkW1qc-oj5MgUIQWK_kQ%26yaw%3D328.22639253272905!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "The area near Kasukabe Kyoei High School appears in episode 14 as a background location in the Kasukabe neighborhood scenes, part of the show's detailed recreation of the real local streetscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu62o5km5GGARhezlPUXgisc",
+      "name": "Married Trees of Akiba-Jinja",
+      "localName": "秋葉神社の夫婦松",
+      "coordinates": {
+        "lat": 35.979419199999995,
+        "lng": 139.7527879
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2c05577-3e22-40c8-bbeb-a88f5989142c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2c05577-3e22-40c8-bbeb-a88f5989142c.webp"
+        },
+        {
+          "url": "media/cached-image_4a03de6e4292d5835ec724262a43e52b84e35d41bf426c3c463975e7748bf685.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Married Trees of Akiba-Jinja, 1 Chome-42-1 Central, Kasukabe, Saitama 344-0067, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9794525,139.7524324,3a,90y,175.47h,104.38t/data=!3m7!1e1!3m5!1s2ArY0Vvl59RPsBjUKvLSyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.376764902574934%26panoid%3D2ArY0Vvl59RPsBjUKvLSyQ%26yaw%3D175.46706854306993!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The entwined pine trees at Akiba Shrine in Kasukabe appear in episode 13, a quiet local landmark that adds to the show's affectionate portrayal of the Kasukabe neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQSDrYJu4GGARD_broFBjNUM",
+      "name": "Washinomiya Shrine",
+      "localName": "鷲宮神社",
+      "coordinates": {
+        "lat": 36.099913,
+        "lng": 139.65494669999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8271e864-9884-4864-b1b0-e6e44d68e90a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8271e864-9884-4864-b1b0-e6e44d68e90a.webp"
+        },
+        {
+          "url": "media/cached-image_c75b272f9dc0594f911d9a579a3a966e2ab732075e9e9ea8311915b5a87fa86e.jpg"
+        },
+        {
+          "url": "media/cached-image_7bace8a17680c404349f6f447096826eaa4da12e05c6dfb35a183ec88f1326b5.jpg"
+        },
+        {
+          "url": "media/cached-image_b5f4ae16c219ea2dc3acb4fb1cd3271b267f505e1f09f6d16c9cc28b94330a36.jpg"
+        },
+        {
+          "url": "media/cached-image_58169daf260fb845b2e4f65a1ea7c84a3e54f7730300013f473a678425640c53.jpg"
+        },
+        {
+          "url": "media/cached-image_bcb2ace2e96ab1fa0574966b86c12c76b4f377b0ffa25b5182964bc6aaa7d388.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2979,
+      "priceLevel": null,
+      "address": "Washinomiya Shrine, 1 Chome-6-1 Washinomiya, Kuki, Saitama 340-0217, Japan",
+      "city": "Kuki",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0998981,139.6549397,3a,90y,72.75h,96.44t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC41Z3R1QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY5QnqDf2A1gl0cIiP-DCBVKZqzwOm88T98LL553rShE4zpqmeW-PZoNlnGvDmma5zls7PLrPTb6PDjBsn2ESW7psMV82BGBX7p2UkbaKWbVv0z-f82ciPkIpK7ytdwBgt3YccBUg%3Dw900-h600-k-no-pi-6.441687223882724-ya100.75444727077604-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Hiiragi family shrine in Lucky Star, where Kagami and Tsukasa's father serves as a priest. It became the single most famous Lucky Star pilgrimage spot, drawing tens of thousands of fans each New Year after the anime aired in 2007.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX9Q3t92JGGARif92jO43y0Y",
+      "name": "Lawson Tokyo Big Sight Entrance",
+      "localName": "ローソン 東京ビッグサイトエントランス店",
+      "coordinates": {
+        "lat": 35.6302065,
+        "lng": 139.7953265
+      },
+      "image": "https://cdn.animepilgrimage.com/places/030cdf0c-82fe-4928-8043-6f3d2a552be1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/030cdf0c-82fe-4928-8043-6f3d2a552be1.webp"
+        },
+        {
+          "url": "media/cached-image_f0a3cb9bd62414b5f66892b4d04a7d520ef70618601ebe9cbe2a340c01ea1ddc.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Tokyo Big Sight Entrance, 3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6304083,139.7950417,3a,90y,110.94h,93.06t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICmrNeBmQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hb2RB8pBRa_TSdBdDMhHkBxb0Vp9XuOjPqhOm4KOn0RVnvqCWvgGxKWS497sOZj5eu8LMHVO1lE6fFb_j3qX0E1rzuLg7nzktfuk7gLwh1vIBTEVZLDTD6pxyYFUpfC80hmiQaGDw%3Dw900-h600-k-no-pi-3.0643076117604124-ya325.7437265512489-ro0-fo100!7i6720!8i3360?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Lawson convenience store at the Big Sight entrance appears in episode 12 during Comiket, where fans line up for refreshments before battling the crowds inside the convention halls."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvblVLblgGGAR1lrV1Lx0qmM",
+      "name": "Kawasaki city Recreation Ground",
+      "localName": "カルッツかわさき (川崎市スポーツ・文化総合センター)",
+      "coordinates": {
+        "lat": 35.5298316,
+        "lng": 139.7085325
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fcf11f15-0cbe-4d98-8a40-e313bb10716d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fcf11f15-0cbe-4d98-8a40-e313bb10716d.webp"
+        },
+        {
+          "url": "media/cached-image_2c1c6d013187c251cce1a3f6d81f2edd740866a0c0b8b4f1e7650b9d15c18307.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Culttz Kawasaki, 1 Chome-1-4 Fujimi, Kawasaki Ward, Kawasaki, Kanagawa 210-0011, Japan",
+      "city": "Kawasaki",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5263568,139.7101262,3a,48.7y,85.3h,96.61t/data=!3m7!1e1!3m5!1s5I_5taqVMzYJ_JMpwhTXMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.608679937122503%26panoid%3D5I_5taqVMzYJ_JMpwhTXMA%26yaw%3D85.3023179233556!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJASMZT763GGAREiIzZo80b74",
+      "name": "Sugito-Takanodai Station",
+      "localName": "杉戸高野台駅",
+      "coordinates": {
+        "lat": 36.051586199999996,
+        "lng": 139.71457859999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f007d77c-b942-40e4-bee1-13750425d56a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f007d77c-b942-40e4-bee1-13750425d56a.webp"
+        },
+        {
+          "url": "media/cached-image_60ff07a0629788c0fc7888a3b54b5255d1c5c8a0b39fcdce4c3619988062bb4f.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sugito-Takanodai Station, 1-chōme Takanodaihigashi, Sugito, Kitakatsushika District, Saitama 345-0047, Japan",
+      "city": "Sugito",
+      "region": "Kitakatsushika District, Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.051153,139.7144521,3a,75y,68.59h,99.43t/data=!3m7!1e1!3m5!1sU1EqOKgB758PwoxQFyycRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.42827144268881%26panoid%3DU1EqOKgB758PwoxQFyycRQ%26yaw%3D68.58701829669862!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Sugito-Takanodai Station features in episode 11 as one of the real Tobu-line stations along the characters' commute route through northern Saitama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4zSVv2vBGGAR4Vgf_7YndTI",
+      "name": "FamilyMart Omiya Station West Entrance Store",
+      "localName": "ファミリーマート 大宮駅西口店",
+      "coordinates": {
+        "lat": 35.9044318,
+        "lng": 139.62293309999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c64f811f-e2c6-439c-a3d0-0654dc94131e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c64f811f-e2c6-439c-a3d0-0654dc94131e.webp"
+        },
+        {
+          "url": "media/cached-image_c7afbb53eeff32402e128b673b7620a341d9dba122db4fc8c9048a1cedd04958.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Omiya Station West Entrance Store, 五十嵐ビル 1F 1 Chome-4-4 Sakuragicho, Omiya Ward, Saitama, 330-0854, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9045928,139.6227768,3a,75y,118.96h,98.05t/data=!3m7!1e1!3m5!1s2TYKRg5T5WcBZkF-53veOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.048618369252381%26panoid%3D2TYKRg5T5WcBZkF-53veOw%26yaw%3D118.96324087906335!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC8oIaWe7AmARcJ-hk5GRiOo",
+      "name": "Miyamae Bridge",
+      "localName": "宮前橋",
+      "coordinates": {
+        "lat": 36.147567099999996,
+        "lng": 137.2571279
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5551ed42-3c49-462f-b2c4-8028a92c6bf2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5551ed42-3c49-462f-b2c4-8028a92c6bf2.webp"
+        },
+        {
+          "url": "media/cached-image_74c3bbefc653f1cf8d06f1cad1266519970ca28a8aea3b6837d60b04adf3af5b.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Miyamae Bridge, 2 Chome Nanukamachi, Takayama, Gifu 506-0851, Japan",
+      "city": "Takayama",
+      "region": "Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.09922,139.6565118,3a,49.6y,0.06h,94.23t/data=!3m7!1e1!3m5!1sFhu9NRyiZyFeWNPGfOzaAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.225481937198069%26panoid%3DFhu9NRyiZyFeWNPGfOzaAg%26yaw%3D0.06464389099977552!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Miyamae Bridge in Takayama, Gifu appears in episode 9 as a scenic bridge location. Its appearance in the show drew pilgrimage visitors to the Hida Takayama area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_29",
+      "name": "Beauty House Angel",
+      "localName": "ビューティハウス エンジェル",
+      "coordinates": {
+        "lat": 35.9792,
+        "lng": 139.75102
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7fd7fb75-7ec8-4e9e-b3ab-ac4fb1e5b6a0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7fd7fb75-7ec8-4e9e-b3ab-ac4fb1e5b6a0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.9792215,139.7510453,3a,90y,185.51h,93.33t/data=!3m7!1e1!3m5!1sX8Fb6hPkJS1VtrNLUgU0VA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3304759792952154%26panoid%3DX8Fb6hPkJS1VtrNLUgU0VA%26yaw%3D185.50574993150602!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc6jgbBfBGGARC-6kUIWdkQU",
+      "name": "NewDays Omiya West ticket gate",
+      "localName": "NewDays 大宮",
+      "coordinates": {
+        "lat": 35.9064811,
+        "lng": 139.623947
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5da5be8f-9738-4341-a592-b8f3f3b2d644.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5da5be8f-9738-4341-a592-b8f3f3b2d644.webp"
+        },
+        {
+          "url": "media/cached-image_9ff590f57e00a80733cc30b957d380112cb5e934d7ec74ead4f48ff1ab96d0cc.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0853 Saitama, Omiya Ward, Nishikicho, 630 JR大宮駅 ２Ｆ 自由通路 NewDays Omiya, 中央改札 北口脇",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9059451,139.6228019,3a,90y,193.99h,94.23t/data=!3m7!1e1!3m5!1sgtphEwqxoPfCkKpLPOTECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.234408702810981%26panoid%3DgtphEwqxoPfCkKpLPOTECw%26yaw%3D193.99059033541675!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_31",
+      "name": "Uoman",
+      "localName": "魚萬",
+      "coordinates": {
+        "lat": 35.1816,
+        "lng": 139.65409
+      },
+      "image": "https://cdn.animepilgrimage.com/places/efc85e1a-b98a-4331-9a52-001503d84696.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/efc85e1a-b98a-4331-9a52-001503d84696.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1815919,139.6541277,3a,90y,262.96h,105.27t/data=!3m7!1e1!3m5!1sdP_rjHFptIXwaVN22hJzKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.265968348052667%26panoid%3DdP_rjHFptIXwaVN22hJzKg%26yaw%3D262.9601229418896!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlVK_IDa5GGARAAdHaZ4pBeI",
+      "name": "Kasukabe Station",
+      "localName": "春日部駅",
+      "coordinates": {
+        "lat": 35.979898999999996,
+        "lng": 139.7522909
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce79f436-e840-4987-a30f-378c03435011.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce79f436-e840-4987-a30f-378c03435011.webp"
+        },
+        {
+          "url": "media/cached-image_7303469e428edb6b20b06d690844dd2cb762c0f1779450669bbffd47013b7576.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasukabe Station, 1 Chome-10-1 Kasukabe, Saitama 344-0061, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9793607,139.7521284,3a,43.8y,302.07h,92.16t/data=!3m7!1e1!3m5!1sOQwNSona10SYlB98NxpSQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1566890678455195%26panoid%3DOQwNSona10SYlB98NxpSQg%26yaw%3D302.0737872944882!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The real-world train station that serves as the model for the station Konata and her friends pass through in the Kasukabe area scenes. Kasukabe (fictionalized as Kasukabe in the show) is the hometown of the main cast.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuwlQIza5GGARESnSE-tQiJM",
+      "name": "Mizuho Bank Kasukabe Branch",
+      "localName": "みずほ銀行 春日部支店",
+      "coordinates": {
+        "lat": 35.9796069,
+        "lng": 139.7517911
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49b91c2a-25e4-41b4-9f52-ee299f54cdf5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49b91c2a-25e4-41b4-9f52-ee299f54cdf5.webp"
+        },
+        {
+          "url": "media/cached-image_47702357b3a7faf95c02243675f8aeb908d5ce93b2ac5179271f66604b8dbf62.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mizuho Bank Kasukabe Branch, 1 Chome-1-1 Central, Kasukabe, Saitama 344-0067, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9795669,139.752006,3a,90y,352.48h,113.56t/data=!3m7!1e1!3m5!1sJ-JmUHuEOWKS-L-YJl6j7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-23.56341286146953%26panoid%3DJ-JmUHuEOWKS-L-YJl6j7g%26yaw%3D352.4800744090282!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_34",
+      "name": "Koto Koto",
+      "localName": "ことこと",
+      "coordinates": {
+        "lat": 36.08756,
+        "lng": 139.72511
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10021f2c-9e31-4e82-9a07-89b88347d60f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10021f2c-9e31-4e82-9a07-89b88347d60f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.0875167,139.7250967,3a,90y,8.06h,102.91t/data=!3m7!1e1!3m5!1sUGXcasBB6kSYVZ7i3KtNIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.909084417158468%26panoid%3DUGXcasBB6kSYVZ7i3KtNIg%26yaw%3D8.057107883167294!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYzWjJja5GGARk1v_DGsSJl4",
+      "name": "Baskin-Robbins Kasukabe Station West Exit",
+      "localName": "サーティワンアイスクリーム 春日部駅西口店",
+      "coordinates": {
+        "lat": 35.979828399999995,
+        "lng": 139.7520926
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84f14684-b5eb-4521-8f23-3abd4b9f882c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84f14684-b5eb-4521-8f23-3abd4b9f882c.webp"
+        },
+        {
+          "url": "media/cached-image_f399cb46e02c203a1e8e4927113c6b8ea9126b3d38b5f1eadbdf541ba782ff37.jpg"
+        }
+      ],
+      "type": "Ice cream shop",
+      "categories": [
+        "Ice cream shop"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Baskin-Robbins, 1 Chome-10-1 Kasukabe, Saitama 344-0061, Japan",
+      "city": "Kasukabe",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9796971,139.7521087,3a,90y,79.91h,101.26t/data=!3m7!1e1!3m5!1sQJHXDSAc2IB00j1T1KELAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.26287030103073%26panoid%3DQJHXDSAc2IB00j1T1KELAw%26yaw%3D79.90513402944501!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGRfUSWoz-F8RKOVvvRgEp2w",
+      "name": "Otori Chaya Den-Den",
+      "localName": "おでん処 大酉茶屋",
+      "coordinates": {
+        "lat": 36.5777642,
+        "lng": 136.6515536
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6cdb5ff5-ae61-4e2f-98b4-b1680008cde6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6cdb5ff5-ae61-4e2f-98b4-b1680008cde6.webp"
+        },
+        {
+          "url": "media/cached-image_8fa517c4762639e0451a8bf8e086c9a01729b61e97f0210b253aa7c32b2109b6.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Otori Chaya, 2-25 Konohanamachi, Kanazawa, Ishikawa 920-0852, Japan",
+      "city": "Kanazawa",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.1002366,139.6569925,3a,75y,268.35h,93.98t/data=!3m7!1e1!3m5!1sygouwqyLgQwDwZDE-tmV8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.977128425022684%26panoid%3DygouwqyLgQwDwZDE-tmV8Q%26yaw%3D268.3477634938094!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_lucky-star_37",
+      "name": "Satte Pharmacy",
+      "localName": "幸手薬局",
+      "coordinates": {
+        "lat": 36.07792,
+        "lng": 139.71961
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b4313a2-4d3e-472f-a4e1-731e45c3b95c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b4313a2-4d3e-472f-a4e1-731e45c3b95c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.0779385,139.719647,3a,90y,102.88h,96.37t/data=!3m7!1e1!3m5!1sPVgWEGwmHymh8ZTRSph5NQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.372282597018355%26panoid%3DPVgWEGwmHymh8ZTRSph5NQ%26yaw%3D102.87794021885209!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8T1GpMGOGGARDYGSgpooDWw",
+      "name": "Senso-ji",
+      "localName": "浅草寺",
+      "coordinates": {
+        "lat": 35.7147651,
+        "lng": 139.7966553
+      },
+      "image": "https://cdn.animepilgrimage.com/places/985d0ffa-0e02-4a55-95be-2fed2a92140f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/985d0ffa-0e02-4a55-95be-2fed2a92140f.webp"
+        },
+        {
+          "url": "media/cached-image_eebd5e6e73eec2e05f6bcc5cc1b93e07ff11c5acea472d01f9c30279833dad5f.jpg"
+        },
+        {
+          "url": "media/cached-image_d22bc0b79a0933fe2452282fd877aef563953e9586016e32e4f602c72d8462ab.jpg"
+        },
+        {
+          "url": "media/cached-image_347efd60b84f2c7f7d2f0eec0a97afd7e753033e6d198eef56abf2c0bbd55490.jpg"
+        },
+        {
+          "url": "media/cached-image_6eaf836856350ca2f571aaf263adc70733d9728ee4bfa69c49562da18f422248.jpg"
+        },
+        {
+          "url": "media/cached-image_16c118e7470821f98ac19d41b9d8b6711cd6acb62b01a4c1bf62d107e98f86cc.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 96164,
+      "priceLevel": null,
+      "address": "Sensō-ji, 2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7142733,139.7966844,2a,90y,17.14h,100.13t/data=!3m7!1e1!3m5!1sJjK9Rpr1pBkw7ypp2fCcxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.130824682393182%26panoid%3DJjK9Rpr1pBkw7ypp2fCcxw%26yaw%3D17.13692685244887!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Konata and friends visit Senso-ji in episode 11, with Konata making wishes that predictably revolve around anime and gaming luck. The famous Kaminarimon gate and Nakamise shopping street appear in background shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW1jvW1nBGGAR9RegCOjBitY",
+      "name": "The Alley - Lumine Omiya",
+      "localName": "THE ALLEY ルミネ大宮店",
+      "coordinates": {
+        "lat": 35.9064604,
+        "lng": 139.6226072
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b19fe713-2d34-4855-a646-ee633179d14d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b19fe713-2d34-4855-a646-ee633179d14d.webp"
+        },
+        {
+          "url": "media/cached-image_68ada2ab24decf216c981d345fd51954670697f2b09e100a6a1030df7741993a.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "The Alley - Lumine Omiya, ルミネ大宮 LUMINE2 1F 630 Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LQ2oKPJVH5eG197c6",
+      "episodeType": "EP",
+      "episodeNumber": 14
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNfjL492JGGARIUzKvWzbgcY",
+      "name": "Tokyo Big Sight Rooftop Exhibition Area",
+      "localName": "東京ビッグサイト屋上展示場",
+      "coordinates": {
+        "lat": 35.62853,
+        "lng": 139.79397
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8c8ef51c-0c73-454c-a9de-2244c57a4b20.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8c8ef51c-0c73-454c-a9de-2244c57a4b20.webp"
+        },
+        {
+          "url": "media/cached-image_224db3f9d9c906d14ced469fb2c46d32d2f883a9a1ec56385d8ad8048db22d59.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0063 Tokyo, Koto City, Ariake, 3 Chome−11−1, 東京国際展示場西展示棟4F",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cbrA38chNymfcozs6",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The outdoor exhibition area of Tokyo Big Sight is shown in episode 12 as part of the Comiket sequence, capturing the massive scale of the event that Konata treats as her most important annual pilgrimage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKTP54qeOGGARsZf1fyU2jxU",
+      "name": "Akihabara Station",
+      "localName": "秋葉原駅",
+      "coordinates": {
+        "lat": 35.6990075,
+        "lng": 139.7726435
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4c57da4-ad7a-4d7e-9b0c-e94015e242f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4c57da4-ad7a-4d7e-9b0c-e94015e242f2.webp"
+        },
+        {
+          "url": "media/cached-image_988d5fa52dcd4e10468a38f5fcd8904c763a01bfb0f511f301d56d1301df6357.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Sotokanda, Chiyoda City, Tokyo, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/%E7%A7%8B%E8%91%89%E5%8E%9F%E9%A7%85%E9%9B%BB%E6%B0%97%E8%A1%97%E5%8F%A3%E3%80%90%E8%A5%BF%E5%81%B4%E5%BA%83%E5%A0%B4%E3%80%91/@35.6990075,139.7726435,3a,48.9y,138.15h,85.05t/data=!3m6!1e1!3m4!1sn7Zw_DEd0tpC7oaICWBifQ!2e0!7i16384!8i8192!4m6!3m5!1s0x60188f5d0103c7cf:0xc66678cb0bb6d45b!8m2!3d35.6987279!4d139.7726305!16s%2Fg%2F11sv1bfnq6?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "Akihabara Station is the gateway to Konata's beloved otaku district, seen in episode 16 as the group arrives for a shopping trip that turns into a tour of anime and game stores."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4W9CCwUJAWARyauI6BzKiiU",
+      "name": "Higashiyama Jisho-ji",
+      "localName": "東山慈照寺",
+      "coordinates": {
+        "lat": 35.0264544,
+        "lng": 135.7983325
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cdaa2af1-2ee9-48e2-937d-7a55bc452631.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cdaa2af1-2ee9-48e2-937d-7a55bc452631.webp"
+        },
+        {
+          "url": "media/cached-image_4b02409c0204e2788ec40435e316585cc50eec9c55a756cfc208b4f9907f2704.jpg"
+        },
+        {
+          "url": "media/cached-image_ba3949a79ebf1bbb6285bfae02f53f72c8cacdcab7564a72414f7bc44ae6ef9b.jpg"
+        },
+        {
+          "url": "media/cached-image_8768076ee1eb294dd104e94b8a876fe28cfc051456e73b905eb5d412f3f77f36.jpg"
+        },
+        {
+          "url": "media/cached-image_dd9ef2f5487abdac622b2036f78eeee8f488784c88df789d65a0e9557e7e2e75.jpg"
+        },
+        {
+          "url": "media/cached-image_a72f179f493680bef13a811dcc233b5e097eda4bbdf771fa2e841b22dd3b3b11.jpg"
+        },
+        {
+          "url": "media/cached-image_a620f273319437816ed9ad31353bbe8275ec26c46ac7332611c6deabf936fdca.jpg"
+        },
+        {
+          "url": "media/cached-image_ba22a3cd2ec6ab8dc092b74fdde7da39bc0339ac9c45ba30d0f7868fef7ed1a2.jpg"
+        },
+        {
+          "url": "media/cached-image_c77174425d55ca8548ff60e6e9f5e55c53ea1faf957fc7da08574c48a8cebafb.jpg"
+        },
+        {
+          "url": "media/cached-image_5d6c1eca08f500c0a3000db956451b4a38bcc1c204f9d9d5987d1b2cca7a7a80.jpg"
+        },
+        {
+          "url": "media/cached-image_939f04905a73005374a1ce013fc2e86500ec731612dec94bec0d292ab6930268.jpg"
+        },
+        {
+          "url": "media/cached-image_d1f0455517399651014cc9e4ccbdf82147b4d01f807372dc223fbae0cff55bc3.jpg"
+        },
+        {
+          "url": "media/cached-image_04e8ae0f850d6506229ca1e9e649a5d0531ce1d664931701aece8247feb12f2b.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 17143,
+      "priceLevel": null,
+      "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0264544,135.7983325,3a,90y,300.3h,97.71t/data=!3m8!1e1!3m6!1sAF1QipNImhRp70ooZwtcnIKkJ4htX_oCnp_BtRiyulLM!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNImhRp70ooZwtcnIKkJ4htX_oCnp_BtRiyulLM%3Dw203-h100-k-no-pi-0-ya204.29153-ro0-fo100!7i12288!8i5196?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Ginkaku-ji (the Silver Pavilion) is visited by the class in episode 21's Kyoto trip sequence. Konata observes the famous moss garden while spinning comparisons to RPG dungeon aesthetics."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqewQoHkIAWAR6RokWp3Iesc",
+      "name": "Yasaka",
+      "localName": "ヤサカ",
+      "coordinates": {
+        "lat": 35.0509271,
+        "lng": 135.7900078
+      },
+      "image": "https://cdn.animepilgrimage.com/places/569e7dd6-7525-48e1-83da-909578b2fb9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/569e7dd6-7525-48e1-83da-909578b2fb9f.webp"
+        },
+        {
+          "url": "media/cached-image_811de61d14276c995aa824eb1c4cb1edc4fecb7f2b28f6014d9d4286e6cdcdc9.jpg"
+        },
+        {
+          "url": "media/cached-image_88cfde9d2394bb9692fb3444d7aee1d7fed7941b5b32963baaf248945f477977.jpg"
+        },
+        {
+          "url": "media/cached-image_227295c57ddfa9f0ae089d7965efca738d2e80477caaef4c3c7f74fcf010be70.jpg"
+        },
+        {
+          "url": "media/cached-image_6240c89942806b3bcb3a773a902d7a5314616caa6d328ed6ce528611ba5fc393.jpg"
+        },
+        {
+          "url": "media/cached-image_9ff2e06de90075b9f4dde4e82b9d1bf637b3c478b6e9640d77ab9a74222c8ac8.jpg"
+        },
+        {
+          "url": "media/cached-image_0bd2101249e69b815df27e4ac49ed64ec7517831b94dd75adeb6d3e03a79f12f.jpg"
+        },
+        {
+          "url": "media/cached-image_3f3ddda7c3572d80647344984844ba7f43e6be510f3131323ae70dd9bc240d57.jpg"
+        },
+        {
+          "url": "media/cached-image_5b8018afca5ac7e7ca38589594e6aa101a541cbd8d5f9c8a75b9def45fc764c8.jpg"
+        },
+        {
+          "url": "media/cached-image_358fd81482886562ded039b9409ac5bc4301be38fd9ea57671cdb88ed53d2d90.jpg"
+        },
+        {
+          "url": "media/cached-image_812e9d86e6c1ab60b508dbe3e7a740a92c37e971f1ce314442f89178ac6643f8.jpg"
+        },
+        {
+          "url": "media/cached-image_bef6cfd57c6702665f19962c91ae22d0767b89cc254b35d4c70ff27639c4018c.jpg"
+        },
+        {
+          "url": "media/cached-image_90852102b40ef1f6c8b957a29d5e7e47f585ef8e4fff8524986ff9fdff1b9806.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 32472,
+      "priceLevel": null,
+      "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0509271,135.7900078,3a,90y,18.38h,93.24t/data=!3m6!1e1!3m4!1sgI-Q2HTfpv7rM_StzOI3Aw!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Yasaka Shrine is part of the Gion sightseeing route in episode 21, visible as the class strolls through Kyoto's famous Higashiyama district during their school trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fe1d301c-8d8e-409a-b940-c4d7aabb1a18.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fe1d301c-8d8e-409a-b940-c4d7aabb1a18.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The convention center depicted in episode 12 when Konata drags her friends to Comiket, the massive doujinshi fair. Konata's obsessive fan-girl energy peaks here as she races to buy limited-edition goods.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3XYIepA5AWARjzzVnT-skPg",
+      "name": "Todai-ji",
+      "localName": "東大寺",
+      "coordinates": {
+        "lat": 34.6874195,
+        "lng": 135.8398691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4cf96ef9-d900-4206-abf2-d3f77fcb8a6a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4cf96ef9-d900-4206-abf2-d3f77fcb8a6a.webp"
+        },
+        {
+          "url": "media/cached-image_9bfcb2bf134a30fbbd6a588f9756099f227ab538efef54b38e21fc8ce073ced5.jpg"
+        },
+        {
+          "url": "media/cached-image_f77a756dc1fd49ac8927a31d9949052f321b180203df4c39e196ad04d36b3d14.jpg"
+        },
+        {
+          "url": "media/cached-image_a173ef64813d1573844cff631d37ccb064df404554a8808bf9e93e3da3ff141f.jpg"
+        },
+        {
+          "url": "media/cached-image_e5f00da4833b91ee5009045699944411a3c4972c453e5552789d53c024a6dfbd.jpg"
+        },
+        {
+          "url": "media/cached-image_9e4463682b8b01a2cf4b2f6e8347c2606680d9142189ce5065c560b55f301ea5.jpg"
+        },
+        {
+          "url": "media/cached-image_7cb2689dee9eba6df22cad93ed7279c34185c386cdc16a19f23e85bb963859d0.jpg"
+        },
+        {
+          "url": "media/cached-image_6c0eb4f25cb3ddaf408a1b0e898226349325c82ee98cbf2fed5ce44f1824f966.jpg"
+        },
+        {
+          "url": "media/cached-image_54c05e01f02f156507c4bd41cfe1f50290408b4132958081cf61d501d1562cd7.jpg"
+        },
+        {
+          "url": "media/cached-image_99a2d270b3248f66694ed35f9dfb934ae858b01bc1efc341716e0f2af43b0a31.jpg"
+        },
+        {
+          "url": "media/cached-image_4461614f44c90f74093dc6f4483116e14519da8e46010a2b5314444c33454e58.jpg"
+        },
+        {
+          "url": "media/cached-image_c1dffe546c6eaa0a765d02d2d812f7c9744664bc9c940b234e0705619eea4397.jpg"
+        },
+        {
+          "url": "media/cached-image_bce1e2195fe4bd1ad164c2a67f294f7cf987c022dbfe640177e9d6b9207edaa7.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.7,
+      "reviewCount": 30407,
+      "priceLevel": null,
+      "address": "406-1 Zoshicho, Nara, 630-8587",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6874195,135.8398691,3a,75y,5.78h,98.25t/data=!3m8!1e1!3m6!1sAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p%3Dw203-h100-k-no-pi-0-ya283.7386-ro0-fo100!7i6528!8i3264?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The Great Buddha Hall of Todai-ji in Nara is visited in episode 21 as the class extends their trip to Nara, with Konata joking that the giant Buddha looks like a boss character from an RPG."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr_gZonkIAWARB1xyACZNUKM",
+      "name": "Sannenzaka",
+      "localName": "産寧坂（三年坂）",
+      "coordinates": {
+        "lat": 34.9966618,
+        "lng": 135.7810339
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7301eb0-9698-45b3-aa85-5ac2ee5feda2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7301eb0-9698-45b3-aa85-5ac2ee5feda2.webp"
+        },
+        {
+          "url": "media/cached-image_079bec1cce4c2a22c03349d711c1a3a2d6e9b450f53894e6efecdee8262ea90f.jpg"
+        },
+        {
+          "url": "media/cached-image_c61f95b2dc4e5f3f3b1356c425eac6f9cd9ab7c833e68d7e64e37fa19f1a3619.jpg"
+        },
+        {
+          "url": "media/cached-image_87009d7c2e3790e54dbd1d21ce90a57b6ba1084459f3145764cd432c4ac598b5.jpg"
+        },
+        {
+          "url": "media/cached-image_36f4811f853cf7e6b3de7a98b5d6f5826a6b98405434b0b5d9af180e4d91349f.jpg"
+        },
+        {
+          "url": "media/cached-image_03c2322fa3f62da1a012676a382ddf09b0f03d35276f58ccf37a9b6c69e1f86a.jpg"
+        },
+        {
+          "url": "media/cached-image_2e7093ae335f08e7ea8bbeb43af853e76e5e789f11fec2a1af8c1eeb66f22271.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.4,
+      "reviewCount": 60,
+      "priceLevel": null,
+      "address": "2 Chome-211 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9966618,135.7810339,3a,75y,207.57h,105.8t/data=!3m6!1e1!3m4!1sI14ZCf28Qwzb8IJrmwTSrw!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The historic stone-paved slope in Higashiyama appears during the Kyoto trip scenes in episode 21, used as a scenic background as the group walks between Kiyomizu-dera and Gion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn93D-2wJAWARoY9zgQJLj0g",
+      "name": "Near the Sanjo Ohashi Bridge",
+      "localName": "三条大橋付近",
+      "coordinates": {
+        "lat": 35.0075396,
+        "lng": 135.7715143
+      },
+      "image": "https://cdn.animepilgrimage.com/places/718712c6-d87e-46dc-b1d5-40d6c3b639f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/718712c6-d87e-46dc-b1d5-40d6c3b639f8.webp"
+        },
+        {
+          "url": "media/cached-image_952efa1928fea9946a6225230468c6bee0c68d1aa2166e7920c26ca4b6c19628.jpg"
+        },
+        {
+          "url": "media/cached-image_afdcde727bcdae163062ada5fe81d7e698c09e15b602f7a03c861ddb690770d3.jpg"
+        },
+        {
+          "url": "media/cached-image_153acedf252593c8db28aab086b720dc81509824f102018255c4a59eef30508a.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.4,
+      "reviewCount": 145,
+      "priceLevel": null,
+      "address": "Ohashicho, Nakagyo Ward, Kyoto, 604-8004, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0075396,135.7715143,3a,90y,163.16h,90.28t/data=!3m8!1e1!3m6!1sAF1QipMgKuSLtI3StYpHoZT4DlJ5g0M9-yEKDcsnmVRo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMgKuSLtI3StYpHoZT4DlJ5g0M9-yEKDcsnmVRo%3Dw203-h100-k-no-pi-0-ya118.418365-ro-0-fo100!7i6080!8i3040?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The area near Sanjo Bridge along the Kamogawa River is part of the Kyoto stroll sequence in episode 21, where the girls walk the riverside during their school trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJm6JortwIAWARS811J4oNJus",
+      "name": "Maruyama Park",
+      "localName": "円山公園",
+      "coordinates": {
+        "lat": 35.0035,
+        "lng": 135.78052
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3fb0cfb3-e8a2-443b-826f-37ae75f70ef3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3fb0cfb3-e8a2-443b-826f-37ae75f70ef3.webp"
+        },
+        {
+          "url": "media/cached-image_1e38c48d5638e646a2bb7e77e83285fc443a371c6d3bac2dc3c915bf9254be96.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0037041,135.7805176,3a,62.6y,217.25h,107.48t/data=!3m8!1e1!3m6!1sAF1QipOgQc1tKp2mlovjt3llN4oA_aWC6coL1VWBG4TP!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOgQc1tKp2mlovjt3llN4oA_aWC6coL1VWBG4TP%3Dw900-h600-k-no-pi-17.477414855367087-ya290.252375509285-ro0-fo100!7i8704!8i4352?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The park near Yasaka Shrine appears in episode 21 during the Kyoto class trip, providing a pleasant outdoor setting for the group to relax between temple visits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7wKLka4IAWARCByidG5EGrY",
+      "name": "Kyoto Station",
+      "localName": "京都駅",
+      "coordinates": {
+        "lat": 34.9864205,
+        "lng": 135.758982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/16e70f23-bfd4-4efe-9fff-9672660a3dbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/16e70f23-bfd4-4efe-9fff-9672660a3dbf.webp"
+        },
+        {
+          "url": "media/cached-image_0472f43aa6b504d48603c1b2af9ac5ca8322d61f1d3caa5b83276eff44723ace.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9864205,135.758982,3a,75y,158.46h,98.21t/data=!3m6!1e1!3m4!1seLCEoiRDA8XStEuU6T3HgQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Kyoto Station serves as the arrival and departure hub for the class trip in episode 21, where the group gathers with luggage before setting out for their Kyoto-Nara sightseeing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs-w9sog5AWARk0WDN0cPgxE",
+      "name": "Kofuku-ji",
+      "localName": "興福寺",
+      "coordinates": {
+        "lat": 34.6830026,
+        "lng": 135.8318428
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57178392-d520-4dc3-919b-2309b80baf65.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57178392-d520-4dc3-919b-2309b80baf65.webp"
+        },
+        {
+          "url": "media/cached-image_3e0a38827136ac67f96dac6576b73c93be62245d5040895eff9b56ff3e9f1c36.jpg"
+        },
+        {
+          "url": "media/cached-image_ae38e57c34ebc3bfdf4bc771d2c206c33643973404bb85dbfaffe346595086e6.jpg"
+        },
+        {
+          "url": "media/cached-image_061d5551413b64ef784f253abac19be8137faee036b5bb4a4bc6d7a248668ca9.jpg"
+        },
+        {
+          "url": "media/cached-image_e562b46a0b11f0cde3a24084a3de3dedcefcf3df9184d99365be913384801480.jpg"
+        },
+        {
+          "url": "media/cached-image_cb2fa36807951447c945b6e91266c5b7bcc5125ef06021a0b5823675456e493a.jpg"
+        },
+        {
+          "url": "media/cached-image_7a2b6a509a5a6d3193255e42c34353f7460d31e19fa2c8f0c5984e1d16b98f4e.jpg"
+        },
+        {
+          "url": "media/cached-image_5a8f5355af74bba10f02ba09e95d3531db0c7f498579fc6c0e4a73f215928a03.jpg"
+        },
+        {
+          "url": "media/cached-image_da5e3cb6d0fa53e964d1884f30785a3accdfa52e5f2ca362ee2dce8374ded6cf.jpg"
+        },
+        {
+          "url": "media/cached-image_b7fda59d4d37a4d929ff6190fe1d61a0b822a72d54a4fd7e8ac8f72b5d41e084.jpg"
+        },
+        {
+          "url": "media/cached-image_db612f63549bc1e3f904c721a9eca552b86dc89bcb3043ac49c9690fd882c0cf.jpg"
+        },
+        {
+          "url": "media/cached-image_01e1de5e54f23bae52065940bf008482e23e83fd0f96c0bb412834b387135b36.jpg"
+        },
+        {
+          "url": "media/cached-image_c079379199e0302d18075cd5373377e51b9e929918de589651b76c65f42798c2.jpg"
+        }
+      ],
+      "type": "仏教寺院",
+      "categories": [
+        "仏教寺院"
+      ],
+      "rating": 4.4,
+      "reviewCount": 12756,
+      "priceLevel": null,
+      "address": "48 Noboriojicho, Nara, 630-8213, Japan",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6830026,135.8318428,3a,90y,113.02h,110.32t/data=!3m8!1e1!3m6!1sAF1QipOQ_MQBMOGiJUIX_DdfF5XTY08VzAwAh5VBlB8p!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOQ_MQBMOGiJUIX_DdfF5XTY08VzAwAh5VBlB8p%3Dw203-h100-k-no-pi0-ya338.02475-ro-0-fo100!7i8704!8i4352?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Kofuku-ji in Nara appears in the episode 21 school trip arc as the class walks through the deer park area near its famous five-story pagoda."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_vchdMIAWARujTEUIZlr2I",
+      "name": "Kiyomizu-dera",
+      "localName": "清水寺",
+      "coordinates": {
+        "lat": 34.9946617,
+        "lng": 135.78495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9d5b349-743b-493c-ad88-6127f850e2eb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9d5b349-743b-493c-ad88-6127f850e2eb.webp"
+        },
+        {
+          "url": "media/cached-image_8b498aee3b782a0ae03598d42a0c1e6a1e151818d09589575d1229ccd68d846d.jpg"
+        },
+        {
+          "url": "media/cached-image_869a47767434dfd1da8931b21343c036c69172f2b30c9214e86976fd0269be32.jpg"
+        },
+        {
+          "url": "media/cached-image_c921480b8da04b696046a464a72891139aaa0c3e1a02990808d4659a6b090bcb.jpg"
+        },
+        {
+          "url": "media/cached-image_467b678d95fc44298d096d61969961b3469b2c95f3e1ff3503659fd8bd927380.jpg"
+        },
+        {
+          "url": "media/cached-image_694741ead0d176d55ce5808f76a2b4664abea5fa085675b14032e771d1093eff.jpg"
+        },
+        {
+          "url": "media/cached-image_66f6ae2f41bdadad392468deda410d8379dda2abf3758e5786e256b7468363cd.jpg"
+        },
+        {
+          "url": "media/cached-image_be09727e367c8a9273d0cca5dcd69c4d9c9eebb14be2154e7039cff6da902735.jpg"
+        },
+        {
+          "url": "media/cached-image_a658adabe4c23698e8cd97121576bebf8b65be9b5afec991b90e95609ac25743.jpg"
+        },
+        {
+          "url": "media/cached-image_3c709a73106cc2fe87f58cfa35e130f1c6b8fb631bbbc0db90be50f7a1a2a5c5.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe232e07d062e393cfe22158e0166fe209459d31605c7772e958b74dd06b28.jpg"
+        },
+        {
+          "url": "media/cached-image_ee9b880437365e02e77d9ef2f512205e91eb62394eb69d811ec5b10da07c92d1.jpg"
+        },
+        {
+          "url": "media/cached-image_ce72f4651389c6cc3a30016a6b99a66801a7f3c75d6f66706a2b8eee37f1bf45.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67991,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9946617,135.78495,3a,75y,53.75h,94.43t/data=!3m8!1e1!3m6!1sAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc%3Dw203-h100-k-no-pi-0-ya263.58844-ro-0-fo100!7i6720!8i3360?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "Featured in episode 21 during the Kyoto class trip, where Konata compares the iconic wooden stage to scenes from video games. The landmark view is a backdrop for the group's light-hearted sightseeing banter."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9_EHeGe2GGARFH59IzUugHo",
+      "name": "Gongendo Tsutsumi",
+      "localName": "権現堂堤",
+      "coordinates": {
+        "lat": 36.09314,
+        "lng": 139.72247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82aa1a39-921a-466b-ab4a-7655ff0df694.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82aa1a39-921a-466b-ab4a-7655ff0df694.webp"
+        },
+        {
+          "url": "media/cached-image_78ccdbcb00454a6203b4214e4a6342ad73bee01ec78b984e7c228cc28452dca4.jpg"
+        },
+        {
+          "url": "media/cached-image_d4c30ce3ee7274e2c620ae64fb60fc07dd36b8d6636fbe26ea9707db6733881b.jpg"
+        },
+        {
+          "url": "media/cached-image_2e680de3b552daa108092c85e356e5aaa1173a3f380c196a1e3c543349420534.jpg"
+        },
+        {
+          "url": "media/cached-image_46e2f14fa020c7612821d081049793fdfa67d558392a7995e203d1428390e1a8.jpg"
+        },
+        {
+          "url": "media/cached-image_6a42a0b4a87f7ac7a1111fb1819869c84a3f0241709962f259d8dcc322732557.jpg"
+        },
+        {
+          "url": "media/cached-image_307d321c4afc0163aa4dee9bb13f06b608cb99c2d2a16d3483ed354a493d5902.jpg"
+        }
+      ],
+      "type": "景勝地",
+      "categories": [
+        "景勝地"
+      ],
+      "rating": 4.3,
+      "reviewCount": 43,
+      "priceLevel": null,
+      "address": "887-3 Uchigouma, Satte, Saitama 340-0103, Japan",
+      "city": "Satte",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0936278,139.7220675,3a,75y,327.66h,98.35t/data=!3m7!1e1!3m5!1samnz7S5WSkyVCO6GhfjLBw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.3520617777599%26panoid%3Damnz7S5WSkyVCO6GhfjLBw%26yaw%3D327.66029681073564!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "The cherry-blossom embankment in Satte appears in episode 15 as a springtime outing backdrop, one of the Saitama nature spots the show uses to ground its slice-of-life mood in recognizable local scenery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAVf7lh2MGGARJylRnQ_3dpI",
+      "name": "Animate Akihabara",
+      "localName": "アニメイト秋葉原",
+      "coordinates": {
+        "lat": 35.7005016,
+        "lng": 139.7714162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3af4f130-6913-49fa-85ec-3f929f470099.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3af4f130-6913-49fa-85ec-3f929f470099.webp"
+        },
+        {
+          "url": "media/cached-image_3444735c0be937cda1ec66f7fb73d37303630c79256a6c492d33af20c0525fda.jpg"
+        }
+      ],
+      "type": "コミック書店",
+      "categories": [
+        "コミック書店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-3-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7005016,139.7714162,3a,66.4y,91.93h,97.44t/data=!3m6!1e1!3m4!1s8piFviYB9NzC4oK4QmFXaQ!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "The Akihabara branch of Animate is one of the anime retail stops Konata frequents in episode 16, reinforcing the show's portrayal of Akihabara as Konata's natural habitat for buying manga, doujinshi, and figures."
+    }
+  ]
+}

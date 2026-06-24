@@ -1,0 +1,1541 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "You and I Are Polar Opposites",
+  "slug": "you-and-i-are-polar-opposites",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_5b7b218d1939eda80de54be39aa817b00d7bd6f2414e44591e3c4a50e1859480.webp",
+  "image": "media/cached-image_5b7b218d1939eda80de54be39aa817b00d7bd6f2414e44591e3c4a50e1859480.webp",
+  "banner": null,
+  "primaryLocation": "Kanagawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.579857,
+    "lng": 138.86365135263154
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "You and I Are Polar Opposites"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_0",
+      "name": "Fukurinkaku",
+      "localName": "福臨閣",
+      "coordinates": {
+        "lat": 35.44332,
+        "lng": 139.64531
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1w6fLPkySGtLkAdjjcRE.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1w6fLPkySGtLkAdjjcRE.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/wNgjmcsp1UWepcww7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Fukurinkaku is a Chinese restaurant in Yokohama Chinatown that appears in the finale (Episode 12), where Takara and Shiro celebrate together after their relationship deepens through the class trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_1",
+      "name": "Utsukushigaoka Nishi 1 Chome (Bus)",
+      "localName": "美しが丘西一丁目（バス）",
+      "coordinates": {
+        "lat": 35.59046,
+        "lng": 139.53866
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd2b8168-a7af-43fb-a50a-b95e5ef724c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd2b8168-a7af-43fb-a50a-b95e5ef724c9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4Uwn8dXqtYfN6Ykb8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This bus stop in Utsukushigaoka serves as a background transit point near the characters' Azamino neighborhood, glimpsed in Episode 1 as part of their everyday suburban commute."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1b_EKqH3GGARk9w6Qu0_BKM",
+      "name": "Akadahigashi Park",
+      "localName": "赤田東公園",
+      "coordinates": {
+        "lat": 35.5611414,
+        "lng": 139.55352689999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20f2f83b-968a-4f42-8cc9-a9d38956c15f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20f2f83b-968a-4f42-8cc9-a9d38956c15f.webp"
+        },
+        {
+          "url": "media/cached-image_bffceea4ec3c29c8759257094c9fb8abac299f5ccfd8b28daaeec92aa7bfa371.jpg"
+        },
+        {
+          "url": "media/cached-image_cd7ac04014a1fc80b34608af629e6e2b63097b5dd2be3f1aa398d82b97a416e1.jpg"
+        },
+        {
+          "url": "media/cached-image_768dc7ddac57c05349383a38158595a4f0a9bece3cb6b41ea8aff2f919a5b339.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.5,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Akadahigashi Park, 1 Chome-４-1 Azaminominami, Aoba Ward, Yokohama, Kanagawa 225-0012, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bwt2rGMgVa7waUzi9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Akadahigashi Park in Azamino appears in Episode 1 as a quiet neighborhood spot near where the leads live, establishing the suburban Yokohama setting where their polar-opposite personalities first clash."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ77h0v7aLImAR7GSYoqWCzdI",
+      "name": "Soyora Narita-Newtown",
+      "localName": "そよら成田ニュータウン",
+      "coordinates": {
+        "lat": 35.7779647,
+        "lng": 140.2902761
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0a832959-4637-4236-96ae-31e2856b2b29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0a832959-4637-4236-96ae-31e2856b2b29.webp"
+        },
+        {
+          "url": "media/cached-image_2ab67f28c86a8c8106f7c71f6a178ae2106e4e91845c848c14d64010b31cf523.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Soyora Narita-Newtown, 2 Chome-１-10 Akasaka, Narita, Chiba 286-0017, Japan",
+      "city": "Narita",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/46i4u3RJXGJuS3YT7",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This shopping mall appears in Episode 2, used as a location backdrop where characters run errands or meet, showing the everyday suburban life that grounds the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgwXx33FbGGARDNOVVGLtuyA",
+      "name": "Gumyoji Park Observatory",
+      "localName": "横浜市弘明寺公園展望台",
+      "coordinates": {
+        "lat": 35.4245835,
+        "lng": 139.5955461
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1b28ac8-4de8-4989-bf16-4f5e9fa39725.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1b28ac8-4de8-4989-bf16-4f5e9fa39725.webp"
+        },
+        {
+          "url": "media/cached-image_69b0ae073c3e178172f1c6b715f515d5cda3a3e289ef7c47a84e5023af290543.jpg"
+        },
+        {
+          "url": "media/cached-image_469425debb66a486cb886a1c6349ee9eccf8c395b159fb5c716f24b093b18159.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gumyoji Park Observatory, Gumyojicho, Minami Ward, Yokohama, Kanagawa 232-0067, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/eGqh3hCpj4fZ4gyk8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The hilltop observatory at Gumyoji Park appears in Episode 4, offering a panoramic view of Yokohama where the leads share a quiet moment that begins to bridge their opposite personalities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw3FX1Qv3GGARBvPkyiCk9Yk",
+      "name": "Mercedes-Benz Azamino",
+      "localName": "メルセデス・ベンツ あざみ野",
+      "coordinates": {
+        "lat": 35.5659396,
+        "lng": 139.5535021
+      },
+      "image": "https://cdn.animepilgrimage.com/places/879c200c-6e1e-4850-befb-53f9e673fce8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/879c200c-6e1e-4850-befb-53f9e673fce8.webp"
+        },
+        {
+          "url": "media/cached-image_23cdb64431dfef609f5723ada705bd36e832de28d4c47f1410e049a376d5e679.jpg"
+        },
+        {
+          "url": "media/cached-image_58ed5094e83c4198baa9e9de3c0f588a62b41dc077ed2c6c34ab6d60fba08ac5.jpg"
+        },
+        {
+          "url": "media/cached-image_93f1d9159ed720f6ea7e212d698f1f070b4946bf2dbd8981b8385e896737105a.jpg"
+        },
+        {
+          "url": "media/cached-image_f5e1b690423016f212712156c45740e87baf1136078f96fcdbdefde074354efe.jpg"
+        },
+        {
+          "url": "media/cached-image_85089c93c1b0d1e9d944a666db7e91a66630808e980db6206ac1d00a5f4441b9.jpg"
+        }
+      ],
+      "type": "Mercedes-Benz dealer",
+      "categories": [
+        "Mercedes-Benz dealer"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mercedes-Benz Azamino, 2 Chome-３-1 Azamino, Aoba Ward, Yokohama, Kanagawa 225-0011, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4PNYEK14w4a43Rpe7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The distinctive Mercedes-Benz dealership in Azamino is used as a street-level location marker in Episode 5, part of the familiar neighborhood scenery the characters pass on their daily routes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ2RPYgn3GGARyFGxmcX_QgY",
+      "name": "Yamauchi Library",
+      "localName": "横浜市山内図書館",
+      "coordinates": {
+        "lat": 35.566919899999995,
+        "lng": 139.5535902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/576577ee-fabf-4491-9bdd-041ea003d8d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/576577ee-fabf-4491-9bdd-041ea003d8d7.webp"
+        },
+        {
+          "url": "media/cached-image_b1c037965a73e2ea683fbfeb7b26722faba2ff32eed0bcbc6c4b4851d7985531.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamauchi Library, 2 Chome-3-2 Azamino, Aoba Ward, Yokohama, Kanagawa 225-0011, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/xTEyKdPvCuCQoV8k8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Yamauchi Library in Azamino appears in Episode 5 as a place the studious Shiro frequents, with Takara showing up unexpectedly and highlighting the contrast between their approaches to downtime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ46dQYgn3GGARjlW9kZKe5uU",
+      "name": "Yokohamashi Yamauchichiku Center",
+      "localName": "横浜市山内地区センター",
+      "coordinates": {
+        "lat": 35.566919899999995,
+        "lng": 139.5535902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/027a02db-6d80-4f13-9f54-446a74baa768.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/027a02db-6d80-4f13-9f54-446a74baa768.webp"
+        },
+        {
+          "url": "media/cached-image_cf4d2bbcdf09d726d45778201c9c51824b7aa1f769708b9ef78898ed033a9e0d.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yokohamashi Yamauchichiku Center, 2 Chome-3-2 Azamino, Aoba Ward, Yokohama, Kanagawa 225-0011, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LWZShW6VRH5UPNM37",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Yamauchichiku Community Center, adjacent to the library in Azamino, appears in Episode 5 as part of the same neighborhood complex used by the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcRPumUbuGGARZ1zldQwxWWU",
+      "name": "CaFe' LA MILLE Daiya-gai",
+      "localName": "カフェラミルダイヤ街店",
+      "coordinates": {
+        "lat": 35.704288399999996,
+        "lng": 139.5785385
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67c6facb-356f-418a-8a09-c06d44ddba53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67c6facb-356f-418a-8a09-c06d44ddba53.webp"
+        },
+        {
+          "url": "media/cached-image_194ada91dd2c67566fee1d93619c5512822b7bd2a5a009d487aad4d199942a58.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "CaFe' LA MILLE Daiya-gai, 1階 1 Chome-8-5 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/FNZtgiBXT9ms3HaS8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This cafe in Kichijoji's Daiya-gai shopping arcade appears in Episode 6 during an outing with friends, where the group dynamic puts Takara and Shiro's differences on full display in a cozy cafe setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs5RzzvzvGGARrqwDSYbQch0",
+      "name": "Kairikiya Mitaka Osawa",
+      "localName": "京都北白川ラーメン魁力屋 三鷹大沢店",
+      "coordinates": {
+        "lat": 35.670556999999995,
+        "lng": 139.5378759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ecfaa407-59c2-47a4-ba97-0a78a1fbea8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ecfaa407-59c2-47a4-ba97-0a78a1fbea8a.webp"
+        },
+        {
+          "url": "media/cached-image_f63053fcdfca5af2ee184ef41486242860f5a2c1605058148b054ed7c0acb64a.jpg"
+        },
+        {
+          "url": "media/cached-image_df7655c6b89acf26a02af82ec1b89a5f4a03190aa7b8de926ad506367fb2e2bc.jpg"
+        },
+        {
+          "url": "media/cached-image_14fb871b99cc30cd1bc9b2b76fac1375958eea645f6d55b8925433f71d21db78.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kairikiya, 5 Chome-2-25 Osawa, Mitaka, Tokyo 181-0015, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Nn41xNQ7V4JBnTUV6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This ramen restaurant in Mitaka appears in Episode 8, visited by the characters during a casual outing that shows the couple navigating ordinary moments as their relationship evolves."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_10",
+      "name": "National Museum of Nature and Science",
+      "localName": "国立科学博物館",
+      "coordinates": {
+        "lat": 35.71638,
+        "lng": 139.77595
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d5371a9-7029-4683-972d-078ed3de06ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d5371a9-7029-4683-972d-078ed3de06ea.webp"
+        },
+        {
+          "url": "media/cached-image_73f4c1dc6573ad46de6742e72e69e43e2ccbc7586868e8d8a1433bfc17b6f266.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/LWDBniwybFxwKHk16",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The National Museum of Nature and Science in Ueno appears in Episode 9, where the leads visit on a date, with Shiro's calm interest in exhibits contrasting with Takara's restless curiosity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_11",
+      "name": "National Museum of Nature and Science",
+      "localName": "国立科学博物館",
+      "coordinates": {
+        "lat": 35.71605,
+        "lng": 139.77625
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a64393a-2690-4520-a9d0-8eec23374ed5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a64393a-2690-4520-a9d0-8eec23374ed5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/48aSSVAXyRupsior5",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The National Museum of Nature and Science in Ueno appears in Episode 9, where the leads visit on a date, with Shiro's calm interest in exhibits contrasting with Takara's restless curiosity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_12",
+      "name": "Natoriya Life In",
+      "localName": "名取屋ライフイン",
+      "coordinates": {
+        "lat": 35.6989,
+        "lng": 139.56116
+      },
+      "image": "https://cdn.animepilgrimage.com/places/624e717f-e3fe-4f72-b2c8-309f7187fd7b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/624e717f-e3fe-4f72-b2c8-309f7187fd7b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/edUa87AEjRPDPKb26",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Natoriya Life In appears in Episode 10 as a convenience or small shop in the Mitaka area frequented by the characters during their daily routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc5C__LbvGGARhPfY3PlPA6k",
+      "name": "FamilyMart Mitaka Chuo-dori Minami",
+      "localName": "ファミリーマート 三鷹中央通り南店",
+      "coordinates": {
+        "lat": 35.698144,
+        "lng": 139.5612726
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e0fed6bf-92f5-444b-805c-b1d29ff7ad5b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e0fed6bf-92f5-444b-805c-b1d29ff7ad5b.webp"
+        },
+        {
+          "url": "media/cached-image_ac04b9b31d7a13cae7e616ca59453e4eb609b672b3f2bf2b6f4b695e4e12dc37.jpg"
+        },
+        {
+          "url": "media/cached-image_eb69650b3f09541b64ecf01b433632f9a1a1e247dcdddbff04f9fc44e7b5628b.jpg"
+        },
+        {
+          "url": "media/cached-image_96f49ab76ed28e54e55f39b1b676acbf2eda254c6271454fa2d04f476b6234da.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.9,
+      "reviewCount": 33,
+      "priceLevel": null,
+      "address": "FamilyMart, 3 Chome-30-12 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GWF4m5cmpuX9jLy3A",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This FamilyMart on Mitaka's Chuo-dori appears in Episode 10 as a late-night convenience store stop, a casual setting where the leads have an unguarded conversation revealing more of their true feelings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6XAV-ZA5AWAREBHjJdslKoA",
+      "name": "Nandaimon Gate",
+      "localName": "東大寺南大門",
+      "coordinates": {
+        "lat": 34.6858076,
+        "lng": 135.83987679999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/h17zDRqGBDdt0i2UoObs.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/h17zDRqGBDdt0i2UoObs.webp"
+        },
+        {
+          "url": "media/cached-image_279927c0547959f02327523ea65f46a7ac9afcb76748389ec59e6757ef4d6104.jpg"
+        },
+        {
+          "url": "media/cached-image_e0b9a3574a6b1a7f84a271505a4392ab4b1787e5acee428cd397eed02dda3f98.jpg"
+        },
+        {
+          "url": "media/cached-image_b9beaf6a37fc15dc80058b86a4552d9c5db8f453b219a8d90741c67323ca2690.jpg"
+        },
+        {
+          "url": "media/cached-image_d5fb5c8b0b6159d4ad2ce334baf74b205c5bb1e8576ccc794d9cfaad624b1a43.jpg"
+        },
+        {
+          "url": "media/cached-image_2f249d0e5d12433abfabcb77d7e1f9b27c4a47c58a0a666a9db4801ce3828dc2.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 3607,
+      "priceLevel": null,
+      "address": "Nandaimon Gate, 406-1 Zoshicho, Nara, 630-8211, Japan",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mrp8b73g83vXF5jh7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Great South Gate of Todai-ji is featured in Episode 11 during the school trip to Nara, where Takara drags an unenthusiastic Shiro through the famous deer-filled approach to the gate.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1Wqwa8A5AWARlpXjgoPnl0w",
+      "name": "Kasugataisha Shrine",
+      "localName": "春日大社",
+      "coordinates": {
+        "lat": 34.6815454,
+        "lng": 135.8484719
+      },
+      "image": "https://cdn.animepilgrimage.com/places/g6dLxtaMJsBrgceoa1yz.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/g6dLxtaMJsBrgceoa1yz.webp"
+        },
+        {
+          "url": "media/cached-image_d29a3aeb6f45968227cfb55d45973447971bffddbea25a0f9fcdc341944fcb42.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 14497,
+      "priceLevel": null,
+      "address": "Kasugataisha Shrine, 160 Kasuganocho, Nara, 630-8212, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZQhcGXnffhfzGChf6",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Kasugataisha Shrine appears in Episode 11 during the Nara school trip, providing a lantern-lit forest backdrop for a quietly intimate moment between the leads amid the ancient cedars."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXeLVg9DgAGARqlIyMCX-BTY",
+      "name": "Universal Studios Japan",
+      "localName": "ユニバーサル・スタジオ・ジャパン",
+      "coordinates": {
+        "lat": 34.6656768,
+        "lng": 135.4323185
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4jTSiyU3B701gJrPbfG6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4jTSiyU3B701gJrPbfG6.webp"
+        },
+        {
+          "url": "media/cached-image_3e0327f65324f4edd219d2cb6da56bc6f17f986e9f4ffec3e80e3868d5f78910.jpg"
+        },
+        {
+          "url": "media/cached-image_adeb48713fb4ee8dfd5dd9704991c5960901cee143a0bfbdd708a7780dac9991.jpg"
+        },
+        {
+          "url": "media/cached-image_7e1daf51dfcf49706ba0ef116f1a4d5bf79c409a20afb88baa425c7bbce7ec17.jpg"
+        },
+        {
+          "url": "media/cached-image_1ff01321391700b3a35ec6e8f84e3ccb215e369ff35c9a12cde092d4bf5b4a9c.jpg"
+        },
+        {
+          "url": "media/cached-image_ae9a6fa62559f35935f75f0bd2523066e10ddac03693d24abec12e94483bc622.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 4.5,
+      "reviewCount": 5463,
+      "priceLevel": null,
+      "address": "Universal Studios Japan, 2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mcr1Q25t4P5B5KmW7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "USJ appears in Episode 11 as part of the extended school excursion to Kansai, where Takara's enthusiasm for every ride contrasts sharply with Shiro's cautious reluctance in the crowds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_17",
+      "name": "Universal Globe",
+      "localName": "ユニバーサル・グローブ",
+      "coordinates": {
+        "lat": 34.66784,
+        "lng": 135.43527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/YPtXSLfBcBCJJdho6mT9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/YPtXSLfBcBCJJdho6mT9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ZevTcJkmerthnmXKA",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The iconic Universal Globe at USJ's entrance appears in Episode 11 as a meeting-point landmark during the school trip, a recognizable backdrop for a group photo moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_18",
+      "name": "Chinatown East Gate",
+      "localName": "中華街東門 (朝陽門)",
+      "coordinates": {
+        "lat": 35.44414,
+        "lng": 139.64816
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dxscIsefHtY9Jsf9PLF4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dxscIsefHtY9Jsf9PLF4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Ho73Bt6d3QC6xeJG7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The East Gate (Choyo-mon) of Yokohama Chinatown appears in Episode 12, marking the entrance to the neighborhood where the characters celebrate and the series reaches its emotional climax.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_19",
+      "name": "Rong Xing Hao",
+      "localName": "栄興號",
+      "coordinates": {
+        "lat": 35.44347,
+        "lng": 139.64608
+      },
+      "image": "https://cdn.animepilgrimage.com/places/FECx3FMmTfa8x2wt6riP.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/FECx3FMmTfa8x2wt6riP.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/9tKm8eBH8feNyBG89",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Rong Xing Hao is one of the traditional shops in Yokohama Chinatown visited by the cast in Episode 12, adding to the festive, atmospheric backdrop of the finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM4U8XLhmdV8RsrUSul0MnSg",
+      "name": "Kashoutei Hanaya",
+      "localName": "花鐘亭はなや",
+      "coordinates": {
+        "lat": 42.488480599999995,
+        "lng": 141.1472166
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_8bbffe2e31e401a620598c719bd6c1c0c93504903e02a6fd277fdc4aa6edd713.jpg"
+        },
+        {
+          "url": "media/cached-image_165556e0b7665be5d10a055b815e12a9cbc588fe9247c9b4ef3604b80fc8a84a.jpg"
+        },
+        {
+          "url": "media/cached-image_3d4eaf25fad7482e24fb9b2eab6619aaa5ee6dcb52c3173ed56a13b28e9fcecf.jpg"
+        },
+        {
+          "url": "media/cached-image_faf05b470da748259f3f246a15e3aa5c2125e1e9b594def5a48f0498e726e34f.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kashoutei Hanaya, 134 Noboribetsuonsencho, Noboribetsu, Hokkaido 059-0551, Japan",
+      "city": "Noboribetsu",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/et9EPy4K6keiakKf7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_21",
+      "name": "Wangfujing Restaurant",
+      "localName": "王府井(ワンフーチン)レストラン",
+      "coordinates": {
+        "lat": 35.44366,
+        "lng": 139.64736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/zkpVVnGtCE7FPh7y02rA.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/zkpVVnGtCE7FPh7y02rA.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/U6hLNZF45WGC4bRk7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Wangfujing Restaurant in Yokohama Chinatown is one of the dining spots visited in Episode 12, part of the group's celebratory stroll through Chinatown after the culminating events."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNQgAneRcGGAR2peWaYXvu-Q",
+      "name": "Rouishin",
+      "localName": "老維新",
+      "coordinates": {
+        "lat": 35.443200999999995,
+        "lng": 139.645036
+      },
+      "image": "https://cdn.animepilgrimage.com/places/qJp0sEW0u0Xy17sysN6p.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/qJp0sEW0u0Xy17sysN6p.webp"
+        },
+        {
+          "url": "media/cached-image_9ddb222645c5fcbdbd8a7852c15602d5514bdaf3aa09ef9aa5b8d121f100f2f8.jpg"
+        },
+        {
+          "url": "media/cached-image_5eb4fa703dbc2444391dc2b8055edd86fd98caa95b15e32b50a0e2a09ea71720.jpg"
+        }
+      ],
+      "type": "Souvenir store",
+      "categories": [
+        "Souvenir store"
+      ],
+      "rating": 3.7,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Rouishin, 145 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Hr2prwWimtJBzv2a7",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This Chinatown souvenir shop appears in Episode 12 as part of the Yokohama Chinatown sequence, where characters browse shops during their post-trip reunion in the neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPROqCBtdGGARbtupV3SqrUo",
+      "name": "Kujira no Senaka (Whale's Back)",
+      "localName": "くじらのせなか",
+      "coordinates": {
+        "lat": 35.4524026,
+        "lng": 139.6482575
+      },
+      "image": "https://cdn.animepilgrimage.com/places/v3y7VcjacpTA6vYwF5A0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/v3y7VcjacpTA6vYwF5A0.webp"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kujira no Senaka (Whale's Back), 1 Chome-1-4 Kaigandori, Naka Ward, Yokohama, Kanagawa 231-0002, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ML1AFFSiQ8mPm6J5A",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The rooftop observation area nicknamed Whale's Back atop the Yokohama Port Services Building appears in Episode 12, where Takara and Shiro take in a sweeping harbor view in a key romantic scene.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_24",
+      "name": "Harbor View Park",
+      "localName": "港の見える丘公園",
+      "coordinates": {
+        "lat": 35.4406,
+        "lng": 139.65471
+      },
+      "image": "https://cdn.animepilgrimage.com/places/TdDPlfOnXRXwlVnBhqDL.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/TdDPlfOnXRXwlVnBhqDL.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ZX3s4pqyQ1rnG6FRA",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Harbor View Park (Minato no Mieru Oka Park) appears in Episode 12, its iconic rose garden and Yokohama Bay Bridge vista forming the backdrop for an emotionally significant scene between the leads.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_you-and-i-are-polar-opposites_25",
+      "name": "456 Saikan Dim Sum Restaurant",
+      "localName": "四五六菜館 飲茶館",
+      "coordinates": {
+        "lat": 35.44277,
+        "lng": 139.64627
+      },
+      "image": "https://cdn.animepilgrimage.com/places/edAdzEG0Z2TarDD8cwvn.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/edAdzEG0Z2TarDD8cwvn.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/knbfo3MkEhWHDmfQ6",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "456 Saikan's dim sum restaurant in Chinatown appears in Episode 12 as part of the dining montage during the class reunion celebration in Yokohama Chinatown."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-Le-9cGGARNY-CTSHwq5A",
+      "name": "Yokohama Chinatown",
+      "localName": "横浜中華街",
+      "coordinates": {
+        "lat": 35.4430883,
+        "lng": 139.6441001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/lChoTneYgmjzLcwgV84S.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/lChoTneYgmjzLcwgV84S.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.1,
+      "reviewCount": 7554,
+      "priceLevel": null,
+      "address": "Yokohama Chinatown, Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bMWLKmxfR3bzA7xE6",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Yokohama Chinatown serves as the central location for the finale (Episode 12), where Takara and Shiro's relationship is openly acknowledged as the class explores the colorful streets together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_vchdMIAWARujTEUIZlr2I",
+      "name": "Kiyomizu-dera",
+      "localName": "清水寺",
+      "coordinates": {
+        "lat": 34.9946617,
+        "lng": 135.78495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/roHrGeAWFH0u62cJUARP.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/roHrGeAWFH0u62cJUARP.webp"
+        },
+        {
+          "url": "media/cached-image_8b498aee3b782a0ae03598d42a0c1e6a1e151818d09589575d1229ccd68d846d.jpg"
+        },
+        {
+          "url": "media/cached-image_869a47767434dfd1da8931b21343c036c69172f2b30c9214e86976fd0269be32.jpg"
+        },
+        {
+          "url": "media/cached-image_c921480b8da04b696046a464a72891139aaa0c3e1a02990808d4659a6b090bcb.jpg"
+        },
+        {
+          "url": "media/cached-image_467b678d95fc44298d096d61969961b3469b2c95f3e1ff3503659fd8bd927380.jpg"
+        },
+        {
+          "url": "media/cached-image_694741ead0d176d55ce5808f76a2b4664abea5fa085675b14032e771d1093eff.jpg"
+        },
+        {
+          "url": "media/cached-image_66f6ae2f41bdadad392468deda410d8379dda2abf3758e5786e256b7468363cd.jpg"
+        },
+        {
+          "url": "media/cached-image_be09727e367c8a9273d0cca5dcd69c4d9c9eebb14be2154e7039cff6da902735.jpg"
+        },
+        {
+          "url": "media/cached-image_a658adabe4c23698e8cd97121576bebf8b65be9b5afec991b90e95609ac25743.jpg"
+        },
+        {
+          "url": "media/cached-image_3c709a73106cc2fe87f58cfa35e130f1c6b8fb631bbbc0db90be50f7a1a2a5c5.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe232e07d062e393cfe22158e0166fe209459d31605c7772e958b74dd06b28.jpg"
+        },
+        {
+          "url": "media/cached-image_ee9b880437365e02e77d9ef2f512205e91eb62394eb69d811ec5b10da07c92d1.jpg"
+        },
+        {
+          "url": "media/cached-image_ce72f4651389c6cc3a30016a6b99a66801a7f3c75d6f66706a2b8eee37f1bf45.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67991,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9946617,135.78495,3a,75y,53.75h,94.43t/data=!3m8!1e1!3m6!1sAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc%3Dw203-h100-k-no-pi-0-ya263.58844-ro-0-fo100!7i6720!8i3360?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Kiyomizu-dera's famous wooden stage appears in Episode 11 during the Kyoto school trip, where the breathtaking city panorama becomes the setting for a pivotal confession-adjacent exchange between the leads.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7wKLka4IAWARCByidG5EGrY",
+      "name": "Kyoto Station",
+      "localName": "京都駅",
+      "coordinates": {
+        "lat": 34.9864205,
+        "lng": 135.758982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08bffc7f-8c2d-40ef-89ed-7bb74cb8357a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08bffc7f-8c2d-40ef-89ed-7bb74cb8357a.webp"
+        },
+        {
+          "url": "media/cached-image_0472f43aa6b504d48603c1b2af9ac5ca8322d61f1d3caa5b83276eff44723ace.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9864205,135.758982,3a,75y,158.46h,98.21t/data=!3m6!1e1!3m4!1seLCEoiRDA8XStEuU6T3HgQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kyoto Station's grand atrium appears in Episode 10 as the arrival point for the school trip, with Takara's wide-eyed excitement at the massive building contrasting with Shiro's composed indifference."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3XYIepA5AWARjzzVnT-skPg",
+      "name": "Todai-ji",
+      "localName": "東大寺",
+      "coordinates": {
+        "lat": 34.6874195,
+        "lng": 135.8398691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/WcFKw5Yn9MAg9ZghjKuD.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/WcFKw5Yn9MAg9ZghjKuD.webp"
+        },
+        {
+          "url": "media/cached-image_9bfcb2bf134a30fbbd6a588f9756099f227ab538efef54b38e21fc8ce073ced5.jpg"
+        },
+        {
+          "url": "media/cached-image_f77a756dc1fd49ac8927a31d9949052f321b180203df4c39e196ad04d36b3d14.jpg"
+        },
+        {
+          "url": "media/cached-image_a173ef64813d1573844cff631d37ccb064df404554a8808bf9e93e3da3ff141f.jpg"
+        },
+        {
+          "url": "media/cached-image_e5f00da4833b91ee5009045699944411a3c4972c453e5552789d53c024a6dfbd.jpg"
+        },
+        {
+          "url": "media/cached-image_9e4463682b8b01a2cf4b2f6e8347c2606680d9142189ce5065c560b55f301ea5.jpg"
+        },
+        {
+          "url": "media/cached-image_7cb2689dee9eba6df22cad93ed7279c34185c386cdc16a19f23e85bb963859d0.jpg"
+        },
+        {
+          "url": "media/cached-image_6c0eb4f25cb3ddaf408a1b0e898226349325c82ee98cbf2fed5ce44f1824f966.jpg"
+        },
+        {
+          "url": "media/cached-image_54c05e01f02f156507c4bd41cfe1f50290408b4132958081cf61d501d1562cd7.jpg"
+        },
+        {
+          "url": "media/cached-image_99a2d270b3248f66694ed35f9dfb934ae858b01bc1efc341716e0f2af43b0a31.jpg"
+        },
+        {
+          "url": "media/cached-image_4461614f44c90f74093dc6f4483116e14519da8e46010a2b5314444c33454e58.jpg"
+        },
+        {
+          "url": "media/cached-image_c1dffe546c6eaa0a765d02d2d812f7c9744664bc9c940b234e0705619eea4397.jpg"
+        },
+        {
+          "url": "media/cached-image_bce1e2195fe4bd1ad164c2a67f294f7cf987c022dbfe640177e9d6b9207edaa7.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.7,
+      "reviewCount": 30407,
+      "priceLevel": null,
+      "address": "406-1 Zoshicho, Nara, 630-8587",
+      "city": "Nara",
+      "region": "Nara",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6874195,135.8398691,3a,75y,5.78h,98.25t/data=!3m8!1e1!3m6!1sAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5F0hc-3MfR068uWE8r63vf9Iu_BuNl2BuJi0p%3Dw203-h100-k-no-pi-0-ya283.7386-ro0-fo100!7i6528!8i3264?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Todai-ji's Great Buddha Hall appears in Episode 11 during the Nara day of the school trip, a landmark scene where Takara marvels at the scale of the Daibutsu while Shiro quietly observes her reaction.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1e7seJcGGARbDdyYvFJuuM",
+      "name": "Yamashita Park",
+      "localName": "山下公園",
+      "coordinates": {
+        "lat": 35.44555,
+        "lng": 139.64971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5olOOh4KcHWNFyfF6ZGy.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5olOOh4KcHWNFyfF6ZGy.webp"
+        },
+        {
+          "url": "media/cached-image_7281206f920b001f87a523c3c04e673b4f314e6a44ad3625dd412af5d8b493b3.jpg"
+        },
+        {
+          "url": "media/cached-image_b430298ec0c5a85862edb6aa8cd908481559847a6594052854680f5e8038241b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b4c287953132ce0f6742f4ac234768bbd1d6163cba83d75714fbdb74abf3f80.jpg"
+        },
+        {
+          "url": "media/cached-image_409e3fd7b20ccd618548395c527a7e7310a15fd6fde087cb61799c4a90eed76d.jpg"
+        },
+        {
+          "url": "media/cached-image_25bd26be6878dfa8b035d86cab10563c402db700ed322b30877332fc78547c40.jpg"
+        },
+        {
+          "url": "media/cached-image_2607f3f79ef882e8a6f3958548c164eead77a5f0d4eb47ca731bee38d61c4896.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2320,
+      "priceLevel": null,
+      "address": "279 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454931,139.6497994,3a,90y,309.78h,95.72t/data=!3m7!1e1!3m5!1sBbTlT5945dCtth4vFWB8gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.724795431178734%26panoid%3DBbTlT5945dCtth4vFWB8gQ%26yaw%3D309.7801928323015!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Yamashita Park along Yokohama's waterfront appears in Episode 12, where the leads walk the seaside promenade in a calm, reflective scene that underscores the resolution of their relationship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS7ND2ltcGGARkh37iJJ1tfA",
+      "name": "Cosmo Clock 21",
+      "localName": "コスモクロック21",
+      "coordinates": {
+        "lat": 35.4555333,
+        "lng": 139.637395
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98Vjq053ruRPP82OoMFa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98Vjq053ruRPP82OoMFa.webp"
+        },
+        {
+          "url": "media/cached-image_c88eefd3a71e6bf290040c6e3c296ff14083a34365533635d3a2166ae3e5ac2e.jpg"
+        }
+      ],
+      "type": "観覧車",
+      "categories": [
+        "観覧車"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "よこはまコスモワールド, 2 Chome-8-1 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Cosmo+Clock+21/@35.4555333,139.637395,3a,75y,182.81h,100.52t/data=!3m8!1e1!3m6!1sAF1QipNBIJ10HQk_IOGYsUQCygq3jOl_uX2M4EOMR0D_!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBIJ10HQk_IOGYsUQCygq3jOl_uX2M4EOMR0D_%3Dw203-h100-k-no-pi-28.279564-ya317.13373-ro-7.1171246-fo100!7i5376!8i2688!4m9!3m8!1s0x60185c5bda43b34b:0xf0b5759288fb1d92!8m2!3d35.4552896!4d139.6367284!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F0bbyvz1?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Cosmo Clock 21 Ferris wheel at Yokohama's Cosmo World appears in Episode 12, a romantic nighttime backdrop for a pivotal scene where the leads ride together and Shiro finally opens up.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzdV0EPlcGGARyXjbrExd9V8",
+      "name": "Zou-no-hana Park",
+      "localName": "象の鼻パーク",
+      "coordinates": {
+        "lat": 35.4484294,
+        "lng": 139.6438617
+      },
+      "image": "https://cdn.animepilgrimage.com/places/wqa6pMA6lV1hCvJ7vHTU.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/wqa6pMA6lV1hCvJ7vHTU.webp"
+        },
+        {
+          "url": "media/cached-image_363db4ac76c18d27d650b055a261f1c6c1e7c72c2fc20de1ccfdc4c1925216aa.jpg"
+        },
+        {
+          "url": "media/cached-image_51f5363a0324ff05467c053718b9537c2e097e73cd726964a801605909172caa.jpg"
+        },
+        {
+          "url": "media/cached-image_b28b39b3380dae2af739e2dce72207a95173f1c633a160b5e141f707ce3020cf.jpg"
+        },
+        {
+          "url": "media/cached-image_376fb9c488c7da58bcc351ed42255bddfffc45e63c5937ea11af9995498f5cfc.jpg"
+        },
+        {
+          "url": "media/cached-image_0e7df12d32e1d1eecd804e07e6365bfdf977908bf16c0558daf292c9ace645e9.jpg"
+        },
+        {
+          "url": "media/cached-image_69df25b4c3e4488598bda7057741490a85cc5cc2c72f7b7a6e99150b0b79d5c1.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.1,
+      "reviewCount": 893,
+      "priceLevel": null,
+      "address": "1 Chome Kaigandori, Naka Ward, Yokohama, Kanagawa 231-0002, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4484294,139.6438617,3a,75y,34.32h,95.91t/data=!3m6!1e1!3m4!1shb206f8gO4wWamIywEFyBA!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Zou-no-hana Park at Yokohama's historic waterfront appears in Episode 12, where the curved pier and harbor view provide a scenic endpoint for the finale's emotional resolution."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6xBTbDvGGARWjMM50vhcgE",
+      "name": "Mitaka Station",
+      "localName": "三鷹駅",
+      "coordinates": {
+        "lat": 35.7021581,
+        "lng": 139.5607749
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5f975f01-5d2a-43e4-95a4-92d42108659f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5f975f01-5d2a-43e4-95a4-92d42108659f.webp"
+        },
+        {
+          "url": "media/cached-image_052cba8a2d0b4d6428bea03e3a19f705368fb8d5fd46aa631775cf35ce8fb7e0.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-46-1 Shimorenjaku, Mitaka, Tokyo 181-0013, Japan",
+      "city": "Mitaka",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7021581,139.5607749,3a,75y,0.74h,106.87t/data=!3m6!1e1!3m4!1s4POGp2StsUs_-2QhhPBkaw!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Mitaka Station appears in Episode 4 as the transit hub the characters use near their school, a recurring departure point for outings that captures the ordinary rhythm of their daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhXkd-R1dGGARYHL63aSHPJY",
+      "name": "Motomachi-Chukagai Station",
+      "localName": "元町・中華街 (山下公園)駅",
+      "coordinates": {
+        "lat": 35.442785799999996,
+        "lng": 139.64999559999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/sBt9IxFaK3GDOrNBTZeU.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/sBt9IxFaK3GDOrNBTZeU.webp"
+        },
+        {
+          "url": "media/cached-image_26ab4b9c6be2a4f6bd10f46a9dde884a27da770d07c91ef0196aca5c1b9aec8e.jpg"
+        },
+        {
+          "url": "media/cached-image_bb151653b5026f22d56709eafb5a0664f8aa793f61c12bad06ddedff0229ec8d.jpg"
+        },
+        {
+          "url": "media/cached-image_753e2ba0945f005f42a872d1e2582b2d57baed50a12e43b3feb2662176d830ec.jpg"
+        },
+        {
+          "url": "media/cached-image_24a02764d77e177c6eabdd43176bcbd2bf83f2915053ba5c89f8249ddfd74935.jpg"
+        },
+        {
+          "url": "media/cached-image_1880398be18c4fb01cbf700176deac6c1045e4ceb1f52b22f053bb75c70550c0.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.9,
+      "reviewCount": 601,
+      "priceLevel": null,
+      "address": "Motomachi-Chukagai Station, Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4420186,139.6511832,2a,90y,139.06h,93.9t/data=!3m7!1e1!3m5!1sk6UkZdzl9a9e1y-wp-73LA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8993547248371954%26panoid%3Dk6UkZdzl9a9e1y-wp-73LA%26yaw%3D139.05740440381334!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Motomachi-Chukagai Station, the gateway to Yamashita Park and Chinatown, is the arrival point for the cast in Episode 12, marking the start of their final-episode excursion through Yokohama's waterfront."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf8xB-pyOGGARizzhlNTcI7s",
+      "name": "The National Museum of Western Art",
+      "localName": "国立西洋美術館",
+      "coordinates": {
+        "lat": 35.7153869,
+        "lng": 139.77581379999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/135259b2-d2af-4627-9230-c26779a3d57c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/135259b2-d2af-4627-9230-c26779a3d57c.webp"
+        },
+        {
+          "url": "media/cached-image_a4db4439ccf63272929b2b78a78f828e89d49a68d798692ebfb163359cfe3813.jpg"
+        },
+        {
+          "url": "media/cached-image_1eedd74fc25ddbd0e7796e5e640209bca30c264da37d5496bbcde04d331644a5.jpg"
+        },
+        {
+          "url": "media/cached-image_a3e0096fb6e466465084f9bed4ab76d5da4f6caead41757e6f392aac838d7fe2.jpg"
+        },
+        {
+          "url": "media/cached-image_4c387a660ad89f4d88f590dd0f9779df26381d3be10bb5e50eae5d6b3b500a92.jpg"
+        },
+        {
+          "url": "media/cached-image_cf3747ccf1f5dd30d6afc453e190f1d92317064a785c329823cb7d4e9462656f.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.5,
+      "reviewCount": 313,
+      "priceLevel": null,
+      "address": "The National Museum of Western Art, 7-7 Uenokoen, Taito City, Tokyo 110-0007, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/The+National+Museum+of+Western+Art/@35.7153869,139.7758138,3a,90y,141.71h,99.75t/data=!3m8!1e1!3m6!1sAF1QipP4XnPFdmHEf4TXrw_180yU1pcY6RQiQ5yaeahK!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipP4XnPFdmHEf4TXrw_180yU1pcY6RQiQ5yaeahK%3Dw900-h600-k-no-pi-9.753015884780154-ya141.70892827012514-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188e9cfa41cc7f:0xbb23dcd494e13c8b!8m2!3d35.7153869!4d139.7758138!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F026r6hv?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The National Museum of Western Art in Ueno appears in Episode 9 alongside the nearby National Museum of Nature and Science, as the couple explores Ueno Park's cultural district during a date."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJty2QjtMIAWAR9_0wSDYAibI",
+      "name": "Love Fortune Stone",
+      "localName": "恋占いの石",
+      "coordinates": {
+        "lat": 34.9951401,
+        "lng": 135.7850533
+      },
+      "image": "https://cdn.animepilgrimage.com/places/IZI7kPv7EzhbkKE9oMtU.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/IZI7kPv7EzhbkKE9oMtU.webp"
+        },
+        {
+          "url": "media/cached-image_c347008891a2812e70d7fcac893b65e40275a91927af311f12c3576038efe1b4.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Love Fortune Stone, 1 Chome-317 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9951323,135.7849881,2a,90y,144.67h,102.28t/data=!3m7!1e1!3m5!1sKjio5gV9KDbpjiC0u9zo-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.283207904341907%26panoid%3DKjio5gV9KDbpjiC0u9zo-w%26yaw%3D144.6662559373164!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Love Fortune Stone at Kiyomizu-dera appears in Episode 11, where Takara insists on trying the famous ritual of walking between the two stones blindfolded, teasing Shiro about guiding her safely.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2qQRZuOGGARWmROEiM2y7E",
+      "name": "Ueno Park",
+      "localName": "上野恩賜公園",
+      "coordinates": {
+        "lat": 35.71683,
+        "lng": 139.77417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c918d3f3-1787-4473-b8c6-a7e263d5b38e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c918d3f3-1787-4473-b8c6-a7e263d5b38e.webp"
+        },
+        {
+          "url": "media/cached-image_becf070ba6736e2e0a548a75684c87cb569ffdf6f25ce4489b79cff1056528cc.jpg"
+        },
+        {
+          "url": "media/cached-image_9b6752e0ed1f2b23ae0bf59997fe5c0f27d190d65a3752c8aa3b967e0c20ab01.jpg"
+        },
+        {
+          "url": "media/cached-image_826a68c405425aa38285654751eaf721a8b24845a1e4e857795f9a9bb62c5958.jpg"
+        },
+        {
+          "url": "media/cached-image_aa44b8fb4df1b7f963955a7dd67d803596d8b166429809408228dffb58a08168.jpg"
+        },
+        {
+          "url": "media/cached-image_3a850c9fd9bf9201b3fb3e1d27036104d7080d75dfae4fbcaaed3772bf8f7a47.jpg"
+        },
+        {
+          "url": "media/cached-image_ac0f2b7df98c4f62919aeda432b7e6064c118e68675a1be18051a3fdff13567b.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 39686,
+      "priceLevel": null,
+      "address": "Uenokoen, Taito City, Tokyo 110-0007, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7168553,139.7741664,2a,74.7y,290.69h,97.8t/data=!3m6!1e1!3m4!1sU_8wy4U_esnXW6Fl6WRQAA!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Ueno Park appears in Episode 9 as the setting for a leisurely date where Takara and Shiro wander through the museum district, their contrasting interests drawing them unexpectedly closer."
+    }
+  ]
+}

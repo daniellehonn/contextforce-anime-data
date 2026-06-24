@@ -1,0 +1,1192 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Fragrant Flower Blooms with Dignity",
+  "slug": "the-fragrant-flower-blooms-with-dignity",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_33bf5825ceea977b8fde62749e38019fdbb381436575cccdd54267fdc8781f0d.webp",
+  "image": "media/cached-image_33bf5825ceea977b8fde62749e38019fdbb381436575cccdd54267fdc8781f0d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.52253234516129,
+    "lng": 139.4129582225806
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Fragrant Flower Blooms with Dignity"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1z8afE6JGGAR-lxTMDyfJPM",
+      "name": "Jonathan Nihonbashi Hamacho Store",
+      "localName": "ジョナサン 日本橋浜町店",
+      "coordinates": {
+        "lat": 35.688882299999996,
+        "lng": 139.7853786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cecf66e2-8dad-49db-b1fb-4e82ce4a6747.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cecf66e2-8dad-49db-b1fb-4e82ce4a6747.webp"
+        },
+        {
+          "url": "media/cached-image_3658b0828fda707451c248cfb486bf0a01fabe0cae6303fc8a692bcea6dce533.jpg"
+        },
+        {
+          "url": "media/cached-image_cde6b7880a6f9a820a3397425d1e8f03ae2549c06d4671ccedb8104583cc68be.jpg"
+        },
+        {
+          "url": "media/cached-image_9cea676e7a6d2412ec3888ff2d43d442a7ab8cb97ca9aa03174f63315c834d0e.jpg"
+        },
+        {
+          "url": "media/cached-image_174ae057f075ff24c62a424a6d4945f7562fb04a355645da49d4f4eb20e93194.jpg"
+        },
+        {
+          "url": "media/cached-image_e18c6c0afe61b8fde4beb4bd13c1cb23363bfc830b5c44039d18a2facee47ed8.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ジョナサン 日本橋浜町店, ＦＲＡＭＥ日本橋, １Ｆ, 9-9 Nihonbashihisamatsucho, Chuo City, Tokyo 103-0005, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6889421,139.7856947,3a,90y,242.7h,100.42t/data=!3m7!1e1!3m5!1seB548uvINlbBw6TdfgjqPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.42098108236354%26panoid%3DeB548uvINlbBw6TdfgjqPA%26yaw%3D242.69918485775725!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This Jonathan family restaurant in Nihonbashi Hamacho appears in episode 7 as a diner scene where supporting characters meet up, reflecting the show's use of everyday Tokyo eateries for character bonding moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg4WsB-TlGGARxu8kOVsRRd4",
+      "name": "Hana-Koganei Station",
+      "localName": "花小金井駅",
+      "coordinates": {
+        "lat": 35.726172,
+        "lng": 139.5132046
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1cf1b2a8-e95e-44f7-9f36-dcf91cf69ef8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1cf1b2a8-e95e-44f7-9f36-dcf91cf69ef8.webp"
+        },
+        {
+          "url": "media/cached-image_17642feb3bf10e7f64754aa2bd96867597a8f83f17359c7a3895dc1f5355cbeb.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hana-Koganei Station, 1-chōme-23 Hanakoganeiminamichō, Kodaira, Tokyo 187-0003, Japan",
+      "city": "Kodaira",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7261214,139.5132984,2a,90y,288.44h,94.72t/data=!3m7!1e1!3m5!1smf_7KGwVCkA1w4myDhY2_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.715567000537163%26panoid%3Dmf_7KGwVCkA1w4myDhY2_Q%26yaw%3D288.43713884394566!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Hana-Koganei Station on the Seibu Shinjuku Line appears in episode 7, used as a transit setting for a scene that contrasts the outer suburban atmosphere with the central Tokyo locations more familiar to the leads."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAw9X9GHyGGAR7BAQOj6AKBQ",
+      "name": "TaroKen",
+      "localName": "タロー軒",
+      "coordinates": {
+        "lat": 35.698681,
+        "lng": 139.64928899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18679910-c9f1-4e94-bd27-4ea31c628df9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18679910-c9f1-4e94-bd27-4ea31c628df9.webp"
+        },
+        {
+          "url": "media/cached-image_fe044aca1893ed82d6e469cdef316182c55f2bc859b9852ac1b2b66f804dadcb.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TaroKen, 2 Chome-16-13 Koenjiminami, Suginami City, Tokyo 166-0003, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6987972,139.6494188,3a,90y,233.28h,93.89t/data=!3m7!1e1!3m5!1s9Eu83JWN83QJT_weYA__Cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.886700594482434%26panoid%3D9Eu83JWN83QJT_weYA__Cw%26yaw%3D233.28179455227044!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "TaroKen, a ramen shop in Koenji, appears in episode 8 as an eating-out scene where characters share a casual meal, adding a downtown neighborhood texture to the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCXeLEW6NGGARbocoLS71aYs",
+      "name": "DEGUSTATION 北青山",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6709452,
+        "lng": 139.7155584
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9a240105-3ee5-45ea-b260-18ba8c8cb41b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9a240105-3ee5-45ea-b260-18ba8c8cb41b.webp"
+        }
+      ],
+      "type": "酒吧",
+      "categories": [
+        "酒吧"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒107-0061 Tokyo, Minato City, Kita-Aoyama, 2 Chome−12−4 DEGUSTATION 北青山 VORT 青山Leap004",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6408892,139.6019758,2a,90y,1.23h,101.03t/data=!3m7!1e1!3m5!1sJGNPMKMkiGDZdeaI9_hl9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.034407023700524%26panoid%3DJGNPMKMkiGDZdeaI9_hl9Q%26yaw%3D1.233954499849176!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "DEGUSTATION in Kita-Aoyama appears in episode 8 as an upscale bar setting, used to show the more adult social world on the periphery of the main characters' lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQCMvh_1GGARjtUi6Z7fkNU",
+      "name": "HERBE Jiyugaoka Store",
+      "localName": "HERBE自由が丘店",
+      "coordinates": {
+        "lat": 35.609033,
+        "lng": 139.6692254
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afa6e81d-f7b0-4618-921b-4d0f423c5509.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afa6e81d-f7b0-4618-921b-4d0f423c5509.webp"
+        },
+        {
+          "url": "media/cached-image_1afd33171f4269dd7f55f34ea95c8baaf9c0e05ce4243e5291d3d21e3b198a03.jpg"
+        }
+      ],
+      "type": "Women's clothing store",
+      "categories": [
+        "Women's clothing store"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "HERBE自由が丘店, 自由が丘升本ビル 1 Chome-26-3 Jiyugaoka, Meguro City, Tokyo 152-0035, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6089528,139.6693765,3a,90y,31.24h,103.5t/data=!3m7!1e1!3m5!1sKhY041u2tXwNLc6svlXdLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.503129627168306%26panoid%3DKhY041u2tXwNLc6svlXdLg%26yaw%3D31.236057263761424!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The HERBE clothing boutique in Jiyugaoka is featured in the opening sequence as part of the stylish street scenery that defines Chidori's world, underscoring her fashion-forward Jiyugaoka upbringing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_1CIdHCLGGAREcjteBvrrbc",
+      "name": "Hobson's Nishiazabu",
+      "localName": "ホブソンズ 西麻布店",
+      "coordinates": {
+        "lat": 35.659460599999996,
+        "lng": 139.7232497
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6edf28e4-5eaa-4359-84fb-0d164a34ee94.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6edf28e4-5eaa-4359-84fb-0d164a34ee94.webp"
+        },
+        {
+          "url": "media/cached-image_676d4b596d665d42b13d38f24fb2109a9d8f4e5948e27b43bdc787f556fda4ca.jpg"
+        }
+      ],
+      "type": "Ice cream shop",
+      "categories": [
+        "Ice cream shop"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hobson's Nishiazabu, 4 Chome-1-1 Nishiazabu, Minato City, Tokyo 106-0031, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595848,139.7235561,3a,85.7y,108.26h,98.51t/data=!3m7!1e1!3m5!1sNtVCZyDLgo7W0tfrNVR2nA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.513950814191872%26panoid%3DNtVCZyDLgo7W0tfrNVR2nA%26yaw%3D108.26115893022323!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Hobson's ice cream shop in Nishiazabu appears in episode 10 as a sweet stop during a shared outing, a small moment of warmth between Chidori and Rintaro as their bond visibly strengthens."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-fragrant-flower-blooms-with-dignity_6",
+      "name": "Luca's Kitchen",
+      "localName": "86番 ルカズキッチン",
+      "coordinates": {
+        "lat": 35.65951,
+        "lng": 139.72302
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9cd09b21-dc75-47cf-93a8-8a07d4ce4454.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9cd09b21-dc75-47cf-93a8-8a07d4ce4454.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595893,139.723068,3a,76.3y,194.91h,95.37t/data=!3m7!1e1!3m5!1sKG6AjCDE9C5wf6DstFnrfw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.372875724534296%26panoid%3DKG6AjCDE9C5wf6DstFnrfw%26yaw%3D194.91186349021262!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Luca's Kitchen in Nishiazabu appears in episode 10 as a dinner setting for an intimate scene, the cozy restaurant atmosphere heightening the emotional closeness the two leads feel during their meal together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlQhCNi3tGGARHUkVw1MlTcU",
+      "name": "Itabashi Kuritsu Mukaiyashiki Park",
+      "localName": "板橋区立向屋敷公園",
+      "coordinates": {
+        "lat": 35.7578931,
+        "lng": 139.6907377
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a180aac8-be89-4581-8467-4fea5a600dff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a180aac8-be89-4581-8467-4fea5a600dff.webp"
+        },
+        {
+          "url": "media/cached-image_d5c528f22319a8b1ec4153a1fd0d6aeb2a08fa1a160c2d483229ffaa45a42f92.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Itabashi Kuritsu Mukaiyashiki Park, 1 Chome-26-26 Minamitokiwadai, Itabashi City, Tokyo 174-0072, Japan",
+      "city": "Itabashi City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7581636,139.690447,3a,89.9y,120.98h,99.95t/data=!3m7!1e1!3m5!1slrwLc0jiwQyNhSmORyXr7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.947188520412809%26panoid%3DlrwLc0jiwQyNhSmORyXr7A%26yaw%3D120.9810364053428!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This small Itabashi ward park appears in episode 11 as an outdoor location for a quiet, reflective scene where a character pauses to think through their complicated feelings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi73e-iztGGAR1JhnFY1JTMc",
+      "name": "Tokiwadai Station",
+      "localName": "ときわ台",
+      "coordinates": {
+        "lat": 35.7587403,
+        "lng": 139.6895284
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7976d18e-cb85-4c7d-9af3-0fd6caceaf01.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7976d18e-cb85-4c7d-9af3-0fd6caceaf01.webp"
+        },
+        {
+          "url": "media/cached-image_f6749c8433f7add9f9ee2b5ca1bc51614a9f17827ea541f2337a9bb837943057.jpg"
+        },
+        {
+          "url": "media/cached-image_ddbad5ed116033c0283ea2139edf33ea953ac78c8048b5bd29d3962cd9715da4.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "TOKIWADAI, 1-chōme-43 Tokiwadai, Itabashi City, Tokyo 174-0071, Japan",
+      "city": "Itabashi City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7590103,139.6894536,3a,46.3y,192.29h,91.28t/data=!3m7!1e1!3m5!1sXyvLf6pGTg1o7SIK9tlyFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2777253584682597%26panoid%3DXyvLf6pGTg1o7SIK9tlyFA%26yaw%3D192.28947864151237!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Tokiwadai Station on the Tobu Tojo Line appears in episode 11 as part of a journey scene, the charming retro-feel station exterior used to set an emotionally transitional mood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-fragrant-flower-blooms-with-dignity_9",
+      "name": "Sanriki",
+      "localName": "サンリキ",
+      "coordinates": {
+        "lat": 35.60858,
+        "lng": 139.66932
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b576264-e47d-4b77-9b51-28fa790ef745.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b576264-e47d-4b77-9b51-28fa790ef745.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6086031,139.6691777,3a,86.7y,99.88h,89.97t/data=!3m7!1e1!3m5!1sx8fA82oud9k0W6bWGzs_FA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.03212517360130107%26panoid%3Dx8fA82oud9k0W6bWGzs_FA%26yaw%3D99.88434956582887!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Sanriki, set in the Jiyugaoka area, appears in episode 13 as a familiar neighborhood spot tied to Chidori's world, used in a scene that brings the series full circle back to where the story began."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa3xGCiWLGGAR4ttFcRqGPlI",
+      "name": "Hara Donuts Tensan",
+      "localName": "はらドーナッツ 目黒店",
+      "coordinates": {
+        "lat": 35.6308812,
+        "lng": 139.7028747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/34d4016b-f7d1-40ac-b11e-b87b2613b9cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/34d4016b-f7d1-40ac-b11e-b87b2613b9cf.webp"
+        },
+        {
+          "url": "media/cached-image_987d5cb2906d51d4e5eb3f2c9affcab33bb0782a4006b69f2f48e4ee19266ff3.jpg"
+        }
+      ],
+      "type": "Donut shop",
+      "categories": [
+        "Donut shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hara Donuts, 5 Chome-2-16 Shimomeguro, Meguro City, Tokyo 153-0064, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/m8Xa7aWGMic6zTuA9",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Hara Donuts in Meguro appears in episode 12 as a casual snack stop for the characters, the unpretentious donut shop providing a warm everyday-Tokyo feel during a lighter scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-fragrant-flower-blooms-with-dignity_11",
+      "name": "Sand House",
+      "localName": "サンドイッチ専門店 Sand House",
+      "coordinates": {
+        "lat": 33.5578,
+        "lng": 133.53214
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b06dee1-d387-4c33-9166-fdf8234ca87a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b06dee1-d387-4c33-9166-fdf8234ca87a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/u7fmcBfoJamtLVEd9",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Sand House (サンドイッチ専門店 Sand House) appears in episode 12 as a sandwich specialty spot used for a brief scene, adding a Shikoku-region local flavor that contrasts with the Tokyo-centric settings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ99KENUBPGGARS5wAoUOpSbA",
+      "name": "Shichirigahama Station",
+      "localName": "七里ヶ浜駅",
+      "coordinates": {
+        "lat": 35.306247,
+        "lng": 139.509997
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c2ce012-2dd1-45c9-8567-3f3171a8b5fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c2ce012-2dd1-45c9-8567-3f3171a8b5fc.webp"
+        },
+        {
+          "url": "media/cached-image_6f79c41ac06c3ab0fdd38774e21bd1b56373b53cdd99c9be933a308bdc9f559d.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-9 Shichirigahama, Kamakura, Kanagawa 248-0026, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Shichirigahama+Station/@35.306247,139.509997,3a,90y,8.43h,96.37t/data=!3m8!1e1!3m6!1sAF1QipOUOvBYkm3oAM9Wd-U_n8df9Ba3Fy-rEdHPBhKo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOUOvBYkm3oAM9Wd-U_n8df9Ba3Fy-rEdHPBhKo%3Dw203-h100-k-no-pi-10-ya140-ro-0-fo100!7i6432!8i3216!4m9!3m8!1s0x60184f403584d2f7:0xb049a943a1009c4b!8m2!3d35.3062403!4d139.5101511!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F02vnkkx?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Shichirigahama Station on the Enoden line appears in episode 12 as the arrival point for an emotionally important Kamakura excursion, the station's scenic coastal setting amplifying the mood of the episode.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtQ46c0RPGGARoL-K9wNTcZ0",
+      "name": "Shichirigahama",
+      "localName": "七里ヶ浜",
+      "coordinates": {
+        "lat": 35.3065797,
+        "lng": 139.5010201
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07071baa-e788-454f-bb9e-d9d2d8989d59.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07071baa-e788-454f-bb9e-d9d2d8989d59.webp"
+        },
+        {
+          "url": "media/cached-image_340dbec3eda5dd3a189d24356b6df2d80fe2365c60d966c17c7157092a5cb7f9.jpg"
+        }
+      ],
+      "type": "浜",
+      "categories": [
+        "浜"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3065797,139.5010201,3a,45.6y,249.13h,94.99t/data=!3m7!1e1!3m5!1sEJv2QU1PFL6rdRCUTWvGZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEJv2QU1PFL6rdRCUTWvGZQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D124.44709%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The sweeping Shichirigahama beach in Kamakura is the backdrop for one of the most visually striking scenes in episode 12, where Chidori and Rintaro share an emotionally raw moment by the sea with Enoshima and Fuji visible in the distance.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC1aZZFeKGGARGLX8IHTOn-c",
+      "name": "Maxell Aqua Park Shinagawa",
+      "localName": "マクセル アクアパーク 品川",
+      "coordinates": {
+        "lat": 35.6285078,
+        "lng": 139.7355082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e51085dc-2843-4021-b6db-cba6d8257ac3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e51085dc-2843-4021-b6db-cba6d8257ac3.webp"
+        },
+        {
+          "url": "media/cached-image_36a833da7b1adfcbdf0e46aa59faca561231fe6763159df0346ca4ed74013d12.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.3,
+      "reviewCount": 49,
+      "priceLevel": null,
+      "address": "品川プリンスホテル内, 4 Chome-10-30 Takanawa, Minato City, Tokyo 108-8611, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6285078,139.7355082,2a,75y,210.61h,100.57t/data=!3m6!1e1!3m4!1s3GlpvnKgnVW8-pcPWMrAyA!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Aqua Park Shinagawa is used in episode 8 as a date-like group outing venue, where the jellyfish and illuminated tanks provide a romantic atmosphere that amplifies the growing tension between Chidori and Rintaro.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdYcUblqKGGARcNsG90fDRZo",
+      "name": "Shinagawa Station",
+      "localName": "品川駅",
+      "coordinates": {
+        "lat": 35.6289186,
+        "lng": 139.7387451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0b3f7c7-22eb-49d3-9d2c-af712546442e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0b3f7c7-22eb-49d3-9d2c-af712546442e.webp"
+        },
+        {
+          "url": "media/cached-image_029b61021f9158a6cb64d7e281a8dca736398979d734682720f272e1137cf835.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-26-27 Takanawa, Minato City, Tokyo 108-0074, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6289186,139.7387451,2a,82.4y,89.57h,89.64t/data=!3m6!1e1!3m4!1sJbrGWdRtWg8L6xfTrLwNXA!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Shinagawa Station appears in episode 8 as the departure and arrival point for the group's aquarium outing, its busy concourse serving as a transitional backdrop for the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOV5tvB_1GGARzENXiCZildQ",
+      "name": "Monsoon Cafe Jiyugaoka",
+      "localName": "モンスーンカフェ 自由が丘／MonsoonCafe Jiyugaoka",
+      "coordinates": {
+        "lat": 35.608837699999995,
+        "lng": 139.6691855
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17c537ee-8962-4402-98e7-f9a6a222227e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17c537ee-8962-4402-98e7-f9a6a222227e.webp"
+        },
+        {
+          "url": "media/cached-image_4bda6e77660f2f4ec0581fd9e4efd111a05cb0810868db3386ab4e593c7aecca.jpg"
+        },
+        {
+          "url": "media/cached-image_1249512ec098c2955b730486596dfc58e2b1ae9d69696f0fcad17ed367b8ca9d.jpg"
+        },
+        {
+          "url": "media/cached-image_b6f7a6547ae0158b3784eae9e98d1bbc3bbdd4a44e504d4dc4d25f67b995279e.jpg"
+        },
+        {
+          "url": "media/cached-image_8c7a953fa410d00171f20da60257addd957837cbe02a4d33de312af10a094eb2.jpg"
+        },
+        {
+          "url": "media/cached-image_8a3fe70b80b7b3cc88b9ebe6bf1dd6187c886b5ba52b467e63eb1567533ae892.jpg"
+        }
+      ],
+      "type": "Restaurant",
+      "categories": [
+        "Restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Monsoon Cafe Jiyūgaoka, ステラ自由が丘 B1F 1 Chome-26-4 Jiyugaoka, Meguro City, Tokyo 152-0035, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6089563,139.669165,3a,87y,280.62h,102.86t/data=!3m7!1e1!3m5!1s20blgQj1OOWDn9z7di7H6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.861122008526394%26panoid%3D20blgQj1OOWDn9z7di7H6A%26yaw%3D280.61732635516955!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Monsoon Cafe Jiyugaoka appears in the opening sequence as a recognizable Jiyugaoka landmark, helping establish the upscale, cosmopolitan feel of Chidori's home neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSfrS6W6LGGARQmqIE60lygw",
+      "name": "Japanese Red Cross Medical Center",
+      "localName": "日本赤十字社医療センター",
+      "coordinates": {
+        "lat": 35.654537,
+        "lng": 139.717874
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3518b584-64a5-417d-b8d0-f21c8880579a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3518b584-64a5-417d-b8d0-f21c8880579a.webp"
+        },
+        {
+          "url": "media/cached-image_957e11cc413d20bb6b5d902eac3bb61a5df3e8102dc97f07ba00a9b6a0929a7b.jpg"
+        },
+        {
+          "url": "media/cached-image_4c22e3ac893f6e20d4e58e796ad058dd022224b849d0073e3b59e07e4609f21b.jpg"
+        },
+        {
+          "url": "media/cached-image_40a02edd3a8c36fb19976b4dbf6db1ea09306b8301a4569d27f6076755b79fb7.jpg"
+        },
+        {
+          "url": "media/cached-image_af007445778021317dbd568b0b8443182939fcd02f658a268cb6ba20b84fc903.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 3.4,
+      "reviewCount": 151,
+      "priceLevel": null,
+      "address": "Japanese Red Cross Medical Center, 4 Chome-1-22 Hiroo, Shibuya, Tokyo 150-8935, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6540096,139.7172302,3a,90y,149.26h,105.77t/data=!3m7!1e1!3m5!1sky4fIf3wC_F7nTQAlMiZGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.771528078902818%26panoid%3Dky4fIf3wC_F7nTQAlMiZGA%26yaw%3D149.2637127824532!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Japanese Red Cross Medical Center in Hiroo appears in the opening sequence as a recognizable Hiroo-area landmark, helping anchor the show's geography around the upscale residential streets near Rintaro's world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhcnBeOKLGGARorkcOyNE8_4",
+      "name": "Hiroo Yu Laundromat",
+      "localName": "広尾湯 コインランドリー",
+      "coordinates": {
+        "lat": 35.6506621,
+        "lng": 139.72180939999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/22d998d9-c190-4964-8cae-71c575fd144c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/22d998d9-c190-4964-8cae-71c575fd144c.webp"
+        },
+        {
+          "url": "media/cached-image_5d8fe8b61c634a2d8eabcd337e6a85ef24deb737baf1e959261e233eb2014565.jpg"
+        }
+      ],
+      "type": "Laundromat",
+      "categories": [
+        "Laundromat"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0012 Tokyo, Shibuya, Hiroo, 5 Chome−4−16 幸田ビル 広尾湯 コインランドリー",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6505865,139.7218518,3a,90y,317.25h,94.06t/data=!3m7!1e1!3m5!1ss5mvLZDEF-rvKvDYEutwCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.064034545147223%26panoid%3Ds5mvLZDEF-rvKvDYEutwCw%26yaw%3D317.24511097564135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Hiroo Yu laundromat appears in episode 1 as a slice-of-life location in Rintaro's quiet Hiroo neighborhood, reflecting his modest, unpretentious daily routine before Chidori enters his life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhQJxh3KLGGARhnJ--oKEEic",
+      "name": "Hiro-o Station",
+      "localName": "広尾駅",
+      "coordinates": {
+        "lat": 35.6518505,
+        "lng": 139.722174
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2fa32954-aaf2-452c-9853-9de11430fd85.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2fa32954-aaf2-452c-9853-9de11430fd85.webp"
+        },
+        {
+          "url": "media/cached-image_1012cb6c14caa830279ba9ff5b01c713688081811300a0f6b3f49a1fc671980e.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hiro-o Station, 5-chōme-4 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6508935,139.7222469,3a,75y,266.31h,95.55t/data=!3m7!1e1!3m5!1swlTCkDNWdw9G1t5hENRa3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.547429592801052%26panoid%3DwlTCkDNWdw9G1t5hENRa3Q%26yaw%3D266.31177258076355!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Hiro-o Station is the gateway to Rintaro's world, shown in episode 1 as the stop near his school and home. The station's understated Hibiya Line exit is a recurring transit landmark in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8ay53X_1GGARlXWTzGBdIoo",
+      "name": "Marche de Bleuet plus",
+      "localName": "マルシェドブルーエプリュス｜自由が丘本店",
+      "coordinates": {
+        "lat": 35.6093992,
+        "lng": 139.6687442
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a7c2eb1-57f1-4b1f-b7be-1f6d600cecbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a7c2eb1-57f1-4b1f-b7be-1f6d600cecbf.webp"
+        },
+        {
+          "url": "media/cached-image_be19745114e76983710ad541341e4e5c313e43af69f5a937872f2f43b9e43b98.jpg"
+        }
+      ],
+      "type": "General store",
+      "categories": [
+        "General store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Marche de Bleuet plus, セザーム自由が丘 1 Chome-25-9 Jiyugaoka, Meguro City, Tokyo 152-0035, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6093081,139.6685899,3a,90y,68.66h,100.52t/data=!3m7!1e1!3m5!1sgIZy_m0dMEQa1t1-Od4DwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.515762901737759%26panoid%3DgIZy_m0dMEQa1t1-Od4DwA%26yaw%3D68.65553266964551!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This charming general store in Jiyugaoka is used in episode 1 as part of the montage establishing Chidori's everyday strolls through the neighborhood, reflecting her lively and stylish personality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQWHtuB_1GGARp8OgjeFlr0Q",
+      "name": "1 Chome-26-18 Jiyugaoka Parking",
+      "localName": "タイムズ自由が丘第１１",
+      "coordinates": {
+        "lat": 35.6090723,
+        "lng": 139.6689273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aacfe95b-5320-4175-9c63-1867eabb3f7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aacfe95b-5320-4175-9c63-1867eabb3f7d.webp"
+        },
+        {
+          "url": "media/cached-image_5d5cc9d638e47a598e8b5bcbda95d0ee899720e8e7b20e29d93f5a826323adc3.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-26-18 Jiyugaoka Parking, 1 Chome-26 Jiyugaoka, Meguro City, Tokyo 152-0035, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6089733,139.6689247,3a,90y,278.05h,97.81t/data=!3m7!1e1!3m5!1s3atXFRRBWMsMPFEMVxZh7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.812488390440791%26panoid%3D3atXFRRBWMsMPFEMVxZh7g%26yaw%3D278.04673482806476!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Jiyugaoka parking lot appears in episode 1 as a background location during Chidori's neighborhood scenes, part of the dense visual mapping of her home district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKXN7Dh_1GGARo-Cb17tu-cA",
+      "name": "Jiyugaoka Station",
+      "localName": "自由が丘駅",
+      "coordinates": {
+        "lat": 35.6072728,
+        "lng": 139.6686661
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c6478ae4-20d6-47fe-9b98-a57752f2bf5b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c6478ae4-20d6-47fe-9b98-a57752f2bf5b.webp"
+        },
+        {
+          "url": "media/cached-image_e5a7683962941bd930a0cae297e85df60697becb3942fe84a29ccf3a1d461da3.jpg"
+        },
+        {
+          "url": "media/cached-image_4cb191af7b4965e8d7e2ade97988480681ab906150fca861bbeb1edf38443371.jpg"
+        },
+        {
+          "url": "media/cached-image_fd8f00866640e6d6650a8241f5befe89b6e7453ca47cc171252f9e2690384196.jpg"
+        },
+        {
+          "url": "media/cached-image_1cbd533df5ee7baeb36e99e774e782a644a19534547b713bbbf5037a789096b5.jpg"
+        },
+        {
+          "url": "media/cached-image_a59e45e5760c680e433f5973feda45b48c30981eea853c2157c6cb1647f08f5e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 165,
+      "priceLevel": null,
+      "address": "Japan, 〒152-0035 Tokyo, Meguro City, Jiyugaoka, 1 Chome−9−8 Jiyūgaoka Station, 南口ビル2階",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6078407,139.6689695,3a,90y,177.59h,95.99t/data=!3m7!1e1!3m5!1s4HL6dMsrWeHEZ8NQz04C5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.991713848498804%26panoid%3D4HL6dMsrWeHEZ8NQz04C5A%26yaw%3D177.58835175876308!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Jiyugaoka Station is the central hub of Chidori's daily life, shown in episode 1 as she commutes from her family's side of town and crosses paths with Rintaro for the first time. The station's distinctive entrance and surrounding shopping streets anchor the series' recurring Jiyugaoka scenes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ91qRph_1GGARiHcMTQ8QGfU",
+      "name": "Jiyugaoka Depart",
+      "localName": "自由が丘デパート",
+      "coordinates": {
+        "lat": 35.6083105,
+        "lng": 139.6690748
+      },
+      "image": "https://cdn.animepilgrimage.com/places/081a0914-48cc-4d9e-9eee-27c1d1194cd5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/081a0914-48cc-4d9e-9eee-27c1d1194cd5.webp"
+        },
+        {
+          "url": "media/cached-image_0a86811313aff44c6d708189e7f5b335949b616cace16740ab4bf58cbf3d3f2a.jpg"
+        },
+        {
+          "url": "media/cached-image_623601739c5f717464944b9a87253e061308032f6ba23e95a2dc7ffb6e81328a.jpg"
+        },
+        {
+          "url": "media/cached-image_3a400e0e53b67f097f26e81e9a1b2826eb1113bc830f938adc0b3e620248c428.jpg"
+        },
+        {
+          "url": "media/cached-image_df1be08cb58f74d079aa779b6edf2e639a8b57bdb03a83ad6b250ec35ae92e61.jpg"
+        },
+        {
+          "url": "media/cached-image_4cbd70d5cf336d1f1a559fd6a79e5b57254191ab7afc54f85de4d0a276d4c0a9.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 546,
+      "priceLevel": null,
+      "address": "Jiyūgaoka Depart, 1 Chome-28-8 Jiyugaoka, Meguro City, Tokyo 152-0035, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6080963,139.6688563,3a,90y,31.59h,103.42t/data=!3m7!1e1!3m5!1sm0GnYbj7_Sduwhe97WVFJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.42127521272748%26panoid%3Dm0GnYbj7_Sduwhe97WVFJw%26yaw%3D31.59221964554214!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Jiyugaoka Depart shopping building appears in episode 1 as a background landmark during Chidori's early Jiyugaoka scenes, establishing the fashionable character of her neighborhood and the contrast with Rintaro's more reserved world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0Xk6RG2LGGARtByVvrwoyQU",
+      "name": "Machida Stone",
+      "localName": "町田石材店",
+      "coordinates": {
+        "lat": 35.6502379,
+        "lng": 139.7208707
+      },
+      "image": "https://cdn.animepilgrimage.com/places/534ed2c6-2881-43d1-bdda-e282a8b93db8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/534ed2c6-2881-43d1-bdda-e282a8b93db8.webp"
+        },
+        {
+          "url": "media/cached-image_9058897f26f7b688a6324a76053532290b379422a0c1fc429f9c68377f613f85.jpg"
+        }
+      ],
+      "type": "Stone supplier",
+      "categories": [
+        "Stone supplier"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Machida Stone, マルチ広尾 ２F 5 Chome-16-11 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6503134,139.7209696,3a,73.9y,235h,96.43t/data=!3m7!1e1!3m5!1sfFdcte7ar-fnI0dSAAnMQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.4251215135096515%26panoid%3DfFdcte7ar-fnI0dSAAnMQw%26yaw%3D235.00279941714217!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Machida Stone, a small Hiroo stone supplier, appears in episode 2 as a background detail in Rintaro's neighborhood walk scenes, grounding the series in the authentic texture of Hiroo's residential streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBbnkYYdSGGARAJys4hkE7kc",
+      "name": "Chigasakishi Public Library",
+      "localName": "茅ヶ崎市立図書館",
+      "coordinates": {
+        "lat": 35.3264509,
+        "lng": 139.405938
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95aea0e3-a38f-4ff8-b1ac-9be080f21b2d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95aea0e3-a38f-4ff8-b1ac-9be080f21b2d.webp"
+        },
+        {
+          "url": "media/cached-image_d4de36948906ae39458c7c50f611fb02cbd0fcbc44246da898935fafaed59389.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Chigasakishi Public Library, 1 Chome-4-55 Higashikaigankita, Chigasaki, Kanagawa 253-0053, Japan",
+      "city": "Chigasaki",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3265088,139.4055172,3a,90y,129.31h,94.21t/data=!3m7!1e1!3m5!1sR0Jx37E4dV7IQ2GU-4M-og!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.214220760516611%26panoid%3DR0Jx37E4dV7IQ2GU-4M-og%26yaw%3D129.30535200563523!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Chigasaki City Library appears in episode 3 as the quiet study spot where Chidori and Rintaro share an unexpectedly close moment, their mutual love of reading bringing them together in the calm of the stacks.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhfV-Sm2LGGARetVvei3H-Fw",
+      "name": "Breakfast & Brunch Jade5",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6494712,
+        "lng": 139.7205457
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5bc328f0-39a6-4026-bc03-af5a8d0ff0be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5bc328f0-39a6-4026-bc03-af5a8d0ff0be.webp"
+        },
+        {
+          "url": "media/cached-image_efc4bd6e4f16864822bc25b2eb78e548537d7c68ac4d0fdb1a8f1ff075a8227e.jpg"
+        },
+        {
+          "url": "media/cached-image_ff5dff8dfa12331f4ae3cbac0a9f130eef5a2dfcffb27479c9046e606f8e5342.jpg"
+        },
+        {
+          "url": "media/cached-image_7dee313cd3f0e5d0605dfb6e8be4bc4d0c5cd515efab99c718f39d6e705f23e6.jpg"
+        }
+      ],
+      "type": "Breakfast restaurant",
+      "categories": [
+        "Breakfast restaurant"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Breakfast & Brunch Jade5, 5 Chome-17-6 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6493505,139.720309,3a,75y,69.86h,95.56t/data=!3m7!1e1!3m5!1s4lXpVx6ZEIbA8tiKFyeUTg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.560122603355509%26panoid%3D4lXpVx6ZEIbA8tiKFyeUTg%26yaw%3D69.85532102297911!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Hiroo breakfast spot appears in episode 4 as a morning scene location, used to show the gentle domesticity developing between Chidori and Rintaro as their relationship quietly deepens."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-fragrant-flower-blooms-with-dignity_27",
+      "name": "LOLO Cafe",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.71271,
+        "lng": 137.73627
+      },
+      "image": "https://cdn.animepilgrimage.com/places/492cfd14-fb7e-417a-8199-86a6b056d32a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/492cfd14-fb7e-417a-8199-86a6b056d32a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.7126207,137.7363962,3a,90y,309.92h,101.73t/data=!3m7!1e1!3m5!1sHk0wODgK1O3hS9-pd9fEZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.73352184985636%26panoid%3DHk0wODgK1O3hS9-pd9fEZw%26yaw%3D309.91585229123956!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "LOLO Cafe appears in episode 4 as a cafe setting for a pivotal conversation scene, where the two leads talk candidly about their complicated feelings for each other."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ-mP5myLGGARanIjkRu-B3s",
+      "name": "GS Heim Hiroo",
+      "localName": "GSハイム広尾",
+      "coordinates": {
+        "lat": 35.6500403,
+        "lng": 139.7187802
+      },
+      "image": "https://cdn.animepilgrimage.com/places/777af80e-1ff1-4765-bae3-c68365b56081.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/777af80e-1ff1-4765-bae3-c68365b56081.webp"
+        },
+        {
+          "url": "media/cached-image_a7d73d871343aa8eecd6d963fa994fca1a6e95b9d10cbb005f753dee31d8706b.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "GS Heim Hiroo, 5 Chome-1-10 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6503549,139.7189883,3a,77.1y,245.47h,94.77t/data=!3m7!1e1!3m5!1srGwjmWg5ppABl6j6cd7vWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.767897241006594%26panoid%3DrGwjmWg5ppABl6j6cd7vWw%26yaw%3D245.47461181062562!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "GS Heim Hiroo, a condominium building in Hiroo, appears in episode 5 as the apartment complex exterior associated with Rintaro's home, establishing the visual of his quiet residential life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq2rDsW-LGGARG08pDVOv4Vw",
+      "name": "Hiroo North Park",
+      "localName": "広尾北公園",
+      "coordinates": {
+        "lat": 35.6562553,
+        "lng": 139.71984229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/31183ad2-f6d1-41fe-98dd-765caa1025f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/31183ad2-f6d1-41fe-98dd-765caa1025f8.webp"
+        },
+        {
+          "url": "media/cached-image_6770227db7275cfaa601b65ecaf8e953ba95f9d4c9ce72b169e669de2ab3ef0b.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hiroo North Park, 4 Chome-1-40 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6562253,139.7201538,3a,90y,280.09h,102.75t/data=!3m7!1e1!3m5!1s6Xsk_rx8tLC8PNUI3mqYng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.753299799098784%26panoid%3D6Xsk_rx8tLC8PNUI3mqYng%26yaw%3D280.09027187558195!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Hiroo North Park features in episode 5 as a place where Chidori and Rintaro walk together in the evening, a low-key outdoor scene where they inch closer to acknowledging their feelings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxcO3mHGLGGAR9GnQKkqVNLw",
+      "name": "Kogai Park",
+      "localName": "笄公園",
+      "coordinates": {
+        "lat": 35.6565632,
+        "lng": 139.7242058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c3ae615d-89c1-4bc5-b5a7-60de6e80325c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c3ae615d-89c1-4bc5-b5a7-60de6e80325c.webp"
+        },
+        {
+          "url": "media/cached-image_f8109ab9f3e5170236d219786de9ab089437afe168a665bc3f56f6a3225ab8b0.jpg"
+        },
+        {
+          "url": "media/cached-image_bcb79b86cf25ea39f4666c3d14393ab2ad24c34e69d69791badd364e5fdfbd50.jpg"
+        },
+        {
+          "url": "media/cached-image_5a7b1b3a23cb2e976356de70b0bce6640fb2f31d70d66ffe1ee20874258a8fe2.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 15,
+      "priceLevel": null,
+      "address": "Kōgai Park, 3 Chome-12-1 Nishiazabu, Minato City, Tokyo 106-0031, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6565198,139.7243454,3a,90y,102.11h,94.3t/data=!3m7!1e1!3m5!1ssD0s-YiGzvZCQZpTnlU_Qw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.29784239870196%26panoid%3DsD0s-YiGzvZCQZpTnlU_Qw%26yaw%3D102.10654761247689!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Kogai Park (Nishiazabu) is used in episode 6 as an outdoor gathering spot, where the characters enjoy a rare relaxed moment outside and the tension between them is particularly charged."
+    }
+  ]
+}

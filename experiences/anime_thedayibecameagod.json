@@ -1,0 +1,1148 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "The Day I Became a God",
+  "slug": "the-day-i-became-a-god",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_d50b59279a83a6a5394659486f0adf5d68d657fe11306d3749e1b7264a028224.webp",
+  "image": "media/cached-image_d50b59279a83a6a5394659486f0adf5d68d657fe11306d3749e1b7264a028224.webp",
+  "banner": null,
+  "primaryLocation": "Yamanashi, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.74075236774194,
+    "lng": 138.38824779032257
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "The Day I Became a God"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_0",
+      "name": "Biore",
+      "localName": "ビオレ",
+      "coordinates": {
+        "lat": 35.66062,
+        "lng": 138.56989
+      },
+      "image": "https://cdn.animepilgrimage.com/places/871b8667-301c-4003-96fd-0ce84f3bd6cb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/871b8667-301c-4003-96fd-0ce84f3bd6cb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Ta2ZVXGd29UXTgrH9",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVSclxH7-G2AR1WFScGjA2W8",
+      "name": "Yamanashishi Station",
+      "localName": "山梨市駅",
+      "coordinates": {
+        "lat": 35.6853213,
+        "lng": 138.6831258
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dfb9e600-350c-4923-a98e-4552c832d003.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dfb9e600-350c-4923-a98e-4552c832d003.webp"
+        },
+        {
+          "url": "media/cached-image_e5021f7df4c9daf23a1a7eeabd91a64d47e9bd25f97ea32b4bbfd82ad87aa2d0.jpg"
+        },
+        {
+          "url": "media/cached-image_9cf5cb615204a58b9135934e87a930860c19cdb003fe494cc663a0e2b602e0f9.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Kamikanogawa, Yamanashi, 405-0018, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6853213,138.6831258,3a,75y,146.46h,98.57t/data=!3m7!1e1!3m5!1spcPlcOXurkHiopBVXOTSPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DpcPlcOXurkHiopBVXOTSPA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D116.952415%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The station appears in Episode 5 as Youta and his friends travel to Kofu, capturing the ordinary commute feel of their final summer together. The platform and entrance exteriors were faithfully reproduced in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ33fbt15cGGAR4RxIXG3lp20",
+      "name": "Kishamichi Promenade",
+      "localName": "汽車道",
+      "coordinates": {
+        "lat": 35.4528946,
+        "lng": 139.6345238
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc94c515-f1ca-4c4f-8d35-f20572c518c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc94c515-f1ca-4c4f-8d35-f20572c518c4.webp"
+        },
+        {
+          "url": "media/cached-image_542ff7796b57b34e66f4dbeea5013909ff93a41109d54714485957d3767c79bb.jpg"
+        },
+        {
+          "url": "media/cached-image_dc3abd4a72a7bc33430037a199ea408900afd87f80c7b0339dd120389f03756a.jpg"
+        },
+        {
+          "url": "media/cached-image_435a05f7a37544dc16e97b2f0c644ba301fbf7a994b3a63d9f9e97c1cce74d8f.jpg"
+        }
+      ],
+      "type": "歷史地標",
+      "categories": [
+        "歷史地標"
+      ],
+      "rating": 4.4,
+      "reviewCount": 35,
+      "priceLevel": null,
+      "address": "2 Chome-9 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4528946,139.6345238,3a,75y,77.22h,91.33t/data=!3m7!1e1!3m5!1s-jk2IK_g-IplQOLNxqpWUQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D-jk2IK_g-IplQOLNxqpWUQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D93.95627%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "This Yokohama waterfront promenade is featured in the opening sequence, its iron-bridge walkway framing the show's bittersweet tone. The distinctive steel trusses appear in the OP visuals setting the series' atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtfthAx5dGGAR2TP-ppzQ7yk",
+      "name": "Starbucks Coffee - Yokohama Motomachi",
+      "localName": "スターバックスコーヒー 横浜元町店",
+      "coordinates": {
+        "lat": 35.4413916,
+        "lng": 139.6506118
+      },
+      "image": "https://cdn.animepilgrimage.com/places/312a2fa7-d857-4404-9f1e-47a8ad515aa5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/312a2fa7-d857-4404-9f1e-47a8ad515aa5.webp"
+        },
+        {
+          "url": "media/cached-image_effd6965a94db4d6db6674dffe4308e0eee81fe082cce5840638b3858002f4b5.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ラヴィ元町 1F, 1 Chome-13-5 Motomachi, Naka Ward, Yokohama, Kanagawa 231-0861, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4413916,139.6506118,3a,75y,45.78h,94.93t/data=!3m6!1e1!3m4!1sF-jFpMnwH8KojlSHo3VdXA!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Yokohama Motomachi Starbucks exterior appears in Episode 3 as a background location in the Motomachi shopping district scenes. The European-influenced architecture of the area gives those sequences their distinctive look."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk7LreXv-G2ARrIwPqGmdlc8",
+      "name": "Kanoiwa General Hospital",
+      "localName": "加納岩総合病院",
+      "coordinates": {
+        "lat": 35.689928099999996,
+        "lng": 138.6836279
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d1a8ec5-a4b8-491b-8eee-fa842af296da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d1a8ec5-a4b8-491b-8eee-fa842af296da.webp"
+        },
+        {
+          "url": "media/cached-image_7f1df2f0214c62937a89a69fb5381b104ac3210ce30dbf2a7ea278d722c26f92.jpg"
+        },
+        {
+          "url": "media/cached-image_82cfae07a688c2d0bc41e1ade225d1a2034e21658e36a3e4f2d70e8739e9e487.jpg"
+        },
+        {
+          "url": "media/cached-image_375dfee058badf7707a6612c093aecdd2d45c6f4d58c40c767c297cfca2d097c.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 3.2,
+      "reviewCount": 20,
+      "priceLevel": null,
+      "address": "Kanoiwa General Hospital, 1309 Kamikanogawa, Yamanashi, 405-0018, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XfUWCw5XSGnkz11U6",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "This hospital near Yamanashishi Station appears in the opening sequence and is tied to the show's later dramatic reveals about Hina's true condition. Its presence in the OP foreshadows the medical storyline at the series' core."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_5",
+      "name": "Fruit Adventure",
+      "localName": "フルーツアドベンチャー",
+      "coordinates": {
+        "lat": 35.70008,
+        "lng": 138.66605
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab181967-da8d-4219-b071-84246db80329.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab181967-da8d-4219-b071-84246db80329.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/rftX4uvp5Abvzwqw9",
+      "episodeType": "OP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJizLjdBKwCl8RJ1E0ybZ6HOc",
+      "name": "Miharashi",
+      "localName": "食事処 みはらし",
+      "coordinates": {
+        "lat": 42.860034899999995,
+        "lng": 140.7049846
+      },
+      "image": "https://cdn.animepilgrimage.com/places/42d41ad3-0796-4e75-abd0-7ab266cbdc19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/42d41ad3-0796-4e75-abd0-7ab266cbdc19.webp"
+        },
+        {
+          "url": "media/cached-image_7fb2266c16919b51af469edfb5d85504137954a456c450ea5894ad742d7b7109.jpg"
+        },
+        {
+          "url": "media/cached-image_dceff017f4cb1e1e55cc367e5e7a59e3ef984ca59bc9514f69b90b24f703d571.jpg"
+        },
+        {
+          "url": "media/cached-image_0b5d9c3cee5af055dc3001891468f70294a051ddc769f53714f0945203b93c60.jpg"
+        },
+        {
+          "url": "media/cached-image_fdfd5788585d3194500ee14b3bd046b353f5662ddd6ef1f65689d29984db0384.jpg"
+        },
+        {
+          "url": "media/cached-image_5ce0d56f74113de73af66013733a3c736e955982d92ee8fce6e0c970c531cf64.jpg"
+        }
+      ],
+      "type": "Serviced accommodation",
+      "categories": [
+        "Serviced accommodation"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Miharashi, 4-2, Niseko Hirafu, 3-chome-4 1-jo, Kutchan, Abuta District, Hokkaido 044-0080, Japan",
+      "city": "Kutchan",
+      "region": "Abuta District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/62yoJEHyfxFuhrEu9",
+      "episodeType": "OP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn0A3mof-G2ARGLwvaveQs5A",
+      "name": "Manriki Park",
+      "localName": "万力公園(万葉の森)",
+      "coordinates": {
+        "lat": 35.6905441,
+        "lng": 138.68094299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ae9e4e2-0e18-4388-b1cb-7a19bbee2033.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ae9e4e2-0e18-4388-b1cb-7a19bbee2033.webp"
+        },
+        {
+          "url": "media/cached-image_6d2d9a3abf1df75ceb94ba454c8788cb89e35be52fd8a180eb437df89a6c0580.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Manriki Park, 1828 Manriki, Yamanashi, 405-0031, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/G8NBYfBtmzPad3Uc7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This park is where Youta first encounters Hina, the self-proclaimed omniscient god, in Episode 1. Her sudden appearance here on a summer afternoon sets the entire story in motion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_8",
+      "name": "Earth Symphony - Harvest Prayer",
+      "localName": "大地のシンフォニー \"豊穣への祈り\"",
+      "coordinates": {
+        "lat": 35.68545,
+        "lng": 138.6836
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e126ea4d-4650-4d7e-b8d6-62523497ce21.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e126ea4d-4650-4d7e-b8d6-62523497ce21.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/GUNZriJ826PmALJJ9",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_9",
+      "name": "Maamade",
+      "localName": "マアメード",
+      "coordinates": {
+        "lat": 35.68876,
+        "lng": 138.67747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce7a8b1f-24ec-4bea-8436-fbb37128a5b3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce7a8b1f-24ec-4bea-8436-fbb37128a5b3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/F7BMEoCWvpRbPTRC6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This local Yamanashi City shop appears in Episode 1 background street shots of the Manriki neighborhood near Youta's home. It is one of several real businesses in the area that the anime reproduced faithfully."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_10",
+      "name": "403 Yamanashimanrikiten",
+      "localName": "クリーニング403 山梨万力店",
+      "coordinates": {
+        "lat": 35.68911,
+        "lng": 138.67786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b442122b-6ebd-4959-ab3e-06b13e71cd98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b442122b-6ebd-4959-ab3e-06b13e71cd98.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/RRJDH1WLoCF5W9W4A",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This dry cleaner near Manriki Park appears in Episode 1 street-level shots of the neighborhood. The Manriki area's ordinary residential character is captured through real storefronts like this one."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_11",
+      "name": "Auto Tech 1",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.69204,
+        "lng": 138.68058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb5dabbf-5a93-456d-beca-38f6a48d8750.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb5dabbf-5a93-456d-beca-38f6a48d8750.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/b3NmUudc3a7iAtYW7",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqX-MpWP-G2ARxVyafnnZMTI",
+      "name": "Yamanashi City Library",
+      "localName": "山梨市立図書館",
+      "coordinates": {
+        "lat": 35.6932384,
+        "lng": 138.6821473
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e3801001-25fb-473e-b9bd-042ffced9b0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e3801001-25fb-473e-b9bd-042ffced9b0c.webp"
+        },
+        {
+          "url": "media/cached-image_8eb265095e572f8b9a69cdc002fb22460fb1a5011ed241d31689aca0f37acead.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamanashi City Library, 1830 Manriki, Yamanashi, 405-0031, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Srtapiqyd47t59pP7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Youta visits this library in Episode 1 while studying for his high school exams. The building serves as a recurring backdrop for his everyday student life before Hina upends his summer plans."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_13",
+      "name": "Chidori",
+      "localName": "千鳥",
+      "coordinates": {
+        "lat": 35.69291,
+        "lng": 138.68081
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8aa9611a-a300-48ca-aef5-870354fd1a61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8aa9611a-a300-48ca-aef5-870354fd1a61.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/LT24vi1muDEHUhJZ7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This local establishment in the Manriki area near Yamanashi City Library appears in Episode 1 background shots. It is part of the cluster of real Manriki neighborhood buildings the anime used to establish the story's setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_14",
+      "name": "Kyoto Co., Ltd.",
+      "localName": "（有）キョートー",
+      "coordinates": {
+        "lat": 35.68594,
+        "lng": 138.67803
+      },
+      "image": "https://cdn.animepilgrimage.com/places/893805da-46e2-49a3-b557-ef3f3f3076a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/893805da-46e2-49a3-b557-ef3f3f3076a5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/9VrQYoXaJXDdKHqeA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small business along the Manriki neighborhood streets appears in Episode 2 background shots. Its presence alongside other real local shops creates the authentic small-town atmosphere that defines Youta's home district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgUuFr5b_G2ARPYH9AlV2WEM",
+      "name": "Manriki 3 Ku Community Center",
+      "localName": "万力3区公民館",
+      "coordinates": {
+        "lat": 35.685158699999995,
+        "lng": 138.6764275
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4de791fb-b6d7-4418-9bb0-c56d25455e9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4de791fb-b6d7-4418-9bb0-c56d25455e9f.webp"
+        },
+        {
+          "url": "media/cached-image_1103059051a5a20042aae481df34e1667a04babacc2a28376fffa8c4f644048d.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Manriki 3 Ku Community Center, 1282 Manriki, Yamanashi, 405-0031, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HYu9KCm1mWK1dvpeA",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small community center in the Manriki neighborhood appears in Episode 2 background shots of the residential area where Youta lives. The Manriki district's quiet suburban feel is central to the anime's grounded summer atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJR_Fvr-DmAGARlzPh0M5KwPI",
+      "name": "Kitahachi",
+      "localName": "㐂太八",
+      "coordinates": {
+        "lat": 34.6901327,
+        "lng": 135.5058405
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a763d524-413d-4af2-a93b-94c97dbb3d27.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a763d524-413d-4af2-a93b-94c97dbb3d27.webp"
+        },
+        {
+          "url": "media/cached-image_ade72d0e9b60db697417c7a5c586262116091ba466c762dec03a9d95a17df5d6.jpg"
+        }
+      ],
+      "type": "Japanese restaurant",
+      "categories": [
+        "Japanese restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitahachi, 2 Chome-2-10 Imabashi, Chuo Ward, Osaka, 541-0042, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dmQsEbjSMxDMUmYn6",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSwbrR5Q8AGARyJKoHthrPvA",
+      "name": "Chogenji",
+      "localName": "長源寺",
+      "coordinates": {
+        "lat": 35.271298,
+        "lng": 135.359199
+      },
+      "image": "https://cdn.animepilgrimage.com/places/296d839e-f1e6-4122-9bbf-d1569a3f83f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/296d839e-f1e6-4122-9bbf-d1569a3f83f3.webp"
+        },
+        {
+          "url": "media/cached-image_0d74d06f14429da175dcd7dac7c00d4cfc04b5e99ebff4c31ead35f0ee1ef65e.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 74,
+      "priceLevel": null,
+      "address": "Chogenji, Okanoshita-25 Ideno, Kyotamba, Funai District, Kyoto 629-1143, Japan",
+      "city": "Kyotamba",
+      "region": "Funai District, Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HBxV5d9T42SaM53bA",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_18",
+      "name": "Alfred Gérard's tiles and bricks",
+      "localName": "ジェラールの瓦工場と水屋敷跡",
+      "coordinates": {
+        "lat": 35.43916,
+        "lng": 139.65092
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f769a17e-7041-49f3-b6fa-0bcac2351517.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f769a17e-7041-49f3-b6fa-0bcac2351517.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/6VYsxJJw2YEgxMKWA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The historic Gerard Tile Factory site in Yokohama's Motomachi area appears in Episode 3 as part of the Yokohama location package. The atmospheric old-Yokohama streetscape here provides a distinctive visual contrast to the Yamanashi countryside scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_19",
+      "name": "Alfred Gérard's springside house",
+      "localName": "ジェラール水屋敷地下貯水槽",
+      "coordinates": {
+        "lat": 35.44,
+        "lng": 139.65069
+      },
+      "image": "https://cdn.animepilgrimage.com/places/10e3c803-2d1a-47b1-9ff6-db006a9c3c86.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/10e3c803-2d1a-47b1-9ff6-db006a9c3c86.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Z6Qy5LxCJtEzWQYe8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This Meiji-era water cistern landmark in Yokohama's Motomachi district appears alongside the tile factory site in Episode 3. The historic European-influenced architecture of Motomachi gives these scenes their unique character."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwSlHJs75G2AR4WiJribdgBQ",
+      "name": "Yamanashi Prefecture Police Headquarters",
+      "localName": "山梨県警察本部",
+      "coordinates": {
+        "lat": 35.663666299999996,
+        "lng": 138.568708
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49934f17-3d7c-47a7-8190-ab1c409a81a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49934f17-3d7c-47a7-8190-ab1c409a81a7.webp"
+        },
+        {
+          "url": "media/cached-image_b4c3a92e03fdf105c585eb13eea9262a963902cc04bc5f3133f3c1202205ba5e.jpg"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Yamanashi Prefecture Police Headquarters, 1 Chome-8-1 Marunouchi, Kofu, Yamanashi 400-0031, Japan",
+      "city": "Kofu",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yci6zdFcKExBrCmv8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The police headquarters building in Kofu appears in Episode 4 as a background location for scenes set in the Kofu city area. Its distinctive modernist facade was reproduced in the anime's establishing shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5b7FFMX5G2ARIenBvOM2TkI",
+      "name": "Jajamaru Kofu-Chuo",
+      "localName": "じゃじゃまる 甲府中央店",
+      "coordinates": {
+        "lat": 35.6609802,
+        "lng": 138.5701652
+      },
+      "image": "https://cdn.animepilgrimage.com/places/194c0ef8-8251-4bf9-8c46-f86783ce895e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/194c0ef8-8251-4bf9-8c46-f86783ce895e.webp"
+        },
+        {
+          "url": "media/cached-image_a38443ddfbef984a4829a6b38ca4407616dacca95294e0f22b2794fd0fd4b8eb.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Jajamaru, 2F 1 Chome-2-10 Central, Kofu, Yamanashi 400-0032, Japan",
+      "city": "Kofu",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bfXdfB9KZPnaTd876",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This izakaya in central Kofu appears in Episode 5 background street scenes when the group explores the city. The surrounding Kofu Chuo area commercial district is depicted during the characters' day out."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqSTk3sT5G2ARnb25FleQFHE",
+      "name": "Kofu Ginzadori Shopping Street",
+      "localName": "甲府銀座通り商店街",
+      "coordinates": {
+        "lat": 35.6599425,
+        "lng": 138.5708312
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8cb952a2-7a0e-487d-8be3-58cae84c750d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8cb952a2-7a0e-487d-8be3-58cae84c750d.webp"
+        },
+        {
+          "url": "media/cached-image_7de17bfa46c1c847f68bed39a4718cbae119311b1dc6b0be29f7be46fe9fbf31.jpg"
+        },
+        {
+          "url": "media/cached-image_415d7710a0a8a38bedbaa9a452a61400582ed0256bf4609851922a756780ca71.jpg"
+        },
+        {
+          "url": "media/cached-image_2805a1a3024f38a900af1e8e671068013e291256bb9d025c30a781f0078ccaeb.jpg"
+        },
+        {
+          "url": "media/cached-image_c8f74da5681bf539aa848352bfc3c602f19655709714c52c09ffd3106012acf0.jpg"
+        },
+        {
+          "url": "media/cached-image_4d64e9cd9284c9443d15f7b590f78ed54b6aaebb03241ef985f2667d2d501146.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.4,
+      "reviewCount": 1674,
+      "priceLevel": null,
+      "address": "Kofu Ginzadori Shopping Street, 15 Central, Kofu, Yamanashi 400-0032, Japan",
+      "city": "Kofu",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YihhempqjHTDZiWR8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This downtown Kofu shopping arcade appears in Episode 5 as Youta and friends spend time in the city center. The covered shopping street's retro atmosphere contributes to the show's nostalgic summer setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtYXbs2b-G2ARNq6CBDzZmyo",
+      "name": "Otakesan Shrine",
+      "localName": "展望の社 差出磯大嶽山神社",
+      "coordinates": {
+        "lat": 35.697046,
+        "lng": 138.684431
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32554197-2cd2-481b-ac77-afa5bc8a0554.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32554197-2cd2-481b-ac77-afa5bc8a0554.webp"
+        },
+        {
+          "url": "media/cached-image_f583895237f17f9f18abcdfa12c6af658bf1592cce91bb64d1f99829b5db343a.jpg"
+        },
+        {
+          "url": "media/cached-image_5c54dbddd7d4a79d84e3c7fffee18955937ad5b42a2deb7e837427e8b59449e5.jpg"
+        },
+        {
+          "url": "media/cached-image_5b347102cfa17985f91dd29a4eb3884039464e094932c91b33fc5f29794df96b.jpg"
+        },
+        {
+          "url": "media/cached-image_a1f6e8faa633c536240e3f09b0af7464a9554f41800b5780ead9462a090fb8ea.jpg"
+        },
+        {
+          "url": "media/cached-image_5f12f1fc40f997b8233f2cb8dd113e65edae1931ca3fe77202d011f87d50a48e.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 632,
+      "priceLevel": null,
+      "address": "Otakesan Shrine, 1376-1 Minami, Yamanashi, 405-0042, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tsbW9koxeAN8Ro1BA",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The shrine and its scenic overlook feature in Episode 6 during a pivotal summer festival sequence with Youta and Hina. The panoramic view of Yamanashi from the hilltop shrine grounds matches the broadcast imagery closely.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTUQo5eX-G2ARftDuGDJ9xHg",
+      "name": "Fuefukigawa Fruit Park",
+      "localName": "山梨県笛吹川フルーツ公園",
+      "coordinates": {
+        "lat": 35.7024414,
+        "lng": 138.66493119999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dad5d9c7-279c-4885-a1f3-c16e7a62cd58.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dad5d9c7-279c-4885-a1f3-c16e7a62cd58.webp"
+        },
+        {
+          "url": "media/cached-image_ad1ca924806fdef2aa224d04570b2311fca2ff848f4c84ad676180857c31d2fb.jpg"
+        },
+        {
+          "url": "media/cached-image_cba59186faf15da5dbe6d6f4fd7e06b4e9a9be485a5b9c8f34103ff7721f55d6.jpg"
+        },
+        {
+          "url": "media/cached-image_cea5c35043b296628f6ce1550512e0074af9dbdc9cac28a9c50b3c1866cc8dab.jpg"
+        },
+        {
+          "url": "media/cached-image_6fe63eb7430ed322542f0e23d6af270221162fb4966d3024f05c4ee3409ae563.jpg"
+        },
+        {
+          "url": "media/cached-image_e55d4eb925a3e31a6e8f6fcfd16f3398a63c68e2a48bd795e66b30b15d14941c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2542,
+      "priceLevel": null,
+      "address": "Fuefukigawa Fruit Park, 1488 Ezohara, Yamanashi, 405-0043, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Rk6XQFxJEJaW8BMD9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This hillside park is the backdrop for Episode 7's date sequence where Youta and Hina share a meaningful afternoon together. The terraced gardens and night-view illuminations make it one of the most visually iconic locations in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbx8S5ub-G2ARtFxlWkET4JE",
+      "name": "Fruit Park Fujiya Hotel",
+      "localName": "フルーツパーク富士屋ホテル",
+      "coordinates": {
+        "lat": 35.703247499999996,
+        "lng": 138.6613176
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9945218-5572-4fe0-8078-b725b5d86364.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9945218-5572-4fe0-8078-b725b5d86364.webp"
+        },
+        {
+          "url": "media/cached-image_cea5c35043b296628f6ce1550512e0074af9dbdc9cac28a9c50b3c1866cc8dab.jpg"
+        },
+        {
+          "url": "media/cached-image_bf7114dfa7eaa4184e3e742c6d20d47bdc7c266f2ba373e074066e11438ba48c.jpg"
+        },
+        {
+          "url": "media/cached-image_a36b0b7805f1206b73d49227d309b9da9f12a29b816b4d09e434bea22a5389a9.jpg"
+        },
+        {
+          "url": "media/cached-image_4d457e8dd7be4df001c6c0f34aa411be8efd01b8685e655ec379fcd60595bde5.jpg"
+        },
+        {
+          "url": "media/cached-image_6c1af1219afc3d9ccbcb1ded66f9d93532ee5aecde0afd88441be1c13f4b229a.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.3,
+      "reviewCount": 180,
+      "priceLevel": null,
+      "address": "Fruit Park Fujiya Hotel, 1388 Ezohara, Yamanashi, 405-0043, Japan",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/StYGk8pk9c79tmqZ8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The hotel adjacent to Fuefukigawa Fruit Park appears in Episode 7, its distinctive architecture visible in the background of the park scenes. Fans visiting the Fruit Park often walk past this hotel to complete the pilgrimage route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_26",
+      "name": "Odagiri Sports",
+      "localName": "スポーツショップオダギリ",
+      "coordinates": {
+        "lat": 35.68315,
+        "lng": 138.6859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/231c6dc7-5988-4d58-8661-ab02710b224a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/231c6dc7-5988-4d58-8661-ab02710b224a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/hKyHUtBiaVaApbgv6",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_the-day-i-became-a-god_27",
+      "name": "Earth Symphony - Harvest Prayer",
+      "localName": "大地のシンフォニー \"豊穣への祈り\"",
+      "coordinates": {
+        "lat": 35.68534,
+        "lng": 138.68345
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f6ac138e-fa5c-40ed-8ed2-4dd111ae9081.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f6ac138e-fa5c-40ed-8ed2-4dd111ae9081.webp"
+        },
+        {
+          "url": "media/cached-image_a83de6bf63abfbd2b24a1fd5781b0c1bcd99b0915a9c1e6b59e78e1c5416ef95.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/gfFbFFtHHM14QhcD8",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz87s9M35G2ARN4qw5BWReqU",
+      "name": "Kofu Station",
+      "localName": "甲府駅",
+      "coordinates": {
+        "lat": 35.6670981,
+        "lng": 138.5690631
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b57b46a6-bd78-410d-b0df-7c76a97e73a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b57b46a6-bd78-410d-b0df-7c76a97e73a1.webp"
+        },
+        {
+          "url": "media/cached-image_a092f43c12437b3570e21026513ebddf23ea35b468540e37d48622a3d0cfc368.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kōfu Station, 1-chōme-1 Marunouchi, Kofu, Yamanashi 400-0031, Japan",
+      "city": "Kofu",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NtnbEJEbdFXDWxT2A",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kofu Station is featured in Episode 10 in one of the series' most emotionally charged departure scenes. The station's north exit area and surrounding streets appear as Youta faces the bittersweet realities of Hina's fate.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx5eyUACLGGARP8WqPDNwmjw",
+      "name": "Park Japan Marunouchi #13",
+      "localName": "Marunouchi Street Park",
+      "coordinates": {
+        "lat": 35.6800674,
+        "lng": 139.76285249999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e8b4064c-aada-4338-8c42-d423f2e5e076.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e8b4064c-aada-4338-8c42-d423f2e5e076.webp"
+        },
+        {
+          "url": "media/cached-image_c8ac5b8ea00f1b157ceafe10705a9800f9611661d0c272724e2e5a7ed847fdb7.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 2 Chome−2−2 Marunouchi Street Park",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uCBKaKkpd1RadR227",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN1G5IdVFFTURYmZNfix7LxM",
+      "name": "New Japan's Three Great Night Views: Observation Plaza",
+      "localName": "軍艦島第３見学広場",
+      "coordinates": {
+        "lat": 32.6263316,
+        "lng": 129.73670049999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2157b646-e7b5-4c52-8223-cd7d4a4999d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2157b646-e7b5-4c52-8223-cd7d4a4999d5.webp"
+        },
+        {
+          "url": "media/cached-image_93984c2ec37084a7695c3d5ede059acf54eb1e53a31a449c69bfb306fbc90778.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Third observation plaza, 端島 Takashimamachi, Nagasaki, 851-1315, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BViVbZLgTqGwLH1N9",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    }
+  ]
+}

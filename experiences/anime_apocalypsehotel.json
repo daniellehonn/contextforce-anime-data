@@ -1,0 +1,1844 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Apocalypse Hotel",
+  "slug": "apocalypse-hotel",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_4e3d127f4e028f5d1ea861372a97010dcfbfaf92cbf3295c835a13096b79beb2.webp",
+  "image": "media/cached-image_4e3d127f4e028f5d1ea861372a97010dcfbfaf92cbf3295c835a13096b79beb2.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.64364169148936,
+    "lng": 139.6413341319149
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Apocalypse Hotel"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJhQnckX6LGGARzgX1YexX4yo",
+      "name": "Residia Tower Nogizaka",
+      "localName": "レジディアタワー乃木坂",
+      "coordinates": {
+        "lat": 35.6675979,
+        "lng": 139.7276234
+      },
+      "image": "https://cdn.animepilgrimage.com/places/65476c16-1a8a-4552-8052-fe06f049883e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/65476c16-1a8a-4552-8052-fe06f049883e.webp"
+        },
+        {
+          "url": "media/cached-image_036290e1e3387caa911a22ac019d8d65cab54e95b12301e927635421e78c29b1.jpg"
+        },
+        {
+          "url": "media/cached-image_94b4ee7b7c1a4463c80f1c916ebbff59898ea21abce901fc4d5a05b80179cb4f.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Residia Tower Nogizaka, 9 Chome-6-39 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6678196,139.7274323,3a,90y,178.51h,111.01t/data=!3m7!1e1!3m5!1sT9CPMUJ_aeLhgqxXOaHr5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.005977304539286%26panoid%3DT9CPMUJ_aeLhgqxXOaHr5w%26yaw%3D178.50690247801668!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This residential high-rise near Nogizaka appears in Episode 11 as a location along Yachiyo's final-episode route through the Akasaka-Nogizaka corridor, part of the carefully location-scouted journey the production team mapped for the finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ7pdNPiLGGARH3GuPfhKb7U",
+      "name": "Gucci Roppongi Men's Shop",
+      "localName": "Gucci 六本木",
+      "coordinates": {
+        "lat": 35.6589684,
+        "lng": 139.7313362
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2e8a20d8-f7f5-46e0-b732-a5d333bbf5ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2e8a20d8-f7f5-46e0-b732-a5d333bbf5ed.webp"
+        },
+        {
+          "url": "media/cached-image_1be619db04c6658f3664ea862a0dcb852d5600e34ee853c89b5d51d8cd43cd26.jpg"
+        }
+      ],
+      "type": "Women's clothing store",
+      "categories": [
+        "Women's clothing store"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "GUCCI Roppongi Flagship, 六本木けやき坂通り 1階 6 Chome-12-4 Roppongi, Minato City, Tokyo 106-6108, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6599786,139.7289225,2a,90y,348.91h,95.51t/data=!3m7!1e1!3m5!1s4-Gknq7Nt1M9jAws4ZVQKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.514360466285439%26panoid%3D4-Gknq7Nt1M9jAws4ZVQKA%26yaw%3D348.9135125251745!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Gucci flagship on Roppongi's Keyaki-zaka appears in Episode 11 as a luxury retail landmark standing empty on Yachiyo's walk, its designer goods untouched behind the glass after a century without shoppers."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_apocalypse-hotel_2",
+      "name": "The Ritz-Carlton Café & Deli",
+      "localName": "ザ・リッツ・カールトン カフェ＆デリ",
+      "coordinates": {
+        "lat": 35.66593,
+        "lng": 139.73081
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37e2d5cb-a6c8-4c75-9b37-62c8a5ac1d8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37e2d5cb-a6c8-4c75-9b37-62c8a5ac1d8a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659081,139.7309383,2a,90y,345.11h,92.97t/data=!3m7!1e1!3m5!1szbCUXVY1tjhEOwSyqku6vQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.973336442636395%26panoid%3DzbCUXVY1tjhEOwSyqku6vQ%26yaw%3D345.1132645339491!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Ritz-Carlton's cafe within Tokyo Midtown appears in Episode 11 as one of the luxury hotel venues Yachiyo passes during her finale-episode journey, a counterpart to her own Gingarou in the neighborhood's constellation of high-end hospitality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU2MukniLGGAR1qSN4ds5Pus",
+      "name": "Tokyo Midtown",
+      "localName": "東京ミッドタウン",
+      "coordinates": {
+        "lat": 35.6659803,
+        "lng": 139.7308747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6679bcb9-59ea-4681-a793-1a741f6c6d8b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6679bcb9-59ea-4681-a793-1a741f6c6d8b.webp"
+        },
+        {
+          "url": "media/cached-image_c8c12b74d485f3a05d14fdf201bd46ebfdc7337f12ca034cd10dc0df1c73013a.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Midtown, 9 Chome-7-1 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6647876,139.7304656,3a,90y,14.99h,123.24t/data=!3m7!1e1!3m5!1sQ-LjTrm2q27P0F6h3kEjRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-33.24294594360282%26panoid%3DQ-LjTrm2q27P0F6h3kEjRA%26yaw%3D14.985819932772992!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The mixed-use Roppongi complex appears in Episode 11 as a major landmark on Yachiyo's route, its towers and garden shown as a grand but empty monument to the modern Tokyo that humanity left behind."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE7ZvoeaLGGARtjdj7xo4_c4",
+      "name": "Ryuko Fudoson",
+      "localName": "龍光不動尊",
+      "coordinates": {
+        "lat": 35.6720962,
+        "lng": 139.7666016
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d9ac64a-c9ee-4181-9e24-e18f76a5e669.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d9ac64a-c9ee-4181-9e24-e18f76a5e669.webp"
+        },
+        {
+          "url": "media/cached-image_53f58af173d8bbd1c837dbf6738d26a7782a946035346e086e9e126b0495956b.jpg"
+        },
+        {
+          "url": "media/cached-image_2247bd3a0a490bfc5d8d610ec7fdc382b9c6243237ccb1c44da97566ead2b609.jpg"
+        },
+        {
+          "url": "media/cached-image_1849ec1e727d608314518fa8a9de849c71884f4038ada69ea05097347ebaeb9f.jpg"
+        },
+        {
+          "url": "media/cached-image_47bba7da5d3be4b30903e052162b7c40114babeb0a416a5c7db90f252ad708a0.jpg"
+        },
+        {
+          "url": "media/cached-image_b608fd5091f2ef5a235013492df7919d747171614be4efc57bde9f48c9bb8a1a.jpg"
+        }
+      ],
+      "type": "Place of worship",
+      "categories": [
+        "Place of worship"
+      ],
+      "rating": 4.3,
+      "reviewCount": 38,
+      "priceLevel": null,
+      "address": "Ryūkō Fudōson, 松屋銀座 RF 3 Chome-6-1 Ginza, Chuo City, Tokyo 104-8130, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Ry%C5%ABk%C5%8D+Fud%C5%8Dson/@35.6721446,139.7666328,3a,90y,28.72h,97.76t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDElbSmVQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hagzlwl0gdmnne_Bh4ajuFUOdNAierfv1JK0xNARRXu1WGeNH-Kx8qXiGpq3Yq7fTGKQH6IlzTrIGyTYws7hg660b-stke8BGEfFXMKdQbfqk5MRCVVsUPO8hpTDfi5OpizIXn5%3Dw900-h600-k-no-pi-7.762761726196516-ya186.22001453640024-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188be6a16fb613:0xcefd381aef6337b6!8m2!3d35.6720962!4d139.7666016!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11_tr033w?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This small Fudo Myo-o shrine on the roof of Matsuzakaya Ginza appears in Episode 11, its stone guardian still watching over a completely deserted Ginza shopping district in the anime's deeply researched Ginza location work."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRQ2BJ-SLGGARBo5lWSuc-jM",
+      "name": "Ginza Central Street",
+      "localName": "Ginza Central Street",
+      "coordinates": {
+        "lat": 35.672187099999995,
+        "lng": 139.76599439999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ddf508f3-90f3-4ce9-a97f-cc0d1dd86b63.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ddf508f3-90f3-4ce9-a97f-cc0d1dd86b63.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": 83,
+      "priceLevel": null,
+      "address": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 3 Chome−6, 中央通り",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6723689,139.7662123,3a,90y,203.47h,107.24t/data=!3m7!1e1!3m5!1sD2XbY_8jL4DRrLmMiXlQMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.236301885911445%26panoid%3DD2XbY_8jL4DRrLmMiXlQMQ%26yaw%3D203.47390478033907!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The pedestrian spine of Ginza's Chuo-dori serves as the recurring empty-city corridor that Yachiyo walks in early episodes, with overgrowth splitting the pavement and no humans in sight. The contrast between the street's real-world luxury bustle and the anime's silent ruin is the show's defining visual.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQAsR--LGGAR_AmB8WMDy88",
+      "name": "GINZA SIX",
+      "localName": "GINZA SIX",
+      "coordinates": {
+        "lat": 35.6697688,
+        "lng": 139.76417619999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3105f81-9467-4d8d-a4c1-bb03990d7371.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3105f81-9467-4d8d-a4c1-bb03990d7371.webp"
+        },
+        {
+          "url": "media/cached-image_1f5cc923f8e564b794f6f40b6998f69e15fdeec1da9698df1a4d3905eea6ec3f.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4,
+      "reviewCount": 22946,
+      "priceLevel": null,
+      "address": "6 Chome-10-1 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6698474,139.7636344,3a,90y,181.98h,106.53t/data=!3m7!1e1!3m5!1sffU1NK_Hws0EDS9vLWslOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.531170414331697%26panoid%3DffU1NK_Hws0EDS9vLWslOw%26yaw%3D181.97659874988778!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The rooftop garden of GINZA SIX appears in Episode 7 as a high vantage point over the silent cityscape, and the show uses its open-sky setting to give Yachiyo a contemplative moment above the empty streets below."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJny-SNT-JGGARk7Bb6-kDdGU",
+      "name": "Mannen Bridge",
+      "localName": "萬年橋",
+      "coordinates": {
+        "lat": 35.683456899999996,
+        "lng": 139.7946541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/772dbf2b-c67b-4dea-8ff1-b394bace93b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/772dbf2b-c67b-4dea-8ff1-b394bace93b7.webp"
+        },
+        {
+          "url": "media/cached-image_28dba244aeb621eac1024edb6ec97f4b85cca176b31bd6ac04112bb39266c3d9.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mannen Bridge, 2 Chome-14-9 Kiyosumi, Koto City, Tokyo 135-0024, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6682571,139.7687399,3a,90y,312.65h,105.91t/data=!3m7!1e1!3m5!1s_OSOkL-V3ctqoz-9gIvbHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.906281410655225%26panoid%3D_OSOkL-V3ctqoz-9gIvbHg%26yaw%3D312.6462267201514!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This historic bridge over the Onagi River in Kiyosumi appears in Episode 6 as a distant-from-Ginza pilgrimage point that broadens the show's geographic footprint beyond the Chuo ward."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQfOuBN6LGGAREoTkU009ur4",
+      "name": "Tsukijigawa Ginza Park",
+      "localName": "築地川銀座公園",
+      "coordinates": {
+        "lat": 35.668624099999995,
+        "lng": 139.76894009999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/99207082-d65f-48b2-ad9e-39ad507d4513.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/99207082-d65f-48b2-ad9e-39ad507d4513.webp"
+        },
+        {
+          "url": "media/cached-image_df38d0f9c464acddf1446a0e60c9bc8ff1bc0d6691c938b5386478d5b0f2d115.jpg"
+        },
+        {
+          "url": "media/cached-image_d1a1843da44b8a2a4f0c9fbeb3cd8181acdecb187d313d313f4c284cda770498.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 70,
+      "priceLevel": null,
+      "address": "Tsukijigawa Ginza Park, 1 Chome-13-20 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6685591,139.7687345,3a,90y,53.63h,101.34t/data=!3m7!1e1!3m5!1sa_fPAiF9jf7ZPmAtLtJJWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.342964416795894%26panoid%3Da_fPAiF9jf7ZPmAtLtJJWg%26yaw%3D53.633477676241576!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This narrow park above the old Tsukiji River appears in Episode 6, its linear greenway of plane trees shown in the anime as completely overtaken by vegetation after a century of untended growth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy18lj-iLGGARJq-X6_EXofY",
+      "name": "Tokyu Plaza Ginza",
+      "localName": "GINZA NOVO",
+      "coordinates": {
+        "lat": 35.6722448,
+        "lng": 139.7624127
+      },
+      "image": "https://cdn.animepilgrimage.com/places/780089f5-22aa-4840-b0f6-eff309540053.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/780089f5-22aa-4840-b0f6-eff309540053.webp"
+        },
+        {
+          "url": "media/cached-image_8ba6fa7952904355fc29ae50b88acebfdfd94027ebbec556a167433ac857d7b5.jpg"
+        },
+        {
+          "url": "media/cached-image_fdf073eef07c2184dc1fd8c780115ce8d82d6195fd503245a389ade11fbc0fed.jpg"
+        },
+        {
+          "url": "media/cached-image_2140b5b43526c5b44542a0f43ca54fd5e7e5c13b521d9da8c35dd380dfec8562.jpg"
+        },
+        {
+          "url": "media/cached-image_af29fe30544a9d4314c0029d9079a880db64199323ee813db2e5a2b987f949e6.jpg"
+        },
+        {
+          "url": "media/cached-image_8a1094401f1c0775ae3377d31941c4f77feb478d37948190c6c65189c1f2fde2.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.9,
+      "reviewCount": 4205,
+      "priceLevel": null,
+      "address": "GinzaNovo, 5 Chome-2-1 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6725246,139.7626601,2a,90y,126.25h,104.5t/data=!3m7!1e1!3m5!1sw_WZNX6uMQaYWC47ALf8sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.501170618533564%26panoid%3Dw_WZNX6uMQaYWC47ALf8sw%26yaw%3D126.24700197901687!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The distinctive lattice facade of this Ginza 5-chome shopping complex appears in Episode 6, its geometric exterior one of the more recognizable modern structures in the anime's sweep of a ruined Ginza."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ30G_l3iLGGARcJd-bAbapCE",
+      "name": "Knock Cucina Buona Italiana",
+      "localName": "KNOCK CUCINA BUONA ITALIANA 東京ミッドタウン店",
+      "coordinates": {
+        "lat": 35.6667754,
+        "lng": 139.7304605
+      },
+      "image": "https://cdn.animepilgrimage.com/places/30d5f2eb-ea79-4b2b-97fc-a606523c3614.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/30d5f2eb-ea79-4b2b-97fc-a606523c3614.webp"
+        },
+        {
+          "url": "media/cached-image_fee7b19165205af01ddf9a16e71eac829d75a9f08e5f681d6937b3f12e1eb6d1.jpg"
+        }
+      ],
+      "type": "Italian restaurant",
+      "categories": [
+        "Italian restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Knock Cucina Buona Italiana, ガレリアガーデンテラス ２Ｆ 9 Chome-7-4 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6666378,139.7300341,3a,42.2y,70.69h,98t/data=!3m7!1e1!3m5!1sSDTynvzKHwiKXTlnwsvhrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.99711894488081%26panoid%3DSDTynvzKHwiKXTlnwsvhrA%26yaw%3D70.68972200497325!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Italian restaurant inside Tokyo Midtown's Galleria appears in Episode 11 as a dining venue along Yachiyo's finale-episode walk, its tables set and food long gone in the silent complex."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBZwsRNGNGGARCBlk1ZEOMPY",
+      "name": "Yasuda Auditorium, The University of Tokyo",
+      "localName": "東京大学安田講堂",
+      "coordinates": {
+        "lat": 35.713423299999995,
+        "lng": 139.76228229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57762261-4fb3-4a85-b062-4d6dadfad121.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57762261-4fb3-4a85-b062-4d6dadfad121.webp"
+        }
+      ],
+      "type": "Auditorium",
+      "categories": [
+        "Auditorium"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yasuda Auditorium, The University of Tokyo, 7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7132732,139.7617693,3a,90y,170.15h,110.75t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICE4ezrnQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZXNYOR0i7G76A3HIzwMUC5Ag8ksqCt0FN1pcfU43utxfWMZVAHL-jlvL1OMFZlxft9uK1rzWIMdt4VFQ8bGNMG552S1NaxTrCcw8QbX6VB7lDFymw0Iph4bTcOPrldRdIyUORhaQ%3Dw900-h600-k-no-pi-20.75325908939054-ya170.15124705643933-ro0-fo100!7i5660!8i2830?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The iconic Gothic Revival auditorium of Tokyo University appears in Episode 6 as a landmark of Japanese higher learning now standing in overgrown silence, its red-brick campanile a recognizable silhouette in the ruined cityscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL7oJmfKLGGARICV0C_mOUYI",
+      "name": "Hibiya Open Air Concert Hall",
+      "localName": "日比谷公園大音楽堂",
+      "coordinates": {
+        "lat": 35.6723141,
+        "lng": 139.7540133
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1ad9197c-65a8-489e-a30b-b0cd58cdcd7f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1ad9197c-65a8-489e-a30b-b0cd58cdcd7f.webp"
+        },
+        {
+          "url": "media/cached-image_97c582cbe8a70ba673daa96708fb49000ffa00922b8972671e04541ba3ff955d.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hibiya Open Air Concert Hall, 1-5 Hibiyakoen, Chiyoda City, Tokyo 100-0012, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6728467,139.754325,3a,90y,10.43h,95.96t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEpduLpwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaayJo9Jbwkrd7GPed9H3SV9MQ80FsngRu_2yMMqUYkKhXgXFQNBN0DNroLa9H0Js3dh8DCsQKhkuVK0P3G7YmyejkFZ56g3-covhilqHENEXdolv3A_9P7uON1fSEJ-rijsEz7sQ%3Dw900-h600-k-no-pi-5.9637652944205115-ya10.431455997613625-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The open-air bandshell in Hibiya Park appears in Episode 6 as one of the public performance venues shown abandoned in the anime, its arc of concrete seats empty and shadowed by unchecked trees."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHwhSW3eLGGAROdsoN-feVMQ",
+      "name": "TOKYO KAIKAN Main Building",
+      "localName": "東京會舘 本舘",
+      "coordinates": {
+        "lat": 35.6774528,
+        "lng": 139.7610968
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c63c6c7-ba95-4043-8700-1bff563e6b43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c63c6c7-ba95-4043-8700-1bff563e6b43.webp"
+        },
+        {
+          "url": "media/cached-image_a37b6456b5b7d22c75398897b9e94eac6747f6e017611f17c0bdabf6ed10c83d.jpg"
+        },
+        {
+          "url": "media/cached-image_be28115baf0ebea4933cdaada9b38eedab3e0eaaec68109fad00b39c5c7d1a5c.jpg"
+        },
+        {
+          "url": "media/cached-image_0af25e3c428d65aa20cd08caead8fda35e6186763e5b95455c477aefd644308b.jpg"
+        },
+        {
+          "url": "media/cached-image_8571426268de294205ef3f0eb7c400c3e3de76f563839022b81e9a48d7ee446a.jpg"
+        },
+        {
+          "url": "media/cached-image_f1cc37213ebc7f2e7ea32ed569eaeeff0b07c76cea518e2622743dd131a29bbd.jpg"
+        }
+      ],
+      "type": "Banquet hall",
+      "categories": [
+        "Banquet hall"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1141,
+      "priceLevel": null,
+      "address": "TOKYO KAIKAN Main Building, Marunouchi Nijubashi Bldg, B1～4F・7F 3 Chome-2-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6773669,139.7604958,3a,90y,24.34h,109.34t/data=!3m7!1e1!3m5!1soXLid05OKqYDSB-VinT8jw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.343124537966276%26panoid%3DoXLid05OKqYDSB-VinT8jw%26yaw%3D24.336576840750983!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This historic Marunouchi banquet hall appears in Episode 6, its grand Taisho-era architecture rendered as a silent monument in the post-human Tokyo that Yachiyo and her guests navigate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo9rFlRyKGGARxGX4YMCH2dA",
+      "name": "Shiokaze Park",
+      "localName": "潮風公園",
+      "coordinates": {
+        "lat": 35.62339,
+        "lng": 139.7695743
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e794f7b3-c11e-4868-a565-3b261accedb5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e794f7b3-c11e-4868-a565-3b261accedb5.webp"
+        },
+        {
+          "url": "media/cached-image_a1b855ef4c5208a9e2b4d2fbe1159c889da95cadd34d0f4279e41e8779693a4e.jpg"
+        },
+        {
+          "url": "media/cached-image_2b902f60664b24e3e12feff538a9cb4a5683a14fef450dbbc4ad17f1eaad7525.jpg"
+        },
+        {
+          "url": "media/cached-image_5347ab081632a221d75f7c401d5c75d588d540e256c89cc786f510627bee81b9.jpg"
+        },
+        {
+          "url": "media/cached-image_aa35403511617158145aa4df28f80b7174ee7a71d00aa1321f6e61f85bcc33ad.jpg"
+        },
+        {
+          "url": "media/cached-image_b4326c566db557995aba97e96b3ef697375d679c067c5553a96accec712163f7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 86,
+      "priceLevel": null,
+      "address": "Shiokaze Park, 1 Higashiyashio, Shinagawa City, Tokyo 135-0092, Japan",
+      "city": "Shinagawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6234453,139.7690573,2a,90y,351.46h,97.18t/data=!3m7!1e1!3m5!1sVjfPvKN9BQF82F5Dokm79Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.184085132563794%26panoid%3DVjfPvKN9BQF82F5Dokm79Q%26yaw%3D351.45502511839953!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This waterfront park on Tokyo Bay's reclaimed islands appears in Episode 6, shown with sweeping views of an abandoned bay where no ships move and the sea breeze blows through an empty city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO4C9keaLGGAR5PvUvsqI2bQ",
+      "name": "Ginza Shusse Jizoson",
+      "localName": "銀座出世地蔵尊",
+      "coordinates": {
+        "lat": 35.6714511,
+        "lng": 139.7659927
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7783f1d-0df6-4814-8298-a4119d0505f4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7783f1d-0df6-4814-8298-a4119d0505f4.webp"
+        },
+        {
+          "url": "media/cached-image_71a84534c981c830fc41ab6eb0fd216a8d5a0ef163e22eac2f18df53e9ee7fd3.jpg"
+        },
+        {
+          "url": "media/cached-image_b46809179638d0e47a11cdb11fde7d23ff24dbd8903bb63932acc2c3f339891b.jpg"
+        },
+        {
+          "url": "media/cached-image_5a4e029423bc96a37b4882374d21a6c947267d9e8858b7cb8edaf6ac0c23ea11.jpg"
+        },
+        {
+          "url": "media/cached-image_4c72152384584fc73632869bf70285a25697626ef678118d097121e9a2260707.jpg"
+        },
+        {
+          "url": "media/cached-image_364b1fc8d6d58ea5f65a705e83d740b788fdfc13c7f28be8f48516295185a23e.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 86,
+      "priceLevel": null,
+      "address": "Ginza Shusse Jizōson, 銀座三越9F Terrace Garden, 4 Chome-6-16 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Mitsukoshi+Ginza/@35.6713867,139.7655487,3a,90y,142.93h,100.16t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4g5OfxQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbeoTZq90uGc6j_sw_5A8N8n19jrg5CnmYQqKjtf3i4-jU6hgLjoaQmkRcVbGk5fN-31srzgzWfv1kqT6vol3DnDfhbIaviSOAZU1mdbx04YLOswxjBtwOnrKsqGh6bxN523_pXcg%3Dw900-h600-k-no-pi-10.162199563854145-ya1.2315752290989508-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188be68e21d35f:0x91fb4ae4762f83be!8m2!3d35.6712864!4d139.7657382!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11byp6q2nj?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small Buddhist shrine inside Ginza Mitsukoshi appears in Episode 5, part of the same Mitsukoshi building that the anime repurposes into the Gingarou's distillery, adding a layer of spiritual contrast to the scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwabWDHiJGGARL4RE9TI-MIo",
+      "name": "Harumi No. 3 Park",
+      "localName": "中央区立晴海第三公園(サウストリトンパーク)",
+      "coordinates": {
+        "lat": 35.6560363,
+        "lng": 139.7818654
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3af551cf-06aa-43f7-9ab8-522f8bf83ae2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3af551cf-06aa-43f7-9ab8-522f8bf83ae2.webp"
+        },
+        {
+          "url": "media/cached-image_e813dd833effbd56b9e51285fd7659caea0f1f4c4743af4dc21c75d1339a9eb3.jpg"
+        },
+        {
+          "url": "media/cached-image_b8bf8d1b0688bdd77034d257201f3988932254212c11f5bba2d69164b827953b.jpg"
+        },
+        {
+          "url": "media/cached-image_debcae70b054daf752cd38fea796398876904d4afb0b0804a9acaa9a9b225982.jpg"
+        },
+        {
+          "url": "media/cached-image_3c0a465fe6bd0d3651240fb57fbb7bdf3e77bd29ae7d272d8af53785e2945b21.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.2,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Harumi No. 3 Park, 1 Chome-8-14 Harumi, Chuo City, Tokyo 104-0053, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6559095,139.7813457,3a,90y,339.44h,123.18t/data=!3m7!1e1!3m5!1sGLMbpLVluZk2WqiAgXB_QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-33.17721858638585%26panoid%3DGLMbpLVluZk2WqiAgXB_QA%26yaw%3D339.4362702049929!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Harumi waterfront park appears in Episode 4 as a location where the coastal scenery of Tokyo Bay is rendered in lush post-human overgrowth, one of the quieter pilgrimage spots tied to the episode's bayside wandering."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt01LPniJGGARKqK6OjrqKn8",
+      "name": "Daiichi Seimei Hall",
+      "localName": "第一生命ホール",
+      "coordinates": {
+        "lat": 35.656833,
+        "lng": 139.781961
+      },
+      "image": "https://cdn.animepilgrimage.com/places/36493a52-e09a-4a70-a985-7d71a4790a48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/36493a52-e09a-4a70-a985-7d71a4790a48.webp"
+        },
+        {
+          "url": "media/cached-image_9c7ff66459c2dbbc952d6a012cc7cdd9d2a50760e7e4efd4a3ca1ba50f5eadd6.jpg"
+        }
+      ],
+      "type": "Concert hall",
+      "categories": [
+        "Concert hall"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Daiichi Seimei Hall, 1 Chome-8-9 Harumi, Chuo City, Tokyo 104-0053, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6570969,139.7818051,2a,90y,177.29h,104.31t/data=!3m7!1e1!3m5!1s_hJEVIAaHccyUbcc8r1Ehw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.31313862632281%26panoid%3D_hJEVIAaHccyUbcc8r1Ehw%26yaw%3D177.29322011592706!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This concert hall in Harumi appears in Episode 4 as part of the waterfront district Yachiyo visits, its performance space silent and moss-covered in the anime's vision of a century of abandonment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwfegutyLGGARGjiY-L2eSps",
+      "name": "Hamarikyu Gardens",
+      "localName": "浜離宮恩賜庭園",
+      "coordinates": {
+        "lat": 35.6596559,
+        "lng": 139.7634091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b03c84d9-457b-4d84-ae18-25919cec2555.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b03c84d9-457b-4d84-ae18-25919cec2555.webp"
+        },
+        {
+          "url": "media/cached-image_b77f08c313ad384b461cd2f79f1d925f2cea92dbcd339b582d2e1a0bff466316.jpg"
+        },
+        {
+          "url": "media/cached-image_61037f1ddccb728d377f89a814b47efa963349e695ace52dbf9c03be6a8eef36.jpg"
+        },
+        {
+          "url": "media/cached-image_7f0b6b49c4ebaf20138b893fe4688ea079c471ae3d671e46af6cfe125af189c3.jpg"
+        },
+        {
+          "url": "media/cached-image_6ea13203ef1716fa0d955bd040c8f42c6dd9a06e8ff5227905f330f2f11191a5.jpg"
+        },
+        {
+          "url": "media/cached-image_097e65012824f35061e4a1f0b5ea5429258411870605ca6c9891fb32abb9e392.jpg"
+        }
+      ],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": 918,
+      "priceLevel": null,
+      "address": "Hamarikyu Gardens, 1-1 Hamarikyuteien, Chuo City, Tokyo 104-0046, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6588337,139.7617656,2a,90y,19.74h,99.41t/data=!3m7!1e1!3m5!1sDZGYSFQ84Ol6K5nXfogjSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.412333150334533%26panoid%3DDZGYSFQ84Ol6K5nXfogjSQ%26yaw%3D19.742632046162512!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The historic tidal garden appears in Episode 4 as one of the natural spaces that has reclaimed itself spectacularly after a century without human maintenance, showing nature quietly winning back Tokyo's shoreline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ78uW5eCLGGARKshy8YOhMhI",
+      "name": "Hidakaya Higashi-Ginza shop",
+      "localName": "日高屋 東銀座店",
+      "coordinates": {
+        "lat": 35.6691004,
+        "lng": 139.7669441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb8ba923-dac2-4e36-a10f-4d439cea4385.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb8ba923-dac2-4e36-a10f-4d439cea4385.webp"
+        },
+        {
+          "url": "media/cached-image_a103050150c340e4d704fe0a21c8175383d88e520c11646fe0f821af0148ff1b.jpg"
+        }
+      ],
+      "type": "Chinese restaurant",
+      "categories": [
+        "Chinese restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hidakaya Higashi-Ginza shop, 5 Chome-13-18 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6695325,139.7669954,3a,70.2y,43.73h,104.43t/data=!3m7!1e1!3m5!1s3VJxVmZQf20UdZrLw5gH5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.42505805749174%26panoid%3D3VJxVmZQf20UdZrLw5gH5w%26yaw%3D43.73120696838218!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This inexpensive Chinese-food chain restaurant in Higashi-Ginza appears in Episode 4 as a background location illustrating the mundane everyday fabric of Ginza that Yachiyo preserves in memory alongside the grand landmarks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8S5SheWLGGAR96spDz2FzQM",
+      "name": "Tsukiji Police Station Sukiyabashi Police Box",
+      "localName": "築地警察署 数寄屋橋交番",
+      "coordinates": {
+        "lat": 35.6728446,
+        "lng": 139.76329819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/723ebcbb-b25f-423a-8e47-9a76067d383e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/723ebcbb-b25f-423a-8e47-9a76067d383e.webp"
+        },
+        {
+          "url": "media/cached-image_29a84a1753e51de4fd7db4e1823b479ca788a44bdfce4c28ff074dbe6642b1c5.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sukiyabashi Police Box, 4 Chome-1-2 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.672676,139.7631826,3a,48.8y,109.74h,96.81t/data=!3m7!1e1!3m5!1s8OYf_HIjno_YELCxmMfIbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.809679288745272%26panoid%3D8OYf_HIjno_YELCxmMfIbA%26yaw%3D109.74480938262691!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This distinctive curved police box at Sukiyabashi intersection appears in Episode 3 as a neighborhood landmark that marks familiar Ginza geography in the anime's depiction of an overgrown 4-chome area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd9eDLt6LGGARquDVGn6Wnkk",
+      "name": "77 Bank Tokyo Branch",
+      "localName": "七十七銀行 東京支店",
+      "coordinates": {
+        "lat": 35.6688203,
+        "lng": 139.7683722
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1eecfafe-d267-459f-bf65-9109b8b62ddf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1eecfafe-d267-459f-bf65-9109b8b62ddf.webp"
+        },
+        {
+          "url": "media/cached-image_bf763f1aa495fb09da9315410c054cb955799f5b2d3905a5425a91165222d8c2.jpg"
+        },
+        {
+          "url": "media/cached-image_0787393155d6bc7e90d4aa6422fc2bef69317f734101e9c23f1d281823c0a769.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.8,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "77 Bank Tokyo Branch, 七十七銀座ビル 4 Chome-14-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6687628,139.7681489,3a,90y,85.33h,97.52t/data=!3m7!1e1!3m5!1sa9qT9PiW5OM77XNkK0T2Rg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.519334801733933%26panoid%3Da9qT9PiW5OM77XNkK0T2Rg%26yaw%3D85.3267718499143!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In Episode 2, Yachiyo leads a penniless alien visitor to this ruined bank building in the deserted Ginza district, attempting to access funds for a guest who has no currency, a gag that crystallizes the comedy of applying hotel etiquette to a world without money."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_wF1LzRnGWARQ08UNYDmjx4",
+      "name": "Hikawa Clock Shop",
+      "localName": "日川時計店",
+      "coordinates": {
+        "lat": 35.492681999999995,
+        "lng": 138.804085
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1bc1cc4-f224-4f47-a63b-c55da43d3ec5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1bc1cc4-f224-4f47-a63b-c55da43d3ec5.webp"
+        },
+        {
+          "url": "media/cached-image_1abffec93c6d44e3a72363a2824f69a46e55011612ca08f047d9b3b422c715a8.jpg"
+        }
+      ],
+      "type": "Watch store",
+      "categories": [
+        "Watch store"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hikawa Clock Shop, 2 Chome-1-31 Shimoyoshida, Fujiyoshida, Yamanashi 403-0004, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4929068,138.8040807,3a,47.9y,207.63h,98.71t/data=!3m7!1e1!3m5!1sGz-5_jKRVPCQOZ_5rgF5nw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.706081350801313%26panoid%3DGz-5_jKRVPCQOZ_5rgF5nw%26yaw%3D207.62589323212617!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small watch shop in Fujiyoshida near Mt. Fuji appears in Episode 2, providing a regional reference point outside central Tokyo in the show's broader depiction of a Japan that has been silently emptied of its people."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3Wg46QjnAGARToVVxwBUimY",
+      "name": "Dotonbori Bridge",
+      "localName": "道頓堀橋",
+      "coordinates": {
+        "lat": 34.669039,
+        "lng": 135.5003487
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0c7b3335-8333-4608-8f8a-ca9d14ef370f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0c7b3335-8333-4608-8f8a-ca9d14ef370f.webp"
+        },
+        {
+          "url": "media/cached-image_6edf9256d4a7b3a04bc0f1fca1144b1a15237ecadee201440a3511d02c1534b1.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dotonbori Bridge, 10 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.6691215,135.5005328,3a,75y,102.47h,97.79t/data=!3m7!1e1!3m5!1sZqcWDQWqmgihNGs3-k_efg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.786100209851384%26panoid%3DZqcWDQWqmgihNGs3-k_efg%26yaw%3D102.46621610856664!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The bridge over Dotonbori canal in Osaka appears in Episode 2 as one of the non-Tokyo landmarks shown in ruins, extending the anime's apocalyptic canvas beyond the capital to illustrate that all of Japan shares the same abandoned fate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiwLrJeeLGGARqaPzDBJYQmg",
+      "name": "Cocokara Fine Ginza 4-chome",
+      "localName": "ココカラファイン 銀座４丁目店",
+      "coordinates": {
+        "lat": 35.6700211,
+        "lng": 139.767024
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c5c6098b-44f0-46bf-a730-866237c0a552.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c5c6098b-44f0-46bf-a730-866237c0a552.webp"
+        },
+        {
+          "url": "media/cached-image_dfc1d8606cdbd4d4aa9e99c36301ac21b2275bd72d11341d754a18ade7e2c7fc.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ココカラファイン 銀座4丁目店, 4 Chome-10-10 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6699639,139.7672448,3a,75y,178.86h,98.33t/data=!3m7!1e1!3m5!1sWpfxLl_cJkHbHb-R7Pj2Qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.332190455638994%26panoid%3DWpfxLl_cJkHbHb-R7Pj2Qg%26yaw%3D178.86371016899542!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Ginza drugstore corner appears in Episode 1 as a background location that helps establish the familiar street-level geography of the 4-chome district before the anime's overgrown ruins take over."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWy_n_qqLGGARRC1D0mQS2Zo",
+      "name": "Miharabashi Machikado Plaza",
+      "localName": "三原橋街角広場",
+      "coordinates": {
+        "lat": 35.670074899999996,
+        "lng": 139.7661111
+      },
+      "image": "https://cdn.animepilgrimage.com/places/42ce1a57-622e-4ca2-92f9-d09342426e19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/42ce1a57-622e-4ca2-92f9-d09342426e19.webp"
+        },
+        {
+          "url": "media/cached-image_441dc550dd333c6f2ce35a8f61a22dbb13324922aa2715e6d92f10f70076a050.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Miharabashi Machikado Plaza, 5 Chome-10-2 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6703844,139.7660599,3a,75y,132.8h,107.68t/data=!3m7!1e1!3m5!1sSRlix-Wu4tgAEHT0MTdp5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.682210269830264%26panoid%3DSRlix-Wu4tgAEHT0MTdp5Q%26yaw%3D132.80456609659632!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Ginza streetside plaza near Mihara Bridge appears in Episode 1 as background scenery that roots the story firmly in the real Chuo-dori streetscape Yachiyo walks through on her rounds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDcZ1YZiLGGAR8j1tcFitQ8k",
+      "name": "Seiko House Ginza Clock Tower",
+      "localName": "セイコーハウス 時計塔",
+      "coordinates": {
+        "lat": 35.6715697,
+        "lng": 139.7650504
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5281a372-02c0-4250-bb25-82db48dbea45.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5281a372-02c0-4250-bb25-82db48dbea45.webp"
+        },
+        {
+          "url": "media/cached-image_8a88242659b1886e0a6c4743a0f83aa0bcddb06f58b2404eac9538f9ad8cb910.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seiko House Ginza Clock Tower, 4 Chome-5-11 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6712759,139.7650773,3a,90y,355.97h,116.65t/data=!3m7!1e1!3m5!1sS7ybAvIoTN0jWJ4R5Zgv5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-26.651487790801312%26panoid%3DS7ybAvIoTN0jWJ4R5Zgv5A%26yaw%3D355.9674039206958!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The iconic Ginza Wako clock tower is the direct model for the Gingarou Hotel's exterior, and it appears as the overgrown, vine-draped centerpiece of every establishing shot of the abandoned hotel. Seeing this real clock face anchors the entire fantasy of a world where only robots remain.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB1H6YOaLGGARN1-rG3A6eh8",
+      "name": "Nissan Crossing",
+      "localName": "NISSAN CROSSING",
+      "coordinates": {
+        "lat": 35.6708898,
+        "lng": 139.7650308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/945f18d7-e1eb-42c0-979f-56b9f01add0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/945f18d7-e1eb-42c0-979f-56b9f01add0c.webp"
+        },
+        {
+          "url": "media/cached-image_d5a03b134df04999a5b884268cdf7a8d8327fa05ddca1c4f6419bab9eb7a15c9.jpg"
+        },
+        {
+          "url": "media/cached-image_0fb6a599ce0b53dbb5ac5fe4813aa4c658ce0da83980e47410f5931cd2539c5a.jpg"
+        }
+      ],
+      "type": "Showroom",
+      "categories": [
+        "Showroom"
+      ],
+      "rating": 4.4,
+      "reviewCount": 353,
+      "priceLevel": null,
+      "address": "Nissan Crossing, Ginza Place, 2F 5 Chome-8-1 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6711507,139.7650258,3a,90y,173.35h,112.24t/data=!3m7!1e1!3m5!1sH56CG9vCixWestLckz68eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.2425692085351%26panoid%3DH56CG9vCixWestLckz68eg%26yaw%3D173.3474546950553!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This glass-and-steel showroom on Ginza's 4-chome intersection appears in Episode 1 as part of the panoramic view of a ruined Ginza, establishing the scale of the post-apocalyptic cityscape that frames the Gingarou Hotel."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz0U-RQGLGGARMmz2NOaqNxQ",
+      "name": "Nijubashi Bridge",
+      "localName": "二重橋",
+      "coordinates": {
+        "lat": 35.6802297,
+        "lng": 139.7535852
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b971dc10-8047-4a84-82d4-48119247cc90.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b971dc10-8047-4a84-82d4-48119247cc90.webp"
+        },
+        {
+          "url": "media/cached-image_85b6f10b70964425a25e508f0544fd33499bbbb4c1b42cf522154d30fff23934.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nijubashi Bridge, 1-1 Chiyoda, Chiyoda City, Tokyo 100-0001, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6802581,139.7536033,3a,90y,96.53h,94.95t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID6w-zJNg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu3F_cDwQGFP4M8HLXY7Dn3bH-WYOFj0RAQG_OsyPQ1vU8EMSnMCWNws2KsosncKD6YzyObEZ4EonDIhA46tKMS5z6hsB9YvvNV5I9yoG4wsCYFOXIQLXoYOtqdkRK7iOsCzzlI%3Dw900-h600-k-no-pi-4.95112946050412-ya96.52522430937766-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The historic stone bridge near the Imperial Palace appears in Episode 1 as one of the landmark monuments of an emptied Tokyo, reinforcing the sense that all of Japan's great institutions have been left behind."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJURWUIuaNGGARvtlnJNz-AFQ",
+      "name": "Miyashita Park",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.6617783,
+        "lng": 139.7017902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f82ffddb-de43-47ce-9ada-e0a2bb6e3e4f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f82ffddb-de43-47ce-9ada-e0a2bb6e3e4f.webp"
+        },
+        {
+          "url": "media/cached-image_02aee0a3ecf7f8d4f360a2b3a922d633c4d02e21eec3bd466717d5d8ec899766.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6617783,139.7017902,2a,75y,274.66h,90.78t/data=!3m6!1e1!3m4!1s_qZS3qaOjQvjiL6afIx2Wg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This elevated Shibuya park and shopping complex appears in Episode 6, its rooftop greenway shown as another urban space that has gone entirely wild after humanity's departure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5zOC7K2JGGARr0GGHO4bZHE",
+      "name": "Kachidoki Bridge",
+      "localName": "勝鬨橋",
+      "coordinates": {
+        "lat": 35.66351,
+        "lng": 139.7749
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1e84203c-dfe7-4a01-b530-ef48e5fb36a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1e84203c-dfe7-4a01-b530-ef48e5fb36a8.webp"
+        },
+        {
+          "url": "media/cached-image_799ac951c8f5fcaa63febc1fcaf088b0482c3c31139f9897b4d8330fa1040a78.jpg"
+        },
+        {
+          "url": "media/cached-image_a46e97622c64cf18b84190262e87b2130afc5d72ab84529d7a1a34def54cabdc.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "19, Chuo City, Tokyo 104-0045, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6638096,139.7751716,3a,65.8y,150.17h,90.79t/data=!3m7!1e1!3m5!1sAF1QipMYHY42ABFM3G70kuRLl0-m_OQ5SIJGrBhHKQ3P!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMYHY42ABFM3G70kuRLl0-m_OQ5SIJGrBhHKQ3P%3Dw900-h600-k-no-pi-0.7912756422272906-ya192.9139967879687-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The old bascule bridge over the Sumida River appears in Episode 4 as a striking engineering landmark frozen in time, its opening mechanism long stilled in the anime's century-long gap since the last human crossed it."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0YwG28aOGGARvRKAXIBWqNk",
+      "name": "Kaminarimon",
+      "localName": "雷門",
+      "coordinates": {
+        "lat": 35.7110262,
+        "lng": 139.7962413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c825faea-4a50-426e-aaed-c64eed22dcd6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c825faea-4a50-426e-aaed-c64eed22dcd6.webp"
+        },
+        {
+          "url": "media/cached-image_e8e802bb3859295b3496d28d331d24c32177e6fa3d39ab1e77ba1602f09d52ee.jpg"
+        },
+        {
+          "url": "media/cached-image_60ae4ca225e3429af5502eb5c41432e40845bc46c07a0c06d87f48e9c7473cdf.jpg"
+        },
+        {
+          "url": "media/cached-image_d1c670fcae51fa0fb427e1cb229710622b48126ea4c530ff9e0c8636b6fb0247.jpg"
+        },
+        {
+          "url": "media/cached-image_783af5ea403a38ecf422c7dc2c1df96f9f9da0ee7d9c30d69232cf69458ae23a.jpg"
+        },
+        {
+          "url": "media/cached-image_47be5716cf0539288e783b8bfc8b77eec69dfd551c91ce261c20e71d79d6d21b.jpg"
+        },
+        {
+          "url": "media/cached-image_c93b62bb2d7a70bd25dfaaa8263f95ce1f547cf1279a73312d62e880ba1b5768.jpg"
+        },
+        {
+          "url": "media/cached-image_49c66ff8de72ec91f6711285ab0e3dfcff65d6a42490906092e84704663bbd93.jpg"
+        },
+        {
+          "url": "media/cached-image_657c421be9963a9d3504b82a815da2e5b6ef851b9bde0561aaf42842ad4732e4.jpg"
+        },
+        {
+          "url": "media/cached-image_8d2d8f542782a20c9430b47304fb0d6bdf415db757a160323196a679f983826c.jpg"
+        },
+        {
+          "url": "media/cached-image_0191222ef0c59897e686a742adf585c67f8a9767dcca3bff0686b2408391fbde.jpg"
+        },
+        {
+          "url": "media/cached-image_04b319e1657266ccc0e7f19186c2c691b26101be41b9ca253399667cf0522b16.jpg"
+        },
+        {
+          "url": "media/cached-image_8fc98828a6d8c801b62338c48c4b4335b10fa5966e6cc26952610b79fafa3c20.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 37019,
+      "priceLevel": null,
+      "address": "2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7110262,139.7962413,3a,90y,5.94h,93.79t/data=!3m6!1e1!3m4!1s15QA6e0u2NEO_WLYiNNFbg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The famous Thunder Gate of Senso-ji appears in Episode 2 as one of the recognizable Tokyo landmarks shown overgrown and abandoned, conveying just how completely humanity has vacated even the most visited spots on Earth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP-vO9nuLGGARGJ2q8uryJUA",
+      "name": "The National Art Center Tokyo",
+      "localName": "国立新美術館",
+      "coordinates": {
+        "lat": 35.66487,
+        "lng": 139.72602
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8f080ce9-82a7-4205-a764-5c2b8f2357ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8f080ce9-82a7-4205-a764-5c2b8f2357ef.webp"
+        },
+        {
+          "url": "media/cached-image_b2ccd229657926997abd27d0c963ec7ddbbdc21eb84ffcd56a8332ee2d9b9e79.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.4,
+      "reviewCount": 621,
+      "priceLevel": null,
+      "address": "7 Chome-22-2 Roppongi, Minato City, Tokyo 106-8558, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.664923,139.7263534,2a,75y,247.97h,86.13t/data=!3m6!1e1!3m4!1sVPLKKXc7eKbJBvaKmwSYjQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The undulating glass facade of the National Art Center in Roppongi appears in Episode 11 with the right side of the building visibly collapsed, one of the more dramatic ruined landmark shots in the finale episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM9xJEHeLGGARAshMWUgC_ls",
+      "name": "Roppongi Hills",
+      "localName": "六本木ヒルズ",
+      "coordinates": {
+        "lat": 35.66074,
+        "lng": 139.73014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd61d3d5-8685-4436-823a-31bf391902ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd61d3d5-8685-4436-823a-31bf391902ba.webp"
+        },
+        {
+          "url": "media/cached-image_29fa16b40374f0673d14ee97d4b87122a63239baa9485631c8f7aac8ef137dbf.jpg"
+        }
+      ],
+      "type": "商業地",
+      "categories": [
+        "商業地"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-10-1 Roppongi, Minato City, Tokyo 106-6108, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2JhaiDr6pghMz86x7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Roppongi Hills complex appears in Episode 11 as part of Yachiyo's extended journey through Tokyo's upscale neighborhoods, the complex's towers standing intact but utterly silent above the empty city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX9MhjuaLGGARvoMvduRK-5E",
+      "name": "Mitsukoshi Ginza",
+      "localName": "銀座三越",
+      "coordinates": {
+        "lat": 35.67136,
+        "lng": 139.76546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e359d25-4427-4e7a-8f8c-403f3c326393.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e359d25-4427-4e7a-8f8c-403f3c326393.webp"
+        },
+        {
+          "url": "media/cached-image_761def5a8ae7bd9969dc26980a130ff016f1ba0e96b75d2fc5109941b5edede0.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-6-16 Ginza, Chuo City, Tokyo 104-8212, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6713047,139.7652062,3a,90y,282.44h,132.16t/data=!3m7!1e1!3m5!1sw_q9_MeqciqYrZNxS817-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-42.16299200152204%26panoid%3Dw_q9_MeqciqYrZNxS817-g%26yaw%3D282.4421036748827!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "In Episode 2, Yachiyo escorts the first alien visitor through a deserted Ginza and pauses in front of this department store, a scene that captures the surreal hospitality the robot concierge extends to non-human guests. By Episode 5 the building is reimagined as the Gingarou's in-house distillery.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs8x7KbmLGGARa5QzTOovN48",
+      "name": "Former Daitokuin Reibyo Somon Gate",
+      "localName": "旧台徳院霊廟惣門",
+      "coordinates": {
+        "lat": 35.6561534,
+        "lng": 139.7496701
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f46664d5-820a-47d8-aa26-a06f8bd96052.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f46664d5-820a-47d8-aa26-a06f8bd96052.webp"
+        },
+        {
+          "url": "media/cached-image_2c98e4edf7aa8d6765cf52adb3b7f4fbd4d62379f9861d34c793c25503bd38fb.jpg"
+        },
+        {
+          "url": "media/cached-image_5f5ca806d62fceea10561d5efded20873cbcc935d88e6049bf15cdfbf3cc69d3.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 4.2,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "4 Chome-8 Shibakoen, 港区 Minato City, Tokyo 105-0011, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Former+Daitokuin+Reibyo+Somon+Gate/@35.6561534,139.7496701,3a,75y,12.99h,98.39t/data=!3m8!1e1!3m6!1sAF1QipNc6HJcXOUcvioPgTLLu-FZpTlH3zpZ3HakY1BB!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNc6HJcXOUcvioPgTLLu-FZpTlH3zpZ3HakY1BB%3Dw203-h100-k-no-pi-6.084655-ya199.34468-ro-6.340489-fo100!7i5376!8i2688!4m9!3m8!1s0x60188bb9297bccb3:0x8f372fea4c33946b!8m2!3d35.6561733!4d139.7496976!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn5nl979?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This Edo-period gate at Shiba Park appears in Episode 6 as a historical structure shown with centuries of additional decay layered on in the post-apocalyptic timeline, deepening the atmosphere of lost civilization."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG9hLnTSLGGAR1DShReC9bac",
+      "name": "Motonoki Family Garden",
+      "localName": "元乃木家菜園",
+      "coordinates": {
+        "lat": 35.6682663,
+        "lng": 139.72768
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc886858-93e7-4f3b-a440-d9bcb436eb06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc886858-93e7-4f3b-a440-d9bcb436eb06.webp"
+        },
+        {
+          "url": "media/cached-image_6a593febbb0b30bd8a95dee5b53c1c33584d2440c06cce8f095d8c84c0d4d54f.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Motonoki Family Garden, 8 Chome-11-32 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6680501,139.7274155,3a,90y,13.84h,95.48t/data=!3m7!1e1!3m5!1sDhgaqXaPTUfYeryZRNHBkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.477910081728012%26panoid%3DDhgaqXaPTUfYeryZRNHBkQ%26yaw%3D13.836518918657262!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This historical garden site near Akasaka appears in Episode 11 as part of the Nogi-area cluster of locations Yachiyo passes on her final journey, a small green remnant of the old Nogi family estate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk1Vhhn6LGGARl0MVL-KexZQ",
+      "name": "Nogi Park",
+      "localName": "乃木公園",
+      "coordinates": {
+        "lat": 35.667967399999995,
+        "lng": 139.72747859999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21f6dce7-c732-4307-bd55-471d48de4b3e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21f6dce7-c732-4307-bd55-471d48de4b3e.webp"
+        },
+        {
+          "url": "media/cached-image_c288db317c1eeadaf8e310dcaa35a9c0099fbb73c7ca9ba7a0a0ec57d44288c4.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nogi Park, 8 Chome-11-32 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6680681,139.727513,3a,90y,73.17h,83.54t/data=!3m7!1e1!3m5!1ssuflAGhueDbywhcxiI6sgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.464158138220256%26panoid%3DsuflAGhueDbywhcxiI6sgQ%26yaw%3D73.16985943879689!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This park adjacent to the former Nogi residence appears in Episode 11 during Yachiyo's extended walk through the Akasaka district, the park's quiet atmosphere amplifying the melancholy of a Tokyo returned to nature."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdaWVnbyLGGAR6jSi2z0yTZ4",
+      "name": "\"Twist, Change, Flow\" by Toshiaki Tsukui",
+      "localName": "「ひねり うつり ながれ」津久井利彰",
+      "coordinates": {
+        "lat": 35.6680126,
+        "lng": 139.7274371
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf9115a4-5a86-4d05-bbd3-36287a75a08e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf9115a4-5a86-4d05-bbd3-36287a75a08e.webp"
+        },
+        {
+          "url": "media/cached-image_5d994f3a2a1f0e078381b84b2bbec2b53f7ad79af44791be7ed5e9d3427a9853.jpg"
+        }
+      ],
+      "type": "Sculpture",
+      "categories": [
+        "Sculpture"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "\"Twist, Change, Flow\" by Toshiaki Tsukui, 8 Chome-11 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6680919,139.727479,3a,90y,222.74h,105.34t/data=!3m7!1e1!3m5!1stZ-NziSMa6LSsPEvBSYsRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.342785483247127%26panoid%3DtZ-NziSMa6LSsPEvBSYsRw%26yaw%3D222.74171992140643!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This abstract bronze sculpture in the Nogi area appears in Episode 11 as a small but specific waypoint on Yachiyo's finale-episode route, the production team's location scouting evident in this level of neighborhood detail."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-VRm_52LGGARQQy2OZs3mpk",
+      "name": "Roppongi Tsutaya Books",
+      "localName": "六本木 蔦屋書店",
+      "coordinates": {
+        "lat": 35.6586837,
+        "lng": 139.7319453
+      },
+      "image": "https://cdn.animepilgrimage.com/places/25d97ceb-fde1-414a-b4f3-170f18fa9f9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/25d97ceb-fde1-414a-b4f3-170f18fa9f9f.webp"
+        },
+        {
+          "url": "media/cached-image_be2cd5afe190ac8a709cf983cade1ec097154682764a514ef95892973f22fa99.jpg"
+        },
+        {
+          "url": "media/cached-image_58fba07f8f8bfe257e9cca09a9df0d9ad86bc0c9e8d93d0689d26a1108bd0788.jpg"
+        }
+      ],
+      "type": "Magazine store",
+      "categories": [
+        "Magazine store"
+      ],
+      "rating": 4.2,
+      "reviewCount": 698,
+      "priceLevel": null,
+      "address": "Roppongi Tsutaya Books, 六本木ヒルズ 六本木 けやき坂通り 6 Chome-11-1 Roppongi, Minato City, Tokyo 106-0032, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6590267,139.7322138,3a,90y,247.35h,95.66t/data=!3m7!1e1!3m5!1sT0NqNT8EJOGawAeCgye3Qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.663248070359629%26panoid%3DT0NqNT8EJOGawAeCgye3Qg%26yaw%3D247.35484033146696!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The design-focused bookstore in Roppongi Hills appears in Episode 11 along Yachiyo's walk through the Roppongi-Akasaka corridor, its shelves of books and art objects undisturbed in the post-human quiet."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn1hsWm2LGGAR-LiQwclQWBo",
+      "name": "Hinomaru Hiroo Pachinko Store",
+      "localName": "ヒノマル 広尾店",
+      "coordinates": {
+        "lat": 35.650304999999996,
+        "lng": 139.721367
+      },
+      "image": "https://cdn.animepilgrimage.com/places/290fc995-cc49-4617-a8c3-e39b1d326197.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/290fc995-cc49-4617-a8c3-e39b1d326197.webp"
+        },
+        {
+          "url": "media/cached-image_8e27b321bf35a0aa7d764173ea105911df35ea8d25489929bdb6f486774ad876.jpg"
+        }
+      ],
+      "type": "Pachinko parlor",
+      "categories": [
+        "Pachinko parlor"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hinomaru Hiroo Pachinko Store, 5 Chome-14-28 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6504076,139.7212474,3a,90y,133.76h,94.9t/data=!3m7!1e1!3m5!1sybVzKdE0Xg6NpIhN95LVrw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.897171644359503%26panoid%3DybVzKdE0Xg6NpIhN95LVrw%26yaw%3D133.75770987046695!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This Hiroo pachinko parlor appears in Episode 11 as a background location on Yachiyo's route south from Roppongi, a deliberately ordinary commercial presence set against the grandeur of the luxury landmarks she passes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC0f57J-MGGAR40M6isXxmA8",
+      "name": "Omotesando Police Box",
+      "localName": "赤坂警察署 表参道交番",
+      "coordinates": {
+        "lat": 35.665461,
+        "lng": 139.7123915
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a428e79-e42e-48b4-836b-fce5cdda26c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a428e79-e42e-48b4-836b-fce5cdda26c6.webp"
+        },
+        {
+          "url": "media/cached-image_565ee0344d14346aa4600573e8387913d1195993a9f66f7f0b24d110cff7b4c1.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Omotesando Police Box, 3 Chome-5-23 Kita-Aoyama, Minato City, Tokyo 107-0061, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6653985,139.7128732,3a,90y,219.83h,110.03t/data=!3m7!1e1!3m5!1sRJCHBnQ79utuhEb5O5w5pA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.02628732605966%26panoid%3DRJCHBnQ79utuhEb5O5w5pA%26yaw%3D219.8266476103222!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Omotesando intersection police box appears in Episode 11 as a navigational landmark on Yachiyo's journey through the Aoyama area, an everyday civic fixture now standing unmanned in the deserted city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_8MpkL6LGGARP200oln5XGs",
+      "name": "Shiba Park 4th Block",
+      "localName": "芝公園",
+      "coordinates": {
+        "lat": 35.6571637,
+        "lng": 139.7485979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23f8326b-efdd-4ee6-ab8a-68c73410afbf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23f8326b-efdd-4ee6-ab8a-68c73410afbf.webp"
+        },
+        {
+          "url": "media/cached-image_7fefe219054cb94597e10aef6957cc72e30a98b36c1a2d39840fa41bef4a6236.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shibakoen, Minato City, Tokyo 105-0011, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6607204,139.7507842,2a,90y,244.18h,107.08t/data=!3m7!1e1!3m5!1s16vUckFZmFWjll5Y-PCsBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.07779092330989%26panoid%3D16vUckFZmFWjll5Y-PCsBQ%26yaw%3D244.18479796590518!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This section of Shiba Park near the Tokyo Tower appears in Episode 11 as part of Yachiyo's wide arc through Minato's green spaces, the park's trees grown enormous over a century without pruning."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ76bH6r-LGGARAUk_R9eHoI0",
+      "name": "Onarimon Sta.(Bus)",
+      "localName": "御成門駅",
+      "coordinates": {
+        "lat": 35.6605129,
+        "lng": 139.7512247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5cbaec5a-d4fb-4dea-9cec-1bff87e6bb29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5cbaec5a-d4fb-4dea-9cec-1bff87e6bb29.webp"
+        },
+        {
+          "url": "media/cached-image_92cbf4228d5372b00446c0f261eb77d4a88ad0b8b6d455ab46159bec3faf226a.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Onarimon Station, 3 Chome-24-6 Nishishinbashi, Minato City, Tokyo 105-0003, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6603397,139.7510709,3a,90y,252.27h,95.3t/data=!3m7!1e1!3m5!1sJAIVYnK5VU0lXyxKYr2J5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.303674298211533%26panoid%3DJAIVYnK5VU0lXyxKYr2J5Q%26yaw%3D252.26529967561024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Onarimon Station near Shiba Park appears in Episode 11 as a transit landmark on Yachiyo's route, its platform and signage shown intact but silent, the last train long since departed."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_apocalypse-hotel_44",
+      "name": "National Diet Building",
+      "localName": "国会議事堂",
+      "coordinates": {
+        "lat": 35.67621,
+        "lng": 139.7469
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76a06d86-beb4-4b06-bb14-388497cd5b8e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76a06d86-beb4-4b06-bb14-388497cd5b8e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6763006,139.746856,3a,90y,251.83h,102.39t/data=!3m7!1e1!3m5!1szbuFzuuEUnLQvmTWVJJweQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.394784469890396%26panoid%3DzbuFzuuEUnLQvmTWVJJweQ%26yaw%3D251.82991166532327!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Japan's parliament building appears in Episode 11 as one of the most powerful political symbols shown in ruins, its distinctive pyramid tower still standing but reclaimed by nature as a final statement about the institutions humanity left behind.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcSubJHyMGGARhaX2D18Kltg",
+      "name": "Benkei Moat",
+      "localName": "弁慶濠",
+      "coordinates": {
+        "lat": 35.678765299999995,
+        "lng": 139.73547589999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e1c6985-8040-4ce2-ac62-befe71da25ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e1c6985-8040-4ce2-ac62-befe71da25ee.webp"
+        },
+        {
+          "url": "media/cached-image_aa194070ea006fdf6bcb82b900b7353abb66c108fc6e214cb5e0dcace7b97a22.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Benkei Moat, 1 Chome-1 Motoakasaka, Minato City, Tokyo 107-0051, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6786997,139.7362435,3a,90y,347.32h,114.54t/data=!3m7!1e1!3m5!1sdbymPI7xc_Wa3QJLDNa2ZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-24.544008616463827%26panoid%3DdbymPI7xc_Wa3QJLDNa2ZA%26yaw%3D347.3181161171768!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The cherry-blossom-lined moat near Akasaka Palace appears in Episode 11 as a scenic waterway on Yachiyo's route, its surface still and perfectly reflecting the overgrown trees lining its banks after a century of silence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ89uL5HyMGGAR1dzxjZ5iufQ",
+      "name": "Hotel New Otani Tokyo The Main",
+      "localName": "ザ・メイン ホテルニューオータニ 東京",
+      "coordinates": {
+        "lat": 35.6809158,
+        "lng": 139.7340561
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9cf10bc0-0be5-457c-a55e-e79508513d1d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9cf10bc0-0be5-457c-a55e-e79508513d1d.webp"
+        },
+        {
+          "url": "media/cached-image_0913ce9ea65554440573588a096a22feb28e5a1c58019bdae8a2f7d4fd3bbf32.jpg"
+        },
+        {
+          "url": "media/cached-image_b88054612809d175f0ff135b64a8e07be18e20686e95cddd1cb75bdfc6a8d176.jpg"
+        },
+        {
+          "url": "media/cached-image_00a6e7a922fdc193f96431bcf08b99afa981506228dad52ebd3ded260d19ddf2.jpg"
+        },
+        {
+          "url": "media/cached-image_fc4f7592c04fbed49d2d27f52c88bb8fbaabec07c4e558c1ce30a9e481f9ca67.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2017,
+      "priceLevel": null,
+      "address": "Hotel New Otani Tokyo The Main, 4-1 Kioicho, Chiyoda City, Tokyo 102-8578, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812422,139.7338593,3a,90y,136.28h,99.43t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqy9r-4wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbQwdJOVz_3Z6XWp8XX4u3aH9WsW5uBC2Y1jq-8silzJUJXyFOLwRl90LNa22vmOd4RY_mTWfJFWM_uLE9nj5nVwgBz4Lp2rouF8Bvl9C3OVPaxY19E3kkM2B2Nx1bY3ao66a4zyA%3Dw900-h600-k-no-pi-9.42962471008687-ya183.27708607819133-ro0-fo100!7i9728!8i4056?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Episode 11's climax places Yachiyo at this legendary hotel, a fellow survivor in the city's luxury hospitality landscape, and her arrival here closes her finale-episode journey with a meditation on what it means to be a hotel still waiting for guests who will never return.",
+      "fanTopPick": true
+    }
+  ]
+}

@@ -1,0 +1,1271 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Oshi no Ko Season 3",
+  "slug": "oshi-no-ko-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_56a5523ef2199ee79743b1bbb913c4f5cce676ffa5ea3bea61c78faf8d0ea064.webp",
+  "image": "media/cached-image_56a5523ef2199ee79743b1bbb913c4f5cce676ffa5ea3bea61c78faf8d0ea064.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.66749177812498,
+    "lng": 139.72777855625
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Oshi no Ko Season 3"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJU75bcz-LGGARia4QMeynS_Y",
+      "name": "Ebisuminami-2 Park",
+      "localName": "恵比寿南二公園",
+      "coordinates": {
+        "lat": 35.64364,
+        "lng": 139.70844
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f256574e-bdd8-464e-a827-ed4c906e2821.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f256574e-bdd8-464e-a827-ed4c906e2821.webp"
+        },
+        {
+          "url": "media/cached-image_0959ef845bd8723d8cab6fd611c9420978cdc13bd8c12c4b82f20a8cde946ca1.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-11-1 Ebisuminami, Shibuya, Tokyo 150-0022, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7uk1H5J7aRDDdGVR7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The small Ebisu park appears in episode 4 as an outdoor setting for a personal conversation between characters, a quiet neighborhood moment away from the rehearsal hall tensions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_aefb9eMGGARg2qs6qZXppk",
+      "name": "YUNIKA VISION",
+      "localName": "ユニカビジョン",
+      "coordinates": {
+        "lat": 35.69368,
+        "lng": 139.70055
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f64c35e-888f-4842-b275-bf795b45d174.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f64c35e-888f-4842-b275-bf795b45d174.webp"
+        },
+        {
+          "url": "media/cached-image_a6b781702e81c2c3fef583d3b01349af83cb25917bc58c40aa8ea4655c4bb970.jpg"
+        }
+      ],
+      "type": "Advertising agency",
+      "categories": [
+        "Advertising agency"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-38-23-7 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6938842,139.7005478,3a,90y,166.4h,118.86t/data=!3m7!1e1!3m5!1sjdfstlaLmeVz4EIt7wRGXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-28.858735253466108%26panoid%3DjdfstlaLmeVz4EIt7wRGXQ%26yaw%3D166.3953905592532!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The large outdoor advertising screen in Shinjuku appears in episode 7 displaying a promotional video for the Tokyo Blade stage play, marking a moment when the production's buzz reaches mainstream visibility."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/36446a22-23bc-4843-8f39-0d0fd8b20c55.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/36446a22-23bc-4843-8f39-0d0fd8b20c55.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The iconic crossing appears in episode 1 as Aqua walks through it during a pivotal moment of reflection, the endless crowd contrasting with his isolation as he prepares for his role in the Tokyo Blade stage play.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa4V3gBOMGGARAzW99gm8qoA",
+      "name": "Shueisha",
+      "localName": "㈱集英社 神保町3丁目ビル",
+      "coordinates": {
+        "lat": 35.69535,
+        "lng": 139.75541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e22eae22-a672-4c2f-b3af-b9230669cd47.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e22eae22-a672-4c2f-b3af-b9230669cd47.webp"
+        },
+        {
+          "url": "media/cached-image_c64bdc465b07124ab6df32a37cdac84dfe8f95c6dd2cdc1828190b2731176328.jpg"
+        }
+      ],
+      "type": "出版社",
+      "categories": [
+        "出版社"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-13 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6954537,139.7556544,3a,90y,244.97h,138.82t/data=!3m7!1e1!3m5!1sTd_nVwc6nSDOQRgaDTgLsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-48.81867810888295%26panoid%3DTd_nVwc6nSDOQRgaDTgLsg%26yaw%3D244.9662692498216!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The real publisher of the Tokyo Blade manga appears in episode 3 when the stage play's director meets with the original creator, capturing the tension between adapting a beloved work and the creator's vision.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS5DmbtuMGGARyIuVTDyYxSg",
+      "name": "Cafe Renoir New Shinjuku 3-chome store",
+      "localName": "喫茶室ルノアール ニュー新宿３丁目店",
+      "coordinates": {
+        "lat": 35.6906538,
+        "lng": 139.7053917
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f701d38f-ec42-449c-96cd-d2e37aa19725.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f701d38f-ec42-449c-96cd-d2e37aa19725.webp"
+        },
+        {
+          "url": "media/cached-image_e337ba7003e1d6b5adc1ce9cd31bbeabdf9474b2a66f1fe2a725f8282ebf3519.jpg"
+        }
+      ],
+      "type": "会議場",
+      "categories": [
+        "会議場"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "B2F, 3 Chome-4-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6906538,139.7053917,3a,90y,30.9h,98.97t/data=!3m6!1e1!3m4!1suDo6eVtjyOF2Qd709Pjf7g!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The quiet kissaten appears in episode 3 as a place where two key creative stakeholders hold a private meeting, the low-key atmosphere underscoring the behind-the-scenes deal-making that shapes the stage adaptation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjQXO3TyLGGARwHcgnhRuAU0",
+      "name": "Dendo Square Park",
+      "localName": "田道広場公園",
+      "coordinates": {
+        "lat": 35.63662,
+        "lng": 139.70866
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1e545b9c-a83a-4503-b00a-2ba565d62820.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1e545b9c-a83a-4503-b00a-2ba565d62820.webp"
+        },
+        {
+          "url": "media/cached-image_ef803c3d70263eb7658b9e53c6a34f36aefc683cd847bbaca53db38d426988db.jpg"
+        },
+        {
+          "url": "media/cached-image_a7ca4c9f0609009bd9d9d10e3c966af364e83f37e6edc92d1d2a390172f59ac9.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.9,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "1 Chome-25-8 Meguro, Meguro City, Tokyo 153-0063, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tCfXzH7KSpLLaWr29",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The small Meguro park appears in episode 1 as a quiet outdoor setting where Aqua sits alone processing his conflicted feelings about joining the stage play, establishing the contemplative tone of the season opener."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXW5V2KiMGGARyblPH8Hes5I",
+      "name": "FamilyMart Shibuya Koen-dori store",
+      "localName": "ファミリーマート 渋谷公園通り店",
+      "coordinates": {
+        "lat": 35.66297,
+        "lng": 139.69918
+      },
+      "image": "https://cdn.animepilgrimage.com/places/zxDvlzHYuBU89PrYRYLL.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/zxDvlzHYuBU89PrYRYLL.webp"
+        },
+        {
+          "url": "media/cached-image_d97ca0e8f6a005b08df0aab5db113a26c870fc6bb228c1f421a93cfd9709bc10.jpg"
+        },
+        {
+          "url": "media/cached-image_e619cc8f1296b504283d999024a60b0397d73eb97b4f7d9c01398b7e783048aa.jpg"
+        },
+        {
+          "url": "media/cached-image_3ba8956bcd560a76455b6befd39bff22223c071ff468f6c976bf7eed16e19c1b.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 3.3,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Atlas Shibuya Koen-dori, 3-3 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LqeCDyGCY41iGT2p9",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The convenience store on Koen-dori appears in episode 11 as a late-night stop for cast members, capturing an intimate unguarded moment as they process the emotional weight of the production's final stages."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAXimn2CMGGARl1wlJ1cbQpA",
+      "name": "Ichigaya Fish Center",
+      "localName": "市ヶ谷フィッシュセンター",
+      "coordinates": {
+        "lat": 35.6920318,
+        "lng": 139.7357076
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e57f4147-4f5f-4b9d-85c6-1cbbe1ac59c3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e57f4147-4f5f-4b9d-85c6-1cbbe1ac59c3.webp"
+        },
+        {
+          "url": "media/cached-image_6d430b49cb624ed02fecfb07f5899a54ec30b9e95b1a93b02550ebbda9f8bd05.jpg"
+        }
+      ],
+      "type": "釣り堀",
+      "categories": [
+        "釣り堀"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-１ Ichigayatamachi, Shinjuku City, Tokyo 162-0843, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6920318,139.7357076,3a,90y,258.88h,93.94t/data=!3m8!1e1!3m6!1sAF1QipPQTpKawjqVx0m9ZJiXZOyh-y3u-48p-a-PXRbq!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPQTpKawjqVx0m9ZJiXZOyh-y3u-48p-a-PXRbq%3Dw203-h100-k-no-pi-0-ya87.8948-ro-0-fo100!7i6912!8i3456?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The rooftop fishing pond appears in episode 1 as an unusual leisure spot where a character seeks solitude, its quirky elevated setting reflecting the offbeat coping mechanisms characters use under pressure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNfjL492JGGARIUzKvWzbgcY",
+      "name": "Tokyo Big Sight Rooftop Exhibition Area",
+      "localName": "東京ビッグサイト屋上展示場",
+      "coordinates": {
+        "lat": 35.62853,
+        "lng": 139.79397
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43350d87-a295-4e51-99b9-9d82d49c3f38.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43350d87-a295-4e51-99b9-9d82d49c3f38.webp"
+        },
+        {
+          "url": "media/cached-image_224db3f9d9c906d14ced469fb2c46d32d2f883a9a1ec56385d8ad8048db22d59.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒135-0063 Tokyo, Koto City, Ariake, 3 Chome−11−1, 東京国際展示場西展示棟4F",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/cbrA38chNymfcozs6",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Depicted in episode 3 as an outdoor area adjacent to the convention venue, used as a meeting point during the manga event where cast members regroup after the crowd chaos inside."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB1H6YOaLGGARN1-rG3A6eh8",
+      "name": "Nissan Crossing",
+      "localName": "NISSAN CROSSING",
+      "coordinates": {
+        "lat": 35.6708898,
+        "lng": 139.7650308
+      },
+      "image": "https://cdn.animepilgrimage.com/places/HDf5aKvc3XdUptSSrcsl.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/HDf5aKvc3XdUptSSrcsl.webp"
+        },
+        {
+          "url": "media/cached-image_d5a03b134df04999a5b884268cdf7a8d8327fa05ddca1c4f6419bab9eb7a15c9.jpg"
+        },
+        {
+          "url": "media/cached-image_0fb6a599ce0b53dbb5ac5fe4813aa4c658ce0da83980e47410f5931cd2539c5a.jpg"
+        }
+      ],
+      "type": "Showroom",
+      "categories": [
+        "Showroom"
+      ],
+      "rating": 4.4,
+      "reviewCount": 353,
+      "priceLevel": null,
+      "address": "Nissan Crossing, Ginza Place, 2F 5 Chome-8-1 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6711507,139.7650258,3a,90y,173.35h,112.24t/data=!3m7!1e1!3m5!1sH56CG9vCixWestLckz68eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.2425692085351%26panoid%3DH56CG9vCixWestLckz68eg%26yaw%3D173.3474546950553!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Ginza showroom appears in episode 11 as a public meeting point where characters are seen in the area during the production's climactic promotional push in the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ89TugkeMGGARDmSeJIiyWFA",
+      "name": "Tokyo Dome",
+      "localName": "東京ドーム",
+      "coordinates": {
+        "lat": 35.7056396,
+        "lng": 139.75189129999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/deVQiHMFcAhzFHtL39RJ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/deVQiHMFcAhzFHtL39RJ.webp"
+        },
+        {
+          "url": "media/cached-image_71b2608b5320dc83253b2845b3e47397f88db1d111b54c343d94d2d5ac02f711.jpg"
+        },
+        {
+          "url": "media/cached-image_ff5fc65606bce91c3ef416fb18a7552b7c6161cfc54ca0c594d3e45e2029600a.jpg"
+        },
+        {
+          "url": "media/cached-image_de6844e238d41f97f5e21ccc7d34ed9335871216ccd59d8414f9fcefc85e0817.jpg"
+        },
+        {
+          "url": "media/cached-image_7f8d297774b1f7e3173e9c02b8b466e071c31cb9c4abc8516b4c4562a638d963.jpg"
+        },
+        {
+          "url": "media/cached-image_da271f54ee242250a9f2baa714cd90a3a4e33be07337e2069fb9228747f9ccf7.jpg"
+        }
+      ],
+      "type": "Stadium",
+      "categories": [
+        "Stadium"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1456,
+      "priceLevel": null,
+      "address": "Tokyo Dome, 1 Chome-3-61 Koraku, Bunkyo City, Tokyo 112-0004, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VNpC5pGTPD5hFYnr5",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Tokyo Dome appears in episode 11 as a reference point for the scale of ambition behind the Tokyo Blade stage production, evoking memories of Ai's legendary performances and Aqua's connection to her legacy.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfYuh-BaLGGARkKcqAaZ79UE",
+      "name": "Mita Okanoue Park",
+      "localName": "三田丘の上公園",
+      "coordinates": {
+        "lat": 35.6401411,
+        "lng": 139.714398
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e79c963-a4c0-4f51-93da-694e3b6e74ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e79c963-a4c0-4f51-93da-694e3b6e74ed.webp"
+        },
+        {
+          "url": "media/cached-image_87489efe89d771871e1fce314864ba014d79477211032948d6d30357d8c97214.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mita Okanoue Park, 1 Chome-4-6 Mita, Meguro City, Tokyo 153-0062, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ucNaVpAGoqSup4pC7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small hilltop park in Meguro appears in episode 1 as a backdrop for a brief conversation between Aqua and Kana, where they acknowledge their complicated feelings before rehearsals begin."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVwPVkdiNGGARpNpvwSQTXQw",
+      "name": "Kabukicho Main Gate",
+      "localName": "歌舞伎町一番街アーチ",
+      "coordinates": {
+        "lat": 35.69401,
+        "lng": 139.70107
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ZQHZoycZ0Oxq9pKPokCB.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ZQHZoycZ0Oxq9pKPokCB.webp"
+        },
+        {
+          "url": "media/cached-image_26d4fb4d4a4fd81333f00b7c96f1fecc5e3e792f1ef1656c43a18ed9bf2adfa3.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-17 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6945004,139.7012547,3a,75y,199.07h,98.92t/data=!3m7!1e1!3m5!1sourSI3_SoIh829_0n3Yo5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.918661677010746%26panoid%3DourSI3_SoIh829_0n3Yo5A%26yaw%3D199.07163424889325!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The famous Kabukicho entertainment district gate appears in episode 11 during a late-night scene where cast members confront each other about the escalating rivalry and off-stage conflicts surrounding the production."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9fvGqKmMGGARMl8j1JuabWk",
+      "name": "Karaoke Kan Shibuya",
+      "localName": "カラオケ館 渋谷店",
+      "coordinates": {
+        "lat": 35.6609251,
+        "lng": 139.6981644
+      },
+      "image": "https://cdn.animepilgrimage.com/places/vAr4CQWEVjCZVxmu7jVH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/vAr4CQWEVjCZVxmu7jVH.webp"
+        },
+        {
+          "url": "media/cached-image_d277f33d33331bf1e13914091dbd408a8c1ae225bd763df15918738d30eb5e26.jpg"
+        }
+      ],
+      "type": "カラオケ",
+      "categories": [
+        "カラオケ"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "ビル K&F, 30-8 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6609251,139.6981644,3a,75y,84.29h,93.31t/data=!3m6!1e1!3m4!1sMpQml1lzJQgCjS6pdm_fGA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Shibuya karaoke venue appears in episode 11 as a place where cast members gather after a tense day, the private karaoke room providing a rare space to let their guard down and bond."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUWpetKmMGGARmrGFvI1axEg",
+      "name": "ABC-MART Shibuya Store",
+      "localName": "ABC-MART 渋谷店",
+      "coordinates": {
+        "lat": 35.66038,
+        "lng": 139.69862
+      },
+      "image": "https://cdn.animepilgrimage.com/places/34bb1444-aa8a-4e4a-b95c-c721d34782ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/34bb1444-aa8a-4e4a-b95c-c721d34782ea.webp"
+        },
+        {
+          "url": "media/cached-image_2d56c59019e991fb4c71afc5b010b11866c5e5e2abbbdb4264f71e12efa34871.jpg"
+        }
+      ],
+      "type": "靴店",
+      "categories": [
+        "靴店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya T Bldg., 27-6 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/54uJiPptmxPST34G9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The shoe store appears in episode 6 during a casual shopping scene, used as a grounding real-world moment between characters before a dramatic shift in the production's rehearsal dynamics."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPx4XDoSJGGAR9FNddylHKHw",
+      "name": "豊洲ピッツァバルGIRASOLE（ジラソーレ）",
+      "localName": "豊洲ピッツァバルGIRASOLE（ジラソーレ）",
+      "coordinates": {
+        "lat": 35.6555806,
+        "lng": 139.7984473
+      },
+      "image": "https://cdn.animepilgrimage.com/places/65741a56-15dc-4a20-b202-43f34fdaf766.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/65741a56-15dc-4a20-b202-43f34fdaf766.webp"
+        },
+        {
+          "url": "media/cached-image_176082ff19746c19fafcd3236e5ce4b104c19253426684cfbcd558ed6fa58db4.jpg"
+        },
+        {
+          "url": "media/cached-image_6087d34910223078f6c014f71d31ef078014121f6d488c99f88141301a61d719.jpg"
+        },
+        {
+          "url": "media/cached-image_f38cf1db1a29df279439ac36c298c3e567d1fbae7e8438b71699a95d271e494b.jpg"
+        },
+        {
+          "url": "media/cached-image_6601512376676e13a4d82f7198e32901d8c14314b6f94048ace1013b3e947526.jpg"
+        }
+      ],
+      "type": "イタリア料理店",
+      "categories": [
+        "イタリア料理店"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toyosu Pizza Bar Girasole, エムアイビル １F 4 Chome-7-1 Toyosu, Koto City, Tokyo 135-0061, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bjqYMyWjYncAQwws7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Toyosu pizzeria appears in episode 9 as a dining setting where characters share a meal during a calmer moment, the relaxed Italian restaurant atmosphere offering brief respite from the drama of the stage production."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbSvxxHSLGGAR1o7dEsc0ZeA",
+      "name": "Crescent Meguro Aobadai",
+      "localName": "クレッセント目黒青葉台",
+      "coordinates": {
+        "lat": 35.6472444,
+        "lng": 139.6961126
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b5cb5e09-96b2-4980-8ad0-d90a8f9b61a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b5cb5e09-96b2-4980-8ad0-d90a8f9b61a9.webp"
+        },
+        {
+          "url": "media/cached-image_95530c846b8ad03c2feaecac1c96b0f6a266d15b8019631f8c4f57c985e07a40.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Crescent Meguro Aobadai, クレッセント目黒青葉台 1 Chome-24-2 Aobadai, Meguro City, Tokyo 153-0042, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2rUWtFqexeomxzLT6",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The residential building in Meguro's Aobadai neighborhood appears in episode 9 as a character's apartment location, grounding the personal life of one of the stage play's cast members."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiXTqi1WJGGAR08VFBmKoNrc",
+      "name": "Nihombashi Mitsukoshi Main Store",
+      "localName": "日本橋三越本店",
+      "coordinates": {
+        "lat": 35.6856332,
+        "lng": 139.7734296
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e3ec051-6c8e-4145-b7e6-4df6b50f7b76.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e3ec051-6c8e-4145-b7e6-4df6b50f7b76.webp"
+        },
+        {
+          "url": "media/cached-image_3a6a46b6a3c9526c7c7d474ce06cd3861aadeaae0c7255bd6c727b3613039c45.jpg"
+        },
+        {
+          "url": "media/cached-image_4f95b2b2f284feb88544f52d9ad51e30c9ddf9a7e74bddec1ca338a7bb26ef8b.jpg"
+        },
+        {
+          "url": "media/cached-image_875df293b0b89424b2609caf63cb8e6c3e1d9363ce6abac5b8d2394cfac5f3e8.jpg"
+        },
+        {
+          "url": "media/cached-image_2b8ebec289fc856aa6de9a5685f826e4492cacbbfb07ebf24b1c1059205a7dad.jpg"
+        },
+        {
+          "url": "media/cached-image_dc677422bc5f748a59bdb1877b95a57e28bac573bded360a190eacdfb871de02.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 4.1,
+      "reviewCount": 828,
+      "priceLevel": null,
+      "address": "Nihombashi Mitsukoshi Main Store, 1 Chome-4-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8001, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SwxXq4btheWJv79T6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The historic department store appears in episode 8 during a scene where characters shop for costumes or accessories connected to the stage production, its grand atrium reflecting the theatrical world they inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJe-EKclWJGGARZNbAt1H6hkw",
+      "name": "YUITO",
+      "localName": "ユイト 日本橋室町野村ビル",
+      "coordinates": {
+        "lat": 35.68734,
+        "lng": 139.7739343
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ac3f7b25-f275-4237-bb71-24ad9f706e5e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ac3f7b25-f275-4237-bb71-24ad9f706e5e.webp"
+        },
+        {
+          "url": "media/cached-image_0a0634928e295f267ecad6c9ec02f79af271dd02274f482b29bbfd437d17b9e0.jpg"
+        },
+        {
+          "url": "media/cached-image_8fdbabbe384729c6455e869358b3524541e8b3873d9e5599e6c6661a87193403.jpg"
+        },
+        {
+          "url": "media/cached-image_67bc7bcf8fbcdd23107667cce657b7243422724a65222fb0bcf11cef3cd92ded.jpg"
+        },
+        {
+          "url": "media/cached-image_2e588ce63015f8b281bad134784c04720ce1ab9f41afa47bd36bcbf98bb439ea.jpg"
+        },
+        {
+          "url": "media/cached-image_5a35ff8fb37321cc0442f3a23e5748898dc839c08170fa2661e5d33636721cd1.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 567,
+      "priceLevel": null,
+      "address": "YUITO, 2 Chome-4-3 Nihonbashimuromachi, Chuo City, Tokyo 103-0022, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4DNPrZnVDKP8r2qW7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Nihombashi office complex appears in episode 8 as the location of a business meeting related to the stage play's commercial sponsors, where Aqua navigates the industry dealings surrounding the production."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUV9lMRmLGGART9WsfRxFaBU",
+      "name": "Sumitomo Mitsui Bank, Meguro Branch",
+      "localName": "三井住友銀行 目黒支店",
+      "coordinates": {
+        "lat": 35.633572099999995,
+        "lng": 139.7148818
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3eaa4767-20f5-479a-9e51-d9a6c45d039b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3eaa4767-20f5-479a-9e51-d9a6c45d039b.webp"
+        },
+        {
+          "url": "media/cached-image_0a5b017abd5d91143b25f97ceee0c72617882637e22c2cc094e8d3b71f57c503.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sumitomo Mitsui Bank, Meguro Branch, 目黒ヒルトップウォーク 内 4 Chome-1-5 Kamiosaki, Shinagawa City, Tokyo 141-0021, Japan",
+      "city": "Shinagawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HnaDvqdjcDAPDPyJA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Meguro branch appears briefly in episode 8 in a scene depicting the financial dealings behind the stage production, grounding the show's commentary on money and ambition in the entertainment industry."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f1bc31b-49ea-4538-b763-ffae20c9ccf5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f1bc31b-49ea-4538-b763-ffae20c9ccf5.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The convention center serves as the venue for a large doujinshi/manga event in episode 3, where characters from the cast attend and Ruby unexpectedly encounters obsessive fans, raising tension around idol privacy.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oshi-no-ko-3_21",
+      "name": "Konando Books",
+      "localName": "弘南堂書店",
+      "coordinates": {
+        "lat": 35.63446,
+        "lng": 139.71186
+      },
+      "image": "https://cdn.animepilgrimage.com/places/40717f12-3c70-4e40-86fb-b8b05b3e0e0b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/40717f12-3c70-4e40-86fb-b8b05b3e0e0b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/UnXPSggM5D2z9pLy9",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The small Meguro bookstore appears in episode 8 where a character browses the original Tokyo Blade manga volumes, a quiet moment connecting the stage adaptation back to its source material."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9z316i2NGGARVmoZvvgWYCg",
+      "name": "LENSLiST",
+      "localName": "試せる！コンタクトレンズショップLENSLiST（レンズリスト）渋谷店",
+      "coordinates": {
+        "lat": 35.6600836,
+        "lng": 139.69847579999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7aa65528-9e5c-4798-b74d-18c97df53852.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7aa65528-9e5c-4798-b74d-18c97df53852.webp"
+        },
+        {
+          "url": "media/cached-image_ad766fc09a64566940b2074e9082725c9deab9b5b8d3e6dec4f5f772d4ce5008.jpg"
+        },
+        {
+          "url": "media/cached-image_0a825382296b4e5896c943ea4adb0da4a876bdb4a46718af1ff6c9ad459ac6e5.jpg"
+        },
+        {
+          "url": "media/cached-image_428be9b10cc1324937a733946880b929156648bfc2e346141377250071dd45c7.jpg"
+        },
+        {
+          "url": "media/cached-image_290547071d1043e80a4a75723c142ffbd7d07de229b02bed8f9cd0700985b356.jpg"
+        },
+        {
+          "url": "media/cached-image_a9032cbd4c690b64603285b30e3645bcff36b771b29423d940b5f6936659684f.jpg"
+        }
+      ],
+      "type": "Contact lenses supplier",
+      "categories": [
+        "Contact lenses supplier"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "LENSLiST, Shibuya T Bldg., １階 27-4 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/u1hwiGqDjwzVDk916",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Shibuya contact lens shop appears in episode 6 as a character visits to prepare their appearance for the stage role, a small detail that underscores the physical transformation required for performance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5V1T5KKMGGARlTLiBrjIGUg",
+      "name": "Harajuku Harappa Farm",
+      "localName": "原宿",
+      "coordinates": {
+        "lat": 35.6699682,
+        "lng": 139.70900799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a8e14c5d-1c5a-4aa1-aaaa-56217f1faf01.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a8e14c5d-1c5a-4aa1-aaaa-56217f1faf01.webp"
+        },
+        {
+          "url": "media/cached-image_9976a3835fd22d77b160a5e0098560a7958d3face13dcd6fa85a3ed45ccbdda9.jpg"
+        },
+        {
+          "url": "media/cached-image_6b4e6c9999ca763ed873534e60c2f8f581e4c862679846749302fee066697e25.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Harajuku, Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/16iHkCVBzc25iNUX8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Harajuku area appears in episode 3 during a daytime outing where cast members spend time together off-duty, offering a rare relaxed moment before rehearsals intensify."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oshi-no-ko-3_24",
+      "name": "GISELE (Showroom in Omotesando)",
+      "localName": "GISELE (表参道ショールーム)",
+      "coordinates": {
+        "lat": 35.6717,
+        "lng": 139.71151
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f17e1437-d41a-4aab-a8ff-764c5336b432.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f17e1437-d41a-4aab-a8ff-764c5336b432.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/cCmRypHe6GuHXwQs5",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Omotesando showroom appears in episode 3 as the site of a costume fitting or wardrobe consultation for the Tokyo Blade stage production, where characters try on outfits that reflect their dual identities."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQD8laKMGGARbNcsEvad-oY",
+      "name": "Duo Omotesando",
+      "localName": "デュオ表参道",
+      "coordinates": {
+        "lat": 35.671730499999995,
+        "lng": 139.71058399999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6786b44b-ed5b-4b52-9c89-a63c95cc900f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6786b44b-ed5b-4b52-9c89-a63c95cc900f.webp"
+        },
+        {
+          "url": "media/cached-image_de4e2c7fc050116c34dd4d09ecc261e2f0c514a5898fde3357de0dd7b01e647e.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Duo Omotesando, 3 Chome-32-6 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PDrC8wLqiK6ggyQF8",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Omotesando building appears in episode 3 as a location characters pass through during a daytime scene, its upscale atmosphere contrasting with the pressures of the entertainment world they inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfeA_Vd6JGGARbeHNibw9Gho",
+      "name": "Tokyo Big Sight South Exhibition Halls",
+      "localName": "東京ビッグサイト 南展示棟",
+      "coordinates": {
+        "lat": 35.626761099999996,
+        "lng": 139.79580009999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2536c5ac-1ad1-4df0-985f-2d4704b0bd5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2536c5ac-1ad1-4df0-985f-2d4704b0bd5d.webp"
+        },
+        {
+          "url": "media/cached-image_388897e25a1aedde57d24d1c0e36b31b409e71c1cbff5a308694c70ee065817d.jpg"
+        },
+        {
+          "url": "media/cached-image_12e8c7beff7c6ae7752c9022f912b7cc81031ffa1d73b0600ddda4224b899c53.jpg"
+        },
+        {
+          "url": "media/cached-image_61be3351a54626001f6baf198eea0138b8f445a84b878c982bca227c9e867310.jpg"
+        },
+        {
+          "url": "media/cached-image_606ea49d027cf31c5616491ba64fa1e6b2cb2156de2002b875f5cb7d15c364a1.jpg"
+        },
+        {
+          "url": "media/cached-image_ed0acb501b4f84f9668f09e57f4f2f6623f1952b2cda62a284c267c8c5ba5487.jpg"
+        }
+      ],
+      "type": "Convention center",
+      "categories": [
+        "Convention center"
+      ],
+      "rating": 3.9,
+      "reviewCount": 275,
+      "priceLevel": null,
+      "address": "Tokyo Big Sight South Exhibition Halls, 3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/H3jM4M6pvFSJJKN36",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Featured in episode 2 as the South Hall hosting a large industry showcase, where the Tokyo Blade stage production team scouts venue options and cast members tour the exhibition floors."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKTY1SoCLGGAR1ODjP4rZwPE",
+      "name": "Hitotsugi Park",
+      "localName": "一ツ木公園",
+      "coordinates": {
+        "lat": 35.6708108,
+        "lng": 139.7334276
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f35e7c7a-b517-47d3-ae61-3dd2c1631694.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f35e7c7a-b517-47d3-ae61-3dd2c1631694.webp"
+        },
+        {
+          "url": "media/cached-image_57c7f840ae64e7839250afa46ceed408785b7c5a707f58c3f7c99d3c28351d98.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hitotsugi Park, 5 Chome-5-番 26 号 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/923dTzMUzvG3jPCt6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Akasaka park appears in episode 2 as a neutral outdoor meeting spot where two characters from rival factions in the stage production discuss their differences away from the rehearsal room."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8SaWSACLGGAR-p57FQYt7K0",
+      "name": "BS-TBS Inc.",
+      "localName": "(株)BS-TBS",
+      "coordinates": {
+        "lat": 35.67191,
+        "lng": 139.7351057
+      },
+      "image": "https://cdn.animepilgrimage.com/places/561f231f-310a-4543-80fd-cac36c8bd92c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/561f231f-310a-4543-80fd-cac36c8bd92c.webp"
+        },
+        {
+          "url": "media/cached-image_8c2367b80376764f27ae4cabd0b0385f216d7407e5e25125d5c080e72e276dcb.jpg"
+        }
+      ],
+      "type": "Television studio",
+      "categories": [
+        "Television studio"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "BS-TBS Inc., TBS放送センタ 15階 5 Chome-3-6 Akasaka, Minato City, Tokyo 107-0052, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/siu2QxGHEtgW5eYQ7",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The broadcasting company's building appears in episode 1 as the TV studio where a talk show segment features cast and crew of the Tokyo Blade stage play, thrusting the production into the public spotlight."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oshi-no-ko-3_29",
+      "name": "BS-TBS Inc.",
+      "localName": "(株)BS-TBS",
+      "coordinates": {
+        "lat": 35.671457,
+        "lng": 139.735029
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6abe7050-9394-4832-8e2b-c6fa7b117c10.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6abe7050-9394-4832-8e2b-c6fa7b117c10.webp"
+        },
+        {
+          "url": "media/cached-image_d77d4842d8596458be12025b61411c5cadc0d6865ced95453efcc9ae86f60f8a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/LEpki1dM3g68XaRj8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The broadcasting company's building appears in episode 1 as the TV studio where a talk show segment features cast and crew of the Tokyo Blade stage play, thrusting the production into the public spotlight."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh9EUPNGMGGAR1Q9xRKA2-TA",
+      "name": "Yodobashi Camera Shinjuku West Main Store",
+      "localName": "ヨドバシカメラ 新宿西口本店",
+      "coordinates": {
+        "lat": 35.6898832,
+        "lng": 139.6979532
+      },
+      "image": "https://cdn.animepilgrimage.com/places/HN892tFHQbAU9NgFO3yp.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/HN892tFHQbAU9NgFO3yp.webp"
+        },
+        {
+          "url": "media/cached-image_c28e1a12db667a0ad97bd720af4c3aed291d20bfe9f284c08cd2bad0c2b9ba8d.jpg"
+        },
+        {
+          "url": "media/cached-image_99b95e8b66b36dd4915d54722c9f4e7e9d50ad904874e563c35b5c712f3206a1.jpg"
+        },
+        {
+          "url": "media/cached-image_5fe8d5ef6078561bef82c2a861be79359e361cd32c8624f7b4924dc957524db7.jpg"
+        },
+        {
+          "url": "media/cached-image_88c40a8dbf154e659d8e9163652e1dadb0d27201383301e6026c69dcf11c2b02.jpg"
+        },
+        {
+          "url": "media/cached-image_11e6dbcf6bc702abd4a97c0ce4efe9d0ad3a048c4b96c3e9940774a7e38c40f7.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 4.1,
+      "reviewCount": 1338,
+      "priceLevel": null,
+      "address": "Yodobashi Camera Shinjuku West Main Store, 1 Chome-11-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Si8DggFPtuMTPWxQ9",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The large electronics retailer appears in episode 11 in a scene where characters encounter each other unexpectedly while running errands, leading to a candid exchange during the production's final arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU3DLfRrtGGARD-QWw5gchyo",
+      "name": "Nerima City Sakuradai Community Center",
+      "localName": "練馬区立 桜台地区区民館",
+      "coordinates": {
+        "lat": 35.745931,
+        "lng": 139.66318099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c755f212-18c9-41d7-829b-1bfb586bee6c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c755f212-18c9-41d7-829b-1bfb586bee6c.webp"
+        },
+        {
+          "url": "media/cached-image_a3c3fc7359281af260d2eb89a82176fa7f927352f0c56d288b3598ee9b62c508.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒176-0002 Tokyo, Nerima City, 練馬区Sakuradai, 3 Chome−39−17 練馬区立 桜台地区区民館",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/z44RRv25z3BBg58N9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The community center appears in episode 10 as an early rehearsal venue for the Tokyo Blade stage play, its modest setting contrasting with the grand theatrical ambitions of the cast and director."
+    }
+  ]
+}

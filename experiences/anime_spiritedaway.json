@@ -3,9 +3,9 @@
   "entityType": "anime",
   "entityName": "Spirited Away",
   "slug": "spirited-away",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_50cf60f7e2cb7d5ead661174225ce50b4780705162c428cdf1ea0f1a7162c95d.webp",
-  "image": "media/cached-image_50cf60f7e2cb7d5ead661174225ce50b4780705162c428cdf1ea0f1a7162c95d.webp",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cdn.animepilgrimage.com/anime/gfatdW6fL22KIsoTUgDj.webp",
+  "image": "https://cdn.animepilgrimage.com/anime/gfatdW6fL22KIsoTUgDj.webp",
   "banner": null,
   "primaryLocation": "Tokyo, Japan",
   "primaryLocationCoords": {
@@ -19,69 +19,40 @@
   "ingredients": [
     {
       "kind": "poi",
-      "placeId": "ChIJaZUn3l8eGWARXC-CNeevOBk",
-      "name": "Minoya Nishihachioji",
-      "localName": "みのや 西八王子店",
+      "placeId": "ChIJ0f3j7lIhGWARIYLOYcPOee0",
+      "name": "Koshuya Shinmachi",
+      "localName": "甲州屋 新町店",
       "coordinates": {
-        "lat": 35.6735486,
-        "lng": 139.3261627
+        "lat": 35.7856554,
+        "lng": 139.292719
       },
-      "image": "media/cached-image_e59814eb4b2e2b8c66ea2a7d3870bf72bca9e88b9839294601cea573dc46cf6a.webp",
+      "image": "https://cdn.animepilgrimage.com/places/f3e110ad-3a0b-4ffc-be19-caf42a3cd860.webp",
       "images": [
         {
-          "url": "media/cached-image_e59814eb4b2e2b8c66ea2a7d3870bf72bca9e88b9839294601cea573dc46cf6a.webp"
+          "url": "https://cdn.animepilgrimage.com/places/f3e110ad-3a0b-4ffc-be19-caf42a3cd860.webp"
         },
         {
-          "url": "media/cached-image_a0a0213cfcf18862405a1fa063b678faae00f482a0e1cbc76f83b779df4d7f64.jpg"
+          "url": "media/cached-image_c860095e32b72a9cdd613faeb3debd5b88ea6d158b17874b6e96b589b2f1c5ff.jpg"
         }
       ],
-      "type": "とんかつ店",
+      "type": "釣具店",
       "categories": [
-        "とんかつ店"
+        "釣具店"
       ],
-      "rating": 4.3,
+      "rating": 4.1,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "3 Chome-5 Nakanosanno, Hachioji, Tokyo 192-0042, Japan",
-      "city": "Hachioji",
+      "address": "1 Chome-１-19 Shinmachi, Ome, Tokyo 198-0024, Japan",
+      "city": "Ome",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6735486,139.3261627,3a,75y,180.7h,100.23t/data=!3m6!1e1!3m4!1sBMGKkhP7mnSST8-cfdDU9Q!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJEdOvGgAdGWARjlsJJqitL64",
-      "name": "Asahigaoka Cycle Farm",
-      "localName": "旭が丘サイクルファーム",
-      "coordinates": {
-        "lat": 35.6578407,
-        "lng": 139.36331
-      },
-      "image": "media/cached-image_5193e199e74b5c65587d6d69c108b01be4950c5b47e2f077330b244a0ff2ac51.webp",
-      "images": [
-        {
-          "url": "media/cached-image_5193e199e74b5c65587d6d69c108b01be4950c5b47e2f077330b244a0ff2ac51.webp"
-        },
-        {
-          "url": "media/cached-image_98d4da9d1d2370b6970ca2ec0364ec7afd546cf0423559b519b14ffba1759ac7.jpg"
-        }
-      ],
-      "type": "自転車修理・整備店",
-      "categories": [
-        "自転車修理・整備店"
-      ],
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒191-0065 Tokyo, Hino, Asahigaoka, 5 Chome−15−22",
-      "city": "Hino",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6578407,139.36331,3a,75y,308.39h,110.93t/data=!3m7!1e1!3m5!1shrq81c-zVo8Gc7qwoQiuFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dhrq81c-zVo8Gc7qwoQiuFg%26cb_client%3Dsearch.gws-prod.gps%26w%3D211%26h%3D120%26yaw%3D308.85318%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.7856554,139.292719,3a,44.5y,320.61h,98.11t/data=!3m6!1e1!3m4!1spGLEL3el0Xb8HNm1l6MGgg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
     },
     {
       "kind": "poi",
@@ -92,10 +63,10 @@
         "lat": 35.6844191,
         "lng": 139.6277142
       },
-      "image": "media/cached-image_fefcbe3f1ac7b6c47c7189a136be9c0825e5e46f068f38122522719497cdb021.webp",
+      "image": "https://cdn.animepilgrimage.com/places/3ed5e092-7cad-4863-9cf0-a5e58f3bf445.webp",
       "images": [
         {
-          "url": "media/cached-image_fefcbe3f1ac7b6c47c7189a136be9c0825e5e46f068f38122522719497cdb021.webp"
+          "url": "https://cdn.animepilgrimage.com/places/3ed5e092-7cad-4863-9cf0-a5e58f3bf445.webp"
         },
         {
           "url": "media/cached-image_0e3ce7e2318ecf9a6126885def025797f83127245fcc8476b602b42d97ec3fff.jpg"
@@ -113,8 +84,86 @@
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/Cycle+Shop+Kobayashi/@35.6844191,139.6277142,3a,90y,13.52h,103.48t/data=!3m6!1e1!3m4!1svPfjKPoABMl-Cvwq6I668Q!2e0!7i16384!8i8192!4m6!3m5!1s0x6018f23fc93f4ffd:0x5f0ca3814c73f474!8m2!3d35.6844942!4d139.6277425!16s%2Fg%2F1vxw8932?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/place/Cycle+Shop+Kobayashi/@35.6844191,139.6277142,3a,90y,13.52h,103.48t/data=!3m6!1e1!3m4!1svPfjKPoABMl-Cvwq6I668Q!2e0!7i16384!8i8192!4m6!3m5!1s0x6018f23fc93f4ffd:0x5f0ca3814c73f474!8m2!3d35.6844942!4d139.6277425!16s%2Fg%2F1vxw8932?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEdOvGgAdGWARjlsJJqitL64",
+      "name": "Asahigaoka Cycle Farm",
+      "localName": "旭が丘サイクルファーム",
+      "coordinates": {
+        "lat": 35.6578407,
+        "lng": 139.36331
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37bbbb2d-865c-4a5a-8aec-e3368048f731.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37bbbb2d-865c-4a5a-8aec-e3368048f731.webp"
+        },
+        {
+          "url": "media/cached-image_98d4da9d1d2370b6970ca2ec0364ec7afd546cf0423559b519b14ffba1759ac7.jpg"
+        }
+      ],
+      "type": "自転車修理・整備店",
+      "categories": [
+        "自転車修理・整備店"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒191-0065 Tokyo, Hino, Asahigaoka, 5 Chome−15−22",
+      "city": "Hino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6578407,139.36331,3a,75y,308.39h,110.93t/data=!3m7!1e1!3m5!1shrq81c-zVo8Gc7qwoQiuFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dhrq81c-zVo8Gc7qwoQiuFg%26cb_client%3Dsearch.gws-prod.gps%26w%3D211%26h%3D120%26yaw%3D308.85318%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBSN6TezlGGARH9xwbZsIFVo",
+      "name": "Takei Sanseido (stationery store)",
+      "localName": "武居三省堂（文具店）",
+      "coordinates": {
+        "lat": 35.7162091,
+        "lng": 139.5151472
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e2d06e71-9959-4e48-9917-fdb75436003e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e2d06e71-9959-4e48-9917-fdb75436003e.webp"
+        },
+        {
+          "url": "media/cached-image_75e6e7e1ea263ba29ea0ff1d62b364055d427ef750088d6532b7eda78c6d0d00.jpg"
+        }
+      ],
+      "type": "遗产性建筑",
+      "categories": [
+        "遗产性建筑"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-9 Sekinocho, Koganei, Tokyo 184-0001, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This Meiji-era stationery store, now preserved inside the Edo-Tokyo Open Air Architectural Museum, directly inspired Kamaji's boiler room in Spirited Away. Its walls lined floor-to-ceiling with hundreds of wooden drawers are the unmistakable reference for the giant herb cabinet Kamaji extends his limbs to reach, and Miyazaki is known to have visited the museum repeatedly while developing the film.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/%E6%AD%A6%E5%B1%85%E4%B8%89%E7%9C%81%E5%A0%82%EF%BC%88%E6%96%87%E5%85%B7%E5%BA%97%EF%BC%89/@35.7162091,139.5151472,3a,90y,62.47h,88.99t/data=!3m8!1e1!3m6!1sAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws%3Dw203-h100-k-no-pi-0-ya355.52-ro-0-fo100!7i5376!8i2688!4m9!3m8!1s0x6018e5ec4d7a2305:0x5a15089b6d70dc1f!8m2!3d35.7161697!4d139.5151039!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn92_2zb?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
     },
     {
       "kind": "poi",
@@ -125,10 +174,10 @@
         "lat": 36.6863463,
         "lng": 138.7743027
       },
-      "image": "media/cached-image_1eed7ff3f8460f39a3694e9e227867d96d74f07cbdf59efcdad796a875e52ff5.webp",
+      "image": "https://cdn.animepilgrimage.com/places/842c7493-ecdc-43e7-abeb-a844c36a9831.webp",
       "images": [
         {
-          "url": "media/cached-image_1eed7ff3f8460f39a3694e9e227867d96d74f07cbdf59efcdad796a875e52ff5.webp"
+          "url": "https://cdn.animepilgrimage.com/places/842c7493-ecdc-43e7-abeb-a844c36a9831.webp"
         },
         {
           "url": "media/cached-image_1463a5770207865fa7b1526d0858fed5fdaba68bc03c91c561bae98bd242a3ab.jpg"
@@ -179,78 +228,49 @@
       "region": "Agatsuma District, Gunma",
       "countryCode": "JP",
       "description": null,
+      "entityContext": "This 300-year-old ryokan in Shima Onsen is one of the most cited inspirations for Yubaba's bathhouse in Spirited Away. Miyazaki is said to have stayed here before production, and the iconic red Keiun Bridge leading to the main building is widely recognized as the model for the bridge Chihiro crosses to enter the spirit world. A connecting tunnel between buildings also closely mirrors the tunnel Chihiro walks through when she first arrives.",
+      "fanTopPick": true,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@36.6863463,138.7743027,3a,62.6y,276.45h,94.3t/data=!3m7!1e1!3m5!1sOqyM3buwR-1J5T4gnHYmTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOqyM3buwR-1J5T4gnHYmTQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D4.5590878%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The 17th-century Sekizenkan inn in Shima Onsen is the most-cited inspiration for Aburaya, the bathhouse. Its red bridge and tiered wooden façade are unmistakable in the film.",
-      "fanTopPick": true
+      "episodeType": "MOVIE",
+      "episodeNumber": null
     },
     {
       "kind": "poi",
-      "placeId": "ChIJBSN6TezlGGARH9xwbZsIFVo",
-      "name": "Takei Sanseido (stationery store)",
-      "localName": "武居三省堂（文具店）",
+      "placeId": "ChIJaZUn3l8eGWARXC-CNeevOBk",
+      "name": "Minoya Nishihachioji",
+      "localName": "みのや 西八王子店",
       "coordinates": {
-        "lat": 35.7162091,
-        "lng": 139.5151472
+        "lat": 35.6735486,
+        "lng": 139.3261627
       },
-      "image": "media/cached-image_e02fd5e0071c1f5a2e52852c58019b8e47019ce5e243aaf14bd4448289229af4.webp",
+      "image": "https://cdn.animepilgrimage.com/places/0ca32e64-c7f9-4d7b-9810-753d33ab14d5.webp",
       "images": [
         {
-          "url": "media/cached-image_e02fd5e0071c1f5a2e52852c58019b8e47019ce5e243aaf14bd4448289229af4.webp"
+          "url": "https://cdn.animepilgrimage.com/places/0ca32e64-c7f9-4d7b-9810-753d33ab14d5.webp"
         },
         {
-          "url": "media/cached-image_75e6e7e1ea263ba29ea0ff1d62b364055d427ef750088d6532b7eda78c6d0d00.jpg"
+          "url": "media/cached-image_a0a0213cfcf18862405a1fa063b678faae00f482a0e1cbc76f83b779df4d7f64.jpg"
         }
       ],
-      "type": "遗产性建筑",
+      "type": "とんかつ店",
       "categories": [
-        "遗产性建筑"
+        "とんかつ店"
       ],
-      "rating": 4.4,
+      "rating": 4.3,
       "reviewCount": null,
       "priceLevel": null,
-      "address": "2 Chome-9 Sekinocho, Koganei, Tokyo 184-0001, Japan",
-      "city": "Koganei",
+      "address": "3 Chome-5 Nakanosanno, Hachioji, Tokyo 192-0042, Japan",
+      "city": "Hachioji",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
+      "entityContext": "This long-established tonkatsu restaurant run by an elderly couple reportedly appears in the background of a scene in Spirited Away, and has become a point of interest for fans tracing the real locations Miyazaki drew on for the film's food-stall street.",
+      "fanTopPick": false,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/%E6%AD%A6%E5%B1%85%E4%B8%89%E7%9C%81%E5%A0%82%EF%BC%88%E6%96%87%E5%85%B7%E5%BA%97%EF%BC%89/@35.7162091,139.5151472,3a,90y,62.47h,88.99t/data=!3m8!1e1!3m6!1sAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOjjeVEW3WwgeVYeT9gCsLwf6lZwPvrHRt40Pws%3Dw203-h100-k-no-pi-0-ya355.52-ro-0-fo100!7i5376!8i2688!4m9!3m8!1s0x6018e5ec4d7a2305:0x5a15089b6d70dc1f!8m2!3d35.7161697!4d139.5151039!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn92_2zb?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "This Meiji-era stationery shop, preserved at the Edo-Tokyo Open Air Architectural Museum, inspired Kamaji's boiler room. The wall of tiny drawers is lifted straight into the film.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ0f3j7lIhGWARIYLOYcPOee0",
-      "name": "Koshuya Shinmachi",
-      "localName": "甲州屋 新町店",
-      "coordinates": {
-        "lat": 35.7856554,
-        "lng": 139.292719
-      },
-      "image": "media/cached-image_ad93c1911fecd8e4d0ffcd859f6035010fd1184a7e7ded39f5c7fbaabc206595.webp",
-      "images": [
-        {
-          "url": "media/cached-image_ad93c1911fecd8e4d0ffcd859f6035010fd1184a7e7ded39f5c7fbaabc206595.webp"
-        },
-        {
-          "url": "media/cached-image_c860095e32b72a9cdd613faeb3debd5b88ea6d158b17874b6e96b589b2f1c5ff.jpg"
-        }
-      ],
-      "type": "釣具店",
-      "categories": [
-        "釣具店"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1 Chome-１-19 Shinmachi, Ome, Tokyo 198-0024, Japan",
-      "city": "Ome",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.7856554,139.292719,3a,44.5y,320.61h,98.11t/data=!3m6!1e1!3m4!1spGLEL3el0Xb8HNm1l6MGgg!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.6735486,139.3261627,3a,75y,180.7h,100.23t/data=!3m6!1e1!3m4!1sBMGKkhP7mnSST8-cfdDU9Q!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
     }
   ]
 }

@@ -1,0 +1,1487 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Oreimo",
+  "slug": "oreimo",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_950b4adc8af5f98dcd3b48c998e0f08c92c09ec649dd4454869a6a5d7c1e66d6.webp",
+  "image": "media/cached-image_950b4adc8af5f98dcd3b48c998e0f08c92c09ec649dd4454869a6a5d7c1e66d6.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.86075265526316,
+    "lng": 139.8953951631579
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Oreimo"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJZYsluR2MGGAR1djuzJefoZ8",
+      "name": "Sofmap AKIBA PC and Digital Store",
+      "localName": "ソフマップ AKIBA パソコン・デジタル館",
+      "coordinates": {
+        "lat": 35.700322799999995,
+        "lng": 139.7711859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e46a12f-0bfb-44c7-860e-ea91e1fd3d0b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e46a12f-0bfb-44c7-860e-ea91e1fd3d0b.webp"
+        },
+        {
+          "url": "media/cached-image_5f645697345604d0cce87c0477d4cfb72b94ed6439bc063b5d7c67c2f8082865.jpg"
+        },
+        {
+          "url": "media/cached-image_980e78dcb55b27904470a00d7625130e74eb974a3891c8c84c9aaa113805dc98.jpg"
+        },
+        {
+          "url": "media/cached-image_5dc22b5492a1cafdafea9ef4a46693d38e48ff2b30950df706dfae39e2ded9ce.jpg"
+        },
+        {
+          "url": "media/cached-image_bcad2aaf4aa180a47a7ccdff6c6057cc058cb80306917fc31f4e34bdcf1f840e.jpg"
+        },
+        {
+          "url": "media/cached-image_4ffe3f3343ccb51fc393ac60ba77bb35dfea750b99f3af1a16eb470389d59659.jpg"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 3.9,
+      "reviewCount": 131,
+      "priceLevel": null,
+      "address": "Sofmap AKIBA PC and Digital Store, IMYビル 3 Chome-13-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7002419,139.7711098,3a,75y,82.06h,99.28t/data=!3m7!1e1!3m5!1sl0HLA4F8IXp7niW1RuUpxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.276316425018877%26panoid%3Dl0HLA4F8IXp7niW1RuUpxg%26yaw%3D82.06093665663413!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Kirino browses this Akihabara Sofmap branch in episode 7 during one of her regular eroge-hunting trips, a recurring ritual that establishes just how deep her secret hobby runs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ9mareyNGGARpd4fuW3EUac",
+      "name": "TAMASHII NATIONS STORE TOKYO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6991106,
+        "lng": 139.77298779999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0b905baf-dd3c-416e-874c-7f7ff5b4ca69.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0b905baf-dd3c-416e-874c-7f7ff5b4ca69.webp"
+        },
+        {
+          "url": "media/cached-image_c724488a782605a087d0ac091d57419b1aea9505cabd00ba206f76df507edf36.jpg"
+        }
+      ],
+      "type": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TAMASHII NATIONS STORE TOKYO, １-1 Kanda Hanaokacho, Chiyoda City, Tokyo 101-0028, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6991279,139.7727626,3a,75y,107.12h,105.39t/data=!3m7!1e1!3m5!1sPFS_iJKWiAhqMPvWqtmBKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.393331273074267%26panoid%3DPFS_iJKWiAhqMPvWqtmBKg%26yaw%3D107.1248967090925!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kirino and Kyousuke visit this figure retailer in Akihabara in episode 8, with Kirino eyeing limited collectibles that reflect her obsessive passion for anime merchandise."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo9rFlRyKGGARxGX4YMCH2dA",
+      "name": "Shiokaze Park",
+      "localName": "潮風公園",
+      "coordinates": {
+        "lat": 35.62339,
+        "lng": 139.7695743
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9bf6ec0-ff83-41fc-8afc-bbd7a436d3eb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9bf6ec0-ff83-41fc-8afc-bbd7a436d3eb.webp"
+        },
+        {
+          "url": "media/cached-image_a1b855ef4c5208a9e2b4d2fbe1159c889da95cadd34d0f4279e41e8779693a4e.jpg"
+        },
+        {
+          "url": "media/cached-image_2b902f60664b24e3e12feff538a9cb4a5683a14fef450dbbc4ad17f1eaad7525.jpg"
+        },
+        {
+          "url": "media/cached-image_5347ab081632a221d75f7c401d5c75d588d540e256c89cc786f510627bee81b9.jpg"
+        },
+        {
+          "url": "media/cached-image_aa35403511617158145aa4df28f80b7174ee7a71d00aa1321f6e61f85bcc33ad.jpg"
+        },
+        {
+          "url": "media/cached-image_b4326c566db557995aba97e96b3ef697375d679c067c5553a96accec712163f7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 86,
+      "priceLevel": null,
+      "address": "Shiokaze Park, 1 Higashiyashio, Shinagawa City, Tokyo 135-0092, Japan",
+      "city": "Shinagawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6234453,139.7690573,2a,90y,351.46h,97.18t/data=!3m7!1e1!3m5!1sVjfPvKN9BQF82F5Dokm79Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.184085132563794%26panoid%3DVjfPvKN9BQF82F5Dokm79Q%26yaw%3D351.45502511839953!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This seaside park in Odaiba serves as a backdrop in episode 9 where Kirino and Kyousuke have a quiet moment together away from the bustle of Akihabara, showing a softer side to their complicated relationship."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+      "name": "Akihabara Radio Kaikan",
+      "localName": "秋葉原ラジオ会館",
+      "coordinates": {
+        "lat": 35.69812,
+        "lng": 139.77194
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8df8f3f2-b18c-44db-a505-b8fe056f6f85.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8df8f3f2-b18c-44db-a505-b8fe056f6f85.webp"
+        },
+        {
+          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981869,139.7719398,3a,90y,168.82h,114.06t/data=!3m7!1e1!3m5!1s8sIi0xcNOuhg7GkIFqubGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8sIi0xcNOuhg7GkIFqubGw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D73.600174%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kirino and Kyousuke visit Akihabara Radio Kaikan in episode 2 on their very first Akihabara outing, where Kirino's hidden otaku world is revealed to her brother as she navigates the floors of anime goods and games.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC1xKH8hxGGARziJHXAbFqFw",
+      "name": "Umihotaru PA",
+      "localName": "海ほたるPA",
+      "coordinates": {
+        "lat": 35.4637443,
+        "lng": 139.8750604
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee6bdc30-17f7-4422-9bb7-d210eba9d1e9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee6bdc30-17f7-4422-9bb7-d210eba9d1e9.webp"
+        },
+        {
+          "url": "media/cached-image_4daafa4da1f60ca62e05f20a5cd80ea6f67541937904603ee383de90dff4a189.jpg"
+        },
+        {
+          "url": "media/cached-image_b9834017f8e6be7a9250f19b51e875d19b4d6c3048bd01ce21dd17a5db55e0ec.jpg"
+        },
+        {
+          "url": "media/cached-image_be00e22f58dfaae479953008ceeea88a3ca09a48704dd989c68e1701a61e9c4d.jpg"
+        },
+        {
+          "url": "media/cached-image_af403bcac298661a255dbdeac87d339c577f44be7298f55a8968351907394ea6.jpg"
+        },
+        {
+          "url": "media/cached-image_ac98c9a682c065796ae6bcffd8ef724b6f66d50a57ed00d766b0574c3e01fd2a.jpg"
+        },
+        {
+          "url": "media/cached-image_c2098631e40fb129fdde029df302665cb6e9c5b9d70376a1dac87d8960019463.jpg"
+        }
+      ],
+      "type": "サービスエリア / パーキング エリア",
+      "categories": [
+        "サービスエリア / パーキング エリア"
+      ],
+      "rating": 3.8,
+      "reviewCount": 608,
+      "priceLevel": null,
+      "address": "地先 海ほたる, Nakajima, Kisarazu, Chiba 292-0008, Japan",
+      "city": "Kisarazu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4637443,139.8750604,3a,75y,229.52h,95.05t/data=!3m7!1e1!3m5!1sj8SOLX884i5VVgrpORjHGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dj8SOLX884i5VVgrpORjHGg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D12.44788%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Umihotaru, the artificial island rest stop on Tokyo Bay Aqua-Line, appears in episode 12 during an emotionally charged road-trip scene where Kyousuke and Kirino share a pivotal conversation about their relationship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKTP54qeOGGARsZf1fyU2jxU",
+      "name": "Akihabara Station",
+      "localName": "秋葉原駅",
+      "coordinates": {
+        "lat": 35.6990075,
+        "lng": 139.7726435
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e7fb2e0-a610-4e15-9a02-bac5dd3bf968.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e7fb2e0-a610-4e15-9a02-bac5dd3bf968.webp"
+        },
+        {
+          "url": "media/cached-image_988d5fa52dcd4e10468a38f5fcd8904c763a01bfb0f511f301d56d1301df6357.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Sotokanda, Chiyoda City, Tokyo, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/%E7%A7%8B%E8%91%89%E5%8E%9F%E9%A7%85%E9%9B%BB%E6%B0%97%E8%A1%97%E5%8F%A3%E3%80%90%E8%A5%BF%E5%81%B4%E5%BA%83%E5%A0%B4%E3%80%91/@35.6990075,139.7726435,3a,48.9y,138.15h,85.05t/data=!3m6!1e1!3m4!1sn7Zw_DEd0tpC7oaICWBifQ!2e0!7i16384!8i8192!4m6!3m5!1s0x60188f5d0103c7cf:0xc66678cb0bb6d45b!8m2!3d35.6987279!4d139.7726305!16s%2Fg%2F11sv1bfnq6?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Akihabara Station is the recurring arrival point throughout the series whenever Kirino and Kyousuke head into the otaku district together, making it the symbolic gateway to Kirino's secret world.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjbq5s-mJGGAR0GKPNjCtoPQ",
+      "name": "Kokusai-tenjij0 Station",
+      "localName": "国際展示場駅",
+      "coordinates": {
+        "lat": 35.63427,
+        "lng": 139.79169
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7f23029-df0a-40f1-9b33-a017b0e64792.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7f23029-df0a-40f1-9b33-a017b0e64792.webp"
+        },
+        {
+          "url": "media/cached-image_4f78ca07bf7bb22462b6784c19948be3312ad51f617294963d6b69e5ecbfc5d4.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3-chōme-7 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6339909,139.7915757,3a,25y,11.43h,91.36t/data=!3m7!1e1!3m5!1sOmKb_N0VRjO_P2Nioco0Iw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3629157575479809%26panoid%3DOmKb_N0VRjO_P2Nioco0Iw%26yaw%3D11.428849881622602!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This is the station Kirino and Kyousuke use to reach Comiket at Tokyo Big Sight in episode 4, marking Kyousuke's first experience attending a doujin convention to support his sister."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ18IK6x2KGGARKTc2yLS-030",
+      "name": "Odaiba Marine Park",
+      "localName": "お台場海浜公園",
+      "coordinates": {
+        "lat": 35.6301524,
+        "lng": 139.7753413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ad17d7f-df73-49e6-9346-cf4bb1efa0e3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ad17d7f-df73-49e6-9346-cf4bb1efa0e3.webp"
+        },
+        {
+          "url": "media/cached-image_074b321197fb1c0a73652ba559d05ddaa3a669e08ec544a178cdb54d40475d42.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6301524,139.7753413,3a,75y,316.1h,96.7t/data=!3m6!1e1!3m4!1sTi_o_3j5YzuIjG9GYj5-ag!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Odaiba Marine Park is featured in episode 9 as a scenic waterfront setting where the siblings share downtime, the Rainbow Bridge visible in the background much as it appears in the anime's Odaiba scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZamBlU2DImARbkg8GRGKxtA",
+      "name": "Chiba Prefectural Makuhari Seaside Park A Block",
+      "localName": "千葉県立幕張海浜公園Aブロック",
+      "coordinates": {
+        "lat": 35.6494834,
+        "lng": 140.046581
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b5c625b9-1ae3-49dd-a126-6182713e1dfd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b5c625b9-1ae3-49dd-a126-6182713e1dfd.webp"
+        },
+        {
+          "url": "media/cached-image_4382b0d3222d2a7b460ad15ee5ae5caa8ced022c3f8b60f3e8543c41e75515c5.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-110 Hibino, Mihama Ward, Chiba, 261-0021, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6494834,140.046581,2a,48y,314.19h,89.76t/data=!3m7!1e1!3m5!1sNBA4KHsrj96PXDx6BRYNYQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNBA4KHsrj96PXDx6BRYNYQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D165.51277%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Makuhari seaside park area represents the coastal neighborhood near Kirino's Chiba home, referenced in episode 3 as part of establishing the mundane suburban life she hides her otaku hobbies from."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw83NILyEImARVSC9KiyK4AI",
+      "name": "Chiba Park",
+      "localName": "千葉公園",
+      "coordinates": {
+        "lat": 35.61859,
+        "lng": 140.11698
+      },
+      "image": "https://cdn.animepilgrimage.com/places/11669813-7a1c-4384-8cd6-935b131eb598.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/11669813-7a1c-4384-8cd6-935b131eb598.webp"
+        },
+        {
+          "url": "media/cached-image_0042158c158c08fd4eefcc3f4a045794e0c74dbac40cb1c34d266d520e43c404.jpg"
+        },
+        {
+          "url": "media/cached-image_3c4b6277b19b1fa8de88ffce0981570fc04162e05f4478f0f018314f0eac0202.jpg"
+        },
+        {
+          "url": "media/cached-image_39f9075ada8022b5d95b033f2fd5bcb535f1e23bf5827680b7a00eee4b69c06d.jpg"
+        },
+        {
+          "url": "media/cached-image_002b9938c0c96f4ee0aafbf3157113a66132c5e4f302c6af42d7f6b0a2ad9b53.jpg"
+        },
+        {
+          "url": "media/cached-image_9b01e06f158df05522f833085ce9c62a3ffc73808e4e8c1b7b7c24d94254c499.jpg"
+        },
+        {
+          "url": "media/cached-image_bd52b3aaa4fc15559ad6141586782e56345de90bc6fc3329f01d7cb705569aef.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.1,
+      "reviewCount": 266,
+      "priceLevel": null,
+      "address": "3 Chome-1-1 Benten, Chuo Ward, Chiba, 260-0045, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6185837,140.1169586,3a,75y,172.02h,96.87t/data=!3m8!1e1!3m6!1sAF1QipMaOUDgVH7fj8me00BsNsMHDsXg9HbPBjN1qwqI!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMaOUDgVH7fj8me00BsNsMHDsXg9HbPBjN1qwqI%3Dw900-h600-k-no-pi-6.8687286571676225-ya172.02250988748332-ro0-fo100!7i9736!8i4868?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chiba Park, near Kirino's home district, is used in episode 3 to depict the ordinary neighborhood surroundings that contrast sharply with her secret life as a passionate otaku."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAVf7lh2MGGARJylRnQ_3dpI",
+      "name": "Animate Akihabara",
+      "localName": "アニメイト秋葉原",
+      "coordinates": {
+        "lat": 35.7005016,
+        "lng": 139.7714162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6cec2f3e-0e44-433a-8093-c71a88575887.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6cec2f3e-0e44-433a-8093-c71a88575887.webp"
+        },
+        {
+          "url": "media/cached-image_3444735c0be937cda1ec66f7fb73d37303630c79256a6c492d33af20c0525fda.jpg"
+        }
+      ],
+      "type": "コミック書店",
+      "categories": [
+        "コミック書店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-3-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7005016,139.7714162,3a,66.4y,91.93h,97.44t/data=!3m6!1e1!3m4!1s8piFviYB9NzC4oK4QmFXaQ!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Animate Akihabara is one of the shops Kirino and Kyousuke visit in episode 2 during their first Akihabara outing, where Kirino confidently navigates the anime and manga section as a seasoned collector."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6573445c-0824-473c-8c5c-357e1ea97e30.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6573445c-0824-473c-8c5c-357e1ea97e30.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Akihabara UDX appears in episode 10 as part of the Akihabara streetscape during an outing with Kyousuke and the otaku friend group, its distinctive modern exterior a recognizable landmark of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_5Afe7yEImAR38U6gNSx0MY",
+      "name": "Chiba City Central Library",
+      "localName": "千葉市 中央図書館",
+      "coordinates": {
+        "lat": 35.618141099999995,
+        "lng": 140.1143017
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55c7e6ab-9fcf-4e96-af52-52265503dd7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55c7e6ab-9fcf-4e96-af52-52265503dd7d.webp"
+        },
+        {
+          "url": "media/cached-image_3005dd03d655cb7bdd9212aa481a1cbb8114bdde9ffee6b2f03e33a91534fb82.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chiba City Central Library, 千葉市中央図書館 3 Chome-7-7 Benten, Chuo Ward, Chiba, 260-0045, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6175133,140.1136307,3a,90y,0.22h,100.77t/data=!3m7!1e1!3m5!1sn_zDbjs6fKgLtp8rWHlImA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.765150910744168%26panoid%3Dn_zDbjs6fKgLtp8rWHlImA%26yaw%3D0.21760870697278278!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chiba City Central Library is depicted in episode 3 as a quiet local spot near Kirino's neighborhood, showing the ordinary city life she inhabits while concealing her passionate hobby from classmates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN9tTFR2MGGARSXZz9vM1VTY",
+      "name": "Mitsuwa Denki",
+      "localName": "ミツワデンキ",
+      "coordinates": {
+        "lat": 35.6985871,
+        "lng": 139.7714904
+      },
+      "image": "https://cdn.animepilgrimage.com/places/656ec222-ff07-4c5e-a434-762b3b47dd1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/656ec222-ff07-4c5e-a434-762b3b47dd1c.webp"
+        },
+        {
+          "url": "media/cached-image_a2af44999e2247a29d71d01987e9e26884f26455f5f8a25e5d413cc97c53d8cf.jpg"
+        }
+      ],
+      "type": "Lighting store",
+      "categories": [
+        "Lighting store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mitsuwa Denki, 1 Chome-14-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.69867,139.7715574,3a,90y,186.96h,103.78t/data=!3m7!1e1!3m5!1szmoeN2rL8CvqQZhv6saqjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.784939786958688%26panoid%3DzmoeN2rL8CvqQZhv6saqjQ%26yaw%3D186.9642401995076!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Mitsuwa Denki, a small Akihabara shop, is part of the Akihabara streetscape seen in episode 3 as Kirino makes the rounds of the district's specialized electronics and hobby stores."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oreimo_14",
+      "name": "Mochida Rice Store",
+      "localName": "持田米店",
+      "coordinates": {
+        "lat": 35.61991,
+        "lng": 140.1113
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6196989,140.1113224,3a,36.4y,5.75h,92.46t/data=!3m7!1e1!3m5!1sCQfQrzRvG4yus_6X-EnzmQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4568746918036197%26panoid%3DCQfQrzRvG4yus_6X-EnzmQ%26yaw%3D5.750814769037845!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "SP",
+      "episodeNumber": 2,
+      "entityContext": "This small Chiba storefront is identified as a background location in Oreimo Special 2, representing the residential Chiba neighborhood streets that form the backdrop of Kirino's everyday life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeftDEK2LGGARMtElDLQ5dtU",
+      "name": "Japan Coast Guard Large Survey Vessel Dedicated Quay",
+      "localName": "海上保安庁大型測量船専用岸壁",
+      "coordinates": {
+        "lat": 35.6258729,
+        "lng": 139.7671145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55d8b820-d1ae-42eb-86ce-5857c56e8bec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55d8b820-d1ae-42eb-86ce-5857c56e8bec.webp"
+        },
+        {
+          "url": "media/cached-image_2b1c5a4543feb38aa061a72307ae69e5f4c62393e38454025f7084a1930565a9.jpg"
+        }
+      ],
+      "type": "Local government office",
+      "categories": [
+        "Local government office"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan Coast Guard Large Survey Vessel Dedicated Quay, 1 Chome-1-4 Higashiyashio, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.626162,139.7686244,2a,75y,338.87h,100.54t/data=!3m7!1e1!3m5!1s36qTLAjv839d6yGzMrnH_g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.541153414496932%26panoid%3D36qTLAjv839d6yGzMrnH_g%26yaw%3D338.8673077897006!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This waterfront quay near Odaiba is used in episode 9 as part of the Tokyo Bay seaside setting where Kirino and Kyousuke spend time together, the industrial harbor adding texture to the Odaiba area scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhb2_wLxgGGARjj5o7B2eQBg",
+      "name": "Suehiroan",
+      "localName": "菓子匠末広庵 本店",
+      "coordinates": {
+        "lat": 35.528433899999996,
+        "lng": 139.702379
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c5d6459-beac-43da-803f-d62095518f34.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c5d6459-beac-43da-803f-d62095518f34.webp"
+        },
+        {
+          "url": "media/cached-image_df3093bde7fdae5e21cfb548427e75e9ada51dddab4707195332645022031baa.jpg"
+        }
+      ],
+      "type": "Japanese sweets restaurant",
+      "categories": [
+        "Japanese sweets restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Suehiroan, 3-16 Higashidacho, Kawasaki Ward, Kawasaki, Kanagawa 210-0005, Japan",
+      "city": "Kawasaki",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7344001,139.6387296,3a,63.4y,136.18h,100.27t/data=!3m7!1e1!3m5!1sZk-ghXjFYgrmy4Pvgq-sVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.266257509137986%26panoid%3DZk-ghXjFYgrmy4Pvgq-sVw%26yaw%3D136.18176293917784!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Suehiroan, a traditional Japanese sweets shop in Kawasaki, appears in episode 8 during an outing that shows Kyousuke accompanying Kirino and her friend Kanako outside of Akihabara."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQY4mB2MGGARgn-IBKS98Q8",
+      "name": "TAITO Station Akihabara",
+      "localName": "タイトーステーション 秋葉原店",
+      "coordinates": {
+        "lat": 35.7002996,
+        "lng": 139.7713889
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8fc7ad0e-60ab-4aa5-b844-1126e0c101fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8fc7ad0e-60ab-4aa5-b844-1126e0c101fb.webp"
+        },
+        {
+          "url": "media/cached-image_1ebbdf34fde154f9cd1f673d89bf61536237f0464dab03bc8ea977589745fbe7.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "貴三ビル, 4 Chome-2-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7002996,139.7713889,3a,46.4y,99.32h,92.45t/data=!3m7!1e1!3m5!1sYPDZ8iOLI0ZlMgnfb2JJaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYPDZ8iOLI0ZlMgnfb2JJaA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D61.34616%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "TAITO Station arcade in Akihabara is visited in episode 10, where the group of friends play games together, giving a slice-of-life break from the usual anime shopping that defines the series' Akihabara scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhxxszamMGGARcuAXpFunolU",
+      "name": "Shibuya 109",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6594333,
+        "lng": 139.6992616
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ed337cf-3a48-4f56-abbe-d7c1f63ac06d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ed337cf-3a48-4f56-abbe-d7c1f63ac06d.webp"
+        },
+        {
+          "url": "media/cached-image_57af02ace4c0de207092cb7f6e9d1eb579cda761046bfd9ffbc9e9a515bb2eba.jpg"
+        },
+        {
+          "url": "media/cached-image_a44eac7208b1d24df231f8e1b0018de51ddc21ae54645725bea8fd9536341b61.jpg"
+        },
+        {
+          "url": "media/cached-image_90e301c727bfcd1e8ad0973dbcc44bced8599436b1690888bc6122bf9546d0e2.jpg"
+        },
+        {
+          "url": "media/cached-image_9016e360fbc02e9166ce945c7292b70c9600192940efe91987c28a7744e23c4a.jpg"
+        },
+        {
+          "url": "media/cached-image_871dfd87d967f7f24bf6a43c755c451b396fe5a92171215545f5026a5b12efc1.jpg"
+        },
+        {
+          "url": "media/cached-image_5f45e4fbd09eb4484efbbac1b7037af794bb45af88995b8cbda14885ee2fff07.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.6,
+      "reviewCount": 554,
+      "priceLevel": null,
+      "address": "2 Chome-29-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594333,139.6992616,3a,40.7y,304.18h,93.4t/data=!3m6!1e1!3m4!1su5Fg6cC55lWnVs2GwfVuyg!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Shibuya 109, the iconic fashion landmark, is visited by Kirino in episode 7 during a Shibuya outing, contrasting her stylish gyaru public persona with the otaku identity she keeps hidden."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9306WbDtGGAR8N1hWnhy5cc",
+      "name": "NAKAMURABASHI Sta.",
+      "localName": "中村橋駅",
+      "coordinates": {
+        "lat": 35.7367272,
+        "lng": 139.6379306
+      },
+      "image": "https://cdn.animepilgrimage.com/places/621aec54-5a54-4b7f-927e-df71ba44788f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/621aec54-5a54-4b7f-927e-df71ba44788f.webp"
+        },
+        {
+          "url": "media/cached-image_e3296d3e8f01c8657f63fc4b7cf01735a61a6442d3044582f1b909fe02ef4d2e.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-2-1 Nakamurakita, Nerima City, Tokyo 176-0023, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7367272,139.6379306,2a,90y,88.25h,95.31t/data=!3m6!1e1!3m4!1slVDQlHDHptpxu8XUZE7FDg!2e0!7i13312!8i6656?hl=en&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Nakamurabashi Station in Nerima appears in episode 8 as part of a scene set in a quiet residential Tokyo neighborhood, visited during an outing with Kyousuke and Kirino's friend Kanako."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f41a665-7380-4ffc-8b8e-f1893a111b07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f41a665-7380-4ffc-8b8e-f1893a111b07.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Tokyo Big Sight is the Comiket venue where Kirino drags a bewildered Kyousuke in episode 4 to experience a doujin convention firsthand, a scene that perfectly captures the scale and energy of Japan's largest fan event.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/66d74c72-a8cb-48a7-ae80-37e950d7c539.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/66d74c72-a8cb-48a7-ae80-37e950d7c539.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Shibuya Scramble Crossing is seen in episode 7 as Kirino and Kyousuke navigate Shibuya, the famous intersection emphasizing the contrast between Kirino's fashionable public image and her secret otaku life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn9Z0uUuFImARUCuymmPh2og",
+      "name": "Runway Nishi-Chiba",
+      "localName": "Club Runway",
+      "coordinates": {
+        "lat": 35.608253,
+        "lng": 140.11836359999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1526b03-17b5-48a8-bd93-631ef7f43a46.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1526b03-17b5-48a8-bd93-631ef7f43a46.webp"
+        },
+        {
+          "url": "media/cached-image_8f5e755b13c76c9ee153f20f85253c20270b705adb82ffe03c4f994ff989517b.jpg"
+        },
+        {
+          "url": "media/cached-image_ddccba98c60cec89ce4d678fd11ee1fb10e7463132aba397fd42e233ee7156f2.jpg"
+        },
+        {
+          "url": "media/cached-image_21e1e05852a31f0fb69f52748437834468f6a40ee67d1a15c25abb7eaeca5451.jpg"
+        },
+        {
+          "url": "media/cached-image_16283a64920d873a912d74e4034cfb0b97fb7cf3266ebceb24e72bbbddeb4701.jpg"
+        },
+        {
+          "url": "media/cached-image_1cf75d60b449808bc10edf794469b5ca86805ab6e74ae0dd43d0c102b8249f9e.jpg"
+        }
+      ],
+      "type": "Cabaret club",
+      "categories": [
+        "Cabaret club"
+      ],
+      "rating": 5,
+      "reviewCount": 63,
+      "priceLevel": null,
+      "address": "CLUB Runway, 千葉プリマビル 5F 2 Chome-23-9 Fujimi, Chuo Ward, Chiba, 260-0015, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6189133,140.1114989,3a,90y,307h,98.39t/data=!3m7!1e1!3m5!1sZsMeVaKERNxpDahb8woKYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.393611614499633%26panoid%3DZsMeVaKERNxpDahb8woKYg%26yaw%3D306.99849323762595!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Chiba nightlife venue area is referenced in episode 5 in a scene tied to Kirino's friend Kanako and her idol activities, set against the Chiba city backdrop that anchors much of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkfvnCVnnDF8RBjek3XKx53Q",
+      "name": "Times No B Matsunami 3 - 1 - 13 Parking Lot",
+      "localName": "タイムズのB 旭川３条通１３丁目駐車場",
+      "coordinates": {
+        "lat": 43.764739999999996,
+        "lng": 142.36912999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20386878-7090-403c-b213-b4236ec9d3b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20386878-7090-403c-b213-b4236ec9d3b9.webp"
+        },
+        {
+          "url": "media/cached-image_42a33a78c53886f0ce6f0bbecbb06eac66c5d36ad6ec4eacecdfa8b37833c429.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Times No B Asahikawa 3 Jodori 13-chome Parking Lot, 13 Chome-595 3 Jodori, Asahikawa, Hokkaido 070-0033, Japan",
+      "city": "Asahikawa",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6188029,140.1119277,3a,90y,252.01h,97.92t/data=!3m7!1e1!3m5!1snEqowaf2_FPt_O_y5PKGVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.9198918601312585%26panoid%3DnEqowaf2_FPt_O_y5PKGVA%26yaw%3D252.0056856826901!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy1iBgVeLGGARGz2NG2eQKOs",
+      "name": "FamilyMart Shibuya Udagawa Koban-mae",
+      "localName": "ファミリーマート 渋谷宇田川交番前店",
+      "coordinates": {
+        "lat": 35.6609711,
+        "lng": 139.69786299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1efe7f37-ff90-4a5a-b6a8-ac9ff99b58e2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1efe7f37-ff90-4a5a-b6a8-ac9ff99b58e2.webp"
+        },
+        {
+          "url": "media/cached-image_78c139ba836919446eed047ca1d81b3ffd67f3f5f013d80d467fdfe7d37f077d.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 32-15 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6610053,139.6979814,3a,75y,258.97h,99.95t/data=!3m7!1e1!3m5!1sLKx0y2zIFD2le6Vgkyre5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.947505382926323%26panoid%3DLKx0y2zIFD2le6Vgkyre5w%26yaw%3D258.9736688386495!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This FamilyMart near Shibuya appears in episode 7 during the Shibuya shopping sequence when Kirino and Kyousuke stop around the Udagawa area, a background location in the series' Shibuya scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwY5Lb4-BImARWNyR7mOTDnA",
+      "name": "Makuhari Funadamariato Park",
+      "localName": "幕張舟溜跡公園",
+      "coordinates": {
+        "lat": 35.6575577,
+        "lng": 140.0487846
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ea73cf7-4519-43d0-b71a-db5329dd72f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ea73cf7-4519-43d0-b71a-db5329dd72f2.webp"
+        },
+        {
+          "url": "media/cached-image_a5e4271d59c1e1e5333f382361bf5dfd5be5d7cbc6ffc56a23efb551615daa3a.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Makuhari Funadamariato Park, 3 Chome-7730-2 Makuharicho, Hanamigawa Ward, Chiba, 262-0032, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6570027,140.0487083,3a,90y,341.32h,76.45t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEoqve3QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1OewQWL8pumy7hqT0rU9vv3tNkKt0eme-KFsf17yrfwWv9uBgvQQemFwvbe-QOMqBuQDIy2WW6NC0zUuvrgneEJFEGa7blSYDw8fBOTki9MYUNp4UaXorss3GV3w12QhxwLps1_Q%3Dw900-h600-k-no-pi13.546019453022737-ya9.315513620471222-ro0-fo100!7i2508!8i1254?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small park in the Makuhari area of Chiba is depicted in episode 5 as part of the residential coastal neighborhood near Kirino's home, grounding the story in real Chiba geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oreimo_26",
+      "name": "Moden Industry Co.",
+      "localName": "モデン工業（株）",
+      "coordinates": {
+        "lat": 35.6193,
+        "lng": 140.11145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78f19983-5a13-4784-9022-5da307839157.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78f19983-5a13-4784-9022-5da307839157.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6190621,140.111514,3a,40.7y,358.8h,95.72t/data=!3m7!1e1!3m5!1stplUdQTYu_2FyERRiMkmYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.718637300112107%26panoid%3DtplUdQTYu_2FyERRiMkmYg%26yaw%3D358.79824371286526!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "SP",
+      "episodeNumber": 1,
+      "entityContext": "This Chiba-area building facade appears in Oreimo Special 1 as a background location in the neighborhood streets of Kirino's hometown, a documented pilgrimage spot for fans tracing the show's Chiba settings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJibH834XqGGARxKZVLgAuJjI",
+      "name": "Tsukinomiya Shrine",
+      "localName": "調神社",
+      "coordinates": {
+        "lat": 35.8534989,
+        "lng": 139.655668
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2ae0726-bfb3-4861-a06f-093a81731958.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2ae0726-bfb3-4861-a06f-093a81731958.webp"
+        },
+        {
+          "url": "media/cached-image_8bfbd3f2192283feb40fd6777281f63b64c5a5123648f240de776f6a1233c07e.jpg"
+        },
+        {
+          "url": "media/cached-image_702b1c1cfae4499f7477142b6e6acb3fed8cb5824c54d925dc79c7d3a5a022f0.jpg"
+        },
+        {
+          "url": "media/cached-image_cabf49ffa10b1a84e7f7e275e92cb072d852f32211a32166e756efe08e2f7743.jpg"
+        },
+        {
+          "url": "media/cached-image_6c4b3f1f57b8c1cee5d8e6d4613779fab2596fc1e2a0fb729c4b0457369703dd.jpg"
+        },
+        {
+          "url": "media/cached-image_e8a2e71ab7948122ef9ba0fb9198f583eff30b808078fc0e24b54c9ab265a576.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2976,
+      "priceLevel": null,
+      "address": "Tsukinomiya Shrine, 3 Chome-17-25 Kishicho, Urawa Ward, Saitama, 330-0064, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8533916,139.6554072,3a,73.2y,189.94h,100.17t/data=!3m8!1e1!3m6!1sAF1QipPQOy2afZQlzYWS2hGEAVGCXu6sOtDJhsOMqMfd!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPQOy2afZQlzYWS2hGEAVGCXu6sOtDJhsOMqMfd%3Dw900-h600-k-no-pi-10.168723402478918-ya283.039987619537-ro0-fo100!7i9728!8i4864?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Tsukinomiya Shrine in Saitama is the setting for the emotional final episode 12 scenes, where Kyousuke confesses his feelings to Kirino after running to meet her, one of the most discussed moments in the series' conclusion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS6eXQB2MGGAR9W0Xk2Q7B3Y",
+      "name": "Akihabara Gamers",
+      "localName": "AKIHABARAゲーマーズ本店",
+      "coordinates": {
+        "lat": 35.6981834,
+        "lng": 139.7715103
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7344fd0f-c8ed-4cb0-a703-fa1cd8460cf6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7344fd0f-c8ed-4cb0-a703-fa1cd8460cf6.webp"
+        },
+        {
+          "url": "media/cached-image_ddf8d3d1cae48b227de6610af3d096fd5351bfd0ef52c3d92c19e25d8de2c38e.jpg"
+        },
+        {
+          "url": "media/cached-image_13ad3869aeaeca7e5307569fd01b4464622daf19a7fbcd230ab045c2d702baee.jpg"
+        }
+      ],
+      "type": "ホビーショップ",
+      "categories": [
+        "ホビーショップ"
+      ],
+      "rating": 4.2,
+      "reviewCount": 52,
+      "priceLevel": null,
+      "address": "1 Chome-14-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981834,139.7715103,3a,75y,115.99h,110.6t/data=!3m7!1e1!3m5!1snN8DjsyAU3-XjynSiLpFjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DnN8DjsyAU3-XjynSiLpFjQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D251.44255%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Akihabara Gamers is one of the first stores Kirino brings Kyousuke to in episode 2, introducing him to her world of anime and games and marking the beginning of their life-counseling arrangement."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oreimo_29",
+      "name": "Saito Shoe Store",
+      "localName": "斉藤靴店",
+      "coordinates": {
+        "lat": 35.61984,
+        "lng": 140.10779
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8bb04a5d-2dbd-490e-a8fe-8c5ae69b7e20.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8bb04a5d-2dbd-490e-a8fe-8c5ae69b7e20.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6198734,140.1077307,3a,64.3y,115.27h,95.2t/data=!3m7!1e1!3m5!1sk6LZspN2qKu3HUKDYxXhlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.197959127234057%26panoid%3Dk6LZspN2qKu3HUKDYxXhlQ%26yaw%3D115.27230297129655!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small Chiba storefront is a documented background location appearing in episode 1 of Oreimo, set in the residential Chiba streets near the Kousaka family home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBztW3x2MGGARadHYl5vTEK0",
+      "name": "Akihabara Gachapon Hall",
+      "localName": "秋葉原ガチャポン会館",
+      "coordinates": {
+        "lat": 35.7018425,
+        "lng": 139.77122559999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2b1c0c1-6805-4b6c-b83a-b760dad3efea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2b1c0c1-6805-4b6c-b83a-b760dad3efea.webp"
+        }
+      ],
+      "type": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Akihabara Gachapon Hall, MNビル 1F 3 Chome-15-5 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7019403,139.771216,3a,90y,156.68h,111.4t/data=!3m7!1e1!3m5!1smhfJuvyB2EclQ7EymLt6xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.402546441072673%26panoid%3DmhfJuvyB2EclQ7EymLt6xA%26yaw%3D156.67705262857973!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Akihabara Gachapon Hall is among the Akihabara shops in the background of episode 2 during Kirino and Kyousuke's first Akihabara tour, its rows of capsule machines a quintessential part of the district's otaku culture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUc5Lnh2MGGAR_W8h2YVIXqo",
+      "name": "McDonald's. BIC CAMERA AKIBA",
+      "localName": "マクドナルド ビックカメラＡＫＩＢＡ店",
+      "coordinates": {
+        "lat": 35.699768999999996,
+        "lng": 139.771827
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e14347e0-b91c-4a9d-ae2e-e821fc011ff1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e14347e0-b91c-4a9d-ae2e-e821fc011ff1.webp"
+        },
+        {
+          "url": "media/cached-image_34535595ed9d082581e8225a7a477896267ae4e977d240deb1d267906218b2b5.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's. BIC CAMERA AKIBA, 4 Chome-1-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6996379,139.7718258,3a,75y,30.31h,94.78t/data=!3m7!1e1!3m5!1s3o4EYtq7whApNPd4zOxkEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.777619207361269%26panoid%3D3o4EYtq7whApNPd4zOxkEA%26yaw%3D30.311964152803455!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The BIC Camera Akiba area McDonald's appears in the background of episode 2 during Kirino and Kyousuke's first Akihabara outing, anchoring the scene in the recognizable streetscape at the heart of the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPz7b8yzzGGARwCxonSItY08",
+      "name": "FamilyMart Nishishinjuku 3-chome",
+      "localName": "ファミリーマート 西新宿三丁目店",
+      "coordinates": {
+        "lat": 35.6858638,
+        "lng": 139.6889914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05116946-e2ec-4e27-9412-0305b7f839e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05116946-e2ec-4e27-9412-0305b7f839e8.webp"
+        },
+        {
+          "url": "media/cached-image_a95dfd14e1f5ed09a3166cdfa7c4167c8f7a33bc03aff21f8cd0c4f979ebd1db.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Nishishinjuku 3-chome, １ 3 Chome-11-20 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6859908,139.688994,3a,75y,268.35h,99.28t/data=!3m7!1e1!3m5!1s2toa816BwjozlWefjxGgkg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.277060423264771%26panoid%3D2toa816BwjozlWefjxGgkg%26yaw%3D268.3450238100547!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Shinjuku convenience store appears in episode 8 as a background location during an outing in the Shinjuku area, reflecting the series' habit of grounding character interactions in identifiable Tokyo streetscapes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oreimo_33",
+      "name": "Stone & Light Plaza",
+      "localName": "石と光の広場",
+      "coordinates": {
+        "lat": 35.63284,
+        "lng": 139.79155
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc6fa231-6312-47ad-b0d4-7df1071a24b6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc6fa231-6312-47ad-b0d4-7df1071a24b6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6327054,139.7917077,3a,75y,284.77h,105.81t/data=!3m7!1e1!3m5!1sXVM5tzQfaZc0yQRbjWni_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.814902327978743%26panoid%3DXVM5tzQfaZc0yQRbjWni_Q%26yaw%3D284.7683477238641!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Stone and Light Plaza near Tokyo Big Sight is depicted in episode 4 as part of the approach to the Comiket venue, seen as Kirino and Kyousuke make their way through the Ariake district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8ek7gk2EImARhmEFMiHQxlQ",
+      "name": "Adores Chiba",
+      "localName": "アドアーズ 千葉北店",
+      "coordinates": {
+        "lat": 35.6601711,
+        "lng": 140.13947349999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9910a10-a840-4d67-81be-e9cedd8b1d26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9910a10-a840-4d67-81be-e9cedd8b1d26.webp"
+        },
+        {
+          "url": "media/cached-image_6d562f10a6d193c4d9c92027030a48a790a992902b1841f88b85ad5d5b6f0dd3.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": 2,
+      "reviewCount": 139,
+      "priceLevel": null,
+      "address": "Game Fantasia Chiba North, 310-1 Sannocho, Inage Ward, Chiba, 263-0002, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.611038,140.1161419,3a,90y,132.1h,101.82t/data=!3m7!1e1!3m5!1s8mOI3kVEdweQhGcvfPOSuA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.817295582755008%26panoid%3D8mOI3kVEdweQhGcvfPOSuA%26yaw%3D132.10213010933563!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Adores Chiba arcade appears in episode 3 as a local entertainment spot in the Chiba area, part of the everyday city backdrop that contextualizes Kirino's suburban life alongside her secret otaku passion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_8Hfg7qEImARVz1eWzGQD4Y",
+      "name": "Chiba Station",
+      "localName": "千葉駅",
+      "coordinates": {
+        "lat": 35.6129259,
+        "lng": 140.11347809999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e949707-1cab-42c6-819e-21aa4c136751.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e949707-1cab-42c6-819e-21aa4c136751.webp"
+        },
+        {
+          "url": "media/cached-image_a1a715896765535856bbe7b9b8fb0b8872b7c96d0933b9a81d76384d1bafca10.jpg"
+        }
+      ],
+      "type": "Transport hub",
+      "categories": [
+        "Transport hub"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chiba Station, Chuo Ward, Chiba, Japan",
+      "city": "Chiba",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6127053,140.1144301,3a,90y,358.96h,110.74t/data=!3m8!1e1!3m6!1sAF1QipOS3OXyR9u435bppIGxzSbvVULwbmSTxjO7hBFZ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOS3OXyR9u435bppIGxzSbvVULwbmSTxjO7hBFZ%3Dw900-h600-k-no-pi-20.736008908095798-ya332.71352648359857-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Chiba Station is the main transit hub for Kirino's hometown and is featured in episode 3 as Kyousuke navigates the Chiba area, the station serving as an anchor for the many Chiba-set scenes throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBw9w4HifGWARDWj_NHxseS0",
+      "name": "Kamiyama Mountain Climbing Course",
+      "localName": "大涌谷自然研究路",
+      "coordinates": {
+        "lat": 35.240143599999996,
+        "lng": 139.0189724
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1dc97a9-f20b-4b0f-a42f-284a31d7ae7a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1dc97a9-f20b-4b0f-a42f-284a31d7ae7a.webp"
+        },
+        {
+          "url": "media/cached-image_027b0c1a705c81c59b7f3a4c2829f9ea709ad491d2abee6078c9585322ff39e2.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Owakudani Nature Research Trail, Motohakone, Hakone, Ashigarashimo District, Kanagawa 250-0522, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2400725,139.018796,3a,43y,264.84h,97.01t/data=!3m8!1e1!3m6!1sAF1QipO7Aupvq7jNBUdNzwEzmHVZys0i_FtSOkn5K4n_!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipO7Aupvq7jNBUdNzwEzmHVZys0i_FtSOkn5K4n_%3Dw900-h600-k-no-pi-7.007492557506168-ya264.8405936708314-ro0-fo100!7i7224!8i3612?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Owakudani area in Hakone is visited in episode 12 during Kyousuke and Kirino's final outing together before she leaves for America, a bittersweet excursion that forms the emotional core of the series finale.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp8wouDSNGGARV-1E0pJ77kY",
+      "name": "Sofmap Akiba Ekimae (in front of the station)",
+      "localName": "ソフマップ AKIBA 駅前館",
+      "coordinates": {
+        "lat": 35.6980849,
+        "lng": 139.7722653
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cce5b834-adb6-4342-8282-3cd06b53896a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cce5b834-adb6-4342-8282-3cd06b53896a.webp"
+        },
+        {
+          "url": "media/cached-image_86b4fa80e4871be54721a9c5ab2cf10d818b15674ca4dace64da5abcd365d788.jpg"
+        },
+        {
+          "url": "media/cached-image_21c681a8b18329759a227b65941b269dca6092b2b1bf692b47c61aab7e3bb253.jpg"
+        },
+        {
+          "url": "media/cached-image_f14f7dd54bd23169ce516101e1fe39cd51f89cecdac2967820efa1efeb574293.jpg"
+        },
+        {
+          "url": "media/cached-image_8e0404802c1c95c042223c962f0af62b2b402d663ce97f6c9711987ffb50f737.jpg"
+        },
+        {
+          "url": "media/cached-image_13b4144a5085a6a020d87f8237906af893cef162f31695d9e3578f6ff4d22515.jpg"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sofmap AKIBA Ekimae, 1 Chome-15-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981799,139.7722414,3a,90y,166.24h,119.2t/data=!3m7!1e1!3m5!1sLbFQ3fSUIp6ZadLbzqhtDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-29.204659610319936%26panoid%3DLbFQ3fSUIp6ZadLbzqhtDw%26yaw%3D166.24087259387065!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Sofmap's station-front Akihabara branch is seen in episode 12, one of the Akihabara stops during the series' closing episodes as Kyousuke and Kirino make the most of their remaining time together in the district."
+    }
+  ]
+}

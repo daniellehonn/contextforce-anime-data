@@ -1,0 +1,378 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Ruri Rocks",
+  "slug": "ruri-rocks",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3d90a51fa58728b21bda500cfa357428e3d0f9e7e2b3ff70235fa299307a566c.webp",
+  "image": "media/cached-image_3d90a51fa58728b21bda500cfa357428e3d0f9e7e2b3ff70235fa299307a566c.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.9930765,
+    "lng": 137.92811934444447
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Ruri Rocks"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ301EeU2JHWARItKynFpZ5Gg",
+      "name": "Roadside Station Oasis Obuse",
+      "localName": "道の駅 オアシスおぶせ",
+      "coordinates": {
+        "lat": 36.6893483,
+        "lng": 138.2945272
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ba6cc58e-2183-4a98-b652-c36de4754048.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ba6cc58e-2183-4a98-b652-c36de4754048.webp"
+        },
+        {
+          "url": "media/cached-image_3acec184a36d3b8670b9caa6963f290557e01abbe56d4715efef72e57eb7e34b.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Roadside Station Oasis Obuse, Ojima, Obuse, Kamitakai District, Nagano 381-0203, Japan",
+      "city": "Obuse",
+      "region": "Kamitakai District, Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6887964,138.2948304,2a,73.5y,346.83h,98.4t/data=!3m7!1e1!3m5!1sJDfDa2mJophbxd5acpWXkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.396708482424174%26panoid%3DJDfDa2mJophbxd5acpWXkw%26yaw%3D346.8300077794352!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This roadside station in Obuse, Nagano serves as a waypoint in Episode 13 when the group travels to Shibu Onsen, depicting the scenic drive through Nagano as the friends look forward to their hot-spring trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh3ZzfZuSHmARSljV8hrRWhE",
+      "name": "Takasaki Sta.",
+      "localName": "高崎駅",
+      "coordinates": {
+        "lat": 36.3220084,
+        "lng": 139.0116666
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8c06aba4-ddec-47ad-b2c3-d0186b92bec2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8c06aba4-ddec-47ad-b2c3-d0186b92bec2.webp"
+        },
+        {
+          "url": "media/cached-image_6c1129cd0190c17932a510d9e50b4b33cee29baf0a3415060c992d506a20d3eb.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yashimacho, Takasaki, Gunma, Japan",
+      "city": "Takasaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3220084,139.0116666,3a,75y,239.96h,116.05t/data=!3m6!1e1!3m4!1s-HFbSiK9qmigJiIzLHBlQw!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The station's west-exit plaza appears in Episode 12 with the view depicted in left-right reversal, serving as the urban departure point where Ruri and Nagi meet up before heading off on their excursion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_ruri-rocks_2",
+      "name": "Sasahora Mine Mineral Hunting Guide Tour",
+      "localName": "笹洞鉱山ミネラルハンティングガイドツアー",
+      "coordinates": {
+        "lat": 35.64256,
+        "lng": 137.11926
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5368da86-4705-431d-880a-82bd27cd2b4a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5368da86-4705-431d-880a-82bd27cd2b4a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6424821,137.1193715,3a,90y,331.28h,104.95t/data=!3m7!1e1!3m5!1siJcg-p2KAJGm8Ny_-hCiIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.946315789473687%26panoid%3DiJcg-p2KAJGm8Ny_-hCiIw%26yaw%3D331.27842105263153!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "In Episode 3, Ruri and her friends travel to the Sasahora fluorite mine in Gifu Prefecture, where Ruri searches through the rock pile outside the old shaft for glowing fluorite crystals. The production team visited this site directly, making it the single most iconic mineral-hunting location in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDU5w3mqxHmAR5PDW1cALi00",
+      "name": "Roadside Station Otaki-onsen",
+      "localName": "道の駅 大滝温泉",
+      "coordinates": {
+        "lat": 35.9501536,
+        "lng": 138.9379174
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a1118132-0b30-476a-a33c-831c44606b05.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a1118132-0b30-476a-a33c-831c44606b05.webp"
+        },
+        {
+          "url": "media/cached-image_fa78765d673505ed51b640dc29e058f8bc079251e75553380ec057eaafbf5179.jpg"
+        },
+        {
+          "url": "media/cached-image_d233252aa318601ee7d4fdc0d27e5fbfb6bd059e9949337fe87e6767b1157135.jpg"
+        },
+        {
+          "url": "media/cached-image_b340b0799ea929b82cccea0fb93529473dd0520e143c81575da0230fa452f191.jpg"
+        },
+        {
+          "url": "media/cached-image_0af22bd6b7fa60e0aead5311772788d6d5b3cb3602362303b6c8cb1a23ceb1d6.jpg"
+        },
+        {
+          "url": "media/cached-image_39f0aa48e2bca9bdc42ca49cb0b54b2c19defddfcc87a2ee0a0035a78d4cddf6.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.6,
+      "reviewCount": 101,
+      "priceLevel": null,
+      "address": "Roadside Station Otaki-onsen, 4277-2 Otaki, Chichibu, Saitama 369-1901, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Roadside+Station+Otaki-onsen/@35.9503803,138.9381995,3a,90y,224.54h,96.15t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEx9GrQg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaYDR-SDo_dnOHSebLzGHoFy4E4KaovJZGqJNO6pbP6sME-mjLsij8CpKXgmgM3880bU5zwmyD-znA9Cdn1S1txfZ0dkneE0cbJ8jxRWKB_MmMSSEwxNK9vp4kziM59-4zhNvJ9%3Dw900-h600-k-no-pi-6.145554210279656-ya359.54426577469917-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x601eb16ade704e0d:0x4d8b0bc0d5d6f0e4!8m2!3d35.9501536!4d138.9379174!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F122xqj0r?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Also in Episode 3, the group stops at this roadside station in Chichibu on their way to the mineral-hunting site, capturing a casual roadtrip moment as the friends set off on their geology adventure together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ45XQVjGbRDURKSFY9ktFco8",
+      "name": "Former Katsuragatani Reservoir Dam",
+      "localName": "旧桂ヶ谷貯水池堰堤",
+      "coordinates": {
+        "lat": 34.118513,
+        "lng": 131.38661299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d944adbd-2a23-4255-ba77-de10923579fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d944adbd-2a23-4255-ba77-de10923579fa.webp"
+        },
+        {
+          "url": "media/cached-image_c09632deb35689a29fd96fc79171e88d0f3700888486f20d412d9e8b3463345f.jpg"
+        },
+        {
+          "url": "media/cached-image_4594be3eda79c86bc3dbc7d64c43e8c5046fb6e65f97f086ec171bac479bb4ed.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.5,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Japan, 〒754-0001 Yamaguchi, Ogorikamigo, 2785 旧桂ヶ谷貯水池堰堤",
+      "city": "Yamaguchi",
+      "region": "Yamaguchi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.1185259,131.386643,3a,89.8y,103.1h,98.59t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC996vyyQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaUtNAIcJuPyWtVMkKOTvzxBJA7nTsO3eL8JNlLIQCZ4Nr3vEy_4S_TBIztIwZowWIrts9FUXn9gXTmqAYTKwZdRM0cjd69Rn0Z7l-r09HjqNDhdqGDk0m62AiKyz4Mfdx9o74hqQ%3Dw900-h600-k-no-pi-8.590092948531705-ya36.663057997399534-ro0-fo100!7i7296!8i3648?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Meiji-era dam in Yamaguchi Prefecture appears in Episode 9 as a scenic geological landmark, connecting Ruri's interest in mineral formations with the historical engineering of the reservoir structure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmRbLFmfiHmARBbYing9-OQg",
+      "name": "Gunmadaigaku kiryuseimon mae(Bus)",
+      "localName": "群馬大学桐生正門前",
+      "coordinates": {
+        "lat": 36.422385,
+        "lng": 139.34669
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9745c74-a154-48b1-9a86-74ddf0513028.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9745c74-a154-48b1-9a86-74ddf0513028.webp"
+        },
+        {
+          "url": "media/cached-image_76f9173f1e0973d4c57881f8eaf189ec5df46a4e68b7b40afa2bfc3c3c83cfe2.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Gunmadaigaku kiryuseimon mae, 1-chōme-2 Tenjinchō, Kiryu, Gunma 376-0052, Japan",
+      "city": "Kiryu",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.422625,139.3467933,3a,48.7y,167.98h,96.55t/data=!3m7!1e1!3m5!1sgl9XaNKQJrpQJ9aI6TgeGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.5513258147664%26panoid%3Dgl9XaNKQJrpQJ9aI6TgeGA%26yaw%3D167.9788360130906!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This bus stop in front of Gunma University Kiryu's main gate appears in Episode 12 and is tied to the fan theory that Ruri's university is modeled after Gunma University, reinforced by the characters' Gunma-derived surnames."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5wX_86DgHmARM4Yq94Io3X0",
+      "name": "Joyful Honda Nitta",
+      "localName": "ジョイフル本田 新田店",
+      "coordinates": {
+        "lat": 36.3027927,
+        "lng": 139.3016231
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e54b3af-85c3-4af0-9bba-76ffe80ba928.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e54b3af-85c3-4af0-9bba-76ffe80ba928.webp"
+        },
+        {
+          "url": "media/cached-image_300490cb7a363e3e66aee2d985db10d5fb402d6b2c6561e24a1165d87e9d1acc.jpg"
+        },
+        {
+          "url": "media/cached-image_3aa9699cd680599301060f0a589ab573e21428e2e2dc13733ef447c7e6eaddb4.jpg"
+        },
+        {
+          "url": "media/cached-image_6ac09ed88f2138d24152aac7025faedfea32c324a3401bca2133fe8b59de874f.jpg"
+        },
+        {
+          "url": "media/cached-image_3a4e0b20c0e16980c07dfaacd81e3b0c6e837d5af491ee6990120be61171e749.jpg"
+        }
+      ],
+      "type": "Home improvement store",
+      "categories": [
+        "Home improvement store"
+      ],
+      "rating": 4,
+      "reviewCount": 1279,
+      "priceLevel": null,
+      "address": "Joyful Honda Nitta, 556-1 Nitta Ichinoicho, Ota, Gunma 370-0314, Japan",
+      "city": "Ota",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.303192,139.3043882,3a,42y,247.52h,96.01t/data=!3m7!1e1!3m5!1s9vIdhnVdvFIH7S6GGQr_aw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.012690556019493%26panoid%3D9vIdhnVdvFIH7S6GGQr_aw%26yaw%3D247.52326503548377!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The large home-improvement store in Ota appears in Episode 12 as a familiar backdrop for a casual scene, grounding the characters' daily lives in the real suburban landscape of Gunma Prefecture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb0YSwoP0HWARoFR4EcLeZPM",
+      "name": "Kanaguya",
+      "localName": "歴史の宿金具屋",
+      "coordinates": {
+        "lat": 36.734713,
+        "lng": 138.4329137
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b487c7e4-0333-48dd-b50f-1e4d88a882b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b487c7e4-0333-48dd-b50f-1e4d88a882b9.webp"
+        },
+        {
+          "url": "media/cached-image_c1291fda782edb017f6b6139e55d17961e97a2630b8cf5c5944020d68b9e7db9.jpg"
+        },
+        {
+          "url": "media/cached-image_dcaac7d049b1faf8fe1da4557bd2eaedaeb74db2a72c3864457df9b0daaebba5.jpg"
+        },
+        {
+          "url": "media/cached-image_c4a2ef1563969f6b93984b6b3d95c65ac44568333a4fbd0b8722e5627ede0a86.jpg"
+        },
+        {
+          "url": "media/cached-image_64af4a67365a10bff9520f5a413d78f980df49f98689e155c0ef84697213b469.jpg"
+        },
+        {
+          "url": "media/cached-image_2b182bafd87728039bd1b1d1423db27d02e23926f643dab4d8c0e85c2beebc5c.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.3,
+      "reviewCount": 44,
+      "priceLevel": null,
+      "address": "Kanaguya, 2202 Hirao, Yamanouchi, Shimotakai District, Nagano 381-0401, Japan",
+      "city": "Yamanouchi",
+      "region": "Shimotakai District, Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7347709,138.4328927,2a,90y,256.54h,90t/data=!3m7!1e1!3m5!1sMYdxmvpFFhuWrwyvATZ1xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.002749166392106872%26panoid%3DMYdxmvpFFhuWrwyvATZ1xA%26yaw%3D256.5389629008836!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The historic Kanaguya ryokan in Shibu Onsen is the model for the inn the characters stay at in Episode 13. The building's famous illuminated wooden facade appears in the anime and the ryokan is also widely known as a real-world inspiration for the bathhouse in Spirited Away.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD7LXyyPmGGARKlm9KRR20ew",
+      "name": "Higashikurume City Central Library",
+      "localName": "東久留米市立中央図書館",
+      "coordinates": {
+        "lat": 35.7552145,
+        "lng": 139.5218631
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20ff511f-4c2d-4bda-a006-d28bb21d2597.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20ff511f-4c2d-4bda-a006-d28bb21d2597.webp"
+        },
+        {
+          "url": "media/cached-image_e7a19fc16e620ef69c0be5e95a95ac3ab2899e0ed02b1b118106330358c4cc2a.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Higashikurume City Central Library, 2 Chome-6-23 Chuocho, 中央町 Higashikurume, Tokyo 203-0054, Japan",
+      "city": "Higashikurume",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7547659,139.5218769,3a,54y,349.23h,96.16t/data=!3m7!1e1!3m5!1smnufRwdq1v0FaX9iT1LGeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.16014971121956%26panoid%3DmnufRwdq1v0FaX9iT1LGeQ%26yaw%3D349.2276788539414!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The library in Higashikurume, Tokyo appears in Episode 9, depicted as the place where Ruri researches mineral and geology references, showing the quieter, studious side of her passion for rocks."
+    }
+  ]
+}

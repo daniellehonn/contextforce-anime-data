@@ -1,0 +1,955 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Love Live!",
+  "slug": "love-live",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1f8e628b60f068cc4e30be231da82817d7e22cb24636daaad5cefb73bc461491.webp",
+  "image": "media/cached-image_1f8e628b60f068cc4e30be231da82817d7e22cb24636daaad5cefb73bc461491.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.700105016,
+    "lng": 139.7692843
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Love Live!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2WQ9sB2MGGAREcJvYULMq24",
+      "name": "Bellesalle Akihabara",
+      "localName": "ベルサール秋葉原",
+      "coordinates": {
+        "lat": 35.7000427,
+        "lng": 139.7710919
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e033e0a4-c8aa-439d-a4af-dad6d72d07e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e033e0a4-c8aa-439d-a4af-dad6d72d07e0.webp"
+        },
+        {
+          "url": "media/cached-image_72e13e559fd4c25fd1e15ca8e048dc553f266bd2d1baca2ddb2eb5986e5a288d.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bellesalle Akihabara, B1 1F・2F 3 Chome-12-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6999989,139.7710809,3a,90y,350.03h,92.4t/data=!3m8!1e1!3m6!1sAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN%3Dw900-h600-k-no-pi-2.3998146870585373-ya350.0329879658149-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Bellesalle Akihabara serves as the event venue in episode 9 where a rival school idol performance is staged, raising the stakes for μ's own ambitions. The building's exterior and entrance are shown as fans and school-idol supporters stream in."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fbf6adaa-fa34-4a35-b671-0b3647e552be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fbf6adaa-fa34-4a35-b671-0b3647e552be.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Akihabara UDX appears in episode 1 as part of the Akihabara streetscape that Honoka passes through on her way home, grounding the series firmly in the real Akihabara neighborhood. Its distinctive modern facade contrasts with the older electric-town buildings around it."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS6eXQB2MGGAR9W0Xk2Q7B3Y",
+      "name": "Akihabara Gamers",
+      "localName": "AKIHABARAゲーマーズ本店",
+      "coordinates": {
+        "lat": 35.6981834,
+        "lng": 139.7715103
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb5862d8-6358-4a19-af1f-7f6966ff19b2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb5862d8-6358-4a19-af1f-7f6966ff19b2.webp"
+        },
+        {
+          "url": "media/cached-image_ddf8d3d1cae48b227de6610af3d096fd5351bfd0ef52c3d92c19e25d8de2c38e.jpg"
+        },
+        {
+          "url": "media/cached-image_13ad3869aeaeca7e5307569fd01b4464622daf19a7fbcd230ab045c2d702baee.jpg"
+        }
+      ],
+      "type": "ホビーショップ",
+      "categories": [
+        "ホビーショップ"
+      ],
+      "rating": 4.2,
+      "reviewCount": 52,
+      "priceLevel": null,
+      "address": "1 Chome-14-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981834,139.7715103,3a,75y,115.99h,110.6t/data=!3m7!1e1!3m5!1snN8DjsyAU3-XjynSiLpFjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DnN8DjsyAU3-XjynSiLpFjQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D251.44255%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Akihabara Gamers main store appears in episode 3 as a background location the characters walk past, reinforcing the otaku-culture texture of the neighborhood that surrounds Otonokizaka High School. Its unmistakable anime-character display windows feature in the street-level shot."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live_3",
+      "name": "Akiba-style idol store",
+      "localName": "アキバ系アイドルショップ",
+      "coordinates": {
+        "lat": 35.70175,
+        "lng": 139.77134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9abf10e7-1b24-49ac-b205-9e03002dbdd4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9abf10e7-1b24-49ac-b205-9e03002dbdd4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7017705,139.7715558,3a,40.7y,265.74h,95.49t/data=!3m7!1e1!3m5!1sT6ZsAML9wuQt3QZgRow73Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.486345811039698%26panoid%3DT6ZsAML9wuQt3QZgRow73Q%26yaw%3D265.73809888864577!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_b_3BBaNGGAR7BseB6F143A",
+      "name": "Sasahitoha Honpo",
+      "localName": "神田明神下みやび 笹一葉本舗",
+      "coordinates": {
+        "lat": 35.701326699999996,
+        "lng": 139.7684127
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74628b80-cfbc-447b-b67b-d9f0b72efcc2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74628b80-cfbc-447b-b67b-d9f0b72efcc2.webp"
+        },
+        {
+          "url": "media/cached-image_f6517ae8858c5aa3b94d2a7d901737e4d5afcbcdb613a7e7b7867f6bb38a245b.jpg"
+        }
+      ],
+      "type": "Sushi restaurant",
+      "categories": [
+        "Sushi restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sasahitoha Honpo, 2 Chome-8-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.701399,139.7683838,3a,90y,243.4h,92.77t/data=!3m7!1e1!3m5!1sgCYPgQPmWBbWhMIQhe93jw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.773928582248459%26panoid%3DgCYPgQPmWBbWhMIQhe93jw%26yaw%3D243.3975661934257!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Sasahitoha Honpo, the traditional sweet shop near Kanda Myojin, is visible in the background of the episode 2 Kanda Myojin vicinity scenes as the characters walk through the old-townscape streets below the shrine. Its traditional storefront contributes to the historic atmosphere of the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNxPn8SSMGGARQFEGJxuUWE4",
+      "name": "Daiei Park Yushima",
+      "localName": "大栄パーク 湯島",
+      "coordinates": {
+        "lat": 35.7097598,
+        "lng": 139.7645167
+      },
+      "image": "https://cdn.animepilgrimage.com/places/76a11b80-5fe5-4c37-85db-a2b89da9c4ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/76a11b80-5fe5-4c37-85db-a2b89da9c4ed.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒113-0034 Tokyo, Bunkyo City, 9 Daiei Park Yushima, 湯島４丁目９－１２付近",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7095001,139.7642764,3a,48.7y,347.17h,94.96t/data=!3m7!1e1!3m5!1sLlYKeCI_1wLanZ9oT3ZZvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.962846036817481%26panoid%3DLlYKeCI_1wLanZ9oT3ZZvg%26yaw%3D347.1744557435996!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Daiei Park Yushima, a small parking area near Yushima, appears in episode 2 as part of the street-level background scenery the characters pass through on their way toward Kanda Myojin Shrine. The location is listed on anime pilgrimage maps as a confirmed EP2 spot in the Kanda-Akihabara area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7RsWzB6MGGARi3xBv7bkl_M",
+      "name": "Kanda Myoujin Shrine",
+      "localName": "神田神社（神田明神）",
+      "coordinates": {
+        "lat": 35.702018599999995,
+        "lng": 139.7678943
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7c8c67ba-0fa6-458d-99cf-56a302893a75.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7c8c67ba-0fa6-458d-99cf-56a302893a75.webp"
+        },
+        {
+          "url": "media/cached-image_fadc606c7e99dc33ea61ad836c69d2203b020f991a9fef9391d7dc4cb504658c.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 25586,
+      "priceLevel": null,
+      "address": "Kanda Myoujin Shrine, 2 Chome-16-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7017675,139.7677078,3a,90y,179.48h,109.6t/data=!3m7!1e1!3m5!1sC1X_reX7UTUw9NMN2sblHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.59824827423654%26panoid%3DC1X_reX7UTUw9NMN2sblHQ%26yaw%3D179.4837157775789!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kanda Myojin is μ's most sacred pilgrimage landmark, appearing in the EP2 visit scene where the girls pray for their school idol activities and in the iconic series opening sequence. Fans visit to recreate the group prayer shot and pick up the official Love Live collaboration ema boards sold at the shrine.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFSnzsB6MGGARnojVfoqkXW4",
+      "name": "Myojin Otoko-zaka Stair",
+      "localName": "明神男坂",
+      "coordinates": {
+        "lat": 35.7013968,
+        "lng": 139.7683213
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21d47e2a-f109-44fc-a02a-d71c7edf48b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21d47e2a-f109-44fc-a02a-d71c7edf48b0.webp"
+        },
+        {
+          "url": "media/cached-image_f312e63b4667f691f259c46469396b5c32785f6fea566b0bb78daa7844f66b9e.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kanda Myojin Otoko-zaka, 2 Chome-7-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7015076,139.7679332,3a,90y,101.81h,87.25t/data=!3m7!1e1!3m5!1syQ9RYhvEIyORDOysNoYprA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7508567459314435%26panoid%3DyQ9RYhvEIyORDOysNoYprA%26yaw%3D101.80672666064196!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The steep Otoko-zaka stone staircase leading up toward Kanda Myojin Shrine appears in episode 2 as the characters run up to reach the shrine grounds. The staircase is one of the most photographed Love Live! pilgrimage spots because the stone lanterns and incline exactly match the anime cut.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ9mareyNGGARpd4fuW3EUac",
+      "name": "TAMASHII NATIONS STORE TOKYO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6991106,
+        "lng": 139.77298779999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/58102c7d-ecb2-40b3-ad6b-42249a6269e3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/58102c7d-ecb2-40b3-ad6b-42249a6269e3.webp"
+        },
+        {
+          "url": "media/cached-image_c724488a782605a087d0ac091d57419b1aea9505cabd00ba206f76df507edf36.jpg"
+        }
+      ],
+      "type": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TAMASHII NATIONS STORE TOKYO, １-1 Kanda Hanaokacho, Chiyoda City, Tokyo 101-0028, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6991279,139.7727626,3a,75y,107.12h,105.39t/data=!3m7!1e1!3m5!1sPFS_iJKWiAhqMPvWqtmBKg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.393331273074267%26panoid%3DPFS_iJKWiAhqMPvWqtmBKg%26yaw%3D107.1248967090925!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "TAMASHII NATIONS STORE, the Bandai collectibles flagship near Akihabara, is visible in the episode 1 Akihabara streetscape as part of the hobby-store-lined blocks the characters inhabit. It represents the otaku-retail culture that forms the backdrop of μ's daily life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live_9",
+      "name": "Site of Tsubouchi Shoyo's Former Tokiwadai Dormitry",
+      "localName": "坪内逍遥旧居・常盤会跡",
+      "coordinates": {
+        "lat": 35.709,
+        "lng": 139.75659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45e6235c-1534-452c-94bf-a98dfa8f456c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45e6235c-1534-452c-94bf-a98dfa8f456c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7089664,139.756596,3a,90y,354.01h,96.52t/data=!3m7!1e1!3m5!1ssbaimFftc_-9xpfhmtFM_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.518147582284513%26panoid%3DsbaimFftc_-9xpfhmtFM_w%26yaw%3D354.0116130875698!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG-Jvm_-NGGARkZQCoIxalC4",
+      "name": "Shohei Bridge",
+      "localName": "昌平橋",
+      "coordinates": {
+        "lat": 35.6983003,
+        "lng": 139.7689035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a60131d0-a8a4-4066-8d30-cab311f6270e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a60131d0-a8a4-4066-8d30-cab311f6270e.webp"
+        },
+        {
+          "url": "media/cached-image_a2db1911a6dc2f29727d0b2f6a621c78e13306bdfbbf2ced005a2f8240289d4b.jpg"
+        },
+        {
+          "url": "media/cached-image_48186c255779ae199439c2cc76c0d9d0941dda0e852c52a643fe35eee8eb45a7.jpg"
+        },
+        {
+          "url": "media/cached-image_79f3226b32486d2c27dc3aaf05b70a1b66266d9b8b01cdc1bbfe6ae1936dfd01.jpg"
+        },
+        {
+          "url": "media/cached-image_b5d7947ad28325ddde53a070bc7e800ad75a99167fc5afd55fd5e666c3c1a52d.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 71,
+      "priceLevel": null,
+      "address": "Shohei Bridge, 1 Chome, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6986171,139.7688392,3a,75y,216.64h,102.1t/data=!3m7!1e1!3m5!1sej4pV862e8TCRWdyRgrNkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.096857680151743%26panoid%3Dej4pV862e8TCRWdyRgrNkw%26yaw%3D216.64262080767884!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Shohei Bridge appears in episode 1 as Honoka rushes through Akihabara and crosses this bridge, with the canal view below framing one of the show's earliest location shots. Fans photograph the same angle looking back toward the Electric Town overpass."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live_11",
+      "name": "Takemura",
+      "localName": "竹むら",
+      "coordinates": {
+        "lat": 35.69665,
+        "lng": 139.76909
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2315bc36-ae30-45f6-99ec-1e1826ef0158.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2315bc36-ae30-45f6-99ec-1e1826ef0158.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.696644,139.7691524,3a,90y,300.67h,100.09t/data=!3m7!1e1!3m5!1sN4YVTk9KH3chykPENhoJIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.090864832442051%26panoid%3DN4YVTk9KH3chykPENhoJIA%26yaw%3D300.6735982761116!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Takemura, a historic Showa-era sweet cafe near Akihabara, appears in the background street scenery of episode 1 as Honoka walks through the old low-rise streets southeast of Kanda Myojin. Its preserved traditional exterior lends the area its distinctive old-Tokyo character."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58mpjx6MGGARseWnPsaMkNI",
+      "name": "Horin Park",
+      "localName": "千代田区立芳林公園",
+      "coordinates": {
+        "lat": 35.70201,
+        "lng": 139.77001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/68f36ba4-f767-4510-89f8-9c736b49dd2c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/68f36ba4-f767-4510-89f8-9c736b49dd2c.webp"
+        },
+        {
+          "url": "media/cached-image_e5f14fdfba0624e6dc3856231a3224c1caa6693f9eed646488dde95ac4c99b7b.jpg"
+        },
+        {
+          "url": "media/cached-image_c2507903555f34b8825de3e9929923ed847d3b004690f46eb87b03399e2c0852.jpg"
+        },
+        {
+          "url": "media/cached-image_48bb1c7496d1dcebce4ec132c9f50d79fd81ff77ae71bf9386a02b554b8bc9f3.jpg"
+        },
+        {
+          "url": "media/cached-image_e61541dfb6a9c1f5fe641d0bcd039101297114c86316508f9b58bd1b718d1a25.jpg"
+        }
+      ],
+      "type": "公园",
+      "categories": [
+        "公园"
+      ],
+      "rating": 3.9,
+      "reviewCount": 82,
+      "priceLevel": null,
+      "address": "3 Chome-5-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Z8oCCrr3qbH5Nbq26",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Horin Park, a small neighborhood park a short walk from the Akihabara station area, is used as a gathering spot for μ's members in episode 7. The park benches and modest greenery appear in background shots during a quiet character conversation scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ76X9mh6MGGAR_fhLJ312wT0",
+      "name": "Park Gallery",
+      "localName": "",
+      "coordinates": {
+        "lat": 35.70148,
+        "lng": 139.76959
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9eb0c7a8-9cad-491c-9a24-31fd9ddfd796.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9eb0c7a8-9cad-491c-9a24-31fd9ddfd796.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": 4,
+      "reviewCount": 75,
+      "priceLevel": null,
+      "address": "Park Gallery, 1F / 3F, 3 Chome-5-20 Sotokanda, Chiyoda City, Tokyo 101-0021",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7015044,139.7694953,3a,90y,89.83h,99.15t/data=!3m6!1e1!3m4!1saOL7Mvtn_P5es3heYI4LSg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Park Gallery, located near Horin Park in the Sotokanda district, appears in episode 9 as a background location in the Akihabara street sequence. It sits within the same block cluster as Horin Park, which is featured in EP7, making this corner of Sotokanda one of the show's recurring neighborhood anchors."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+      "name": "Tokyo Station",
+      "localName": "東京駅",
+      "coordinates": {
+        "lat": 35.68121,
+        "lng": 139.76629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a750541-d2d1-4dac-9be5-df2d2b150d2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a750541-d2d1-4dac-9be5-df2d2b150d2f.webp"
+        },
+        {
+          "url": "media/cached-image_b5f22fd988082df1769467e8e747c2737a689fff3e06a011ea50d2204b2d06b3.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812113,139.7662978,2a,75y,10.72h,96.24t/data=!3m7!1e1!3m5!1sXxaT2133gCbTBlJ9IJG8HA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.237910337800855%26panoid%3DXxaT2133gCbTBlJ9IJG8HA%26yaw%3D10.722069162988722!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Tokyo Station's red-brick Marunouchi facade appears in episode 10 as a departure scene, marking a rare moment when the characters travel beyond their familiar Akihabara territory. The shot emphasizes the emotional weight of the girls stepping into a wider world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZfLUdh6MGGAR7zkFAsEA_mo",
+      "name": "PC SHOP ark",
+      "localName": "パソコンSHOPアーク",
+      "coordinates": {
+        "lat": 35.7020518,
+        "lng": 139.77113839999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3513798c-fab9-449e-832a-4d7ad4da0295.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3513798c-fab9-449e-832a-4d7ad4da0295.webp"
+        },
+        {
+          "url": "media/cached-image_18b072d06264a935b3b2428686965b47b131532e885d94cbbcb2aceb8ec6e2a1.jpg"
+        },
+        {
+          "url": "media/cached-image_bee62ea894501854524e39bb23d3159f0d15c95252edfbd7d03b81f74cc7f2b5.jpg"
+        },
+        {
+          "url": "media/cached-image_9a1a3d877194a4fdf696ab6207b0fdcc717ed9b010bc349ba045c640fb648181.jpg"
+        },
+        {
+          "url": "media/cached-image_3375c188f0299c967ab9f0c5347bc903d7041002a84a0ab1cbee9758836fe790.jpg"
+        },
+        {
+          "url": "media/cached-image_216d532d53823c1ebab5915f0b24f051622c918c73771a6d0119a93f4a329c30.jpg"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "PC SHOP ark, 通運会館 1F 3 Chome-16-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7019403,139.771216,3a,74.1y,275.9h,97.21t/data=!3m7!1e1!3m5!1smhfJuvyB2EclQ7EymLt6xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.21221248686939%26panoid%3DmhfJuvyB2EclQ7EymLt6xA%26yaw%3D275.89686390397316!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "PC SHOP ark appears in the episode 9 Akihabara background sequence, one of the many real computer and hobby stores the camera sweeps past to establish the Electric Town atmosphere surrounding the characters. Its ground-floor shopfront is visible in the street-level panning shot."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4bX4Fx2MGGARCPjt32btHug",
+      "name": "ONODEN",
+      "localName": "オノデン",
+      "coordinates": {
+        "lat": 35.698276799999995,
+        "lng": 139.77104409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa792d4c-ab2a-4e43-9846-b03bb560144b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa792d4c-ab2a-4e43-9846-b03bb560144b.webp"
+        },
+        {
+          "url": "media/cached-image_9d1e68c9bd8f80b2415b4b65294a763836027066d9a27005a4fb525a6c7f3329.jpg"
+        },
+        {
+          "url": "media/cached-image_7f92c240ffebd2aa0dac07979f42bfbea8fe55b3a069900030200263c807de7d.jpg"
+        },
+        {
+          "url": "media/cached-image_68b60dc166393d76fedb04fb78dc6525a679505aea3b6bdb2f002056504cf8fe.jpg"
+        },
+        {
+          "url": "media/cached-image_84afdae93c1696a75e9982409ec1d8721b25ca97ef537aa7dd0a9e1c2ae196b8.jpg"
+        },
+        {
+          "url": "media/cached-image_74e4a714266f8748e1995809defa5011939c885c50030f55cc41202f3ae07aa3.jpg"
+        }
+      ],
+      "type": "Electrical supply store",
+      "categories": [
+        "Electrical supply store"
+      ],
+      "rating": 4.3,
+      "reviewCount": 1599,
+      "priceLevel": null,
+      "address": "ONODEN, 1 Chome-2-7 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6982058,139.7711388,3a,90y,336.1h,104.81t/data=!3m7!1e1!3m5!1sAPkndigGEFm87sy3fEZ8zg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.807200336470132%26panoid%3DAPkndigGEFm87sy3fEZ8zg%26yaw%3D336.09834515179875!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "ONODEN, a long-established Akihabara electronics shop, appears in the episode 9 Akihabara street montage as one of the real storefronts that anchor μ's neighborhood in real Tokyo geography. Its retro signage is visible in the background crowd shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZYsluR2MGGAR1djuzJefoZ8",
+      "name": "Sofmap AKIBA PC and Digital Store",
+      "localName": "ソフマップ AKIBA パソコン・デジタル館",
+      "coordinates": {
+        "lat": 35.700322799999995,
+        "lng": 139.7711859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef933a3d-1d04-4811-b04f-ae05272e1f8f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef933a3d-1d04-4811-b04f-ae05272e1f8f.webp"
+        },
+        {
+          "url": "media/cached-image_5f645697345604d0cce87c0477d4cfb72b94ed6439bc063b5d7c67c2f8082865.jpg"
+        },
+        {
+          "url": "media/cached-image_980e78dcb55b27904470a00d7625130e74eb974a3891c8c84c9aaa113805dc98.jpg"
+        },
+        {
+          "url": "media/cached-image_5dc22b5492a1cafdafea9ef4a46693d38e48ff2b30950df706dfae39e2ded9ce.jpg"
+        },
+        {
+          "url": "media/cached-image_bcad2aaf4aa180a47a7ccdff6c6057cc058cb80306917fc31f4e34bdcf1f840e.jpg"
+        },
+        {
+          "url": "media/cached-image_4ffe3f3343ccb51fc393ac60ba77bb35dfea750b99f3af1a16eb470389d59659.jpg"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 3.9,
+      "reviewCount": 131,
+      "priceLevel": null,
+      "address": "Sofmap AKIBA PC and Digital Store, IMYビル 3 Chome-13-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7002419,139.7711098,3a,75y,82.06h,99.28t/data=!3m7!1e1!3m5!1sl0HLA4F8IXp7niW1RuUpxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.276316425018877%26panoid%3Dl0HLA4F8IXp7niW1RuUpxg%26yaw%3D82.06093665663413!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Sofmap's distinctive Akihabara storefront appears among the background shops in the episode 9 Electric Town sequence, one of several real Akihabara retailers the camera lingers on to authenticate the neighborhood setting. The green-and-white facade is easy to spot in the background pan."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9ZdjjRyMGGARVD_ICCvWMI0",
+      "name": "Shoheibashi Higashi-zume Park",
+      "localName": "昌平橋東橋詰広場",
+      "coordinates": {
+        "lat": 35.698377199999996,
+        "lng": 139.7692027
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebabce50-d01a-4e2b-bcfe-cd6e22da6c5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebabce50-d01a-4e2b-bcfe-cd6e22da6c5d.webp"
+        },
+        {
+          "url": "media/cached-image_48186c255779ae199439c2cc76c0d9d0941dda0e852c52a643fe35eee8eb45a7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shoheibashi Higashi-zume Park, 1 Chome-1-1-1 Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6983724,139.769089,3a,75y,44.26h,90.44t/data=!3m7!1e1!3m5!1sSqsS1yGdX7Y-lHf3CDSyuQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.43663088962794916%26panoid%3DSqsS1yGdX7Y-lHf3CDSyuQ%26yaw%3D44.25796635655752!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The small plaza at the eastern end of Shohei Bridge appears in episode 9 as a brief rest-stop background location, part of the extended Akihabara street-walk sequence. It sits directly beside the bridge that Honoka crossed in episode 1, connecting the two scenes geographically."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJib0TiByMGGARoxZpQdO40dM",
+      "name": "El Chateo del Puente",
+      "localName": "エルチャテオ デルプエンテ",
+      "coordinates": {
+        "lat": 35.6983624,
+        "lng": 139.7683898
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2d6877e7-fbe5-49d6-9952-9313841f994e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2d6877e7-fbe5-49d6-9952-9313841f994e.webp"
+        },
+        {
+          "url": "media/cached-image_dae2b62dbccc5b07bf7b4d3d92da4c3e8e4be6a502efb7888e9cad69b74d771c.jpg"
+        },
+        {
+          "url": "media/cached-image_4c440a6f587cf31b96e702d634096d0fbc1f12eda79733e6fd002e910dc94cf7.jpg"
+        },
+        {
+          "url": "media/cached-image_163508a428cdd66a274c9535ff8e04f744d7dbfe7743aa8b636dbca76705a2d2.jpg"
+        },
+        {
+          "url": "media/cached-image_606c79425682b1c7b6b07255cf28d4737e952dcb67b202dcd7484a262d9107e6.jpg"
+        }
+      ],
+      "type": "Spanish restaurant",
+      "categories": [
+        "Spanish restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "El Chateo del Puente, ＪＲ紅梅橋高架下 １号 2 Chome-９番地 Kanda Awajicho, Chiyoda City, Tokyo 101-0063, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.698216,139.7684853,3a,75y,95h,97.13t/data=!3m7!1e1!3m5!1salZGJJPq6GIYUs29aSsd0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.126640050426204%26panoid%3DalZGJJPq6GIYUs29aSsd0w%26yaw%3D95.00102144295477!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "El Chateo del Puente, located under the JR viaduct near Shohei Bridge, appears in the episode 9 Akihabara vicinity sequence as part of the atmospheric underpass streetscape. Its distinctive arched viaduct setting is visible in the background of the episode's canal-area shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9RssJByMGGARR3uoUihPzA4",
+      "name": "Popondetta Akihabara",
+      "localName": "ポポンデッタ 秋葉原店",
+      "coordinates": {
+        "lat": 35.7008296,
+        "lng": 139.7695041
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4e72794b-55bd-4602-bf5b-1e28cbe86776.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4e72794b-55bd-4602-bf5b-1e28cbe86776.webp"
+        },
+        {
+          "url": "media/cached-image_7620b6d27c42c2e1751d84a39984210ea9499a73b9bbbaa248e18cbc6bdf94ac.jpg"
+        }
+      ],
+      "type": "Model train store",
+      "categories": [
+        "Model train store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3 Chome−3−3 Popondetta Akihabara, Rail Way BLD",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7009072,139.7695326,3a,75y,348.96h,92.33t/data=!3m7!1e1!3m5!1sqmNIq5urjXAACxPhkDQKWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3303993687345184%26panoid%3DqmNIq5urjXAACxPhkDQKWg%26yaw%3D348.9561352517754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Popondetta, the model railway specialty shop in Akihabara, is part of the episode 9 street sequence that pans across the distinctive mix of hobby retailers in the Electric Town district. The shop's presence reinforces the layered otaku-culture geography of μ's neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzdWdgh2MGGARh4kg2pVZL3c",
+      "name": "Akihabara Electric Town",
+      "localName": "秋葉原電気街",
+      "coordinates": {
+        "lat": 35.699647299999995,
+        "lng": 139.7713703
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f3cd569-9d75-44e3-b963-d8bef87680b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f3cd569-9d75-44e3-b963-d8bef87680b7.webp"
+        },
+        {
+          "url": "media/cached-image_6075d56acd87ddafc4958573e39dbb950ca77a679af9a12cdf34675a0e732a3f.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Akihabara Electric Town, Tokyo, Japan",
+      "city": null,
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6998131,139.7713267,3a,48.7y,228.04h,101.32t/data=!3m7!1e1!3m5!1si9h-zzu-5pcCQNGrv5bv_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.316823976859354%26panoid%3Di9h-zzu-5pcCQNGrv5bv_Q%26yaw%3D228.0388837031379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The streets of Akihabara Electric Town form the everyday backdrop of μ's world, glimpsed repeatedly in episode 9 as the members navigate the neon-lit shopping district that defines their home turf. The wide shot of the electric town signage is one of the most instantly recognizable Love Live! establishing images.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live_22",
+      "name": "Kottori Ramen Kitaro",
+      "localName": "こってりらーめん きたろう",
+      "coordinates": {
+        "lat": 35.70088,
+        "lng": 139.77024
+      },
+      "image": "https://cdn.animepilgrimage.com/places/070b829a-8dde-446e-9438-d16793c064a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/070b829a-8dde-446e-9438-d16793c064a1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7008706,139.7703377,3a,90y,316.84h,100.46t/data=!3m7!1e1!3m5!1sghSCzdAPdhxKCCnJa_Qtxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.462218468769322%26panoid%3DghSCzdAPdhxKCCnJa_Qtxw%26yaw%3D316.83511726556935!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kottori Ramen Kitaro, a ramen shop in the Akihabara streets, appears in episode 9 as one of the real food-and-drink establishments visible in the busy Electric Town district sequence. Its signage is part of the dense streetscape the characters move through in that episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiRHSx1iNGGARL938naDT-d8",
+      "name": "LILIAN CUCU",
+      "localName": "リリアンキュキュ",
+      "coordinates": {
+        "lat": 35.7007893,
+        "lng": 139.77056349999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d665f052-224b-4c53-bc01-8668e9ea6344.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d665f052-224b-4c53-bc01-8668e9ea6344.webp"
+        },
+        {
+          "url": "media/cached-image_0a3d441ba8ae1db039e24d8ad2dd3297b2e3a838b1296dc91a3c0d9c300a2a43.jpg"
+        }
+      ],
+      "type": "Cosplay cafe",
+      "categories": [
+        "Cosplay cafe"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "LILIAN CUCU, D・B Akihabara, １F・２F 3 Chome-11-5 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.700862,139.770464,3a,75y,185.7h,98.11t/data=!3m7!1e1!3m5!1sQLxyv0DPvlKRYycRruweWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.10611082777038%26panoid%3DQLxyv0DPvlKRYycRruweWg%26yaw%3D185.701565317357!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "LILIAN CUCU, a cosplay cafe in Akihabara, appears in the episode 9 Akihabara montage as one of the real entertainment establishments that populate the streets around the characters. Its facade is visible among the episode's wide street shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-660yx2MGGAReVavk4vktXs",
+      "name": "GENO QCPASS（ジェノキューシーパス）",
+      "localName": "GENO QCPASS（ジェノキューシーパス）",
+      "coordinates": {
+        "lat": 35.700541,
+        "lng": 139.7705039
+      },
+      "image": "https://cdn.animepilgrimage.com/places/839afc74-9cc4-4af6-9757-43d56a36a0a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/839afc74-9cc4-4af6-9757-43d56a36a0a9.webp"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3 Chome−11−2 Rock Building, 1F GENO QCPASS（ジェノキューシーパス）",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7005764,139.7704396,3a,90y,113.59h,96.37t/data=!3m7!1e1!3m5!1s6TdxMeu46-QetcmP81iAYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.371802251304203%26panoid%3D6TdxMeu46-QetcmP81iAYA%26yaw%3D113.59177744376765!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "GENO QCPASS, a used-PC shop in Akihabara, appears in the episode 9 background as part of the dense row of electronics and hobby retailers the episode uses to authenticate the Electric Town setting. It sits within the same block cluster as several other confirmed EP9 locations."
+    }
+  ]
+}

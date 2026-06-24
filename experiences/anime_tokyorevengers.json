@@ -1,0 +1,1005 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tokyo Revengers",
+  "slug": "tokyo-revengers",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_55f67a0260bf593dff74cc4790724d8ccb484e290e16faa004815d2ff1532153.webp",
+  "image": "media/cached-image_55f67a0260bf593dff74cc4790724d8ccb484e290e16faa004815d2ff1532153.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.5608997375,
+    "lng": 139.46917755
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tokyo Revengers"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tokyo-revengers_0",
+      "name": "Osteria Baccano",
+      "localName": "オステリア バッカーノ",
+      "coordinates": {
+        "lat": 35.65794,
+        "lng": 139.6957
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6579307,139.6956931,3a,90y,263.78h,93.06t/data=!3m8!1e1!3m6!1sO1HJwt85t6PUPKPJAE0tXQ!2e0!5s20230801T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.062962717976376%26panoid%3DO1HJwt85t6PUPKPJAE0tXQ%26yaw%3D263.7756490783792!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ67k6Ig6LGGARvxPB5UPVm6w",
+      "name": "Observation deck at Odaiba Seaside Park",
+      "localName": "お台場海浜公園の展望デッキ",
+      "coordinates": {
+        "lat": 35.6274605,
+        "lng": 139.7715434
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c3c89e2f-f4c0-495b-85e7-b86fc7f49bd6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c3c89e2f-f4c0-495b-85e7-b86fc7f49bd6.webp"
+        },
+        {
+          "url": "media/cached-image_dfe94a19866ac19ae41cc905280b3c99522bf5fe57f83c1fa2985acde0002b2f.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "お台場海浜公園, 1 Chome-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This observation deck overlooking Tokyo Bay appears in Episode 18, where Naoto reveals the full future timeline to Takemichi, including the tragic fates of Baji and Kazutora at Bloody Halloween. The waterfront backdrop frames the weight of Takemichi's new mission to save his friends.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6274605,139.7715434,3a,75y,323.82h,93.02t/data=!3m7!1e1!3m5!1slWj2SFddZQfeE-0gthv2Ag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DlWj2SFddZQfeE-0gthv2Ag%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D155.00797%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 18
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdwvXdKqMGGARg-UfEdmCXFE",
+      "name": "Shibuya Kappo Sancho",
+      "localName": "割烹 三長 渋谷",
+      "coordinates": {
+        "lat": 35.6576133,
+        "lng": 139.6948873
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afda0b74-b62d-4bd3-ad36-f7a4fe728b87.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afda0b74-b62d-4bd3-ad36-f7a4fe728b87.webp"
+        },
+        {
+          "url": "media/cached-image_4ea78fc51dc5577b8b71768feac2079063ca52308905693d4cd82d967409fab6.jpg"
+        }
+      ],
+      "type": "Kaiseki restaurant",
+      "categories": [
+        "Kaiseki restaurant"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya Kappo Sancho, 6-1 Maruyamacho, Shibuya, Tokyo 150-0044, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6577117,139.6950485,3a,90y,244.51h,88.66t/data=!3m7!1e1!3m5!1snm92tWkvUejWUTZaP472EA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3410926006751396%26panoid%3Dnm92tWkvUejWUTZaP472EA%26yaw%3D244.50780671709393!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIWM33mlfGGARqjMqLtgxDyM",
+      "name": "Tama Riverside House",
+      "localName": "多摩リバーサイドハウス",
+      "coordinates": {
+        "lat": 35.574771,
+        "lng": 139.6757327
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a36459ce-2764-4b32-aa9d-0fb9131dbcf0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a36459ce-2764-4b32-aa9d-0fb9131dbcf0.webp"
+        },
+        {
+          "url": "media/cached-image_ca46fd44f8336c007f01109e8d4a35e8336088a57ea3773ad57c89366486334b.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tama Riverside House, 2 Chome-39-1 Unoki, Ota City, Tokyo 146-0091, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Tama River near Unoki is one of the most iconic locations in Tokyo Revengers, appearing in the early episodes when Takemichi first meets Mikey and Draken and they ride together along the riverside path. The wide open riverbank and apartment complex in the background are a faithful match to the anime backgrounds.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.5747449,139.6752264,3a,90y,256.85h,96.6t/data=!3m8!1e1!3m6!1sAF1QipOZ9C9l8pNmYfkNH9aAVrijg-xgU5kLOtCw_pLT!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOZ9C9l8pNmYfkNH9aAVrijg-xgU5kLOtCw_pLT%3Dw900-h600-k-no-pi-6.599939883508952-ya93.88269472927954-ro0-fo100!7i5760!8i2880?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIUMGW7X8GGARMKtwAsCWw4w",
+      "name": "Parthenon Tama",
+      "localName": "パルテノン多摩",
+      "coordinates": {
+        "lat": 35.6216767,
+        "lng": 139.4262799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07a0a583-4dd8-4130-96f8-c1b1acfcc7fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07a0a583-4dd8-4130-96f8-c1b1acfcc7fd.webp"
+        },
+        {
+          "url": "media/cached-image_c1262637a78303564f8b982d43ff61bf59a36fce77a68cc39f1bce6d65bbf775.jpg"
+        },
+        {
+          "url": "media/cached-image_88285acc82e868c51f7b796eb1a9e2256ff49293f8a20639e59a3b2b5831ad0b.jpg"
+        },
+        {
+          "url": "media/cached-image_bdcdc44adb53fb466c819c59c4358ec30c49d0fc611a9c49c83cac5569cc76c5.jpg"
+        },
+        {
+          "url": "media/cached-image_494327b3ee0af08b595b350ec42448a226aacd1cdd1850c2c850dca5038f613e.jpg"
+        },
+        {
+          "url": "media/cached-image_5d82f5b2c9bf0f48f6faf24430f36b28d15c93a071804d2f50bd3a453a9ebf75.jpg"
+        }
+      ],
+      "type": "Concert hall",
+      "categories": [
+        "Concert hall"
+      ],
+      "rating": 4,
+      "reviewCount": 37,
+      "priceLevel": null,
+      "address": "Parthenon Tama, 2 Chome-35 Ochiai, Tama, Tokyo 206-0033, Japan",
+      "city": "Tama",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Parthenon Tama and its grand staircase serve as the backdrop for Takemichi's very first fight in Episode 3, and this is also where Mikey makes his unforgettable debut, single-handedly defeating an entire gang. The steps are directly recreated in the anime and draw fans eager to stand where Mikey first showed his legendary strength.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6216807,139.4255654,3a,63.2y,205.67h,102.73t/data=!3m7!1e1!3m5!1sGwbhT5uGma7ASfub4h1kpA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.73266128583876%26panoid%3DGwbhT5uGma7ASfub4h1kpA%26yaw%3D205.67409910588358!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNd_D8ENPGGARSghaDpPudGE",
+      "name": "Pacific DRIVE-IN",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.3044277,
+        "lng": 139.51357679999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/54b7d596-c7a4-46ba-9b1f-6ae6ce8361c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/54b7d596-c7a4-46ba-9b1f-6ae6ce8361c4.webp"
+        },
+        {
+          "url": "media/cached-image_23e5fdeb7effd50cf591f1a0adfda0f387cac73b728a933524d8758b9aa4a002.jpg"
+        }
+      ],
+      "type": "Hawaiian restaurant",
+      "categories": [
+        "Hawaiian restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Pacific DRIVE-IN, 2 Chome-1-12 Shichirigahamahigashi, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This retro Hawaiian diner in Kamakura appears in Episode 16 during the Toman founding members' day trip to Kanagawa on their motorcycles. The gang's beach excursion into Kanagawa is drawn from real locations along this coastline.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Pacific+DRIVE-IN/@35.3043501,139.5138162,3a,49.6y,340.47h,99.89t/data=!3m8!1e1!3m6!1sAF1QipOP9Cd82gUOPKoYDB5qrqEAZrv9zdzmRFvh-80-!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOP9Cd82gUOPKoYDB5qrqEAZrv9zdzmRFvh-80-%3Dw900-h600-k-no-pi-9.892359876258354-ya132.4713705724921-ro0-fo100!7i8704!8i4352!4m9!3m8!1s0x60184f43f0c3df35:0x6174ee930e5a084a!8m2!3d35.3044277!4d139.5135768!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11dxr_85fq?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ5YbSXiLGGAR2bi7lKs5Wh0",
+      "name": "Hachiko Square",
+      "localName": "ハチ公前広場",
+      "coordinates": {
+        "lat": 35.6594838,
+        "lng": 139.7008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce2a1e70-7894-4113-8300-bb86f347d579.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce2a1e70-7894-4113-8300-bb86f347d579.webp"
+        },
+        {
+          "url": "media/cached-image_6d7e08bf06ae5d907901c8f49d13e291432828654b65b55d0a798b3089d2f000.jpg"
+        },
+        {
+          "url": "media/cached-image_dc1cfd775c7993ce0296e7c60d551f81817ddc4f07c3f10135efd9b13d4513df.jpg"
+        },
+        {
+          "url": "media/cached-image_1c1a99425ab3396b526ff6ba0241dae36b9af3da07cdea42b5b6baa1b5.jpg"
+        },
+        {
+          "url": "media/cached-image_c79f616a952f03c725bf5fd3d4a35d93ee02e2b034f4f2e13616224685016034.jpg"
+        },
+        {
+          "url": "media/cached-image_f60f3e3afec551f88f6e709b56001f8dbb9f3bf568b87d71eaf035b06bf60bc0.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 25351,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Hachiko Square outside Shibuya Station appears in Episode 23 as one of the key Shibuya gathering spots for the Tokyo Manji Gang. The square's central role in the show reflects its real significance as the heart of Shibuya's street culture.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594838,139.7008,3a,40.5y,170.14h,93.82t/data=!3m7!1e1!3m5!1sXVJVifnGo2nWMynwQxUtJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXVJVifnGo2nWMynwQxUtJg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D58.64933%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae8da8f3-27c5-42fa-89b3-2489214900a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae8da8f3-27c5-42fa-89b3-2489214900a9.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Shibuya Scramble Crossing is the real-world model for where the Tokyo Manji Gang's iconic group photo was taken, with the building 109 looming in the background and the gang's flag flying at the center. It is Shibuya's most symbolic location in the series and appears in Episode 15 and the official promotional materials.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 15
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1e7seJcGGARbDdyYvFJuuM",
+      "name": "Yamashita Park",
+      "localName": "山下公園",
+      "coordinates": {
+        "lat": 35.44555,
+        "lng": 139.64971
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e5a23fdc-512e-4018-a3eb-0b4f45be39e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e5a23fdc-512e-4018-a3eb-0b4f45be39e8.webp"
+        },
+        {
+          "url": "media/cached-image_7281206f920b001f87a523c3c04e673b4f314e6a44ad3625dd412af5d8b493b3.jpg"
+        },
+        {
+          "url": "media/cached-image_b430298ec0c5a85862edb6aa8cd908481559847a6594052854680f5e8038241b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b4c287953132ce0f6742f4ac234768bbd1d6163cba83d75714fbdb74abf3f80.jpg"
+        },
+        {
+          "url": "media/cached-image_409e3fd7b20ccd618548395c527a7e7310a15fd6fde087cb61799c4a90eed76d.jpg"
+        },
+        {
+          "url": "media/cached-image_25bd26be6878dfa8b035d86cab10563c402db700ed322b30877332fc78547c40.jpg"
+        },
+        {
+          "url": "media/cached-image_2607f3f79ef882e8a6f3958548c164eead77a5f0d4eb47ca731bee38d61c4896.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2320,
+      "priceLevel": null,
+      "address": "279 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Yamashita Park in Yokohama appears in Episode 12 during a deeply emotional scene where Hinata and Takemichi walk and talk, with Hinata sharing a bittersweet Christmas Eve memory. The park's waterfront promenade closely matches the anime background and gives the scene its reflective, melancholy tone.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4454931,139.6497994,3a,90y,309.78h,95.72t/data=!3m7!1e1!3m5!1sBbTlT5945dCtth4vFWB8gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.724795431178734%26panoid%3DBbTlT5945dCtth4vFWB8gQ%26yaw%3D309.7801928323015!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station Odakyu Line South Exit Ticket",
+      "localName": "新宿駅小田急線南口改札",
+      "coordinates": {
+        "lat": 35.68944,
+        "lng": 139.69977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/565405db-9a18-4939-bf5d-accc69126f51.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/565405db-9a18-4939-bf5d-accc69126f51.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        },
+        {
+          "url": "media/cached-image_1bc33961250bc744c3e9a5cb8cbbe66fabf0f41cddbbaec9109a2a10af755fef.jpg"
+        },
+        {
+          "url": "media/cached-image_6755dd037e0d99ede0bda0e88f344d944782b1d7c7feb7be4e9483ee74422162.jpg"
+        },
+        {
+          "url": "media/cached-image_455c2ca9e2e430bb79866b457c546aa81ff41459558fbb2cd8dd6766a32d6dd4.jpg"
+        },
+        {
+          "url": "media/cached-image_e8b328046d16fff2e6db9df980d84d4863fa0bc969e60d104df9fd82bd1d0312.jpg"
+        },
+        {
+          "url": "media/cached-image_3a87f3039500fd114576eafcf9af6eca85594aa753502363c56f32efa757cf9c.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1099,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Shinjuku Station is where the story of Tokyo Revengers effectively begins in Episode 1, with Takemichi recognizing his tragic fate after news of Hinata's death. The station's Odakyu south exit gate is faithfully reproduced in the anime as the location of this series-opening shock.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6892974,139.6999213,2a,59y,309.77h,91.89t/data=!3m7!1e1!3m5!1sHFvxbf4UYf8OiPufPnKhNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8897055325176098%26panoid%3DHFvxbf4UYf8OiPufPnKhNA%26yaw%3D309.77307618662024!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ26W2kc2LGGARpKvyZcEGzKQ",
+      "name": "Shibuya Station West Exit Pedestrian Bridge Deck",
+      "localName": "渋谷駅西口歩道橋デッキ",
+      "coordinates": {
+        "lat": 35.65777,
+        "lng": 139.70168
+      },
+      "image": "https://cdn.animepilgrimage.com/places/180fdb04-8159-475b-9cf4-101e3e34f388.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/180fdb04-8159-475b-9cf4-101e3e34f388.webp"
+        },
+        {
+          "url": "media/cached-image_b387263e7879f4f05770eda32783d495645c84ff79319880adc15d6100514fe5.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The pedestrian bridge deck at Shibuya Station's west exit appears in Episode 2, featured as a key meeting point in Shibuya's street-level gang world. The elevated walkway overlooking the busy Shibuya roads is one of the series' recurring Shibuya backdrops.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qEapNQMicgBMWXE79",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxU3JDLSNGGAR0ql_SG8bNXE",
+      "name": "YAKITORI Torikizoku Shibuya Inokashira Dori Store",
+      "localName": "鳥貴族 渋谷井の頭通り店",
+      "coordinates": {
+        "lat": 35.6613426,
+        "lng": 139.69784049999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ff5d759-33ab-4c19-a8ef-c29588269fa8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ff5d759-33ab-4c19-a8ef-c29588269fa8.webp"
+        },
+        {
+          "url": "media/cached-image_24b06b97e512f805a65712192aeb7cd33c08b522e8e72dce93b2edc01876df13.jpg"
+        },
+        {
+          "url": "media/cached-image_f90bcebec30d50f7ac30c2082e22e5f2f91fa034a528b281e244bb58af676cd2.jpg"
+        },
+        {
+          "url": "media/cached-image_4c532ec7b9e0dc2be102ac7d1cbba12ecf86077bb680a16f7e45e36f52cf86.jpg"
+        },
+        {
+          "url": "media/cached-image_0d5f34097a18c31d1747201c0176ef0ea6749891d410e5c78a36ea7323f05254.jpg"
+        },
+        {
+          "url": "media/cached-image_aece5b14a923096fb38bf08fe032e38414b99ccba7643301a9eeabfe6ca82b16.jpg"
+        }
+      ],
+      "type": "Yakitori restaurant",
+      "categories": [
+        "Yakitori restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "YAKITORI Torikizoku Shibuya Inokashira Dori Store, 第３田中ビル ３階, 31-3 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Torikizoku Shibuya appears in Episode 23 as one of the real Shibuya eating spots woven into the gang members' daily lives around the neighborhood. The chain yakitori restaurant's Shibuya branch is faithfully included among the locations the Tokyo Manji Gang frequents.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6613975,139.6979789,3a,90y,252.52h,124.19t/data=!3m7!1e1!3m5!1s0jYziwFdeLIk5GWf1fHfWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-34.18564893851361%26panoid%3D0jYziwFdeLIk5GWf1fHfWg%26yaw%3D252.51679231122174!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW9jHfqSMGGARDze8eqb-2r4",
+      "name": "Eggs 'n Things Harajuku Store",
+      "localName": "Eggs 'n Things 原宿店",
+      "coordinates": {
+        "lat": 35.6685856,
+        "lng": 139.70623129999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57fc11ab-9315-4f49-9938-ab6ea0405703.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57fc11ab-9315-4f49-9938-ab6ea0405703.webp"
+        },
+        {
+          "url": "media/cached-image_932e59bd85df58de492a21e7d8f384ea97d07be27e4586693320014bbf7184c1.jpg"
+        }
+      ],
+      "type": "Hawaiian restaurant",
+      "categories": [
+        "Hawaiian restaurant"
+      ],
+      "rating": 5,
+      "reviewCount": 194,
+      "priceLevel": null,
+      "address": "Eggs 'n Things Harajuku Store, 4 Chome-30-2 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Eggs 'n Things Harajuku is the real restaurant behind the pancake date scene in Episode 23 where Mikey and Emma enjoy fluffy pancakes together. The distinctive stacked pancakes and warm interior are clearly modeled on this Harajuku spot, making it a fan-favorite for anyone wanting to recreate the siblings' rare tender moment.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6686308,139.7064173,3a,90y,221.81h,93.53t/data=!3m7!1e1!3m5!1sXYSmkGO_iyuEezsN1u3slA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5305632293186733%26panoid%3DXYSmkGO_iyuEezsN1u3slA%26yaw%3D221.8123304961059!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsez0dLSPGGARzTTM-MgsP6M",
+      "name": "Tokyo Detention House",
+      "localName": "東京拘置所",
+      "coordinates": {
+        "lat": 35.758668899999996,
+        "lng": 139.8176593
+      },
+      "image": "https://cdn.animepilgrimage.com/places/528f98d0-9531-400e-8e7a-4738fc54a3d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/528f98d0-9531-400e-8e7a-4738fc54a3d1.webp"
+        },
+        {
+          "url": "media/cached-image_807eb848a5faa6c4ea407820a549a6f8518e764b1c4c03e4c3473420a7c778aa.jpg"
+        },
+        {
+          "url": "media/cached-image_0a29db8aa7b7bb32066ca2168de6e6e50e5ae227f3f944761fc55094f141cd0d.jpg"
+        },
+        {
+          "url": "media/cached-image_ec67cf258712ab6f1ba289165205840862d06bee2aa6a16aead82a0775ecdf62.jpg"
+        },
+        {
+          "url": "media/cached-image_b4429cc89e077750c1dc4f4b84e92349b6c2dafb6989204d99e40764e6dc385d.jpg"
+        },
+        {
+          "url": "media/cached-image_20f2887b15ae27d05158e185285071104287c14c97564b447d53de4caf8b6675.jpg"
+        }
+      ],
+      "type": "Detention center",
+      "categories": [
+        "Detention center"
+      ],
+      "rating": 3.7,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tokyo Detention House, 1 Chome-35-1 Kosuge, Katsushika City, Tokyo 124-8565, Japan",
+      "city": "Katsushika City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Tokyo Detention House in Kosuge is the real-world model for the detention facility that looms over Episode 13 of the series. Its austere concrete exterior is faithfully depicted in the anime as the place where key gang members are held, raising the stakes for Takemichi's attempts to change the future.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7568252,139.8170539,3a,48.8y,68.46h,94.29t/data=!3m7!1e1!3m5!1sxCVwUBG7b4KIDWmhIy0alg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.293868758004152%26panoid%3DxCVwUBG7b4KIDWmhIy0alg%26yaw%3D68.46186310313946!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl-6uWuJcGGARBYZfwxg8cyE",
+      "name": "NPC 24 H Chukagai Dai 3 Pakingu",
+      "localName": "NPC24H中華街第3パーキング",
+      "coordinates": {
+        "lat": 35.442949999999996,
+        "lng": 139.648424
+      },
+      "image": "https://cdn.animepilgrimage.com/places/af6e36b4-2a2f-4df1-b557-cb4c4890ea5a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/af6e36b4-2a2f-4df1-b557-cb4c4890ea5a.webp"
+        },
+        {
+          "url": "media/cached-image_7dd3bf9cf3d41ec180813e5f68321adb371ff1278c480f898a30875513a0fd00.jpg"
+        },
+        {
+          "url": "media/cached-image_066a184d1f6c297ea20a7c30a0f29714d73acc5d316d211e970630637fca4fae.jpg"
+        },
+        {
+          "url": "media/cached-image_ad0b5903272c5abd0df460af643fb5d3986356ceea8e701c822feded337b57db.jpg"
+        },
+        {
+          "url": "media/cached-image_e8fea09d8a06171fd68924a3c41c4c19ac7668f10ac19ab041aaf4f33108ef3c.jpg"
+        },
+        {
+          "url": "media/cached-image_0dd6c5c0eaa8ef8e0aaf55e4923344f324c7720d846cfb8004f49dc1aaecd465.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "NPC 24 H Chukagaidai 3 Pakingu, 97-3 Yamashitacho, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This parking lot near Yokohama's Chinatown appears in Episode 12 as the spot where Naoto parks and Hinata takes the car before walking with Takemichi to the nearby park. It serves as the practical anchor tying the Yamashita Park emotional scene to its real Yokohama neighborhood context.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4431222,139.6483592,3a,90y,314.74h,95.99t/data=!3m7!1e1!3m5!1ss_iddmT6gwAznHrLbdYeAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.993899981937616%26panoid%3Ds_iddmT6gwAznHrLbdYeAQ%26yaw%3D314.74087764771843!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3aTRRVeLGGAR7OELpPWEObI",
+      "name": "Gusto Shibuya Sakuragaoka",
+      "localName": "ガスト 渋谷桜丘店",
+      "coordinates": {
+        "lat": 35.6557303,
+        "lng": 139.7004311
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0d45954-5ee2-45e2-bb68-33b0cd4337dc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0d45954-5ee2-45e2-bb68-33b0cd4337dc.webp"
+        },
+        {
+          "url": "media/cached-image_e57101bc012fc38f7021f68cb4d17fc10f4ab93335f2dd41e7f25cbbe662039d.jpg"
+        },
+        {
+          "url": "media/cached-image_deef317632be22ba08785bf081e57bf9a91e4b1f207da3fcb12bb99ee12808ef.jpg"
+        },
+        {
+          "url": "media/cached-image_3dfdfa05601acbd57a99c521175bd5de1a8c9d29b39346f235e067467649826b.jpg"
+        },
+        {
+          "url": "media/cached-image_e88d184ed00f5703d93774e4becaa1cb22a686998b86acb8c2eb4d57c8afef33.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gusto - Shibuya Sakuragaoka, Kasuya Bldg. II, １Ｆ 23-23 Sakuragaokacho, Shibuya, Tokyo 150-0031, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Gusto Shibuya Sakuragaoka is the real family restaurant behind the memorable Episode 5 scene where Mikey orders a kids meal, playing up his childlike appetite despite his fearsome reputation as Toman's president. The Sakuragaoka branch of this chain is confirmed as the actual filming location.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.655882,139.7005756,3a,90y,231.58h,92.16t/data=!3m7!1e1!3m5!1sFgGaMNEUZWjjXgmxK5gYgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.15729123909108%26panoid%3DFgGaMNEUZWjjXgmxK5gYgA%26yaw%3D231.57842764152346!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3XMIoRtPGGAR_QfzWMXJEjQ",
+      "name": "Shirasuya",
+      "localName": "しらすや",
+      "coordinates": {
+        "lat": 35.307449,
+        "lng": 139.49332339999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc02e263-8c54-41a3-a423-e10f417541a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc02e263-8c54-41a3-a423-e10f417541a1.webp"
+        },
+        {
+          "url": "media/cached-image_a30d4c31230607a0ceadbc8c3efac228b0059e2dcda2ec3e7fdb0e4aac95dc54.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shirasuya, 2 Chome-10-13 Koshigoe, Kamakura, Kanagawa 248-0033, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Shirasuya is a beloved Kamakura seafood spot near the coast and appears in Episode 16 during the Toman founders' day trip to Kanagawa. The restaurant's shirasu (whitebait) dishes and seaside Koshigoe location match the laid-back beach-trip atmosphere of that episode.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3073701,139.4931362,3a,61.3y,41.55h,102.33t/data=!3m7!1e1!3m5!1sWjosfaZVMi73ciSXRXyqyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.328335977890845%26panoid%3DWjosfaZVMi73ciSXRXyqyQ%26yaw%3D41.55270229248589!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 16
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJscW_L52LGGAR2y2Th-uiAag",
+      "name": "party on TOKYO box disco",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.663274,
+        "lng": 139.734081
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7cf7f4c-5224-49e1-930f-d94bdb5dc94b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7cf7f4c-5224-49e1-930f-d94bdb5dc94b.webp"
+        },
+        {
+          "url": "media/cached-image_402fdce17203d0e99576ad27dfade130ddbe52342f4a99d4adbed17bfe6daf81.jpg"
+        }
+      ],
+      "type": "Dance club",
+      "categories": [
+        "Dance club"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 3 Chome−8−15 日拓ビル B1 party on TOKYO box disco",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6630485,139.7343258,3a,90y,322.63h,92.91t/data=!3m7!1e1!3m5!1ssPS1vYA3TI5zlroHOJgeqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9125713860831013%26panoid%3DsPS1vYA3TI5zlroHOJgeqA%26yaw%3D322.6313864558235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGWT03kGLGGARIJAb2sNtxYE",
+      "name": "Shibuya Brdg.",
+      "localName": "渋谷橋",
+      "coordinates": {
+        "lat": 35.6489408,
+        "lng": 139.7113336
+      },
+      "image": "https://cdn.animepilgrimage.com/places/65d8642f-4e34-4809-9a0b-78629c997d86.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/65d8642f-4e34-4809-9a0b-78629c997d86.webp"
+        }
+      ],
+      "type": "Intersection group",
+      "categories": [
+        "Intersection group"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya Brdg., 1-chōme-2 Hiroo, Shibuya, Tokyo 150-0012, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Shibuya Bridge appears in Episode 18 as the location where Takemichi and Chifuyu hold a tense conversation with Baji, a pivotal scene that advances the Baji arc leading into Bloody Halloween. The bridge's canal-side setting gives the scene a gritty, underground feel true to the manga.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6489811,139.7115602,3a,61.7y,313.88h,97.58t/data=!3m7!1e1!3m5!1sABMmtyYQ99gekMpcPZPsSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.582602028247024%26panoid%3DABMmtyYQ99gekMpcPZPsSg%26yaw%3D313.88049689875754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgReftqqMGGARX3QdHKGZJW4",
+      "name": "Utsuwa Marukaku",
+      "localName": "器まるかく",
+      "coordinates": {
+        "lat": 35.6569686,
+        "lng": 139.691475
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12f9a9f4-7714-4992-adca-522776bef0c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12f9a9f4-7714-4992-adca-522776bef0c7.webp"
+        },
+        {
+          "url": "media/cached-image_fe5af68479a56fa56e46e5efd2ef9590a1e62a0c4b35dc199d497.jpg"
+        }
+      ],
+      "type": "Pottery store",
+      "categories": [
+        "Pottery store"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Utsuwa Marukaku, 第２ミドリマンション 20-4 Shinsencho, Shibuya, Tokyo 150-0045, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6568559,139.6913056,3a,90y,69.04h,90.56t/data=!3m7!1e1!3m5!1sU4ChHkPJ-004FbtyNrRmYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5619851348900653%26panoid%3DU4ChHkPJ-004FbtyNrRmYg%26yaw%3D69.04236228221822!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 22
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8TIT4GHtGGARtyAPEM5KGK0",
+      "name": "Numabukuro Hikawa Shrine",
+      "localName": "中野沼袋氷川神社",
+      "coordinates": {
+        "lat": 35.719525,
+        "lng": 139.6669306
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b5132afb-d6a2-4db4-941e-a2e7045447a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b5132afb-d6a2-4db4-941e-a2e7045447a3.webp"
+        },
+        {
+          "url": "media/cached-image_225b62640473b31e06e15a67d7111d2e7bed2c9b6dc82055d92b1d19c6dfc2e0.jpg"
+        },
+        {
+          "url": "media/cached-image_0bc8b3bc15f48ffae9784beee9fdffe9af20f7e352f86222f76d686e06efee96.jpg"
+        },
+        {
+          "url": "media/cached-image_320b14fbe43d0cd2f9a11f92439b2c3c94e09e7df0fbaa5e44f14ba853b80e20.jpg"
+        },
+        {
+          "url": "media/cached-image_9e038979f01c171fab2ad34a9848b5ea12f2600e966b77269dc367230c4f34da.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 869,
+      "priceLevel": null,
+      "address": "Numabukuro Hikawa Shrine, 1 Chome-31-4 Numabukuro, Nakano City, Tokyo 165-0025, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Numabukuro Hikawa Shrine is the real-world model for the shrine where the Tokyo Manji Gang was founded, a founding moment depicted in the series that cemented Mikey and Draken's leadership. The shrine itself embraced the connection, releasing an official collaboration goshuin stamp for pilgrims visiting the sacred spot.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7194325,139.6667743,3a,75y,302.76h,96.46t/data=!3m8!1e1!3m6!1sAF1QipNIAoW3OA-HsSEnylB8oqVR30C9wHTSQWU6UgBi!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNIAoW3OA-HsSEnylB8oqVR30C9wHTSQWU6UgBi%3Dw900-h600-k-no-pi-6.459130041353802-ya276.7587140116845-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 22
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLZlthbmJGGARqIOsKPTQMLU",
+      "name": "Shinonomebashi-Kosaten",
+      "localName": "東雲橋交差点",
+      "coordinates": {
+        "lat": 35.649206,
+        "lng": 139.80157
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81d959a8-79a6-40de-8eec-2a063e75542f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81d959a8-79a6-40de-8eec-2a063e75542f.webp"
+        },
+        {
+          "url": "media/cached-image_649d41bbcc4d6c75a3c5d3dc5d2597ce4bc83ae3e0fee304d02f81260d55b693.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shinonomebashi-Kōsaten, 1-chōme-9 Shinonome, Koto City, Tokyo 135-0062, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.649233,139.8015138,3a,90y,190.42h,128.97t/data=!3m7!1e1!3m5!1sVVLsh7nEFNzcUVYtA2ZHmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-38.97181394163698%26panoid%3DVVLsh7nEFNzcUVYtA2ZHmw%26yaw%3D190.4220669082271!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 22
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf90WmXqfVDUR0L-50vmXghE",
+      "name": "Daini-Tatsumi-Shogakko",
+      "localName": "南あわじ市立辰美小学校",
+      "coordinates": {
+        "lat": 34.3177472,
+        "lng": 134.69167059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/56f08381-bdef-42f3-aee6-00463e5ab72c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/56f08381-bdef-42f3-aee6-00463e5ab72c.webp"
+        },
+        {
+          "url": "media/cached-image_b73f4f57a94f997d352a619589c14864c010856a29a3f9775bf343cbf9a566e5.jpg"
+        }
+      ],
+      "type": "Elementary school",
+      "categories": [
+        "Elementary school"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tatsumi Elementary School, 2285-4 Tsui, Minamiawaji, Hyogo 656-0341, Japan",
+      "city": "Minamiawaji",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.649182,139.8102841,3a,75y,353.38h,92.19t/data=!3m7!1e1!3m5!1seC1_RWyKvIRorgWm_d8WSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.187001556696302%26panoid%3DeC1_RWyKvIRorgWm_d8WSQ%26yaw%3D353.37986504385964!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 22
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3Qgkuh_tGGARz1n-CeJBAtk",
+      "name": "Tokyo Juvenile Classification Home",
+      "localName": "東京少年鑑別所",
+      "coordinates": {
+        "lat": 35.755552699999996,
+        "lng": 139.6692607
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e0bee98c-8a91-4d6c-9ce7-089ce5151924.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e0bee98c-8a91-4d6c-9ce7-089ce5151924.webp"
+        },
+        {
+          "url": "media/cached-image_fc7de1dd05d138004d1942bc5fb0e7991978405a9f3c436dc0e5fcfd42fef5b5.jpg"
+        }
+      ],
+      "type": "Justice department",
+      "categories": [
+        "Justice department"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Juvenile Classification Home, 2 Chome-11-7 Hikawadai, Nerima City, Tokyo 179-0084, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Tokyo Juvenile Classification Home in Nerima appears in Episode 23 as the juvenile detention facility where gang members are processed after arrests. Its real exterior is faithfully rendered in the anime, grounding the series' themes of youth crime and second chances in an actual Tokyo institution.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.755308,139.6700364,3a,90y,23.09h,99.8t/data=!3m7!1e1!3m5!1sSTyLtcGAnOldMTpJVe5GdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.800309543228408%26panoid%3DSTyLtcGAnOldMTpJVe5GdA%26yaw%3D23.08546821176083!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Dandadan Season 2",
+  "slug": "dandadan-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_b763536cb77ee3ca83f0238c4d0539d1a441ac82a6589bc757cf58d38525a2f6.webp",
+  "image": "media/cached-image_b763536cb77ee3ca83f0238c4d0539d1a441ac82a6589bc757cf58d38525a2f6.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.496881640000005,
+    "lng": 138.91658306
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Dandadan Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJxQGuvHljHmARuRqBh97VZZM",
+      "name": "Ikaho Onsen Yokotekan",
+      "localName": "横手館",
+      "coordinates": {
+        "lat": 36.496494399999996,
+        "lng": 138.91667189999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5684199c-4a18-4106-94f3-68cbe1430ab1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5684199c-4a18-4106-94f3-68cbe1430ab1.webp"
+        },
+        {
+          "url": "media/cached-image_48635c878d32e04d17830b6c212897da4f2d9e6c030a0f3b1f2e7c355000dfdf.jpg"
+        },
+        {
+          "url": "media/cached-image_2716ca5143744f69acca2a4c098b359ff8608dc895652e50b966b0bc1f45c130.jpg"
+        },
+        {
+          "url": "media/cached-image_5cb08d1296174e291e756bee3b2ef09f50f1a7da7f7054d6f73f819847558c64.jpg"
+        },
+        {
+          "url": "media/cached-image_de4241a86641ca045d7db304b07369dc7e3e1b5a73c2aacd30831dc7adef6a8d.jpg"
+        },
+        {
+          "url": "media/cached-image_09bcdbd085be1b1828b5c9db500109a30fafa5528d8f2aaff41504446417c5bf.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikaho Onsen Yokotekan, 11 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4965634,138.9166113,3a,90y,112.8h,96.73t/data=!3m7!1e1!3m5!1sUCMpWk-JN21gjM3Iew6l6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.727718356574286%26panoid%3DUCMpWk-JN21gjM3Iew6l6Q%26yaw%3D112.79667829059028!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This traditional wooden inn at Ikaho Onsen appears in episode 1 as the lodging where Okarun and Momo stay during their hot spring trip, setting the cozy backdrop for their supernatural misadventures together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_dandadan-2_1",
+      "name": "Pururin Cafe",
+      "localName": "ぷるりんカフェ",
+      "coordinates": {
+        "lat": 36.4973,
+        "lng": 138.91696
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6670e1e8-6160-46d8-a4d4-31c4169c7651.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6670e1e8-6160-46d8-a4d4-31c4169c7651.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4973156,138.9169426,3a,90y,176.33h,96.64t/data=!3m7!1e1!3m5!1sYqRkIuDbemi4Yi4Z5YsK6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.644143710338895%26panoid%3DYqRkIuDbemi4Yi4Z5YsK6A%26yaw%3D176.33149875362832!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small cafe along the Ikaho stone steps area appears in episode 1, where Momo and Okarun stop in during their Ikaho Onsen visit, capturing a quiet moment between the two leads amid the town's quaint atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1efPj3ljHmARxSYFVHlAyj4",
+      "name": "Ikaho Shrine",
+      "localName": "伊香保神社",
+      "coordinates": {
+        "lat": 36.49595,
+        "lng": 138.91597
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a6bfd25-b4eb-4b28-993b-604a4c9c00e2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a6bfd25-b4eb-4b28-993b-604a4c9c00e2.webp"
+        },
+        {
+          "url": "media/cached-image_929027fcbb4074d180ac2c4a7a0cf0d5e3926b2407341f0b2b36d35cd97dae08.jpg"
+        },
+        {
+          "url": "media/cached-image_6b33b1f5e6987f908dfd3f512aae03747bb8727bdbbac7f2b07db4353843010c.jpg"
+        },
+        {
+          "url": "media/cached-image_cdbe75eb8dd5d5fde0f6569ed2f3a96b371fbf360932ae6276e6651b3dcd3054.jpg"
+        },
+        {
+          "url": "media/cached-image_bad4fee24b35f3346a211559c0457b48be91db2af6a0f5c7a94fa1353b781eec.jpg"
+        },
+        {
+          "url": "media/cached-image_ed9d2ef2d812914313168059e167d061e238fffff5fe64e0cdeeafc4ef550504.jpg"
+        },
+        {
+          "url": "media/cached-image_8d84db8d8f0084439120b6aee263a37de715d9b6c5d4afdae848a76e0238bd23.jpg"
+        },
+        {
+          "url": "media/cached-image_9e3ea5981b84c58b777c3940cc916247cc3ea9877e0eb05c4ea6fa9a1470d759.jpg"
+        },
+        {
+          "url": "media/cached-image_31ab7f12de1f37dd4826570bbd5fdada8d0a72501ccc91b5557c92f6bb2ddb63.jpg"
+        },
+        {
+          "url": "media/cached-image_02969303cc94be90e1323b1b3df78185e76bcf4caf721b305cfd2170c18b029b.jpg"
+        },
+        {
+          "url": "media/cached-image_4882dff546f61163f7eb7c40b72f7971dd5171a4e1ea3ce9c705040f6f6916a0.jpg"
+        },
+        {
+          "url": "media/cached-image_7288eb8dca93cc648501e2981acac91615ff090c3c69fd2f382b6fb53dd98bf7.jpg"
+        },
+        {
+          "url": "media/cached-image_a10a449e626f6b7c8bb84e76dedb100e5e578765ef40d2ed00e0ffdc85c6ce41.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4,
+      "reviewCount": 1934,
+      "priceLevel": null,
+      "address": "1 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.496017,138.9160089,3a,73.9y,176.97h,94.63t/data=!3m7!1e1!3m5!1sLX5IfHvrLsbmCNxhUlgzHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.626911786505346%26panoid%3DLX5IfHvrLsbmCNxhUlgzHQ%26yaw%3D176.9739954916629!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The historic shrine at the top of Ikaho's famous 365-step stone staircase appears in episode 1 as a key landmark the characters visit, with the stone steps themselves serving as an iconic visual throughline for the Ikaho arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLacNc3ljHmARzBIx57NsRcM",
+      "name": "Ishidan-gai Pocket Park",
+      "localName": "石段街ポケットパーク",
+      "coordinates": {
+        "lat": 36.4971841,
+        "lng": 138.9163806
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84646631-c2a0-44f1-9340-465eb9873e71.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84646631-c2a0-44f1-9340-465eb9873e71.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ishidan-gai Pocket Park, 50 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4971962,138.9162897,3a,90y,202.29h,119.34t/data=!3m7!1e1!3m5!1s921UoYOOO0BUmSl7Yn7byQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-29.342535747680103%26panoid%3D921UoYOOO0BUmSl7Yn7byQ%26yaw%3D202.2852042219918!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This small rest area near the famous Ikaho stone steps appears in episode 4, used as a gathering spot where the characters regroup during the ongoing Ikaho storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXwOVDXljHmARLlqddLzSwvE",
+      "name": "Ikaho Onsen Ishizaka Ryokan",
+      "localName": "伊香保温泉 石坂旅館",
+      "coordinates": {
+        "lat": 36.4974797,
+        "lng": 138.91693279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74565683-6ec4-4301-8007-6e2defcd09a1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74565683-6ec4-4301-8007-6e2defcd09a1.webp"
+        },
+        {
+          "url": "media/cached-image_8e81ca761358b1eac4a0d4959498b1b188fedd37c57d5905882fe5f7f140814f.jpg"
+        },
+        {
+          "url": "media/cached-image_de363c62a05b7e4d34087790b0f19bc4e9ce561f6f2d4d7ab55b6cbe10db277b.jpg"
+        },
+        {
+          "url": "media/cached-image_cf393eec79a1e9f3b9c2ffe9ef8eca479d4cb29f8ee94875ac01894dee690adb.jpg"
+        },
+        {
+          "url": "media/cached-image_9d9b95c04bcff9d4c8c9449a370219dfebdf1a50a71716e8f95358a63e825015.jpg"
+        },
+        {
+          "url": "media/cached-image_f34fa56641b75c6affc2f4f6332372dc2b069c358bd833d169dde19b6f5ede2a.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikaho Onsen Ishizaka Ryokan, 67 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4979165,138.9170205,3a,90y,15.47h,83.85t/data=!3m7!1e1!3m5!1s1j40_NpsubbX-IcBaG5yog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.152798920965566%26panoid%3D1j40_NpsubbX-IcBaG5yog%26yaw%3D15.473883396209782!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This ryokan along the Ikaho stone steps street is featured in episode 1 as part of the Ikaho Onsen setting, its traditional exterior visible in background shots as the characters explore the onsen town."
+    }
+  ]
+}

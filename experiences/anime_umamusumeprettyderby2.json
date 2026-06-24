@@ -1,0 +1,640 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Uma Musume Pretty Derby Season 2",
+  "slug": "uma-musume-pretty-derby-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_915e2680328684bfb3cbf24bccb035447eae00e7d68010ef8344f08d9d1d148d.webp",
+  "image": "media/cached-image_915e2680328684bfb3cbf24bccb035447eae00e7d68010ef8344f08d9d1d148d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.76789233333333,
+    "lng": 138.60392642
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Uma Musume Pretty Derby Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJceHc0AmoAWARLsqeCrglA1o",
+      "name": "Kamo Shrine",
+      "localName": "上賀茂神社",
+      "coordinates": {
+        "lat": 35.060377599999995,
+        "lng": 135.7527293
+      },
+      "image": "https://cdn.animepilgrimage.com/places/332037b1-64ed-43fc-95e4-977b38ac2da0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/332037b1-64ed-43fc-95e4-977b38ac2da0.webp"
+        },
+        {
+          "url": "media/cached-image_68a0809a0864e307b822fd28a03cc5b4d832c880cb4b3a4a247bed0e349e7183.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 8867,
+      "priceLevel": null,
+      "address": "Kamigamo Shrine, 339 Kamigamo Motoyama, Kita Ward, Kyoto, 603-8047, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.124695,136.0654791,3a,24.6y,64.95h,94.26t/data=!3m7!1e1!3m5!1sbCY0uW63rip9ggCA4FrBVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.261533539918759%26panoid%3DbCY0uW63rip9ggCA4FrBVQ%26yaw%3D64.95207720679763!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Tokai Teio visits Kamo Shrine in Kyoto during her training arc, offering a prayer before a crucial race that tests her resolve to compete again. The serene grounds reflect her quiet determination as she faces an uncertain comeback."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ5YbSXiLGGAR2bi7lKs5Wh0",
+      "name": "Hachiko Square",
+      "localName": "ハチ公前広場",
+      "coordinates": {
+        "lat": 35.6594838,
+        "lng": 139.7008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4cd4fb30-e0c4-4bf5-9d32-03e12d6dcecd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4cd4fb30-e0c4-4bf5-9d32-03e12d6dcecd.webp"
+        },
+        {
+          "url": "media/cached-image_6d7e08bf06ae5d907901c8f49d13e291432828654b65b55d0a798b3089d2f000.jpg"
+        },
+        {
+          "url": "media/cached-image_dc1cfd775c7993ce0296e7c60d551f81817ddc4f07c3f10135efd9b13d4513df.jpg"
+        },
+        {
+          "url": "media/cached-image_1c1a99425ab3396b526ff6ba0241dae36b9af3da70ae7a77cdea42b5b6baa1b5.jpg"
+        },
+        {
+          "url": "media/cached-image_c79f616a952f03c725bf5fd3d4a35d93ee02e2b034f4f2e13616224685016034.jpg"
+        },
+        {
+          "url": "media/cached-image_f60f3e3afec551f88f6e709b56001f8dbb9f3bf568b87d71eaf035b06bf60bc0.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 25351,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594838,139.7008,3a,40.5y,170.14h,93.82t/data=!3m7!1e1!3m5!1sXVJVifnGo2nWMynwQxUtJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXVJVifnGo2nWMynwQxUtJg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D58.64933%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The iconic Hachiko Square outside Shibuya Station appears as Teio and McQueen meet up in the city during their off-season, capturing a rare casual moment between the two rivals away from the racetrack. Fans recognise the distinctive scramble-crossing backdrop from the episode's key visual."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWaVdDXuGGART_Pg1R3CZ4A",
+      "name": "Inokashira Park",
+      "localName": "井の頭恩賜公園",
+      "coordinates": {
+        "lat": 35.69878,
+        "lng": 139.57882
+      },
+      "image": "https://cdn.animepilgrimage.com/places/893dd82a-edfc-43b4-8c65-f2a177638959.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/893dd82a-edfc-43b4-8c65-f2a177638959.webp"
+        },
+        {
+          "url": "media/cached-image_afbeb8d6a50b89414c6ab7d07bd89d3d41713271fd29786019c933700296f063.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-18-31 Gotenyama, Musashino, Tokyo 180-0005, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RLzyK9NpDCnqmNFZ9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Teio and McQueen share a quiet walk through Inokashira Park in episode 9, a bittersweet scene where McQueen's injury worries begin to surface and the two reflect on their bond beyond racing. The park's calm lake mirrors the emotional weight of the conversation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlSj0rD4FAWAR2g59hNCbCT8",
+      "name": "JRA Kyoto Racecourse",
+      "localName": "京都競馬場",
+      "coordinates": {
+        "lat": 34.9070391,
+        "lng": 135.7245324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cb3ce666-79f8-4194-86a1-41d2a243bed9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cb3ce666-79f8-4194-86a1-41d2a243bed9.webp"
+        },
+        {
+          "url": "media/cached-image_8b86ee6fe6bc88093e3ee0a6667064a36aec69bcdf61a93d4c2166775beb88b4.jpg"
+        },
+        {
+          "url": "media/cached-image_6fb5009bfca7ca21469091232d9684c95582c273ce890d6bb7cd197e18a2319f.jpg"
+        },
+        {
+          "url": "media/cached-image_9fae9c8dadcdf9294cef2a47e8577fa8b42b15b6aff62d1ab6ec23f4188de293.jpg"
+        },
+        {
+          "url": "media/cached-image_631570010131b437a7f036b6eef5629b5271d118f1463907b997f14e9f99b5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_33bd7a4c4468cd1b9c0b6064945d18d3836d017579df87680f71a545223d4ed2.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "JRA Kyoto Racecourse, 32 Yoshijima Watashibajimacho, Fushimi Ward, Kyoto, 612-8265, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JRA+Kyoto+Racecourse/@34.907505,135.7261062,3a,90y,68.11h,111.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC448afgAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbUflDmlRuAYKHPCoXBsBSpc437EOqZMRKWqX7M8I_POpDtt0yqUFM6jiFUmK7QHcj0Xadf47o7LTQJsCMRj2dcJdMHDaM-TMLKVHwNtZ9Gr-lfT2lyj8mEo3pjt13BUC8QJkwSLw%3Dw900-h600-k-no-pi-21.823584427852026-ya68.11358954036882-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6001053eacf42895:0x3f099bd0847d0eda!8m2!3d34.9070391!4d135.7245324!10e5!14m1!1BCgIgARICCAI!16zL20vMDcycThy?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Kyoto Racecourse hosts the Tenno Sho (Spring) where Mejiro McQueen defends her title and Tokai Teio pushes herself back onto the same stage, marking one of the season's most charged head-to-head rivalries. Pilgrims visit to stand on the same straight where the girls raced.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU4_tM-jzAGARDEr9DdyHaLo",
+      "name": "Hanshin Racecourse",
+      "localName": "阪神競馬場",
+      "coordinates": {
+        "lat": 34.7789941,
+        "lng": 135.3611273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f3b8837c-bdee-4cf6-9f8d-a572b151acb3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f3b8837c-bdee-4cf6-9f8d-a572b151acb3.webp"
+        },
+        {
+          "url": "media/cached-image_77ae47d0ac4cade6b5ec72c23df28d0d675d7975030c8ce19bf7de790fc77939.jpg"
+        },
+        {
+          "url": "media/cached-image_78894d71e81db11250fe3345864da4410744949995e1612bb396514ec6f56637.jpg"
+        },
+        {
+          "url": "media/cached-image_557799cad84e592ce16726dd8fedb27a16ca2fc47b869b498bbb977be6714b2a.jpg"
+        },
+        {
+          "url": "media/cached-image_f64ef1aa47b610c9e6df9566df3a53f7c99913b7a6939f61c3a4a100945962ad.jpg"
+        },
+        {
+          "url": "media/cached-image_19cc628d22eeed77bc413b7c327ae867f2ec20239a89e270883f765fabfafd7f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 222,
+      "priceLevel": null,
+      "address": "Hanshin Racecourse, 1-1 Komanocho, Takarazuka, Hyogo 665-0053, Japan",
+      "city": "Takarazuka",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.7796261,135.3603216,3a,90y,25.08h,104.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq85S4ZQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY7NkRzizAomLA9WB7ONzdm5uc35UGJwlfG83iwwmbZJY5quGwhByvpXsxMuo1i3l8xiSQfhc6F4lVOCG4Uz44e3CezNIiOUmnpcvexAjshWzSKTF_2d4ogjE6q6YEsPMiv3yPR%3Dw900-h600-k-no-pi-14.363096909493805-ya21.5608794040896-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Hanshin Racecourse is the setting for the Takarazuka Kinen, a pivotal race in season 2 where the pressure on Tokai Teio's comeback reaches its peak and McQueen's condition becomes a concern for the whole team. The grandstand scenes were closely referenced from the real venue's layout.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNaals-HkGGARUfk8jRYyt0k",
+      "name": "JRA Tokyo Racecourse",
+      "localName": "東京競馬場",
+      "coordinates": {
+        "lat": 35.6637899,
+        "lng": 139.4832255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/704486c1-cd1e-44cb-af61-b1812e222579.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/704486c1-cd1e-44cb-af61-b1812e222579.webp"
+        },
+        {
+          "url": "media/cached-image_af9ad566ad4cdb93083b17e3fa1ff2d76f5abf69d99e7b021bfab1f32aacd970.jpg"
+        },
+        {
+          "url": "media/cached-image_07996f8342ef99fd8b920c0f139c53a92c3befa0d756e06afeb559cd5917c25a.jpg"
+        },
+        {
+          "url": "media/cached-image_88d950353bc231d108d9bed1c7b4e6aadf2b6f130792fa28c50981d9267301fe.jpg"
+        },
+        {
+          "url": "media/cached-image_af64085ec3c8746a78b7d99afd58ddab620af38a1438487cfe0df43b02584a2d.jpg"
+        },
+        {
+          "url": "media/cached-image_a368680eeba293bbb5d9e2f52938f44d71b83b1b0ba1e35b071a191274baf5a9.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": 597,
+      "priceLevel": null,
+      "address": "JRA Tokyo Racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659143,139.4846136,3a,75y,10.35h,96.43t/data=!3m7!1e1!3m5!1sZSPwztEqxtU2GTAKCtr31Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.434030561449447%26panoid%3DZSPwztEqxtU2GTAKCtr31Q%26yaw%3D10.346284680204406!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Tokyo Racecourse is the centrepiece of season 2, hosting the Tenno Sho (Autumn) where Tokai Teio makes her dramatic comeback and crosses the finish line after multiple injuries threatened to end her career. This is the emotional climax fans replay most.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFwCwXLvlGGAR0q3LOF_upBs",
+      "name": "Paddock in Tokyo racecourse",
+      "localName": "東京競馬場 パドック",
+      "coordinates": {
+        "lat": 35.665802299999996,
+        "lng": 139.483479
+      },
+      "image": "https://cdn.animepilgrimage.com/places/750b08f3-e946-46c6-9eb3-31a8f7d00ba2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/750b08f3-e946-46c6-9eb3-31a8f7d00ba2.webp"
+        },
+        {
+          "url": "media/cached-image_17a6a51a3d10532f71b66095bd602dd89477970b1a2590e01a532e0f064428ab.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Paddock in Tokyo racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6654663,139.4832826,3a,46.3y,356.32h,88.7t/data=!3m7!1e1!3m5!1sOf9tUVkYeGy4sx4FTSnxCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3016032844548988%26panoid%3DOf9tUVkYeGy4sx4FTSnxCQ%26yaw%3D356.3215858703565!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The paddock at Tokyo Racecourse is shown as the pre-race gathering space where Teio's teammates and trainers watch her enter the parade ring for the Tenno Sho (Autumn), their anxious expressions underlining just how much is riding on her return to form.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ25tiKOKAGGARJ43koRMjYu0",
+      "name": "Nakayama Racecourse",
+      "localName": "中山競馬場",
+      "coordinates": {
+        "lat": 35.7251681,
+        "lng": 139.9599188
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d90aa39-2463-464e-8183-cd5fbb4d78d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d90aa39-2463-464e-8183-cd5fbb4d78d7.webp"
+        },
+        {
+          "url": "media/cached-image_f8a0e8811c5fad0587e8d7308c4c49ac8b449bc5a06bb4f111358003dc28a204.jpg"
+        },
+        {
+          "url": "media/cached-image_95aae8f4fc306f6155acef3b9610a3d6f97558b17539ccd56e62abe6661001c3.jpg"
+        },
+        {
+          "url": "media/cached-image_66d6eb094b9127a69f77334a8b9ab76cc8901a64bbb1f4976d565ba233bbaa71.jpg"
+        },
+        {
+          "url": "media/cached-image_370c226b6b0216f480160976148ac9c4d9b65356885ac39555171a8f9708df10.jpg"
+        },
+        {
+          "url": "media/cached-image_ae575637a5064ff21efac74576ce3510f7ddea2d32ba4d04d879abbfffdbed4f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 137,
+      "priceLevel": null,
+      "address": "Nakayama Racecourse, 1 Chome-1-1 Kosaku, Funabashi, Chiba 273-0037, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/v8bhg8gnxfD8g7C16",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Nakayama Racecourse hosts the Arima Kinen, the year-end Grand Prix that serves as one of season 2's major turning points where Tokai Teio and Mejiro McQueen are both entered and their rivalry intensifies under the winter sky. The distinctive inner-course layout appears in background shots.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNQp_mqSMGGARo7ToygR9ON0",
+      "name": "ABC-MART GRAND STAGE Harajuku Store",
+      "localName": "ABC-MART GRAND STAGE Harajuku Shop",
+      "coordinates": {
+        "lat": 35.6693582,
+        "lng": 139.7058777
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84732920-20be-475b-8804-a417341a9521.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84732920-20be-475b-8804-a417341a9521.webp"
+        },
+        {
+          "url": "media/cached-image_6e689d616af3d3a01712e89c5081103c5d546806f216884a1de21d4f140b9c13.jpg"
+        }
+      ],
+      "type": "Shoe store",
+      "categories": [
+        "Shoe store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ABC-MART GRAND STAGE 原宿店, １Ｆ 1 Chome-9-18 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6694226,139.7061396,3a,75y,267.19h,108.53t/data=!3m7!1e1!3m5!1sSdIGdh0mw5AKwOSBQPx7vQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.52726071152742%26panoid%3DSdIGdh0mw5AKwOSBQPx7vQ%26yaw%3D267.1899230205134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The ABC-MART GRAND STAGE Harajuku store appears in episode 10 when Teio goes shopping in the Omotesando area, a light-hearted slice-of-life scene that gives fans a rare look at the girls off duty in Tokyo's fashion district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHUXTA9s0i18RhBMTql18NK0",
+      "name": "Niigata Racecourse",
+      "localName": "新潟競馬場",
+      "coordinates": {
+        "lat": 37.9489775,
+        "lng": 139.18349899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2c578597-8e38-41f6-85db-859d81482473.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2c578597-8e38-41f6-85db-859d81482473.webp"
+        },
+        {
+          "url": "media/cached-image_8eb7c83f2eaf559cf9faf41f1b5625c16930e2f7716916c32154eeecd21e287c.jpg"
+        },
+        {
+          "url": "media/cached-image_9d5c59f57754a7ed13a4da6d70ae11f8043778b519fd2116b9a7e714aa6df89f.jpg"
+        },
+        {
+          "url": "media/cached-image_80877a0c42888e46ace78f012dd50b6f74a04823bf7e0be1f77eb135e1f84bc4.jpg"
+        },
+        {
+          "url": "media/cached-image_f59b8504d90c6c6702374e0847355977f049188a003bb0d1fc6036b31138d1ed.jpg"
+        },
+        {
+          "url": "media/cached-image_b155278708d74a731fe456ce973ea80ad12e46dcb90e73d2bbcf90e32c08b103.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 34,
+      "priceLevel": null,
+      "address": "Niigata Racecourse, 3490 Sasayama, Kita Ward, Niigata, 950-3301, Japan",
+      "city": "Niigata",
+      "region": "Niigata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Niigata+Racecourse/@37.9489775,139.183499,3a,28.9y,249.22h,90.37t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICbmL3__gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaaEF86ITlu6Pcw5CWnnLfWzbwMDD3pTo0mP_zeOq6Icw7xHTwglnIwKh14KOcO966XFOfvFiOrWxjI2gEtpxwZxOCxtP496lhLwOJn3hYPSS3bF0YbxKQNfORqru2Ojn3E3bqoag%3Dw900-h600-k-no-pi-0.3737774005761878-ya35.35558787661836-ro0-fo100!7i6720!8i3360!4m9!3m8!1s0x5f8b34db03d3451d:0xad347c5daa131384!8m2!3d37.9489775!4d139.183499!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F05f310z?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Niigata Racecourse appears in episode 7 as a race venue where supporting characters compete, widening the season's sense of the full JRA racing calendar beyond the headline classics. The long straight of Niigata is reflected in the background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-pretty-derby-2_10",
+      "name": "Green Plaza",
+      "localName": "緑の広場",
+      "coordinates": {
+        "lat": 34.90624,
+        "lng": 135.72273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ccd250b5-8f3a-4b1d-a8f7-3138f13c12d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ccd250b5-8f3a-4b1d-a8f7-3138f13c12d9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.9059418,135.7223122,3a,21.2y,42.47h,98.06t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC2kPHj7wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZDMaMaC7rVf1LWUaSV9yKg_JinceVspbXo-RAr7FZaVaznE1r6lmquTbBm3a-bvI-GVCpwWcfpxjE4Yg2KuE7lekRQ-398ena4S_hhnp2JVY5Xp5pPeY7IIUKgV7s1qDtCnh-5zg%3Dw900-h600-k-no-pi-8.058705149165732-ya28.471218814170925-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Green Plaza area within Kyoto Racecourse grounds appears in episode 8 as a relaxed gathering space where characters watch preparations before a race, its open lawn providing a contrast to the tension of the main track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQWktBO_kGGARGN1qc-LrF3E",
+      "name": "FamilyMart Fuchu Miyamachi store",
+      "localName": "ファミリーマート 府中本町店",
+      "coordinates": {
+        "lat": 35.6669547,
+        "lng": 139.4750014
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b4b5669a-d79c-4e88-a287-01402dbb2ecf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b4b5669a-d79c-4e88-a287-01402dbb2ecf.webp"
+        },
+        {
+          "url": "media/cached-image_8c7ab5336567af5469c4ed506e6528365387e90afd9856215978de029b60f742.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 2 Chome-６-8 Honmachi, Fuchu, Tokyo 183-0027, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6710307,139.4814887,3a,90y,7.55h,95.59t/data=!3m7!1e1!3m5!1sFasIeWZ2XF8FU7AA6WrvCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.588355654103353%26panoid%3DFasIeWZ2XF8FU7AA6WrvCQ%26yaw%3D7.550102715006135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This FamilyMart near Tokyo Racecourse is shown in episode 9 as a convenience store stop for the characters on a day visit to the Fuchu area, a grounded everyday moment that pilgrimage fans seek out as a companion spot to the racecourse itself."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh86pQXeGil8RBE2HL43qnkU",
+      "name": "Fukushima Racecourse",
+      "localName": "福島競馬場",
+      "coordinates": {
+        "lat": 37.7653639,
+        "lng": 140.4801108
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c60331d9-7904-420e-9c5e-0feb6d9df90b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c60331d9-7904-420e-9c5e-0feb6d9df90b.webp"
+        },
+        {
+          "url": "media/cached-image_8a8e55ab37a47a30cbe0ce5d4d947f28235981e480798c444fc6878d4ce6d43b.jpg"
+        },
+        {
+          "url": "media/cached-image_fc13fff6c26562056ce8731103f0f14b9821d08a005ea622b1e97ed7badd17ff.jpg"
+        },
+        {
+          "url": "media/cached-image_48b639c44f7551f96fa51d95fd68458ce0d94991678cbb192606bd6ff9cc1b4c.jpg"
+        },
+        {
+          "url": "media/cached-image_0a76a020cf9f566a3dd559287e285bf597f3a7ef7a91131eda1e03b173ffad86.jpg"
+        },
+        {
+          "url": "media/cached-image_78b04cc2759a694be4a968aee8ebd2df1baba87efbf1622c49ec9454aa845b1d.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 34,
+      "priceLevel": null,
+      "address": "Fukushima Racecourse, 9-23 Matsunamicho, Fukushima, 960-8133, Japan",
+      "city": "Fukushima",
+      "region": "Fukushima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Fukushima+Racecourse/@37.7653639,140.4801108,3a,41.4y,116.12h,90.57t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDzjufEiAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hbm-nduRTz66sDNEpz4rGws-6RYYKsKzKzlwMbISJ9G4XZnBRFAfQ5NaQ6Ok4Fp6j14oOmcKjWVxdQnaS6fRPI1ui_sIcBy32FjnDnzxUB9fJLUzgLaARTK6UOxpCl4RpigQMfzYA%3Dw900-h600-k-no-pi-0.5709658236614246-ya338.39895827965574-ro0-fo100!7i6720!8i3360!4m9!3m8!1s0x5f8a867741a9ce87:0x459eea8d2f874d04!8m2!3d37.7653639!4d140.4801108!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F05f9_41?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Fukushima Racecourse appears in episode 10 as a regional venue where characters build race experience before competing at major tracks, illustrating the season's attention to the breadth of the JRA circuit outside Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_uma-musume-pretty-derby-2_13",
+      "name": "KURURU",
+      "localName": "くるる",
+      "coordinates": {
+        "lat": 35.67118,
+        "lng": 139.48045
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed82db8e-3406-46ce-a78b-fbef21fafdf1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed82db8e-3406-46ce-a78b-fbef21fafdf1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6708303,139.480408,3a,49.6y,25.99h,112.84t/data=!3m7!1e1!3m5!1szjKPSOye4w8BLIkgEJom0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.8357506854301%26panoid%3DzjKPSOye4w8BLIkgEJom0w%26yaw%3D25.985695002910354!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "KURURU is a shopping complex near Tokyo Racecourse that appears in episode 11 as a casual backdrop during a rest day scene, showing the characters exploring the Fuchu neighbourhood that surrounds their home track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdw2VOx2BGGARJPkxiiNGVQo",
+      "name": "Funabashi Hoten Station",
+      "localName": "船橋法典駅",
+      "coordinates": {
+        "lat": 35.7308758,
+        "lng": 139.9665951
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87bdd5d5-80c1-4480-8c24-2fc9b57740ed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87bdd5d5-80c1-4480-8c24-2fc9b57740ed.webp"
+        },
+        {
+          "url": "media/cached-image_ef7cefc36e4197208f89d32db95a5c6186caffc4df77bb3452e750479a9eca0e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "Funabashihōten Station, 1-chōme-27 Fujiwara, Funabashi, Chiba 273-0047, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7296732,139.9667153,3a,75y,103.33h,103.07t/data=!3m7!1e1!3m5!1sLajMrsNl-7elJmRVhOW64Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.066923594993881%26panoid%3DLajMrsNl-7elJmRVhOW64Q%26yaw%3D103.3251588439151!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Funabashi Hoten Station, the nearest station to Nakayama Racecourse, appears in episode 13 as the arrival point for characters heading to a major year-end race, with the station's distinctive exterior used as a location marker for the Nakayama meet."
+    }
+  ]
+}

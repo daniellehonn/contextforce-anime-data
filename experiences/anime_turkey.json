@@ -1,0 +1,758 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Turkey!",
+  "slug": "turkey",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_046ad3a34b5ca3b129e5d5c752badb662e1d34c81e001d09550ca38539e04f8f.webp",
+  "image": "media/cached-image_046ad3a34b5ca3b129e5d5c752badb662e1d34c81e001d09550ca38539e04f8f.webp",
+  "banner": null,
+  "primaryLocation": "Nagano, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.232092654999995,
+    "lng": 137.38748098000002
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Turkey!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_0",
+      "name": "Tenmanten Shrine",
+      "localName": "天満天神社",
+      "coordinates": {
+        "lat": 36.41474,
+        "lng": 138.20115
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2444c42b-614a-4128-a139-b2c1f36a7760.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2444c42b-614a-4128-a139-b2c1f36a7760.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4147029,138.2012051,3a,52.2y,323.56h,91.88t/data=!3m7!1e1!3m5!1sEIuHotppiMI_Wm2hMGb6ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8841551323029506%26panoid%3DEIuHotppiMI_Wm2hMGb6ug%26yaw%3D323.55901549003994!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "In episode 10, the girls visit this small local shrine tucked into the hillside above Togura, the quiet sacred atmosphere contrasting with their boisterous bowling energy and grounding the scene in the everyday spirituality of Chikuma life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq0h0YQCdHWAR5IFKT-lkXf8",
+      "name": "Showa Retro Nominpaku Shojikiya Parking Lot",
+      "localName": "昭和レトロの民泊 正直屋 駐車場",
+      "coordinates": {
+        "lat": 36.4847207,
+        "lng": 138.1429551
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7e895d7d-1ddd-47c5-b55e-e09da3985a53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7e895d7d-1ddd-47c5-b55e-e09da3985a53.webp"
+        },
+        {
+          "url": "media/cached-image_7e6d59ab0ccbcc5b4a7bf1b13a4da946d13bb406196b086f145e6194d16092a3.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Showa Retro Nominpaku Shojikiya Parking Lot, 3055-128 Toguraonsen, Chikuma, Nagano 389-0807, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.484356,138.1432747,3a,54.7y,333.41h,93.28t/data=!3m7!1e1!3m5!1sYcfChqh4lxdYPWmCM70XLQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.280463370060275%26panoid%3DYcfChqh4lxdYPWmCM70XLQ%26yaw%3D333.406735593529!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Featured in episode 12, the retro parking lot of Shojikiya inn in Toguraonsen serves as the gathering spot where the club members regroup after their time-travel adventure concludes, the Showa-era atmosphere underscoring the show's nostalgic tone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJewXyAywF9l8R8xAjaMnZaSc",
+      "name": "Dosojin Shrine",
+      "localName": "道祖神神社",
+      "coordinates": {
+        "lat": 36.9215497,
+        "lng": 138.4474027
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_e651d9da164984bb6a5db2900899a5776f66d20ed1ba836aea2a2e0b9418c5a3.jpg"
+        },
+        {
+          "url": "media/cached-image_bbc9d5d37ddf24c492f8ee147933c0c27657c9b4a535ad6b534baa2a10f95289.jpg"
+        },
+        {
+          "url": "media/cached-image_b67a569eb674e05bced67d3b86c1b7b0c2f7e33e64d9dced064137804fdb6798.jpg"
+        },
+        {
+          "url": "media/cached-image_cbc1647f5f9d95f0376bc90fc89bbe004d3ab3b6cb46bf7c26ad7a7f6f33ddb8.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4,
+      "reviewCount": 6,
+      "priceLevel": null,
+      "address": "Dosojin Shrine, 9622 Toyosato, Nozawaonsen, Shimotakai District, Nagano 389-2502, Japan",
+      "city": "Nozawaonsen",
+      "region": "Shimotakai District, Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5182568,138.1272159,3a,90y,189.78h,97.38t/data=!3m7!1e1!3m5!1s7X69dCWyKwQ2hF18I6tc0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.379600647142723%26panoid%3D7X69dCWyKwQ2hF18I6tc0g%26yaw%3D189.78132782988237!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This roadside Dosojin deity shrine in Nozawaonsen appears in episode 4, with the characters passing it during a trip away from Chikuma, the ancient stone guardian figures evoking the deep folk traditions that run underneath the anime's modern high-school storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1wq1wxudHWARNBvED5nTlLk",
+      "name": "Chikuma City Sarashina no Sato Historical Museum",
+      "localName": "千曲市さらしなの里歴史資料館",
+      "coordinates": {
+        "lat": 36.500379699999996,
+        "lng": 138.1136965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/876ef827-e4f8-48eb-a4e9-7bd89083935b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/876ef827-e4f8-48eb-a4e9-7bd89083935b.webp"
+        },
+        {
+          "url": "media/cached-image_9427ff5c2b484a6a3e7c0e1cece52e726afd2d0994165f0303534123784b5b72.jpg"
+        }
+      ],
+      "type": "History museum",
+      "categories": [
+        "History museum"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "千曲市さらしなの里歴史資料館 247-1 Haneo, Chikuma, Nagano 389-0812, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4999845,138.1135564,3a,46.2y,18.24h,90.83t/data=!3m7!1e1!3m5!1sOHa1_9ltIhp_5QHPkMswbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8307787072687347%26panoid%3DOHa1_9ltIhp_5QHPkMswbA%26yaw%3D18.240032495354296!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Seen in episode 10, the Sarashina no Sato museum anchors the show's recurring theme of history colliding with the present, as the girls walk past its exhibits recalling the Heian-era poetess Sarashina and drawing a quiet parallel to their own time-slip experiences."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-RhyZT-cHWARqi4xVIfcvJM",
+      "name": "Chikuma-shi Joyama Historical Park",
+      "localName": "千曲市城山史跡公園",
+      "coordinates": {
+        "lat": 36.4796469,
+        "lng": 138.1364438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/01f260e3-b5af-46c6-94b6-59f0bce8246e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/01f260e3-b5af-46c6-94b6-59f0bce8246e.webp"
+        },
+        {
+          "url": "media/cached-image_8b4c6d5bec7e153b5e70ce807bac777f0a6d5c1604102764c50b8d02cdf7c260.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Chikuma-shi Joyama Historical Park, 城山-3509-1 Kamiyamada, Chikuma, Nagano 389-0822, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4795339,138.1367186,3a,90y,78.33h,104.09t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICc2PDxJA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZnhWvm1uVHNrIAg2ICj0acgkwBCJjXvhZN-YlZcNrcD4-MZAzMpIf8eOrMMkXqGZfMlI6TeWQaU_rD1jV65SWa22fUX8s37Sy-HahJaCefaSU_gIEvoaDnCnQVcWNY-pmRc642%3Dw900-h600-k-no-pi-14.090331379961384-ya321.33089223003174-ro0-fo100!7i8192!8i4096?entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "In episode 7, the hilltop Joyama Historical Park provides an elevated view over the Chikuma River valley and becomes the backdrop for a reflective moment between club members as they wrestle with what it means to fight for their club's future."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3XS8Q56DHWARONX8KRZF7fE",
+      "name": "Apina Bowl Nagano Shinonoiai",
+      "localName": "アピナボウル長野篠ノ井店",
+      "coordinates": {
+        "lat": 36.5735747,
+        "lng": 138.14345939999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c58b769-fafa-44f7-b6a6-620470aa69ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c58b769-fafa-44f7-b6a6-620470aa69ef.webp"
+        },
+        {
+          "url": "media/cached-image_08ed4f21666701d8000866b392731dd9e8c6832bbc4381dd74a393ed86c8ac47.jpg"
+        }
+      ],
+      "type": "Bowling alley",
+      "categories": [
+        "Bowling alley"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒388-8004 Nagano, Shinonoiai, 47-1 アピナボウル長野篠ノ井店",
+      "city": "Nagano",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5733829,138.1429532,3a,90y,81.94h,100.61t/data=!3m7!1e1!3m5!1siBPAR6XtjQexnqsbz4UTag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.609437481372709%26panoid%3DiBPAR6XtjQexnqsbz4UTag%26yaw%3D81.94454279751055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Apina Bowl in Shinonoiai is the real-world model for the bowling alley where Mai and Rina face off in episode 1, the inciting match that triggers the lightning strike and sends Ikkokukan High's bowling club spinning back to the Sengoku era.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_6",
+      "name": "Oyaki Nanafuku Honten",
+      "localName": "おやき七福本店",
+      "coordinates": {
+        "lat": 36.48094,
+        "lng": 138.14034
+      },
+      "image": "https://cdn.animepilgrimage.com/places/03316791-e0f2-4e6e-82d1-2e6720104729.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/03316791-e0f2-4e6e-82d1-2e6720104729.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4808916,138.140341,3a,90y,357.47h,95.92t/data=!3m7!1e1!3m5!1s2X44NH4pRvGppQwD5kZNDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.918295144519661%26panoid%3D2X44NH4pRvGppQwD5kZNDw%26yaw%3D357.46982262253937!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Featured in episode 1, this oyaki shop in the Togura area is where the characters stop for the region's signature steamed dumplings, the detail grounding the story firmly in Nagano's local food culture from the very first episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_7",
+      "name": "Unatake",
+      "localName": "うな竹",
+      "coordinates": {
+        "lat": 36.48062,
+        "lng": 138.14266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bed51e37-d397-45cd-9ad2-ed1b3ff17103.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bed51e37-d397-45cd-9ad2-ed1b3ff17103.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4805518,138.1425622,3a,90y,51.05h,95.98t/data=!3m7!1e1!3m5!1sfem97FCV73aSAXZirHamTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.97670740213843%26panoid%3Dfem97FCV73aSAXZirHamTA%26yaw%3D51.04553932579539!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This local eel restaurant in Togura appears in episode 1, with the girls stopping for a meal that highlights the ordinary, small-town rhythms of Chikuma life before their extraordinary time-travel adventure begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJzRBXUSdHWARWUhjxHdBqh0",
+      "name": "Obasute Station",
+      "localName": "姨捨駅",
+      "coordinates": {
+        "lat": 36.502685,
+        "lng": 138.0932379
+      },
+      "image": "https://cdn.animepilgrimage.com/places/64c5dbb4-904d-47b3-98f0-8cf1fd59aba0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/64c5dbb4-904d-47b3-98f0-8cf1fd59aba0.webp"
+        },
+        {
+          "url": "media/cached-image_881ab7c9b0387d08be74d997cabc280a2904cc340b9c2e6886b74a055958c559.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Obasute Station, Yawata, Chikuma, Nagano 387-0023, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Obasute+Station/@36.5026131,138.0935516,3a,90y,133.46h,95.65t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4p_mZiQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha9aqrub9n7EIb5r0FtAAWMp5ZGQ9ZTcG-O-9XUs9InB-XwC-hUpovUlqMGnrUT1Kdj5fXaiLJUy_Hkw9SNLEGbJwtN8-nWp7etXA06k6S4BaeAERxFoSRoACvHOGW5EXfxu4l7%3Dw900-h600-k-no-pi-5.653428788609318-ya136.4585799565692-ro0-fo100!7i7168!8i3584!4m9!3m8!1s0x601d9d445d413427:0x1daa4177c4634859!8m2!3d36.502685!4d138.0932379!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F03mb0nc?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Obasute Station opens episode 1 as Mai reads a letter on the famous switchback platform overlooking the Zenkoji Plain, one of Japan's classic train-window views. The sweeping panorama of Nagano below sets the show's emotional scale before the bowling club's wild journey begins.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_9",
+      "name": "7-Eleven Togura Uchikawa",
+      "localName": "セブン-イレブン 戸倉内川店",
+      "coordinates": {
+        "lat": 36.50679,
+        "lng": 138.13529
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fea57dd7-5b7d-4bfd-9946-3eb10d59718b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fea57dd7-5b7d-4bfd-9946-3eb10d59718b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5068415,138.1352535,3a,90y,232.86h,97.24t/data=!3m7!1e1!3m5!1sVbwPQFwfx6-sgUVgw7Llsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.244938001979378%26panoid%3DVbwPQFwfx6-sgUVgw7Llsg%26yaw%3D232.8565220293527!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This convenience store in Togura appears in the ending sequence, a slice-of-life background shot that anchors the closing montage in the ordinary streets the characters walk every day between bowling practice and school."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAV2rtGgrQjUR1KoMOFw0qlo",
+      "name": "Wakamiya Higashi(Bus)",
+      "localName": "若宮インターチェンジ",
+      "coordinates": {
+        "lat": 33.747430099999995,
+        "lng": 130.6088972
+      },
+      "image": "https://cdn.animepilgrimage.com/places/109683a3-b0cd-4c77-a054-473480cc3ad1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/109683a3-b0cd-4c77-a054-473480cc3ad1.webp"
+        },
+        {
+          "url": "media/cached-image_f9a2e24136e0e6682960f1e15fcb2d7638a42782c47f1e2f017634de13c53795.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wakamiya IC, Numaguchi, Miyawaka, Fukuoka 822-0152, Japan",
+      "city": "Miyawaka",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4884116,138.1414164,3a,89.3y,4.71h,94.64t/data=!3m7!1e1!3m5!1suHaPgE1RJz-5FLwT77k0LQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.636299786217009%26panoid%3DuHaPgE1RJz-5FLwT77k0LQ%26yaw%3D4.705806424379273!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7fyt-sSdHWARQyK05zzVT24",
+      "name": "Obasute Rice Terraces",
+      "localName": "姨捨の棚田",
+      "coordinates": {
+        "lat": 36.503585099999995,
+        "lng": 138.0984066
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23779e6d-7f0f-4c01-b0ff-cffdc1ae5770.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23779e6d-7f0f-4c01-b0ff-cffdc1ae5770.webp"
+        },
+        {
+          "url": "media/cached-image_dd7f90268e0ed00811e4d596c52a325b1130f4db9a75b9cfb462977a38073e74.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Obasute Rice Terraces, Yawata, Chikuma, Nagano 387-0023, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Obasute+Rice+Terraces/@36.5035851,138.0984066,3a,90y,138.28h,71.32t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICH_IatFw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaqI2sr_ohLmeM2NUJAZip6VoBh0FpvOx1fQ4Azu2os6C_AIVVJqocqn5umOl-K53zy7-84-nLRlJ4BNXRhhUO_CDUGhfU37-TMriIpNFAFltPP_D-0o8hKGkpDMp19sFBN0AE%3Dw900-h600-k-no-pi18.675990889794747-ya138.27945262749466-ro0-fo100!7i14400!8i7200!4m9!3m8!1s0x601d9dc4faadfced:0x6e4fd53ce7b42243!8m2!3d36.5035851!4d138.0984066!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11dxcgcd7r?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The ancient terraced rice paddies of Obasute appear in the ending sequence, their stepped hillside silhouette familiar to fans as one of the show's signature pastoral images representing the timeless Nagano countryside surrounding Chikuma City.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0bjRfROcHWARSXNIpIDg0t8",
+      "name": "Togura Chikuma River Green Park",
+      "localName": "戸倉千曲川緑地公園",
+      "coordinates": {
+        "lat": 36.481334,
+        "lng": 138.14502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7f56ae6-386a-4999-b91c-0b4c77d96d94.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7f56ae6-386a-4999-b91c-0b4c77d96d94.webp"
+        },
+        {
+          "url": "media/cached-image_0ac6f9c97c12563b169cf0b4e17832ddf13657c1d12fba79641093505d02f065.jpg"
+        },
+        {
+          "url": "media/cached-image_8a0459d26796281b88f94da1c53b927e7a63bf815bbc62bb545e20c7e09951d6.jpg"
+        },
+        {
+          "url": "media/cached-image_064ffb007b873482a43e8744a8cf75a0361e037d2ddd8c7b6159638f11a0f389.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Togura Chikuma River Green Park, 3055-116 Togura, Chikuma, Nagano 389-0804, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4814464,138.1444584,3a,90y,156.08h,101.16t/data=!3m7!1e1!3m5!1sRRv7ZAPJDEdTS5BGMvpgrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.15990407613701%26panoid%3DRRv7ZAPJDEdTS5BGMvpgrA%26yaw%3D156.08369783802874!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This riverside park along the Chikuma River appears in the ending sequence, its open grass and riverbank views used as a recurring idle backdrop where the club members hang out between matches, giving the show its breezy, unhurried atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_13",
+      "name": "Ishii Tile Industry Co.",
+      "localName": "石井瓦工業㈱",
+      "coordinates": {
+        "lat": 36.50368,
+        "lng": 138.12847
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e0d9fea-ecf0-41a4-81ba-67943c81cfc1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e0d9fea-ecf0-41a4-81ba-67943c81cfc1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.5036341,138.1286603,3a,75y,285.73h,93.24t/data=!3m7!1e1!3m5!1sRa2AEfJ814lpizwkn9PFyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.243435215286638%26panoid%3DRa2AEfJ814lpizwkn9PFyQ%26yaw%3D285.73479218996926!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The distinctive tiled roof building of Ishii Tile Industry appears in the ending montage as a background street-scene element, one of the old industrial buildings that give the Togura district its unhurried, working-town character visible throughout the ED."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu88S90KdHWARSz95EZvcjH8",
+      "name": "Kamiyamada Central Park",
+      "localName": "上山田中央公園",
+      "coordinates": {
+        "lat": 36.4787713,
+        "lng": 138.1428841
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2be4a503-2f6f-4d82-acac-e188fd3eb648.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2be4a503-2f6f-4d82-acac-e188fd3eb648.webp"
+        },
+        {
+          "url": "media/cached-image_7ac714b09fcbe3150f6e7866a3615ab41931ac2d2e4edd5791f3eeee37016515.jpg"
+        },
+        {
+          "url": "media/cached-image_451e3d85af3b1e426fe27156786bf7f79b236a435021e32e2becc1969fae7893.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kamiyamada Central Park, 2 Chome-１９ Kamiyamadaonsen, Chikuma, Nagano 389-0821, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.479144,138.1424862,3a,90y,226.78h,95.09t/data=!3m7!1e1!3m5!1suetG6i4SOZz9Wb8UxM5B8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.0860876409611535%26panoid%3DuetG6i4SOZz9Wb8UxM5B8Q%26yaw%3D226.78150350434976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "Seen in the ending sequence, this small park in Kamiyamada Onsen is among the local spots the girls pass through in the ED montage, representing the quiet hot-spring district atmosphere that defines the Togura-Kamiyamada area featured throughout the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_turkey_15",
+      "name": "Taisho Bridge",
+      "localName": "大正橋",
+      "coordinates": {
+        "lat": 36.48805,
+        "lng": 138.14627
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f26b5e0a-0164-40d8-8d5a-78e511623f25.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f26b5e0a-0164-40d8-8d5a-78e511623f25.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4879771,138.1460182,3a,90y,8.23h,90.09t/data=!3m7!1e1!3m5!1s1htfk7Jw1O8Gm7LKsH-yig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.09270328903478742%26panoid%3D1htfk7Jw1O8Gm7LKsH-yig%26yaw%3D8.234606084418441!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Taisho Bridge over the Chikuma River appears in the opening sequence, its historic arch framing the warm visual tone of the OP and serving as one of the show's most recognizable Togura-area landmarks for pilgrims walking the series' route.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPYhML8uCHWARdCawZkh05Bc",
+      "name": "Takemizuwake Shrine",
+      "localName": "武水別神社",
+      "coordinates": {
+        "lat": 36.5191697,
+        "lng": 138.10297359999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f9b617e6-84dd-4d2e-95fd-dee37accd8e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f9b617e6-84dd-4d2e-95fd-dee37accd8e7.webp"
+        },
+        {
+          "url": "media/cached-image_089796a4b8898e71c96771fe92cf8493d3339eaaf01c1c53860b0f2e7d02af71.jpg"
+        },
+        {
+          "url": "media/cached-image_ac2b4724b7db7cf1cf764b8ed2efd2a2bc7c3f4dc11dbdac6a016975a326f513.jpg"
+        },
+        {
+          "url": "media/cached-image_6d8471636ab612d2547eaa1da5df9e3a173bf608474cb616056e9fcc59c17635.jpg"
+        },
+        {
+          "url": "media/cached-image_31afb2476a845300d94ebbdf605f6cb0c5328526f553df9f0e35021bc71ddb6a.jpg"
+        },
+        {
+          "url": "media/cached-image_a09b2ff9f06cd4050b29f31c2ff0cec69df735e0cd32e61fea9f708e6afbc42e.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 600,
+      "priceLevel": null,
+      "address": "Takemizuwake Shrine, 3012 Yawata, Chikuma, Nagano 387-0023, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5169154,138.1027495,3a,74.7y,6.43h,97.3t/data=!3m7!1e1!3m5!1ssg8a5wR6TW-TwTUP-zeNkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.296157536600987%26panoid%3Dsg8a5wR6TW-TwTUP-zeNkA%26yaw%3D6.432598991160604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This grand Shinto shrine in Yawata appears prominently in the opening sequence, its long approach and ancient wooden structures helping establish the deep historical roots of Chikuma City that underpin the anime's time-travel premise.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD2BRhPeRQTUR7abSsVnw3RU",
+      "name": "MEIGETSUDO CO., LTD. Hakata Hankyu Shop",
+      "localName": "株式会社 明月堂 博多阪急店",
+      "coordinates": {
+        "lat": 33.5892458,
+        "lng": 130.4190482
+      },
+      "image": null,
+      "images": [],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MEIGETSUDO CO., LTD. Hakata Hankyu Shop, 1-1 Hakataekichuogai, Hakata Ward, Fukuoka, 812-0012, Japan",
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4785867,138.155138,3a,90y,187.87h,96.9t/data=!3m7!1e1!3m5!1syv67BaVfw8rek51W9VYs9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.901694112061577%26panoid%3Dyv67BaVfw8rek51W9VYs9A%26yaw%3D187.8701992778151!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ50zdzB2dHWARtxnTjW1khiQ",
+      "name": "Suzaka Shrine",
+      "localName": "須坂神社",
+      "coordinates": {
+        "lat": 36.5021328,
+        "lng": 138.1176736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1512414-f1f0-437f-9085-ec0faee100e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1512414-f1f0-437f-9085-ec0faee100e4.webp"
+        },
+        {
+          "url": "media/cached-image_11f631507d07c7cbaa20707568af8a5e252f8ad03641bca29124f5e6ae4a1825.jpg"
+        },
+        {
+          "url": "media/cached-image_6e4c2a6090221be435dc3ca1d7f01144c5208366a2f9da93e058afc032aaaca6.jpg"
+        },
+        {
+          "url": "media/cached-image_0a4124700b1375a4f7cd89075bbc800704ea7bf4ada52e082f74522119dae580.jpg"
+        },
+        {
+          "url": "media/cached-image_421a6d1a78b0e617adba6d76e26b461c5be1b1f07512df791953fe519baf4796.jpg"
+        },
+        {
+          "url": "media/cached-image_ca68d1775d3831a96668247b6a5a904f457d831d9f25b912650cbd3f11a8bbb8.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.8,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "Suzaka Shrine, Chikuma, Nagano 389-0811, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.501957,138.1168998,3a,70.9y,87.51h,95.1t/data=!3m7!1e1!3m5!1sZ_Y5AR83UZ2Eh6QvyWLMQA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.104047048428384%26panoid%3DZ_Y5AR83UZ2Eh6QvyWLMQA%26yaw%3D87.50683449695251!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Featured in episode 10, Suzaka Shrine appears during a scene where the characters explore the neighborhoods around Togura, the modest local shrine adding to the episode's theme of discovering the hidden history embedded in Chikuma's everyday streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ56sBNGucHWAR1hvNS3NXO1M",
+      "name": "Hotel Riverside Uedakan",
+      "localName": "リバーサイド上田館",
+      "coordinates": {
+        "lat": 36.4828076,
+        "lng": 138.1433409
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93bc4f18-1f2d-44c6-baa4-9fab01083d8a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93bc4f18-1f2d-44c6-baa4-9fab01083d8a.webp"
+        },
+        {
+          "url": "media/cached-image_ee5f3c90e36c8a64c651bd4585d94803f14196721aba6cf03d30fb101ee3d3d0.jpg"
+        },
+        {
+          "url": "media/cached-image_5b3aecb7d0f0027e9e1a1194f46a3af5025e5566b2a4a3aa52beb1f95021a9bc.jpg"
+        },
+        {
+          "url": "media/cached-image_476b1e16503e88b879c8bd584528f3923907137a63af937a715e24352b10a92a.jpg"
+        },
+        {
+          "url": "media/cached-image_4f5cd558a7a5149609c3980faa65314999fc2f2e4d7c64cf9712febd4ea8b6c5.jpg"
+        },
+        {
+          "url": "media/cached-image_27907759464fa899181c6a31f66ccf72e07863923fa75630974e28e355a0815e.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Riverside Uedakan, 3055 Toguraonsen, Chikuma, Nagano 389-0807, Japan",
+      "city": "Chikuma",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4838201,138.1434914,3a,72.5y,164.02h,96.84t/data=!3m7!1e1!3m5!1sGEDOzGaTzCzkB8nFCVCzRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.838365461029667%26panoid%3DGEDOzGaTzCzkB8nFCVCzRg%26yaw%3D164.01845705275701!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This Toguraonsen riverside inn appears in episode 12 during the final arc's resolution scenes, its traditional Japanese inn exterior recognizable to fans as part of the hot-spring district backdrop where the club's story winds to a close."
+    }
+  ]
+}

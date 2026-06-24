@@ -1,0 +1,1723 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "March comes in like a lion Season 2",
+  "slug": "march-comes-in-like-a-lion-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_3dbe2a1e84c4e0c8a9b32e6cbcd583e747bb5406a37e230643c87b867ede560d.webp",
+  "image": "media/cached-image_3dbe2a1e84c4e0c8a9b32e6cbcd583e747bb5406a37e230643c87b867ede560d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.94889317209302,
+    "lng": 138.9560246348837
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "March comes in like a lion Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_march-comes-in-like-a-lion-2_0",
+      "name": "Tsukudaya Liquor Store",
+      "localName": "佃屋酒店",
+      "coordinates": {
+        "lat": 35.667623,
+        "lng": 139.782575
+      },
+      "image": "https://cdn.animepilgrimage.com/places/xKDjWFIJrOjvVPqn1TuD.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/xKDjWFIJrOjvVPqn1TuD.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/s4qurVQkhP3siS4j6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This small liquor shop in the Tsukuda neighborhood appears in the background of scenes depicting Rei Kiriyama's daily life, grounding his solitary existence in the quiet streets near his apartment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKUY-BwCJGGARg7DCm75PtA8",
+      "name": "Tsukudao Bridge",
+      "localName": "佃大橋",
+      "coordinates": {
+        "lat": 35.6678476,
+        "lng": 139.78112679999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/wnkf4gV5fsgz3wKbjzC9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/wnkf4gV5fsgz3wKbjzC9.webp"
+        },
+        {
+          "url": "media/cached-image_13b8112e84223b90cb1db226e784ff4863172b9c5f3fbcf4e5a1af21590e1435.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsukudao Bridge, 大橋 Tsukuda, Chuo City, Tokyo 104-0044, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hKMS7pTNDTMJ7b8V9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Rei frequently crosses this bridge on his walks between the Kawamoto family shop and his apartment, and the river view becomes a visual motif for his emotional isolation slowly giving way to connection.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5-VuNWvsGGARxECtICpcwmw",
+      "name": "Hikarigaoka Library",
+      "localName": "練馬区立光が丘図書館",
+      "coordinates": {
+        "lat": 35.76316,
+        "lng": 139.6298038
+      },
+      "image": "https://cdn.animepilgrimage.com/places/83ZWz6F4sXMCEDrD4Ust.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/83ZWz6F4sXMCEDrD4Ust.webp"
+        },
+        {
+          "url": "media/cached-image_9e8dc0a7e4079507bb6c1c895abba9464f785bc7f2d68a9b51108ef091a89534.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Hikarigaoka Library, 4 Chome-1-5 Hikarigaoka, Nerima City, Tokyo 179-0072, Japan",
+      "city": "Nerima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mysjdXaBjbuaNtkG6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Nerima public library appears as a study location visited during slice-of-life scenes in Season 2, reflecting the quieter moments of characters seeking refuge in books."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa4nlt2-JGGARNe4wienwjIA",
+      "name": "Ishikawajima Memorial Hospital",
+      "localName": "石川島記念病院",
+      "coordinates": {
+        "lat": 35.6675563,
+        "lng": 139.78544209999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fEAc1uYQM9I7hMycFL3m.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fEAc1uYQM9I7hMycFL3m.webp"
+        },
+        {
+          "url": "media/cached-image_c61f4ae98ff53f24c9b660d9df6f155b62f0bf245030b69da0d5d11777c9a470.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ishikawajima Memorial Hospital, 2 Chome-5-2 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/awdZ4gvyGSiD5PPWA",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This hospital near the Tsukuda area appears in Season 2 in connection with scenes where characters deal with health concerns, reinforcing the weight of adult responsibility pressing on Rei's world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRSr0fACNGGARejFClAi6Azs",
+      "name": "Sendagaya Kitchen",
+      "localName": "千駄ヶ谷厨房",
+      "coordinates": {
+        "lat": 35.6785999,
+        "lng": 139.7101457
+      },
+      "image": "https://cdn.animepilgrimage.com/places/n09fSt7PPvI8xw6LrfMH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/n09fSt7PPvI8xw6LrfMH.webp"
+        },
+        {
+          "url": "media/cached-image_512a33d1942491721ea07ca2bd55f39a0750ad4f5b9d55237b01429122919097.jpg"
+        }
+      ],
+      "type": "Western restaurant",
+      "categories": [
+        "Western restaurant"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0051 Tokyo, Shibuya, Sendagaya, 1 Chome−7−12 千駄ヶ谷厨房",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hwB6iR1LJKZ9jwiQ9",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Located near the Tokyo Shogi Hall in Sendagaya, this Western restaurant appears as a meal spot for shogi players, capturing the ordinary downtime professional players spend between grueling tournament rounds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoZJYJQADAWARtZq7AVo0hhY",
+      "name": "Kansai Shogi Hall shogi dojo",
+      "localName": "関西将棋会館",
+      "coordinates": {
+        "lat": 34.8506922,
+        "lng": 135.614472
+      },
+      "image": "https://cdn.animepilgrimage.com/places/RZ8k3KNTJys1Xn08hf09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/RZ8k3KNTJys1Xn08hf09.webp"
+        },
+        {
+          "url": "media/cached-image_24434119ae10a9a18fd70b3d2c167c5b5dd3f5df0f5ad8e1af36cf3e46d435ac.jpg"
+        }
+      ],
+      "type": "Cultural association",
+      "categories": [
+        "Cultural association"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒569-1123 Osaka, Takatsuki, Akutagawacho, 2 Chome−2−6 関西将棋会館",
+      "city": "Takatsuki",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9toibt35xdZioVzj9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Kansai Shogi Hall in Osaka is the setting for Rei's away tournament matches in Season 2 Episode 9, where he faces off against formidable Kansai-based professionals in a charged competitive atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS3WZwmHmAGAR8bnTpPSfp-k",
+      "name": "Jankara JR Fukushima(KARAOKE)",
+      "localName": "ジャンカラ JR福島店",
+      "coordinates": {
+        "lat": 34.698601499999995,
+        "lng": 135.4868423
+      },
+      "image": "https://cdn.animepilgrimage.com/places/GlXI7CPcuItdDYZDCMS1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/GlXI7CPcuItdDYZDCMS1.webp"
+        },
+        {
+          "url": "media/cached-image_7e39532829f7415decd7f4dd6c6a32950418b5e4fdadf92ff37d9b842cf1a26f.jpg"
+        },
+        {
+          "url": "media/cached-image_d690e81a77ea2c474119e5f522c058ea1fad5699dfb56cc612da752381ff490d.jpg"
+        },
+        {
+          "url": "media/cached-image_a2f76a831fc445d5fa9d245f0d2213775f85f0f4fda1e127faf663f39e7e189c.jpg"
+        },
+        {
+          "url": "media/cached-image_056f35da7d0d77a5f05de0c1a02df0a4418ae52cf22bf28d794ef19267f23258.jpg"
+        },
+        {
+          "url": "media/cached-image_120c52fbbb6afcbb7eb8bc02010b8d3620440034a68038be6870a61b03035391.jpg"
+        }
+      ],
+      "type": "Video karaoke",
+      "categories": [
+        "Video karaoke"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Jankara JR Fukushima(KARAOKE), 堀内ビル 1～5F 7 Chome-12-1 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/u7QanUkg6UjCGWYV7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Osaka karaoke venue near the shogi hall appears in the Kansai arc as a place where players and their support entourages unwind after tournament rounds, showing the lighter social side of the shogi world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ35Dj2GHmAGAR8cGYeFPKz7I",
+      "name": "Matsusaka M Umeda Fukushima Branch",
+      "localName": "Mの焼肉 福島本店 | Matsusaka Gyu Yakiniku M umeda fukushima branch",
+      "coordinates": {
+        "lat": 34.698555999999996,
+        "lng": 135.487341
+      },
+      "image": "https://cdn.animepilgrimage.com/places/M2FvyWxWgLBS2UxeEagu.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/M2FvyWxWgLBS2UxeEagu.webp"
+        },
+        {
+          "url": "media/cached-image_910abc06a9f137e209dc0f05dca2f78f88cb6faeababeb35649fb61cadd5c2a5.jpg"
+        },
+        {
+          "url": "media/cached-image_fd96df3b06845cecba563b2c275cacd424491c6e482a2a3ae84d95d26d3a55d8.jpg"
+        },
+        {
+          "url": "media/cached-image_2b759bf75225fee43d3ca74284f20eb652d620d4f0cfd6f66b1d22c59886f34e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d83dac1a98da587e223ab0661d33e09a1975593ae0f8cd57027764d42c94f7f.jpg"
+        },
+        {
+          "url": "media/cached-image_bf468bab022a3d6658e4047a194beca4c1f8c530176efda7f8e711968bb5fe9a.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Matsusaka M Umeda Fukushima Branch, 6 Chome-3-7 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PqH5dkeZxNBa997v6",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Osaka yakiniku restaurant appears in the Kansai tournament episodes as a post-match dining spot, providing a glimpse of how professional shogi players celebrate or decompress after a long match day."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSe66XK4IAWARwN6oy55Q7vU",
+      "name": "General Taxi Rank, Kyoto Station Karasuma Entrance",
+      "localName": "京都駅烏丸口 一般タクシーのりば",
+      "coordinates": {
+        "lat": 34.9864773,
+        "lng": 135.7600219
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2jfYmStLf7MfhsWxkdE.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2jfYmStLf7MfhsWxkdE.webp"
+        },
+        {
+          "url": "media/cached-image_502695610af8138973f7d2f8646ac3d3e5df27a0921e10ec09a6018683e5f090.jpg"
+        }
+      ],
+      "type": "Taxicab Stand",
+      "categories": [
+        "Taxicab Stand"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "General Taxi Rank, Kyoto Station Karasuma Entrance, Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TU7uzbXmvgnfu68C6",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Kyoto Station taxi stand appears briefly as characters arrive or depart during the Kyoto shogi-related excursions in Episode 9, marking transitions in the travel narrative of that arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVRUsM5QIAWARuWZQtuYO7GU",
+      "name": "Somedono-in Temple",
+      "localName": "染殿院",
+      "coordinates": {
+        "lat": 35.003934799999996,
+        "lng": 135.76707349999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/O7d0FUdfK89bzrAQtidC.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/O7d0FUdfK89bzrAQtidC.webp"
+        },
+        {
+          "url": "media/cached-image_dbba0420f5be4f3db256ceea0ef50070bed13b5bbb258e86227b2e7d60dbfd20.jpg"
+        },
+        {
+          "url": "media/cached-image_a81d533558c418a569d8adc319606acca2f9726cd09ebeb67f37977be3beff0f.jpg"
+        },
+        {
+          "url": "media/cached-image_a0f1537046a85d327dae08ae9fe8cfd1f652bc416e07fc9e0f52418d704bc45b.jpg"
+        },
+        {
+          "url": "media/cached-image_d61dd2cb70b638c3f275193956efc576cddb9cb47f7ff7603ab684b5cadd690c.jpg"
+        },
+        {
+          "url": "media/cached-image_4c923fc2442b7a24a02c6783ed062ff9b5238a7e7fe6167ab66d28d99a56ea38.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 103,
+      "priceLevel": null,
+      "address": "Japan, 〒604-8042 Kyoto, Nakagyo Ward, 新Somedono-in Temple, 四条上中之町５６２",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yGtB9TxWDzxHgJwn8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small Buddhist temple in central Kyoto appears in the Kyoto stroll sequence of Episode 9, part of the atmospheric backdrop as characters explore the city between tournament commitments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB35BHKsJAWARiTdY5rFvuOM",
+      "name": "Cardpro Kyoto",
+      "localName": "カードプロ 京都店",
+      "coordinates": {
+        "lat": 35.0057623,
+        "lng": 135.7671188
+      },
+      "image": "https://cdn.animepilgrimage.com/places/poZOq5OMVJTg2dFleO0v.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/poZOq5OMVJTg2dFleO0v.webp"
+        },
+        {
+          "url": "media/cached-image_106afe0115fde583e7f524d6db3ddc3567ffb462e2633b73d8a2aff37cf35aa3.jpg"
+        }
+      ],
+      "type": "Trading card store",
+      "categories": [
+        "Trading card store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Cardpro Kyoto, 513 Higashigawacho, Nakagyo Ward, Kyoto, 604-8046, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/HP2dpV3vvG3gJN9R8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Kyoto trading card shop appears in a brief background scene during the Kyoto arc in Episode 9, adding local color to the street-level exploration of Kyoto's commercial district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgelCapUIAWARANoPg5Y3BYs",
+      "name": "Mokumeganeya Kyoto",
+      "localName": "杢目金屋 京都店",
+      "coordinates": {
+        "lat": 35.0056034,
+        "lng": 135.76435329999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/WTUV7ew37qrMCA9fjlv5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/WTUV7ew37qrMCA9fjlv5.webp"
+        },
+        {
+          "url": "media/cached-image_edd68442f370276dd311bc426b0a574bb97501df11cff1fb0a07100f921e0ded.jpg"
+        },
+        {
+          "url": "media/cached-image_afd8091312cee9668a5b80b6efa0bcbaabfb9bb830c59ada32ec60cc0de0a8e3.jpg"
+        },
+        {
+          "url": "media/cached-image_3a5e7f09bf4f502b5c7742511b1c0244bd5d287251e5c1acf9378200a674cd9c.jpg"
+        },
+        {
+          "url": "media/cached-image_f6b705866041a130c2583a4552f1a79de7cd7f680f55a21e4b5c783cef9268d6.jpg"
+        },
+        {
+          "url": "media/cached-image_a94e4bfc53d5001fa2c6fdeead71267fe30a9cae8095e0efbf14947fc9fa4fd4.jpg"
+        }
+      ],
+      "type": "Jewelry store",
+      "categories": [
+        "Jewelry store"
+      ],
+      "rating": 4.9,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Mokumeganeya Kyoto, イーグルコート京都錦小路 1F 444 Jumonjicho, Nakagyo Ward, Kyoto, 604-8121, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LbBJx5HXhL1mnWTEA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This artisan jewelry shop on Nishiki-koji in Kyoto appears during the Kyoto episodes, representing the refined craft culture of the city that contrasts with the intense mental battles of the shogi tournament."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSbHckEoGAWAR1GiLL-aPJ1c",
+      "name": "Shijo Bridge",
+      "localName": "四条通",
+      "coordinates": {
+        "lat": 35.0037693,
+        "lng": 135.7689538
+      },
+      "image": "https://cdn.animepilgrimage.com/places/kDoLHcFPtn80mwq1BVtH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/kDoLHcFPtn80mwq1BVtH.webp"
+        },
+        {
+          "url": "media/cached-image_4371c4b474bd8afa487eb45f23467676d87135e4d2a6cd2aa18d326563909073.jpg"
+        }
+      ],
+      "type": "Notable street",
+      "categories": [
+        "Notable street"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shijo-dori, Kyoto, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CiPvt2deLt2BKDwG9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The famous Shijo Bridge over the Kamo River in Kyoto appears as a landmark backdrop in the Kyoto arc of Episode 9, with its lively street scene framing the characters' journey through the old capital."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA8Lvs5QIAWARcluMJK3ZcZI",
+      "name": "Yamafuku",
+      "localName": "先斗町 鍋料理 あごつゆしゃぶしゃぶ山福",
+      "coordinates": {
+        "lat": 35.0071128,
+        "lng": 135.7707992
+      },
+      "image": "https://cdn.animepilgrimage.com/places/HCodVwLG1Xidk64BoO84.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/HCodVwLG1Xidk64BoO84.webp"
+        },
+        {
+          "url": "media/cached-image_9aec5fd04b687d86f40d093400fa1b3149684d4e68aa92ca5e4c41bd9aa09edc.jpg"
+        }
+      ],
+      "type": "Shabu-shabu restaurant",
+      "categories": [
+        "Shabu-shabu restaurant"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamafuku, 187 Zaimokucho, Nakagyo Ward, Kyoto, 604-8017, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LfsJsA8Bz3UYd5m49",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Pontocho shabu-shabu restaurant in Kyoto appears in the Kyoto tournament arc, where it serves as a dining backdrop capturing the elegance of Kyoto's historic dining alley alongside the shogi storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa4JUjdiLGGARfzINTSU_X0s",
+      "name": "Tsukuda Namiyoke Inari Daimyōjin & Osaki Inari Jinja",
+      "localName": "波除神社",
+      "coordinates": {
+        "lat": 35.663518599999996,
+        "lng": 139.7715677
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dvYFyv6nlbRCJSu2BVZx.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dvYFyv6nlbRCJSu2BVZx.webp"
+        },
+        {
+          "url": "media/cached-image_9753edb1829c58ba2d04a27e27b7bbf50256f07380dd694f0d045c0e017d8bba.jpg"
+        },
+        {
+          "url": "media/cached-image_bc5ff3b42672e81168e5fc7885a462275538eddfa946bb77e071858441503ecf.jpg"
+        },
+        {
+          "url": "media/cached-image_ca263dc5671f375d13ab3bca0393eb024342ca3c23f50ddcc629ed65cb6d04c6.jpg"
+        },
+        {
+          "url": "media/cached-image_fc8ec5dacb3ea235716713aaa08d6cdfb49b1d68df5cb08b34c3073ec94fbe4d.jpg"
+        },
+        {
+          "url": "media/cached-image_ab05ef30863218fb925b61563adc4e1f2d006baa44dc80afac07bc804c2a2002.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2532,
+      "priceLevel": null,
+      "address": "Namiyoke Shrine, 6 Chome-20-37 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JYYASSWHFjeuLio3A",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This Tsukiji shrine near Rei's neighborhood appears in Episode 10 as part of the Tsukuda street environment, with its festive character reflecting the local community life that Rei gradually comes to appreciate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtRo3qTN2hV8RlXz_r2eECeI",
+      "name": "Morioka Station",
+      "localName": "盛岡駅",
+      "coordinates": {
+        "lat": 39.7014371,
+        "lng": 141.136723
+      },
+      "image": "https://cdn.animepilgrimage.com/places/tmPfAhPbzRDlT04TYChZ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/tmPfAhPbzRDlT04TYChZ.webp"
+        },
+        {
+          "url": "media/cached-image_45e720f8c9175c555356e7abcd6ce3d4c0bae2e7a9bc366993b14901d97397c9.jpg"
+        },
+        {
+          "url": "media/cached-image_9c2d572a69cb52ca02c45e3573c421d1777e267c7f4f8e4511fe4dad1efba72a.jpg"
+        },
+        {
+          "url": "media/cached-image_102a798edd51ad981ec36b0ce358807817d286b883c99eeec66970c788256272.jpg"
+        },
+        {
+          "url": "media/cached-image_2e05970652655414e7c7376f679c56361276d50c1764d7febaf75e3d0a1fdc9e.jpg"
+        },
+        {
+          "url": "media/cached-image_36b39a6033f66fdf48babc5ca8207c28500745ad9fc01e93621ea916cd819358.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4,
+      "reviewCount": 1576,
+      "priceLevel": null,
+      "address": "Morioka Station, 1-48 Moriokaekimaedori, Morioka, Iwate 020-0034, Japan",
+      "city": "Morioka",
+      "region": "Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Q13FYxjhGg9TPFEL6",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Morioka Station serves as the arrival point for Rei and his shogi rivals during the Morioka tournament arc in Episode 14, with its distinctive facade marking the beginning of an important away match.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ-m8FPl4hV8R_QocPGHPDZY",
+      "name": "Hotel Taikan",
+      "localName": "湯守 ホテル大観",
+      "coordinates": {
+        "lat": 39.676182,
+        "lng": 141.022663
+      },
+      "image": "https://cdn.animepilgrimage.com/places/T02DFUeoUljnPWfTAQDa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/T02DFUeoUljnPWfTAQDa.webp"
+        },
+        {
+          "url": "media/cached-image_1f54a799a1fa974504993c83651fc2158d555b7550e99d1ba637e918716b7d0c.jpg"
+        },
+        {
+          "url": "media/cached-image_7689e8a970b66ccec300dc4ddcfbb533b8b3cae90e665eda3aaa20c1924ef7c2.jpg"
+        },
+        {
+          "url": "media/cached-image_c60cc13f21593753cc4f9c71e71fecef5c2944038181ef3e3b26d6c7659eab69.jpg"
+        },
+        {
+          "url": "media/cached-image_2eb4272c726b2cf9c41513ce9b772fa669ec0f234c4f3806f5635907fd035912.jpg"
+        },
+        {
+          "url": "media/cached-image_fe59049455467ed55c081ad35f6c2531479647240aa1b38ca687bed81b0e92ed.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Hotel Taikan, Yunotate-37-1 Tsunagi, Morioka, Iwate 020-0055, Japan",
+      "city": "Morioka",
+      "region": "Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8ZfEGxB1uhkbgbo28",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "This Tsunagi onsen hotel outside Morioka is where Rei stays during the Episode 14 tournament, and the hot-spring setting provides a rare moment of physical rest against the emotional weight of the competition."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhwtRDBgoil8RvP0fvpELo7I",
+      "name": "Sendai Station",
+      "localName": "仙台駅",
+      "coordinates": {
+        "lat": 38.2601316,
+        "lng": 140.88243749999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/QxEPpOtpzgT7p31n0WHw.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/QxEPpOtpzgT7p31n0WHw.webp"
+        },
+        {
+          "url": "media/cached-image_093d07d7bcdb3737601d7fdee47fbc0d748e7f308594010b771b9e7c778702ff.jpg"
+        },
+        {
+          "url": "media/cached-image_6035c624528bb0197e77d801fff3567dc039dfe3d6c13db3bcee18d5ee5335f4.jpg"
+        },
+        {
+          "url": "media/cached-image_4fc688ad6e485452d94ffa472729e6d3ea0804c65f1d9ad7c7901ff514f7bc37.jpg"
+        },
+        {
+          "url": "media/cached-image_e356c2dc27a0020a3ff2e1b58952162ca473fc036cd57b18716fa802be7c6171.jpg"
+        },
+        {
+          "url": "media/cached-image_6144fac2fd0bd5f28d722a126f887ac0e03b4826022ca8f532989367f7a0484c.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3799,
+      "priceLevel": null,
+      "address": "Sendai Station, 1 Chome-1-1 Central, Aoba Ward, Sendai, Miyagi 980-0021, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5DAsn8K5euxjev2E8",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "Sendai Station is the hub of the Sendai tournament arc spanning Episodes 15-16, where Rei travels to compete and where the series depicts the regional shogi tournament circuit with quiet documentary detail.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw5hRjxgoil8RqjKXTn9In9M",
+      "name": "Sendai Station rooftop parking",
+      "localName": "タイムズ仙台駅屋上",
+      "coordinates": {
+        "lat": 38.258305199999995,
+        "lng": 140.8810562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/r4JIQko2YmB36PFKq1JE.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/r4JIQko2YmB36PFKq1JE.webp"
+        },
+        {
+          "url": "media/cached-image_21ceb37669a33bd880013acdee27819cfdc27ff9ea2b3722d1ef5551d495ad37.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sendai Station rooftop parking, 1 Chome-1-1 Central, Aoba Ward, Sendai, Miyagi 980-0021, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/bs2LC6KKHjag2HMBA",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "The rooftop parking lot above Sendai Station appears as a vantage point in the Sendai arc, offering a panoramic view of the city that underscores Rei's sense of solitude while competing far from home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjch3Thcoil8R1rSFm6hZnPU",
+      "name": "Zenjiro - Itsutsubashi-yokocho Branch annex",
+      "localName": "たんや善治郎 五橋横丁別館",
+      "coordinates": {
+        "lat": 38.2566147,
+        "lng": 140.8819824
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ge9xgCzWng9JNoO9TlYG.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ge9xgCzWng9JNoO9TlYG.webp"
+        },
+        {
+          "url": "media/cached-image_ce6efdab4f0022086e2b58cda85278c31622321c1d03f611eb3f0b706d1ae1a6.jpg"
+        }
+      ],
+      "type": "Tongue restaurant",
+      "categories": [
+        "Tongue restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒980-0021 Miyagi, Sendai, Aoba Ward, Central, 1 Chome−1−8 Zenjiro - Itsutsubashi-yokocho Branch annex, 杜の都 五橋横丁",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/x7arBWj2i2onDn3Y8",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "This Sendai gyutan restaurant appears in Episode 15 as a local meal spot during the Sendai tournament trip, grounding the arc in the regional food culture of Miyagi Prefecture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd1K_2Bkoil8R2V2hLQvrDx0",
+      "name": "Taimuzu JR Sendai Eki Nishiguchi",
+      "localName": "タイムズＪＲ仙台駅西口",
+      "coordinates": {
+        "lat": 38.257522,
+        "lng": 140.881517
+      },
+      "image": "https://cdn.animepilgrimage.com/places/xZKWjDnrO2PdJd3PHiso.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/xZKWjDnrO2PdJd3PHiso.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Taimuzu JR Sendaiekinishiguchi, 1 Chome-1 Central, Aoba Ward, Sendai, Miyagi 980-0021, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kLV5ufz3S48m2orY6",
+      "episodeType": "EP",
+      "episodeNumber": 15,
+      "entityContext": "This parking lot near Sendai Station's west exit appears as a transitional setting in the Sendai tournament episodes, part of the realistic urban geography the anime carefully maps."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5dOUyBAoil8RHWwtyXWnuxk",
+      "name": "Toyoko Inn Sendai Station West Central",
+      "localName": "東横INN仙台駅西口中央",
+      "coordinates": {
+        "lat": 38.255769,
+        "lng": 140.882063
+      },
+      "image": "https://cdn.animepilgrimage.com/places/UwZHvLNFyxJ77zsxN06H.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/UwZHvLNFyxJ77zsxN06H.webp"
+        },
+        {
+          "url": "media/cached-image_291803a180c8792f4653d1f98f6e7d77da16755ffae0d25d0dd61f29dfa643b1.jpg"
+        },
+        {
+          "url": "media/cached-image_d75ea748b0ccc30f0c5b961f9769036f5409133367541e3f551aa658a5b93057.jpg"
+        },
+        {
+          "url": "media/cached-image_1f1c48781e5f4589f4bcc2fe9f791686346d07d91cb1f868c7cd15ecc2617846.jpg"
+        },
+        {
+          "url": "media/cached-image_1b99e848da8a6b259e1c6b75aa4066c8ae304325bac193981a1cda4872756aa8.jpg"
+        },
+        {
+          "url": "media/cached-image_697076de40f1f8c41c0292e05a0732f0074ff27e0ca49726f8527d21857208ec.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toyoko Inn Sendai-eki Nishi-guchi Chuo, 1 Chome-1-10 Central, Aoba Ward, Sendai, Miyagi 980-0021, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dbiSrLjmA6BhXRub6",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "This business hotel near Sendai Station is where Rei lodges during the Episode 16 Sendai tournament segment, its utilitarian atmosphere reflecting the no-frills reality of life on the professional shogi circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQeN9Pr6MGGARhkD8kVgr7CI",
+      "name": "Mos Premium Sendagaya",
+      "localName": "モスプレミアム 千駄ヶ谷店",
+      "coordinates": {
+        "lat": 35.678773,
+        "lng": 139.71058299999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/gwgCcSPssqTId3F4tf3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/gwgCcSPssqTId3F4tf3b.webp"
+        },
+        {
+          "url": "media/cached-image_d213736de8fd72613b1be1573ef7137cfb6c319c1e8a6c8de1de1835ccdc3d3b.jpg"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mos Premium, 1 Chome-8-１１ Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/v1Kr6njjhwFxEhMg7",
+      "episodeType": "EP",
+      "episodeNumber": 16,
+      "entityContext": "This Mos Burger near the Shogi Hall in Sendagaya appears in Episode 16 as a casual food stop for Rei and other characters associated with the shogi world, blending the mundane and the professional."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-bcrqgmjGWARsK8ibbu936s",
+      "name": "Tenseien",
+      "localName": "天成園",
+      "coordinates": {
+        "lat": 35.22871,
+        "lng": 139.094652
+      },
+      "image": "https://cdn.animepilgrimage.com/places/mkxMCW2SEWHeQA6rO5aY.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/mkxMCW2SEWHeQA6rO5aY.webp"
+        },
+        {
+          "url": "media/cached-image_88f11272281d6febb3c8975390232ae4ff9d2fa90e02555827d3c7da899d3c93.jpg"
+        },
+        {
+          "url": "media/cached-image_0f299d15e586e9459c6c87a7fa3bdf89bbf029b445b115a23404446fcca37c48.jpg"
+        },
+        {
+          "url": "media/cached-image_0105c5dc7153f653c2636f4cd99849f402389bddb2548aa960c32b028dc415aa.jpg"
+        },
+        {
+          "url": "media/cached-image_eeaaa1d4c36a520d85691de5206cec9c29ec6388c067e9adab85d1d4568befc8.jpg"
+        },
+        {
+          "url": "media/cached-image_9b7ccdf19c0e8985a841e206e71e3656652a70934928f6e27ebfb33e7504a105.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.1,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tenseien, 682 Yumoto, Hakone, Ashigarashimo District, Kanagawa 250-0311, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4C7EP599JnVq62u5A",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "This Hakone onsen ryokan is where Rei and the Kawamoto sisters stay during the Hakone trip in Episode 17, a pivotal restorative episode that gives Rei emotional breathing room between intense tournament arcs.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7wdQu3qJGGARmm2JouviIUw",
+      "name": "Monja Taro",
+      "localName": "もんじゃ太郎",
+      "coordinates": {
+        "lat": 35.6641729,
+        "lng": 139.78242799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/Dd3npRWiMDO8178LdKXS.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/Dd3npRWiMDO8178LdKXS.webp"
+        },
+        {
+          "url": "media/cached-image_eb89c263096dfacb6d60b496ced7f9c66ce5672f891597c4456aeed177a3c3b7.jpg"
+        }
+      ],
+      "type": "Monjayaki restaurant",
+      "categories": [
+        "Monjayaki restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Monja Tarō, 1 Chome-22-1-103 Tsukishima, Chuo City, Tokyo 104-0052, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZH2VGKXwF9o7ZEKf6",
+      "episodeType": "EP",
+      "episodeNumber": 22,
+      "entityContext": "This Tsukishima monjayaki restaurant appears in Episode 22, reflecting the island neighborhood's identity as Tokyo's monja street and grounding Rei's life in the distinctive food culture of his local area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU2iaSnGJGGARFh1rzpdIO8M",
+      "name": "Asashio Bridge",
+      "localName": "朝潮大橋",
+      "coordinates": {
+        "lat": 35.662473899999995,
+        "lng": 139.7868714
+      },
+      "image": "https://cdn.animepilgrimage.com/places/yj2Ff77cbZtAJIW7FgzU.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/yj2Ff77cbZtAJIW7FgzU.webp"
+        },
+        {
+          "url": "media/cached-image_60f56b65d900eb61202ae11e24d4cade5b390a5458143150cb1e50b31254fa15.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Asashio Bridge, 2 Chome-3 Tsukishima, 中央区 東京都 104-0052, Japan",
+      "city": "中央区",
+      "region": "東京都",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fixVgByauRUoNhUQ7",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "This bridge between Tsukishima and the waterfront appears in the opening sequence and in atmospheric shots throughout the series, representing Rei's solitary commutes through the reclaimed land of his home district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE-M2pZfdAGARNQhX76ArVzY",
+      "name": "Sumiyoshi Bridge",
+      "localName": "反橋",
+      "coordinates": {
+        "lat": 34.6125177,
+        "lng": 135.4922306
+      },
+      "image": null,
+      "images": [],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sorihashi Bridge - Sumiyoshi Taisha, 2 Chome-9-89 Sumiyoshi, Sumiyoshi Ward, Osaka, 558-0045, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DKeQMigUTnR9LZx5A",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "The iconic arched Sori-hashi bridge at Sumiyoshi Taisha in Osaka appears in the opening credits sequence, its graceful curve providing one of the anime's most visually distinctive location shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_march-comes-in-like-a-lion-2_27",
+      "name": "Nobu-an",
+      "localName": "そば処 のぶ庵",
+      "coordinates": {
+        "lat": 35.664422,
+        "lng": 139.781563
+      },
+      "image": "https://cdn.animepilgrimage.com/places/lViP7WLG3AjRHfeb6Hfq.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/lViP7WLG3AjRHfeb6Hfq.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4RStzPJQESpV4w3eA",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "This soba restaurant in the Tsukuda neighborhood appears in opening sequence scenes as part of the authentic old-town streetscape that defines Rei's home district in the anime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAUBYX3qJGGAR03CkRIFm2DA",
+      "name": "FamilyMart Tsukishima 3-chome",
+      "localName": "ファミリーマート 中央月島三丁目店",
+      "coordinates": {
+        "lat": 35.6621404,
+        "lng": 139.7813605
+      },
+      "image": "https://cdn.animepilgrimage.com/places/RDzVY5OqylP4flaoxDto.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/RDzVY5OqylP4flaoxDto.webp"
+        },
+        {
+          "url": "media/cached-image_a85cda35fdc5d4026e5eeece8b04c62b894a63f54983f98ba73a1107b8ebae8d.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Chuo Tsukishima 3-chome, 3 Chome-12-4 Tsukishima, Chuo City, Tokyo 104-0052, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/uFhVshCMDmQfweSXA",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "This convenience store in Tsukishima appears in the opening credits as part of the realistic urban texture of Rei's neighborhood, capturing the mundane landmarks of his solitary daily routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAcDs82WJGGARRXmL_0ojH2g",
+      "name": "Chuo Kuritsu Tsukudanichomenishi Park",
+      "localName": "中央区立佃ニ丁目西公園",
+      "coordinates": {
+        "lat": 35.6662399,
+        "lng": 139.7831933
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aA8sXFSOhOhWV0F2bkaj.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aA8sXFSOhOhWV0F2bkaj.webp"
+        },
+        {
+          "url": "media/cached-image_954dc4bc04626a5049c74fbaf4d40aa0712e0cbc70c3f95572038b0e64cea299.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-11-4 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6662399,139.7831933,3a,75y,114.37h,95.17t/data=!3m7!1e1!3m5!1sszomg2hYeCpumJ9W0Ik5oQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dszomg2hYeCpumJ9W0Ik5oQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D93.90328%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small park in the Tsukuda neighborhood appears in Episode 3 as one of the quiet local spaces near Rei's apartment, reinforcing the lived-in atmosphere of his low-key residential district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXK6znGJGGARJkQNYgtAKYY",
+      "name": "Dai 2 Kashima Liquor Store",
+      "localName": "第２鹿島酒店",
+      "coordinates": {
+        "lat": 35.6655844,
+        "lng": 139.7860542
+      },
+      "image": "https://cdn.animepilgrimage.com/places/mnUGpoHp9NcF8MpIXuFx.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/mnUGpoHp9NcF8MpIXuFx.webp"
+        },
+        {
+          "url": "media/cached-image_63884e59dabe540ea46ad52ed2d0910033215284dcb0c59443a75f68f78375e9.jpg"
+        }
+      ],
+      "type": "Liquor store",
+      "categories": [
+        "Liquor store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Dai 2 Kashima Liquor Store, 2 Chome-20-4 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MpnZEJchmzhHUSkZ7",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "This local liquor shop in Tsukuda appears in the opening sequence as part of the authentic neighborhood scenery, showing the small independent shops that give Rei's home area its shitamachi character."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPXcZIsCOGGARsYimyXoHsms",
+      "name": "Asakusa Hanayashiki",
+      "localName": "浅草花やしき",
+      "coordinates": {
+        "lat": 35.7151292,
+        "lng": 139.795058
+      },
+      "image": "https://cdn.animepilgrimage.com/places/nevOtQRCBLuAbjkF26W9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/nevOtQRCBLuAbjkF26W9.webp"
+        },
+        {
+          "url": "media/cached-image_4291504ca5e19e3f1e50fe66de130b5a9d6daf568cd4225a6dd6c83b0b6408f3.jpg"
+        },
+        {
+          "url": "media/cached-image_8602eef08f352f2b4c5d816d1effb4cf1201376b3280c266fe487e6ec27b174b.jpg"
+        },
+        {
+          "url": "media/cached-image_d6fd02e1e332e624b0a286dc42464369be62292e158935d9122d6ac827ab281b.jpg"
+        },
+        {
+          "url": "media/cached-image_be61d34a989ecab6c0f011d373b6388106924a7eb208348ae8376a58b40d5557.jpg"
+        },
+        {
+          "url": "media/cached-image_2b7acbcf9848e90676799019fc234620da1210f73b0782e1b3edc227a5513287.jpg"
+        },
+        {
+          "url": "media/cached-image_3b82288c343b3b79fc2d941605ce75614d6d30a0f3582b0d57929bef54b5f526.jpg"
+        },
+        {
+          "url": "media/cached-image_c77bdebb67729b97603faa3b00c7b12588fb1ba623d99ac259d3887ac8559074.jpg"
+        },
+        {
+          "url": "media/cached-image_8ffc47a8e94f86cbb96f2fe785ac74e80f20a18a09c2c39c98c1d51dd4b135de.jpg"
+        },
+        {
+          "url": "media/cached-image_77268e0bae6bb0dd5879868b555048d9ed15d14b583af9f32e09cd71e83986ee.jpg"
+        }
+      ],
+      "type": "遊園地",
+      "categories": [
+        "遊園地"
+      ],
+      "rating": 4.1,
+      "reviewCount": 381,
+      "priceLevel": null,
+      "address": "2 Chome-28-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7151292,139.795058,3a,90y,345.18h,98.99t/data=!3m7!1e1!3m5!1s5FNWi2Lh7UmIFWJhByssMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D5FNWi2Lh7UmIFWJhByssMQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D51.10708%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Japan's oldest amusement park appears in Episode 5 when Rei accompanies the Kawamoto sisters on an outing, the retro charm of its old rides perfectly matching the warm, nostalgic tone of the Kawamoto family scenes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu0N2K2SJGGARkE-jQJtMsy0",
+      "name": "Chuo-Ohashi Bridge",
+      "localName": "佃大橋",
+      "coordinates": {
+        "lat": 35.6678476,
+        "lng": 139.78112679999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/rnM13pTyt2HF5KlODhxs.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/rnM13pTyt2HF5KlODhxs.webp"
+        },
+        {
+          "url": "media/cached-image_92f9770b9e5a8ec546234a14891c67b0a0a6821d3e94ad400f0013923266e65a.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tsukuda Ohashi Bridge, Chuo City, Tokyo, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6722867,139.7841198,3a,49.6y,172.91h,95.05t/data=!3m7!1e1!3m5!1slTmdjTLrhu6eXWs1aeMbDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.05363558347662%26panoid%3DlTmdjTLrhu6eXWs1aeMbDQ%26yaw%3D172.90613487513073!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Tsukuda bridge spanning the Sumida River appears in Episode 1 as part of the establishing shots of Rei's neighborhood, its crossing a repeated visual marker of his movements between the island and the wider city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCwbTk56OGGARRJJPe22ziWw",
+      "name": "Ueno Station",
+      "localName": "上野駅",
+      "coordinates": {
+        "lat": 35.713747,
+        "lng": 139.775786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/lgEUne77ii5V1SaAKIww.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/lgEUne77ii5V1SaAKIww.webp"
+        },
+        {
+          "url": "media/cached-image_7b47ee28803224c6e7662d082010b82f7164149710feb755e8726acaf39ffb50.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "7 Chome Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7139558,139.7759039,3a,48.8y,202.47h,92.94t/data=!3m6!1e1!3m4!1sBx9_YETkB7vmre1y-MdrmA!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 14,
+      "entityContext": "Ueno Station appears in Episode 14 as a departure point for Rei's journey to the Morioka tournament, its busy platforms conveying the start of another demanding trip on the professional shogi circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXW6Shm-JGGARG2GT8dohPhs",
+      "name": "Tsukuda-Ohashi Bridge",
+      "localName": "佃大橋",
+      "coordinates": {
+        "lat": 35.6682274,
+        "lng": 139.7807537
+      },
+      "image": "https://cdn.animepilgrimage.com/places/CebQDq3u0DM91BDq62qC.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/CebQDq3u0DM91BDq62qC.webp"
+        },
+        {
+          "url": "media/cached-image_1b4efff6cda09a1307c016547125e8a40305081edb8ce900d7eab744c9f63918.jpg"
+        }
+      ],
+      "type": "橋樑",
+      "categories": [
+        "橋樑"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-8-1 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6682274,139.7807537,3a,90y,42.7h,92.87t/data=!3m7!1e1!3m5!1sw_qJeh2zfa85yGtM-bmvdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dw_qJeh2zfa85yGtM-bmvdQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D351.71344%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This bridge in the Tsukuda area recurs in Episode 1 as a defining landmark of Rei's home district, its waterfront view and old-town surroundings establishing the quiet character of his everyday environment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq-qVkGWJGGARrK_GNSIDk_Q",
+      "name": "Near the Tsukuda Machikado Museum",
+      "localName": "佃まちかど展示館付近",
+      "coordinates": {
+        "lat": 35.6676256,
+        "lng": 139.781852
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1qgKeLBTio7NxdyncxOe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1qgKeLBTio7NxdyncxOe.webp"
+        },
+        {
+          "url": "media/cached-image_7cadad657bc83b01d79d9504269dc75741f65e0e4631d5ef46afdb6364bf43c5.jpg"
+        }
+      ],
+      "type": "博物館",
+      "categories": [
+        "博物館"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6676312,139.7814041,3a,75y,64.46h,92.24t/data=!3m6!1e1!3m4!1sZQSZnOgKfqxf_cqGy_7LwA!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The streets near the Tsukuda neighborhood museum appear in Episode 4 as background scenery for Rei's walks through his old-fashioned residential district, full of historic wooden buildings that the anime renders in loving detail."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwflHkZWMGGAR8DO_fUaSs34",
+      "name": "Tokyo Metropolitan Gymnasium",
+      "localName": "東京体育館",
+      "coordinates": {
+        "lat": 35.679736399999996,
+        "lng": 139.71240509999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/otXztQHkmYvAizfMDFV0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/otXztQHkmYvAizfMDFV0.webp"
+        },
+        {
+          "url": "media/cached-image_1ccf9ff36796a76f1dfa547fa6017f1057a0eadb6d6437c80403653af20b835e.jpg"
+        }
+      ],
+      "type": "Arena",
+      "categories": [
+        "Arena"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Metropolitan Gymnasium, 1 Chome-17-1 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6803262,139.7113575,3a,90y,117.13h,99.53t/data=!3m7!1e1!3m5!1suHlreR4dbEyNmfNsWUutSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.534660943066442%26panoid%3DuHlreR4dbEyNmfNsWUutSg%26yaw%3D117.13380096724717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 21,
+      "entityContext": "The Tokyo Metropolitan Gymnasium in Sendagaya appears in Episode 21 as a backdrop near the shogi association, its grand architecture marking the institutional weight of professional sports culture in the Sendagaya district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIzT1zXyJGGARuXgGdAoz98I",
+      "name": "Brillant Tsukuda",
+      "localName": "美食腸食ブリオン",
+      "coordinates": {
+        "lat": 35.6682257,
+        "lng": 139.7825463
+      },
+      "image": "https://cdn.animepilgrimage.com/places/xsAiYvf3JT9mCEeURPtL.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/xsAiYvf3JT9mCEeURPtL.webp"
+        },
+        {
+          "url": "media/cached-image_b09104fe08b8c3bf39c3e711566996fd5b316ff33922d9b90664afac97d6d26e.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Brillant Tsukuda, 1 Chome-2-1 Tsukuda, Chuo City, Tokyo 104-0051, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6682008,139.7828142,3a,48.7y,296.46h,96.83t/data=!3m7!1e1!3m5!1spKYYII6EoVVj58wbgPEz3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.8315546308240584%26panoid%3DpKYYII6EoVVj58wbgPEz3Q%26yaw%3D296.4618799118097!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This cafe in the Tsukuda neighborhood appears in Episode 4 as part of the local streetscape near Rei's apartment, one of the small businesses that populate his quiet island district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs_Z8FnCJGGARdr45pGbmLmg",
+      "name": "Tsukishima Sta.",
+      "localName": "月島駅",
+      "coordinates": {
+        "lat": 35.66433,
+        "lng": 139.78481
+      },
+      "image": "https://cdn.animepilgrimage.com/places/myuy3x2ESai5qiAynW8M.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/myuy3x2ESai5qiAynW8M.webp"
+        },
+        {
+          "url": "media/cached-image_03ef58bdd81a614b844eb29e36fd5a5ac61ae9f6d41c948691ed99ff24f0bbd4.jpg"
+        },
+        {
+          "url": "media/cached-image_5a9daeeba1ca4b337ab819fa546b7fe437d4679c1f3310cf09ec227f689cfefc.jpg"
+        },
+        {
+          "url": "media/cached-image_486c798e77882af5916f9174acebac6ff137d9fe93afad8fa232178cb38b60e8.jpg"
+        },
+        {
+          "url": "media/cached-image_e96f80618d8e3c83cb1514b451252bdfa0fc3d3c3ce4b9086ec332ff7903e325.jpg"
+        },
+        {
+          "url": "media/cached-image_4f779af81ef8860adc77eb8300de319f4ebf92523dd8209ce804880d3556529e.jpg"
+        },
+        {
+          "url": "media/cached-image_40be8884636b76bd86157c61144bdd5341f75795b2f9a4c5800277d35eee2b92.jpg"
+        }
+      ],
+      "type": "地下鉄駅",
+      "categories": [
+        "地下鉄駅"
+      ],
+      "rating": 3.7,
+      "reviewCount": 81,
+      "priceLevel": null,
+      "address": "2-chōme-10 Tsukishima, Chuo City, Tokyo 104-0052, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6643761,139.7848208,2a,75y,153.26h,92.18t/data=!3m7!1e1!3m5!1sVYBqrtj9zJ-3GWe11hYwzg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1831166784328104%26panoid%3DVYBqrtj9zJ-3GWe11hYwzg%26yaw%3D153.2627844764009!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Tsukishima Station serves as Rei's home subway stop in Episode 7, the gateway to and from his island neighborhood that marks the boundary between his insular world and the demands of the broader city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6UyUQV2JGGARa0ZASUMuUds",
+      "name": "Echizenbori Drugstore (since 1923)",
+      "localName": "越前堀薬局本店",
+      "coordinates": {
+        "lat": 35.674928099999995,
+        "lng": 139.7818562
+      },
+      "image": "https://cdn.animepilgrimage.com/places/UOWTSiii2moBtxFbFDaX.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/UOWTSiii2moBtxFbFDaX.webp"
+        },
+        {
+          "url": "media/cached-image_b9f8bf78e281564f630a6117df7f228141eeb3fefc7290e114709c6e06af1178.jpg"
+        }
+      ],
+      "type": "Pharmacy",
+      "categories": [
+        "Pharmacy"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Echizenbori Drugstore (since 1923), 2 Chome-17-12 Shinkawa, Chuo City, Tokyo 104-0033, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/piejgnqrJD8YxKA9A",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This century-old pharmacy in Shinkawa near Tsukuda appears in Episode 1 as a street-level landmark conveying the historic, working-class character of Rei's home district in central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcX9RE3WjGWARooaTIj-NpZs",
+      "name": "Hakone-Yumoto Station",
+      "localName": "箱根湯本駅",
+      "coordinates": {
+        "lat": 35.2332816,
+        "lng": 139.10358779999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cXEQFzaWRdxCwDKNYFf8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cXEQFzaWRdxCwDKNYFf8.webp"
+        },
+        {
+          "url": "media/cached-image_2338c85547aa4e215d9d72b10ee3a2f7b33c55e2329e126f861feafaa7cad60a.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hakone-Yumoto Station, Yumoto, Hakone, Ashigarashimo District, Kanagawa 250-0311, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GLB7h11373LjBwjV8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Hakone-Yumoto Station is the arrival point for Rei and the Kawamoto sisters in Episode 2, the entry to the hot-spring resort town and the start of a rare lighthearted getaway from the pressures of tournament shogi.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU2N6VnSjGWARiat_MOyKCJM",
+      "name": "Yumoto Fujiya Hotel",
+      "localName": "湯本富士屋ホテル",
+      "coordinates": {
+        "lat": 35.2322641,
+        "lng": 139.104796
+      },
+      "image": "https://cdn.animepilgrimage.com/places/JHs1rD8Do5bWfGeKkBbZ.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/JHs1rD8Do5bWfGeKkBbZ.webp"
+        },
+        {
+          "url": "media/cached-image_35211f91fbef5cab546aa9f3a9953a7bb424ee0b95cc8f2c6c7404e9d29f5430.jpg"
+        },
+        {
+          "url": "media/cached-image_898f91f8e1c59d3b6c8f0cdb7b7fe7b7919a1526eb3a1fea3220c3c33a457203.jpg"
+        },
+        {
+          "url": "media/cached-image_8fe6f2556a7aa9700b983a6ae06c067bd52f86250ea6513a3604ffca07b89a50.jpg"
+        },
+        {
+          "url": "media/cached-image_d5605baa1d63fea67c4c98d2901f27e84f04804a6c2532933fbe4052af8f638a.jpg"
+        },
+        {
+          "url": "media/cached-image_0d76dcfe1533012a119753ee21555679b68e99ca3631129670f8cc838ac05597.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.2,
+      "reviewCount": 88,
+      "priceLevel": null,
+      "address": "Yumoto Fujiya Hotel, 256-1 Yumoto, Hakone, Ashigarashimo District, Kanagawa 250-0392, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yVT4Dq5Xivf6VHeb9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This historic hotel near Hakone-Yumoto Station appears in Episode 2 as the accommodation for the Kawamoto sisters' Hakone trip, its traditional Japanese inn atmosphere marking the episode as a warm respite episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsRZneb6MGGARJhdlem3RTQc",
+      "name": "Shogi Hall",
+      "localName": "日本将棋連盟本部 将棋会館",
+      "coordinates": {
+        "lat": 35.6772529,
+        "lng": 139.7094664
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9JTsyYQDivLtTXcH0dp2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9JTsyYQDivLtTXcH0dp2.webp"
+        }
+      ],
+      "type": "Shogi lesson",
+      "categories": [
+        "Shogi lesson"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shogi Hall, 2 Chome-39-9 Sendagaya, Shibuya, Tokyo 151-0051, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YbXGXLDFxzx2pmVZA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Japan Shogi Federation headquarters in Sendagaya is the nerve center of Rei's professional life, appearing repeatedly throughout Season 2 as the venue where key matches, title matches, and shogi society drama unfold.",
+      "fanTopPick": true
+    }
+  ]
+}

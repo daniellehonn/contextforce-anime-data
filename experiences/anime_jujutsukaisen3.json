@@ -1,0 +1,2094 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Jujutsu Kaisen 3 The Culling Game",
+  "slug": "jujutsu-kaisen-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://cdn.animepilgrimage.com/anime/oZ1ZO0bAf6FpPP7poEve.webp",
+  "image": "https://cdn.animepilgrimage.com/anime/oZ1ZO0bAf6FpPP7poEve.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.77928416181818,
+    "lng": 139.96421347454543
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Jujutsu Kaisen 3 The Culling Game"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_0",
+      "name": "Kamurio Bridge",
+      "localName": "かむり大橋",
+      "coordinates": {
+        "lat": 38.31828,
+        "lng": 140.88319
+      },
+      "image": "media/cached-image_24c4b648edc9b1fea7489ee9b313c4c2f29dbd89667207939b4c12780b85fd2a.webp",
+      "images": [
+        {
+          "url": "media/cached-image_24c4b648edc9b1fea7489ee9b313c4c2f29dbd89667207939b4c12780b85fd2a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This bridge near Nanakita Park sits at the heart of the Sendai Colony, the real-world territory that became the battlefield for the Culling Game's first major arc in Season 3. Fans trace the bridge's distinctive silhouette to key transition shots during the Sendai Colony episodes.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/pfpEcYYffcGos5rG9",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLWaVdDXuGGART_Pg1R3CZ4A",
+      "name": "Inokashira Park",
+      "localName": "井の頭恩賜公園",
+      "coordinates": {
+        "lat": 35.69878,
+        "lng": 139.57882
+      },
+      "image": "media/cached-image_42cd63c1e9268f815b8a925c6146211cac0fce628ddf6ec702a6dd078c3dea44.webp",
+      "images": [
+        {
+          "url": "media/cached-image_42cd63c1e9268f815b8a925c6146211cac0fce628ddf6ec702a6dd078c3dea44.webp"
+        },
+        {
+          "url": "media/cached-image_afbeb8d6a50b89414c6ab7d07bd89d3d41713271fd29786019c933700296f063.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-18-31 Gotenyama, Musashino, Tokyo 180-0005, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RLzyK9NpDCnqmNFZ9",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJefIYkDKBiV8RYIJMjEggE8c",
+      "name": "Nanakita Park Tennis Courts",
+      "localName": "七北田公園庭球場",
+      "coordinates": {
+        "lat": 38.3184769,
+        "lng": 140.88528359999998
+      },
+      "image": "media/cached-image_a7e78279d4f1a178aa904688990fbff2c2457e1e732a4719f84a5a803a5638e8.webp",
+      "images": [
+        {
+          "url": "media/cached-image_a7e78279d4f1a178aa904688990fbff2c2457e1e732a4719f84a5a803a5638e8.webp"
+        },
+        {
+          "url": "media/cached-image_b87f4c77c334c5f2cc56bb67f34987cef8cfb8e4b90b0268c4b4ced6cb2cbb76.jpg"
+        }
+      ],
+      "type": "Tennis court",
+      "categories": [
+        "Tennis court"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nanakita Park Tennis Courts, Gakeshita-60-19 Nanakita, Izumi Ward, Sendai, Miyagi 981-3131, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Located inside Nanakita Park, these courts are set within the Sendai Colony barrier zone, the epicenter of Yuta Okkotsu's brutal Culling Game battles in Season 3. Pilgrim fans noted that the park's open grounds appear in the wide-angle battle overhead shots showing the colony's devastation.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/xbWTxMjcS6DaH4nq7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA8A8DkQoil8R7LCxEZhKJig",
+      "name": "Sendai City Museum",
+      "localName": "仙台市博物館",
+      "coordinates": {
+        "lat": 38.2559847,
+        "lng": 140.8566935
+      },
+      "image": "media/cached-image_2cfc07a95a1d3f2f40c053c60132e5f0b2385aae228da67e3c12cd0c6e7a5706.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2cfc07a95a1d3f2f40c053c60132e5f0b2385aae228da67e3c12cd0c6e7a5706.webp"
+        },
+        {
+          "url": "media/cached-image_3bd189dd550c5364db39333152729321c9d92756ab58bf31eff2c2de0091a02f.jpg"
+        },
+        {
+          "url": "media/cached-image_9ef47fbc6b970def8fe0dad2683fb6cf991a529ce4f4a55e8d78145b1edf8074.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": 4.1,
+      "reviewCount": 91,
+      "priceLevel": null,
+      "address": "Sendai City Museum, 26 Kawauchi, Aoba Ward, Sendai, Miyagi 980-0862, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aiGrs2HcmNYYdhZR7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF9Gi0SyBiV8RaVdtJnrc6tY",
+      "name": "Steak Miya Sendai Yaotome",
+      "localName": "ステーキ宮 仙台八乙女店",
+      "coordinates": {
+        "lat": 38.316559399999996,
+        "lng": 140.8827784
+      },
+      "image": "media/cached-image_dc267d84e2fc40fca0177876253b8b3c26449aad20d29abb4ebe61353ed23ed3.webp",
+      "images": [
+        {
+          "url": "media/cached-image_dc267d84e2fc40fca0177876253b8b3c26449aad20d29abb4ebe61353ed23ed3.webp"
+        },
+        {
+          "url": "media/cached-image_235461b4986dcc312c6eb42253a0707262f1fc258add031b58630c983da6c2a6.jpg"
+        }
+      ],
+      "type": "Steak house",
+      "categories": [
+        "Steak house"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Steak Miya, 2 Chome-4-10 Yaotomechuo, Izumi Ward, Sendai, Miyagi 981-3135, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TUevGwLhr7TjtMcB7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAa-0XNSGiV8R-sI8TSS-bIs",
+      "name": "ズーズーカンパニー八乙女店",
+      "localName": "ズーズーカンパニー八乙女店",
+      "coordinates": {
+        "lat": 38.3132003,
+        "lng": 140.8824031
+      },
+      "image": "media/cached-image_e6cf222834c66d183d2c68a3b1f4ac551ca7748b23b9b68d326d9fe0f53e7004.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_e6cf222834c66d183d2c68a3b1f4ac551ca7748b23b9b68d326d9fe0f53e7004.jpg"
+        }
+      ],
+      "type": "ペットショップ",
+      "categories": [
+        "ペットショップ"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒981-3125 Miyagi, Sendai, Izumi Ward, Mizuhodai, 3-13 ズーズーカンパニー八乙女店",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NzAqpmP7j6WjBQu96",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_6",
+      "name": "SAKAE Izumi Chuo Building",
+      "localName": "ＳＡＫＡＥ泉中央ビル",
+      "coordinates": {
+        "lat": 38.32129,
+        "lng": 140.88316
+      },
+      "image": "media/cached-image_205cbc671eb87258c73f46e49730e7d6eebffba5b9b5412a8b58bc45734e8eb8.webp",
+      "images": [
+        {
+          "url": "media/cached-image_205cbc671eb87258c73f46e49730e7d6eebffba5b9b5412a8b58bc45734e8eb8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This commercial building in the Izumi Chuo hub appears in the Sendai Colony arc as one of the urban landmarks composing the backdrop of the 5-6 km radius barrier Kenjaku erected around Sendai, trapping players inside for the Culling Game.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4PLU7FMxupaupK5G9",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_7",
+      "name": "HUMOS SWiNG",
+      "localName": "泉中央駅ビルSWING",
+      "coordinates": {
+        "lat": 38.3232,
+        "lng": 140.88085
+      },
+      "image": "media/cached-image_03325130f1f3c22da4c3464f77254056503c40f9a34a6d99b4961469c9777601.webp",
+      "images": [
+        {
+          "url": "media/cached-image_03325130f1f3c22da4c3464f77254056503c40f9a34a6d99b4961469c9777601.webp"
+        },
+        {
+          "url": "https://cdn.animepilgrimage.com/places/JraVDEcIhSpVV9X4Fpk5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The station building attached to Izumi Chuo Station is one of the most recognizable structures in the Sendai Colony, a location shown repeatedly as Yuta Okkotsu fights through the barrier-enclosed city during the Culling Game arc in Season 3.",
+      "fanTopPick": true,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/JBS5sNNUFgMCqR2B7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa7SynzCBiV8RCxmgzoQXXmk",
+      "name": "SELVA Terrace",
+      "localName": "セルバテラス",
+      "coordinates": {
+        "lat": 38.3243276,
+        "lng": 140.8810541
+      },
+      "image": "media/cached-image_6500f4d176d6518e5755d628f2b004d027de5c7338c8b6526e6f598bec26149c.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_6500f4d176d6518e5755d628f2b004d027de5c7338c8b6526e6f598bec26149c.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "SELVA Terrace, 1 Chome-６-3 Izumichuo, Izumi Ward, Sendai, Miyagi 981-3133, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This shopping complex adjacent to Izumi Chuo Station is part of the dense commercial district that forms the Sendai Colony battlefield in Season 3. The area's streets and storefronts are faithfully reproduced in the wide-angle shots of the chaotic Culling Game skirmishes.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YfwJ8tdcybu3jXmb7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcUpn3NmMGGARE6ctpsVJYBg",
+      "name": "Komeda's Coffee Shinjuku Yasukuni-dori",
+      "localName": "コメダ珈琲店 新宿靖国通り店",
+      "coordinates": {
+        "lat": 35.6937918,
+        "lng": 139.7019239
+      },
+      "image": "media/cached-image_311e06d408494f0c46413c37036857ebca16a721205fdd7b648747b709641a5d.webp",
+      "images": [
+        {
+          "url": "media/cached-image_311e06d408494f0c46413c37036857ebca16a721205fdd7b648747b709641a5d.webp"
+        },
+        {
+          "url": "media/cached-image_da5e7fa5edfc1b951e9d8956eb333c8ce87434d9b41a9bf5cfb84acb63443eae.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Komeda's Coffee Shinjuku Yasukuni-dōri, セレサ陽栄新宿ビル 2F 1 Chome-16-3 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CyjXJujhEDmYFZpg6",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDbBw8KeMGGARLD_t9-jeZiY",
+      "name": "FamilyMart Shibuya 1-chome",
+      "localName": "ファミリーマート 渋谷一丁目店",
+      "coordinates": {
+        "lat": 35.6607839,
+        "lng": 139.7022416
+      },
+      "image": "media/cached-image_f77e0b875a4eb30135585510ffe4ba420e5a4aba8fab20c25882a6df83e2b00f.webp",
+      "images": [
+        {
+          "url": "media/cached-image_f77e0b875a4eb30135585510ffe4ba420e5a4aba8fab20c25882a6df83e2b00f.webp"
+        },
+        {
+          "url": "media/cached-image_a1b29727d7f3ac8b47681f03f466492e631044896584290eadb6d19b42c4be1b.jpg"
+        },
+        {
+          "url": "media/cached-image_6aaac9a7e50993c8ceb62262e1cc6c057489d6997954949fe528a899a42e7056.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "マトリクス・ツービル １F, 1 Chome-24-6 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Shibuya streetscape around this convenience store appears in the opening animation of Season 3, establishing the gritty urban atmosphere of Tokyo as the stage for the Culling Game.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6607839,139.7022416,3a,75y,267.32h,95.31t/data=!3m7!1e1!3m5!1sCuI9X0rr1uIv1FjuTk4wZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCuI9X0rr1uIv1FjuTk4wZQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D359.6325%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL5E0eVN9GGARxhAyMYWqPzg",
+      "name": "Diamond and Flower Ferris Wheel",
+      "localName": "ダイヤと花の大観覧車",
+      "coordinates": {
+        "lat": 35.64389,
+        "lng": 139.85719
+      },
+      "image": "media/cached-image_6164fb0197fe33c85456e7b3af409cec8bbb9bedc98735951770c7a15acab502.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_6164fb0197fe33c85456e7b3af409cec8bbb9bedc98735951770c7a15acab502.jpg"
+        }
+      ],
+      "type": "観覧車",
+      "categories": [
+        "観覧車"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "6 Chome-2-2 Rinkaicho, Edogawa City, Tokyo 134-0086, Japan",
+      "city": "Edogawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6440556,139.8564939,3a,90y,86.92h,112.6t/data=!3m7!1e1!3m5!1siWPlE3Q0_oL6dZTV61B1jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.60211386771283%26panoid%3DiWPlE3Q0_oL6dZTV61B1jQ%26yaw%3D86.92110455463981!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__8_GDCBiV8Rg1nCv0JNsSQ",
+      "name": "Marutama Izumi Chuo",
+      "localName": "まるたま 泉中央店",
+      "coordinates": {
+        "lat": 38.3226547,
+        "lng": 140.8785337
+      },
+      "image": "media/cached-image_96814f3756b6627fb82f55824fa85bb884ee2933346ca442801b321e144c7378.webp",
+      "images": [
+        {
+          "url": "media/cached-image_96814f3756b6627fb82f55824fa85bb884ee2933346ca442801b321e144c7378.webp"
+        },
+        {
+          "url": "media/cached-image_05b264bc3e093d6e5322a55f89aee97089a4cf348e03c189767a8d49dd0eab83.jpg"
+        }
+      ],
+      "type": "Pachinko parlor",
+      "categories": [
+        "Pachinko parlor"
+      ],
+      "rating": 2.4,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Marutama Izumi Chuo, 1 Chome-22-3 Izumichuo, Izumi Ward, Sendai, Miyagi 981-3133, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/R2J55Nj8r3S3u4Dn7",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_13",
+      "name": "HUMOS SWiNG",
+      "localName": "泉中央駅ビルSWING",
+      "coordinates": {
+        "lat": 38.32247,
+        "lng": 140.88085
+      },
+      "image": "media/cached-image_03325130f1f3c22da4c3464f77254056503c40f9a34a6d99b4961469c9777601.webp",
+      "images": [
+        {
+          "url": "media/cached-image_03325130f1f3c22da4c3464f77254056503c40f9a34a6d99b4961469c9777601.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The station building attached to Izumi Chuo Station is one of the most recognizable structures in the Sendai Colony, a location shown repeatedly as Yuta Okkotsu fights through the barrier-enclosed city during the Culling Game arc in Season 3.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/sNsWtMfECqNPY5YdA",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi4wRTiTQAGARIMTMLrdBmQE",
+      "name": "Times Izumichuo",
+      "localName": "和泉中央駅",
+      "coordinates": {
+        "lat": 34.4613805,
+        "lng": 135.45621
+      },
+      "image": "media/cached-image_2af8ce1406f7658b715fd517789ce26fbcec19336f676bacbd5cc8b6e6fceef2.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2af8ce1406f7658b715fd517789ce26fbcec19336f676bacbd5cc8b6e6fceef2.webp"
+        },
+        {
+          "url": "media/cached-image_3ea61251186b0ac96259be2a1270e29effca3587435d045f342d90d1f4b3bc47.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Izumi-Chuo, 5-chōme-1 Ibukino, Izumi, Osaka 594-0041, Japan",
+      "city": "Izumi",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SAVoVSnppVvHuB456",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE0Xc1LKMGGARJyXBIaBbEhg",
+      "name": "Reikyo Tomigaya",
+      "localName": "台湾料理 麗郷",
+      "coordinates": {
+        "lat": 35.6672459,
+        "lng": 139.6911873
+      },
+      "image": "media/cached-image_030ad381b264a79a23ef30d57486f6cab0541f38ef7049475e0808d5469737cd.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_030ad381b264a79a23ef30d57486f6cab0541f38ef7049475e0808d5469737cd.jpg"
+        }
+      ],
+      "type": "Taiwanese restaurant",
+      "categories": [
+        "Taiwanese restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "Reikyo Tomigaya, 1 Chome-14-18 Tomigaya, Shibuya, Tokyo 151-0063, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4z5rd1DE1MDWeMBv5",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF6BTTsSLGGARDNzio1kgLp8",
+      "name": "Yamato Transport Higashi-Ginza",
+      "localName": "ヤマト運輸株式会社 銀座ビル",
+      "coordinates": {
+        "lat": 35.6706505,
+        "lng": 139.77049259999998
+      },
+      "image": "media/cached-image_ff629ff6fd65c4294d43bd3b6c22f1b7823a036a4b04b0e59264d749f2edd137.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ff629ff6fd65c4294d43bd3b6c22f1b7823a036a4b04b0e59264d749f2edd137.webp"
+        },
+        {
+          "url": "media/cached-image_736f2a3d34fd863eda4722e3fe0c3cbba20344cb79a69d124c0a002fddc269d6.jpg"
+        }
+      ],
+      "type": "Shipping service",
+      "categories": [
+        "Shipping service"
+      ],
+      "rating": 2,
+      "reviewCount": 44,
+      "priceLevel": null,
+      "address": "Yamato Transport Co., Ltd. Head Office, 2 Chome-16-10 Ginza, Chuo City, Tokyo 104-8125, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wUno9K6ayfE3VMzW6",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzwxln-eLGGARqvIC_Ns4kbk",
+      "name": "Courtyard by Marriott Tokyo Ginza Hotel",
+      "localName": "コートヤード・マリオット銀座東武ホテル",
+      "coordinates": {
+        "lat": 35.668321,
+        "lng": 139.764925
+      },
+      "image": "media/cached-image_ca871c960ae715a872aa17f7006f72db7f3b3c23abc3a7a71488963730e4d4c1.webp",
+      "images": [
+        {
+          "url": "media/cached-image_ca871c960ae715a872aa17f7006f72db7f3b3c23abc3a7a71488963730e4d4c1.webp"
+        },
+        {
+          "url": "media/cached-image_36c8c4c3ebba55ab6efb3d1291c25d934bf820a47973193d2c565b16819297fb.jpg"
+        },
+        {
+          "url": "media/cached-image_99a9a5e5303de09b5da7dbceed9c29fd78a94a78594e0e03309c0df2574cb6e9.jpg"
+        },
+        {
+          "url": "media/cached-image_ada0170fae2cd855a6d4256c041e103275c43f364b7ea6e040caa6003e4a7101.jpg"
+        },
+        {
+          "url": "media/cached-image_46163a33ee25ac5f19bf00657db30f8101cef3b0e1c34ccbb996faa0205178fd.jpg"
+        },
+        {
+          "url": "media/cached-image_0bf1f0874a0c37e642f8baf7facc38b319a2d5d56f1dbc89b8c6340b0c19583f.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.7,
+      "reviewCount": 1766,
+      "priceLevel": null,
+      "address": "Courtyard by Marriott Tokyo Ginza Hotel, 6 Chome-14-10 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This hotel in Ginza is identified by pilgrimage researchers as the rooftop where Yuta Okkotsu is spotted standing in Episode 1, with Yuji Itadori looking up at him from the street below in a tense early meeting that sets up their dynamic in the Culling Game.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MEQjdhvXemmuoj1M7",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl6HkCuGLGGARTjbABLCrcuA",
+      "name": "Ginza 1 Post Office",
+      "localName": "銀座一郵便局",
+      "coordinates": {
+        "lat": 35.672599399999996,
+        "lng": 139.7701847
+      },
+      "image": "media/cached-image_51dba3a97143c97961760948595e64ac9c416cd1584cf823c0d43b65ba2a058a.webp",
+      "images": [
+        {
+          "url": "media/cached-image_51dba3a97143c97961760948595e64ac9c416cd1584cf823c0d43b65ba2a058a.webp"
+        },
+        {
+          "url": "media/cached-image_abd401f6227907b50cc892b7a58bee287147f1d6be28247a919b15b70e8214a2.jpg"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ginza 1 Post Office, 1 Chome-20-14 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ttcHVA8eicTZbGFb6",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKUY-BwCJGGARg7DCm75PtA8",
+      "name": "Tsukudao Bridge",
+      "localName": "佃大橋",
+      "coordinates": {
+        "lat": 35.6678476,
+        "lng": 139.78112679999998
+      },
+      "image": "media/cached-image_87b931ed8a65f4d607e041f79ad2d4685fb68546ebf09b3245da16076b261e90.webp",
+      "images": [
+        {
+          "url": "media/cached-image_87b931ed8a65f4d607e041f79ad2d4685fb68546ebf09b3245da16076b261e90.webp"
+        },
+        {
+          "url": "media/cached-image_13d4d7a3ae19c50de8b8da69cf571a88fb68d24b7b03c9a99e9de2a19c08cd0e.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tsukudao Bridge, 大橋 Tsukuda, Chuo City, Tokyo 104-0044, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Tsukuda Bridge and its surrounding riverside in Chuo City appear in Episode 1 as part of the Ginza-area scenes where Yuji pursues a curse. Pilgrimage researchers matched the twin tower skyline of St. Luke's Garden visible from the bridge to the anime's background art.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hKMS7pTNDTMJ7b8V9",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB3bcdjqNGGARL5o_CbWtZ6Y",
+      "name": "Kukyo Hall",
+      "localName": "区境ホール",
+      "coordinates": {
+        "lat": 35.7013743,
+        "lng": 139.7441467
+      },
+      "image": "media/cached-image_967e8d04a3e73a91169272a3636e5123898bc5aa56099218ce50d64f6d5d4371.webp",
+      "images": [
+        {
+          "url": "media/cached-image_967e8d04a3e73a91169272a3636e5123898bc5aa56099218ce50d64f6d5d4371.webp"
+        },
+        {
+          "url": "media/cached-image_32d4f2b44a313471c246ada417efef6dd8da9e766d69d5182bac1d01b846605c.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kukyo Hall, Kuzakai Hall, 1, Shinjuku City, Tokyo 162-0823, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YC8LzKSqnwDRPWTAA",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsZTc61eLGGARG19EHRBJGjE",
+      "name": "Myth of Tomorrow",
+      "localName": "岡本太郎「明日の神話」",
+      "coordinates": {
+        "lat": 35.6587713,
+        "lng": 139.7002641
+      },
+      "image": "media/cached-image_bb43a00107021ce11bca30ccaa741f56ffdf4761411ca0ca0a859850b41d24ec.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bb43a00107021ce11bca30ccaa741f56ffdf4761411ca0ca0a859850b41d24ec.webp"
+        },
+        {
+          "url": "media/cached-image_57e970618f33e63c19b2042514a3708570ee69f2740dfa2ef547c517789c480c.jpg"
+        }
+      ],
+      "type": "絵画",
+      "categories": [
+        "絵画"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒150-0043 Tokyo, Shibuya, Dogenzaka, 1 Chome−12−1 渋谷マークシティ, ２階連絡通路",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Taro Okamoto's massive atomic-bomb mural in the Shibuya Mark City walkway appears in the opening sequence of Season 3, its imagery of human struggle against destruction serving as a visual metaphor for the sorcerers trapped in the Culling Game. The mural is one of the most iconic free-to-visit pilgrim spots in all of Jujutsu Kaisen.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6588296,139.7001883,2a,49.6y,149.73h,91.02t/data=!3m8!1e1!3m6!1sIZ_c7RZ4cvnJ9FroBHMZig!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0218632213658765%26panoid%3DIZ_c7RZ4cvnJ9FroBHMZig%26yaw%3D149.732813723996!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyRXDbOzlGGAR0oKjvrLsrEE",
+      "name": "House of Nishikawa Annex",
+      "localName": "西川家別邸",
+      "coordinates": {
+        "lat": 35.7160423,
+        "lng": 139.51356909999998
+      },
+      "image": "media/cached-image_1b7dacb623edff35e3f349d6ecca13f3cfb4dd4568b8e92542a99eabf35cf940.webp",
+      "images": [
+        {
+          "url": "media/cached-image_1b7dacb623edff35e3f349d6ecca13f3cfb4dd4568b8e92542a99eabf35cf940.webp"
+        },
+        {
+          "url": "media/cached-image_0c3819ccb2f94858630454f7bbc01e11ea653e13159e04902088794ec711845f.jpg"
+        }
+      ],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "House of Nishikawa Annex, 3 Chome-7-1 桜町 Koganei, Tokyo 184-0001, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This Taisho-era Western-style building, preserved at the Edo-Tokyo Open Air Architectural Museum in Koganei, is confirmed as the visual model for the Zenin clan estate exterior in Episode 1. The building's distinctive architecture was reproduced closely in the scenes depicting the powerful Zenin family home.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hoqDrtKZrSGxXphX7",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ62qlYEvzGGARHL_mRqJcUR0",
+      "name": "Yoyogi Park Art Studio",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.669295399999996,
+        "lng": 139.6898759
+      },
+      "image": "media/cached-image_4b3b1d64d5c9667bac42991279e2b59da02e264b0cfedd866de2010f35c1de66.webp",
+      "images": [
+        {
+          "url": "media/cached-image_4b3b1d64d5c9667bac42991279e2b59da02e264b0cfedd866de2010f35c1de66.webp"
+        },
+        {
+          "url": "media/cached-image_da951b65921ede7f083efa910f8ff084a45de81eb82f38aa5ef8bd533f731ccf.jpg"
+        }
+      ],
+      "type": "Educational institution",
+      "categories": [
+        "Educational institution"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0063 Tokyo, Shibuya, Tomigaya, 1 Chome−6−14 Yoyogi Park Art Studio",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The distinctive triangular art-mural building near Yoyogi Park appears in the opening animation of Season 3, its vivid facade used to evoke the chaotic creative energy of Tokyo as the backdrop for the Culling Game. Multiple pilgrimage guides identify this as an OP background location.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BjJTiHP29A7Qs5qB6",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJTmNNezlGGARpoT6O6guPa8",
+      "name": "Kodakara-yu",
+      "localName": "子宝湯",
+      "coordinates": {
+        "lat": 35.7167265,
+        "lng": 139.51503839999998
+      },
+      "image": "media/cached-image_56bd1ca77ff7413be3ea2a8ddb319a58f60bc5906ab4f221d35ba908e7d822b4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_56bd1ca77ff7413be3ea2a8ddb319a58f60bc5906ab4f221d35ba908e7d822b4.webp"
+        },
+        {
+          "url": "media/cached-image_7ea2dcb989b59b1b959dbecceedd1c3fdd3012e78fbb13c3086c5aeb6bcc01ac.jpg"
+        }
+      ],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kodakara-yu, 2 Chome-9 Sekinocho, Koganei, Tokyo 184-0001, Japan",
+      "city": "Koganei",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This beautifully preserved Showa-era public bathhouse at the Edo-Tokyo Open Air Architectural Museum is confirmed as the visual model for a building featured in the Season 3 opening, adjacent to the Zenin estate scenes. Its iconic curved gabled roof and ornate wooden exterior are faithfully reproduced in the anime's art direction.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/C9rHGoZyxeUdMKo3A",
+      "episodeType": "OP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJbUAZSOeLGGARGMEf4WW16AE",
+      "name": "Kabuki-za",
+      "localName": "歌舞伎座",
+      "coordinates": {
+        "lat": 35.6694253,
+        "lng": 139.7677446
+      },
+      "image": "media/cached-image_e03450cdab82742e0d6fbea720242dfd5269fc2dc6b7cb657ce08c3488488515.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e03450cdab82742e0d6fbea720242dfd5269fc2dc6b7cb657ce08c3488488515.webp"
+        },
+        {
+          "url": "media/cached-image_366662c4490f255b902306f7f36f39ede48c462eada165d3c11acead74313a18.jpg"
+        },
+        {
+          "url": "media/cached-image_67267941c0f765c1d89347e198f63868c9b138d118f43d446f959ee0d9defd1c.jpg"
+        },
+        {
+          "url": "media/cached-image_45307a45aef3aee6fc3afb667dc6f9802281d89f4b70946657335de94c207ce4.jpg"
+        },
+        {
+          "url": "media/cached-image_87051d0d8497c270a881f837c4739546559acbd524bc53a257cf2ab3c309eda7.jpg"
+        },
+        {
+          "url": "media/cached-image_20e16ea975ab8b6202f3ce06f1c8ae5547712775ef83eecb279ecdd6f302d7f8.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.3,
+      "reviewCount": 38,
+      "priceLevel": null,
+      "address": "Kabuki-za, 4 Chome-12-15 Ginza, Chuo City, Tokyo 104-0061, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Tokyo's iconic Kabuki-za theater in Ginza provides the surrounding streetscape that appears in Episode 1, where the distinctive building roofline and the dense block layout around Higashi-Ginza are reproduced in the anime's background art as Yuji moves through the city.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hS4NaQN5Ka5qsonu5",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-3FPsWIMImARBiYRyUZxSEo",
+      "name": "Tonarie Tsukuba Square",
+      "localName": "トナリエつくばスクエア",
+      "coordinates": {
+        "lat": 36.0818651,
+        "lng": 140.11150519999998
+      },
+      "image": "media/cached-image_e2370271c5c79fc2d87cfbe5237e7354ad956a52ce9c9e3b09dff0689e0c8ef2.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_e2370271c5c79fc2d87cfbe5237e7354ad956a52ce9c9e3b09dff0689e0c8ef2.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tonarie Tsukuba Square, 1 Chome-6-1 Azuma, Tsukuba, Ibaraki 305-0031, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ei2DoQ33LH5imJP88",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIUwjZkHBGGARf9Hb3ZAdOW0",
+      "name": "Omiya Rakuun Yoshimoto Theater",
+      "localName": "大宮ラクーンよしもと劇場",
+      "coordinates": {
+        "lat": 35.907548,
+        "lng": 139.6254069
+      },
+      "image": "media/cached-image_431973799205473071fadd3a93870322885f1c557cec0e8e195b4a55a085c490.webp",
+      "images": [
+        {
+          "url": "media/cached-image_431973799205473071fadd3a93870322885f1c557cec0e8e195b4a55a085c490.webp"
+        },
+        {
+          "url": "media/cached-image_11a11a1ac4b36afeea6ec39eacf6d505d3ca9f3421f712613ec1a576fc009f8a.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒330-0802 Saitama, Omiya Ward, Miyacho, 1 Chome−６０ Omiya Rakuun Yoshimoto Theater, 大宮RAKUUN６Ｆ",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This Saitama comedy venue is the real-world model for the theater where Takaba Fumihiko performs his stand-up routines in Episode 3. The building name in the anime mirrors RAKUUN, and the interior layout matches scenes showing Takaba's desperate attempts to make his cursed-spirit audience laugh.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PDiG9Evnn1TAGeD8A",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_28",
+      "name": "Kamurio Bridge",
+      "localName": "かむり大橋",
+      "coordinates": {
+        "lat": 38.31768,
+        "lng": 140.883
+      },
+      "image": "media/cached-image_24c4b648edc9b1fea7489ee9b313c4c2f29dbd89667207939b4c12780b85fd2a.webp",
+      "images": [
+        {
+          "url": "media/cached-image_24c4b648edc9b1fea7489ee9b313c4c2f29dbd89667207939b4c12780b85fd2a.webp"
+        },
+        {
+          "url": "media/cached-image_40673e4569df7814db6ca535c83eb076a0a4acb7517fece3aa575e7c82091105.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This bridge near Nanakita Park sits at the heart of the Sendai Colony, the real-world territory that became the battlefield for the Culling Game's first major arc in Season 3. Fans trace the bridge's distinctive silhouette to key transition shots during the Sendai Colony episodes.",
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/fJP8R2SobZxEuBbW9",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJofL2JCMoil8RL0_nQa4BIEs",
+      "name": "Patagonia Sendai",
+      "localName": "パタゴニア 仙台",
+      "coordinates": {
+        "lat": 38.263510499999995,
+        "lng": 140.87247929999998
+      },
+      "image": "media/cached-image_c5467d85d1a26419fe18960d6ddeb27ef88a63826df04c6e291746dd61552530.webp",
+      "images": [
+        {
+          "url": "media/cached-image_c5467d85d1a26419fe18960d6ddeb27ef88a63826df04c6e291746dd61552530.webp"
+        },
+        {
+          "url": "media/cached-image_6e1b06c048f4f478d7bf2a8f820aaaeffd14eec332802f327f61f0ecfde1fc0a.jpg"
+        }
+      ],
+      "type": "Outdoor sports store",
+      "categories": [
+        "Outdoor sports store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Patagonia Sendai, Jre Higashi Nibancho Square, 4 Chome-1-25 Ichibancho, Aoba Ward, Sendai, Miyagi 980-0811, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BYr3ACYrjLVkNDB46",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs0GvRFyNGGARl7pJWWfS8ao",
+      "name": "Tokyo Metropolitan Theatre",
+      "localName": "東京芸術劇場",
+      "coordinates": {
+        "lat": 35.729842,
+        "lng": 139.7080751
+      },
+      "image": "media/cached-image_c10c64343cba532a84d5cb38e285a1d137c0530616382fd1f13060e06ea60d45.webp",
+      "images": [
+        {
+          "url": "media/cached-image_c10c64343cba532a84d5cb38e285a1d137c0530616382fd1f13060e06ea60d45.webp"
+        },
+        {
+          "url": "media/cached-image_d2e796fb5598424b4b21759064ae03e7c6ca33970d59e59ac911342e2189b341.jpg"
+        },
+        {
+          "url": "media/cached-image_df192efca94f58a8aca362d5ce142133303ff1a4872e5d7a0c968fe24c521add.jpg"
+        },
+        {
+          "url": "media/cached-image_61e0f918b0310d56f58caf386de382cef51c47c7a6c6c535d2c34d84c8b074b5.jpg"
+        },
+        {
+          "url": "media/cached-image_1c8b0db0dd613da8c388a5dc889735f6a041e25695e0c86151be8894bf87e2d8.jpg"
+        },
+        {
+          "url": "media/cached-image_b3d1f981b7ab3d4a26e6ce757e09daeaaff8588d62472ea1f9625701f9503085.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 4.2,
+      "reviewCount": 503,
+      "priceLevel": null,
+      "address": "Tokyo Metropolitan Theatre, 1 Chome-8-1 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This landmark theater in Ikebukuro anchors the Tokyo Colony No. 1 zone in Season 3 Episode 7, with the district between Ikebukuro and Toshima forming the boundary of the barrier. The building's recognizable facade is reproduced in establishing shots of the Tokyo Colony battleground.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MS9ptMs5LJNL2ZKv9",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_31",
+      "name": "hairsalon de Forever",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.78031,
+        "lng": 139.69058
+      },
+      "image": "media/cached-image_9e347a7d2541da86b90ea83688f8a7965e7bd0c3d659358c91c56442a957596c.webp",
+      "images": [
+        {
+          "url": "media/cached-image_9e347a7d2541da86b90ea83688f8a7965e7bd0c3d659358c91c56442a957596c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/teiX3A3vpWDYgeyF8",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMdCbiUiLGGARTyHx0vnry_c",
+      "name": "Nakameguro Atlas Tower",
+      "localName": "中目黒アトラスタワー",
+      "coordinates": {
+        "lat": 35.6438396,
+        "lng": 139.70042379999998
+      },
+      "image": "media/cached-image_2de76d18cc100e6c3af7945b9d62e694023509233e8e8153c444221202c38584.webp",
+      "images": [
+        {
+          "url": "media/cached-image_2de76d18cc100e6c3af7945b9d62e694023509233e8e8153c444221202c38584.webp"
+        },
+        {
+          "url": "media/cached-image_0a9b24bb4fcf2bb5fd3e25e0d71ffe76e950a36d3da5c4d0a264e90e526d1688.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nakameguro Atlas Tower, 1 Chome-26-1 Kamimeguro, Meguro City, Tokyo 153-0051, Japan",
+      "city": "Meguro City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Pilgrimage researchers identified this high-rise condominium in Nakameguro as the rooftop building where one of the sorcerers stands in an overhead shot during Episode 7, with its distinctive profile matching the anime background art.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qzTTYpCQDwBQ73CP8",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_33",
+      "name": "Masamido Ceremony Hall",
+      "localName": "正美堂セレモニーホール",
+      "coordinates": {
+        "lat": 35.77984,
+        "lng": 139.69104
+      },
+      "image": "media/cached-image_27aec4a77de827b9fdcfd90ff2276eebba768cec80fa7cdf51e4ed4e9df2cf46.webp",
+      "images": [
+        {
+          "url": "media/cached-image_27aec4a77de827b9fdcfd90ff2276eebba768cec80fa7cdf51e4ed4e9df2cf46.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/j6H7VVKmFD13Fvx28",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXWa-LgDzGGARd2C5GR50iBA",
+      "name": "Nakano South Stella",
+      "localName": "ナカノサウステラ",
+      "coordinates": {
+        "lat": 35.7050475,
+        "lng": 139.666525
+      },
+      "image": "media/cached-image_95da7de8c31684dd0ceca4c943bd2f9cc456497c765db875556e8cba9e8f1713.webp",
+      "images": [
+        {
+          "url": "media/cached-image_95da7de8c31684dd0ceca4c943bd2f9cc456497c765db875556e8cba9e8f1713.webp"
+        },
+        {
+          "url": "media/cached-image_3bc32ca9f6e7fe879c849a0cf471b140e13715421d090d50683a1b99960a83d9.jpg"
+        },
+        {
+          "url": "media/cached-image_bd5885161a015e364283dedd0b4ee2a114ba9ea1339a6f721d63828fbc35883d.jpg"
+        },
+        {
+          "url": "media/cached-image_f5a1be2994b6c8937c55b6bfa96dafe9ee50f373f173bbdfebb7f72c61ed1b5f.jpg"
+        },
+        {
+          "url": "media/cached-image_8f930f1a7ad23d21861d900f33ee378bed252487dda941e561c1be5ef0a59f5a.jpg"
+        },
+        {
+          "url": "media/cached-image_04f157372852bc3b6af447d536cfa93b4a6298f149c9aa51d58ec53ed2e8ff28.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.3,
+      "reviewCount": 403,
+      "priceLevel": null,
+      "address": "Nakano South Stella, 2 Chome-24-3 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SRMnrKjkn9A75FtL7",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0Q3lEfftGGARiO-x2Ivph7E",
+      "name": "Iwamori Books",
+      "localName": "岩森書店",
+      "coordinates": {
+        "lat": 35.7042317,
+        "lng": 139.6213952
+      },
+      "image": "media/cached-image_45a44977469160c6cc513d15571fe58bf810723f09532418f72fa6275fbff8c9.webp",
+      "images": [
+        {
+          "url": "media/cached-image_45a44977469160c6cc513d15571fe58bf810723f09532418f72fa6275fbff8c9.webp"
+        },
+        {
+          "url": "media/cached-image_e918c517632fc49eeacafbdc3c53dfdf88ca98592fbeaf84b5c221acdd1ac171.jpg"
+        }
+      ],
+      "type": "Used book store",
+      "categories": [
+        "Used book store"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iwamori Books, 5 Chome-30-12 Ogikubo, Suginami City, Tokyo 167-0051, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MNNKCQt9bRg8w1XT8",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9VILxSR2hV8Rre2fqy-FvgY",
+      "name": "Morioka District Court",
+      "localName": "盛岡地方裁判所",
+      "coordinates": {
+        "lat": 39.7040824,
+        "lng": 141.1512157
+      },
+      "image": "media/cached-image_25692a6682666698115f5e0727f29f28e814abed349768d4f13617dd3c84d4bb.webp",
+      "images": [
+        {
+          "url": "media/cached-image_25692a6682666698115f5e0727f29f28e814abed349768d4f13617dd3c84d4bb.webp"
+        },
+        {
+          "url": "media/cached-image_1c097f314dcafd3793a41764012fe8e75a7c7dbd193303df0acc346f124f9d40.jpg"
+        }
+      ],
+      "type": "Family court",
+      "categories": [
+        "Family court"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1407,
+      "priceLevel": null,
+      "address": "Morioka District Court, 9-1 Uchimaru, Morioka, Iwate 020-0023, Japan",
+      "city": "Morioka",
+      "region": "Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Morioka District Court is the real-world model for the courthouse that appears in Higuruma Hiromi's backstory in Episode 8. The episode depicts his fateful defense case in Morioka, where he successfully argued for acquittal only to see it overturned, a defeat that drove him into the Culling Game. Pilgrimage fans walk along the nearby Nakatsu River to trace the exact route shown in the anime.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zUSJhrVMdzAwnArH8",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0Ve6-FOFhV8RqycD5AylXYU",
+      "name": "Idai Uchimaru medical Centar",
+      "localName": "岩手医科大学附属病院",
+      "coordinates": {
+        "lat": 39.6143599,
+        "lng": 141.1630952
+      },
+      "image": "media/cached-image_9090805fef215f9d2c71dbff9faf0d559d7d7de1fccb43706ac6ee2056244a7f.webp",
+      "images": [
+        {
+          "url": "media/cached-image_9090805fef215f9d2c71dbff9faf0d559d7d7de1fccb43706ac6ee2056244a7f.webp"
+        },
+        {
+          "url": "media/cached-image_6370ddc740da8bc9632e108a465fcd1f80db701967151ce007330bb40ba52b5d.jpg"
+        }
+      ],
+      "type": "University hospital",
+      "categories": [
+        "University hospital"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iwate Medical University Hospital, 2-chome-1-1 Idaidori, Yahaba, Shiwa District, Iwate 028-3695, Japan",
+      "city": "Yahaba",
+      "region": "Shiwa District, Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/tWqoi6BxqEjEHDjw6",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaadfdmZ3hV8RzJ6M-fQnbqE",
+      "name": "AILE Aesthetic Salon Morioka",
+      "localName": "ヘアーサロンAELL（アエル）",
+      "coordinates": {
+        "lat": 39.6886705,
+        "lng": 141.1300536
+      },
+      "image": "media/cached-image_eb1db252825d0caec64b8ff6a6733036f06d3024581fc481120f353f5b7ed6fc.webp",
+      "images": [
+        {
+          "url": "media/cached-image_eb1db252825d0caec64b8ff6a6733036f06d3024581fc481120f353f5b7ed6fc.webp"
+        },
+        {
+          "url": "media/cached-image_0e6b04eb5ead31c35a766f9ca87de7f793361ca3f9c3d2fa359efbb63f23f0f7.jpg"
+        }
+      ],
+      "type": "Barber shop",
+      "categories": [
+        "Barber shop"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒020-0866 Iwate, Morioka, Motomiya, 3 Chome−46−11 ヘアーサロンAELL（アエル）",
+      "city": "Morioka",
+      "region": "Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/wt4K8QiergweW4rn8",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnXqxNcuKDV8RBGbE3D2sRnw",
+      "name": "Bishamon Bridge",
+      "localName": "毘沙門橋",
+      "coordinates": {
+        "lat": 44.5030718,
+        "lng": 142.7040982
+      },
+      "image": "media/cached-image_76e4371436a4d7c1d959f84ce1129a16eb043d94ec9b5b9f26ea5fdc31a7d817.webp",
+      "images": [
+        {
+          "url": "media/cached-image_76e4371436a4d7c1d959f84ce1129a16eb043d94ec9b5b9f26ea5fdc31a7d817.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bishamon Bridge, Kamihoronai, Omu, Mombetsu District, Hokkaido 098-1708, Japan",
+      "city": "Omu",
+      "region": "Mombetsu District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3gG5o4Y47PpqgxyG7",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWQfF6mpXUTURv3XB7gvm9F8",
+      "name": "Kusa no Yukari",
+      "localName": "草の縁",
+      "coordinates": {
+        "lat": 34.5996632,
+        "lng": 133.7688584
+      },
+      "image": "media/cached-image_f8b066bed279c95553e8f0c7c5d42cc53d9040ada7935f5444dd800ef571b998.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_f8b066bed279c95553e8f0c7c5d42cc53d9040ada7935f5444dd800ef571b998.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kusa no Yukari, 2 Chome-12-21 Achi, Kurashiki, Okayama 710-0055, Japan",
+      "city": "Kurashiki",
+      "region": "Okayama",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DTvyYke2ytYUwVuj6",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWSlPbwOdhV8RfLkIoz55xs0",
+      "name": "Lawson Morioka Kado",
+      "localName": "ローソン 盛岡門店",
+      "coordinates": {
+        "lat": 39.668746,
+        "lng": 141.1702803
+      },
+      "image": "media/cached-image_5ef0a090843b7b31b926a699b0669d4ebd5d32bcb78f56d1bc0bb38cda60e321.webp",
+      "images": [
+        {
+          "url": "media/cached-image_5ef0a090843b7b31b926a699b0669d4ebd5d32bcb78f56d1bc0bb38cda60e321.webp"
+        },
+        {
+          "url": "media/cached-image_6fba49dc4ee4c684968ec0c6e3afc0790ad649569875c0abda0e1bdb295ace60.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Morioka Kado, 1 Chome-18-40 Kado, Morioka, Iwate 020-0823, Japan",
+      "city": "Morioka",
+      "region": "Iwate",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MUDhrCJSj9tgUEQx9",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl9s_zamSGGARj-bs7pqSQZY",
+      "name": "Yayoiken Kanamecho",
+      "localName": "やよい軒 要町店",
+      "coordinates": {
+        "lat": 35.7330353,
+        "lng": 139.6987117
+      },
+      "image": "media/cached-image_cd548c3efc9189ae9e297416808e00f116d0dcf8c2a56ec33b956e2cfe3219b5.webp",
+      "images": [
+        {
+          "url": "media/cached-image_cd548c3efc9189ae9e297416808e00f116d0dcf8c2a56ec33b956e2cfe3219b5.webp"
+        },
+        {
+          "url": "media/cached-image_62c6c667636d0547f79b2b63806bb3812debbffe20e21cf9ab208bd5d92cfbc8.jpg"
+        },
+        {
+          "url": "media/cached-image_08a41a1a3809007ee0eb09fe0bf561bb7a891fdf2672a2701879dc9fb40ae1f4.jpg"
+        },
+        {
+          "url": "media/cached-image_d9f0f659de62610bb8dcad454247294c7faa93b77208d23be4ca23e335edfa82.jpg"
+        },
+        {
+          "url": "media/cached-image_7317e07423ad311aa0a527115bdaa79f2696c8642ba53004d42adfc4932c65ff.jpg"
+        },
+        {
+          "url": "media/cached-image_e862d4049fd4ab4b18729429950e2d8d735f02b2fa73dfd1de508b92f57605e9.jpg"
+        }
+      ],
+      "type": "Syokudo and Teishoku restaurant",
+      "categories": [
+        "Syokudo and Teishoku restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yayoiken Kanamecho, サブナード要町 1Ｆ 1 Chome-1-10 Kanamecho, Toshima City, Tokyo 171-0043, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/1F3Zb7XTGwBZ8tho6",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMZVITVyNGGARSNITQ5VS1yU",
+      "name": "Nishi-Ikebukuro Park",
+      "localName": "豊島区立西池袋公園",
+      "coordinates": {
+        "lat": 35.7300237,
+        "lng": 139.7060214
+      },
+      "image": "media/cached-image_1a237825ac1e74c26b2ab79da81a743b93e9c1fbfff38f668c286c036a16e7a4.jpg",
+      "images": [
+        {
+          "url": "media/cached-image_1a237825ac1e74c26b2ab79da81a743b93e9c1fbfff38f668c286c036a16e7a4.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-8-26 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This small park directly outside Tokyo Metropolitan Theatre in Ikebukuro appears in Episode 8 as part of the Tokyo Colony No. 1 setting, located within the barrier zone where Yuji, Megumi, and Reggie clash in the Culling Game.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7300237,139.7060214,3a,75y,258.17h,97.25t/data=!3m6!1e1!3m4!1smwPBrtYfsaG326bhmFae6w!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_44",
+      "name": "Theater West",
+      "localName": "シアターウエスト",
+      "coordinates": {
+        "lat": 35.72997,
+        "lng": 139.70802
+      },
+      "image": "media/cached-image_47c78d7e1c48d65d713825d3465ae71a3f46fc79e47ab9526c94f8281c9fa941.webp",
+      "images": [
+        {
+          "url": "media/cached-image_47c78d7e1c48d65d713825d3465ae71a3f46fc79e47ab9526c94f8281c9fa941.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/BGbVUK5eAEJhBeG58",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpUT9fpPyGGAR3JycaVua38A",
+      "name": "Suwarochen Nakanoten",
+      "localName": "スワローチェーン 中野店",
+      "coordinates": {
+        "lat": 35.702740399999996,
+        "lng": 139.6654623
+      },
+      "image": "media/cached-image_a9d57ac02d3ae3659acdc7631a2c148e949a7a449cf55c457328468af4d2d045.webp",
+      "images": [
+        {
+          "url": "media/cached-image_a9d57ac02d3ae3659acdc7631a2c148e949a7a449cf55c457328468af4d2d045.webp"
+        },
+        {
+          "url": "media/cached-image_04909bdf82ef301f99454fd2bda366f62434dd110247a3c262dfc8fd429cf056.jpg"
+        }
+      ],
+      "type": "Dry cleaner",
+      "categories": [
+        "Dry cleaner"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Suwarochen Nakanoten, ＳＮクロスビル 3 Chome-33-20 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zX2A6TH3c4P7Le1i6",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_46",
+      "name": "3rrrd",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.73231,
+        "lng": 139.70417
+      },
+      "image": "media/cached-image_bdf65deec67fd1de23bf837cdae356e43ac3cb06aa796322a138510a09d50c46.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bdf65deec67fd1de23bf837cdae356e43ac3cb06aa796322a138510a09d50c46.webp"
+        },
+        {
+          "url": "media/cached-image_5dbc245c27133648210eebd4c82a5ce54b27e7c485ff7d9b50ff867533ce73fa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/3DwrTN4Zc4HNpL5v5",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_jujutsu-kaisen-3_47",
+      "name": "3rrrd",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7319,
+        "lng": 139.7039
+      },
+      "image": "media/cached-image_bdf65deec67fd1de23bf837cdae356e43ac3cb06aa796322a138510a09d50c46.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bdf65deec67fd1de23bf837cdae356e43ac3cb06aa796322a138510a09d50c46.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/KA5tESWZfNRHmZxm6",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK0lVrVmNGGARftC2WAvsTFI",
+      "name": "Rikkyo University Post Office",
+      "localName": "立教学院内郵便局",
+      "coordinates": {
+        "lat": 35.7318886,
+        "lng": 139.7032714
+      },
+      "image": "media/cached-image_662bd5f8b86033cc922f6684317582e7073f0e4cedc1e4bfe9e958f7e10fdbff.webp",
+      "images": [
+        {
+          "url": "media/cached-image_662bd5f8b86033cc922f6684317582e7073f0e4cedc1e4bfe9e958f7e10fdbff.webp"
+        },
+        {
+          "url": "media/cached-image_716fdd469743d782d902e79ea18c34c990f78f6cf9a3aac8e3833e7831c5a1dc.jpg"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Rikkyō University Post Office, 5 Chome-10-14 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Located on the Rikkyo University campus in Ikebukuro, this post office is one of the background details faithfully reproduced in Episode 10 as Megumi Fushiguro and Reggie Star battle across the streets and grounds of the Tokyo Colony No. 1.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ReJYzTUhMnk2MHKr6",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9czCd1mNGGARol8ZDb1L6PI",
+      "name": "Rikkyo University",
+      "localName": "立教大学",
+      "coordinates": {
+        "lat": 35.7305152,
+        "lng": 139.702509
+      },
+      "image": "media/cached-image_bf6c4a1a831a959b5b6c2c79339ec25cb277c00ba5f57261c728cbdbdd46adf4.webp",
+      "images": [
+        {
+          "url": "media/cached-image_bf6c4a1a831a959b5b6c2c79339ec25cb277c00ba5f57261c728cbdbdd46adf4.webp"
+        },
+        {
+          "url": "media/cached-image_cc3d3c207ac899fdd2eaf439ad86c7e96f11b7da4e7f44922a4d5ae5071b9083.jpg"
+        },
+        {
+          "url": "media/cached-image_08826f7c576fa107a934318cc10979b13c83308a1fced799c3e4bb6e1188a512.jpg"
+        },
+        {
+          "url": "media/cached-image_9bea0a6b873aae908b0df2011063078acf566bfcec67f7fdc05e7836fcdedc15.jpg"
+        },
+        {
+          "url": "media/cached-image_b2b6c1dbd4edaaefb7c44eec01cd5ff9f898ee41018f291d6d803784cb1c64b7.jpg"
+        },
+        {
+          "url": "media/cached-image_71b42f85f1f29bf9c691e2ce7e502b681aa2d80a0fca76bdc433ac4165edd525.jpg"
+        }
+      ],
+      "type": "Private university",
+      "categories": [
+        "Private university"
+      ],
+      "rating": 4.3,
+      "reviewCount": 256,
+      "priceLevel": null,
+      "address": "Rikkyo University, 3 Chome-34-1 Nishiikebukuro, Toshima City, Tokyo 171-8501, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The redbrick campus of Rikkyo University in Ikebukuro is featured in Episode 10 as a key location in the Tokyo Colony No. 1 arc, with its distinctive Gothic architecture used as background for the chase and battle between Megumi Fushiguro and Reggie Star. The campus buildings and tree-lined paths are closely matched to the anime art.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Pa2YuSBeKsfZ2ZBTA",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs0StnlmNGGARVljrfkDY-vo",
+      "name": "Rikkyo Gakuin All Saints Chapel",
+      "localName": "立教学院諸聖徒礼拝堂",
+      "coordinates": {
+        "lat": 35.7305841,
+        "lng": 139.7036166
+      },
+      "image": "media/cached-image_da6f9c7bddea4e527f51950b0ae7ca8f95b00e7f0d5a8b5a23bf3b8d01c595ae.webp",
+      "images": [
+        {
+          "url": "media/cached-image_da6f9c7bddea4e527f51950b0ae7ca8f95b00e7f0d5a8b5a23bf3b8d01c595ae.webp"
+        },
+        {
+          "url": "media/cached-image_e58225bf89cb52b4df28ad628831c6cb855f8bcbd72f295c14e37c157700c82b.jpg"
+        },
+        {
+          "url": "media/cached-image_be81cabf84811ca07563eba0c6831ce0983247fc8ec49f2ab224b0bd6ac69099.jpg"
+        }
+      ],
+      "type": "University",
+      "categories": [
+        "University"
+      ],
+      "rating": 4.1,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Rikkyo Gakuin All Saints Chapel, 3 Chome-34-1 Nishiikebukuro, Toshima City, Tokyo 171-8501, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This historic chapel on the Rikkyo University campus in Ikebukuro appears in Episode 10 alongside the broader campus scenery. Its red-brick exterior and Gothic detailing are reproduced in the anime's backgrounds during the intense Megumi vs. Reggie fight through Tokyo Colony No. 1.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zYDitLDEoHwyFnuA6",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWRHgvMZmGWAR2wWr4HQJ8l8",
+      "name": "Kaneyamaen Bessho yada (Bessho Sasa)",
+      "localName": "鐘山苑 別墅然然（べっしょ ささ）",
+      "coordinates": {
+        "lat": 35.466587,
+        "lng": 138.8131301
+      },
+      "image": "media/cached-image_4b8774e6b1efd42c006435a2938f95a0ff6994c685405c78570527f28046d88e.webp",
+      "images": [
+        {
+          "url": "media/cached-image_4b8774e6b1efd42c006435a2938f95a0ff6994c685405c78570527f28046d88e.webp"
+        },
+        {
+          "url": "media/cached-image_e54de5ec8febe85a26ce2e1cb6a5d7ad8132734f49b6a4d54b7591fe3240d782.jpg"
+        },
+        {
+          "url": "media/cached-image_55a56591ed00076e21c54d1ccbae6352ac6c010f9ad7b168de2991527d7c29e1.jpg"
+        },
+        {
+          "url": "media/cached-image_780da2434bb7b887c8ff365782ec7b60cf4bb6c0d4baf93e8d204aa00672a85c.jpg"
+        },
+        {
+          "url": "media/cached-image_a6bceb7d1bf95e9815ee97853f2de3884c490c58ba6364eb4ec11aa01247bc80.jpg"
+        },
+        {
+          "url": "media/cached-image_dd4d502e1cbbc81d3509f14ca52263c6546dc31d04bb11c265ad42a50cf01678.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kaneyamaen Bessho yada (Bessho Sasa), 9-chome-1-18 Kamiyoshidahigashi, Fujiyoshida, Yamanashi 403-0032, Japan",
+      "city": "Fujiyoshida",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": null,
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XAWf2wFVnuAwxkkD8",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu-ueb6iSGGAR8eDGj4zgxhg",
+      "name": "Yahatagawa South Greenway",
+      "localName": "谷端川南緑道",
+      "coordinates": {
+        "lat": 35.7351423,
+        "lng": 139.7018665
+      },
+      "image": "media/cached-image_e95713fe9ef17617b1aebe4af28e03f0adc526a10a5a0d41f80480941558ec42.webp",
+      "images": [
+        {
+          "url": "media/cached-image_e95713fe9ef17617b1aebe4af28e03f0adc526a10a5a0d41f80480941558ec42.webp"
+        },
+        {
+          "url": "media/cached-image_6b32a49ecfbbf5516cf35074e02d8142389f49524080752209cd456469908410.jpg"
+        },
+        {
+          "url": "media/cached-image_13d0129d771accf651b459d3488267ea2584a9b64967f6f0061e0ba6bb9cdd4d.jpg"
+        },
+        {
+          "url": "media/cached-image_1c89e6dd5569a433509dfd957b6a81545f28c1a5ec517a6b603c21979efb8eea.jpg"
+        },
+        {
+          "url": "media/cached-image_b6d24b62b17db26561fc1020f276ac868f30b8e6f2a6dd61713de4fa8cf02cf3.jpg"
+        },
+        {
+          "url": "media/cached-image_fff995d76925534d94117d672d3ccc439a98b4cba622141601439ca11c8811bf.jpg"
+        }
+      ],
+      "type": "Promenade",
+      "categories": [
+        "Promenade"
+      ],
+      "rating": 3.6,
+      "reviewCount": 33,
+      "priceLevel": null,
+      "address": "Yahatagawa South Greenway, 4 Chome-5-5 Nishiikebukuro, Toshima City, Tokyo 171-0014, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "This peaceful tree-lined promenade near Ikebukuro appears in Episode 11 as part of the Tokyo Colony No. 1 zone, offering one of the quieter streetscape shots in the arc before the final confrontations of the Culling Game's first phase.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XoeM5S9ptaurF9NP7",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx8DIwC2BiV8R2sWRVhiVag4",
+      "name": "Yurtec Stadium Sendai",
+      "localName": "ユアテックスタジアム仙台",
+      "coordinates": {
+        "lat": 38.3191541,
+        "lng": 140.88187109999998
+      },
+      "image": "media/cached-image_388b9045edaf67c0433f98d7c765840ed70fb80554f4bdbd9a70d29ff0f50acf.webp",
+      "images": [
+        {
+          "url": "media/cached-image_388b9045edaf67c0433f98d7c765840ed70fb80554f4bdbd9a70d29ff0f50acf.webp"
+        },
+        {
+          "url": "media/cached-image_f055d0af2173d34cc60acceb93c00e338d47e1e5aee59fee402e6855e5a9c442.jpg"
+        }
+      ],
+      "type": "Stadium",
+      "categories": [
+        "Stadium"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yurtec Stadium Sendai, 柳-78 Nanakita, Izumi Ward, Sendai, Miyagi 981-3131, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "Yurtec Stadium is the real-world model for the football stadium that serves as the centerpiece of the Sendai Colony. In the Culling Game arc, Yorozu awaits Sukuna's arrival here at this landmark, and the stadium's immediate surroundings including Nanakita Park became the epicenter of fierce Culling Game battles. Official Jujutsu Kaisen commemorative manhole covers were installed in the surrounding park.",
+      "fanTopPick": true,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3SGbkpiC4EnYGbiQ7",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPfR95jGBiV8RgQHgylOQRSc",
+      "name": "Sendaishi Izumi Library",
+      "localName": "仙台市泉図書館",
+      "coordinates": {
+        "lat": 38.321100699999995,
+        "lng": 140.881422
+      },
+      "image": "media/cached-image_cacf009a00b5b698e6cff2933bf1c1dcb305bef07a858979b565c6caf2662bfc.webp",
+      "images": [
+        {
+          "url": "media/cached-image_cacf009a00b5b698e6cff2933bf1c1dcb305bef07a858979b565c6caf2662bfc.webp"
+        },
+        {
+          "url": "media/cached-image_760706f1287865758bf853e7b88952fafda28c2bd4368e3cde4bf9661f509273.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sendaishi Izumi Library, 1 Chome-8-6 Izumichuo, Izumi Ward, Sendai, Miyagi 981-3133, Japan",
+      "city": "Sendai",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "entityContext": "The Izumi Library sits within walking distance of Izumi Chuo Station, at the heart of the Sendai Colony barrier zone established by Kenjaku in Season 3. The library is part of the dense Izumi Chuo district whose streetscape is faithfully recreated in the Culling Game battle scenes.",
+      "fanTopPick": false,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/oBPptKHBK4wiH8GLA",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    }
+  ]
+}

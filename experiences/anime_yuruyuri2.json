@@ -1,0 +1,729 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "YuruYuri ♪♪",
+  "slug": "yuruyuri-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_8a28e5868150a049a2cb43225a2b1fb7004762521a6706a46905ec41f76b8cb3.webp",
+  "image": "media/cached-image_8a28e5868150a049a2cb43225a2b1fb7004762521a6706a46905ec41f76b8cb3.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.66654543888889,
+    "lng": 138.7840376888889
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "YuruYuri ♪♪"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7Tu_fcmXGGARTuG7bfq9ZOM",
+      "name": "Solaie Terrace West",
+      "localName": "ソライエ草加松原シティテラス",
+      "coordinates": {
+        "lat": 35.8442985,
+        "lng": 139.7944841
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b2a7bf9-c75a-4dff-b1a1-154d91c7ff88.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b2a7bf9-c75a-4dff-b1a1-154d91c7ff88.webp"
+        },
+        {
+          "url": "media/cached-image_bf89720a3cb39d27a54684290ddc5597412f57254f7562b0d4ad06bef4c663fa.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Soraie Soka Matsubara City Terrace, 2 Chome-3-7 Matsubara, Sōka, Saitama 340-0041, Japan",
+      "city": "Sōka",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8448786,139.7909141,3a,90y,109.58h,100.45t/data=!3m7!1e1!3m5!1skdv0H5UuHFFE0JzfGIzSFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.453017860791377%26panoid%3Dkdv0H5UuHFFE0JzfGIzSFA%26yaw%3D109.57503975917726!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The exterior of this Soka condominium complex appears in episode 5 as the model for one of the characters' apartment buildings, capturing the everyday suburban setting the girls live in."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOVEYfEjuGGAR3f0OhdwMY3o",
+      "name": "Gusto Kichijoji",
+      "localName": "ガスト 吉祥寺元町通店",
+      "coordinates": {
+        "lat": 35.7043964,
+        "lng": 139.5787325
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b0c66bd-4954-4460-a1b1-e52da5970ed8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b0c66bd-4954-4460-a1b1-e52da5970ed8.webp"
+        },
+        {
+          "url": "media/cached-image_6fc1c873ab14d9ca9f9f328a806920687b823143fb0a9b6ea2c3090524fdfb58.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ガスト 吉祥寺元町通店, チェリービル・レンガ, 館Ｂ１, 1 Chome-8-5 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7043589,139.5808691,3a,63.4y,75.95h,98.16t/data=!3m7!1e1!3m5!1swTtBX2D_0Zwb5lBpQMTlFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.160201869183041%26panoid%3DwTtBX2D_0Zwb5lBpQMTlFg%26yaw%3D75.95022730142823!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "In episode 8, the girls visit this family restaurant in Kichijoji during their outing, sharing a lively meal that leads to the comedic misadventures that fill the episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-2_2",
+      "name": "Mogul Confectionery",
+      "localName": "モガール洋菓子店",
+      "coordinates": {
+        "lat": 35.77333,
+        "lng": 139.87155
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27698c12-70ef-4c9a-a80f-440f895a8ca5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27698c12-70ef-4c9a-a80f-440f895a8ca5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7732093,139.871666,3a,48.7y,324.7h,91.29t/data=!3m7!1e1!3m5!1sRd-0ws0lCiRbx9-2otkH8A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.285373963122339%26panoid%3DRd-0ws0lCiRbx9-2otkH8A%26yaw%3D324.69879164437594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This local confectionery near Matsudo in Chiba serves as the background for a sweets-focused scene in episode 3, reflecting the characters' love of treats and the quiet neighborhood atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJizDYbsOQ918RP3O2IIRd6_E",
+      "name": "Toyama City Swimming Pool",
+      "localName": "富山市民プール",
+      "coordinates": {
+        "lat": 36.6942673,
+        "lng": 137.2478784
+      },
+      "image": "https://cdn.animepilgrimage.com/places/473db5d8-b5cc-412c-9538-17c4c1fba96d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/473db5d8-b5cc-412c-9538-17c4c1fba96d.webp"
+        },
+        {
+          "url": "media/cached-image_14eff538d290f54427748027aca90945d76e4cc8c7a2384f50ab09a6362bb408.jpg"
+        }
+      ],
+      "type": "Public swimming pool",
+      "categories": [
+        "Public swimming pool"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toyama City Swimming Pool, 4 Chome-1-70 Arakawa, Toyama, 930-0982, Japan",
+      "city": "Toyama",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6938256,137.2468105,3a,25.9y,61.72h,97.59t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE0I65Zw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZ8jTjkMS3NNawFDt54lM5Wyk0nP2Iso1KhAFwLTIjF4G84bZmYLn9cdusqBuGSMJQiWSip2Wq8cjGG4tK41svEscgZXDbJwTUj_YgOzDNU_cIRSRKeE9a4Yk9hwViQus9RbqA8%3Dw900-h600-k-no-pi-7.592590343074036-ya58.7190192114059-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The pool appears in episode 5 as the setting for the girls' summer swimming outing, a key scene in the Toyama-area location cluster tied to the Funami twins' hometown."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE4mwuUfuGGAR_i-HHQ_KkFo",
+      "name": "Books Ruhe",
+      "localName": "BOOKSルーエ",
+      "coordinates": {
+        "lat": 35.704647,
+        "lng": 139.5804114
+      },
+      "image": "https://cdn.animepilgrimage.com/places/70c3efc1-a796-4b71-a331-48a10c2de32a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/70c3efc1-a796-4b71-a331-48a10c2de32a.webp"
+        },
+        {
+          "url": "media/cached-image_bb860843044754a706ac7b5b6e7603ba75e958b2d2f8d16a2a9c5dd5c97aecc7.jpg"
+        }
+      ],
+      "type": "Book store",
+      "categories": [
+        "Book store"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Books Ruhe, 1 Chome-14-3 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7047379,139.580325,3a,90y,149.68h,105.86t/data=!3m7!1e1!3m5!1sTe4REr1TDnnUMPmzrmgP-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.861571142157999%26panoid%3DTe4REr1TDnnUMPmzrmgP-w%26yaw%3D149.6834329172364!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This beloved indie bookshop in Kichijoji is visited by the group in episode 8, with the distinctive storefront appearing as the girls browse during their day out in the shopping district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9cg61kfuGGARr_QmacHj9bE",
+      "name": "Wendy’s First Kitchen Kichijoji",
+      "localName": "ウェンディーズ・ファーストキッチン 吉祥寺店",
+      "coordinates": {
+        "lat": 35.704353499999996,
+        "lng": 139.57896159999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b14acc53-230d-47cc-94d5-65a630ef5ef8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b14acc53-230d-47cc-94d5-65a630ef5ef8.webp"
+        },
+        {
+          "url": "media/cached-image_2aacd986b73b1840f893dc329d8e23d393e2470363c04aea32565e6388d0e222.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Wendy’s First Kitchen Kichijoji, 1 Chome-8-3 Kichijoji Honcho, Musashino, Tokyo 180-0004, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7045611,139.5790994,3a,90y,251.92h,106.12t/data=!3m7!1e1!3m5!1sIIMjoIhF5bCFtRjAfE48Gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.115671643478024%26panoid%3DIIMjoIhF5bCFtRjAfE48Gw%26yaw%3D251.91694490707698!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Wendy's First Kitchen on Kichijoji Honcho-dori features in episode 8 as one of the fast-food stops during the group's Kichijoji outing, capturing the familiar streetscape of the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj9VKlEfuGGARTBcIbpy3NtQ",
+      "name": "Ebisu Beer Hall Kichijoji",
+      "localName": "戎ビアホール 吉祥寺",
+      "coordinates": {
+        "lat": 35.703914399999995,
+        "lng": 139.5805303
+      },
+      "image": "https://cdn.animepilgrimage.com/places/906aae7e-f0a3-4c64-bc42-b1762dc469ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/906aae7e-f0a3-4c64-bc42-b1762dc469ee.webp"
+        },
+        {
+          "url": "media/cached-image_26b35e6b4637d1861a4a0c8585e033dd7a12aab06b9ef7c2d29b375b4d3c6d66.jpg"
+        }
+      ],
+      "type": "Beer hall",
+      "categories": [
+        "Beer hall"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒180-0004 Tokyo, Musashino, Kichijoji Honcho, 1 Chome−15−9 岩﨑吉祥寺ビル Ebisu Beer Hall Kichijoji, 岩崎吉祥寺ビル B1F",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7038953,139.5806772,3a,49.6y,262.8h,93.94t/data=!3m7!1e1!3m5!1skFtajzcv-gQEuhs4MHuKQA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9353764345714524%26panoid%3DkFtajzcv-gQEuhs4MHuKQA%26yaw%3D262.79649922331026!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Ebisu Beer Hall entrance appears in episode 8 during the girls' Kichijoji excursion, adding to the cluster of real street-level locations the show used for that shopping-district episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-2_7",
+      "name": "Tsuji store",
+      "localName": "つじ商店",
+      "coordinates": {
+        "lat": 35.39899,
+        "lng": 140.14219
+      },
+      "image": "https://cdn.animepilgrimage.com/places/031e55c7-703c-42ff-88c7-a01d0adeb9a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/031e55c7-703c-42ff-88c7-a01d0adeb9a7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3989845,140.1421723,3a,90y,139.3h,99.18t/data=!3m7!1e1!3m5!1sN7xuiVp8FsDskoHwy637Rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.180929291774731%26panoid%3DN7xuiVp8FsDskoHwy637Rw%26yaw%3D139.30324353995778!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small rural shop near Kazusa-Ushiku in Chiba appears in episode 9 during the countryside outing, providing the quiet local-town backdrop for the characters' relaxed day trip."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzX7PbreC918RnABM8OdX83I",
+      "name": "Otaya Serio",
+      "localName": "御旅屋セリオ",
+      "coordinates": {
+        "lat": 36.7455433,
+        "lng": 137.0139992
+      },
+      "image": "https://cdn.animepilgrimage.com/places/139d0d0b-8606-4763-885b-a6cdc07da2e6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/139d0d0b-8606-4763-885b-a6cdc07da2e6.webp"
+        },
+        {
+          "url": "media/cached-image_ceafb6ec61dab485646abfa3e14b5e1d59064e0827a61c4b5779f693e714df41.jpg"
+        },
+        {
+          "url": "media/cached-image_308526f29aeb7d8255640e5ac5e6fcdd8b20ec2427370276b46b0c5cbb3d76ee.jpg"
+        },
+        {
+          "url": "media/cached-image_6e459d9c69ab011023c049c07491d29f0458348e3c4f63391c366b24181a4685.jpg"
+        },
+        {
+          "url": "media/cached-image_e208fb2b5143dfbd6554a7462e8d9c811161ded8cfc6da52320a10a8d79a3b8d.jpg"
+        },
+        {
+          "url": "media/cached-image_ada231b328a3809fcdc6fd690131ccbd23c8c93fef403a4efa38ef88dcd8bee4.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.2,
+      "reviewCount": 453,
+      "priceLevel": null,
+      "address": "Otaya Serio, 101 Otayamachi, Takaoka, Toyama 933-0029, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7453149,137.0143509,3a,49.6y,324.14h,91.94t/data=!3m7!1e1!3m5!1sIEx3-8-9HHBEoU9F2wuWrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9363599443372692%26panoid%3DIEx3-8-9HHBEoU9F2wuWrg%26yaw%3D324.142450846257!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Otaya Serio shopping mall in Takaoka, Toyama appears in episode 3 as a stand-in for the local shopping destination the characters frequent, reflecting the Funami twins' Toyama hometown setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUcxoezjuGGARAIUfOw7utvg",
+      "name": "Kichijoji Odeon",
+      "localName": "吉祥寺オデヲン",
+      "coordinates": {
+        "lat": 35.7028405,
+        "lng": 139.5810856
+      },
+      "image": "https://cdn.animepilgrimage.com/places/442092ac-12e5-4d7c-8126-ed34a7623994.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/442092ac-12e5-4d7c-8126-ed34a7623994.webp"
+        },
+        {
+          "url": "media/cached-image_ea1f3eef8438b5f9d4905a889ed825136747bfeb29e7da0bd0618fca4e5403a1.jpg"
+        }
+      ],
+      "type": "Movie theater",
+      "categories": [
+        "Movie theater"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kichijoji Odeon, 吉祥寺東亜会館 2 Chome-3-16 Kichijoji Minamicho, Musashino, Tokyo 180-0003, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DKoTLYQ5CuuYBZug8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Kichijoji Odeon cinema building appears in episode 8 as the group passes through the lively Kichijoji entertainment district, its distinctive facade recognizable in the street scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNQOPJuFcGGARqbkNQA5iIXk",
+      "name": "Sotetsu Fresa Inn Yokohama-Sakuragicho",
+      "localName": "相鉄フレッサイン 横浜桜木町",
+      "coordinates": {
+        "lat": 35.4495649,
+        "lng": 139.6362984
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ba7031f-f171-4e21-adfe-8bc476ecfd70.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ba7031f-f171-4e21-adfe-8bc476ecfd70.webp"
+        },
+        {
+          "url": "media/cached-image_13a464ec401a8673967eedfedc597b24f34c7ca925fd2c9136daa1f1139bea78.jpg"
+        },
+        {
+          "url": "media/cached-image_358066b668032e191722e9eb2642814fdc5e91636e114b0698b225c00704ac7d.jpg"
+        },
+        {
+          "url": "media/cached-image_f606568ed29d5d09a93148c676afd9bb2cdc6b210462ab3bd8c91976f277e2d6.jpg"
+        },
+        {
+          "url": "media/cached-image_726ffac51c1db2b347e2471288188ca5e6978f4df0eb319a0b23621a823009f4.jpg"
+        },
+        {
+          "url": "media/cached-image_fb3973b4186cc10d86b2eb3d6cd4222646f7bb11b256cb73e7f2839ae9f59864.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sotetsu Fresa Inn Yokohama-Sakuragicho, 5 Chome-49 Honcho, Naka Ward, Yokohama, Kanagawa 231-0005, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4497738,139.6360258,3a,90y,126.95h,100.26t/data=!3m7!1e1!3m5!1skji8pYnx2TKS8yi_3CQHhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.258251232458008%26panoid%3Dkji8pYnx2TKS8yi_3CQHhg%26yaw%3D126.95055726541631!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This hotel near Sakuragicho in Yokohama serves as the model for the inn where the characters stay during the overnight trip in episode 9, marking one of the few times they venture far from home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMclegHijImAR8f3pCyb5PzQ",
+      "name": "Kazusa-Ushiku Station",
+      "localName": "上総牛久駅",
+      "coordinates": {
+        "lat": 35.400098,
+        "lng": 140.1422447
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d2aa9a1f-d2f8-4b4d-a66a-3e42c56e2ac1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d2aa9a1f-d2f8-4b4d-a66a-3e42c56e2ac1.webp"
+        },
+        {
+          "url": "media/cached-image_92b9267d2c2e55fa3c15921ca0cc30e28439b69ff5ab48fc789cc0e386ab3f4b.jpg"
+        },
+        {
+          "url": "media/cached-image_918545fe54be8d51ee00d4330fd1c4602abe32bb4baba437b08f13bbaeb2d048.jpg"
+        },
+        {
+          "url": "media/cached-image_51faa3c95c77b512b1e5c0973c840e471f31851070f2d6f0b699b39bc25e77c2.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": 56,
+      "priceLevel": null,
+      "address": "Kazusa-Ushiku Station, Ushiku, Ichihara, Chiba 290-0225, Japan",
+      "city": "Ichihara",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3999515,140.1420316,3a,75y,50.05h,98.6t/data=!3m7!1e1!3m5!1s1J0Ic-9_AEzXymIBfOd6lA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.595182733178277%26panoid%3D1J0Ic-9_AEzXymIBfOd6lA%26yaw%3D50.05278719818201!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The charming retro station at Kazusa-Ushiku on the Kominato Railway appears in episode 5 and again in the rural excursion scenes, its old-fashioned platform atmosphere becoming a visual highlight for pilgrims.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt8hneIKjImARESMqzN4PksU",
+      "name": "Chiba Shinkin Bank Ushiku",
+      "localName": "千葉信用金庫 牛久支店",
+      "coordinates": {
+        "lat": 35.399651999999996,
+        "lng": 140.14201599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e69b7bdc-bc14-4c72-86ff-10503efe8078.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e69b7bdc-bc14-4c72-86ff-10503efe8078.webp"
+        },
+        {
+          "url": "media/cached-image_1c0061702371cb10a0183918309925e79f954982894c4d9f5f8ed44cc5ff6c48.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chiba Shinkin Bank Ushiku, 897-7 Ushiku, Ichihara, Chiba 290-0225, Japan",
+      "city": "Ichihara",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3995041,140.1422076,3a,75y,60.12h,95.62t/data=!3m7!1e1!3m5!1sPrKNlOi_gKWOJqsKllb8xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.623673279643654%26panoid%3DPrKNlOi_gKWOJqsKllb8xA%26yaw%3D60.120178724093776!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Chiba Shinkin Bank branch near Kazusa-Ushiku station appears in episode 3 as part of the rural Chiba streetscape the show depicted when characters visit the quiet countryside town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRwHef9MIAWARicf0S994itQ",
+      "name": "Kiyomizu-Dera Otowanotaki Falls",
+      "localName": "音羽の滝",
+      "coordinates": {
+        "lat": 34.99442,
+        "lng": 135.78524
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82b66c65-cf5d-4a3a-a400-0c10dc04b9e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82b66c65-cf5d-4a3a-a400-0c10dc04b9e1.webp"
+        },
+        {
+          "url": "media/cached-image_e0e8c938893597bc8cce195dcc4778f84d4f6e49a2e06720cee35718405f0117.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9944519,135.7852235,2a,75y,111.37h,96.74t/data=!3m7!1e1!3m5!1snizw_S-D3ZWK96Clelq5rg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.74432291729326%26panoid%3Dnizw_S-D3ZWK96Clelq5rg%26yaw%3D111.37458071012483!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The famous Otowa waterfall at Kiyomizu-dera is visited by the girls during their Kyoto school trip in episode 10, where each character chooses a stream to drink from, a classic pilgrimage ritual played for laughs.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_vchdMIAWARujTEUIZlr2I",
+      "name": "Kiyomizu-dera",
+      "localName": "清水寺",
+      "coordinates": {
+        "lat": 34.9946617,
+        "lng": 135.78495
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e210a88c-5dcf-4633-8ff1-336bb8a3ef49.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e210a88c-5dcf-4633-8ff1-336bb8a3ef49.webp"
+        },
+        {
+          "url": "media/cached-image_8b498aee3b782a0ae03598d42a0c1e6a1e151818d09589575d1229ccd68d846d.jpg"
+        },
+        {
+          "url": "media/cached-image_869a47767434dfd1da8931b21343c036c69172f2b30c9214e86976fd0269be32.jpg"
+        },
+        {
+          "url": "media/cached-image_c921480b8da04b696046a464a72891139aaa0c3e1a02990808d4659a6b090bcb.jpg"
+        },
+        {
+          "url": "media/cached-image_467b678d95fc44298d096d61969961b3469b2c95f3e1ff3503659fd8bd927380.jpg"
+        },
+        {
+          "url": "media/cached-image_694741ead0d176d55ce5808f76a2b4664abea5fa085675b14032e771d1093eff.jpg"
+        },
+        {
+          "url": "media/cached-image_66f6ae2f41bdadad392468deda410d8379dda2abf3758e5786e256b7468363cd.jpg"
+        },
+        {
+          "url": "media/cached-image_be09727e367c8a9273d0cca5dcd69c4d9c9eebb14be2154e7039cff6da902735.jpg"
+        },
+        {
+          "url": "media/cached-image_a658adabe4c23698e8cd97121576bebf8b65be9b5afec991b90e95609ac25743.jpg"
+        },
+        {
+          "url": "media/cached-image_3c709a73106cc2fe87f58cfa35e130f1c6b8fb631bbbc0db90be50f7a1a2a5c5.jpg"
+        },
+        {
+          "url": "media/cached-image_fabe232e07d062e393cfe22158e0166fe209459d31605c7772e958b74dd06b28.jpg"
+        },
+        {
+          "url": "media/cached-image_ee9b880437365e02e77d9ef2f512205e91eb62394eb69d811ec5b10da07c92d1.jpg"
+        },
+        {
+          "url": "media/cached-image_ce72f4651389c6cc3a30016a6b99a66801a7f3c75d6f66706a2b8eee37f1bf45.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.6,
+      "reviewCount": 67991,
+      "priceLevel": null,
+      "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9946617,135.78495,3a,75y,53.75h,94.43t/data=!3m8!1e1!3m6!1sAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM2wcgQkDMXlr0S6aS4xRtpG8YWDyaaPDYrHrNc%3Dw203-h100-k-no-pi-0-ya263.58844-ro-0-fo100!7i6720!8i3360?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kiyomizu-dera is the centerpiece of the Kyoto school trip arc in episode 10, with the iconic wooden stage and temple grounds serving as the backdrop for some of the season's most visually memorable scenes and character moments.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cfb33a69-ec69-4432-835b-f61cfdb39f52.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cfb33a69-ec69-4432-835b-f61cfdb39f52.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Tokyo Big Sight stands in for the Comiket-style doujinshi convention in episode 6, where Chinatsu drags the others to sell her manga, leading to chaotic and comedic results at the convention hall entrance.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2wi9kfuGGARTirViZm25jQ",
+      "name": "Kichijoji Station",
+      "localName": "吉祥寺駅",
+      "coordinates": {
+        "lat": 35.7035204,
+        "lng": 139.5797462
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a9975e7-bd92-4c0c-867f-4b5c85e4f6dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a9975e7-bd92-4c0c-867f-4b5c85e4f6dd.webp"
+        },
+        {
+          "url": "media/cached-image_0c77933ac6ef0e88cd62e59c1cc4c4e03a751bd6cd8fdd7a73cbbf5e88fc4c26.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kichijoji Minamicho, Musashino, Tokyo, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7035204,139.5797462,3a,75y,230.57h,103.85t/data=!3m7!1e1!3m5!1sI5c3B9C04NdJyGpyx2x_kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DI5c3B9C04NdJyGpyx2x_kw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D169.81833%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kichijoji Station is the arrival and departure hub for the group's extended Kichijoji outing in episode 8, with its distinctive south exit plaza appearing as the gathering point for the day's adventures."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-2_17",
+      "name": "Fujitsu Onsen",
+      "localName": "ふじつ温泉",
+      "coordinates": {
+        "lat": 35.44863,
+        "lng": 135.27902
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4489725,135.2790381,3a,39.2y,188.96h,100t/data=!3m7!1e1!3m5!1sjN-0jl6HQEUx4OLYqLHDoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.998090222020792%26panoid%3DjN-0jl6HQEUx4OLYqLHDoA%26yaw%3D188.95694462709483!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This hot spring facility in the Kyoto/Hyogo area appears in episode 10 as part of the extended class trip, where the girls enjoy a communal bath and the relaxed onsen atmosphere leads to the episode's heartfelt closing moments."
+    }
+  ]
+}

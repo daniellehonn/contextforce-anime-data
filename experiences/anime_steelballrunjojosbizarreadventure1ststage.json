@@ -1,0 +1,70 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+  "slug": "steel-ball-run-jojo-s-bizarre-adventure-1st-stage",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_93560058767c82bdee4383933bd6a71ce219159cb8075618c2c4bf3ba5a91249.webp",
+  "image": "media/cached-image_93560058767c82bdee4383933bd6a71ce219159cb8075618c2c4bf3ba5a91249.webp",
+  "banner": null,
+  "primaryLocation": "California, United States",
+  "primaryLocationCoords": {
+    "lat": 32.6805447,
+    "lng": -117.178224
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJfX-aw82s3oARR6xrvVBVJXY",
+      "name": "Hotel del Coronado",
+      "localName": null,
+      "coordinates": {
+        "lat": 32.6805447,
+        "lng": -117.178224
+      },
+      "image": "https://cdn.animepilgrimage.com/posts/9AJmyEgeSA8GNrxzktn3_0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/posts/9AJmyEgeSA8GNrxzktn3_0.webp"
+        },
+        {
+          "url": "media/cached-image_c92204f9da027bf3fc0274cb2e176bfff2fe42f90d0a00113838d3f5d4bda2a5.jpg"
+        },
+        {
+          "url": "media/cached-image_aa19de24ab1f8afc71a91fccd1f5073d5a212e46d5ca4289cdb20f5bbf5728e6.jpg"
+        },
+        {
+          "url": "media/cached-image_2981fa6ac1e3c35e000079098cbe74124395e742421644921b27172c4a591b37.jpg"
+        },
+        {
+          "url": "media/cached-image_de43e62e9a63401d5d99a73c38517c769095d78d694ef23939083a9e35f068f9.jpg"
+        },
+        {
+          "url": "media/cached-image_1fe14fd385dce748a86fc89b2bf8fd854084d5d2e4a62ae5f2f7ed41820d4e18.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 485,
+      "priceLevel": null,
+      "address": "Hotel del Coronado, 1500 Orange Ave, Coronado, CA 92118",
+      "city": "Coronado",
+      "region": "California",
+      "countryCode": "US",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/dG6DTsJKn1fDUrxNA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Hotel del Coronado is the iconic Victorian resort that inspired the grand starting-line backdrop of the Steel Ball Run race, where Johnny Joestar and Gyro Zeppeli enter the competition at San Diego Beach in Episode 1. Its distinctive red turrets and beachfront setting appear in the anime as the atmospheric setting where thousands of riders gather before the grueling cross-country race begins.",
+      "fanTopPick": true
+    }
+  ]
+}

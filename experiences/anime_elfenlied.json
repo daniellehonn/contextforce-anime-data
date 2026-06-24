@@ -1,0 +1,893 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Elfen Lied",
+  "slug": "elfen-lied",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_0dffe191847b75674417f58fe9f17811201ae6db808d39956db1599ae1c6041b.webp",
+  "image": "media/cached-image_0dffe191847b75674417f58fe9f17811201ae6db808d39956db1599ae1c6041b.webp",
+  "banner": null,
+  "primaryLocation": "Kanagawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.593807541666656,
+    "lng": 139.54498676666665
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Elfen Lied"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJIQPxryFPGGARGOG1_Jtfldg",
+      "name": "Enoshima Benten Bridge",
+      "localName": "江の島弁天橋",
+      "coordinates": {
+        "lat": 35.3049706,
+        "lng": 139.4824315
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95a6e4a7-514d-4c32-85f7-97344a1daaa6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95a6e4a7-514d-4c32-85f7-97344a1daaa6.webp"
+        },
+        {
+          "url": "media/cached-image_11639bf3a29791dc71451b1b685002ebe9aab2354d5469299e4a540dc0e9c57f.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enoshima Benten Bridge, Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3049706,139.4824315,2a,90y,202.31h,102.84t/data=!3m6!1e1!3m4!1sKo0bX2Js09REV8GfJBHmLg!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This bridge appears in episode 11 as Kouta and Nyu walk together toward Enoshima, one of the few peaceful moments the two share before the series reaches its tragic conclusion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOS5PVv1OGGARdDB4RJHELHE",
+      "name": "Katase Higashihama Beach",
+      "localName": "片瀬東浜海水浴場",
+      "coordinates": {
+        "lat": 35.3066852,
+        "lng": 139.4846396
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cda79d34-021a-4c72-b7a0-a9d05fc5789c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cda79d34-021a-4c72-b7a0-a9d05fc5789c.webp"
+        },
+        {
+          "url": "media/cached-image_354a84e255dfe087139f2fb3469902b720cefd161d4e8c6c3c41c34019c6cbe3.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-1 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3066852,139.4846396,2a,75y,352.76h,101.36t/data=!3m6!1e1!3m4!1seoqjQIxwo6DxoXP0tnb8Jw!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "In the final episode, this beach near the Enoshima causeway is part of the coastal setting where the story's devastating climax unfolds, with the sea serving as a backdrop to Lucy's last moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaSiz2ENFGGARvwEGD2Oay0I",
+      "name": "Gokurakuji Hill Memorial",
+      "localName": "極楽寺坂の石碑",
+      "coordinates": {
+        "lat": 35.3092646,
+        "lng": 139.53212019999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f790ff8c-674a-45c8-86b9-9b2ff9613a8d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f790ff8c-674a-45c8-86b9-9b2ff9613a8d.webp"
+        },
+        {
+          "url": "media/cached-image_4cc8654dd0ca9620e01f07447ceb52518992b36d8810d2f583f8ab14a1f2a4ee.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gokurakuji Hill Memorial, 23-10 Sakanoshita, Kamakura, Kanagawa 248-0021, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3092703,139.5322371,3a,90y,238.59h,108.98t/data=!3m7!1e1!3m5!1s91Z9OimpPYuyhDXpdNdKsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.984316619257214%26panoid%3D91Z9OimpPYuyhDXpdNdKsw%26yaw%3D238.58938592387693!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The stone memorial marker on Gokurakuji Hill sits along the street that Kouta and the other characters travel repeatedly in early episodes, establishing the quiet residential feel of the neighborhood around Kaede House."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF9fdyOVFGGARHWu8wuXlPQY",
+      "name": "Kamakura Yuigahama Beach",
+      "localName": "由比ガ浜海水浴場",
+      "coordinates": {
+        "lat": 35.3092694,
+        "lng": 139.5422222
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5d53b8b5-6afb-43b7-ab2b-35e22e28fd5b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5d53b8b5-6afb-43b7-ab2b-35e22e28fd5b.webp"
+        },
+        {
+          "url": "media/cached-image_a9abe0dd6cebe23a14f0683653409e6a5023edbe644a3aad052d9f89758be9cb.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Yuigahama Beach, 4 Chome Yuigahama, Kamakura, Kanagawa 248-0014, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3089801,139.5359071,3a,75y,288.76h,98.8t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDevOWOgQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYh-cNkkaJy-LoafTmZlVUbmC7kibmlMBNtcH2sV3Ye5F94Wgugfry3Gi3ClqqwEeDVuCLJMUNwgGZpg1g4nQo3yVYUU8QiNbSQohb0xRjQ1hnWjqMIEJvYuHaF_176G3eY1v4_%3Dw900-h600-k-no-pi-8.795433483914664-ya187.10042268504242-ro0-fo100!7i6720!8i3360?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "In episode 1, Kouta and Yuka discover the disoriented Nyu washed ashore near this stretch of beach, marking the very start of the series and Lucy's second personality awakening.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_4",
+      "name": "Nichigen Jizo Bosatsu",
+      "localName": "日限六地蔵尊",
+      "coordinates": {
+        "lat": 35.30951,
+        "lng": 139.53259
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a0c8136b-7bc1-4180-bda0-845046255c66.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a0c8136b-7bc1-4180-bda0-845046255c66.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3094799,139.5325548,3a,90y,222.3h,105t/data=!3m7!1e1!3m5!1sPT7SNmnpGJmuomgWjU3YVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.999911731878214%26panoid%3DPT7SNmnpGJmuomgWjU3YVw%26yaw%3D222.30122920956794!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This small roadside Jizo shrine near Gokurakuji appears in episode 7 as background detail along the walking route the characters use through the neighborhood, grounding the anime's setting in everyday Kamakura street life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ39R3bvZFGGARsCPfNYwLU6Y",
+      "name": "Michibiki Jizo (Ksitigarbha)",
+      "localName": "導地蔵尊",
+      "coordinates": {
+        "lat": 35.3099749,
+        "lng": 139.5295912
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07d5dd74-d76c-4a04-abfa-06091d3cffe1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07d5dd74-d76c-4a04-abfa-06091d3cffe1.webp"
+        },
+        {
+          "url": "media/cached-image_37abff9f249636fac38d0471744fb84f8f65cd20427048131df624ac8c4c968a.jpg"
+        },
+        {
+          "url": "media/cached-image_2e54f035ba9170f82fdb8bd53a4f14c6817f32760043ea7ce35b1115a23daaa1.jpg"
+        },
+        {
+          "url": "media/cached-image_0cb6791250e337fec799ebeb12e3ce074e8809a2f6e4779cad88daf859420001.jpg"
+        },
+        {
+          "url": "media/cached-image_bedb27c0a3eb7dfa324dc1b91af5b41b50c64cada9ea84b18160db79b8b757a3.jpg"
+        },
+        {
+          "url": "media/cached-image_24023846c3b67e8fd1d79c5394b0cb9b42ccc654b5cee93c51cfa28cd09de2f9.jpg"
+        }
+      ],
+      "type": "Place of worship",
+      "categories": [
+        "Place of worship"
+      ],
+      "rating": 3.9,
+      "reviewCount": 30,
+      "priceLevel": null,
+      "address": "Michibiki Jizo (Ksitigarbha), 2 Chome-2-2 Gokurakuji, Kamakura, Kanagawa 248-0023, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3099853,139.529472,3a,90y,107.5h,96.71t/data=!3m7!1e1!3m5!1sLuDo9LozmWA8-Q_Az9TCog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.70635490844046%26panoid%3DLuDo9LozmWA8-Q_Az9TCog%26yaw%3D107.50346158323443!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Michibiki Jizo statue along the Gokurakuji slope road features in episode 8 as a landmark on the path characters walk near Kaede House, its guardian-deity presence quietly contrasting the violence that follows Nyu wherever she goes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG4hm8PNFGGARvpuc553wO4k",
+      "name": "The abutsu-ni caves",
+      "localName": "弁天窟",
+      "coordinates": {
+        "lat": 35.3129286,
+        "lng": 139.533581
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ed0575d-540e-41ab-8d7b-051cd81b9eef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ed0575d-540e-41ab-8d7b-051cd81b9eef.webp"
+        },
+        {
+          "url": "media/cached-image_70f51f063180f1194ac1c9b9ad98912efaad32dd23b5ac2161e7669de99ba980.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.4,
+      "reviewCount": 185,
+      "priceLevel": null,
+      "address": "Benten Cave, 3 Chome-10-9 Hase, Kamakura, Kanagawa 248-0016, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3260804,139.5493835,3a,90y,200.14h,86.44t/data=!3m7!1e1!3m5!1sCyFYu1w-pVEW5V-R2mIpLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.55516248750088%26panoid%3DCyFYu1w-pVEW5V-R2mIpLw%26yaw%3D200.13562993477623!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The cave shrine near Hase appears in episode 9, used as atmospheric background for scenes set in the darker, more secluded parts of Kamakura that the series uses to underline its tension and mystery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh-a7rVsu9l8R_A6PXgFs0hs",
+      "name": "Zuishinmon Gate",
+      "localName": "Iizuna Shrine Okusha",
+      "coordinates": {
+        "lat": 36.736385399999996,
+        "lng": 138.1309312
+      },
+      "image": "https://cdn.animepilgrimage.com/places/50150855-11b4-40b9-a8d1-f77e36739c5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/50150855-11b4-40b9-a8d1-f77e36739c5c.webp"
+        },
+        {
+          "url": "media/cached-image_72bfd9d8a64c2a02f51cfc13f87a90dfe07db8389aa901698fdedfdf8f16c06e.jpg"
+        },
+        {
+          "url": "media/cached-image_f4889396f3d6b9df34a67a6c01c5bfb643710c1d6c9b8e2f70bab476dfd01773.jpg"
+        },
+        {
+          "url": "media/cached-image_c1ec6c8573b39f7d75be97eaf259fde8273efad2f301299a29743411aaef8d15.jpg"
+        },
+        {
+          "url": "media/cached-image_e80133396e43aa511cbbb35ad3679c4d23a28bca4932f7b23edede18b3da67c8.jpg"
+        },
+        {
+          "url": "media/cached-image_dfd1ffdc4aa4c7bf1a207072a43d22ba05ae6b99c7073b720893bda385bacc91.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 31,
+      "priceLevel": null,
+      "address": ",AOvVaw0ZTkYYYeuGJhwQOYwfIJV5,,0ahUKEwjLhITBjZeVAxXpRzABHYLRAI8Q61gIEygN,",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3004997,139.4801596,2a,90y,33.75h,86.37t/data=!3m7!1e1!3m5!1so4-2hMSTkFjU-B5ZuklTCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.628091694298192%26panoid%3Do4-2hMSTkFjU-B5ZuklTCw%26yaw%3D33.74509154075859!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3-xUcERPGGARiJWJiituTIA",
+      "name": "Shichirigahama Parking Area",
+      "localName": "七里ヶ浜海岸駐車場 鎌倉側",
+      "coordinates": {
+        "lat": 35.304124,
+        "lng": 139.514485
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35a7cbbc-39ee-4808-8936-4f21137d7c1b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35a7cbbc-39ee-4808-8936-4f21137d7c1b.webp"
+        },
+        {
+          "url": "media/cached-image_1b575448749c06fed6b6dc2ca7b4090a8bde98ccb82e61511aa93ce70ca39be7.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shichirigahama Parking Area, 2 Chome-1-12 Shichirigahamahigashi, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3041631,139.5149133,3a,48.7y,103.88h,95.97t/data=!3m7!1e1!3m5!1szfGSatpTd5PULDiixjxgZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.9663348026926855%26panoid%3DzfGSatpTd5PULDiixjxgZA%26yaw%3D103.87825561524673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Shichirigahama coastal parking area appears in the final episode sequence, part of the sprawling Sagami Bay coastline setting used during the series' climactic final scenes near Enoshima."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_9",
+      "name": "Joju-in",
+      "localName": "成就院",
+      "coordinates": {
+        "lat": 35.30922,
+        "lng": 139.53148
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ee51d32-4a2b-43c9-a293-a5f2e25bd32f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ee51d32-4a2b-43c9-a293-a5f2e25bd32f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3090178,139.5312517,3a,90y,234.28h,85.6t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEwOXOQQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbNO97hnPAMfrfD3PP3LWdi95oCm_f8cps2pkNgaPPVBB50QfX_uofAUMEYgc6-yv1rvKDW1U0jx1tbruAAFlyHukMHwUkbfOsTxoT3pzVq3FmbP5VKF5hmsq5_EmbPoijgadDN%3Dw900-h600-k-no-pi4.400502631906534-ya234.27786417640561-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Joju-in temple sits just steps from Gokurakuji Station and appears in episode 1 as part of the quiet neighborhood atmosphere that surrounds the Kaede House, the boarding house at the center of the story."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ08E48nZFGGARI_QIMTzMP8s",
+      "name": "Nichiyo Seisakujo",
+      "localName": "日曜製作所",
+      "coordinates": {
+        "lat": 35.309742,
+        "lng": 139.5300499
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7fd7bd3f-84b6-42fb-b67f-ed0142a2643f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7fd7bd3f-84b6-42fb-b67f-ed0142a2643f.webp"
+        },
+        {
+          "url": "media/cached-image_679743af2ff081a8069357b19272ffc459c72d2be598811a186bbbe3831a8b32.jpg"
+        }
+      ],
+      "type": "Clothing store",
+      "categories": [
+        "Clothing store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Nichiyo Seisakujo, 2 Chome-1-18 Gokurakuji, Kamakura, Kanagawa 248-0023, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3095838,139.5304264,3a,75y,105.46h,95.79t/data=!3m7!1e1!3m5!1s84uKfFUVQBBYGdp-J62Tlw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.7862968652825515%26panoid%3D84uKfFUVQBBYGdp-J62Tlw%26yaw%3D105.46056094495253!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small workshop building on the Gokurakuji backstreet appears in episode 1 as background architecture along the lane near Kouta and Yuka's boarding house, part of the real streetscape the animators faithfully reproduced."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsWG_sSVFGGARnV6ggkjsi_A",
+      "name": "AtelierPiccolo(アトリエ ピッコロ)",
+      "localName": "アトリエ ピッコロ",
+      "coordinates": {
+        "lat": 35.3098473,
+        "lng": 139.5297486
+      },
+      "image": "https://cdn.animepilgrimage.com/places/099cce0a-c156-49de-a672-ba1ed193376a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/099cce0a-c156-49de-a672-ba1ed193376a.webp"
+        }
+      ],
+      "type": "写真店",
+      "categories": [
+        "写真店"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0023 Kanagawa, Kamakura, Gokurakuji, 2 Chome−1−21 AtelierPiccolo(アトリエ ピッコロ)",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3097481,139.5296146,3a,90y,100.5h,98.71t/data=!3m7!1e1!3m5!1sMu0Na3inKb02YBGExstjNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.707102975504682%26panoid%3DMu0Na3inKb02YBGExstjNQ%26yaw%3D100.49855061611389!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The small atelier on the Gokurakuji residential street appears in episode 1 as part of the faithful background recreation of the neighborhood around Kaede House, a detail fans recognize when comparing the anime frames to real-life photographs."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcZbAF_ZFGGARmNTXcgdTYdA",
+      "name": "Gokurakuji Station",
+      "localName": "極楽寺駅",
+      "coordinates": {
+        "lat": 35.3094825,
+        "lng": 139.5290259
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eb636c93-d8a7-4e78-8f6d-e3389454ec28.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eb636c93-d8a7-4e78-8f6d-e3389454ec28.webp"
+        },
+        {
+          "url": "media/cached-image_8855c35781f5d198abd021828c16a8b26e272efadc78032e34e75de2a04151c9.jpg"
+        },
+        {
+          "url": "media/cached-image_940ff199bb6d843a7c7a65160a21c3ccdd824f3305c30838ceb7a978e24e7a07.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.4,
+      "reviewCount": 14,
+      "priceLevel": null,
+      "address": "Gokurakuji Station, 3-chōme-7 Gokurakuji, Kamakura, Kanagawa 248-0023, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3091444,139.5288542,3a,90y,325.96h,97.26t/data=!3m7!1e1!3m5!1sxXcmaJm6UGVz9Acik8TeTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.2621396004141445%26panoid%3DxXcmaJm6UGVz9Acik8TeTA%26yaw%3D325.9608873308933!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The tiny Enoden line station at Gokurakuji is one of Elfen Lied's most iconic real-world locations, appearing in episode 1 and throughout the series as the arrival and departure point near Kaede House where Kouta first begins his Kamakura life.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtQ46c0RPGGARoL-K9wNTcZ0",
+      "name": "Shichirigahama",
+      "localName": "七里ヶ浜",
+      "coordinates": {
+        "lat": 35.3065797,
+        "lng": 139.5010201
+      },
+      "image": "https://cdn.animepilgrimage.com/places/434eddab-af97-4d58-b39c-0539ab020da6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/434eddab-af97-4d58-b39c-0539ab020da6.webp"
+        },
+        {
+          "url": "media/cached-image_340dbec3eda5dd3a189d24356b6df2d80fe2365c60d966c17c7157092a5cb7f9.jpg"
+        }
+      ],
+      "type": "浜",
+      "categories": [
+        "浜"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3065797,139.5010201,3a,45.6y,249.13h,94.99t/data=!3m7!1e1!3m5!1sEJv2QU1PFL6rdRCUTWvGZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEJv2QU1PFL6rdRCUTWvGZQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D124.44709%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The long sweep of Shichirigahama beach and its dramatic coastal view appear in episode 11, providing the panoramic seaside scenery that the series uses as a melancholy visual counterpoint to its emotionally intense character moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvVsEzuVOGGARs99YuxNfbDU",
+      "name": "Enoshima Sea Candle",
+      "localName": "江の島シーキャンドル",
+      "coordinates": {
+        "lat": 35.2997441,
+        "lng": 139.4786595
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04e6c27a-c081-43f1-9d24-ad9e3e1acf3c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04e6c27a-c081-43f1-9d24-ad9e3e1acf3c.webp"
+        },
+        {
+          "url": "media/cached-image_3fdf5f898bf64b5853b8b6c7c5165753890ef1c3751c5d2dc1bdc15f23447f1d.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": 26,
+      "priceLevel": null,
+      "address": "2 Chome-3-28 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2997441,139.4786595,2a,90y,304.24h,117.66t/data=!3m6!1e1!3m4!1svEsfW0kRKfPJo0wJrza0dg!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Sea Candle observation tower on Enoshima island appears in the final episode as part of the Enoshima skyline, visible from the beach and bridge sequences during the series' emotional finale."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6rltfFFGGARHN4YltJtQmc",
+      "name": "cafe Luonto",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.3115308,
+        "lng": 139.5368585
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18dc8ca1-4a87-44b7-856b-0bd998903232.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18dc8ca1-4a87-44b7-856b-0bd998903232.webp"
+        },
+        {
+          "url": "media/cached-image_f6a623ab0e43e16e0fcede250ff5e13e47d88ad6d4c89bc8cf9dbd0d937bbbf0.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "cafe Luonto, 2 Chome-11-21 Hase, Kamakura, Kanagawa 248-0016, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3114606,139.5372932,3a,90y,351.13h,102.62t/data=!3m7!1e1!3m5!1sT7RvGmUmS18VHSKHvuLN0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.615517165633193%26panoid%3DT7RvGmUmS18VHSKHvuLN0w%26yaw%3D351.13100467632063!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This Hase-area cafe near Kotoku-in appears in episode 5, used as a background location in the Kamakura streets that Kouta and the other characters pass through during daily life scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4Qd4Cytcm18RcCRGBkVaCzU",
+      "name": "Yakiniku Restaurant Isshintei Oirase Midorigaoka Branch",
+      "localName": "焼肉レストラン一心亭 おいらせ緑ヶ丘店",
+      "coordinates": {
+        "lat": 40.667148499999996,
+        "lng": 141.36597609999998
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_96bc0f576044e2b0973ac5b75c9e88c8def6690f0ef8eaff963ed6d921c5aa6d.jpg"
+        },
+        {
+          "url": "media/cached-image_ed74ca9caaba6529cf4e26993a039a5308fb552df8b9cc2212f5ec97b3be5fbd.jpg"
+        },
+        {
+          "url": "media/cached-image_59761a2a8570dd66e1e74474b510c27fbec2e79526874667b3c6099e6dc2cc5d.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Yakiniku Restaurant Isshintei Oirase Midorigaoka Branch, 1 Chome-50-2064 Midorigaoka, Oirase, Kamikita District, Aomori 039-2187, Japan",
+      "city": "Oirase",
+      "region": "Kamikita District, Aomori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.311412,139.5356959,3a,90y,258.81h,91.35t/data=!3m7!1e1!3m5!1sJ5CbaTBSde1v00iowbwrRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3476218633666406%26panoid%3DJ5CbaTBSde1v00iowbwrRw%26yaw%3D258.80993449051886!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_17",
+      "name": "Nagisa Animal Clinic",
+      "localName": "なぎさ動物病院",
+      "coordinates": {
+        "lat": 35.30901,
+        "lng": 139.5337
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8421ff22-b9b2-4e3d-b3d3-6e98edbc8ad2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8421ff22-b9b2-4e3d-b3d3-6e98edbc8ad2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3090653,139.5336313,3a,75y,132.35h,90.54t/data=!3m7!1e1!3m5!1szuFc35rjhyAV-aKNAfP9kQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5440833222712627%26panoid%3DzuFc35rjhyAV-aKNAfP9kQ%26yaw%3D132.3515316016388!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The animal clinic in the Gokurakuji neighborhood appears in episode 5, referenced as part of the local streetscape where Nyu and other characters wander through the quiet residential quarter near Kaede House."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyTHXcXpFGGARqpIjx0hhaj0",
+      "name": "Elsa Kamakura",
+      "localName": "エルザ鎌倉",
+      "coordinates": {
+        "lat": 35.3200924,
+        "lng": 139.54546779999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e3a6b0d-6dfc-4d6f-8a4e-1db45f7c9469.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e3a6b0d-6dfc-4d6f-8a4e-1db45f7c9469.webp"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0017 Kanagawa, Kamakura, Sasuke, 1 Chome−7−1 エルザ鎌倉",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3198196,139.5457166,3a,90y,286.2h,101.36t/data=!3m7!1e1!3m5!1sOJb_iU3-cdv0LtcsvlgRPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.361757399369722%26panoid%3DOJb_iU3-cdv0LtcsvlgRPw%26yaw%3D286.1961384037665!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This condominium building in Kamakura's Sasuke district appears in episode 6, its distinctive architecture serving as a location reference for the uphill residential streets the characters traverse near Zeniarai Benzaiten Shrine."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_19",
+      "name": "Fishermen’s Market",
+      "localName": "漁師直売所",
+      "coordinates": {
+        "lat": 35.30951,
+        "lng": 139.53618
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21c01cd0-6012-4953-82e3-e61b2c077321.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21c01cd0-6012-4953-82e3-e61b2c077321.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3094408,139.5359042,3a,49.6y,249.5h,97.36t/data=!3m7!1e1!3m5!1sFWooRrVONk9QPQXEgMkKwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.360685884433252%26panoid%3DFWooRrVONk9QPQXEgMkKwQ%26yaw%3D249.50198521732287!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The small fishermen's direct-sale market near the Gokurakuji coast appears in episode 6, part of the lived-in local texture of the Kamakura seafront neighborhood that grounds Elfen Lied's story in a real sense of place."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUatr75FFGGAR9XHCzJcwZDc",
+      "name": "Sasuke Inari Shrine",
+      "localName": "佐助稲荷神社",
+      "coordinates": {
+        "lat": 35.324343999999996,
+        "lng": 139.53894409999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ef5d354-107a-4abd-a907-93c37ddaffe2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ef5d354-107a-4abd-a907-93c37ddaffe2.webp"
+        },
+        {
+          "url": "media/cached-image_49e43ed141a689b72163dded304cf6102f81f2dcbbaa54d084874cdccf5c57d8.jpg"
+        },
+        {
+          "url": "media/cached-image_d27527d47503837df2478ab5cbee32f7f8fe46b3fb459e30243476b9e6973157.jpg"
+        },
+        {
+          "url": "media/cached-image_cf70f66d0b2aecc5e7973f8b3e905f659fa83fbd791865aa2532dc83094fe9c2.jpg"
+        },
+        {
+          "url": "media/cached-image_82b7febc21639143dfe067d218dd28766a2a55674bb7b15c9148c2476e525f71.jpg"
+        },
+        {
+          "url": "media/cached-image_1d7d1a6c521e7d0ab791cc400e2607788c8a386fb7ff4ca8105ee18ed3043f3e.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 2380,
+      "priceLevel": null,
+      "address": "Sasuke Inari Shrine, 2 Chome-22-12 Sasuke, Kamakura, Kanagawa 248-0017, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3243719,139.5388874,3a,90y,255.53h,119.54t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEja6j9gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbUNLCiMzSh6NBY7vlc7b0YN77zW-sbPAWytbjkAsDCCKVgnsSu7RgXSG5C3OodRCp85q0Td3oOMLSo5eh1qH7zL_elGZIpCOxns2aDo5Mnz7Yy6kTEm5n_XJFdLA7ufTfdsQ3Wwg%3Dw900-h600-k-no-pi-29.542309820209283-ya30.531149574081724-ro0-fo100!7i3584!8i1792?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Sasuke Inari Shrine with its rows of vermilion torii gates appears in episode 6, used as a visually striking location when characters move through the forested hillside shrines of Kamakura's Sasuke area.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_21",
+      "name": "Eleven-faced Avalokitesvara Bodhisattva",
+      "localName": "縁結十一面観世音菩薩",
+      "coordinates": {
+        "lat": 35.32443,
+        "lng": 139.53909
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8433f8d6-fc62-4750-8221-d51ec0015b5f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8433f8d6-fc62-4750-8221-d51ec0015b5f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3242918,139.5392297,3a,44.6y,288.33h,100.96t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC43ezGngE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbnMagLNWeBD0sUC-G5cY5TkLMqGh2FvPXX3e595rkbPWWMhxUYMpwVFjpGTN6BWvLU6X9Iw-qp7YgcjUhN9xNjm81ppRLGQSrB4z_9Vj7zSh7WG0XrFNY2UaY_nqEf8GdCjJo8vQ%3Dw900-h600-k-no-pi-10.960047542673053-ya11.331604986270406-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The eleven-faced Kannon statue enshrined within Sasuke Inari Shrine grounds appears in episode 6 alongside the torii gate path, a sacred image woven into the background of scenes set in this atmospheric hillside shrine."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_elfen-lied_22",
+      "name": "Shadore",
+      "localName": "自家焙煎珈琲 Shadore",
+      "coordinates": {
+        "lat": 35.32225,
+        "lng": 139.55392
+      },
+      "image": "https://cdn.animepilgrimage.com/places/25a4861e-0333-46ef-b526-2fa3453afce3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/25a4861e-0333-46ef-b526-2fa3453afce3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3223145,139.5540462,3a,35y,239.74h,90.5t/data=!3m7!1e1!3m5!1sw9pXzIVhJRVZNWjzwKRYxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.497942220040855%26panoid%3Dw9pXzIVhJRVZNWjzwKRYxg%26yaw%3D239.73652496282818!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This self-roasted coffee shop near Kamakura's Wakamiya Oji appears in episode 7, one of the local Kamakura establishments used as background scenery during the characters' quiet daily-life moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj_u6lO9FGGARDP0PT1Gw0F0",
+      "name": "Kamakura Clinics",
+      "localName": "かまくらファミリークリニック",
+      "coordinates": {
+        "lat": 35.315337,
+        "lng": 139.54697
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5599cfe5-183a-4e35-9e0c-351d92ef4478.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5599cfe5-183a-4e35-9e0c-351d92ef4478.webp"
+        },
+        {
+          "url": "media/cached-image_68ff6efca461521e70149ee68a313c0629bc4f985fc460449cce9dbd84546d7e.jpg"
+        }
+      ],
+      "type": "Medical clinic",
+      "categories": [
+        "Medical clinic"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Family Clinic, 2 Chome-6-21 Yuigahama, Kamakura, Kanagawa 248-0014, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.315215,139.5351539,3a,90y,316.21h,102.75t/data=!3m7!1e1!3m5!1sqEEM4tVej8rYgSj4Bn9Y2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.75058323367854%26panoid%3DqEEM4tVej8rYgSj4Bn9Y2g%26yaw%3D316.2092650527515!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The clinic building in Kamakura appears in episode 4, reflecting the series' use of real local medical facilities as background locations during scenes involving injuries or care for Nyu."
+    }
+  ]
+}

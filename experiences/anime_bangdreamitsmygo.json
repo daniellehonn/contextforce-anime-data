@@ -1,0 +1,1297 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "BanG Dream! It's MyGO!!!!!",
+  "slug": "bang-dream-its-mygo",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_fd3676c1e890b93f49c48c3515b0a70bffe50ff93c6459b1c6dd06ea31680af9.webp",
+  "image": "media/cached-image_fd3676c1e890b93f49c48c3515b0a70bffe50ff93c6459b1c6dd06ea31680af9.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.72230228750001,
+    "lng": 139.70772792187498
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "BanG Dream! It's MyGO!!!!!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJx-99G12NGGAR1sRt7CrLnkY",
+      "name": "ABC-MART Ikebukuro Shop",
+      "localName": "ABC-MART GRAND STAGE ルミネ池袋店",
+      "coordinates": {
+        "lat": 35.729057,
+        "lng": 139.7094716
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08d96e15-35a1-4b2b-83e7-917dc351f623.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08d96e15-35a1-4b2b-83e7-917dc351f623.webp"
+        },
+        {
+          "url": "media/cached-image_cf4903d363a207181fed48aa938484bb9756d51bb3a458e498e04404d14b1752.jpg"
+        }
+      ],
+      "type": "Shoe store",
+      "categories": [
+        "Shoe store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "ABC-MART, 6階 1 Chome-11-1 Nishiikebukuro, Toshima City, Tokyo 171-0021, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7297487,139.7147237,3a,90y,276.78h,124.03t/data=!3m7!1e1!3m5!1sLFGgjs-BCxvJYkSvobNTlg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-34.027080220437995%26panoid%3DLFGgjs-BCxvJYkSvobNTlg%26yaw%3D276.7773562798264!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Tomori and Anon pass by this shoe store on Sunshine 60 Street during their first meeting sequence in episode 4, establishing the Ikebukuro shopping district as the band's everyday territory."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9Rk4Sh2TGGAR7QdIS2JTjC0",
+      "name": "AKABANE STA. (Bus)",
+      "localName": "赤羽駅東口",
+      "coordinates": {
+        "lat": 35.7793117,
+        "lng": 139.72199569999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4f82bad2-17be-4a32-ab26-b99add4911c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4f82bad2-17be-4a32-ab26-b99add4911c6.webp"
+        },
+        {
+          "url": "media/cached-image_bce9a5aacb3f13cd257b86238a8539ce63a385af8b41267e55cf2907494f1649.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akabane Sta., 13, Kita City, Tokyo 115-0045, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7798495,139.7190271,3a,90y,15.65h,100.47t/data=!3m7!1e1!3m5!1sWLDnbCBo3uUdOJx_EahoOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.471598669274087%26panoid%3DWLDnbCBo3uUdOJx_EahoOQ%26yaw%3D15.646296030959167!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Akabane bus stop appears in the emotional finale of episode 13, where a key farewell and reunion moment takes place as members scatter after CRYCHIC's collapse."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWX3QWB2TGGARPRJlTdnE96Q",
+      "name": "Akabane Station",
+      "localName": "赤羽駅",
+      "coordinates": {
+        "lat": 35.7777451,
+        "lng": 139.7210653
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1411350-9c80-4491-88f2-48f4034ea125.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1411350-9c80-4491-88f2-48f4034ea125.webp"
+        },
+        {
+          "url": "media/cached-image_306d50a61af79b3dbfd52962503f57a9eec83834d664925ca7bbdb193275a0a5.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akabane Station, 1-chōme-1 Akabane, Kita City, Tokyo 115-0045, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7779658,139.720243,3a,90y,359.13h,109.19t/data=!3m7!1e1!3m5!1s7ZJ2BTzb4Dg2HNmv5DKz1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.19088765580159%26panoid%3D7ZJ2BTzb4Dg2HNmv5DKz1Q%26yaw%3D359.1331406950224!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Akabane Station serves as a location in episode 13, part of the poignant travel and separation scenes that punctuate the series' bittersweet conclusion."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJeSNmmjxGGAR7fBvh3Xjgig",
+      "name": "Seijogakuen-mae Station",
+      "localName": "成城学園前駅",
+      "coordinates": {
+        "lat": 35.6401283,
+        "lng": 139.5990873
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d882abef-968a-4cba-bf1e-18c7286a7321.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d882abef-968a-4cba-bf1e-18c7286a7321.webp"
+        },
+        {
+          "url": "media/cached-image_c1b42dbfffaae41aa70578c63cd6f8c9371375e2d5dac65ff425ba8eb5ae2c54.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Seijogakuen-mae Station, 6-chōme-5 Seijō, Setagaya City, Tokyo 157-0066, Japan",
+      "city": "Setagaya City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6405176,139.5989293,3a,90y,136.38h,105.65t/data=!3m7!1e1!3m5!1sucS6GuZGSAyLctq9PLDkPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.646672908327844%26panoid%3DucS6GuZGSAyLctq9PLDkPg%26yaw%3D136.38488112525292!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This station appears in episode 13 as a transit point in the farewell sequence, capturing the feeling of members drifting apart after everything MyGO!!!!! had built together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMSGEnKvvGGARkYlkLuOdLWg",
+      "name": "Musashino Civic Cultural Hall",
+      "localName": "武蔵野市民文化会館",
+      "coordinates": {
+        "lat": 35.711605399999996,
+        "lng": 139.5659227
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9beed7a0-7967-4e67-bcd6-d86e5a9f4089.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9beed7a0-7967-4e67-bcd6-d86e5a9f4089.webp"
+        },
+        {
+          "url": "media/cached-image_4daf60a48e5c92c791984017c0f7da1092dcfc2658c31386876ef83ca2fd77c4.jpg"
+        }
+      ],
+      "type": "Cultural center",
+      "categories": [
+        "Cultural center"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Musashino Civic Cultural Hall, 3 Chome-9-11 Nakacho, Musashino, Tokyo 180-0006, Japan",
+      "city": "Musashino",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.711908,139.5659023,3a,90y,164.63h,98.89t/data=!3m7!1e1!3m5!1sSisPtLAngtbahN7D_vjKXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.889125320526531%26panoid%3DSisPtLAngtbahN7D_vjKXA%26yaw%3D164.63456798815176!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Musashino Civic Cultural Hall is featured in episode 9, serving as the venue for a pivotal live performance that tests whether MyGO!!!!! can hold together under pressure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGTv5_meNGGARHu5zMjfBms0",
+      "name": "SEIBU Ikebukuro Main Store",
+      "localName": "西武池袋本店",
+      "coordinates": {
+        "lat": 35.7287031,
+        "lng": 139.7118073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d683b05f-1c49-4927-bdd3-3e29eaae3192.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d683b05f-1c49-4927-bdd3-3e29eaae3192.webp"
+        },
+        {
+          "url": "media/cached-image_acf12103acfcb20a3b66944892e789083597dcbba37dc466e0bd58fec4d90d46.jpg"
+        },
+        {
+          "url": "media/cached-image_21feb0233491cfb360008933bd49faa38775f51d75f2f6b004b3bafa034086f6.jpg"
+        },
+        {
+          "url": "media/cached-image_70725debc80458c5e62771f52d3a49794867f45770a9dd4a4d0b681617ff2392.jpg"
+        },
+        {
+          "url": "media/cached-image_d64b72037dd443b30db1b2ecafd559be523ed333efe41be5a1617fc626b73c20.jpg"
+        },
+        {
+          "url": "media/cached-image_4ab4d109c736c50262d12eeb2f82e0ade35baff91e7bbd934a74a14c4dfdb29b.jpg"
+        }
+      ],
+      "type": "Department store",
+      "categories": [
+        "Department store"
+      ],
+      "rating": 3.9,
+      "reviewCount": 422,
+      "priceLevel": null,
+      "address": "SEIBU Ikebukuro Main Store, 1 Chome-28-28-1 Minamiikebukuro, Toshima City, Tokyo 171-8569, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.729748,139.7118884,3a,90y,19.31h,88.03t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDU9_OULA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZT1S3Uy_5tmvJ8e6vRHNWhq85keZ1JrOuf4v2qHp3JZPwbZpHJN_sH5hHUg6xU-D7veCu_6vY3f1PG8-ai5P1nhlf9W9SlI09AhifppmQF--h6Bt0ohvjbRWYhPQDj8jm7MXbO%3Dw900-h600-k-no-pi1.9676481118853957-ya204.4141732618822-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Seibu Ikebukuro appears in episode 8 as Tomori and other members navigate the department store area during a tense character encounter that deepens the band's internal drama."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-its-mygo_6",
+      "name": "Uzurayama Pharmacy",
+      "localName": "うずらやま薬局",
+      "coordinates": {
+        "lat": 35.72111,
+        "lng": 139.71267
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf6a381a-eb01-4675-a137-61f874ed3a3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf6a381a-eb01-4675-a137-61f874ed3a3d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7209998,139.7128416,3a,90y,295.23h,114.47t/data=!3m7!1e1!3m5!1s64UVd_VALLdNPbNdHZ4x_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-24.470048362938513%26panoid%3D64UVd_VALLdNPbNdHZ4x_Q%26yaw%3D295.2264804869061!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This local pharmacy near Ikebukuro appears in episode 8 as a background location in scenes showing the characters' daily life in the neighborhood around their usual haunts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt1jnNUSNGGAR0__NuPOpQuM",
+      "name": "Lagoon Ikebukuro Bldg",
+      "localName": "ラグーン池袋ビル",
+      "coordinates": {
+        "lat": 35.7301849,
+        "lng": 139.7159149
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d728eef-5c16-489e-b55b-80a3b98ee4fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d728eef-5c16-489e-b55b-80a3b98ee4fb.webp"
+        },
+        {
+          "url": "media/cached-image_9077bf0bf214fc4e178ff6c8275b94b991222045328d517116c05541d50703e5.jpg"
+        },
+        {
+          "url": "media/cached-image_5b1c8213989390f541c5bab8ce93dfb6d1e4f4a1916eabb3b31c74d0724aab73.jpg"
+        },
+        {
+          "url": "media/cached-image_57adf2928a25ee36ab887eda7c0a9e88dc5c08dc00648f4bf7a345b53bd5b08b.jpg"
+        },
+        {
+          "url": "media/cached-image_1391d517f3d8005d056d02901eeea7115419b05c92e7b0bbc18e1d478defdf2c.jpg"
+        },
+        {
+          "url": "media/cached-image_10e3237d09e3d3f64076266d210f3138a802cd339ee19e6d323ba13f4740f827.jpg"
+        }
+      ],
+      "type": "Tenant ownership",
+      "categories": [
+        "Tenant ownership"
+      ],
+      "rating": 3.5,
+      "reviewCount": 2059,
+      "priceLevel": null,
+      "address": "Lagoon Ikebukuro Bldg, 1 Chome-21-1 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7299893,139.7158088,3a,74.7y,66.02h,106.26t/data=!3m7!1e1!3m5!1st_BvbbHYk_aFP-8ROxLTyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.25570859471989%26panoid%3Dt_BvbbHYk_aFP-8ROxLTyg%26yaw%3D66.01666394505865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The distinctive Lagoon Building exterior appears in episode 7 as part of the Ikebukuro backdrop when the MyGO!!!!! members navigate their fraught relationships on the street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6q3awCNGGARcOKF0DIMwPI",
+      "name": "Omokage Bridge",
+      "localName": "面影橋",
+      "coordinates": {
+        "lat": 35.7132703,
+        "lng": 139.71426979999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e06d3f67-df52-4205-9361-3f8f406bd4d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e06d3f67-df52-4205-9361-3f8f406bd4d3.webp"
+        },
+        {
+          "url": "media/cached-image_3df13635060e3bf28045e254224cdd8b2548c89d9466263fde5ca58ce08eb71e.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omokage Bridge, 2 Chome-1-16 Takada, Toshima City, Tokyo 171-0033, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7131075,139.7142405,3a,90y,4.79h,97.97t/data=!3m7!1e1!3m5!1snewIDe5RziXM--BrKY_LcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.973664847441512%26panoid%3DnewIDe5RziXM--BrKY_LcQ%26yaw%3D4.792437208156524!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Omokage Bridge over the Shakujii River appears in episode 6 as Tomori walks alone at night, a quiet moment of isolation that captures her emotional state before the band's next crisis."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyQGZIhWNGGARVSXAoIFgFvk",
+      "name": "Chitose Bridge",
+      "localName": "千登世橋",
+      "coordinates": {
+        "lat": 35.718945399999996,
+        "lng": 139.71348039999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aa4f113f-d91c-4d88-b4b6-77185803cb0a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aa4f113f-d91c-4d88-b4b6-77185803cb0a.webp"
+        },
+        {
+          "url": "media/cached-image_2b89cf52e4b1608a901b72040aa098c1ec228a75ed72b3dee54225c4678122f9.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chitose Bridge, 3 Chome-1-1 Zoshigaya, Toshima City, Tokyo 171-0032, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7191106,139.7132748,3a,90y,11.75h,94.34t/data=!3m7!1e1!3m5!1si8BQw4tuZ1hW8rWJJl0ypw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.338849429165776%26panoid%3Di8BQw4tuZ1hW8rWJJl0ypw%26yaw%3D11.75451314835998!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Chitose Bridge (Chitosebashi) appears in episode 4 as a background location in the Zoshigaya neighborhood, part of the atmospheric walks that define the series' melancholy tone."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqe_fLmuNGGAR0knBNVr1odg",
+      "name": "Zelkova Trees National Monument",
+      "localName": "鬼子母神大門ケヤキ並木",
+      "coordinates": {
+        "lat": 35.7207708,
+        "lng": 139.7145429
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee602c1b-736a-4d63-8a67-7f0b3f46379c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee602c1b-736a-4d63-8a67-7f0b3f46379c.webp"
+        },
+        {
+          "url": "media/cached-image_f944f2568f556cc97c155176d33646757f8b9803dbd0d5521d236f878009887e.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Zelkova Trees National Monument, 3 Chome-16-1 Zoshigaya, Toshima City, Tokyo 171-0032, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7201828,139.714877,3a,73.9y,329.66h,98.42t/data=!3m7!1e1!3m5!1s5vg4e5njUYguYmBpm73hyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.415412338685684%26panoid%3D5vg4e5njUYguYmBpm73hyA%26yaw%3D329.65501910049323!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The iconic zelkova tree avenue leading to Kishimojin Shrine appears in episode 4, where the tree-lined path becomes a recurring visual motif representing longing and connection for the characters.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB1fn1GeNGGARdTcsv27lDf0",
+      "name": "Sunshine 60 Street",
+      "localName": "Sunshine 60 St",
+      "coordinates": {
+        "lat": 35.7300962,
+        "lng": 139.7161403
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b06333b8-c2cc-47ec-ada1-af374035d353.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b06333b8-c2cc-47ec-ada1-af374035d353.webp"
+        },
+        {
+          "url": "media/cached-image_9508556fe46c14bcfde910645b22faf02d3453a9f68afaf790ae0a5d17b68ec8.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sunshine 60 St, Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7298171,139.715191,3a,90y,68.52h,104.91t/data=!3m7!1e1!3m5!1strGuY_Wbd5LLIKzc9z14hA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.912837908110248%26panoid%3DtrGuY_Wbd5LLIKzc9z14hA%26yaw%3D68.5245750022863!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The main shopping street of east Ikebukuro appears in episode 4 as the band members cross paths in this busy area, cementing Ikebukuro's role as MyGO!!!!!s home ground."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJv-o4yxSNGGARQeL-s_6jqls",
+      "name": "Kishibojimmae Station",
+      "localName": "鬼子母神前駅",
+      "coordinates": {
+        "lat": 35.7200509,
+        "lng": 139.7146731
+      },
+      "image": "https://cdn.animepilgrimage.com/places/715476da-98c3-4f3b-96bc-7cb8ba6fe548.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/715476da-98c3-4f3b-96bc-7cb8ba6fe548.webp"
+        },
+        {
+          "url": "media/cached-image_396eddeb699ac8c09d8302643317a56fd6be1ea37a67eee3e9870de3363409fa.jpg"
+        }
+      ],
+      "type": "Tram stop",
+      "categories": [
+        "Tram stop"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kishibojimmae Station, 3-chōme-2 Zōshigaya, Toshima City, Tokyo 171-0032, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7201828,139.714877,3a,40.7y,216.13h,93.59t/data=!3m7!1e1!3m5!1s5vg4e5njUYguYmBpm73hyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.586033902371426%26panoid%3D5vg4e5njUYguYmBpm73hyA%26yaw%3D216.12764686551006!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Kishibojin-mae tram station on the Tokyo Sakura Tram appears in episode 3, where Tomori's walks through the Zoshigaya retro streetcar neighborhood are a signature visual of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-its-mygo_13",
+      "name": "Chitose Kobashi",
+      "localName": "千登世小橋",
+      "coordinates": {
+        "lat": 35.71878,
+        "lng": 139.7138
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a99ae4a8-4e48-4bfc-9a62-7c52a9f6b818.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a99ae4a8-4e48-4bfc-9a62-7c52a9f6b818.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7187595,139.7139277,3a,41.5y,265.76h,92.9t/data=!3m7!1e1!3m5!1sT8csSwMbs4mXwqV5tJ82YQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9033665230194856%26panoid%3DT8csSwMbs4mXwqV5tJ82YQ%26yaw%3D265.7619098305419!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small pedestrian bridge near the Toden Arakawa Line tracks appears in episode 3 as part of the atmospheric Zoshigaya area that becomes closely associated with Tomori's solitary wanderings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ9BjRm6NGGARptrQGlzqwJc",
+      "name": "KONICA MINOLTA Planetarium \"Manten\" in Sunshine City",
+      "localName": "コニカミノルタ プラネタリウム満天 in Sunshine City",
+      "coordinates": {
+        "lat": 35.728797899999996,
+        "lng": 139.7198487
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b8d1dd6-7fc1-43bf-b5eb-e623925a8dff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b8d1dd6-7fc1-43bf-b5eb-e623925a8dff.webp"
+        },
+        {
+          "url": "media/cached-image_b2377cc23001b091981afa707751371d189db4d2d23fb7e30976b5ca4a3e09d8.jpg"
+        },
+        {
+          "url": "media/cached-image_35ad3c6be5567d7e48bf598a28116639309172e9e87c826b17ac83bfe89671ef.jpg"
+        },
+        {
+          "url": "media/cached-image_403236122c9ace15a7fc45233d3e2913693b8ac88826ffe7f7b6da8143a691de.jpg"
+        },
+        {
+          "url": "media/cached-image_72d93f6fdf354cff11fc4687a4cc99ba4b3f9f64901c95b333985993429f45fa.jpg"
+        },
+        {
+          "url": "media/cached-image_055c9aa8d7ac4c2f7e0e8200cd08b9983c2d148c0064a7f6bb3844b2b9920cdd.jpg"
+        }
+      ],
+      "type": "Planetarium",
+      "categories": [
+        "Planetarium"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KONICA MINOLTA Planetarium \"Manten\" in Sunshine City, サンシャインシティワールドインポートマートビル 屋上 3 Chome-1-3 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7287395,139.7201582,2a,75y,237.9h,97.13t/data=!3m7!1e1!3m5!1s4SnPwT4LJW9_1WR5NX_0xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.128368232670013%26panoid%3D4SnPwT4LJW9_1WR5NX_0xA%26yaw%3D237.8981580195052!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Konica Minolta Manten planetarium on the roof of Sunshine City appears in episode 2, where Anon invites Tomori here in a scene that marks the start of their unexpected friendship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkbfRtW2NGGARSgyVrvQYne0",
+      "name": "Higashi Ikebukuro Yonchome Station",
+      "localName": "東池袋駅",
+      "coordinates": {
+        "lat": 35.726017299999995,
+        "lng": 139.7189977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b7c19125-1457-45d7-8eee-0c7622b5fe7e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b7c19125-1457-45d7-8eee-0c7622b5fe7e.webp"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Higashi-Ikebukuro Sta., 4 Chome-4-4 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7252471,139.7201288,3a,90y,256.84h,98.64t/data=!3m7!1e1!3m5!1sN_25WWNNuyONtOdKmuYPPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.635340113275035%26panoid%3DN_25WWNNuyONtOdKmuYPPA%26yaw%3D256.84160542313464!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Higashi-Ikebukuro 4-chome subway station appears in episode 2 during early scenes of Tomori navigating east Ikebukuro, establishing her daily routes through this part of Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd9yvKG-NGGARjV5j9PnkvWc",
+      "name": "My Basket Higashi-ikebukuro 4-chome Store",
+      "localName": "まいばすけっと 東池袋４丁目店",
+      "coordinates": {
+        "lat": 35.7286384,
+        "lng": 139.7172502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f53737c-052c-4038-a275-c34812966be4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f53737c-052c-4038-a275-c34812966be4.webp"
+        },
+        {
+          "url": "media/cached-image_06730611c06154d7b15f01d17624b6dc010288cbdf7db72312f86439852ae5f1.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "My Basket Higashi-ikebukuro 4-chome Store, 奥田ビル 4 Chome-24-5 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7289575,139.7170095,3a,90y,52.23h,95.45t/data=!3m7!1e1!3m5!1s4W8J92jNWOHM4uXOrcsA1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.4526135466394265%26panoid%3D4W8J92jNWOHM4uXOrcsA1w%26yaw%3D52.23215538831426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This neighborhood convenience minimarket appears in episode 1 as a backdrop during the very first scenes of Tomori's life in east Ikebukuro, grounding the series in everyday local detail."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJncY_0meNGGAROPyHhuKocOk",
+      "name": "KaraokeKan Ikebukuro East Exit Main Store",
+      "localName": "カラオケ館 池袋東口本店",
+      "coordinates": {
+        "lat": 35.729773099999996,
+        "lng": 139.7138914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ff9683b-7ac7-4c05-8e22-5cc3020eef30.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ff9683b-7ac7-4c05-8e22-5cc3020eef30.webp"
+        },
+        {
+          "url": "media/cached-image_772668edc7646442f4c98c59fd94911107ee14041b67de725ea78e80fe798898.jpg"
+        }
+      ],
+      "type": "Karaoke",
+      "categories": [
+        "Karaoke"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KaraokeKan, 池袋B&Vビル 1 Chome-2-12 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7296737,139.71403,3a,90y,307.56h,101.25t/data=!3m7!1e1!3m5!1sirMXRSjw_5i40-4HkqzRKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.245872655163382%26panoid%3DirMXRSjw_5i40-4HkqzRKQ%26yaw%3D307.56378257872245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "KaraokeKan appears in episode 1 as a gathering spot that establishes the east Ikebukuro commercial area as the world where MyGO!!!!! will form, familiar territory for music-loving teens."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrVDjaWiNGGARSG-BrrXZDq4",
+      "name": "Kiraboshi Bank Ikebukuro Branch",
+      "localName": "きらぼし銀行 池袋支店",
+      "coordinates": {
+        "lat": 35.7336495,
+        "lng": 139.7172042
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3f2b219d-713b-4671-8403-6b1613496705.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3f2b219d-713b-4671-8403-6b1613496705.webp"
+        },
+        {
+          "url": "media/cached-image_0daaf0c5bc2514a3d88aeff8986c429dc8f82546b98811df8db7f1095f49f746.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kiraboshi Bank Ikebukuro Branch, 2 Chome-61-3 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7336144,139.7169964,3a,90y,320.79h,98.75t/data=!3m7!1e1!3m5!1smJH5I_KW3zrbGvlEKU1Ddw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.750050417880274%26panoid%3DmJH5I_KW3zrbGvlEKU1Ddw%26yaw%3D320.79129189638127!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This bank branch near north Ikebukuro appears in episode 1, part of the real-world detail that grounds MyGO!!!!!s story in an authentic slice of the Toshima City neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE-bvu2eNGGAROO25uspkrw0",
+      "name": "Sun Drug Ikebukuro Higashiguchi Ekimae Store",
+      "localName": "サンドラッグ 池袋東口駅前店",
+      "coordinates": {
+        "lat": 35.7304023,
+        "lng": 139.7131913
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc93b61e-d266-4aa2-87ec-13325fc09a17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc93b61e-d266-4aa2-87ec-13325fc09a17.webp"
+        },
+        {
+          "url": "media/cached-image_558eb827ec5eecb77bfd4c940fb532429bc3ad596ecdde8e5c1d9b68f020cf3a.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sun Drug, 1 Chome-3-5 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.730267,139.7130388,3a,90y,198.75h,97.54t/data=!3m7!1e1!3m5!1s9dU_zOUo-m11yafqs_rBgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.5400857384743745%26panoid%3D9dU_zOUo-m11yafqs_rBgA%26yaw%3D198.75105423633593!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Sun Drug drugstore near the east exit of Ikebukuro Station appears in episode 1, one of several real businesses used to texture the series' hyperlocal Ikebukuro setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq6aDrAiLGGAR_99_HFsCvqk",
+      "name": "pizza marumo",
+      "localName": "居酒屋マルモ",
+      "coordinates": {
+        "lat": 35.645292999999995,
+        "lng": 139.7085094
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_620080df6a551fe921643d242522e2a0957e8bf0641092f3c52c14dd7428f04f.jpg"
+        }
+      ],
+      "type": "Pizza restaurant",
+      "categories": [
+        "Pizza restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "pizza marumo, 恵比寿ヴェルソービル 1階 1 Chome-11-13 Ebisuminami, Shibuya, Tokyo 150-0022, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7143225,139.7177915,3a,90y,189.01h,100.18t/data=!3m7!1e1!3m5!1sNjn60Udu8Mm2DS8YrRJ4tg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.177129037050364%26panoid%3DNjn60Udu8Mm2DS8YrRJ4tg%26yaw%3D189.00678260330008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE-iBQ6eSGGARhdTJRP54scE",
+      "name": "Toshima Kuritsu Minamiikebukuro Daini Park",
+      "localName": "豊島区立池袋第二公園",
+      "coordinates": {
+        "lat": 35.7357927,
+        "lng": 139.70548209999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f706aca3-9a11-4559-9ee3-0e4de9e87bf2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f706aca3-9a11-4559-9ee3-0e4de9e87bf2.webp"
+        },
+        {
+          "url": "media/cached-image_d7350ef085998a6937c0a23fb2cd0811b89067c05ade5ae247fbc82651ab457c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ikebukuro No.2 Park, 3 Chome-29-4 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Toshima+Kuritsu+Minamiikebukuro+Daini+Park/@35.7225581,139.7170277,3a,90y,337.83h,99t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEnMCYmQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nozR2TzNMLnR7eRQF3_Yjab8BmYOWQSQqmGPRCQVHh7q-RwBE5AgCbpKaivkaQU6bSKpBapW-M8VnoRSXkeaW6YHbfJnnQZ8khxuyd6-HN-pCG57pp81yqy8o30oi6eHuNhXfzGTw%3Dw900-h600-k-no-pi-9.002225469556251-ya179.82587492786138-ro0-fo100!7i8704!8i4352!4m9!3m8!1s0x60188d6c98abe48b:0x7d60dd2f18f9b8dc!8m2!3d35.7224856!4d139.717031!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cjj3rtf5?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": 1,
+      "entityContext": "Ikebukuro Second Park appears in the ending credits sequence of episode 1, one of the local Toshima parks used in the ED visuals that map the characters' everyday Ikebukuro world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWUTyfiONGGARicveZ0VReOk",
+      "name": "Grand Terrace Nishi-Waseda",
+      "localName": "キャンパステラス早稲田",
+      "coordinates": {
+        "lat": 35.7117253,
+        "lng": 139.72309289999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/88f4908f-c906-494d-b06f-f35dbdba13e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/88f4908f-c906-494d-b06f-f35dbdba13e7.webp"
+        },
+        {
+          "url": "media/cached-image_6f515fbecb3e713c17fe7b4434c00db43cd7ca1f77b6bedc72c72c65a3433c01.jpg"
+        }
+      ],
+      "type": "School house",
+      "categories": [
+        "School house"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Campus Terrace Waseda, 1 Chome-39-13 Sekiguchi, Bunkyo City, Tokyo 112-0014, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7131366,139.7155585,3a,76.7y,95.12h,100.51t/data=!3m7!1e1!3m5!1sq7ub0_d9iWfK3rh6amXACw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.509902015693356%26panoid%3Dq7ub0_d9iWfK3rh6amXACw%26yaw%3D95.11726639146711!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": 1,
+      "entityContext": "Campus Terrace Waseda appears in the ending credits of episode 1, a college-area building woven into the ED's visual tour of the Tokyo neighborhoods surrounding the characters' lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJadg8iniSGGARysxtwtnBjxM",
+      "name": "Asukayama Park",
+      "localName": "飛鳥山公園",
+      "coordinates": {
+        "lat": 35.7504718,
+        "lng": 139.73882279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae6c8bff-51c0-465e-90a1-72f1f8e046c6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae6c8bff-51c0-465e-90a1-72f1f8e046c6.webp"
+        },
+        {
+          "url": "media/cached-image_e903eaf225744aaa506f0dd237f06bcf058e979dea7d094f9e0a24fe59c27868.jpg"
+        },
+        {
+          "url": "media/cached-image_7926d67e1340f3892555b10a0453b353d25bbd648327fc53f88c0952dda61474.jpg"
+        },
+        {
+          "url": "media/cached-image_2ad21ebf4125911747b60709b46248aa86990dfe0c6bc67f82f598308e8cef40.jpg"
+        },
+        {
+          "url": "media/cached-image_b4dfff8c1d6f1252598ede3713af824e2937392c09c4f86c9aec1c2711c5e711.jpg"
+        },
+        {
+          "url": "media/cached-image_95e0f8e087c31817b2a799841dae351925aeb695db8ef930083a51cc7ee53eaf.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 557,
+      "priceLevel": null,
+      "address": "Asukayama Park, 1 Chome-1-3 Oji, Kita City, Tokyo 114-0002, Japan",
+      "city": "Kita City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7502999,139.7387934,2a,90y,298.36h,90.45t/data=!3m7!1e1!3m5!1sUdbiovz6tV5Mx737kdczuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4487788792503835%26panoid%3DUdbiovz6tV5Mx737kdczuw%26yaw%3D298.35886370884464!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Asukayama Park in Kita Ward appears in episode 8, used as an outdoor setting for a character scene that takes place away from the usual Ikebukuro haunts, adding breadth to the series' Tokyo geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO2IMOB2NGGAROi1f18QKJLI",
+      "name": "Waseda Station",
+      "localName": "早稲田駅",
+      "coordinates": {
+        "lat": 35.7058216,
+        "lng": 139.7212004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17bdb45b-9cc3-44c4-8f00-7ec4cf8453a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17bdb45b-9cc3-44c4-8f00-7ec4cf8453a3.webp"
+        },
+        {
+          "url": "media/cached-image_ac61d1c19cda76bf3fb6e482210cf9dcf33e62579a46e09006a04e1fd66c7ef8.jpg"
+        },
+        {
+          "url": "media/cached-image_f531fb4bb38f9e3f5c21daa559d25a6f71afb265a41a559605f0b9d4358f8f85.jpg"
+        },
+        {
+          "url": "media/cached-image_76190d9499cd9387f5298fe9da0608013ae2d23c153ff5474496a52f1a94100f.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Waseda Station, Wasedamachi, Shinjuku City, Tokyo 162-0042, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7117593,139.7194242,3a,90y,268.61h,97.81t/data=!3m7!1e1!3m5!1scXRSl8bwyQGJ_S4VvijGsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.814065896454252%26panoid%3DcXRSl8bwyQGJ_S4VvijGsQ%26yaw%3D268.6093970528156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Waseda Station on the Tokyo Sakura Tram appears in episode 9, part of the retro streetcar line that runs through the characters' neighborhood and gives the series its distinctive low-key Tokyo atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3UcIdGNGGARQ30FOpVVEdw",
+      "name": "Fujimizaka Slope",
+      "localName": "富士見坂",
+      "coordinates": {
+        "lat": 35.71619,
+        "lng": 139.71739
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ec9f0808-4b8d-4da8-b54e-27e51705514d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ec9f0808-4b8d-4da8-b54e-27e51705514d.webp"
+        },
+        {
+          "url": "media/cached-image_03134c5d5c07c1742d127c8e4c16ca39b1cf19171e23349b28057adb5241819a.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3-chōme Nishinippori, Arakawa City, Tokyo 116-0013, Japan",
+      "city": "Arakawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7157262,139.7170528,3a,90y,30.79h,91.83t/data=!3m7!1e1!3m5!1sAJltIXVjocfWjfatF-iLWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8279154477465767%26panoid%3DAJltIXVjocfWjfatF-iLWA%26yaw%3D30.7859023449936!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Fujimizaka slope in Nishi-Nippori appears in episode 4, one of several quiet residential Tokyo streets used to convey Tomori's solitary wandering mood throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJv1u2RTaNGGARgkVRbHtfJGQ",
+      "name": "GiGO Ikebukuro No.3",
+      "localName": "GiGO 池袋3号館",
+      "coordinates": {
+        "lat": 35.7298648,
+        "lng": 139.7129253
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08b7bb65-2537-433d-bc24-ad77f5a8c662.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08b7bb65-2537-433d-bc24-ad77f5a8c662.webp"
+        },
+        {
+          "url": "media/cached-image_7b2108557eb14ece9610d8dc7f96be5fa1b76127bd0a130df5bfd238380ff14c.jpg"
+        },
+        {
+          "url": "media/cached-image_ac85a13cb096c41057756d7a7b9b238b22a21e73f461feeb8bcbbcd92725553b.jpg"
+        },
+        {
+          "url": "media/cached-image_5355da17b6c158c69485974f037a4b5a44dc6f9b719276e61435826e3322f0df.jpg"
+        }
+      ],
+      "type": "ゲームセンター",
+      "categories": [
+        "ゲームセンター"
+      ],
+      "rating": 2.7,
+      "reviewCount": 134,
+      "priceLevel": null,
+      "address": "1 Chome-1-4 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7298648,139.7129253,3a,75y,83.11h,98.1t/data=!3m6!1e1!3m4!1s7OXPjr18cwZIhSxjc_rYwA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "GiGO arcade in east Ikebukuro appears in episode 11 as a location the characters pass through, typical of the series' use of real commercial Ikebukuro landmarks to anchor each episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJibKDcm-NGGARKgwl3cYaJpE",
+      "name": "East Ikebukuro Central Park",
+      "localName": "豊島区立東池袋中央公園",
+      "coordinates": {
+        "lat": 35.7301301,
+        "lng": 139.7186407
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fb74fc71-81b2-490f-b81b-858843a3842b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fb74fc71-81b2-490f-b81b-858843a3842b.webp"
+        },
+        {
+          "url": "media/cached-image_741984bc9d36802d34eb80fb22e9a78e96a9d53ce2ef220519afef46686738ec.jpg"
+        },
+        {
+          "url": "media/cached-image_5a75284d44ecdd38e08692c3e65aca5bb47b5de26674a5ce3a742d6d3dec571f.jpg"
+        },
+        {
+          "url": "media/cached-image_d9e1fdaa748dd958efd3b063b8a2c996cdb4f1f14f858df3597c415d138bfade.jpg"
+        },
+        {
+          "url": "media/cached-image_ed63aea2844690f662d320e72512e3b6fba5891cbd32ab53e0f9339938bcce89.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.7,
+      "reviewCount": 146,
+      "priceLevel": null,
+      "address": "3 Chome-1-6 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7301301,139.7186407,3a,90y,103.37h,97.99t/data=!3m6!1e1!3m4!1sAXKCN_ZxDE66E7P-U2UB_A!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "East Ikebukuro Central Park appears in episode 5, serving as an outdoor gathering point where the MyGO!!!!! members meet amid the tension of their fragile band relationships."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmfWbLGaNGGARxAIoQsy1prQ",
+      "name": "Lotteria - Ikebukuro East Entrance",
+      "localName": "ロッテリア 池袋東口",
+      "coordinates": {
+        "lat": 35.7295941,
+        "lng": 139.714431
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2598cd0a-8665-490a-82e0-5279a2c8fcef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2598cd0a-8665-490a-82e0-5279a2c8fcef.webp"
+        },
+        {
+          "url": "media/cached-image_c009e4b49b46fcaba4bd7423066b6870ae8973b5dc6d2dc84ee48f07eb509c84.jpg"
+        },
+        {
+          "url": "media/cached-image_185639dcde0586ee72af2df925f5d7694fdd65b03c9c5336664dc11143d5a158.jpg"
+        },
+        {
+          "url": "media/cached-image_824a370230eee2eba32cddd169126e2aabedc136be0df9b5dca1c187da4cd389.jpg"
+        },
+        {
+          "url": "media/cached-image_68951e02b897d5501ad4e75f0f915df66e36284758c68081b20f00b8c073191a.jpg"
+        },
+        {
+          "url": "media/cached-image_553b8a7c1c1ff56b8f22230f94d7d8c5eca75ea66ecfc94f110372c1c0eca2f0.jpg"
+        },
+        {
+          "url": "media/cached-image_1720280ec9f735aa4dafa99b96f55bab1d6645b9a35a03af7ef42e1359f7fca8.jpg"
+        },
+        {
+          "url": "media/cached-image_36aa85093e158ec0ec9abff3a077f1e70683971f5d40557c1f77dfd7bcb33479.jpg"
+        },
+        {
+          "url": "media/cached-image_346ea3971032f7e84a418d27fa63179dd4c273911902b1ac1727c8243541fb4b.jpg"
+        },
+        {
+          "url": "media/cached-image_1bb710919252236e2792ebbc12c1bbe61176f54f2632f735e97239726725990c.jpg"
+        },
+        {
+          "url": "media/cached-image_d22f5c3ce2d07ca980c77beefd9342264561762e42dec4680a24effca4b863ab.jpg"
+        },
+        {
+          "url": "media/cached-image_6afedb30011d2c17fed3d66ab252f9d139eb8bad400bd0ba02fa43bae7499a1d.jpg"
+        }
+      ],
+      "type": "ハンバーガー店",
+      "categories": [
+        "ハンバーガー店"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-11-4 Higashiikebukuro, Toshima City, Tokyo 170-0013, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7295941,139.714431,3a,48.7y,221.63h,101.26t/data=!3m6!1e1!3m4!1si66PhMIMxg-7jEcUOLF6KQ!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Lotteria near Ikebukuro east exit appears in episode 6 as a casual fast-food landmark in the commercial area, part of the detailed Ikebukuro streetscape the series meticulously recreates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhT_wQW-NGGARyeOCR2L-W-I",
+      "name": "Sunshine Aquarium",
+      "localName": "サンシャイン水族館",
+      "coordinates": {
+        "lat": 35.7288022,
+        "lng": 139.7200341
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6918ef1e-d437-4dc8-8ab9-b91adf6b369a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6918ef1e-d437-4dc8-8ab9-b91adf6b369a.webp"
+        },
+        {
+          "url": "media/cached-image_dba72ee52b497c23c61427f868921bc2f0d735cd0ad135392a29cb39fedf1ee5.jpg"
+        },
+        {
+          "url": "media/cached-image_334cba2ebbfcae7ae349b6dc7e1923f16e8f92e504e1bce5b4947aede80585e5.jpg"
+        },
+        {
+          "url": "media/cached-image_4b0ee23042d100856eff3cee1c2965fb2e1c82824e7b0d569b358b56db306037.jpg"
+        },
+        {
+          "url": "media/cached-image_10fd689b238dfe90b8b8ca385a3fb4518bc67fe94f7bfa8a822417ccd420bda0.jpg"
+        },
+        {
+          "url": "media/cached-image_44f72bfc42c534ab5ea97cae7699eeb2374636756abf2dfe4547df67f38faf30.jpg"
+        },
+        {
+          "url": "media/cached-image_db283f753e5634feba145c5d7d895525a345f134ae7401bd11424fd0a193c86c.jpg"
+        },
+        {
+          "url": "media/cached-image_56219b075e26854206a97fbec1aff48f193ac0d27dbad28c2da99d6e27ee4e81.jpg"
+        },
+        {
+          "url": "media/cached-image_8dd54ec3846a71418741502ba2629031d2ee152e7155d2e2607bad542a80ec45.jpg"
+        },
+        {
+          "url": "media/cached-image_4b4cc9830fbe891ff901560384dcf2944108957ffaa47fe94557c4b87b6d8cbe.jpg"
+        },
+        {
+          "url": "media/cached-image_6dfd2988d7dedf1ac0523c2153f33526d66f429cfcdeed13ad60e9720fbe671c.jpg"
+        },
+        {
+          "url": "media/cached-image_6885be6a4fc89d929646fd41d1e89ada6c73fd2a652f778b4307b6540bd8c99f.jpg"
+        }
+      ],
+      "type": "水族館",
+      "categories": [
+        "水族館"
+      ],
+      "rating": 4.2,
+      "reviewCount": 70,
+      "priceLevel": null,
+      "address": "サンシャインシティワールドインポートマートビル 屋上, 3 Chome-1-1 Higashiikebukuro, Toshima City, Tokyo 170-8630, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7288022,139.7200341,2a,90y,126.26h,95.54t/data=!3m6!1e1!3m4!1saE7nAuU98PWhsOFhoqPlCw!2e0!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Sunshine Aquarium on the roof of Sunshine City appears in episode 5 as a backdrop for a character scene, its distinctive sky-high tanks adding a dreamlike visual counterpoint to the band's struggles."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQWCOCMaMGGAR94SQgOGe0z0",
+      "name": "Yoyogi Station",
+      "localName": "代々木駅",
+      "coordinates": {
+        "lat": 35.68386,
+        "lng": 139.7021
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8cd20b0e-f8c4-43c1-b16e-d9c4978e050f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8cd20b0e-f8c4-43c1-b16e-d9c4978e050f.webp"
+        },
+        {
+          "url": "media/cached-image_7967f0b22aac60f15d091a9711fd750ebae9e0a8ab5eff784c987ec2e322d17d.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-34 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6838122,139.7021384,3a,90y,307.38h,83.35t/data=!3m7!1e1!3m5!1sAF1QipMKMoSqDD0F6FnUnbimkVaVwCSPIWmFDKI7OeoP!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMKMoSqDD0F6FnUnbimkVaVwCSPIWmFDKI7OeoP%3Dw900-h600-k-no-pi6.651875956410038-ya307.4717856940986-ro0-fo100!7i3584!8i1792?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Yoyogi Station appears in episode 13 during the finale's farewell movements, as characters travel across Tokyo in the emotional aftermath of everything that has happened to MyGO!!!!!."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9ZPE2-NGGARwiJyx0Id61E",
+      "name": "Sunshine City",
+      "localName": "サンシャインシティ",
+      "coordinates": {
+        "lat": 35.72909,
+        "lng": 139.71944
+      },
+      "image": "https://cdn.animepilgrimage.com/places/36c30dc7-268e-44ea-9f69-42c250cad716.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/36c30dc7-268e-44ea-9f69-42c250cad716.webp"
+        },
+        {
+          "url": "media/cached-image_dee0bce855d85dd49a8f4e5e6cedd2f6e4bcb00f9a5afdd0ba665d7f713fe1a9.jpg"
+        },
+        {
+          "url": "media/cached-image_96dac805664937a57e00ba093700ee366e713de7e2ba1be6c116c5bd44baf9d0.jpg"
+        },
+        {
+          "url": "media/cached-image_1c61e65f52fd6660b2c9957e5459b21514f545b49e24eb048bf8b66c328d97f0.jpg"
+        },
+        {
+          "url": "media/cached-image_773977c5bf3bd8ec008b314557f2f1981c84cc10eaa5ecbb029cc2658c6a498d.jpg"
+        },
+        {
+          "url": "media/cached-image_3a0b000dfbe05f5864cf493488b8c17c7979750514decadfb45117ca3cc92042.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-1-2 Higashiikebukuro, Toshima City, Tokyo 170-8630, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7290416,139.7194856,3a,63.4y,125.51h,93.53t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4j5zc5wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAPRy3c8FKMk57qNq304LDEADWuc5EUF4wmqhIJAbvEtWfkfEaDdpp62jCgStJ3lYeKtbhRXMynotuwcGLgkDNbhzJyh0sCJd62ITTAPVgNzw4lcABU9m7pn5XKe-vXcYqqecRsqwXrux%3Dw900-h600-k-no-pi-3.52814114721194-ya179.26255332884526-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Sunshine City shopping complex in east Ikebukuro is a recurring landmark across the series, appearing prominently in episode 2 and anchoring the Higashi-Ikebukuro area that serves as MyGO!!!!!s spiritual home.",
+      "fanTopPick": true
+    }
+  ]
+}

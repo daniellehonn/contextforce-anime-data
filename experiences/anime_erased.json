@@ -1,0 +1,888 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "ERASED",
+  "slug": "erased",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1a7cdeb61d17fa01a62f16989181e26df58871b2ff87409ae717be92673260b2.webp",
+  "image": "media/cached-image_1a7cdeb61d17fa01a62f16989181e26df58871b2ff87409ae717be92673260b2.webp",
+  "banner": null,
+  "primaryLocation": "Hokkaido, Japan",
+  "primaryLocationCoords": {
+    "lat": 39.450034945454554,
+    "lng": 140.77236268181818
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "ERASED"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJF2HZdyYRdV8RGMiSIy4hl_o",
+      "name": "Lawson Tomakomai Ogimachi",
+      "localName": "ローソン 苫小牧弥生町店",
+      "coordinates": {
+        "lat": 42.6286822,
+        "lng": 141.5777347
+      },
+      "image": null,
+      "images": [],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Lawson Tomakomai Yayoicho, 2 Chome-13-5 Yayoicho, Tomakomai, Hokkaido 053-0802, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.6363164,141.598328,3a,90y,192.62h,93.8t/data=!3m7!1e1!3m5!1stSYnLMgLDDmql1CrmThNSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7995960295680646%26panoid%3DtSYnLMgLDDmql1CrmThNSg%26yaw%3D192.6190677549882!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This convenience store in Tomakomai served as a background location in the present-day Hokkaido scenes of Episode 12, reflecting the everyday urban fabric of the city where Satoru grew up."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLQcPwuqAGGARjkqSMgtGWug",
+      "name": "Nishifunabashi Station South Gate Post Office",
+      "localName": "西船橋駅前郵便局",
+      "coordinates": {
+        "lat": 35.7090412,
+        "lng": 139.9588655
+      },
+      "image": "https://cdn.animepilgrimage.com/places/831ad3b1-032e-4ebd-be6a-82da05b7e7f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/831ad3b1-032e-4ebd-be6a-82da05b7e7f1.webp"
+        }
+      ],
+      "type": "Post office",
+      "categories": [
+        "Post office"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nishifunabashi Station Post Office, 4 Chome-23-9 Nishifuna, Funabashi, Chiba 273-0031, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7069522,139.9548859,3a,90y,302.96h,97.65t/data=!3m7!1e1!3m5!1sICnq80FPyHDK9svFZlBoJA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.646540879289901%26panoid%3DICnq80FPyHDK9svFZlBoJA%26yaw%3D302.9579024593535!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Located near Nishifunabashi Station in Funabashi, Chiba, this post office stands in the neighborhood where adult Satoru Fujinuma lives and works as a pizza delivery driver at the start of Episode 1, grounding the present-day storyline in ordinary suburban life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdamjxkSMGGARJTMHewW_ink",
+      "name": "Iidabashi Station",
+      "localName": "飯田橋駅",
+      "coordinates": {
+        "lat": 35.70001,
+        "lng": 139.74356
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b57add2-d3f3-4bf3-9db0-42897b6f48b4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b57add2-d3f3-4bf3-9db0-42897b6f48b4.webp"
+        },
+        {
+          "url": "media/cached-image_fe2c9a93379d8719bbf601038394d97eb41dbb290cabc50e1fb8396fc30037eb.jpg"
+        },
+        {
+          "url": "media/cached-image_e64a87ce733c22a8de9d0d0361e41f4b69ef89ecf6089307c103c3406abc2030.jpg"
+        },
+        {
+          "url": "media/cached-image_653e8ab6209e41e58a29414eedd51ccb52a1d2a22b6b8b4445c1d535d3829591.jpg"
+        },
+        {
+          "url": "media/cached-image_c71d9c0d757f56835aaadbe468166e6c7cc104dfb1c289f0669531e6831de838.jpg"
+        },
+        {
+          "url": "media/cached-image_5df6dc4e2c8441fce9cc88acd086f30cdf07edf300ab5ec44147621479f6607f.jpg"
+        },
+        {
+          "url": "media/cached-image_4c6194ff6f0e604118c7f6c733a86e332cb2a528aca8e96e8e02ee8ce17baed5.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.6,
+      "reviewCount": 167,
+      "priceLevel": null,
+      "address": "４丁目-９-5 飯田橋, 千代田区 東京都 102-0072, Japan",
+      "city": "千代田区",
+      "region": "東京都",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7000308,139.7436388,3a,90y,29.49h,104.31t/data=!3m7!1e1!3m5!1sOSbfS89Nv9DGg3I_l9bATQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.313436186444704%26panoid%3DOSbfS89Nv9DGg3I_l9bATQ%26yaw%3D29.487484135128295!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Iidabashi Station in central Tokyo appears in the present-day opening of Episode 1, used to depict adult Satoru commuting through the city before his Revival ability sends him back to 1988."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF0MR5MSmH2ARj3x0ov0aQ-8",
+      "name": "Futamata Hie Shrine",
+      "localName": "日枝神社",
+      "coordinates": {
+        "lat": 35.6746656,
+        "lng": 139.7399379
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6f6f1c04-76b8-40ff-87c8-58f338ecf642.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6f6f1c04-76b8-40ff-87c8-58f338ecf642.webp"
+        },
+        {
+          "url": "media/cached-image_7e3e624a7093b18b73147e796e6523b24f018e6f8fedc9c2494b0328b489ccbe.jpg"
+        },
+        {
+          "url": "media/cached-image_436d59fb25a4d152a383bbfdf9c52abe0aa67c06132e38f5ccf342c789e15b33.jpg"
+        },
+        {
+          "url": "media/cached-image_8a33c40f1d2c6a812091dd28309ada8b130404678e48d8c5c78c5b771eb75130.jpg"
+        },
+        {
+          "url": "media/cached-image_7223d4b58da1dec594b5de8c9a016b65456eb9044a2528cd3cd3a94952259faf.jpg"
+        },
+        {
+          "url": "media/cached-image_93d307a31e8659bff93d433df1f3c735f5ad2da136a0838700a6869875eb8bc9.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 12783,
+      "priceLevel": null,
+      "address": "Hie Shrine, 2 Chome-10-5 Nagatachō, Chiyoda City, Tokyo 100-0014, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7063182,139.9546344,3a,43.8y,194.5h,93.57t/data=!3m7!1e1!3m5!1sUDNuoV7_grollaDo0qQdFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5663236082871066%26panoid%3DUDNuoV7_grollaDo0qQdFw%26yaw%3D194.50100359403478!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw2qQRZuOGGARWmROEiM2y7E",
+      "name": "Ueno Park",
+      "localName": "上野恩賜公園",
+      "coordinates": {
+        "lat": 35.71683,
+        "lng": 139.77417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e8b17173-095d-49b2-b0de-74675a0f9918.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e8b17173-095d-49b2-b0de-74675a0f9918.webp"
+        },
+        {
+          "url": "media/cached-image_becf070ba6736e2e0a548a75684c87cb569ffdf6f25ce4489b79cff1056528cc.jpg"
+        },
+        {
+          "url": "media/cached-image_9b6752e0ed1f2b23ae0bf59997fe5c0f27d190d65a3752c8aa3b967e0c20ab01.jpg"
+        },
+        {
+          "url": "media/cached-image_826a68c405425aa38285654751eaf721a8b24845a1e4e857795f9a9bb62c5958.jpg"
+        },
+        {
+          "url": "media/cached-image_aa44b8fb4df1b7f963955a7dd67d803596d8b166429809408228dffb58a08168.jpg"
+        },
+        {
+          "url": "media/cached-image_3a850c9fd9bf9201b3fb3e1d27036104d7080d75dfae4fbcaaed3772bf8f7a47.jpg"
+        },
+        {
+          "url": "media/cached-image_ac0f2b7df98c4f62919aeda432b7e6064c118e68675a1be18051a3fdff13567b.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 39686,
+      "priceLevel": null,
+      "address": "Uenokoen, Taito City, Tokyo 110-0007, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7168553,139.7741664,2a,74.7y,290.69h,97.8t/data=!3m6!1e1!3m4!1sU_8wy4U_esnXW6Fl6WRQAA!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Ueno Park in Tokyo frames the present-day confrontation arc of Episode 11, as the area around Ueno becomes the backdrop when Satoru, having woken from his coma, closes in on Yashiro."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJra8Ye9d_GGARpyXo4HUmeVk",
+      "name": "Funabashi Shi Central Library",
+      "localName": "船橋市中央図書館",
+      "coordinates": {
+        "lat": 35.6979614,
+        "lng": 139.9873819
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e83f32f4-d20b-4769-9a52-22e37185c5cf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e83f32f4-d20b-4769-9a52-22e37185c5cf.webp"
+        },
+        {
+          "url": "media/cached-image_32be8b9199a8b7f054c29e40efd3dfcdf0b79c5c7e7f477d7a9a513262412973.jpg"
+        },
+        {
+          "url": "media/cached-image_a4aeaf85bef127b22ed62f2cf980d79607996218c6e88043e70b7d52c7c4fae3.jpg"
+        },
+        {
+          "url": "media/cached-image_1b04c710ad3475ba25aaabffa02759ab6a6290c9d32e9b2615b7fb1ea0aaca6c.jpg"
+        },
+        {
+          "url": "media/cached-image_c6087791ef02d878d7ffee02d69f855c47cea2cfb9993c4993d574ef31a4d2c0.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Funabashishi Central Library, 2F 4 Chome-38-28 Honcho, Funabashi, Chiba 273-0005, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6979506,139.9870991,3a,90y,135.13h,96.67t/data=!3m7!1e1!3m5!1s2_0AScg1OJeRwV0EnzEcag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.672246420695231%26panoid%3D2_0AScg1OJeRwV0EnzEcag%26yaw%3D135.12773635619632!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Funabashi Central Library stands near the neighborhood where adult Satoru lives in Chiba, establishing the quiet, unremarkable surroundings of his present-day life in Episode 1 before the first Revival pulls him back to childhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVXdljsIQdV8RF16FiDGV3Rw",
+      "name": "Tomakomai City Technology Center",
+      "localName": "苫小牧市 科学センター",
+      "coordinates": {
+        "lat": 42.631761399999995,
+        "lng": 141.6048969
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ebc1d3af-c94d-4b85-bf31-b0afdd00fb7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ebc1d3af-c94d-4b85-bf31-b0afdd00fb7d.webp"
+        },
+        {
+          "url": "media/cached-image_aefbdb8e34345c5b14be2b745270d75453343b2866ae0dd8f0414ded4f90a592.jpg"
+        }
+      ],
+      "type": "Science museum",
+      "categories": [
+        "Science museum"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tomakomai City Technology Center, 3 Chome-1-12 Asahimachi, Tomakomai, Hokkaido 053-0018, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tomakomai+City+Technology+Center/@42.6319427,141.6049194,3a,90y,46.54h,89.81t/data=!3m8!1e1!3m6!1sAF1QipM1GB1rQEYbP1OlOqvSRjCSweJ_oeWAT0o9Pe0B!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM1GB1rQEYbP1OlOqvSRjCSweJ_oeWAT0o9Pe0B%3Dw900-h600-k-no-pi0.1884040418173214-ya46.537139692975444-ro0-fo100!7i6080!8i3040!4m9!3m8!1s0x5f7510c28e657755:0x1cdd953188855e17!8m2!3d42.6317614!4d141.6048969!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F121hg4c5?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Technology Center in Tomakomai is one of the most celebrated pilgrimage stops from the series. In Episode 4, young Satoru brings Kayo here on her birthday and, standing beside its famous bear statue, declares to her for the first time that she is his friend.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_erased_7",
+      "name": "Masuda",
+      "localName": "焼魚と食事の店 ますだ",
+      "coordinates": {
+        "lat": 42.63625,
+        "lng": 141.59915
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3e52505b-e70a-4804-959b-b8028e332eb3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3e52505b-e70a-4804-959b-b8028e332eb3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@42.6362121,141.5990573,3a,90y,83.48h,95.06t/data=!3m7!1e1!3m5!1s_YpfaH_7BgHjtCi0mkCFXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.061226829230151%26panoid%3D_YpfaH_7BgHjtCi0mkCFXw%26yaw%3D83.48226831210586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This local Tomakomai eatery appears in Episode 4 as part of the everyday neighborhood scenery surrounding the childhood scenes, reflecting the working-class streets that Satoru and his classmates navigate."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJBXyu890RdV8RxDCNPAIBCi4",
+      "name": "Hyakuenshoppuwattsuwizu Koyobikkuhausuten",
+      "localName": "ワッツウィズ 光洋スーパーアークス店",
+      "coordinates": {
+        "lat": 42.6238349,
+        "lng": 141.5668182
+      },
+      "image": "https://cdn.animepilgrimage.com/places/099a502d-5b6e-4d97-a351-3ff0ac4f7054.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/099a502d-5b6e-4d97-a351-3ff0ac4f7054.webp"
+        },
+        {
+          "url": "media/cached-image_b692cd1cc23522860755ca01c550cd7d2fd89325cefa07d364b31ec8a392f487.jpg"
+        },
+        {
+          "url": "media/cached-image_2af763234a2ec02137bf04c80dd56f44504851074776890ec0b5c63b9d8940f4.jpg"
+        },
+        {
+          "url": "media/cached-image_2180183c877c0ab06b0217f20eaf944c8e04f2bca901ae9fa7fbe01c848f1002.jpg"
+        },
+        {
+          "url": "media/cached-image_7f62a7841b53ec80eaca6e65d5ceccfb03b249803c2bb5ba3ad6ff69a4498979.jpg"
+        },
+        {
+          "url": "media/cached-image_7451d55231887bfa2aac7ec219c47243e98553ccdc2f0a64b642795e32acb72b.jpg"
+        }
+      ],
+      "type": "Dollar store",
+      "categories": [
+        "Dollar store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hyakuenshoppuwattsuwizu Koyobikkuhausuten, スーパーアークス光洋店内 1 Chome-12-12 Koyocho, Tomakomai, Hokkaido 053-0811, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.62467,141.5680356,3a,48.7y,310.01h,92.16t/data=!3m7!1e1!3m5!1sxuB5jj33rnfnvrO6eYUyJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1550771726071076%26panoid%3DxuB5jj33rnfnvrO6eYUyJQ%26yaw%3D310.0112508348967!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This dollar store inside the Koyo supermarket in Tomakomai appears in Episode 4, mirroring the ordinary commercial district that forms the backdrop of young Satoru's 1988 neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ71MzpcMQdV8RWddUO1IYhCw",
+      "name": "Tomakomai Police Station",
+      "localName": "北海道 札幌方面 苫小牧警察署",
+      "coordinates": {
+        "lat": 42.633972199999995,
+        "lng": 141.6038757
+      },
+      "image": "https://cdn.animepilgrimage.com/places/adaeeee3-462e-4de9-b15d-0116c0da5a26.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/adaeeee3-462e-4de9-b15d-0116c0da5a26.webp"
+        },
+        {
+          "url": "media/cached-image_cbd12451fdd386a8157812ee1918dadc4188b16a5ac9d8e0f20f24bbf9bcc4e9.jpg"
+        }
+      ],
+      "type": "Police",
+      "categories": [
+        "Police"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tomakomai Police Station, 3 Chome-5-12 Asahimachi, Tomakomai, Hokkaido 053-0018, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.6341659,141.6037196,3a,73.2y,153.25h,91.49t/data=!3m7!1e1!3m5!1sVkSKCndv1jttiRAVdvJW3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.4855657822719905%26panoid%3DVkSKCndv1jttiRAVdvJW3w%26yaw%3D153.24894557798595!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Tomakomai Police Station appears in Episode 5 as investigation into the child murders intensifies. Its real exterior was used to depict the police presence that looms over the town as Satoru races to save Kayo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_erased_10",
+      "name": "Misono Park",
+      "localName": "美園公園",
+      "coordinates": {
+        "lat": 42.66245,
+        "lng": 141.61458
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e535e58c-fe07-4102-8af8-ac69db29d956.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e535e58c-fe07-4102-8af8-ac69db29d956.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@42.6624425,141.614611,3a,75y,250h,94.12t/data=!3m7!1e1!3m5!1sPtkrQWzUY3Asu0g9OL-u_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.116125644519485%26panoid%3DPtkrQWzUY3Asu0g9OL-u_Q%26yaw%3D249.9950719561875!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Misono Park in northern Tomakomai appears in Episode 5 as an outdoor gathering spot for the children, evoking the cold Hokkaido winter setting where Satoru keeps watch over Kayo after school."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVUZnNV_GGAROsUf5BsfkDg",
+      "name": "Dango no Sakuraya",
+      "localName": "だんごのさくらや",
+      "coordinates": {
+        "lat": 35.697263899999996,
+        "lng": 139.9805563
+      },
+      "image": "https://cdn.animepilgrimage.com/places/32fa6ba3-633a-41eb-be01-ec9e7da70155.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/32fa6ba3-633a-41eb-be01-ec9e7da70155.webp"
+        },
+        {
+          "url": "media/cached-image_a307de99661d35dd8826b8056635ad780a7dac6bed1610968ddbc61dff284bcd.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dango no Sakuraya, 森ビル 1-16 Minamihoncho, Funabashi, Chiba 273-0004, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6974619,139.9804398,3a,75y,3.47h,94.6t/data=!3m7!1e1!3m5!1sBE7fjPRarUqRVeIWQnjI3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.603035294899215%26panoid%3DBE7fjPRarUqRVeIWQnjI3g%26yaw%3D3.4740177260871405!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This traditional Japanese sweets shop in Funabashi, Chiba, appears in Episode 5 as a location in adult Satoru's present-day neighborhood, adding texture to the quiet commercial street near his apartment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzZlvg9R_GGAR41KDX8_c6Ng",
+      "name": "Minatomachi 2-chome 2 Go Park",
+      "localName": "湊町2丁目2号公園",
+      "coordinates": {
+        "lat": 35.6934458,
+        "lng": 139.97972529999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4b477bd2-5330-4b94-9e49-af637829bb91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4b477bd2-5330-4b94-9e49-af637829bb91.webp"
+        },
+        {
+          "url": "media/cached-image_d41853ce4307453f997a552f2d239eb2daf0adb6cbff542b220dcbea719502ed.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 1.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Minatomachi 2-chome 2 Go Park, 2 Chome-14-13 Minatocho, Funabashi, Chiba 273-0011, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6936032,139.9795574,3a,75y,202.02h,90t/data=!3m7!1e1!3m5!1sBxHK9PUnDVoY2IRblBOONA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DBxHK9PUnDVoY2IRblBOONA%26yaw%3D202.02424945287405!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This small neighborhood park in Funabashi appears in Episode 6, representing the modest residential streets of adult Satoru's present-day life in Chiba before and after his Revival episodes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_erased_13",
+      "name": "Tonsuke Kasuga",
+      "localName": "とん助 春日店",
+      "coordinates": {
+        "lat": 42.6487,
+        "lng": 141.59934
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a4386d7c-ae0a-4c92-9d4d-05d50f2dcde2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a4386d7c-ae0a-4c92-9d4d-05d50f2dcde2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@42.6488616,141.5995148,3a,75y,242.44h,111.02t/data=!3m7!1e1!3m5!1sh-Lcw3qXiDDP4dNr5H54Fg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.019602478544414%26panoid%3Dh-Lcw3qXiDDP4dNr5H54Fg%26yaw%3D242.4446724735586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This tonkatsu restaurant in Tomakomai appears in Episode 7 as a local dining spot in the neighborhood surrounding young Satoru's 1988 childhood, evoking the everyday Hokkaido town life the series depicts so warmly."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTRVqidwQdV8R9aAFLg7rvrE",
+      "name": "Seicomart Tomakomai Omachi",
+      "localName": "セイコーマート 苫小牧大町店",
+      "coordinates": {
+        "lat": 42.6319514,
+        "lng": 141.5966233
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fdd1880e-0cdf-4ee5-a265-c1f942890322.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fdd1880e-0cdf-4ee5-a265-c1f942890322.webp"
+        },
+        {
+          "url": "media/cached-image_40036cedd84e7fb554c5c664fbcc4498e5b33c7857ac60f0065a61ddedf865a2.jpg"
+        },
+        {
+          "url": "media/cached-image_fd2fbafcee869cb2b8bc31db161587221f2b19066eace201a0b0c25a87de7db2.jpg"
+        },
+        {
+          "url": "media/cached-image_02e37aef5978f4416f319c0e7e08141624a7c2121fe125ad15a74c96bdefb38d.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.3,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Seicomart Tomakomai Omachi, 1号 2 Chome-1 Omachi, Tomakomai, Hokkaido 053-0024, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.631267,141.5957468,3a,75y,57.21h,96.66t/data=!3m7!1e1!3m5!1slfhnw606aG6qKVTK2-vr2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.661256694875817%26panoid%3Dlfhnw606aG6qKVTK2-vr2w%26yaw%3D57.208262777657396!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This Seicomart convenience store in central Tomakomai appears in Episode 9, its familiar Hokkaido chain signage placing the viewer firmly in the real geography of the city during the tense climax of the 1988 storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_erased_15",
+      "name": "Bauvel",
+      "localName": "ボーベル",
+      "coordinates": {
+        "lat": 42.62593,
+        "lng": 141.56654
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e85a488c-1b3c-4320-ae9f-f60139cd7e27.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e85a488c-1b3c-4320-ae9f-f60139cd7e27.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@42.6259686,141.5662197,3a,40.7y,109.2h,91.97t/data=!3m7!1e1!3m5!1sTbMrt07_2iF_EVcbXc6OFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9710860467186109%26panoid%3DTbMrt07_2iF_EVcbXc6OFw%26yaw%3D109.197040211867!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This location in Tomakomai appears in Episode 10 as part of the background streetscape during the closing arc of the 1988 childhood timeline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN3kqdscQdV8Rxp233lb3vt0",
+      "name": "Hakucho Oji Ice Arena",
+      "localName": "nepiaアイスアリーナ",
+      "coordinates": {
+        "lat": 42.6390464,
+        "lng": 141.6060317
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1009de1-7c02-443d-8aa9-b016f6310951.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1009de1-7c02-443d-8aa9-b016f6310951.webp"
+        },
+        {
+          "url": "media/cached-image_6de3b410b50ea867c28835a5ea95ec99a9538330ccf93502bbe00fa46982bd3d.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hakuchō Ōji Ice Arena, 2 Chome-4-1 Wakakusacho, Tomakomai, Hokkaido 053-0021, Japan",
+      "city": "Tomakomai",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.6399855,141.6072529,3a,48.7y,219.44h,97.55t/data=!3m7!1e1!3m5!1szjK4-y4jCeRzJ-s6pMGTIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.545572041692807%26panoid%3DzjK4-y4jCeRzJ-s6pMGTIw%26yaw%3D219.43802206016852!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Hakucho Oji Ice Arena in Tomakomai is the real-world model for the ice rink scenes in Episode 10, where Satoru and his friends attend an ice hockey game. The rink setting captures the wintry Hokkaido atmosphere central to the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf8xB-pyOGGARizzhlNTcI7s",
+      "name": "The National Museum of Western Art",
+      "localName": "国立西洋美術館",
+      "coordinates": {
+        "lat": 35.7153869,
+        "lng": 139.77581379999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61067f3d-7e92-4954-a256-1643f01ebad8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61067f3d-7e92-4954-a256-1643f01ebad8.webp"
+        },
+        {
+          "url": "media/cached-image_a4db4439ccf63272929b2b78a78f828e89d49a68d798692ebfb163359cfe3813.jpg"
+        },
+        {
+          "url": "media/cached-image_1eedd74fc25ddbd0e7796e5e640209bca30c264da37d5496bbcde04d331644a5.jpg"
+        },
+        {
+          "url": "media/cached-image_a3e0096fb6e466465084f9bed4ab76d5da4f6caead41757e6f392aac838d7fe2.jpg"
+        },
+        {
+          "url": "media/cached-image_4c387a660ad89f4d88f590dd0f9779df26381d3be10bb5e50eae5d6b3b500a92.jpg"
+        },
+        {
+          "url": "media/cached-image_cf3747ccf1f5dd30d6afc453e190f1d92317064a785c329823cb7d4e9462656f.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.5,
+      "reviewCount": 313,
+      "priceLevel": null,
+      "address": "The National Museum of Western Art, 7-7 Uenokoen, Taito City, Tokyo 110-0007, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/The+National+Museum+of+Western+Art/@35.7153869,139.7758138,3a,90y,141.71h,99.75t/data=!3m8!1e1!3m6!1sAF1QipP4XnPFdmHEf4TXrw_180yU1pcY6RQiQ5yaeahK!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipP4XnPFdmHEf4TXrw_180yU1pcY6RQiQ5yaeahK%3Dw900-h600-k-no-pi-9.753015884780154-ya141.70892827012514-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x60188e9cfa41cc7f:0xbb23dcd494e13c8b!8m2!3d35.7153869!4d139.7758138!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F026r6hv?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Located in Ueno, this museum appears in Episode 11 as Satoru, now conscious after 15 years, navigates the Ueno area and closes in on Yashiro, with the landmark building anchoring the Tokyo confrontation arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-_skOMGGARHsHvrDlMnUk",
+      "name": "KADOKAWA CORPORATION",
+      "localName": "㈱KADOKAWA",
+      "coordinates": {
+        "lat": 35.6978467,
+        "lng": 139.7442465
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87eb21e2-99e0-4df2-a085-aa8365d5b387.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87eb21e2-99e0-4df2-a085-aa8365d5b387.webp"
+        },
+        {
+          "url": "media/cached-image_790846363b6a4a01ea6c81558be731ace80454a702d880cbed1384e9a2dd1e8a.jpg"
+        }
+      ],
+      "type": "Book publisher",
+      "categories": [
+        "Book publisher"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "KADOKAWA CORPORATION, 角川第2本社ビル 2 Chome-13-3 Fujimi, Chiyoda City, Tokyo 102-0071, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6978268,139.7444161,3a,90y,152.65h,132.09t/data=!3m7!1e1!3m5!1sQaiR4gwZr_uttw4EKZBHgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-42.08923718340134%26panoid%3DQaiR4gwZr_uttw4EKZBHgg%26yaw%3D152.65490293073321!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3RpcnUUgdV8R9oH25Xxguho",
+      "name": "New Chitose Airport",
+      "localName": "新千歳空港",
+      "coordinates": {
+        "lat": 42.7791317,
+        "lng": 141.6866364
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c712ca4c-ba1d-4876-9e6d-7ebea684025a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c712ca4c-ba1d-4876-9e6d-7ebea684025a.webp"
+        },
+        {
+          "url": "media/cached-image_23a71164656d074d3ee0e51ad5ae79ff17ebe252d7d14880a0ab2560128b5223.jpg"
+        },
+        {
+          "url": "media/cached-image_6545cd9602236598d3f01d260a3bc1448707286a395d0c4f90380e7f64f1e9ef.jpg"
+        },
+        {
+          "url": "media/cached-image_16293fff5473492903e1e124a42bfaaa201933cc8e4386570636ccecee8d01cf.jpg"
+        },
+        {
+          "url": "media/cached-image_c83bd4cbd861f10cc5cdf4d0c32f9bba98e84f9da3347435b6954d7cb313b58b.jpg"
+        },
+        {
+          "url": "media/cached-image_9b2b07386a8cd2dfffb5dba8efc9365f074837ccc6603afde14867b0bc195f24.jpg"
+        }
+      ],
+      "type": "International airport",
+      "categories": [
+        "International airport"
+      ],
+      "rating": 4.3,
+      "reviewCount": 3289,
+      "priceLevel": null,
+      "address": "New Chitose Airport (CTS), Bibi, Chitose, Hokkaido 066-0012, Japan",
+      "city": "Chitose",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@42.7892449,141.6788686,3a,75y,81.1h,93.46t/data=!3m7!1e1!3m5!1sXKuRKXKXFx4aPPYz-vTttg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4581973490276%26panoid%3DXKuRKXKXFx4aPPYz-vTttg%26yaw%3D81.0970661025256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "New Chitose Airport appears in Episode 12 as the gateway to Hokkaido, used in the present-day resolution when events draw characters back to the Tomakomai region for the final confrontation with Yashiro."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ43_MT8vznl8RVq-6L7E6X7k",
+      "name": "Mt. Hakodate Observatory",
+      "localName": "函館山展望台",
+      "coordinates": {
+        "lat": 41.7594596,
+        "lng": 140.7046518
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5315af66-9e33-44ac-8374-113b9cd4521a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5315af66-9e33-44ac-8374-113b9cd4521a.webp"
+        },
+        {
+          "url": "media/cached-image_9c8a1c7e0c9e32c2a9ef451ded2dfe6adcdeefd38bb63820391b336ef34b8cfe.jpg"
+        },
+        {
+          "url": "media/cached-image_c9bfcb3bf61bfcd6115fcdd1dca1678a3d4c4f49c1f6e12319464ea00441557e.jpg"
+        },
+        {
+          "url": "media/cached-image_35dd80b3e5a6f119cc92ac71358db43a7cadc4f27cde8411cd9e07f922a05461.jpg"
+        },
+        {
+          "url": "media/cached-image_f0e3b2b4076f2a82b0e4c28510a2f9947be985da14ff85ef1ab1cde687442155.jpg"
+        },
+        {
+          "url": "media/cached-image_a19f88a650dbc1a9200e5c3726a9a259bf12df26453e38b72c8379df81933042.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.5,
+      "reviewCount": 287,
+      "priceLevel": null,
+      "address": "Mt. Hakodate Observatory, Hakodateyama, Hakodate, Hokkaido 040-0000, Japan",
+      "city": "Hakodate",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@41.7589606,140.704937,3a,90y,47.88h,90.6t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEm7GE2gE!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYF3gpaOvAgnK3aMDdklKOoiIOzSYRP13J-wLJInoocTIPLrOBGrxBFXhzI6TNA667_rmtwTw6JR5OW905QGelJYAX_UmIDi8r1mw_Z_xjHnTUlpSQaTdEN8hW9rO40CnObwmUe%3Dw900-h600-k-no-pi-0.5999999999999943-ya91.41701782226562-ro0-fo100!7i7776!8i3888?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL9H0otV_GGARc54IBFplhtw",
+      "name": "Pizza Hut Funabashi",
+      "localName": "ピザハット 船橋店",
+      "coordinates": {
+        "lat": 35.6971475,
+        "lng": 139.9808431
+      },
+      "image": "https://cdn.animepilgrimage.com/places/91603637-afc9-45bc-88d6-2e6b3a9a4703.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/91603637-afc9-45bc-88d6-2e6b3a9a4703.webp"
+        },
+        {
+          "url": "media/cached-image_7c5d1dd78cc4fac064699157c0429118489695e2ba04e7837a91b94a13cc35a5.jpg"
+        }
+      ],
+      "type": "Pizza delivery",
+      "categories": [
+        "Pizza delivery"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Pizza Hut, 1-2 Minamihoncho, Funabashi, Chiba 273-0004, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6972612,139.9808753,3a,75y,200.09h,95.92t/data=!3m7!1e1!3m5!1sHZfX1Q-FGiGK8uwBMYMMig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.921621239872323%26panoid%3DHZfX1Q-FGiGK8uwBMYMMig%26yaw%3D200.0904700494897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Pizza Hut in Funabashi, Chiba, is the real-life model for the pizza restaurant where adult Satoru works as a delivery driver in Episode 1, the humble job he holds at the start of the story before his mother is killed.",
+      "fanTopPick": true
+    }
+  ]
+}

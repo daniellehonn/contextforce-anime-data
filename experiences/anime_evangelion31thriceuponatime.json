@@ -3,14 +3,14 @@
   "entityType": "anime",
   "entityName": "Evangelion: 3.0+1.0 Thrice Upon a Time",
   "slug": "evangelion-3-1-thrice-upon-a-time",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_62432ae39908b3a7b9bbe85c19b7c79b2348c49871ccbef6fe950b096f0378d9.jpg",
-  "image": "media/cached-image_62432ae39908b3a7b9bbe85c19b7c79b2348c49871ccbef6fe950b096f0378d9.jpg",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3786-IfWKqRp9grgo.jpg",
   "primaryLocation": "Kanagawa, Japan",
   "primaryLocationCoords": {
     "lat": 34.7125735,
-    "lng": 136.2052971
+    "lng": 136.20529709999997
   },
   "metadata": {
     "entityType": "anime",
@@ -26,10 +26,10 @@
         "lat": 35.320644,
         "lng": 139.5505504
       },
-      "image": "media/cached-image_ee11bd87070c86c5cc7b6354b497e72fe11098f5fef08b94b660d3f6b852e924.webp",
+      "image": "https://cdn.animepilgrimage.com/places/e03de8b9-3c4c-402d-b6f2-7617cadc78bb.webp",
       "images": [
         {
-          "url": "media/cached-image_ee11bd87070c86c5cc7b6354b497e72fe11098f5fef08b94b660d3f6b852e924.webp"
+          "url": "https://cdn.animepilgrimage.com/places/e03de8b9-3c4c-402d-b6f2-7617cadc78bb.webp"
         },
         {
           "url": "media/cached-image_e69d31185240bcaf740bf4be2452cb96db82115af13b70c8c50af34fec31009a.jpg"
@@ -49,42 +49,9 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.320644,139.5505504,3a,75y,184h,94.2t/data=!3m7!1e1!3m5!1sA97Wb-GZynvcdGGp00TOcA!2e0!5s20220601T000000!7i16384!8i8192?entry=ttu",
-      "entityContext": "This Kamakura railroad crossing near the Enoden line appears in the film's opening sequence, serving as a backdrop that evokes the quiet, nostalgic atmosphere Anno used to contrast with the apocalyptic events of the story. Fans visit to stand at the crossing and recreate the film's iconic framing."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJKxUevdeAQzURFX25NvutQOA",
-      "name": "Ubeshinkawa Station",
-      "localName": "宇部新川駅",
-      "coordinates": {
-        "lat": 33.9586144,
-        "lng": 131.2427481
-      },
-      "image": "media/cached-image_f83df9c8334a872705288850fe3b812b7bc9ce509de8694371a531803d9ffd68.webp",
-      "images": [
-        {
-          "url": "media/cached-image_f83df9c8334a872705288850fe3b812b7bc9ce509de8694371a531803d9ffd68.webp"
-        },
-        {
-          "url": "media/cached-image_fd3dc7629cfc421e971a57ebf53e1f87064fc1628c6364283453fe65e30e8487.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "1-chōme-7 Uemachi, Ube, Yamaguchi 755-0051, Japan",
-      "city": "Ube",
-      "region": "Yamaguchi",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@33.9586144,131.2427481,3a,90y,293.32h,93.07t/data=!3m8!1e1!3m6!1sAF1QipN3EZOtvNLCa7Se11sPOpygVMgrf8kky7ImtnG8!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN3EZOtvNLCa7Se11sPOpygVMgrf8kky7ImtnG8%3Dw203-h100-k-no-pi-0-ya233.05196-ro0-fo100!7i8192!8i4096?entry=ttu",
-      "entityContext": "The emotional climax of the entire Rebuild series takes place here: Shinji and Mari, now adults, dash hand-in-hand out of this station in director Hideaki Anno's hometown of Ube, Yamaguchi Prefecture, signaling Shinji's final liberation. The platform where the former pilots last appear opposite the KuMoHa 42 train is the most-visited pilgrimage spot from the film.",
-      "fanTopPick": true
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This railroad crossing near Kamakura's Komachi shopping street appears in the restored-world prologue of 3.0+1.0, evoking the everyday calm that Shinji can no longer access after Third Impact."
     },
     {
       "kind": "poi",
@@ -95,10 +62,10 @@
         "lat": 34.8584621,
         "lng": 137.8225928
       },
-      "image": "media/cached-image_96960ea59dfa381f7e14b1be311fb52a039e19354aa6c27909eef60f6e5cbac1.webp",
+      "image": "https://cdn.animepilgrimage.com/places/2fe42e45-d728-428f-880e-75dab7dffc1a.webp",
       "images": [
         {
-          "url": "media/cached-image_96960ea59dfa381f7e14b1be311fb52a039e19354aa6c27909eef60f6e5cbac1.webp"
+          "url": "https://cdn.animepilgrimage.com/places/2fe42e45-d728-428f-880e-75dab7dffc1a.webp"
         },
         {
           "url": "media/cached-image_8f791c68bf682666e95afae2ace5c7a57489b03ec53e5655204acccaacad478a.jpg"
@@ -133,7 +100,46 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@34.8584621,137.8225928,3a,42.4y,10.78h,97.62t/data=!3m8!1e1!3m6!1sAF1QipOHPzK05xVgnZlRpLJoQIX_KkhtWS_wN3EuzH4v!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOHPzK05xVgnZlRpLJoQIX_KkhtWS_wN3EuzH4v%3Dw203-h100-k-no-pi-0-ya68.74834-ro-0-fo100!7i4608!8i2304?entry=ttu",
-      "entityContext": "The historic rail yard at Tenryu Futamata served as the primary visual model for Village-3, the survivor settlement where Shinji slowly recovers alongside Rei and the other refugees. The station's preserved roundhouse and working railroad turntable, both Registered Tangible Cultural Properties, are recreated in detail in the film, and a replica Spear of Longinus is now on display here for pilgrims.",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The turntable and railyard at Tenryuko served as the model for the village railway scenes where Shinji slowly reconnects with survivors including Toji and Kensuke, marking his first steps toward healing after the despair of Q.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKxUevdeAQzURFX25NvutQOA",
+      "name": "Ubeshinkawa Station",
+      "localName": "宇部新川駅",
+      "coordinates": {
+        "lat": 33.9586144,
+        "lng": 131.2427481
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67480a4b-d7be-4fd3-9b38-2bfb9dd091e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67480a4b-d7be-4fd3-9b38-2bfb9dd091e8.webp"
+        },
+        {
+          "url": "media/cached-image_fd3dc7629cfc421e971a57ebf53e1f87064fc1628c6364283453fe65e30e8487.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-7 Uemachi, Ube, Yamaguchi 755-0051, Japan",
+      "city": "Ube",
+      "region": "Yamaguchi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@33.9586144,131.2427481,3a,90y,293.32h,93.07t/data=!3m8!1e1!3m6!1sAF1QipN3EZOtvNLCa7Se11sPOpygVMgrf8kky7ImtnG8!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN3EZOtvNLCa7Se11sPOpygVMgrf8kky7ImtnG8%3Dw203-h100-k-no-pi-0-ya233.05196-ro0-fo100!7i8192!8i4096?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Ubeshinkawa Station in Anno Hideaki's hometown of Ube is recreated almost exactly in the film's climactic final sequence, where a restored Shinji and Rei-Q arrive to begin a new life, giving the ending a deeply personal emotional weight.",
       "fanTopPick": true
     }
   ]

@@ -1,0 +1,906 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Chihayafuru",
+  "slug": "chihayafuru",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_2e6e7d2fe07a04ae4fff79cc2b55e2eb02e66b37d90b308506716f4adb2b2dee.webp",
+  "image": "media/cached-image_2e6e7d2fe07a04ae4fff79cc2b55e2eb02e66b37d90b308506716f4adb2b2dee.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.64062907083334,
+    "lng": 138.2451358125
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Chihayafuru"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJOccsQ4AIAWARvrgPsgAejJc",
+      "name": "Nijojo Furuta",
+      "localName": "二条城 ふる田",
+      "coordinates": {
+        "lat": 35.0122085,
+        "lng": 135.7538722
+      },
+      "image": null,
+      "images": [],
+      "type": "Kaiseki restaurant",
+      "categories": [
+        "Kaiseki restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nijojo Furuta, 371 Furushirocho, Nakagyo Ward, Kyoto, 604-0045, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6701961,139.4690119,3a,75y,72.97h,99.42t/data=!3m7!1e1!3m5!1smCQYBAAHKAIfV6qxZeEYRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.421392207190806%26panoid%3DmCQYBAAHKAIfV6qxZeEYRQ%26yaw%3D72.96529558248652!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwQxXBRUPAWARdiEFwqwbCJU",
+      "name": "Outer Oratory",
+      "localName": "外拝殿",
+      "coordinates": {
+        "lat": 34.9673079,
+        "lng": 135.7726638
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc6caba9-d8dd-4944-a82c-f6f83066a879.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc6caba9-d8dd-4944-a82c-f6f83066a879.webp"
+        },
+        {
+          "url": "media/cached-image_6ab3998cbb850f06a8ff883916ed57bd56e5a37e1e98b30fd1c7904d4c6cb88f.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.4,
+      "reviewCount": 66,
+      "priceLevel": null,
+      "address": "58 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.9673079,135.7726638,3a,90y,123.81h,102.47t/data=!3m6!1e1!3m4!1srlpj6f-WS01YY2t6jJzxwQ!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "This outer worship hall at Fushimi Inari's affiliated shrine stands in for the karuta tournament venue atmosphere in season one, used as a background scene during the regional competition arc in episode 13."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY1C40m6TGGARnLSTxdqPdkc",
+      "name": "Kawaguchi Lilia",
+      "localName": "川口総合文化センター・リリア",
+      "coordinates": {
+        "lat": 35.80093,
+        "lng": 139.71671
+      },
+      "image": "https://cdn.animepilgrimage.com/places/baa267aa-ee21-418f-8db3-09c40ad82641.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/baa267aa-ee21-418f-8db3-09c40ad82641.webp"
+        },
+        {
+          "url": "media/cached-image_e09892ce6f194f938fc1518133c846c91afb9b83054009abf375f085c5ed9ab5.jpg"
+        },
+        {
+          "url": "media/cached-image_4cdbfa7f4a87690f9308792b7f56a7e3e49bea48236973c4a96b1e9049b7d04d.jpg"
+        },
+        {
+          "url": "media/cached-image_103cc53194cdf563041e6408a35e2f9a76210156865cb0499fdecfc20ad99654.jpg"
+        },
+        {
+          "url": "media/cached-image_e3fbb5fe50ab2be5d1461294b5edd952f019a55815c9dafdd3f66d5138046f19.jpg"
+        }
+      ],
+      "type": "コンサート ホール",
+      "categories": [
+        "コンサート ホール"
+      ],
+      "rating": 3.9,
+      "reviewCount": 171,
+      "priceLevel": null,
+      "address": "3 Chome-1-1 Kawaguchi, Saitama 332-0015, Japan",
+      "city": "Kawaguchi",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kawaguchi+Lilia/@35.8011659,139.716852,3a,90y,115.39h,94.44t/data=!3m8!1e1!3m6!1sAF1QipORJUHO2g9vsINP0irMgGhac0FNuWuph6KFxnZo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipORJUHO2g9vsINP0irMgGhac0FNuWuph6KFxnZo%3Dw203-h100-k-no-pi-20-ya66.00001-ro-0-fo100!7i8704!8i4352!4m9!3m8!1s0x6018936ed2b85063:0x47768fdac593b49c!8m2!3d35.80093!4d139.716719!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F12257sfd?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Kawaguchi Lilia served as the model for the concert hall where Chihaya and the Mizusawa karuta club compete in a major tournament in episode 20, a high-stakes match where the team's bond is tested."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKX4sE7HxGGARIyeDoQa3zQg",
+      "name": "Tsutsujigaoka Station",
+      "localName": "つつじヶ丘駅",
+      "coordinates": {
+        "lat": 35.6581118,
+        "lng": 139.5753087
+      },
+      "image": "https://cdn.animepilgrimage.com/places/be4d65fb-b1f8-4455-a217-32c9bcacd4ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/be4d65fb-b1f8-4455-a217-32c9bcacd4ad.webp"
+        },
+        {
+          "url": "media/cached-image_58134833eb7c4ab49a1980a33b0957736a2e7ab69139c22be6942369c92b9890.jpg"
+        },
+        {
+          "url": "media/cached-image_5077a200ab0376b99feb5ebbf9b7acd08b8bd57948f86cebc43e411d918541cd.jpg"
+        },
+        {
+          "url": "media/cached-image_4dcac544b27ce970a820ea6413326258e27b010c6a246917057bc61f9a3500f8.jpg"
+        },
+        {
+          "url": "media/cached-image_055d10ca1eed1ebb7f66543d95a027c710ab1cb9cebc28bb42a6865937dec3f1.jpg"
+        },
+        {
+          "url": "media/cached-image_e5c203f9cf4c09a125c34724d404a3f2b36ccaad912694c3d6ad9576db011d4e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.5,
+      "reviewCount": 264,
+      "priceLevel": null,
+      "address": "Tsutsujigaoka Station, 3 Chome-35-1 Nishitsutsujigaoka, Chofu, Tokyo 182-0006, Japan",
+      "city": "Chofu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6580962,139.5752644,2a,90y,277.1h,92.49t/data=!3m7!1e1!3m5!1s0Stq26Jkqy6cK2A-oJXVmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4861388626569862%26panoid%3D0Stq26Jkqy6cK2A-oJXVmw%26yaw%3D277.1007608898439!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Tsutsujigaoka Station appears in episode 20 as a transit point for Chihaya traveling to the Kawaguchi tournament venue, capturing the quiet determination she feels before a critical match."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_4",
+      "name": "gallery space A",
+      "localName": "gallery space 亞",
+      "coordinates": {
+        "lat": 35.66882,
+        "lng": 139.46933
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2f469cc-6412-4e50-889f-10ed19db75a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2f469cc-6412-4e50-889f-10ed19db75a9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6688965,139.4691367,3a,48.7y,112.21h,89.15t/data=!3m7!1e1!3m5!1smcGY2Otems0ncfkCCMcqWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.85122171204236%26panoid%3DmcGY2Otems0ncfkCCMcqWw%26yaw%3D112.21345228228165!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4dg--W6TGGARpJDLCFeZCCE",
+      "name": "Kawaguchi Station",
+      "localName": "川口駅",
+      "coordinates": {
+        "lat": 35.8019691,
+        "lng": 139.7176452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/706617df-7988-4799-9493-d22495da4860.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/706617df-7988-4799-9493-d22495da4860.webp"
+        },
+        {
+          "url": "media/cached-image_290b06f29ca70f0e360c00af8f11a83ac8a499cc7675f511e088028e1838f28a.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kawaguchi Station, 3 Chome-1-21 Sakaecho, Kawaguchi, Saitama 332-0017, Japan",
+      "city": "Kawaguchi",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8015145,139.7172545,2a,28.4y,269.44h,92.18t/data=!3m7!1e1!3m5!1s4PW5DFLNr0dC_3EKqsf1_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1816279216485412%26panoid%3D4PW5DFLNr0dC_3EKqsf1_Q%26yaw%3D269.44007234882054!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 20,
+      "entityContext": "Kawaguchi Station is the arrival point for the Mizusawa team heading to the tournament held at Kawaguchi Lilia in episode 20, shown as the group walks together rallying their focus before competing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_6",
+      "name": "East Deck Bridge",
+      "localName": "イーストデッキ",
+      "coordinates": {
+        "lat": 35.68695,
+        "lng": 139.70117
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4d9a9c7b-8126-471b-b446-ed2473d62ee9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4d9a9c7b-8126-471b-b446-ed2473d62ee9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6869266,139.7011332,3a,90y,186.77h,100.46t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICmiKiDYQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2ddpxSCOfnWE2PGEKIPucw8s-sI52ZsU7z1njQnMqoOqq7bEiPfiUIJMLkbOvBGFj68oLm6KZQkfpiMDpRSPCIWBT2l_A_rOQPVXe1n0iS8mt_62_A5DdLl4WqM0Sr2iv_aUs%3Dw900-h600-k-no-pi-10.464033038624663-ya80.69247510805126-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_7",
+      "name": "Daisan Elementary School(Bus)",
+      "localName": "第三小学校(バス)",
+      "coordinates": {
+        "lat": 35.66697,
+        "lng": 139.47325
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6669117,139.4729607,3a,75y,80.66h,100.6t/data=!3m7!1e1!3m5!1slpzijibhSgr_meDu2kk4tg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.599658568937997%26panoid%3DlpzijibhSgr_meDu2kk4tg%26yaw%3D80.65923253643791!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 25,
+      "entityContext": "This bus stop near Daisan Elementary School in episode 25 evokes the childhood flashback sequences where young Chihaya, Taichi, and Arata first played karuta together, grounding the story's emotional origin."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2XkGMfvkGGARkSh9ql97Lu0",
+      "name": "Fuchu Station",
+      "localName": "府中駅",
+      "coordinates": {
+        "lat": 35.6722056,
+        "lng": 139.48019589999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72cad786-5974-475a-9bb7-0911554be953.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72cad786-5974-475a-9bb7-0911554be953.webp"
+        },
+        {
+          "url": "media/cached-image_27a69eb77700f25063176dc92d1b3820d487f19017eb5bda3ce283ec2076dfe1.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fuchū Station, Miyamachi, Fuchu, Tokyo, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6723068,139.479429,2a,90y,281.52h,90.03t/data=!3m7!1e1!3m5!1sprRxF7M_iyydwMr8bWPytQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.027454179200816498%26panoid%3DprRxF7M_iyydwMr8bWPytQ%26yaw%3D281.5163997334897!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "Fuchu Station appears in the opening sequence of the anime and is the anchor of Chihaya's daily world, the station she passes through as she dreams of becoming the best karuta player in Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-QqwCfPkGGARHhr8uibNJrs",
+      "name": "Katamachi Culture Center",
+      "localName": "府中市立 片町文化センター",
+      "coordinates": {
+        "lat": 35.670294999999996,
+        "lng": 139.4692737
+      },
+      "image": "https://cdn.animepilgrimage.com/places/922cb14d-32eb-4318-811b-237089590e16.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/922cb14d-32eb-4318-811b-237089590e16.webp"
+        },
+        {
+          "url": "media/cached-image_db038e8759f9428280d272f9032ab37953442e870e8c6ab90e138c35539a56da.jpg"
+        },
+        {
+          "url": "media/cached-image_c03a306d26de9b45c38c2264d5e61ebce91c58a1515d45636da08f58f0a086f1.jpg"
+        },
+        {
+          "url": "media/cached-image_2203891c2f3a2854cc06eb9941c03f0129680c464aca8c62a59046f10b7ec380.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.5,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Katamachi Culture Center, 文化センタ 4階 2 Chome-１７-17 Katamachi, Fuchu, Tokyo 183-0021, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6703653,139.4691853,3a,90y,116.29h,95.06t/data=!3m7!1e1!3m5!1sfqXGONXCnLd91sPntwfcSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.064334516670328%26panoid%3DfqXGONXCnLd91sPntwfcSw%26yaw%3D116.294290114591!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Katamachi Culture Center in Fuchu served as the model for the community hall where the Mizusawa High School karuta club held early practice sessions in episode 3, a key site in the team's formation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi8sTCvPkGGARa-_PmDhr8v8",
+      "name": "Katamachi Daisan Park",
+      "localName": "片町第３公園",
+      "coordinates": {
+        "lat": 35.6705306,
+        "lng": 139.4694319
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93b2b6ed-7c3c-4f9e-8a59-c4094aec55a6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93b2b6ed-7c3c-4f9e-8a59-c4094aec55a6.webp"
+        },
+        {
+          "url": "media/cached-image_5c7cf1af4a88d54887c885b019dfd6b422171a7997568fade8d8b4beaa223123.jpg"
+        },
+        {
+          "url": "media/cached-image_024a0382a51844c5e0ef5feb3f96b1d75e7b61970a4df0f1244287b06b80a871.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Katamachi Daisan Park, 2 Chome-１７-3 Katamachi, Fuchu, Tokyo 183-0021, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6706787,139.4692999,3a,90y,150.77h,95.24t/data=!3m7!1e1!3m5!1s7PbI7PtM6p2SiOJGiNaD1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.240901796735997%26panoid%3D7PbI7PtM6p2SiOJGiNaD1w%26yaw%3D150.77427732050694!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This small Fuchu park near the culture center appears in episode 3 neighborhood scenes, standing in for the local streets around Mizusawa where Chihaya and her friends connect over karuta."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_11",
+      "name": "Leo Maison Bubaigawara",
+      "localName": "レオメゾン分倍河原",
+      "coordinates": {
+        "lat": 35.66856,
+        "lng": 139.47365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44ac20e6-f712-4149-affa-063d0df0dc0c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44ac20e6-f712-4149-affa-063d0df0dc0c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6682557,139.4736543,3a,32.4y,1.15h,93.84t/data=!3m7!1e1!3m5!1s8gVoJhfbjXaeGk7vqLrBsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8403062490549615%26panoid%3D8gVoJhfbjXaeGk7vqLrBsg%26yaw%3D1.153747228864288!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Leo Maison Bubaigawara is the real apartment building modeled as Arata Wataya's residence in the Fuchu area, the place where Chihaya visits him and discovers his deep bond with karuta in episode 3."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQZxc7vLkGGARLfCgdcJ1dJI",
+      "name": "Bubaigawara Station",
+      "localName": "分倍河原駅",
+      "coordinates": {
+        "lat": 35.6685677,
+        "lng": 139.46874
+      },
+      "image": "https://cdn.animepilgrimage.com/places/19fd16ba-4338-4420-aa46-3c484d0f24ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/19fd16ba-4338-4420-aa46-3c484d0f24ba.webp"
+        },
+        {
+          "url": "media/cached-image_6dbdc1dd7bfcdb2b46d5049b4c220f2fe5bd11515b4d8f4384a8398ddc9d4c28.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bubaigawara Station, 2-chōme Katamachi, Fuchu, Tokyo 183-0021, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6686051,139.4688004,2a,75y,267.68h,86.75t/data=!3m7!1e1!3m5!1siM_ZWCGNBtoDF_U0Ymk1CQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.2536020643440793%26panoid%3DiM_ZWCGNBtoDF_U0Ymk1CQ%26yaw%3D267.68012644593256!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Bubaigawara Station is the neighborhood hub for the young karuta trio in episode 4, the station where Chihaya, Taichi, and Arata meet and depart as they pursue their shared dream before Arata moves away.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_13",
+      "name": "McDonald's Bubaigawara Ekimae",
+      "localName": "マクドナルド 分倍河原駅前店",
+      "coordinates": {
+        "lat": 35.66869,
+        "lng": 139.46888
+      },
+      "image": "https://cdn.animepilgrimage.com/places/98b2d6fc-a2a8-4c5a-99ac-a7c501d5ce53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/98b2d6fc-a2a8-4c5a-99ac-a7c501d5ce53.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.668662,139.4688605,3a,90y,66.44h,98.61t/data=!3m7!1e1!3m5!1sTmWmF4GCumD8CcpcmPhsQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.606508397471003%26panoid%3DTmWmF4GCumD8CcpcmPhsQw%26yaw%3D66.43957395020938!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The McDonald's in front of Bubaigawara Station appears in episode 4 as a casual gathering spot for the characters, capturing the bittersweet everyday moments before the childhood friends are separated."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-T3qaNGGARrDV_6xdHZik",
+      "name": "Karuta Memorial Otsuka Hall",
+      "localName": "かるた記念大塚会館",
+      "coordinates": {
+        "lat": 35.722904799999995,
+        "lng": 139.7348466
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8f6b1050-8028-44e5-ac3e-eb78d059837c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8f6b1050-8028-44e5-ac3e-eb78d059837c.webp"
+        },
+        {
+          "url": "media/cached-image_b104ed5b5e28403d5ff4b06a9795e8e02bba8dc537573158b3c2a208701ddced.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 4.1259465,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Karuta Memorial Otsuka Hall, 4 Chome-13-5 Otsuka, Bunkyo City, Tokyo 112-0012, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7233477,139.7353191,3a,43.8y,231.79h,99.81t/data=!3m7!1e1!3m5!1sBwftfO1lOoCPffFyYTMlZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.812004545804982%26panoid%3DBwftfO1lOoCPffFyYTMlZQ%26yaw%3D231.79048247727593!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Karuta Memorial Otsuka Hall in Bunkyo, Tokyo is the real-world venue dedicated to competitive karuta and appears in episode 4 as a tournament site, connecting the anime directly to actual organized karuta culture in Japan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH-hLUV_u-F8RplRPGxvbXjI",
+      "name": "Awara Onsen Station",
+      "localName": "芦原温泉駅",
+      "coordinates": {
+        "lat": 36.2145546,
+        "lng": 136.2350145
+      },
+      "image": "https://cdn.animepilgrimage.com/places/40221b15-aaa3-4b92-9c1b-c5dd68f4279a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/40221b15-aaa3-4b92-9c1b-c5dd68f4279a.webp"
+        },
+        {
+          "url": "media/cached-image_6111a1d885e1377ca7f9c175cf0fa7727cbd0521474545abaeab0125c5845753.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": 23,
+      "priceLevel": null,
+      "address": "Awaraonsen Station, 1-chōme-12 Harumiya, Awara, Fukui 919-0632, Japan",
+      "city": "Awara",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.2151858,136.234757,3a,39.2y,91.63h,92.45t/data=!3m7!1e1!3m5!1sy-uMpFtkVikBPuY3sGfnvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.448930448443562%26panoid%3Dy-uMpFtkVikBPuY3sGfnvw%26yaw%3D91.62652102963946!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Awara Onsen Station is the gateway to Arata's hometown in Fukui, shown in episode 5 when Chihaya travels to visit him, marking the emotional reunion that rekindles her passion for competitive karuta."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chihayafuru_16",
+      "name": "Arauta slope",
+      "localName": "あらた坂（山室の桜並木）",
+      "coordinates": {
+        "lat": 36.21635,
+        "lng": 136.24011
+      },
+      "image": "https://cdn.animepilgrimage.com/places/edbd6376-d020-4f73-9158-3c027a8b09fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/edbd6376-d020-4f73-9158-3c027a8b09fc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.2162842,136.2401175,3a,90y,4.66h,94.66t/data=!3m7!1e1!3m5!1sQyfw9o_DzA7qJxmnb_tPoA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.655523740015099%26panoid%3DQyfw9o_DzA7qJxmnb_tPoA%26yaw%3D4.664125635881206!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Arauta slope with its cherry blossom lined path near Awara is depicted in episode 5 as part of the scenic backdrop of Arata's hometown, evoking the nostalgia and longing tied to his childhood memories of karuta."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvZq6Np6LGGARNOm6R7kEwjM",
+      "name": "㈱はせべや（HASEBEYA Co., Ltd.）",
+      "localName": "はせべや",
+      "coordinates": {
+        "lat": 35.6563095,
+        "lng": 139.7349119
+      },
+      "image": "https://cdn.animepilgrimage.com/places/acc44086-0ebd-4f04-a624-2f18aa1dea07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/acc44086-0ebd-4f04-a624-2f18aa1dea07.webp"
+        }
+      ],
+      "type": "Art gallery",
+      "categories": [
+        "Art gallery"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒106-0045 Tokyo, Minato City, Azabujuban, 1 Chome−7−7 ㈱はせべや（HASEBEYA Co., Ltd.）",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.2114458,136.2342584,3a,90y,152.63h,96.1t/data=!3m7!1e1!3m5!1sAw2NfokiWvu8HsqJ3ohYeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.102686732430911%26panoid%3DAw2NfokiWvu8HsqJ3ohYeQ%26yaw%3D152.62858020214804!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJF1GB2mWz-F8Rjy4z9WffEq4",
+      "name": "Echizen tea house",
+      "localName": "茶苑",
+      "coordinates": {
+        "lat": 35.9353826,
+        "lng": 136.0590669
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6ac2ac05-22b2-4ecf-8fd9-eae294cfaf85.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6ac2ac05-22b2-4ecf-8fd9-eae294cfaf85.webp"
+        },
+        {
+          "url": "media/cached-image_a05d022a8337c5939cbfecb2b75b0db823ccab4b355d96d41ad9eb58cb8f7373.jpg"
+        }
+      ],
+      "type": "Traditional teahouse",
+      "categories": [
+        "Traditional teahouse"
+      ],
+      "rating": null,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "Japan, 〒916-0273 Fukui, Nyu District, Echizen, Ozowara, 120-61 茶苑",
+      "city": "Echizen",
+      "region": "Nyu District, Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.2145905,136.2343091,3a,90y,193.26h,100.03t/data=!3m7!1e1!3m5!1s96Nxjx9VDVjeJH8Vd76FxA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.025881599229251%26panoid%3D96Nxjx9VDVjeJH8Vd76FxA%26yaw%3D193.26285378326625!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Echizen tea house in Fukui appears in episode 11 as a location near Arata's home region, used to evoke the quiet, traditional atmosphere that shaped his singular focus and mastery of karuta."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaSkkH5ILAWARHWIs1p4fOUo",
+      "name": "Oumi Shrine",
+      "localName": "近江神宮",
+      "coordinates": {
+        "lat": 35.0322394,
+        "lng": 135.8519502
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc11a84a-c8b9-4b8f-9f3e-bdce1fed0032.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc11a84a-c8b9-4b8f-9f3e-bdce1fed0032.webp"
+        },
+        {
+          "url": "media/cached-image_7d0c6a84eecf519e9caf34ef44f4cbbcd044558d7ceeffed7b58dbaa1980034d.jpg"
+        },
+        {
+          "url": "media/cached-image_cb4dd9e8657aa07d3d8df6bb3e03b6f0999e984241b6638bbe5a2e16043ccb98.jpg"
+        },
+        {
+          "url": "media/cached-image_c145bfa2d6ae80d33dcdcf19b7458f69e24cf6453511b9ac568344fa901903ec.jpg"
+        },
+        {
+          "url": "media/cached-image_83cf4e6c7b9c795aff82b8121e16222463971d8e473c8fe0c646f3de185a523d.jpg"
+        },
+        {
+          "url": "media/cached-image_34ee01abd8f0340151f8a8a5fef62459e1b4f087b6d2785493ae126513dea279.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 4545,
+      "priceLevel": null,
+      "address": "Omi Shrine, 1-1 Jingucho, Otsu, Shiga 520-0015, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0320164,135.852766,3a,75y,290.51h,104.89t/data=!3m7!1e1!3m5!1sIrJtp1z7vTD1VKgFtBigoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.887509024779376%26panoid%3DIrJtp1z7vTD1VKgFtBigoQ%26yaw%3D290.5145591326123!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Omi Shrine is the sacred heart of Chihayafuru pilgrimage, the real home of the Hyakunin Isshu Karuta Meijin and Queen tournaments that Chihaya dreams of winning, featured in the climactic episode 12 tournament arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN9FYEXgMAWARunEyFYP12-g",
+      "name": "Otsukyo Station",
+      "localName": "大津京駅",
+      "coordinates": {
+        "lat": 35.024377799999996,
+        "lng": 135.85733
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72c7b14a-d619-4111-ba63-e3ad733e79b4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72c7b14a-d619-4111-ba63-e3ad733e79b4.webp"
+        },
+        {
+          "url": "media/cached-image_f6080f9a0947faafe70dc1e8246ffeae03302115ffc6561ae3246abe2b51170b.jpg"
+        },
+        {
+          "url": "media/cached-image_1c65f4c58378bba5b8df9e5861ca077182b29f60631c83dac663551c5801e06a.jpg"
+        },
+        {
+          "url": "media/cached-image_e26695ee8a2c79b742200451469cb63bfa71b4ba9d6a8096474b98b405a5e746.jpg"
+        },
+        {
+          "url": "media/cached-image_8593ea062c3aa0cf0cde2720a50a8f75593248ce1f61d5c2977859a1664733c6.jpg"
+        },
+        {
+          "url": "media/cached-image_e13d2ce7070bfd2908810d8e466618cf660dbf692b6a4dab0af8c4629abb0f04.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 239,
+      "priceLevel": null,
+      "address": "Otsukyo Station, 2-chōme-8 Ōjigaoka, Otsu, Shiga 520-0025, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.024065,135.8572439,3a,75y,285.92h,108.08t/data=!3m7!1e1!3m5!1sGI-2di0RorfARCr5nPKGKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.08022076867603%26panoid%3DGI-2di0RorfARCr5nPKGKA%26yaw%3D285.9242852117683!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Otsukyo Station is the nearest rail stop to Omi Shrine and appears in episode 13 as the arrival point for characters heading to the national karuta championships, building anticipation for the climactic tournament scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpdTxuZoLAWAR02qB6AKcMlE",
+      "name": "Otsu Municipal Shiga Kindergarten",
+      "localName": "大津市立 志賀幼稚園",
+      "coordinates": {
+        "lat": 35.034726899999995,
+        "lng": 135.8577561
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d4d2f39-bf01-42e4-845d-973876792c4e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d4d2f39-bf01-42e4-845d-973876792c4e.webp"
+        }
+      ],
+      "type": "Kindergarten",
+      "categories": [
+        "Kindergarten"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Otsu Municipal Shiga Kindergarten, 1 Chome-8-1 Kangaku, Otsu, Shiga 520-0013, Japan",
+      "city": "Otsu",
+      "region": "Shiga",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0350285,135.8570696,3a,90y,101.63h,95.7t/data=!3m7!1e1!3m5!1sXUZwrdQ2HIHa6R_vWYsF9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.700330840276052%26panoid%3DXUZwrdQ2HIHa6R_vWYsF9Q%26yaw%3D101.62658551080466!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJV12B1BZG-F8RnVBwouZmkZU",
+      "name": "Shirayama Hime Jinja Shrine",
+      "localName": "白山比咩神社",
+      "coordinates": {
+        "lat": 36.4348594,
+        "lng": 136.6364553
+      },
+      "image": "https://cdn.animepilgrimage.com/places/192a2ee7-a955-49f0-93eb-806bcfd5d7d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/192a2ee7-a955-49f0-93eb-806bcfd5d7d9.webp"
+        },
+        {
+          "url": "media/cached-image_134e638de89a5da7d97c2de2b304fd244693a8ab5727ce2c2eb8c0c4ef7121d4.jpg"
+        },
+        {
+          "url": "media/cached-image_ae89173bc8ece7355b7b68df0b861e9c71441854f3356d289c70f8df863949f6.jpg"
+        },
+        {
+          "url": "media/cached-image_8baf3f489ce24c63cb05248838489f5c7ecc86df62cddbc727bfbae6cd23397a.jpg"
+        },
+        {
+          "url": "media/cached-image_8e46a0ec358836468a8769b49d49702527f1b151f738f80dd425b82dbedbc0c5.jpg"
+        },
+        {
+          "url": "media/cached-image_334169cf03a7914ce226810ec1eeb6bd3c2316407a283275891e871f8a8096a1.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 5057,
+      "priceLevel": null,
+      "address": "Shirayama Hime Shrine, 二１０５−１ Sannomiyamachi, Hakusan, Ishikawa 920-2114, Japan",
+      "city": "Hakusan",
+      "region": "Ishikawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4349225,136.635702,3a,75y,95.05h,98.26t/data=!3m8!1e1!3m6!1seECSGotYlE28T3MlMyGyGA!2e0!3e11!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.25887669414496%26panoid%3DeECSGotYlE28T3MlMyGyGA%26yaw%3D95.05231399997673!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 17,
+      "entityContext": "Shirayama Hime Shrine in Hakusan, Ishikawa appears in episode 17 during scenes connecting to Fukui and the Hokuriku region, serving as a majestic backdrop for the spiritual determination characters feel in pursuit of karuta mastery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaenR7BnrGGAR91LdB6bln6Q",
+      "name": "Toda City Sports Center",
+      "localName": "戸田市スポーツセンター",
+      "coordinates": {
+        "lat": 35.821276499999996,
+        "lng": 139.6656966
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e09ddc67-eee3-4ed4-94f8-e92c8346942b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e09ddc67-eee3-4ed4-94f8-e92c8346942b.webp"
+        },
+        {
+          "url": "media/cached-image_49fe773e32b4d3e9df2dad2baa92110b74267eca841370371d2ab3996090e74d.jpg"
+        },
+        {
+          "url": "media/cached-image_34fa077da0cfcefe007f95af9e8a6e443c8b0bcb7343a6b850775e64c53340dc.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 3.9,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toda City Sports Center, 1286 Niizo, Toda, Saitama 335-0021, Japan",
+      "city": "Toda",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.8219261,139.6652941,3a,75y,192.58h,108.92t/data=!3m7!1e1!3m5!1sMsCIWiFAQbPq4O_2t6ALGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.916278242486243%26panoid%3DMsCIWiFAQbPq4O_2t6ALGA%26yaw%3D192.5822716655165!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 18,
+      "entityContext": "Toda City Sports Center is the filming model for a competitive karuta tournament hall in episode 18, where the Mizusawa team faces a grueling team match that tests every member's resolve and skill."
+    }
+  ]
+}

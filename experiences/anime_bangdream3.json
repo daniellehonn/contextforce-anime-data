@@ -1,0 +1,691 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "BanG Dream! 3rd Season",
+  "slug": "bang-dream-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_ba4117b3b8595ab09c5f3938c4cc5ea0c9e92b0a4d6b639a521664d84a92913d.webp",
+  "image": "media/cached-image_ba4117b3b8595ab09c5f3938c4cc5ea0c9e92b0a4d6b639a521664d84a92913d.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.51527869473684,
+    "lng": 139.86189757368422
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "BanG Dream! 3rd Season"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-3_0",
+      "name": "Utopia",
+      "localName": "ゆーとぴあ",
+      "coordinates": {
+        "lat": 35.15108,
+        "lng": 140.30588
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b4cd6cc8-28af-4321-9763-5fe0d461ed7f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b4cd6cc8-28af-4321-9763-5fe0d461ed7f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1510396,140.3060617,3a,90y,294.37h,98.65t/data=!3m7!1e1!3m5!1swh46lsbzTyCzgcv48Am4fw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.65206544014525%26panoid%3Dwh46lsbzTyCzgcv48Am4fw%26yaw%3D294.3682464262565!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The cozy seaside cafe where the girls stop to rest during their Kamogawa day trip in episode 11, sharing a warm moment before the beach walk."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUT2F_fRTPWAR898eRh0UR98",
+      "name": "Kamogawa Fishing Port Maebara port district.(Fissharīna Kamogawa.)",
+      "localName": "鴨川漁港 前原港区",
+      "coordinates": {
+        "lat": 35.0980652,
+        "lng": 140.1054787
+      },
+      "image": null,
+      "images": [],
+      "type": "Boat ramp",
+      "categories": [
+        "Boat ramp"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒296-0002 Chiba, Kamogawa, Maebara, 359-71 Kamogawa Fishing Port Maebara port district.(Fissharīna Kamogawa.), フィッシャリーナ鴨川の横",
+      "city": "Kamogawa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0986979,140.1088388,3a,90y,27.91h,102.6t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDy_c7nfw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hb4Y_NL0zs1PWCae65Vl2d34CBDmJ66hwLAga31G6pn6-80wIstW0vzdD1AreCCGpV2-ORhlJENfbVNrWNUbqynC_TR-1LUtcu4F0eq5be0XD6OCGZUWmGHbmCCQK8YAESW2Dw%3Dw900-h600-k-no-pi-12.601088318626097-ya98.90844040567771-ro0-fo100!7i4608!8i2304?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The quiet fishing harbor the girls walk past during the Kamogawa outing in episode 11, capturing the laid-back coastal atmosphere of their rare off-day."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs-4DZfdTPWAR6feN3KJtjCE",
+      "name": "Kamogawa marine bridge.",
+      "localName": "かもがわマリーンブリッジ",
+      "coordinates": {
+        "lat": 35.0970923,
+        "lng": 140.10527489999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/58c7ce71-1760-49c8-8890-9ccf24b9eecf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/58c7ce71-1760-49c8-8890-9ccf24b9eecf.webp"
+        },
+        {
+          "url": "media/cached-image_3e222bb6acc302b069ced0b47288a2c0cc86797aee550fa289e915edc09298bd.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamogawa marine bridge., 2960-3 Kaisuka, Kamogawa, Chiba 296-0004, Japan",
+      "city": "Kamogawa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0971404,140.1052599,3a,63.4y,123.22h,91.16t/data=!3m7!1e1!3m5!1sdvB1_qlk2xzcMbXucL9Svw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1630115428601755%26panoid%3DdvB1_qlk2xzcMbXucL9Svw%26yaw%3D123.22013903324645!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The pedestrian bridge the band crosses together in episode 11 during their Kamogawa trip, with views over the inlet that fans photograph to recreate the scene.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-3_3",
+      "name": "Nana Hatake Road",
+      "localName": "菜な畑ロード",
+      "coordinates": {
+        "lat": 35.11675,
+        "lng": 140.10086
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6949c99-0bf4-438f-92e2-e4a09ce92c7a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6949c99-0bf4-438f-92e2-e4a09ce92c7a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1166092,140.1008666,3a,90y,270.87h,99.97t/data=!3m7!1e1!3m5!1sufVSUenxF0BaVpvXYfSqDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.968888917152455%26panoid%3DufVSUenxF0BaVpvXYfSqDg%26yaw%3D270.87223164214316!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The scenic rural road lined with canola flowers seen in episode 11, providing a pastoral backdrop as the characters enjoy their getaway from Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmyuu_ohTPWARdOqojjhQvOU",
+      "name": "Awa-Kamogawa Station",
+      "localName": "安房鴨川駅",
+      "coordinates": {
+        "lat": 35.1075625,
+        "lng": 140.1035382
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee96de1c-e181-412d-bbef-bab811083f5e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee96de1c-e181-412d-bbef-bab811083f5e.webp"
+        },
+        {
+          "url": "media/cached-image_f9709c0bdfae7fdd68036d8e5bf1d10ab5a403a3d6e30d62ebb56bd2e34098e6.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Awa-Kamogawa Station, Yokosuka, Kamogawa, Chiba 296-0001, Japan",
+      "city": "Kamogawa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1073205,140.1039126,3a,64.3y,9.71h,97.1t/data=!3m7!1e1!3m5!1sMKUm8VaYcw1GmpF9YENmaQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.102712781683337%26panoid%3DMKUm8VaYcw1GmpF9YENmaQ%26yaw%3D9.710943587874674!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The JR station where the band arrives and departs during the Kamogawa excursion in episode 11, the gateway to their seaside adventure."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz7RYovhTPWARx0Opq-yA8b0",
+      "name": "Sunrise Coast Kamogawa",
+      "localName": "サンライズコースト鴨川",
+      "coordinates": {
+        "lat": 35.1040923,
+        "lng": 140.10569479999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/486c242d-50c8-4fe6-8a30-f1d43b693398.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/486c242d-50c8-4fe6-8a30-f1d43b693398.webp"
+        },
+        {
+          "url": "media/cached-image_090e9c9379f1cc04fa047d1e12c0e6d27dcdeaf3bd0a1f97f345cfc46b9d118b.jpg"
+        }
+      ],
+      "type": "Condominium complex",
+      "categories": [
+        "Condominium complex"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sunrise Coast Kamogawa, 356-3 Maebara, Kamogawa, Chiba 296-0002, Japan",
+      "city": "Kamogawa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1041267,140.1060484,3a,90y,300.48h,94.56t/data=!3m7!1e1!3m5!1s1WrcmjrplYQvMWKrhPODaQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.556493051308635%26panoid%3D1WrcmjrplYQvMWKrhPODaQ%26yaw%3D300.4843145731299!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The beachside residential area featured in episode 11 where the girls walk along the coast, enjoying the ocean breeze in a rare moment of carefree downtime."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-5SxolJjGGAR0bL-y4PJvjk",
+      "name": "Tokyo Gate Bridge",
+      "localName": "東京ゲートブリッジ",
+      "coordinates": {
+        "lat": 35.612215299999995,
+        "lng": 139.8288838
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3fcaf39f-dbe5-44a2-8add-4a16409694f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3fcaf39f-dbe5-44a2-8add-4a16409694f6.webp"
+        },
+        {
+          "url": "media/cached-image_cc3157650d70dc3916b6996d30868e17432b155a88440131a7a0f2830cdf179f.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒136-0083 Tokyo, Koto City, Wakasu, 3 Chome−1 地内 から Tokyo Gate Bridge, 同区 海の森３丁目地先まで",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.614015,139.8310808,3a,90y,212.38h,99.37t/data=!3m7!1e1!3m5!1sY6XoGYohq37t2Flni5COUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.367709375426543%26panoid%3DY6XoGYohq37t2Flni5COUg%26yaw%3D212.378776269015!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The distinctive double-tower bridge glimpsed in episode 10 as a backdrop during a band outing, its dramatic silhouette making it an instantly recognizable Tokyo landmark."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ48ec7YuNGGARnsSNltrEqe0",
+      "name": "Tachinomi Banpaiya Otsuka Minamiguchi",
+      "localName": "立呑み晩杯屋 大塚南口",
+      "coordinates": {
+        "lat": 35.730185,
+        "lng": 139.72841599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d5092cfd-feeb-41b1-951f-a435ad69b973.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d5092cfd-feeb-41b1-951f-a435ad69b973.webp"
+        }
+      ],
+      "type": "Bar",
+      "categories": [
+        "Bar"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bampire Otsuka Minamiguchi, ボヌール千石 1F 3 Chome-50-7 Minamiotsuka, Toshima City, Tokyo 170-0005, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7301659,139.728524,3a,90y,234.01h,97.49t/data=!3m7!1e1!3m5!1slcz7dMACS01dqbqKXggbsw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.486511008398125%26panoid%3Dlcz7dMACS01dqbqKXggbsw%26yaw%3D234.00632020924067!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The standing-bar near Otsuka Station seen in episode 10, reflecting the everyday Toshima neighborhood atmosphere the characters inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-3_8",
+      "name": "Nii",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.72968,
+        "lng": 139.72773
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df4772d6-7172-4f45-8359-47f9b1153eb9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df4772d6-7172-4f45-8359-47f9b1153eb9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.729672,139.727701,3a,90y,54.39h,98.69t/data=!3m7!1e1!3m5!1sJ5OpfYZ7JXgixIZWf66tgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.689257801952138%26panoid%3DJ5OpfYZ7JXgixIZWf66tgw%26yaw%3D54.391659790741485!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-3_9",
+      "name": "Kosodate Jizoson",
+      "localName": "子育地蔵尊",
+      "coordinates": {
+        "lat": 35.70836,
+        "lng": 139.73154
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d061be72-d2bb-487c-91bd-22ed1698e90e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d061be72-d2bb-487c-91bd-22ed1698e90e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7083476,139.7316209,3a,90y,306.41h,108.24t/data=!3m7!1e1!3m5!1s7GoTdORAyNtunnaVV5jfmQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.242175915162576%26panoid%3D7GoTdORAyNtunnaVV5jfmQ%26yaw%3D306.41103745929234!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The small roadside Jizo shrine in Bunkyo that appears in episode 8 as the characters pass through the neighborhood streets near their practice space."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJB_bAMBWNGGARh2hThRRYc-Y",
+      "name": "Komatsuka Bridge",
+      "localName": "駒塚橋",
+      "coordinates": {
+        "lat": 35.7119499,
+        "lng": 139.72326959999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/746085f7-1362-4789-bf4f-590bbc8e958b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/746085f7-1362-4789-bf4f-590bbc8e958b.webp"
+        },
+        {
+          "url": "media/cached-image_baf61abbea88d8625cd36fc6f88f2e0e0e8e1c1bb0b2326df3ce8d2c8a77c44e.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Komatsuka Bridge, 40, Bunkyo City, Tokyo 112-0014, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7120853,139.7232863,3a,90y,21.38h,90.29t/data=!3m7!1e1!3m5!1s4rjpym5-41LhzQGKpTqSLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.2872447201350212%26panoid%3D4rjpym5-41LhzQGKpTqSLA%26yaw%3D21.37608739999588!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The bridge over the Kanda River near Bunkyo that the characters cross in episode 5, part of the familiar walking route through their home neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN_MqAGO7JhURPyO1nzsxvIQ",
+      "name": "7-Eleven Bunkyo Sekiguchi 1-chome Store",
+      "localName": "セブン-イレブン 文京関口１丁目店",
+      "coordinates": {
+        "lat": 35.710446499999996,
+        "lng": 139.7243833
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1e490e23-880d-4ad0-a3bf-734a72e902d5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1e490e23-880d-4ad0-a3bf-734a72e902d5.webp"
+        },
+        {
+          "url": "media/cached-image_95495aaade7deda4531ceb4077a8107d611e4c74ec6262538b544fe4738eb9aa.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, ナカニワビル 1 Chome-29-3 Sekiguchi, Bunkyo City, Tokyo 112-0014, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7104256,139.7242769,3a,90y,102.64h,105.36t/data=!3m7!1e1!3m5!1skE9vF3WQz0Tpj-KTugYGCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.36109742266882%26panoid%3DkE9vF3WQz0Tpj-KTugYGCA%26yaw%3D102.6424204812365!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The convenience store near Edogawabashi that serves as a casual hangout spot in episode 3, where band members stop in during their slice-of-life moments in Bunkyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bang-dream-3_12",
+      "name": "Hidakaya Edogawabashi Store",
+      "localName": "日高屋 江戸川橋店",
+      "coordinates": {
+        "lat": 35.70919,
+        "lng": 139.73164
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8920a10d-e94c-4316-9548-5b84652c32b1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8920a10d-e94c-4316-9548-5b84652c32b1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7091169,139.7314637,3a,90y,36.26h,102.99t/data=!3m7!1e1!3m5!1sjjQDlvggzdXfOP-Z4g8cWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.987247213011429%26panoid%3DjjQDlvggzdXfOP-Z4g8cWA%26yaw%3D36.260100513335864!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Chinese fast-food chain restaurant near Edogawabashi station seen in episode 3, part of the working-class neighborhood backdrop of the characters' daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxWxlRXWNGGARP-PPzpv37I4",
+      "name": "Toshima Ward Minamiotsuka Park",
+      "localName": "豊島区立南大塚公園",
+      "coordinates": {
+        "lat": 35.727680899999996,
+        "lng": 139.7312408
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8e8f67a-2245-42de-a84d-41199d8b7e10.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8e8f67a-2245-42de-a84d-41199d8b7e10.webp"
+        },
+        {
+          "url": "media/cached-image_92fe1a28a5fd02d726d1be79a804c0ad9391bafefb5cbaba84b9a0a584fab4b5.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 129,
+      "priceLevel": null,
+      "address": "Minami-Otsuka Park, 2 Chome-27-1 Minamiotsuka, Toshima City, Tokyo 170-0005, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7276572,139.7310922,3a,73.2y,12.24h,97.96t/data=!3m7!1e1!3m5!1sDYvHO7iBM6JBWic7QhDx5w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.963758968323461%26panoid%3DDYvHO7iBM6JBWic7QhDx5w%26yaw%3D12.238685630084637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The small park in Otsuka where band members gather in episode 3, a quiet spot for informal conversations near the Toshima venues they frequent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxTAYVt3gGGARc6fo_RMKO5I",
+      "name": "LIQUIDROOM",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6491125,
+        "lng": 139.71056389999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dbe8a274-cad2-49ea-bd80-1adda0337c2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dbe8a274-cad2-49ea-bd80-1adda0337c2f.webp"
+        },
+        {
+          "url": "media/cached-image_5c312909bc2534e18f462d4da3c6444fa17e4042b8e661ff86ab02909b4134e1.jpg"
+        }
+      ],
+      "type": "Live music venue",
+      "categories": [
+        "Live music venue"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "LIQUIDROOM, 3 Chome-16-6 Higashi, Shibuya, Tokyo 150-0011, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6493487,139.7108351,3a,90y,193.21h,100.4t/data=!3m7!1e1!3m5!1suvNF_XlrOnxTvmZSItlnMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.396674921457503%26panoid%3DuvNF_XlrOnxTvmZSItlnMQ%26yaw%3D193.20545531457316!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The iconic Ebisu live venue that appears in episode 3 as a concert destination, representing the aspirational live-house circuit the bands aim to conquer on their way to Budokan.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI8IPbQGNGGARDf2bgi4fOlM",
+      "name": "Edogawa Park",
+      "localName": "文京区立江戸川公園",
+      "coordinates": {
+        "lat": 35.7104612,
+        "lng": 139.7282295
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4360b9cb-e1b4-4b0b-bb50-811d39621315.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4360b9cb-e1b4-4b0b-bb50-811d39621315.webp"
+        },
+        {
+          "url": "media/cached-image_eec08a5e36f989b43de5ae8ee8764acaab3245eae481c4d4245813c06d8cf1a9.jpg"
+        },
+        {
+          "url": "media/cached-image_d1005367e36dc55c8fdd42beaf0ffac80f68d2cd4608b0f1b76bba134be98389.jpg"
+        },
+        {
+          "url": "media/cached-image_92b9c89052b96bd66ebd8fd9e9af8a5fadd3491972ddb47b0207154231a0bca4.jpg"
+        },
+        {
+          "url": "media/cached-image_bdda74782a043ae6b03d3ac6fea75e320a05b170f2c0ac40909d790cbf0669fa.jpg"
+        },
+        {
+          "url": "media/cached-image_74837a5b26478a182cb4c722c1ed201dded28c6af3f1fae419b2031caacac6ee.jpg"
+        }
+      ],
+      "type": "Playground",
+      "categories": [
+        "Playground"
+      ],
+      "rating": 4.1,
+      "reviewCount": 22,
+      "priceLevel": null,
+      "address": "Edogawa Park, 2 Chome-1 Sekiguchi, Bunkyo City, Tokyo 112-8555, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7104178,139.7263923,3a,75y,2.29h,92.87t/data=!3m8!1e1!3m6!1sAF1QipOFfpGE0GgL-zwtKaKbC9q5gNW3SnFcx00UADpK!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOFfpGE0GgL-zwtKaKbC9q5gNW3SnFcx00UADpK%3Dw900-h600-k-no-pi-2.8665698915463196-ya73.31029089526919-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The riverside park along the Kanda River in Bunkyo that features prominently in episode 3 as a gathering spot, with the tree-lined path fans recognize from character interactions.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJO2IMOB2NGGAROi1f18QKJLI",
+      "name": "Waseda Station",
+      "localName": "早稲田駅",
+      "coordinates": {
+        "lat": 35.7058216,
+        "lng": 139.7212004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c45fa19f-b5b9-492c-9ae7-181b8a710137.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c45fa19f-b5b9-492c-9ae7-181b8a710137.webp"
+        },
+        {
+          "url": "media/cached-image_ac61d1c19cda76bf3fb6e482210cf9dcf33e62579a46e09006a04e1fd66c7ef8.jpg"
+        },
+        {
+          "url": "media/cached-image_f531fb4bb38f9e3f5c21daa559d25a6f71afb265a41a559605f0b9d4358f8f85.jpg"
+        },
+        {
+          "url": "media/cached-image_76190d9499cd9387f5298fe9da0608013ae2d23c153ff5474496a52f1a94100f.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.6,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Waseda Station, Wasedamachi, Shinjuku City, Tokyo 162-0042, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7117593,139.7194242,3a,90y,268.61h,97.81t/data=!3m7!1e1!3m5!1scXRSl8bwyQGJ_S4VvijGsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.814065896454252%26panoid%3DcXRSl8bwyQGJ_S4VvijGsQ%26yaw%3D268.6093970528156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Tokyo Metro Tozai Line station in Shinjuku that appears in episode 2 as the characters commute through the neighborhood near their practice venue."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6zlvvBWNGGAR3n1p_FuKSkc",
+      "name": "Near the City Terrace Mejiro",
+      "localName": "シティテラス目白付近",
+      "coordinates": {
+        "lat": 35.71749,
+        "lng": 139.71297
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1261cd3d-fe5b-4c6f-972a-e7391ad57abb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1261cd3d-fe5b-4c6f-972a-e7391ad57abb.webp"
+        },
+        {
+          "url": "media/cached-image_9f1d90fae351d508a5b81cebe7fe077c1b8db3236ac120902cbeaa0a03087e4f.jpg"
+        }
+      ],
+      "type": "建造物",
+      "categories": [
+        "建造物"
+      ],
+      "rating": 3.3,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "2-chōme-16 Takada, Toshima City, Tokyo 171-0033, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7174788,139.713035,3a,90y,201.37h,96.76t/data=!3m7!1e1!3m5!1sqDz7jpI4r5NWf97Ux1JAnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.763411917225426%26panoid%3DqDz7jpI4r5NWf97Ux1JAnA%26yaw%3D201.36966908330203!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The residential street near Mejiro seen in episode 3 as a background location during character walks through the Toshima neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE_QrgGuMGGARiHFlyXFcWyE",
+      "name": "Nippon Budokan",
+      "localName": "日本武道館",
+      "coordinates": {
+        "lat": 35.69306,
+        "lng": 139.74926
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6376d4a-a929-46d4-a5f8-fdf9242b5e9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6376d4a-a929-46d4-a5f8-fdf9242b5e9f.webp"
+        },
+        {
+          "url": "media/cached-image_545c9e64a66f4be8b3dce49714bd17da49e71a0924435f8de6c081d9ab3b1556.jpg"
+        }
+      ],
+      "type": "表演場地",
+      "categories": [
+        "表演場地"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2-3 Kitanomarukoen, Chiyoda City, Tokyo 102-8321, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6930842,139.7492335,3a,90y,61.44h,107.42t/data=!3m7!1e1!3m5!1sqdHZCiuGLFUe433zTJOD3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.42101687919373%26panoid%3DqdHZCiuGLFUe433zTJOD3Q%26yaw%3D61.44409339177349!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The legendary concert hall that is the ultimate dream destination for Poppin'Party, finally reached in the climactic episode 12 finale where their long journey toward the Budokan stage is fulfilled.",
+      "fanTopPick": true
+    }
+  ]
+}

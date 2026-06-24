@@ -1,0 +1,2016 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "YuruYuri San☆Hai!",
+  "slug": "yuruyuri-3",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1f350918ef168368b8be164555bcc947d1dad8b41fbd0bdeffae6a74a16f88d0.webp",
+  "image": "media/cached-image_1f350918ef168368b8be164555bcc947d1dad8b41fbd0bdeffae6a74a16f88d0.webp",
+  "banner": null,
+  "primaryLocation": "Toyama, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.84109108620689,
+    "lng": 137.26815218965518
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "YuruYuri San☆Hai!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJSUorWJyQ918RfhyyiWuXkCg",
+      "name": "7-Eleven+Heart-in JR Toyama Station",
+      "localName": "セブン-イレブン ハートインＪＲ富山駅店",
+      "coordinates": {
+        "lat": 36.7015099,
+        "lng": 137.2127245
+      },
+      "image": "https://cdn.animepilgrimage.com/places/701d4282-d654-4304-8aa5-07b1924a254f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/701d4282-d654-4304-8aa5-07b1924a254f.webp"
+        },
+        {
+          "url": "media/cached-image_ba943fb7a219e81a4cfafc4cb7f1b530f3272580ac8611d34f71476ca228d95b.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven+Heart-in JR Toyama Station, 1-230 Meirincho, Toyama, 930-0001, Japan",
+      "city": "Toyama",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7014667,137.2126154,3a,90y,105.49h,97.58t/data=!3m7!1e1!3m5!1sMS6Dvmr694iHcombBh7nXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.5794672471590445%26panoid%3DMS6Dvmr694iHcombBh7nXA%26yaw%3D105.49446389079891!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This convenience store inside JR Toyama Station appears in episode 2 alongside the station exterior, part of the girls' train travel sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo1Lq9rSC918R86rEtYJwlFM",
+      "name": "Takaoka Castle Ruins of the main entrance",
+      "localName": "高岡城跡",
+      "coordinates": {
+        "lat": 36.7493267,
+        "lng": 137.0207843
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ea58ad9a-c20e-404f-a784-f3c2772582a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ea58ad9a-c20e-404f-a784-f3c2772582a2.webp"
+        },
+        {
+          "url": "media/cached-image_597b2a8f40eadf0de981184517f9c23ba48cb40e65fdb076513cb76a904699b4.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takaoka Castle Ruins, 1-9 Kojo, Takaoka, Toyama 933-0044, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7460704,137.020067,3a,57.9y,37.28h,96.89t/data=!3m7!1e1!3m5!1s3oVX6CAUzWj-Z2VQt0k7KA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.889257593063135%26panoid%3D3oVX6CAUzWj-Z2VQt0k7KA%26yaw%3D37.275114801402026!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Takaoka Castle park is the centrepiece of episode 11, where the girls spend a leisurely day exploring the historic ruins and strolling among the moat and greenery together.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_2",
+      "name": "Odake Yabu Plaza",
+      "localName": "小竹藪広場",
+      "coordinates": {
+        "lat": 36.75013,
+        "lng": 137.0234
+      },
+      "image": "https://cdn.animepilgrimage.com/places/473916d8-c6ea-4500-86f0-dd00e6226f06.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/473916d8-c6ea-4500-86f0-dd00e6226f06.webp"
+        },
+        {
+          "url": "media/cached-image_7b73d9cfcc9a6071c2c6bb1678d3f0226d08edf58a5d26b40569f8df2bd679a4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7501941,137.0236399,3a,90y,220.72h,91.92t/data=!3m7!1e1!3m5!1sZHCKOJErx6KfNKELERjQEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9152855713214052%26panoid%3DZHCKOJErx6KfNKELERjQEg%26yaw%3D220.7244034782404!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_3",
+      "name": "Odake Yabu Plaza",
+      "localName": "小竹藪広場",
+      "coordinates": {
+        "lat": 36.75075,
+        "lng": 137.02272
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c71a3061-6858-4c22-b9a0-98aa4debd1a7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c71a3061-6858-4c22-b9a0-98aa4debd1a7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7507414,137.0226822,3a,90y,358.58h,101.2t/data=!3m7!1e1!3m5!1s3bwKuaqfFwd64yNhANdT4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.2041938493917%26panoid%3D3bwKuaqfFwd64yNhANdT4Q%26yaw%3D358.5788514667906!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_4",
+      "name": "Toshinaga Maeda on horseback",
+      "localName": "前田利長騎馬像",
+      "coordinates": {
+        "lat": 36.75005,
+        "lng": 137.02075
+      },
+      "image": "https://cdn.animepilgrimage.com/places/054d4f56-0b92-4666-8c6c-f9a49bad02cd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/054d4f56-0b92-4666-8c6c-f9a49bad02cd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7500757,137.0208344,3a,90y,209.33h,93.55t/data=!3m7!1e1!3m5!1sEf74LdmBbU6ZsN3upKTuYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5549113677340642%26panoid%3DEf74LdmBbU6ZsN3upKTuYw%26yaw%3D209.33249214929626!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_5",
+      "name": "middle of an island",
+      "localName": "中の島",
+      "coordinates": {
+        "lat": 36.75018,
+        "lng": 137.02211
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c560ef83-0cb5-4aba-a578-8f31d80784b8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c560ef83-0cb5-4aba-a578-8f31d80784b8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7502099,137.0221635,3a,75y,228.78h,95.81t/data=!3m7!1e1!3m5!1sc6apCW6TA1J8m_gRXf8_CQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.809373119302421%26panoid%3Dc6apCW6TA1J8m_gRXf8_CQ%26yaw%3D228.77795998360534!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The island path inside Takaoka Castle park appears in episode 12, where the characters cross the bridge and walk through this serene spot in a reflective end-of-season scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvaHXX4JCDF8R-oSi_xmsDiw",
+      "name": "Choyo Bridge",
+      "localName": "朝陽橋",
+      "coordinates": {
+        "lat": 43.976461099999995,
+        "lng": 141.6947617
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a41b7716-a477-42c6-a3fc-7d4e328d8b91.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a41b7716-a477-42c6-a3fc-7d4e328d8b91.webp"
+        },
+        {
+          "url": "media/cached-image_6ac62b5ab768642311efc372a217a85b37f476af187c31ff0a4b0559b24f89c3.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Choyo Bridge, Toyohira, Obira, Rumoi District, Hokkaido 078-3303, Japan",
+      "city": "Obira",
+      "region": "Rumoi District, Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7494022,137.0222505,3a,90y,31.9h,92.91t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICkuMCUNQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Hb-CbGzjzCyNx3GRGul1YMhtUKlOT04Wfd38a6ZVtqV6uamK55kUyQtvqhcnv3Dbpe1x_jcfM-9aZzcqub6qNffMO80eNLLAWYIqe3X34NeXd1Tl5zD_cPbs6Aea3Mltejz1Gug%3Dw900-h600-k-no-pi-2.905263157894737-ya159.25722438533586-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_7",
+      "name": "Leopalace Big Heart",
+      "localName": "レオパレスBigハート",
+      "coordinates": {
+        "lat": 36.73852,
+        "lng": 136.99657
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4fdc4d80-afbf-4f20-a578-93e84ec8b041.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4fdc4d80-afbf-4f20-a578-93e84ec8b041.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7384533,136.996593,3a,49.2y,6.66h,88.03t/data=!3m7!1e1!3m5!1shDccuFQcH_uFHk8o26ip-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9671319602644104%26panoid%3DhDccuFQcH_uFHk8o26ip-g%26yaw%3D6.65912792338266!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Leopalace Big Heart building appears in episode 9 as a distinctive local landmark in the Kizu district, visible during the characters' neighbourhood walk."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_8",
+      "name": "Game Spot 207",
+      "localName": "ゲームスポット２０７",
+      "coordinates": {
+        "lat": 36.73235,
+        "lng": 137.00245
+      },
+      "image": "https://cdn.animepilgrimage.com/places/030ce454-0c27-462e-83a9-739b1a31ba7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/030ce454-0c27-462e-83a9-739b1a31ba7c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7324692,137.0028057,3a,90y,266.82h,102.99t/data=!3m7!1e1!3m5!1s39T8s5rEWJGUAwjd_Mn8ww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.988205962273526%26panoid%3D39T8s5rEWJGUAwjd_Mn8ww%26yaw%3D266.82307382882107!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Game Spot 207 is the arcade the characters visit in episode 8, where Kyoko and the others compete on games in a typically chaotic and funny outing scene.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_9",
+      "name": "Zashiki Cuisine Miyaichi",
+      "localName": "座敷料理 宮一",
+      "coordinates": {
+        "lat": 36.73918,
+        "lng": 137.00273
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8587e31b-f4f7-4081-bd82-c30d098d7e6b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8587e31b-f4f7-4081-bd82-c30d098d7e6b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7391788,137.0027005,3a,49.6y,36.87h,91.54t/data=!3m7!1e1!3m5!1scDQEiBaoWOy1cjD1VSbB3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5361691462624947%26panoid%3DcDQEiBaoWOy1cjD1VSbB3w%26yaw%3D36.86846845225019!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This traditional zashiki restaurant appears in episode 8 during the characters' local dining scene, giving a glimpse of Takaoka's restaurant culture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_10",
+      "name": "Beniran Ramen",
+      "localName": "らーめん 紅蘭",
+      "coordinates": {
+        "lat": 36.73911,
+        "lng": 137.00266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8a923d6c-cbdb-437b-b3f9-bf02b7725e7c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8a923d6c-cbdb-437b-b3f9-bf02b7725e7c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7390988,137.0025677,3a,63.4y,172.96h,93.39t/data=!3m7!1e1!3m5!1sLjL3EwobNVNEaY7Wjkdc-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.392576097540015%26panoid%3DLjL3EwobNVNEaY7Wjkdc-A%26yaw%3D172.96099249472158!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Beni-ran ramen shop appears in episode 8 as another local eatery in the Kizu area, seen in background shots during the characters' casual outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo-M5NZSC918RZmkzMc3LrN4",
+      "name": "Valor Takaoka Kizu Store",
+      "localName": "スーパーマーケットバロー高岡木津店",
+      "coordinates": {
+        "lat": 36.739688799999996,
+        "lng": 137.0002142
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8916ab1a-0ab8-4ed5-a753-6d8757b93228.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8916ab1a-0ab8-4ed5-a753-6d8757b93228.webp"
+        },
+        {
+          "url": "media/cached-image_e9d9a9d866d8f0e661ed3c8cd08f4b5190fa18edda55e051aeed2ef0a52908c4.jpg"
+        },
+        {
+          "url": "media/cached-image_f67ab4271d2e2b5dc559eb88f6639447eb05ecba86e48ff76d021681b7b146fa.jpg"
+        },
+        {
+          "url": "media/cached-image_6e3ac7fb602115d4dce4da2f3f569c3f76d3e7af17b677fb6a38d0a96d223bdc.jpg"
+        },
+        {
+          "url": "media/cached-image_8dcc8dbfe623fcbe08cc0bf2fc56cf82ecdc903797025a77ddee59cc2f57ee49.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.6,
+      "reviewCount": 109,
+      "priceLevel": null,
+      "address": "Valor Takaoka Kizu Store, 458-135 Kizu, Takaoka, Toyama 933-0857, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7391153,137.0010878,3a,90y,339.26h,94.26t/data=!3m7!1e1!3m5!1s5k8ym6Txd7CaVIBfd1CFuA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.259828438654452%26panoid%3D5k8ym6Txd7CaVIBfd1CFuA%26yaw%3D339.2584442445283!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Valor supermarket in Kizu appears in episode 8 as the characters run everyday errands, a grounded scene reflecting the show's slice-of-life Takaoka setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtxWuuJWC918Rg2H_f69c15g",
+      "name": "Sports Club Akutosu Will Takaoka",
+      "localName": "スポーツクラブ アクトスWill高岡",
+      "coordinates": {
+        "lat": 36.740154,
+        "lng": 137.001438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/14283c7e-a47a-4c30-9c30-4da8debc6e18.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/14283c7e-a47a-4c30-9c30-4da8debc6e18.webp"
+        },
+        {
+          "url": "media/cached-image_5ed2d6613cbfb3fee0485441c85079362da46aa8f1d7956077d65f5ad7ca6635.jpg"
+        },
+        {
+          "url": "media/cached-image_41cbc10f7d8d7f0c01ff1743592d70857edb7c816da040f6f8b6a3e57fa1cb4e.jpg"
+        },
+        {
+          "url": "media/cached-image_232a7206b29c03fe722bebf259b1cfa463e94885457a6176291eace002fae83f.jpg"
+        },
+        {
+          "url": "media/cached-image_4a340914a26f1876fa1b7b461ce4167c47aedcf602381419fa9ea64d026da355.jpg"
+        },
+        {
+          "url": "media/cached-image_ef571f8fb98e40f662cd0f03c0ee89aa96176ffe27fef2c582e9bfae9ad80545.jpg"
+        }
+      ],
+      "type": "Gym",
+      "categories": [
+        "Gym"
+      ],
+      "rating": 2,
+      "reviewCount": 7,
+      "priceLevel": null,
+      "address": "Sports Club Akutosu Will Takaoka, 458-17 Kizu, Takaoka, Toyama 933-0857, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7403956,137.0008993,3a,75y,321.3h,89.16t/data=!3m7!1e1!3m5!1s5st_5-7FnrAgDyzzBMZ7ww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.8431031631069885%26panoid%3D5st_5-7FnrAgDyzzBMZ7ww%26yaw%3D321.30245964011976!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Kizu neighborhood sports club building appears in episode 7 as background scenery during a walk through the local streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmzLPX7-C918Ra_yckNzMU_c",
+      "name": "Sashimono Tatami Shop",
+      "localName": "指物畳店",
+      "coordinates": {
+        "lat": 36.740842,
+        "lng": 137.01012799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c74339d0-9aaf-4d88-bace-7785530fbcc3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c74339d0-9aaf-4d88-bace-7785530fbcc3.webp"
+        },
+        {
+          "url": "media/cached-image_e1b89fb3aaa36e68f674ed4c888777782f40ce7a947337daad1756b7689e691e.jpg"
+        }
+      ],
+      "type": "Tatami store",
+      "categories": [
+        "Tatami store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sashimono Tatami Shop, 653-1 Daiku Nakamachi, Takaoka, Toyama 933-0868, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.741046,137.0102493,3a,42.2y,150.38h,92.31t/data=!3m7!1e1!3m5!1sZmdsg60jUPlWJ5YDIVkrCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3051971066007013%26panoid%3DZmdsg60jUPlWJ5YDIVkrCA%26yaw%3D150.37701699939922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This old tatami craftsmen's shop on the Kizu backstreet appears in episode 7, its traditional storefront adding to the quiet neighbourhood atmosphere the show depicts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_14",
+      "name": "Sashimono Tatami Shop",
+      "localName": "指物畳店",
+      "coordinates": {
+        "lat": 36.74078,
+        "lng": 137.01036
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f7916943-4a0f-4e54-9a33-3da2ceb72831.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f7916943-4a0f-4e54-9a33-3da2ceb72831.webp"
+        },
+        {
+          "url": "media/cached-image_7993c1cd43051ae210b4fa3ca190bb36aa2200cb966a8080729c0015d87a0214.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7406583,137.0103945,3a,75y,356.28h,93.19t/data=!3m7!1e1!3m5!1sZIRedpVmJPCYoZ_vkFHVZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1945573354545047%26panoid%3DZIRedpVmJPCYoZ_vkFHVZw%26yaw%3D356.27861927462743!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This old tatami craftsmen's shop on the Kizu backstreet appears in episode 7, its traditional storefront adding to the quiet neighbourhood atmosphere the show depicts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTbEvuqybUTURffVdehsjBec",
+      "name": "Kanonji",
+      "localName": "観音寺市",
+      "coordinates": {
+        "lat": 34.1284357,
+        "lng": 133.6628477
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a012c79-f5a0-4080-b26a-6fd8d519c04b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a012c79-f5a0-4080-b26a-6fd8d519c04b.webp"
+        },
+        {
+          "url": "media/cached-image_4ff053e8d79b173d061030d88eb8d8b93ab027754d1e997050eef33cb9c47c73.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kanonji, Kagawa, Japan",
+      "city": "Kanonji",
+      "region": "Kagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7410397,137.0108634,3a,49.6y,186.1h,91.11t/data=!3m7!1e1!3m5!1ssUyB9H6lzRotfZK7rSvIKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.111852361706994%26panoid%3DsUyB9H6lzRotfZK7rSvIKw%26yaw%3D186.10014399103093!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ44T88U-d918RZoTLIs5IFMk",
+      "name": "Aeon Mall Takaoka",
+      "localName": "イオンモール高岡",
+      "coordinates": {
+        "lat": 36.7234858,
+        "lng": 137.01692939999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97d3ab20-1464-414b-9b15-c45f51dfa440.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97d3ab20-1464-414b-9b15-c45f51dfa440.webp"
+        },
+        {
+          "url": "media/cached-image_d9854b6240cbcd7394ecbd201402de85ea80133335eb6c49138c56a69b780566.jpg"
+        },
+        {
+          "url": "media/cached-image_54fcd76a6853c82c3d64509f0f20c57147239ab2f6dffa5cfa0fbab73b5c28f5.jpg"
+        },
+        {
+          "url": "media/cached-image_68ca7808b96dd29f8ea373fd5d99ddb435935e336a0fa5f9b5daa888640f0dfb.jpg"
+        },
+        {
+          "url": "media/cached-image_a622a4ef8ba161ba0ae0ffba2debcf2c6e9b781bdc05cc9b78e626d6171f7b93.jpg"
+        },
+        {
+          "url": "media/cached-image_414086b9350b4607fac5593a15c1eaa02e139d737dba68d95707d70dd26998a2.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Aeon Mall Takaoka, 383 Shimofusumae, Takaoka, Toyama 933-0813, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7241283,137.0156194,3a,90y,218.25h,91.15t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE9bvjhgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbHLzwdLud2egyGXKSpZC2Y-bPO0vHXovxihhVSpTCK33tJEV4-akoNN3WKSwqliNr7Q37rQzq04KeHQyzxk-EscBkqPqyCZFoXHPiDNSIVfTCNprn1-9tnqA4x7S0Qvr8e0x5xPg%3Dw900-h600-k-no-pi-1.1499479797809187-ya128.2471942878983-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Aeon Mall Takaoka is visited by the cast in episode 7 for a group shopping outing, a classic lazy-holiday slice-of-life scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYezBr-CC918R_ToO4udNi8Y",
+      "name": "Yamaya Takaoka",
+      "localName": "やまや 高岡店",
+      "coordinates": {
+        "lat": 36.7313616,
+        "lng": 137.02062189999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7aecf5ca-fab0-4e17-ab67-c2ce023c7cb8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7aecf5ca-fab0-4e17-ab67-c2ce023c7cb8.webp"
+        },
+        {
+          "url": "media/cached-image_fa189246c48e63aff7548e2c27c0c279d94b1c6196d3e7b6a1dc419848e3e523.jpg"
+        }
+      ],
+      "type": "Liquor store",
+      "categories": [
+        "Liquor store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamaya, 380 Akasofu, Takaoka, Toyama 933-0806, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7317739,137.0201985,3a,43.8y,150.61h,93.54t/data=!3m7!1e1!3m5!1sp5I6Av72GcaIjSuSNoavMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.540908196879627%26panoid%3Dp5I6Av72GcaIjSuSNoavMA%26yaw%3D150.60855599991072!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIz4wyOCC918R8I9r0qzQxyM",
+      "name": "Akasofu Shrine",
+      "localName": "赤祖父神社",
+      "coordinates": {
+        "lat": 36.731027499999996,
+        "lng": 137.0210019
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ac501bfb-9471-4371-a9fb-45ebdebf9c17.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ac501bfb-9471-4371-a9fb-45ebdebf9c17.webp"
+        },
+        {
+          "url": "media/cached-image_efaadb5861ae2c173fd10432eeebb3d26cc35c4828ecad24a65f3bc4eb1521f9.jpg"
+        },
+        {
+          "url": "media/cached-image_cf0dfd99f02603298f4cf4a27e4ebc65ebce0e55128db329a3cb156449fd7bba.jpg"
+        },
+        {
+          "url": "media/cached-image_c6f0a015f11a240be3ec7c00d454836c8d9b45e1e387578129d890419268aec7.jpg"
+        },
+        {
+          "url": "media/cached-image_fc439c9849a96030c76098bb6abc029c6242682991b87b222ce758a8f20952fb.jpg"
+        },
+        {
+          "url": "media/cached-image_304832c70ee22a7f19112a8d78b67a716b6588dcb9c0fff0b916ea18ad0d541f.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 2.7,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Akasofu Shrine, 30 Akasofu, Takaoka, Toyama 933-0806, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7309937,137.0208134,3a,90y,68.67h,99.96t/data=!3m7!1e1!3m5!1sEi8tA9YXiA7n6PtcJT-2BQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.960058910205944%26panoid%3DEi8tA9YXiA7n6PtcJT-2BQ%26yaw%3D68.66590662139805!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Akasofu Shrine appears in episode 7 as a neighborhood landmark near where the characters walk, grounding the show's everyday suburban atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_19",
+      "name": "Akasofu Community Center",
+      "localName": "赤祖父公民館",
+      "coordinates": {
+        "lat": 36.73108,
+        "lng": 137.02075
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60a683db-f8df-4941-a969-7e93db4a7775.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60a683db-f8df-4941-a969-7e93db4a7775.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7311137,137.0208284,3a,75y,176.58h,95.09t/data=!3m7!1e1!3m5!1s8CWfxr-oRf0tE5SVw1ub1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.092289350515415%26panoid%3D8CWfxr-oRf0tE5SVw1ub1w%26yaw%3D176.58133031075255!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_20",
+      "name": "Aming Takaoka",
+      "localName": "アミング 高岡店",
+      "coordinates": {
+        "lat": 36.73081,
+        "lng": 137.01655
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5572c43f-1ea2-480b-8be1-e63214e6fb83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5572c43f-1ea2-480b-8be1-e63214e6fb83.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7306557,137.0166317,3a,49.6y,38.94h,96.14t/data=!3m7!1e1!3m5!1s9mQzzx-iZYGygCz9wzUU0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1381597391336555%26panoid%3D9mQzzx-iZYGygCz9wzUU0A%26yaw%3D38.93929308402064!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKc4YHcWC918Rg4Asp_ti9JI",
+      "name": "トランクルーム ユースペース高岡駅南店",
+      "localName": "トランクルーム高岡市駅南二丁目",
+      "coordinates": {
+        "lat": 36.7384998,
+        "lng": 137.0217886
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f838515-09b6-4ebd-8ed5-4ae7e6ac9736.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f838515-09b6-4ebd-8ed5-4ae7e6ac9736.webp"
+        }
+      ],
+      "type": "Self-storage facility",
+      "categories": [
+        "Self-storage facility"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0871 Toyama, Takaoka, Ekinan, 2 Chome−3−8 トランクルーム ユースペース高岡駅南店",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7387014,137.0205603,3a,50.8y,268.35h,98.15t/data=!3m7!1e1!3m5!1s9r2rKAl6qaPm53IFspNJ2Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.145657134977455%26panoid%3D9r2rKAl6qaPm53IFspNJ2Q%26yaw%3D268.353948770783!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp9RJn8eC918ROkjBayk875w",
+      "name": "Ekimae Hiroba Ryokuchi Park",
+      "localName": "駅前広場緑地",
+      "coordinates": {
+        "lat": 36.741954299999996,
+        "lng": 137.0152839
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6d10014e-a543-41e4-8c03-190764e59f42.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6d10014e-a543-41e4-8c03-190764e59f42.webp"
+        },
+        {
+          "url": "media/cached-image_29c92e96af3019f61dcb49b7b9c6a6f521899cd023f2c80871151d6852e767b1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ekimae Hiroba Ryokuchi Park, 6 Shimozekimachi, Takaoka, Toyama 933-0021, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7420333,137.0151997,3a,49.6y,143.92h,99.86t/data=!3m7!1e1!3m5!1sAaI_SAZUHbhtp0SR-8yeog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.862086131156573%26panoid%3DAaI_SAZUHbhtp0SR-8yeog%26yaw%3D143.91709029434648!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw4jkcjKD918Rpkxq2aJgqiA",
+      "name": "高岡市水道局住吉ポンプ場",
+      "localName": "高岡市水道局住吉ポンプ場",
+      "coordinates": {
+        "lat": 36.7455886,
+        "lng": 137.00154469999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2af84025-b185-4eb8-9b05-166d7d3486e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2af84025-b185-4eb8-9b05-166d7d3486e7.webp"
+        }
+      ],
+      "type": "Water utility company",
+      "categories": [
+        "Water utility company"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0935 Toyama, Takaoka, Bakurohonmachi, 10−11 高岡市水道局住吉ポンプ場",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7455388,137.0012044,3a,90y,152.71h,94.56t/data=!3m7!1e1!3m5!1sW0zm1zHvO0BbHAB2A0A9mQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.558564367762742%26panoid%3DW0zm1zHvO0BbHAB2A0A9mQ%26yaw%3D152.7119330448225!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWXiWWb-C918Rg5zKHlRCDaU",
+      "name": "Okihakusansha",
+      "localName": "大木白山社",
+      "coordinates": {
+        "lat": 36.7410564,
+        "lng": 137.0104451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d7ae1719-02a5-4a43-a6c4-cb108d1d45fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d7ae1719-02a5-4a43-a6c4-cb108d1d45fc.webp"
+        },
+        {
+          "url": "media/cached-image_8b73a71b8711a9f82caa3645088a82cd385aab1072dbb38d0bdda40d1efd2a98.jpg"
+        },
+        {
+          "url": "media/cached-image_1e1e358b8914d3cc741064b43854a7e49edfa910c261849d85ef19ad72f62d6e.jpg"
+        },
+        {
+          "url": "media/cached-image_0156fcd2486e5e38c4f26da6675c3b06e99e5c2e22ad6426a6dbde36b5c2ee7c.jpg"
+        },
+        {
+          "url": "media/cached-image_e5f1547cda135e560c25964478bf2f09a12b4cc8a7258f17ff974678f579c45c.jpg"
+        },
+        {
+          "url": "media/cached-image_126741808ed75db417dd8ec8703041071aec1228832546eeed4fdc59563eb690.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.9,
+      "reviewCount": 29,
+      "priceLevel": null,
+      "address": "Okihakusansha, 597 Daiku Nakamachi, Takaoka, Toyama 933-0868, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7414444,137.0104515,3a,54y,182.8h,93.01t/data=!3m7!1e1!3m5!1syH2JbRGJHOM2Tpq0NIqjgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0089655609151436%26panoid%3DyH2JbRGJHOM2Tpq0NIqjgg%26yaw%3D182.80312115179836!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Oki Hakusan Shrine appears in the opening animation of YuruYuri San☆Hai!, its torii gate and stone path featured as a quiet local landmark in the Kizu neighbourhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL6EXky8zi18RVk3u62pbA5M",
+      "name": "Senbogawa boardwalk",
+      "localName": "水の駅「ビュー福島潟」",
+      "coordinates": {
+        "lat": 37.9135379,
+        "lng": 139.2404786
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cd1ea29f-0508-4ead-a6b5-5d4b3b920ee2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cd1ea29f-0508-4ead-a6b5-5d4b3b920ee2.webp"
+        },
+        {
+          "url": "media/cached-image_e798939f43b197c90fac81620c9c305da5802a81f1039abba8ac50b6e7780eac.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "View Fukushimagata, 乙-493 Maeshinden, Kita Ward, Niigata, 950-3324, Japan",
+      "city": "Niigata",
+      "region": "Niigata",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7410577,137.0005192,3a,90y,134.12h,98.67t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgIC4trrKLg!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZPfQQ_iBnVYXrhbFtRBD8uet2UGRrB2s57pVdZf5IRRHvoGPZcET-0p3syST0yZJdEcnzxH8gQd92F7nGzkd6rUa9JnNtC7PZckQaI9iC9bKVAoaXMoi1OnInOHOiAfzwqQWC7%3Dw900-h600-k-no-pi-8.673484548516427-ya359.12218334882533-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJWbf7TJr5GmARDvMoogCSU3o",
+      "name": "Sanomaru Teahouse - Park Information Center",
+      "localName": "二の丸茶室",
+      "coordinates": {
+        "lat": 34.7755157,
+        "lng": 138.0142119
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35f2795b-e5ec-4303-9bb5-62a9b6c34c19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35f2795b-e5ec-4303-9bb5-62a9b6c34c19.webp"
+        },
+        {
+          "url": "media/cached-image_01476c05b80c6265393c9209ae41f0bed87e1355fb114ad57def66a9f82c924e.jpg"
+        }
+      ],
+      "type": "Cultural landmark",
+      "categories": [
+        "Cultural landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ninomaru Tea House, 1138-24 Kakegawa, Shizuoka 436-0079, Japan",
+      "city": "Kakegawa",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7491477,137.0231017,3a,49.6y,84.76h,91.3t/data=!3m7!1e1!3m5!1sGOoX_w1iVAjT6mia-yRbjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.304836713739462%26panoid%3DGOoX_w1iVAjT6mia-yRbjw%26yaw%3D84.75742452179873!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_27",
+      "name": "Choyo Bridge",
+      "localName": "朝陽橋",
+      "coordinates": {
+        "lat": 36.74934,
+        "lng": 137.02203
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ee328d5-f2d8-4ea7-be3b-e1d9a285c606.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ee328d5-f2d8-4ea7-be3b-e1d9a285c606.webp"
+        },
+        {
+          "url": "media/cached-image_38abcd39481ffa5e7bd9be059e621d010c124f32cc793cc17eb29b6864bf7016.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7495113,137.0216994,3a,75y,116.13h,90.21t/data=!3m7!1e1!3m5!1sxy0rMz1PTFOCVaaI70bprw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.20848468226944306%26panoid%3Dxy0rMz1PTFOCVaaI70bprw%26yaw%3D116.13341368471487!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW1lC8ZSC918RRANStYdd6EI",
+      "name": "V drug Takaoka Kizu Store",
+      "localName": "Ｖ・drug 高岡木津店",
+      "coordinates": {
+        "lat": 36.7385875,
+        "lng": 137.0012386
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8c6a53b4-37b1-4d50-a9b0-0070011570a2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8c6a53b4-37b1-4d50-a9b0-0070011570a2.webp"
+        },
+        {
+          "url": "media/cached-image_bf980620396c2863d268fcd75cf8e625c3e24a546e93822c7a063f3136a2f1e8.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "V drug, 458-14 Kizu, Takaoka, Toyama 933-0857, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7385503,137.0015466,3a,15.9y,28.39h,93.08t/data=!3m7!1e1!3m5!1sUABiOQ3Wm_u5WcekaTlO0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.0779569347511284%26panoid%3DUABiOQ3Wm_u5WcekaTlO0g%26yaw%3D28.39148438267442!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The V drug pharmacy in Kizu appears in episode 8 as part of the shopping street scenery during the girls' local neighbourhood outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuw3O42GZc18RB6TGMIQhPbI",
+      "name": "Ekin Midorigaoka Park",
+      "localName": "緑ヶ丘公園",
+      "coordinates": {
+        "lat": 42.9050156,
+        "lng": 143.1872658
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_edbc18e1b7c0acd87a7a3e4da86fc2057a36ee79e0ce60af03a6e1f1c00d85f3.jpg"
+        },
+        {
+          "url": "media/cached-image_84114baca5d8136a75f7780870271dd0a42628f5569d1dd92779965b88753ac1.jpg"
+        },
+        {
+          "url": "media/cached-image_9ebb89ae1f67a4164d6ccd77a1b2098e959fdb3a119afbec6312448da5e4b1de.jpg"
+        },
+        {
+          "url": "media/cached-image_d2883a6e65520041f03f96d7ead2181d739447184869683b7c267c497f6f63cf.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 1843,
+      "priceLevel": null,
+      "address": "Midorigaoka Park, 2 Midorigaoka, Obihiro, Hokkaido 080-0846, Japan",
+      "city": "Obihiro",
+      "region": "Hokkaido",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.731875,137.0189833,3a,85.2y,152.57h,92.4t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4trrOBQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZBObX9eQvYPYgOAeignBE36CB2yL3mU4ampU-ZcgixB8fist0gor27a6Zk4N05_FXXI-5ynDE6c475GG9Bm9gntcOkCeWqHWYHdRhkrya3moAxBdxpFSFoDoqrtfLT-zWOPLRe%3Dw900-h600-k-no-pi-2.4020008513102766-ya265.0686244887087-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_30",
+      "name": "Best Partners Tax Corporation Murakami Office",
+      "localName": "ベストパートナーズ税理士法人 村上事務所",
+      "coordinates": {
+        "lat": 36.74264,
+        "lng": 136.99967
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c534c3a9-0a14-42c2-9bb6-9b1d1e7ec498.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c534c3a9-0a14-42c2-9bb6-9b1d1e7ec498.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.742654,136.9996446,3a,90y,43.77h,91.23t/data=!3m7!1e1!3m5!1srZV1tnH8yxNmuz2rQ6x5Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2290213838868027%26panoid%3DrZV1tnH8yxNmuz2rQ6x5Ug%26yaw%3D43.77215923645466!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6fVWcsSC918RP9xTKPO5jEI",
+      "name": "Cocos Takaoka Ekiminami",
+      "localName": "ココス 高岡駅南店",
+      "coordinates": {
+        "lat": 36.7384026,
+        "lng": 137.0179313
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4dde2d85-4faa-4b6b-b452-89370335ecb3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4dde2d85-4faa-4b6b-b452-89370335ecb3.webp"
+        },
+        {
+          "url": "media/cached-image_d28ce25a673ecb5ed323d69a3e4e1b1adbdcfc19674e012ab4b520902cb1b5ba.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Coco's Restaurant, 3 Chome-2-1 Ekinan, Takaoka, Toyama 933-0871, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7386364,137.0182719,3a,43y,233.56h,94.98t/data=!3m7!1e1!3m5!1se0WGvKCQrsIHHrH7_plsmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.979044271462655%26panoid%3De0WGvKCQrsIHHrH7_plsmw%26yaw%3D233.55558599067612!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Coco's family restaurant near Takaoka Station South appears in episode 5 as the setting for a casual group meal, a familiar hang-out spot for the characters."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_32",
+      "name": "Yakiniku Kamuru",
+      "localName": "焼肉かむる",
+      "coordinates": {
+        "lat": 36.74476,
+        "lng": 137.0134
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b4fd8895-9033-46bb-9c93-150e9ff93144.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b4fd8895-9033-46bb-9c93-150e9ff93144.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7446313,137.0133128,3a,90y,32.09h,98.83t/data=!3m7!1e1!3m5!1sTDI9vMgBHFxYAdPJ4B0U1w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.831332857943693%26panoid%3DTDI9vMgBHFxYAdPJ4B0U1w%26yaw%3D32.085947714558245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCdFHqZyD918R8iLGLt26ihw",
+      "name": "SEKAI HOTEL Takaoka",
+      "localName": null,
+      "coordinates": {
+        "lat": 36.743612999999996,
+        "lng": 137.014521
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5c66accf-2e89-4215-90e1-2c32aaa5fb69.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5c66accf-2e89-4215-90e1-2c32aaa5fb69.webp"
+        },
+        {
+          "url": "media/cached-image_7b368bbc7130e5e0fa7fa32a8c4ac2b54be8c80a8ce8aa6d5b87f7c7376adcb2.jpg"
+        },
+        {
+          "url": "media/cached-image_168555ed4eef388efc9d1019f967ce5f609401e1d67e7990a643ae4ca3963dbe.jpg"
+        },
+        {
+          "url": "media/cached-image_bcc31fa09e9d3dba0cc099eb2884ab1437150925c6960414341e54d60e6f8a5e.jpg"
+        },
+        {
+          "url": "media/cached-image_3df9b5cb54df759db7efee142eeec49b2235af946636e2e68e92333b5dcc5961.jpg"
+        },
+        {
+          "url": "media/cached-image_6b230a4551a540c744aa16d7af9e669954283e7dbda18d9290274a01e1937f0a.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0023 Toyama, Takaoka, Suehiromachi, 40 SEKAI HOTEL Takaoka",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7436121,137.0141581,3a,75y,98.97h,94.45t/data=!3m7!1e1!3m5!1sb2eEzibvZEi2x_k1YfdVaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.448491474167923%26panoid%3Db2eEzibvZEi2x_k1YfdVaw%26yaw%3D98.96511909844745!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "SEKAI HOTEL Takaoka, a renovated machiya hotel in the old townscape, appears in episode 5 as part of the Takaoka central streetscape the characters walk through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJESfHBceC918R_9qhuS-wbfo",
+      "name": "7-Eleven; Curun Takaoka",
+      "localName": "セブン-イレブン クルン高岡店",
+      "coordinates": {
+        "lat": 36.7413485,
+        "lng": 137.0155088
+      },
+      "image": "https://cdn.animepilgrimage.com/places/561370a0-32ea-4305-84bd-90b3c6d7bb62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/561370a0-32ea-4305-84bd-90b3c6d7bb62.webp"
+        },
+        {
+          "url": "media/cached-image_602731e7cfb7596ffadab47f873a7281d2a5f39399973f72d7cc298b06b39716.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 1.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven; Curun Takaoka, 6 Shimozekimachi, Takaoka, Toyama 933-0021, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7417737,137.0154783,3a,32.5y,340.91h,90.06t/data=!3m7!1e1!3m5!1s-wv6Ezr4XUo1GlW1H-gYQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.06461169708923364%26panoid%3D-wv6Ezr4XUo1GlW1H-gYQQ%26yaw%3D340.90584621317555!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The 7-Eleven inside Curun Takaoka shopping mall appears in episode 5 during a station-area scene, reflecting the girls' use of the local commercial hub."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJReAx25iD918RN-MUcTZeLak",
+      "name": "Shin-Takaoka Station North Exit Taxi Stand",
+      "localName": "新高岡駅北口タクシー乗り場",
+      "coordinates": {
+        "lat": 36.7271225,
+        "lng": 137.01131279999998
+      },
+      "image": null,
+      "images": [],
+      "type": "Taxicab Stand",
+      "categories": [
+        "Taxicab Stand"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shin-Takaoka Station North Exit Taxi Stand, 3012 Shimokuroda, Takaoka, Toyama 933-0852, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7417876,137.0151714,3a,55.6y,121.81h,96.69t/data=!3m7!1e1!3m5!1sjC52y1HomOqb2CUXqg1xXw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.688622459367494%26panoid%3DjC52y1HomOqb2CUXqg1xXw%26yaw%3D121.81153226133559!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Shin-Takaoka Station's north exit and taxi stand appear in episode 2 as the characters depart by Shinkansen, a key transportation moment in the episode."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJeT4gW5yQ918RdrL91LyNLv0",
+      "name": "TOYAMA STATION",
+      "localName": "富山駅",
+      "coordinates": {
+        "lat": 36.7018268,
+        "lng": 137.21262579999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b2e74eb0-93f0-4764-99b3-46158f3c903f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b2e74eb0-93f0-4764-99b3-46158f3c903f.webp"
+        },
+        {
+          "url": "media/cached-image_d1373668266b872cf26abea5aabaf7d7ac78093ad6c3c135f2d47f37ba976e0d.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TOYAMA STATION, 1-225 Meirincho, Toyama, 930-0001, Japan",
+      "city": "Toyama",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/TOYAMA+STATION/@36.7017097,137.2129517,3a,90y,352.49h,95.98t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4g-eevgE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY49BqhcsBcKWSPEqi-twK4HQvqXTqYO3k6xU27u3JaAtTzROizfYimeqclXpgAN22Twt0DNmjsOx1_oNqvpNEsXf3tGXrJKmrZBFL9AHnMbQSo97d93PPFRc5sNmf9L5UshKEP3Q%3Dw900-h600-k-no-pi-5.984193550105033-ya9.390237302304058-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x5ff7909c5b203e79:0xfd2e8dbcd4fdb276!8m2!3d36.7018268!4d137.2126258!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F025zfy3?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Toyama Station serves as the arrival point for the characters as they travel from their Takaoka hometown, appearing in episode 2 when the group takes the train together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx2qewPeR918RTU5yi8MUcII",
+      "name": "7-Eleven+Heart-in Ainokaze Toyama Railway Station",
+      "localName": "セブン-イレブン ハートインあいの風鉄道富山駅店",
+      "coordinates": {
+        "lat": 36.701617,
+        "lng": 137.2134735
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9d3ea100-c83b-4c97-b078-051a3bdfdf02.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9d3ea100-c83b-4c97-b078-051a3bdfdf02.webp"
+        },
+        {
+          "url": "media/cached-image_6d5100b3d3a4179cd028f7a08a20d479cef6ae9f59b19b929a0bc0509287e409.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven+Heart-in Ainokaze Toyama Railway Station, ７５-4 Meirincho, Toyama, 930-0001, Japan",
+      "city": "Toyama",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7015839,137.2131499,3a,64.3y,102.5h,74.32t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4w4zC6QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYMxjFTEBZjVe7we4fRZX4HF1bISE5L19Uyl70RNyBxykIeVPAgaCCZO2SWJ2xdM56RfVwEXvN4N2Du4cL2ZLG4m9HOqMRBs4z8j0jkDwQy3SV2uPSfU9bgRsBaoSEsAPaAQzXwAw%3Dw900-h600-k-no-pi15.677862104388154-ya293.49890272130324-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Ainokaze Toyama Railway concourse convenience store appears in episode 2 during the train travel scenes at Toyama Station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuzJMkryd918RTi8LIV23bMs",
+      "name": "Toyamao Bridge",
+      "localName": "新湊大橋",
+      "coordinates": {
+        "lat": 36.7758521,
+        "lng": 137.1154247
+      },
+      "image": "https://cdn.animepilgrimage.com/places/610befce-1d31-4721-9c1a-2c35ee7a3bfe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/610befce-1d31-4721-9c1a-2c35ee7a3bfe.webp"
+        },
+        {
+          "url": "media/cached-image_ff77f3b7a32a8e54c996d515710b37b9208e84ff3880a4d2c912e45859614dc2.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shinminato Bridge, 新明神 Horioka, Imizu, Toyama 933-0221, Japan",
+      "city": "Imizu",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.6938802,137.1994048,3a,75y,216.22h,100.23t/data=!3m7!1e1!3m5!1snS9iz29F_I2DDo-6WMRD3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.230539243604412%26panoid%3DnS9iz29F_I2DDo-6WMRD3A%26yaw%3D216.2156677862411!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Shinminato Ohashi (New Minato Bridge) appears in episode 2 as a scenic landmark the characters pass on their way through Toyama Prefecture, its twin-tower silhouette making it one of the most visually distinct shots in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu70ggCaMGGAROlte2N0PRM4",
+      "name": "Ueno Trading",
+      "localName": "㈱ウエニ貿易",
+      "coordinates": {
+        "lat": 35.711818199999996,
+        "lng": 139.7678006
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f2670571-6b61-423b-89b1-b0bc6aa6244d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f2670571-6b61-423b-89b1-b0bc6aa6244d.webp"
+        },
+        {
+          "url": "media/cached-image_89cedbbd00373160143879e3f44500dfad135a97c7baa6100d5a31b2c55ee5b8.jpg"
+        }
+      ],
+      "type": "Wholesaler",
+      "categories": [
+        "Wholesaler"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ueni Trading Co,.Ltd., 1 Chome-6-17 Ikenohata, Taito City, Tokyo 110-0008, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7407099,136.9943719,3a,31y,42.85h,92.52t/data=!3m7!1e1!3m5!1seH6dQHvuTV9JCBdQE753Lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.52405432671236%26panoid%3DeH6dQHvuTV9JCBdQE753Lg%26yaw%3D42.85071207731563!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_40",
+      "name": "Nagata Printing",
+      "localName": "長田印刷",
+      "coordinates": {
+        "lat": 36.74119,
+        "lng": 136.99906
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d2eb25b1-8fcb-47a2-b2e6-7ccedfceec2b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d2eb25b1-8fcb-47a2-b2e6-7ccedfceec2b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7411743,136.9990896,3a,90y,258.6h,96.77t/data=!3m7!1e1!3m5!1sfgu76aD-Ycc6HzNVlhoFdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.771842063354981%26panoid%3Dfgu76aD-Ycc6HzNVlhoFdQ%26yaw%3D258.59807400868476!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_41",
+      "name": "Nagata Printing",
+      "localName": "長田印刷",
+      "coordinates": {
+        "lat": 36.74104,
+        "lng": 136.99882
+      },
+      "image": "https://cdn.animepilgrimage.com/places/356c72ea-34cd-48ea-aaa9-eb053c953cb4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/356c72ea-34cd-48ea-aaa9-eb053c953cb4.webp"
+        },
+        {
+          "url": "media/cached-image_80066c951a31b82a4cc748f0cc273f43dc369b9a2797fa88f86df292fc80721d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7410594,136.99887,3a,75y,265.3h,94.46t/data=!3m7!1e1!3m5!1sjDiUvsXYwqx9cxf-N7Z0yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.463960939038856%26panoid%3DjDiUvsXYwqx9cxf-N7Z0yw%26yaw%3D265.3011828583586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_42",
+      "name": "Kida Office",
+      "localName": "木田事務所",
+      "coordinates": {
+        "lat": 36.73693,
+        "lng": 137.00529
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a89de80e-7bcf-45e7-adc6-755bd94df4e3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a89de80e-7bcf-45e7-adc6-755bd94df4e3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.736716,137.0058714,3a,43y,294.15h,93.32t/data=!3m7!1e1!3m5!1sIOaWJse2y0TSc3CiQH0uhA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.315371698335909%26panoid%3DIOaWJse2y0TSc3CiQH0uhA%26yaw%3D294.1458855644212!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_43",
+      "name": "February and August",
+      "localName": "二月と八月",
+      "coordinates": {
+        "lat": 36.73884,
+        "lng": 136.9962
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9ac5e88c-31a9-4144-8583-c878d93e25f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9ac5e88c-31a9-4144-8583-c878d93e25f3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7388627,136.9962075,3a,50.8y,150.52h,94.51t/data=!3m7!1e1!3m5!1sOXF3lTGBkXzrjiRqy8gx3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.514651527170088%26panoid%3DOXF3lTGBkXzrjiRqy8gx3Q%26yaw%3D150.51564869899715!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJv8vH4hF-AGARwcWu8UehHc8",
+      "name": "Kizu Elementary School",
+      "localName": "神戸市立木津小学校",
+      "coordinates": {
+        "lat": 34.7434041,
+        "lng": 135.0654662
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1bdd2c24-97e7-45e5-8d3b-459c52e43838.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1bdd2c24-97e7-45e5-8d3b-459c52e43838.webp"
+        },
+        {
+          "url": "media/cached-image_4dd8bc9aabf0d7bd6a928c933301069c0dc8501fa7b37a42a4761649433e596f.jpg"
+        }
+      ],
+      "type": "Elementary school",
+      "categories": [
+        "Elementary school"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kizu Elementary School, 5 Chome-149-31 Sakuragaoka Higashimachi, Nishi Ward, Kobe, Hyogo 651-2225, Japan",
+      "city": "Kobe",
+      "region": "Hyogo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7395255,136.9954487,3a,90y,204.72h,98.92t/data=!3m7!1e1!3m5!1s_ubpZhQceqBy3Yks8bdZMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.916507749193045%26panoid%3D_ubpZhQceqBy3Yks8bdZMA%26yaw%3D204.7222920654503!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Takaoka Municipal Kizu Elementary School is the school the younger characters attend in the anime, appearing in episode 9 as a key neighbourhood anchor.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_45",
+      "name": "Kizu Elementary School",
+      "localName": "高岡市立木津小学校",
+      "coordinates": {
+        "lat": 36.73931,
+        "lng": 136.99546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dcfa988a-33a7-47d7-97d9-c96211d28504.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dcfa988a-33a7-47d7-97d9-c96211d28504.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7393666,136.9954356,3a,39.2y,151.5h,89.1t/data=!3m7!1e1!3m5!1sAxkXEB7F8K4QXDiMg7zCog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.8955181066753823%26panoid%3DAxkXEB7F8K4QXDiMg7zCog%26yaw%3D151.50353589113794!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Takaoka Municipal Kizu Elementary School is the school the younger characters attend in the anime, appearing in episode 9 as a key neighbourhood anchor.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_46",
+      "name": "Kizu Compact House",
+      "localName": "木津コンパクトハウス",
+      "coordinates": {
+        "lat": 36.74038,
+        "lng": 136.99589
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8c2b64d8-cc1a-4041-9bc9-43ab9a0446a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8c2b64d8-cc1a-4041-9bc9-43ab9a0446a9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.740256,136.9958232,3a,42.2y,24.51h,94.4t/data=!3m7!1e1!3m5!1sWGCYvarO3BfnndZDmw-69w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.4030826658699596%26panoid%3DWGCYvarO3BfnndZDmw-69w%26yaw%3D24.509556316552516!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_47",
+      "name": "NAMERA Corporation",
+      "localName": "株式会社名免良",
+      "coordinates": {
+        "lat": 36.74087,
+        "lng": 136.99616
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c4379ad8-ae62-4d5f-ad88-cc35c8059e2c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c4379ad8-ae62-4d5f-ad88-cc35c8059e2c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.740934,136.9961505,3a,48.7y,167.66h,93.96t/data=!3m7!1e1!3m5!1sm-jH09IqhAgoUbCqNwMtkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.955368982342918%26panoid%3Dm-jH09IqhAgoUbCqNwMtkA%26yaw%3D167.65634065082318!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_48",
+      "name": "Hayashi Planer",
+      "localName": "林プレーナー",
+      "coordinates": {
+        "lat": 36.74213,
+        "lng": 136.99664
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce0eebdb-60db-4bb6-8637-128c28ab7fe6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce0eebdb-60db-4bb6-8637-128c28ab7fe6.webp"
+        },
+        {
+          "url": "media/cached-image_06cb2b55d88f14ae44bbb0648e5f48f0af5cf6fb57766502ad0baf7e1c9f0ebe.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7419962,136.9965852,3a,77.4y,5.04h,100.95t/data=!3m7!1e1!3m5!1sRm-9q3zRu8bhFKygDcqBYQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.951952635973214%26panoid%3DRm-9q3zRu8bhFKygDcqBYQ%26yaw%3D5.039893890189896!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_49",
+      "name": "Hayashi Planer",
+      "localName": "林プレーナー",
+      "coordinates": {
+        "lat": 36.74186,
+        "lng": 136.9965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0aea7fc6-9bee-423c-979c-c06e84055e6c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0aea7fc6-9bee-423c-979c-c06e84055e6c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7418364,136.9965018,3a,33.5y,216.42h,92.01t/data=!3m7!1e1!3m5!1sOAPoN9RVltgiRi2HiXfcKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0102671274500636%26panoid%3DOAPoN9RVltgiRi2HiXfcKw%26yaw%3D216.41553833563722!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ04uFtpyPGGARBgvG-BPW6Nc",
+      "name": "Ueno Shokuryohinten",
+      "localName": "伊勢音",
+      "coordinates": {
+        "lat": 35.7087138,
+        "lng": 139.7748095
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e3564923-3fde-4116-9306-2ecf5243131f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e3564923-3fde-4116-9306-2ecf5243131f.webp"
+        },
+        {
+          "url": "media/cached-image_a43cd78bdbf446a1367b8d3fb80ca71811a588b781fe8dd6074aafd40575905b.jpg"
+        }
+      ],
+      "type": "Japanese grocery store",
+      "categories": [
+        "Japanese grocery store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Iseoto, 6 Chome-4-10 Ueno, Taito City, Tokyo 110-0005, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7428279,136.9967038,3a,90y,181.14h,93.62t/data=!3m7!1e1!3m5!1si1-yQrwxDV7-w5k-MYBiHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.61510121607499%26panoid%3Di1-yQrwxDV7-w5k-MYBiHQ%26yaw%3D181.14317177140683!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJddVnmN-C918RLsY8UDypO_c",
+      "name": "Tonyamachi Ryokuchi Park",
+      "localName": "問屋町緑地",
+      "coordinates": {
+        "lat": 36.7308514,
+        "lng": 137.02625129999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82258430-8d48-4604-921c-e2a33598b937.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82258430-8d48-4604-921c-e2a33598b937.webp"
+        },
+        {
+          "url": "media/cached-image_a671adc75d1539d727b03e38720b8bd65e454b19f80ce05b5c3f905aad4fe2fd.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tonyamachi Ryokuchi Park, Tonyamachi, Takaoka, Toyama 933-0804, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7304236,137.0266108,3a,33.7y,89.08h,92.39t/data=!3m7!1e1!3m5!1sn9PIx4pPsxgk4uIGinIsCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.39111407957634%26panoid%3Dn9PIx4pPsxgk4uIGinIsCA%26yaw%3D89.07579143298582!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Tonyamachi Ryokuchi Park appears in episode 9 during an outdoor scene, representing the green spaces the characters enjoy in the Takaoka area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_52",
+      "name": "Cafe Gallery Silver Wheel",
+      "localName": "カフェギャラリー 銀の車輪",
+      "coordinates": {
+        "lat": 36.73821,
+        "lng": 136.99782
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b331b96b-8d29-437d-86d1-cb81b2fb58e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b331b96b-8d29-437d-86d1-cb81b2fb58e1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7385084,136.9983674,3a,15y,233.08h,91.08t/data=!3m7!1e1!3m5!1sfyVZ1V4Z4yCxmNaLX3tISw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0827533503505151%26panoid%3DfyVZ1V4Z4yCxmNaLX3tISw%26yaw%3D233.08209208352238!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_53",
+      "name": "Kizu Park",
+      "localName": "木津公園",
+      "coordinates": {
+        "lat": 36.73786,
+        "lng": 136.99736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45de1306-6d7a-4118-b92f-f1aabdab4359.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45de1306-6d7a-4118-b92f-f1aabdab4359.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7380003,136.9971778,3a,44.6y,121.68h,91.47t/data=!3m7!1e1!3m5!1s-lp_h0p9zdsuJDQm3Gh_UA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.4713132160745204%26panoid%3D-lp_h0p9zdsuJDQm3Gh_UA%26yaw%3D121.68221009732771!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kizu Park appears in episode 9 as the local park where characters spend time outdoors in a quiet neighbourhood scene."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC5o0GZOC918REKsXuOSaQIQ",
+      "name": "Takaoka Shiritsu Kizu Community Center",
+      "localName": "高岡市立木津公民館",
+      "coordinates": {
+        "lat": 36.7382741,
+        "lng": 136.9975327
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4248ebf3-5c6b-423d-9ba0-88f875601a29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4248ebf3-5c6b-423d-9ba0-88f875601a29.webp"
+        },
+        {
+          "url": "media/cached-image_6167b74fd041a8cd9ad7d31505ad8a43fcdfe2e383654885f7045a8aa7fc267a.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0857 Toyama, Takaoka, Kizu, 613-1 Takaoka Shiritsu Kizu Community Center, 木津南星町613−1",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7382537,136.996849,3a,75y,290.31h,90.8t/data=!3m7!1e1!3m5!1s4IrQNE50sgFaPVmBzqpBTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8034487037364073%26panoid%3D4IrQNE50sgFaPVmBzqpBTQ%26yaw%3D290.31033689088235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kizu Community Center appears in episode 9 as a background community building in the Kizu residential area the show lovingly depicts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_55",
+      "name": "Daifukuin",
+      "localName": "大福院",
+      "coordinates": {
+        "lat": 36.74144,
+        "lng": 136.99523
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8ec8fe25-a5b4-4971-b413-1713d1fd7e81.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8ec8fe25-a5b4-4971-b413-1713d1fd7e81.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.741443,136.9952545,3a,48.8y,227.41h,91.81t/data=!3m7!1e1!3m5!1sMP90YcgwUwvkT94sRO3YOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8140352270751379%26panoid%3DMP90YcgwUwvkT94sRO3YOQ%26yaw%3D227.41388162105278!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_56",
+      "name": "Sanko Plating Industry",
+      "localName": "三光鍍金工業",
+      "coordinates": {
+        "lat": 36.74264,
+        "lng": 136.99991
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08741fbc-89ed-47c5-ab0d-ca667e37eeed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08741fbc-89ed-47c5-ab0d-ca667e37eeed.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.742644,136.9997955,3a,75y,78.59h,99.88t/data=!3m7!1e1!3m5!1ssfwM63A0d45mD3Eaflh2hA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.878010650418474%26panoid%3DsfwM63A0d45mD3Eaflh2hA%26yaw%3D78.59364017605633!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_yuruyuri-3_57",
+      "name": "Takaokaseishikaibyoin Parking Lot",
+      "localName": "高岡整志会病院 駐車場",
+      "coordinates": {
+        "lat": 36.74601,
+        "lng": 137.01997
+      },
+      "image": "https://cdn.animepilgrimage.com/places/88294e43-529f-426b-a9e0-f1cf00139452.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/88294e43-529f-426b-a9e0-f1cf00139452.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7461019,137.020038,3a,64.3y,197.49h,93.83t/data=!3m7!1e1!3m5!1s4Jd3iQbwX_ElkhLY0eEaPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8329536918134863%26panoid%3D4Jd3iQbwX_ElkhLY0eEaPg%26yaw%3D197.4932165989969!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    }
+  ]
+}

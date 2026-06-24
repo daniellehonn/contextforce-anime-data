@@ -1,0 +1,970 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Steins;Gate Load Region of Déjà Vu",
+  "slug": "steins-gate-movie",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_99c04c05d691ee621d966a8e688fe3eb76f219b056d9870fe1dc757b5b67ae68.webp",
+  "image": "media/cached-image_99c04c05d691ee621d966a8e688fe3eb76f219b056d9870fe1dc757b5b67ae68.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.70410702916666,
+    "lng": 139.76198369583332
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Steins;Gate Load Region of Déjà Vu"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJZzSYoB2MGGARfBcicn7sx28",
+      "name": "Akihabara Electric Town",
+      "localName": "秋葉原電気街",
+      "coordinates": {
+        "lat": 35.699717799999995,
+        "lng": 139.7713799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/75645339-d9e4-43ef-a8b3-57a219f9217c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/75645339-d9e4-43ef-a8b3-57a219f9217c.webp"
+        },
+        {
+          "url": "media/cached-image_daf5bcc0ecad03f87223eeffa43ad283fcb2819972814774ce3184f4d4c10dee.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akihabara Electric Town, 1 Chome-12 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6998934,139.7713361,3a,90y,178.29h,117.93t/data=!3m7!1e1!3m5!1sT5eykqpV1n2BEBbeKjBqUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-27.933579989558268%26panoid%3DT5eykqpV1n2BEBbeKjBqUg%26yaw%3D178.29430254465808!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The bustling streets of Akihabara serve as the primary setting for Okabe's Future Gadget Lab and the world Kurisu desperately tries to restore. The movie opens with Kurisu walking these familiar streets, unsettled by her fading memories of a man she cannot quite name.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_58eDACNGGARvJq8dEfX13c",
+      "name": "BACKYARD PLANTS ZOSHIGAYA",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.7225604,
+        "lng": 139.7164172
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b8331589-23cb-47a0-bdc0-2132fe1e1b3e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b8331589-23cb-47a0-bdc0-2132fe1e1b3e.webp"
+        },
+        {
+          "url": "media/cached-image_3c781a68c7fc4c3cc3fc9cea06a3afc85cd99d038d6ed11087ce0b8c4d6ad689.jpg"
+        }
+      ],
+      "type": "Florist",
+      "categories": [
+        "Florist"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 3 Chome−21−1 BACKYARD PLANTS ZOSHIGAYA",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7225384,139.7163717,3a,90y,113.43h,93.27t/data=!3m7!1e1!3m5!1s-d4Bf_KYHVsj1qJmWIE9TQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2741758106068914%26panoid%3D-d4Bf_KYHVsj1qJmWIE9TQ%26yaw%3D113.4273818284493!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The quiet Zoshigaya neighborhood around this plant shop appears in the film as Suzuha and Mayuri's home territory, providing a gentle contrast to the chaos of Akihabara as Kurisu retraces Okabe's life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtW7K92qNGGARBBLnvRhDQPM",
+      "name": "Kishimojin Temple",
+      "localName": "雑司ヶ谷鬼子母神堂",
+      "coordinates": {
+        "lat": 35.7221228,
+        "lng": 139.7132761
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67c5c67a-05da-4c80-b615-721120330658.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67c5c67a-05da-4c80-b615-721120330658.webp"
+        },
+        {
+          "url": "media/cached-image_2b4c2da979642a21b6b7c06a65c3b6a14a2a0037bf5d5fd05b0c80bf3a650d60.jpg"
+        },
+        {
+          "url": "media/cached-image_9a6c0b79c8ec13949073383b783c9021b48fc2ff349e56269baa851e0ed47162.jpg"
+        },
+        {
+          "url": "media/cached-image_7607a1b105af1b587ad77dbb8e8c5302ffa5ba67759a89f9abafbf906b25746a.jpg"
+        },
+        {
+          "url": "media/cached-image_9fc8ecec8a1c349cf57077a87336924444dbe97c88b2803601484d168e8816b9.jpg"
+        },
+        {
+          "url": "media/cached-image_df037da2c3345652e53dc3785de4a4a5c8daedb8dc47b5e13555d6912b98fdbc.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 3093,
+      "priceLevel": null,
+      "address": "Kishimojin Temple, 3 Chome-15-20 Zoshigaya, Toshima City, Tokyo 171-0032, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7220367,139.7137625,3a,90y,165.8h,90.76t/data=!3m8!1e1!3m6!1sAF1QipNRXtEBqLGjp0Iml1QBpuBEBfVT4u6unhrzG7V4!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNRXtEBqLGjp0Iml1QBpuBEBfVT4u6unhrzG7V4%3Dw900-h600-k-no-pi-0.7613967690008252-ya238.15465038146772-ro0-fo100!7i12000!8i6000?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The serene grounds of Kishimojin Temple in Zoshigaya are a documented pilgrimage stop tied to scenes in the Steins;Gate universe, where the Zoshigaya area's quiet atmosphere mirrors the bittersweet tone of Kurisu searching for traces of the erased Okabe."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs1kf2x2MGGARFdg-a3XB5-Y",
+      "name": "FamilyMart Sotokanda 3-chome Higashi",
+      "localName": "ファミリーマート 外神田三丁目東店",
+      "coordinates": {
+        "lat": 35.7011712,
+        "lng": 139.7710497
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a395d2a8-ab49-4cd5-a432-6414cc55f9d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a395d2a8-ab49-4cd5-a432-6414cc55f9d7.webp"
+        },
+        {
+          "url": "media/cached-image_397a81274c75a4b31d30b12d1fc1f95c609a4c15490211505c8e05a30a3d11d4.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 3 Chome-14-3 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7010573,139.7709257,3a,75y,184.16h,101.12t/data=!3m7!1e1!3m5!1sbA8WESWS5e3DBoHsZ97Zdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.121513759566724%26panoid%3DbA8WESWS5e3DBoHsZ97Zdg%26yaw%3D184.15756798968306!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Akihabara convenience store near the lab area appears as background scenery in the movie's street-level shots of Okabe's daily haunts, the kind of ordinary stop that anchors him to the Steins;Gate worldline Kurisu is racing to rebuild."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJadt2jR6MGGARVpo_432oJZc",
+      "name": "Anison Karaoke BAR Takamari Kenkyujo",
+      "localName": "高まり研究所 本店",
+      "coordinates": {
+        "lat": 35.702066099999996,
+        "lng": 139.76975819999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e6ea6c5-b0d3-424c-9183-10996857a76e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e6ea6c5-b0d3-424c-9183-10996857a76e.webp"
+        },
+        {
+          "url": "media/cached-image_faa17e2744555c9b89f67706ddae04ae56229a1cc36496a828aa81da2623f3c6.jpg"
+        }
+      ],
+      "type": "Karaoke bar",
+      "categories": [
+        "Karaoke bar"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anison Karaoke BAR Takamari Kenkyujo, 菊池ビル 1F 3 Chome-6-17 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7020352,139.7698348,3a,90y,184.81h,97.36t/data=!3m7!1e1!3m5!1spulmwGdCO-AFVJkE_LGyrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.358829598810075%26panoid%3DpulmwGdCO-AFVJkE_LGyrg%26yaw%3D184.813087546593!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQCMfx6MGGARMelmLQzULr4",
+      "name": "Akibaoo 8",
+      "localName": "あきばお〜 八號店",
+      "coordinates": {
+        "lat": 35.7015051,
+        "lng": 139.7704345
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0d0896ab-6382-4017-b92a-8291cf99284b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0d0896ab-6382-4017-b92a-8291cf99284b.webp"
+        },
+        {
+          "url": "media/cached-image_4021e9e09aa61b75d09018d7e07e94f58fd80a3bbfd20b24e079740e84082663.jpg"
+        }
+      ],
+      "type": "General store",
+      "categories": [
+        "General store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akibaoo 8, 関根ビル 3 Chome-5-14 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.701523,139.7705153,3a,44.6y,163.78h,98.44t/data=!3m7!1e1!3m5!1strdt1r-1Chh_V0vfKJAF2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.4399559229023%26panoid%3Dtrdt1r-1Chh_V0vfKJAF2A%26yaw%3D163.77823425295736!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Akibaoo's storefront on Chuo-dori is part of the Akihabara streetscape that appears throughout the movie as Kurisu wanders the district trying to recover her fragmented memories of Okabe and the Future Gadget Lab."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlUSnDx2MGGARpBmTLzsBJV0",
+      "name": "HEY (Hirose Entertainment Yard) Taito",
+      "localName": "Ｈｅｙ",
+      "coordinates": {
+        "lat": 35.699072,
+        "lng": 139.770917
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a23bf746-74cb-4c51-abcc-22055263a23e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a23bf746-74cb-4c51-abcc-22055263a23e.webp"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 1 Chome−10−5 廣瀬本社ビル HEY (Hirose Entertainment Yard) Taito, １階～４階",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6990327,139.7705163,3a,90y,88.86h,96.08t/data=!3m7!1e1!3m5!1s3nmbPBFGhGeyEWGZUb2t_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.082958109752582%26panoid%3D3nmbPBFGhGeyEWGZUb2t_w%26yaw%3D88.86114772346072!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The HEY arcade on Chuo-dori is one of the landmark Akihabara buildings visible in the movie's establishing shots, situating the story firmly in the otaku district Okabe and the lab members call home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5632_ByMGGARbXR96Cys_Nk",
+      "name": "Trader2",
+      "localName": "トレーダー 秋葉原2号店",
+      "coordinates": {
+        "lat": 35.6985787,
+        "lng": 139.7703905
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5606842d-a913-4015-a08a-727a852e165a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5606842d-a913-4015-a08a-727a852e165a.webp"
+        },
+        {
+          "url": "media/cached-image_ba1dc482bd7de5db0232cefea6c262c86b73fe27eb5473cbbf495f01c3fe91c3.jpg"
+        }
+      ],
+      "type": "Video game store",
+      "categories": [
+        "Video game store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Trader2, 1 Chome-4-9 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6987295,139.7705277,3a,48.8y,204.12h,106.63t/data=!3m7!1e1!3m5!1sbSj8r9UR8KLtv_V37L7GzA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.631874009447245%26panoid%3DbSj8r9UR8KLtv_V37L7GzA%26yaw%3D204.11620527524488!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Trader2's storefront is part of the recognizable Akihabara streetscape depicted throughout the film as Kurisu navigates the district in search of anyone who remembers Rintaro Okabe."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp2I7cY6NGGARVKPt0uBX73g",
+      "name": "UDX Akiba Plaza",
+      "localName": "秋葉原UDX アキバ広場",
+      "coordinates": {
+        "lat": 35.700859699999995,
+        "lng": 139.7724507
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6fbec572-8dad-447d-ba81-670a86a1f035.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6fbec572-8dad-447d-ba81-670a86a1f035.webp"
+        },
+        {
+          "url": "media/cached-image_8230cc2dfb672a3214830a608427e306cf82fe160859408c20c40cb1864b46cd.jpg"
+        }
+      ],
+      "type": "Fairground",
+      "categories": [
+        "Fairground"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "UDX Akiba Plaza, 4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7005019,139.7721349,3a,90y,96.56h,93.86t/data=!3m7!1e1!3m5!1sMGJt8bh4mdoEPBvVzm3fWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.858818777591381%26panoid%3DMGJt8bh4mdoEPBvVzm3fWQ%26yaw%3D96.55825376125028!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The open plaza in front of Akihabara UDX appears in the movie as one of the public gathering spaces in the district where Kurisu looks for evidence that Okabe ever existed in this worldline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ39iz6B2MGGAROnDZGGjrI48",
+      "name": "Liberty Akihabara first store",
+      "localName": "リバティー 秋葉原1号店",
+      "coordinates": {
+        "lat": 35.7013557,
+        "lng": 139.7712989
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2002e7f1-750c-4f0e-8ba7-6710464f3187.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2002e7f1-750c-4f0e-8ba7-6710464f3187.webp"
+        },
+        {
+          "url": "media/cached-image_fd08977efa96d62337cc1bb7c8b66f5243ea0f5cb949be107011ad25c2a96e38.jpg"
+        }
+      ],
+      "type": "Toy store",
+      "categories": [
+        "Toy store"
+      ],
+      "rating": 2.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Liberty Akihabara first store, 恵光ビル １階 3 Chome-14-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7013837,139.771514,3a,90y,95.82h,98.81t/data=!3m7!1e1!3m5!1sdkOMCgYglQCIRSdwOY44_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.811964838119124%26panoid%3DdkOMCgYglQCIRSdwOY44_A%26yaw%3D95.81970992515967!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Liberty's Akihabara storefront is part of the Chuo-dori streetscape featured in the film's Akihabara scenes, filling in the familiar district backdrop as Kurisu tries to piece together her erased memories."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG625yR2MGGARCLufMqew0Co",
+      "name": "Dospara Akihabara Main Shop",
+      "localName": "ドスパラ秋葉原本店",
+      "coordinates": {
+        "lat": 35.700565999999995,
+        "lng": 139.77068889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9a5edbbd-d29b-49e6-85a9-4360b7f28044.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9a5edbbd-d29b-49e6-85a9-4360b7f28044.webp"
+        },
+        {
+          "url": "media/cached-image_9485bdc62291b574d6c6e03777113696d0b5db69d28435adc341081f5d9eb460.jpg"
+        },
+        {
+          "url": "media/cached-image_afaf965a1ab5e621db0acc2627f0755026b4b550b7b443f91f838e4d03b26582.jpg"
+        },
+        {
+          "url": "media/cached-image_bcd2aacde68dd28f5040b6c0038c3b4ad865eaae2b1304c5fd6c9f2bce3528f3.jpg"
+        },
+        {
+          "url": "media/cached-image_3843852175e6381421b834be234766a8e4deada557c3efb16180c4b87a265fc4.jpg"
+        },
+        {
+          "url": "media/cached-image_4b0332674e1896f10c36881568d8fc88e939022c716bf7b9c4e68357f0b87db3.jpg"
+        }
+      ],
+      "type": "Computer store",
+      "categories": [
+        "Computer store"
+      ],
+      "rating": 4.1,
+      "reviewCount": 93,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3 Chome−11−2 ロック2ビル 1F～3F Dospara Akihabara Main Shop, 5F",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7004771,139.7708706,3a,90y,184.96h,99.14t/data=!3m7!1e1!3m5!1swHOtCgc6-N5_HnHZmp-GgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.143720746940133%26panoid%3DwHOtCgc6-N5_HnHZmp-GgQ%26yaw%3D184.9579601685348!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Dospara's prominent Akihabara shop appears as part of the district's tech-store streetscape that defines the setting of the movie, the world that Okabe built his time-leap experiments within."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmUIKPx2MGGAROChPty99Ed4",
+      "name": "Nadai Fujisoba Akihabara Electric Town Store",
+      "localName": "名代 富士そば 秋葉原電気街店",
+      "coordinates": {
+        "lat": 35.698330399999996,
+        "lng": 139.7716637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf200741-2dad-4b98-98c3-30c04c9ca3f5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf200741-2dad-4b98-98c3-30c04c9ca3f5.webp"
+        },
+        {
+          "url": "media/cached-image_cd8095f51227728bddcdf6b2420e0de7bf5b6db642b987df31c2c97b333501ea.jpg"
+        },
+        {
+          "url": "media/cached-image_21233fc7aac23399b7cc9303d503edfcc4adbc9914bf3e5c5a6c840086a4a846.jpg"
+        },
+        {
+          "url": "media/cached-image_5972b9325df1551224367055ce15aed1f8669c922760419b2b5747bc2c50e9a4.jpg"
+        },
+        {
+          "url": "media/cached-image_ee85e6944b2b1f429dc5a21cfe0c485bd4589b2120ba5f10a4d0ee3a92470bc1.jpg"
+        },
+        {
+          "url": "media/cached-image_cb5d174fdd3ac6dabdec37686ef6cd0d386ee824a1771a212902e4d3684d995a.jpg"
+        }
+      ],
+      "type": "Soba noodle shop",
+      "categories": [
+        "Soba noodle shop"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nadai Fujisoba Akihabara Electric Town Store, 外神田一丁目ビル 1 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981843,139.7716334,3a,47.9y,299.97h,93t/data=!3m7!1e1!3m5!1sakuFZUn3Zjn4CKn-cXGl9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.000875194870474%26panoid%3DakuFZUn3Zjn4CKn-cXGl9w%26yaw%3D299.9745864121446!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This soba shop near Akihabara station represents the everyday Tokyo life that Okabe vanishes from in the movie, the mundane neighborhood rhythms that Kurisu must navigate as she searches for proof of his existence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2WQ9sB2MGGAREcJvYULMq24",
+      "name": "Bellesalle Akihabara",
+      "localName": "ベルサール秋葉原",
+      "coordinates": {
+        "lat": 35.7000427,
+        "lng": 139.7710919
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b924411d-a3a9-44fb-9895-e05aff7be2bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b924411d-a3a9-44fb-9895-e05aff7be2bf.webp"
+        },
+        {
+          "url": "media/cached-image_72e13e559fd4c25fd1e15ca8e048dc553f266bd2d1baca2ddb2eb5986e5a288d.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bellesalle Akihabara, B1 1F・2F 3 Chome-12-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6999989,139.7710809,3a,90y,350.03h,92.4t/data=!3m8!1e1!3m6!1sAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN%3Dw900-h600-k-no-pi-2.3998146870585373-ya350.0329879658149-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Bellesalle Akihabara, located on the main Akihabara strip, appears as part of the district's commercial backdrop in the movie's scenes set around the familiar streets near the Future Gadget Lab."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPcnfcGyNGGAR--DglMaEW6I",
+      "name": "Ministop Minami Ikebukuro 2-chome",
+      "localName": "ミニストップ 南池袋２丁目店",
+      "coordinates": {
+        "lat": 35.7243795,
+        "lng": 139.7170628
+      },
+      "image": "https://cdn.animepilgrimage.com/places/812ed7b0-7585-462e-a2f1-7ba8b7cb5628.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/812ed7b0-7585-462e-a2f1-7ba8b7cb5628.webp"
+        },
+        {
+          "url": "media/cached-image_25090aebc693e5a8ea54cffcbe7c14211726cf0db9d2f7750ba7a1a13afd386c.jpg"
+        },
+        {
+          "url": "media/cached-image_7ce59cdacf4451b56d898a54145da365bb86c014580d8aa943cfb93e9531c138.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ministop, 2 Chome-3-1 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7241916,139.7177205,3a,90y,106.76h,99.61t/data=!3m7!1e1!3m5!1s45SsRJBCxDy3dOVI51OmWA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.611532698547705%26panoid%3D45SsRJBCxDy3dOVI51OmWA%26yaw%3D106.75961795859547!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSTiO2h2MGGAR_MLihM0W0DE",
+      "name": "Beef Bowl specialty shop Sambo",
+      "localName": "牛丼専門 サンボ",
+      "coordinates": {
+        "lat": 35.70126,
+        "lng": 139.77097
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f2f7991c-9156-4041-9ec5-ff8cd06e71de.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f2f7991c-9156-4041-9ec5-ff8cd06e71de.webp"
+        },
+        {
+          "url": "media/cached-image_5007a6ad87b1fb73b3757845527961cb23885f080b67b1fb145919566d7dcaa4.jpg"
+        }
+      ],
+      "type": "牛丼屋",
+      "categories": [
+        "牛丼屋"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kokusai Buil., 3 Chome-14-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r3HWtuNwckG67ioQ6",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sambo, the legendary Akihabara beef-bowl shop, is a documented real-world haunt of the Steins;Gate universe, representing the kind of cheap local eatery where Okabe and lab members would grab meals between time-leaping experiments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQf-fxR2MGGARFljBOYSQuZc",
+      "name": "Pasokon Kobo Akihabara BUYMORE",
+      "localName": "パソコン工房 秋葉原本店",
+      "coordinates": {
+        "lat": 35.70097,
+        "lng": 139.77091
+      },
+      "image": "https://cdn.animepilgrimage.com/places/55b13fa9-9c77-42b9-a4a7-7c1674ab5674.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/55b13fa9-9c77-42b9-a4a7-7c1674ab5674.webp"
+        },
+        {
+          "url": "media/cached-image_f0bd9eff7efbadacfeaf8d0d15864ef9b5947e613c979ca8f2f9bfa09eb1c5fc.jpg"
+        },
+        {
+          "url": "media/cached-image_09cb939d1f737b4de8a75a16c960a5ccd7af1150e88996875c3a91e960c8f3a2.jpg"
+        },
+        {
+          "url": "media/cached-image_3120e0df6858f7173592ace927802f0708b9555365d2241830d75847186b1200.jpg"
+        },
+        {
+          "url": "media/cached-image_440524a4057d7ac34b4673c8ed944e8be7f7422f36fe4ac66776153487f49070.jpg"
+        },
+        {
+          "url": "media/cached-image_9fc346d0a8740c3a02acf7c2fb2d3a683cda44505c18b77da62af35327feb416.jpg"
+        },
+        {
+          "url": "media/cached-image_ec1025888da82b15c90f6d5f810972638462c766a42579f838ffb3dbe5f0e60b.jpg"
+        },
+        {
+          "url": "media/cached-image_7e92d2d8374084db379afac228b450e4ee9ad5da4b52e315cab82f6f10caf596.jpg"
+        },
+        {
+          "url": "media/cached-image_b49907a385ab3622810e4ef21b3ee8070ded6d77f9d915b4fae14b8db03eef01.jpg"
+        },
+        {
+          "url": "media/cached-image_4d109ca449db038bbfc1300f4989c7d1a9f001be3926c01faaf46bfdfa13282d.jpg"
+        },
+        {
+          "url": "media/cached-image_37ae6e9a121a7ceb935a9e14d44400dba8f399024dbca12eb4a2cc0c6d071216.jpg"
+        },
+        {
+          "url": "media/cached-image_f46c31953be7ae44b1938d3a05fbe16caf51e08a353690311433542dcad01026.jpg"
+        }
+      ],
+      "type": "パソコンショップ",
+      "categories": [
+        "パソコンショップ"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "秋葉原HFビル 1F, 3 Chome-14-10 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7010573,139.7709257,3a,75y,182.06h,97.33t/data=!3m7!1e1!3m5!1sbA8WESWS5e3DBoHsZ97Zdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DbA8WESWS5e3DBoHsZ97Zdg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D20.381502%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This PC shop near Akihabara station is part of the dense electronics retail streetscape that appears in the movie's Akihabara scenes, the same district backdrop Okabe inhabits before vanishing from Kurisu's memories."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58mpjx6MGGARseWnPsaMkNI",
+      "name": "Horin Park",
+      "localName": "千代田区立芳林公園",
+      "coordinates": {
+        "lat": 35.70201,
+        "lng": 139.77001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72ab4ba5-49b4-4617-9577-e52c7f1846fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72ab4ba5-49b4-4617-9577-e52c7f1846fb.webp"
+        },
+        {
+          "url": "media/cached-image_e5f14fdfba0624e6dc3856231a3224c1caa6693f9eed646488dde95ac4c99b7b.jpg"
+        },
+        {
+          "url": "media/cached-image_c2507903555f34b8825de3e9929923ed847d3b004690f46eb87b03399e2c0852.jpg"
+        },
+        {
+          "url": "media/cached-image_48bb1c7496d1dcebce4ec132c9f50d79fd81ff77ae71bf9386a02b554b8bc9f3.jpg"
+        },
+        {
+          "url": "media/cached-image_e61541dfb6a9c1f5fe641d0bcd039101297114c86316508f9b58bd1b718d1a25.jpg"
+        }
+      ],
+      "type": "公园",
+      "categories": [
+        "公园"
+      ],
+      "rating": 3.9,
+      "reviewCount": 82,
+      "priceLevel": null,
+      "address": "3 Chome-5-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Z8oCCrr3qbH5Nbq26",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Horin Park in Sotokanda is a small green space in Akihabara documented as a background location in the Steins;Gate pilgrimage map, tucked among the electronics shops that define Okabe's neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL6qgjB6MGGARX0HNTQGRMUk",
+      "name": "Repark Soto-Kanda 3-Chome #2",
+      "localName": "三井のリパーク 外神田３丁目第２ 駐車場",
+      "coordinates": {
+        "lat": 35.70255,
+        "lng": 139.77009
+      },
+      "image": "https://cdn.animepilgrimage.com/places/122f8a22-2492-48f1-8a23-f44b6ca20700.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/122f8a22-2492-48f1-8a23-f44b6ca20700.webp"
+        },
+        {
+          "url": "media/cached-image_f125e6559b6f6360d9807ef9bee97695714db0b63d14269e2a26c41fa0c91f4a.jpg"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-6-13 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7027707,139.7701095,3a,90y,180.24h,101.02t/data=!3m6!1e1!3m4!1siKF3pitJSSPUOloIckbigg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+      "name": "Akihabara Radio Kaikan",
+      "localName": "秋葉原ラジオ会館",
+      "coordinates": {
+        "lat": 35.69812,
+        "lng": 139.77194
+      },
+      "image": "https://cdn.animepilgrimage.com/places/614dda15-a34a-46dc-adc6-7345c90a5fed.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/614dda15-a34a-46dc-adc6-7345c90a5fed.webp"
+        },
+        {
+          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981869,139.7719398,3a,90y,168.82h,114.06t/data=!3m7!1e1!3m5!1s8sIi0xcNOuhg7GkIFqubGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8sIi0xcNOuhg7GkIFqubGw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D73.600174%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Radio Kaikan is one of Akihabara's most iconic landmarks and a key visual anchor throughout the Steins;Gate series and movie, visible in establishing shots of the district and referenced as part of the neighborhood fabric Okabe is erased from.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJS2dPOKiOGGAREfQsUq73wP0",
+      "name": "Yanagimori Shrine",
+      "localName": "柳森神社",
+      "coordinates": {
+        "lat": 35.69666,
+        "lng": 139.77364
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77b25a6a-12fc-4978-85ef-47d30b2aee09.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77b25a6a-12fc-4978-85ef-47d30b2aee09.webp"
+        },
+        {
+          "url": "media/cached-image_84997af77db1226a5a206d753be490b2dfad6441e899750536e61a20955124dd.jpg"
+        },
+        {
+          "url": "media/cached-image_8bd6d3e764659882d3013917a7f13d630f41873de8610506c9e1cbbc07391c64.jpg"
+        },
+        {
+          "url": "media/cached-image_b0be5a5b1247ef075fb18a1d5028b6edf07ededccce2972a444b23e92cfbf009.jpg"
+        },
+        {
+          "url": "media/cached-image_104b4bd2e4d26b88a70861588eddc7f23f92d231e1e78b2cdba1233ac6959d69.jpg"
+        },
+        {
+          "url": "media/cached-image_93144188fbd22d636b0fc7e939170f1d7ce05140975c30339963c1891dab9c6d.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.2,
+      "reviewCount": 818,
+      "priceLevel": null,
+      "address": "2 Chome-25-1 Kanda Sudacho, Chiyoda City, Tokyo 101-0041, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6965765,139.773619,3a,90y,0.75h,96.01t/data=!3m7!1e1!3m5!1s91zbA9To6i2A59s_lG6XWQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91zbA9To6i2A59s_lG6XWQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D78.97553%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yanagimori Shrine near Akihabara station appears in pilgrimage documentation of the Steins;Gate universe as a quiet spot tucked behind the Kanda River, close to the world the Future Gadget Lab inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKwk4XmyNGGAR0Ef_7ocPUec",
+      "name": "Toden-Zoshigaya Station",
+      "localName": "都電雑司ヶ谷駅",
+      "coordinates": {
+        "lat": 35.7240835,
+        "lng": 139.7181109
+      },
+      "image": "https://cdn.animepilgrimage.com/places/84d8fccb-9abe-4ef4-8c23-27b988dcfc18.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/84d8fccb-9abe-4ef4-8c23-27b988dcfc18.webp"
+        },
+        {
+          "url": "media/cached-image_26e668c158223a69392baec3bac5eac760eadc2b9458b264e3897e7bbef3a515.jpg"
+        }
+      ],
+      "type": "停留所",
+      "categories": [
+        "停留所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "4-chōme-11 Minamiikebukuro, Toshima City, Tokyo 171-0022, Japan",
+      "city": "Toshima City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7240835,139.7181109,3a,90y,10.16h,102.83t/data=!3m7!1e1!3m5!1smg-tduEVxpXbUAmE1g7eIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dmg-tduEVxpXbUAmE1g7eIQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D30.430117%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Toden Arakawa tram stop at Zoshigaya is a documented pilgrimage point for the Steins;Gate area, connecting the Zoshigaya neighborhood where Suzuha and Mayuri operate to the broader Tokyo that Kurisu traverses in the movie."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQAM1x2MGGARu-lyh99KucQ",
+      "name": "Near the Janpara Akihabara 3",
+      "localName": "じゃんぱら 秋葉原3号店付近",
+      "coordinates": {
+        "lat": 35.7015032,
+        "lng": 139.7709774
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a180866f-0cda-4130-b310-294cade08546.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a180866f-0cda-4130-b310-294cade08546.webp"
+        },
+        {
+          "url": "media/cached-image_28ad04c593cedc24fbc92905653802bdf950c9e1eb9e31eb1e2a2967df227df6.jpg"
+        }
+      ],
+      "type": "中古家電専門店",
+      "categories": [
+        "中古家電専門店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "中栄ビル 1F, 3 Chome-9-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7015032,139.7709774,3a,74.3y,9.73h,105.27t/data=!3m6!1e1!3m4!1skiTWh3qnf-pNyZ2XDCnFKg!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Janpara Akihabara 3 area on Chuo-dori is part of the dense electronics-shop corridor that appears throughout the movie as the backdrop for Kurisu's search through Okabe's familiar Akihabara haunts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU60pGqiOGGARmiqUmxWM_bk",
+      "name": "Kanda Fureai Bridge",
+      "localName": "神田ふれあい橋",
+      "coordinates": {
+        "lat": 35.6969276,
+        "lng": 139.7732739
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8499f659-0225-4cfa-a9ed-3b665e498d0a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8499f659-0225-4cfa-a9ed-3b665e498d0a.webp"
+        },
+        {
+          "url": "media/cached-image_d64aea8b8572faed5bd5ac3aca4746d4511006e72c75d4110a47fcc9f4272222.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-8-7 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6969276,139.7732739,3a,75y,207.18h,98.67t/data=!3m7!1e1!3m5!1sA-rCCPZyunBeZL9e2vh9UA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DA-rCCPZyunBeZL9e2vh9UA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D22.343884%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Kanda Fureai Bridge over the Kanda River is a documented location near Akihabara station that appears in Steins;Gate pilgrimage routes, a short walk from the Future Gadget Lab's real-world Sotokanda address."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyUv1jh6MGGARu-FWB0NBSHk",
+      "name": "Kamikaze Style Akihabara",
+      "localName": "カミカゼスタイル 秋葉原店",
+      "coordinates": {
+        "lat": 35.7021563,
+        "lng": 139.7698065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9278733-7914-40fb-b70b-08e105916600.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9278733-7914-40fb-b70b-08e105916600.webp"
+        },
+        {
+          "url": "media/cached-image_f414c095a50452490c7f952257d71907767d33bd80e63a8a1b239b4aa19a007b.jpg"
+        }
+      ],
+      "type": "T シャツ専門店",
+      "categories": [
+        "T シャツ専門店"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "阿出川ビル, 3 Chome-6-17 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7021563,139.7698065,3a,75y,186.68h,94.53t/data=!3m7!1e1!3m5!1sCgDhZrJhIBhzPWmOoQz7Bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCgDhZrJhIBhzPWmOoQz7Bg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D171.47905%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    }
+  ]
+}

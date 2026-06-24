@@ -1,0 +1,899 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Digimon Adventure: Last Evolution Kizuna",
+  "slug": "digimon-adventure-last-evolution-kizuna",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_48a9949ccfa526b169b6f60a4b3f31181a0ec3f7b2f6876524e1bdf49e76d49b.webp",
+  "image": "media/cached-image_48a9949ccfa526b169b6f60a4b3f31181a0ec3f7b2f6876524e1bdf49e76d49b.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.67222661304347,
+    "lng": 139.52765123913045
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Digimon Adventure: Last Evolution Kizuna"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJm-E6CZDyGGAR6reFw31jItI",
+      "name": "Nakano Shiki no Mori Park",
+      "localName": "中野区立中野四季の森公園",
+      "coordinates": {
+        "lat": 35.7078416,
+        "lng": 139.6614172
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3a8fd95-b425-4284-b2a1-6c9c52966b3a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3a8fd95-b425-4284-b2a1-6c9c52966b3a.webp"
+        },
+        {
+          "url": "media/cached-image_cccb47543a95e7d6284aa1d79ab3d201e3dc245696e74883ae1a4a69b532fa59.jpg"
+        },
+        {
+          "url": "media/cached-image_5dc4e0c4c8d884707e8c97bb44d52520417b771fc609fc426229832e32ca6ab0.jpg"
+        },
+        {
+          "url": "media/cached-image_48f1fcd2e9df114e00dde9eaa2b0708390606f07c0d61d8271571795d78b67d2.jpg"
+        },
+        {
+          "url": "media/cached-image_fb0e863e515fed64f66a39e980c7b90d37566b6430e5ace77db72c6c21840868.jpg"
+        },
+        {
+          "url": "media/cached-image_f54d93a2b0c2a2b3a7ac88e751937e4ab8516dc2fc2e6a20f2e001bbbe3fdcf7.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4,
+      "reviewCount": 181,
+      "priceLevel": null,
+      "address": "Nakano Shiki no Mori Park, 4 Chome-13 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7083124,139.6621006,3a,90y,180.76h,100.53t/data=!3m7!1e1!3m5!1sSCuzfAQCuXQKDZn8a8mxVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.52756634929905%26panoid%3DSCuzfAQCuXQKDZn8a8mxVg%26yaw%3D180.76122629143717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This park adjacent to Toei Animation's Nakano office appears in the film's opening scenes, where college-aged Taichi is shown living and walking through the Nakano area. The park's tree-lined paths were faithfully recreated in the film's background art.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure-last-evolution-kizuna_1",
+      "name": "Cafe de Peru",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.71052,
+        "lng": 139.71233
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8e8558e7-5127-488d-a415-df3d38362550.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8e8558e7-5127-488d-a415-df3d38362550.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.710575,139.7124173,3a,75y,222.91h,101.74t/data=!3m7!1e1!3m5!1sp3-hOGdGDpLHGOtbNxsGCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.74112984644907%26panoid%3Dp3-hOGdGDpLHGOtbNxsGCA%26yaw%3D222.91051358778043!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A small cafe near Waseda University that appears as a background location in scenes depicting Yamato and his college life in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk1wqvhyNGGAROkC2DhtAC0w",
+      "name": "FamilyMart Waseda University South Gate Store",
+      "localName": "ファミリーマート 早稲田大学南門店",
+      "coordinates": {
+        "lat": 35.708066599999995,
+        "lng": 139.7204884
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b9fa9a80-23f2-46eb-89fc-b40f0a6cb7d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b9fa9a80-23f2-46eb-89fc-b40f0a6cb7d9.webp"
+        },
+        {
+          "url": "media/cached-image_e5fb9d04eba9531403849ac085219a89172947fe003826b0279b7de2f60ddfb8.jpg"
+        },
+        {
+          "url": "media/cached-image_f2d7f405442e3b69c484c501d4992488ccfca02af53a5d63b21e0ae269a601d4.jpg"
+        },
+        {
+          "url": "media/cached-image_c756f204e875371c657acdb40c98d24adc612dd7614c266c58c41d2eae103a33.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, 1 Chome-102 Totsukamachi, Shinjuku City, Tokyo 169-0071, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7084457,139.7206774,3a,75y,220.37h,101.88t/data=!3m7!1e1!3m5!1s5cGSQM5H1ABLr9r4Q8Q-Og!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.876313641032283%26panoid%3D5cGSQM5H1ABLr9r4Q8Q-Og%26yaw%3D220.3741654247167!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This convenience store near Waseda University appears in scenes following Yamato as he navigates his college life, reflecting the film's grounded portrayal of the DigiDestined as young adults."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVVJ5XbyGGARwsW038Q7hQM",
+      "name": "Opa Asagaya",
+      "localName": "オーパ阿佐ヶ谷店",
+      "coordinates": {
+        "lat": 35.7046097,
+        "lng": 139.6375181
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a6eafa68-2536-4013-990b-f6a05f901fa1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a6eafa68-2536-4013-990b-f6a05f901fa1.webp"
+        },
+        {
+          "url": "media/cached-image_572c82f7ac3e0a7c5376b5095756248de7689db0f77a969719e6cd675bd97540.jpg"
+        }
+      ],
+      "type": "Pachinko parlor",
+      "categories": [
+        "Pachinko parlor"
+      ],
+      "rating": 2.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒166-0004 Tokyo, Suginami City, Asagayaminami, 2 Chome−18−8 オーパ阿佐ヶ谷 オーパ阿佐ヶ谷店",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7047715,139.637599,3a,90y,318.51h,104.6t/data=!3m7!1e1!3m5!1stmwHzK44_uaOfvJdfutQjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.600181923354086%26panoid%3DtmwHzK44_uaOfvJdfutQjg%26yaw%3D318.5092879741859!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The shopping complex near Asagaya Station appears as a background location in the Asagaya neighborhood scenes, establishing the everyday urban environment Taichi inhabits as a college student."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiw37u6mMGGARSgTdDRm1RvM",
+      "name": "G-CLUB Shibuya",
+      "localName": "(株)黒澤楽器店 G-CLUB Shibuya",
+      "coordinates": {
+        "lat": 35.6600895,
+        "lng": 139.69777639999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3304dd9-e1f7-4c14-8da5-f0152746b1fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3304dd9-e1f7-4c14-8da5-f0152746b1fc.webp"
+        },
+        {
+          "url": "media/cached-image_18a6f9ed97ae8af74b4174e19135ab8f75639e6cbcfeedd8674948d5638a44ad.jpg"
+        }
+      ],
+      "type": "Musical instrument store",
+      "categories": [
+        "Musical instrument store"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "G-CLUB Shibuya, 2 Chome-29-17 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6602102,139.6977485,3a,90y,184.64h,102.64t/data=!3m7!1e1!3m5!1sAIpvgu5ZpvzMzgJRvxNJjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.641447372755167%26panoid%3DAIpvgu5ZpvzMzgJRvxNJjg%26yaw%3D184.64343719154922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Shibuya music instrument store appears in scenes related to Yamato, who pursues his music career alongside his college studies, grounding his character arc in real Tokyo locations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH4Dv4HbyGGARGSsSEY-4PVQ",
+      "name": "Mitsuino Repark Asagaya Bicycle",
+      "localName": "三井のリパーク 阿佐ヶ谷駐輪場",
+      "coordinates": {
+        "lat": 35.7044078,
+        "lng": 139.63747189999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8a35a044-84c5-49eb-bca4-9544d28c2432.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8a35a044-84c5-49eb-bca4-9544d28c2432.webp"
+        },
+        {
+          "url": "media/cached-image_7933a163144d6bb00cf6ef38f3f3b1572a962cffe5c6ad73d7590ad4949ebaff.jpg"
+        }
+      ],
+      "type": "Bicycle rack",
+      "categories": [
+        "Bicycle rack"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mitsuino Repark Asagaya Bicycle, 2 Chome-14-9 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.704764,139.6373867,3a,75y,172.98h,95.98t/data=!3m7!1e1!3m5!1sGKrXGeFpfE0xnuj2MA_9cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.984741162629518%26panoid%3DGKrXGeFpfE0xnuj2MA_9cw%26yaw%3D172.98288955601268!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The bicycle parking area near Asagaya Station is depicted in the film as part of the Asagaya neighborhood backdrop used throughout Taichi's daily life scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOwCjcHbyGGARsO5AiCqWDbk",
+      "name": "Buchi Asagayaten",
+      "localName": "ホルモン焼肉ぶち 阿佐ヶ谷店",
+      "coordinates": {
+        "lat": 35.7051456,
+        "lng": 139.6354228
+      },
+      "image": "https://cdn.animepilgrimage.com/places/338882e0-4e9a-47da-8c00-6902fd891f25.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/338882e0-4e9a-47da-8c00-6902fd891f25.webp"
+        },
+        {
+          "url": "media/cached-image_77dc658339d11447cb5eb670f6a9b94b421133298233512f2d0bddd465b958cd.jpg"
+        },
+        {
+          "url": "media/cached-image_ae491639cc31e8b2ba3ac9f200a98a7c831bf9bd4331cece9fa434764a7e0cca.jpg"
+        },
+        {
+          "url": "media/cached-image_3dc2b365a57febbd9643bb61669a605583fb5c61e1291216d98743295c6d5341.jpg"
+        },
+        {
+          "url": "media/cached-image_1df85232d6a5e9ed7f0fb8e9c40666bc2816129a2bf84ec63fd6fa50582f4733.jpg"
+        },
+        {
+          "url": "media/cached-image_4a3c80e4a82368cc1749957dc826ca95283eb99cdc5ee4b4c9a1179f4fb484bc.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Buchi Asagayaten, 2 Chome-1-6 Asagayakita, Suginami City, Tokyo 166-0001, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.705242,139.6354469,3a,90y,204.97h,103.09t/data=!3m7!1e1!3m5!1sFZPtkLuOTecd3sZ1kzmQRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.094399641747813%26panoid%3DFZPtkLuOTecd3sZ1kzmQRw%26yaw%3D204.971280864769!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This yakiniku restaurant near Asagaya Station appears as part of the Asagaya neighborhood setting, featured in background art during scenes of Taichi and his friends spending time in the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1eKMsfuJGGARrtpDhQqHUG8",
+      "name": "FamilyMart Tradepia Odaiba",
+      "localName": "ファミリーマート トレードピアお台場店",
+      "coordinates": {
+        "lat": 35.6276229,
+        "lng": 139.7763655
+      },
+      "image": "https://cdn.animepilgrimage.com/places/577471de-2df3-4292-8b1a-d3c468cd1233.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/577471de-2df3-4292-8b1a-d3c468cd1233.webp"
+        },
+        {
+          "url": "media/cached-image_b71c4ff093bf9d47fae2bdb22f7544a5ea23c23d0c6aaaa1eedc9bf71ddfc2de.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, ファミリーマートトレードピアお台場店 2 Chome-3-1 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6276636,139.7769057,3a,75y,289.72h,96.87t/data=!3m7!1e1!3m5!1s1ka_2qcBzDIuUMyuY5YWxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.8684565583543815%26panoid%3D1ka_2qcBzDIuUMyuY5YWxw%26yaw%3D289.721479068821!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Odaiba FamilyMart appears in a scene where DigiDestined gather near the waterfront area, a location that echoes the original Digimon Adventure's connection to Odaiba as the site of the children's arrival from the Digital World."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC0TEX8IMImARP0LLcnybQAg",
+      "name": "H-II Rocket Display",
+      "localName": "H-IIロケット",
+      "coordinates": {
+        "lat": 36.0683017,
+        "lng": 140.12916479999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2bd0ffe6-dcf8-4311-bb9d-b72e8f4b0220.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2bd0ffe6-dcf8-4311-bb9d-b72e8f4b0220.webp"
+        },
+        {
+          "url": "media/cached-image_fa6481560910e0fe8ab4fef04f4735b9e34d165aaf21ca1351a2db5a2eff04e0.jpg"
+        }
+      ],
+      "type": "Exhibit",
+      "categories": [
+        "Exhibit"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "H-II Rocket Display, 2 Chome-１-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0679497,140.1294887,3a,49.6y,311.86h,97.87t/data=!3m7!1e1!3m5!1swb2Rx2VF9eNWTnwFHbBBxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.865665881982437%26panoid%3Dwb2Rx2VF9eNWTnwFHbBBxQ%26yaw%3D311.8571793712776!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The H-II rocket exhibit at the Tsukuba Space Center appears in the film in scenes involving Menoa Bellucci, the researcher whose work on the Digital World ties to Japan's scientific institutions. The location grounds her character in real-world science.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP4Hca3byGGAR5UsWU9FYycg",
+      "name": "Burger King Asagaya",
+      "localName": "バーガーキング 阿佐ヶ谷店",
+      "coordinates": {
+        "lat": 35.7056918,
+        "lng": 139.63620319999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/862fee70-d28b-4f59-bcbf-7aece736e8d1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/862fee70-d28b-4f59-bcbf-7aece736e8d1.webp"
+        },
+        {
+          "url": "media/cached-image_409101504da3db2456ca7b2ab7ec38b87ed8a1eb91c672ba95fee7f83dc7dde8.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Burger King Asagaya, 2 Chome-13-2 Asagayakita, Suginami City, Tokyo 166-0001, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7054318,139.6363739,3a,70.2y,307.23h,98.66t/data=!3m7!1e1!3m5!1s8GVWEUDcmUK85Vr1SCMWDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.660436284102857%26panoid%3D8GVWEUDcmUK85Vr1SCMWDQ%26yaw%3D307.2295691253668!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Asagaya Burger King is shown as part of the everyday Asagaya streetscape where Taichi lives, appearing in background art that establishes his college-student lifestyle in this Tokyo neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOTDMnpsEAWARsbHTIbcnJQc",
+      "name": "Yamazaki Shoten",
+      "localName": "真山 碊観音寺",
+      "coordinates": {
+        "lat": 35.0697359,
+        "lng": 135.8105703
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5ab28ab1-4aa2-4ece-8105-c01274baea04.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5ab28ab1-4aa2-4ece-8105-c01274baea04.webp"
+        },
+        {
+          "url": "media/cached-image_bc395b83a7a4642c5d3db9bc1ef274099fc4fe8fdd6a85d721f792082cc8b510.jpg"
+        },
+        {
+          "url": "media/cached-image_58d09b1fdc1c752993ccc63b2dab94d5e73c2bb89be0809a06a78cba85322e3c.jpg"
+        },
+        {
+          "url": "media/cached-image_bf31d9aedd7d082c39e7d70aba63960012cb4529d5c0908735bf0f83bc2b665f.jpg"
+        },
+        {
+          "url": "media/cached-image_f58fc82f1d747bce149ba27828b7715543377de0dbf24e8f623876b298c377df.jpg"
+        },
+        {
+          "url": "media/cached-image_a830a347552cba621840bc3deaf2816f7001e3f82db079afb3e97c14bfc7c243.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "Otokuni District, Kyoto 618-0071",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6158762,139.7443431,3a,45.4y,179.51h,91.09t/data=!3m7!1e1!3m5!1sgyeaRMxL5hs3v7euWBxQeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.0860126912762098%26panoid%3DgyeaRMxL5hs3v7euWBxQeA%26yaw%3D179.51012796192956!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvdMQOx9dGGARbLStP8GzB9k",
+      "name": "Harbor View Park Observatory",
+      "localName": "横浜市港の見える丘公園 展望台",
+      "coordinates": {
+        "lat": 35.4402386,
+        "lng": 139.654596
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_85062c61af6b5d3213f96ccfcbc7d2f34f49b32f69a052a34aff46c10f3280b6.jpg"
+        }
+      ],
+      "type": "展望台",
+      "categories": [
+        "展望台"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "114 Yamatecho, Naka Ward, Yokohama, Kanagawa 231-0862, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4402386,139.654596,3a,47.9y,14.92h,92.53t/data=!3m7!1e1!3m5!1s1Yq_wxeSKyNW00vruCqfVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1Yq_wxeSKyNW00vruCqfVA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D34.450264%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Yokohama Harbor View Park Observatory appears in a poignant scene where two DigiDestined share a quiet moment overlooking the bay, its sweeping views of the Yokohama waterfront serving as a backdrop for an emotional conversation about their futures."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK-m5fnbyGGARzAqJYzNX0MI",
+      "name": "Asagaya Station",
+      "localName": "阿佐ヶ谷駅",
+      "coordinates": {
+        "lat": 35.70441,
+        "lng": 139.63637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/535ab84e-6d08-4440-a226-dc3ab16cbfa9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/535ab84e-6d08-4440-a226-dc3ab16cbfa9.webp"
+        },
+        {
+          "url": "media/cached-image_3d5da480bd1b9e5c7c0827da1732974598512f51d655287245bb890575a2ec1f.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-36-2 Asagayaminami, Suginami City, Tokyo 166-0004, Japan",
+      "city": "Suginami City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5Pmg9Kdy5siR4kWy8",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Asagaya Station is the primary hub for Taichi's daily life in the film, appearing repeatedly as he commutes to university and meets up with fellow DigiDestined. The station's north and south exits were precisely recreated in the film's background art.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7aXn1qmMGGARCoTboyofDbA",
+      "name": "ZETTERIA Shibuya Dogenzaka Store",
+      "localName": "ゼッテリア 渋谷道玄坂店",
+      "coordinates": {
+        "lat": 35.65912,
+        "lng": 139.69834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3602c51c-22f7-49bd-a6ec-489215036769.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3602c51c-22f7-49bd-a6ec-489215036769.webp"
+        },
+        {
+          "url": "media/cached-image_e910e5d739dbc34711baa41d23e672b6a8adf30ca0fa278c325c45077a2ac665.jpg"
+        }
+      ],
+      "type": "ファースト フード店",
+      "categories": [
+        "ファースト フード店"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "１階～３階, 2 Chome-6-14 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PV8cgPi76xbYEu777",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Shibuya Dogenzaka ZETTERIA fast food restaurant appears in scenes set in the Shibuya area, used as a meeting spot background location reflecting the DigiDestined gathering in familiar Tokyo haunts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ18IK6x2KGGARKTc2yLS-030",
+      "name": "Odaiba Marine Park",
+      "localName": "お台場海浜公園",
+      "coordinates": {
+        "lat": 35.6301524,
+        "lng": 139.7753413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e6a2efe-0579-4ac0-8675-3d73e2397abd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e6a2efe-0579-4ac0-8675-3d73e2397abd.webp"
+        },
+        {
+          "url": "media/cached-image_074b321197fb1c0a73652ba559d05ddaa3a669e08ec544a178cdb54d40475d42.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-4 Daiba, Minato City, Tokyo 135-0091, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6301524,139.7753413,3a,75y,316.1h,96.7t/data=!3m6!1e1!3m4!1sTi_o_3j5YzuIjG9GYj5-ag!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Odaiba Marine Park is a key location in the film where DigiDestined gather near Tokyo Bay, echoing the original series' iconic Odaiba connection. The waterfront setting is used for pivotal scenes involving the group coming together as the stakes escalate.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7ehlCpTyGGARXQ_FyC2d6yM",
+      "name": "FamilyMart Nakano Station South Exit Hondori Store",
+      "localName": "ファミリーマート 中野駅南口本通り店",
+      "coordinates": {
+        "lat": 35.7041888,
+        "lng": 139.6656127
+      },
+      "image": "https://cdn.animepilgrimage.com/places/219bc279-09e1-4f85-b4bd-79ba40392c49.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/219bc279-09e1-4f85-b4bd-79ba40392c49.webp"
+        },
+        {
+          "url": "media/cached-image_c8cac1e02003c4333c35ae4541b9745b45f1fd7ed8e5af50164f6695e290f1cf.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart, マルニビル 3F 2 Chome-30-3 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7041409,139.6654409,3a,75y,68h,93.91t/data=!3m7!1e1!3m5!1sV7O02RDoEAE3anuhEiZXSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9131891699140766%26panoid%3DV7O02RDoEAE3anuhEiZXSg%26yaw%3D67.99933768565802!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This FamilyMart on the shopping street south of Nakano Station appears in the film as part of the Nakano neighborhood streetscape that Taichi frequents, reconstructed faithfully in the background art."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmSuHewDzGGARaLy8jIcIv0Q",
+      "name": "7-Eleven Nakano Ekimae Store",
+      "localName": "セブン-イレブン 中野駅前店",
+      "coordinates": {
+        "lat": 35.7053179,
+        "lng": 139.6652585
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b47b7f17-34cb-48be-a7a3-ff134838217a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b47b7f17-34cb-48be-a7a3-ff134838217a.webp"
+        },
+        {
+          "url": "media/cached-image_010ef3628cd7bdbc4819efc5c82780f79f00a27fa2afba17227b0c3ede773469.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-Eleven, ニュークリアビル 3 Chome-36-15 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7053267,139.6655013,3a,48.7y,1.41h,105.16t/data=!3m7!1e1!3m5!1sL6UDI5eO7A5SVzsG0mMATA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.155131987735047%26panoid%3DL6UDI5eO7A5SVzsG0mMATA%26yaw%3D1.405002933614612!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The 7-Eleven in front of Nakano Station appears in scenes of Taichi's everyday life near his home base, part of the detailed Nakano streetscape the film's background artists painstakingly recreated."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJg-7dspDyGGARvvDv4E5-tuE",
+      "name": "Nakano Brick Slope Shopping Association",
+      "localName": "中野ブロードウェイ",
+      "coordinates": {
+        "lat": 35.7092475,
+        "lng": 139.6656524
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9a724398-77d0-417d-a726-20137961015d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9a724398-77d0-417d-a726-20137961015d.webp"
+        },
+        {
+          "url": "media/cached-image_b6faacc37bf4074934f83544dacedeb87f6e6c297669c2470f9b7c42bbf43aa1.jpg"
+        },
+        {
+          "url": "media/cached-image_c5666020983c53994758854d43463a106630962200893d66825dd35614a7c54e.jpg"
+        },
+        {
+          "url": "media/cached-image_bbb71daed0968de61f272a52fab3f2fcaed1cf5cdcd2f3178a9f45e733c02b94.jpg"
+        },
+        {
+          "url": "media/cached-image_077315d6813ee483dd5de827c7440387fffaa1f603bab689b27d444f4172f041.jpg"
+        },
+        {
+          "url": "media/cached-image_24ac5decb173fb3e745a559a4d5a5b645cd4e48271397c891ec4c87e5d6ebee2.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2461,
+      "priceLevel": null,
+      "address": "Nakano Broadway, 5 Chome-52-15 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7050691,139.6649884,3a,75y,94.44h,98.8t/data=!3m7!1e1!3m5!1svkJX_IAnicUg44rzrsk39g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.803653408635043%26panoid%3DvkJX_IAnicUg44rzrsk39g%26yaw%3D94.43641037543306!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Nakano Broadway, the famous otaku shopping mall, appears in the film as a location near Taichi's Nakano neighborhood, providing an ironic real-world counterpart for scenes set in the world of anime and Digimon fandom."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD5lWsZbyGGARzqwWY4ofrIw",
+      "name": "Nakano Station North Entrance Square",
+      "localName": "中野駅北口駅前広場",
+      "coordinates": {
+        "lat": 35.7062453,
+        "lng": 139.6659794
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2cf56c6-c034-4f55-9b91-b99914a0a5ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2cf56c6-c034-4f55-9b91-b99914a0a5ea.webp"
+        },
+        {
+          "url": "media/cached-image_2cae571c1cf7c4350df3ebd4df86929ced9447e7770b7f33000d150a67941ef9.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nakano Station North Exit Plaza, 5 Chome-31 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7061907,139.6654129,3a,38.5y,132.5h,81.35t/data=!3m7!1e1!3m5!1sZq1GmnqfPBrZEHu0mgn2mA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.653674450504795%26panoid%3DZq1GmnqfPBrZEHu0mgn2mA%26yaw%3D132.5024321961829!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The plaza at Nakano Station's north exit is featured in scenes where Taichi is shown coming and going from his neighborhood, with the distinctive station front appearing in multiple background shots throughout the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo9BwwI_yGGARzEFspqeGj3Q",
+      "name": "Smoking area under the east-west connecting passageway at the north exit of Nakano Station",
+      "localName": "中野区",
+      "coordinates": {
+        "lat": 35.7075331,
+        "lng": 139.6637591
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c37d9975-165b-4f9c-a0e0-d278b61b263c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c37d9975-165b-4f9c-a0e0-d278b61b263c.webp"
+        },
+        {
+          "url": "media/cached-image_10dc5e338fb020fdb73cdb86a57b2386c24d85b6d2961645c250870609719232.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Nakano City, Tokyo, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7063145,139.6652921,2a,90y,358h,96.41t/data=!3m7!1e1!3m5!1sRlUOrfjuGB8YnIiBo7HeIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.414371265928565%26panoid%3DRlUOrfjuGB8YnIiBo7HeIw%26yaw%3D358.00156465148297!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This covered passageway area at Nakano Station's north exit appears in the film as a precise background detail in scenes depicting Taichi passing through the station, showcasing the film's meticulous location scouting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_digimon-adventure-last-evolution-kizuna_20",
+      "name": "Nakano Station (bus)",
+      "localName": "中野駅（バス）",
+      "coordinates": {
+        "lat": 35.70664,
+        "lng": 139.66438
+      },
+      "image": "https://cdn.animepilgrimage.com/places/23dcb84f-b6f3-4111-a183-61a6c6f59a51.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/23dcb84f-b6f3-4111-a183-61a6c6f59a51.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7066079,139.6642895,3a,90y,89.97h,102.31t/data=!3m7!1e1!3m5!1s0BMKFR6xr5fTJB2xH_1bWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.306943801886575%26panoid%3D0BMKFR6xr5fTJB2xH_1bWg%26yaw%3D89.96740761214531!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The bus area at Nakano Station is shown in the film as part of Taichi's commute and daily movement around the neighborhood, appearing in background art that mirrors the actual station layout."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpfBwMM7zGGARJJhR_VNBnM8",
+      "name": "Toei Animation",
+      "localName": "東映アニメーション株式会社 本社・中野オフィス",
+      "coordinates": {
+        "lat": 35.7079069,
+        "lng": 139.66298749999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e9f4fd2c-17b3-4846-b658-ca895eb1290c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e9f4fd2c-17b3-4846-b658-ca895eb1290c.webp"
+        }
+      ],
+      "type": "Animation studio",
+      "categories": [
+        "Animation studio"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Toei Animation, Nakano Central Park East, 5F 4 Chome-10-1 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7079939,139.6633461,3a,90y,232.78h,101.77t/data=!3m7!1e1!3m5!1skdaTnLK2wJqiA2RS7lWu1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.7749974670609%26panoid%3DkdaTnLK2wJqiA2RS7lWu1g%26yaw%3D232.7792405047949!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Toei Animation's Nakano office, located in Nakano Central Park East, is the real-world studio behind Digimon Adventure and this film. Its presence in the neighborhood directly inspired the choice of Nakano as the setting for Taichi's college life, making it a uniquely meta pilgrimage destination.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYUTvYpDyGGARCu-QdEptHLI",
+      "name": "Nakano Central Park East Parking Lot",
+      "localName": "中野セントラルパークイーストパーキング",
+      "coordinates": {
+        "lat": 35.708178499999995,
+        "lng": 139.662973
+      },
+      "image": "https://cdn.animepilgrimage.com/places/52cc721e-9bc4-4a6f-a2fb-015f833a8d19.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/52cc721e-9bc4-4a6f-a2fb-015f833a8d19.webp"
+        },
+        {
+          "url": "media/cached-image_d85a0733ca878d4415b37997661d918be21035147a1e1779ee9b65f7347dfc99.jpg"
+        },
+        {
+          "url": "media/cached-image_0a513e21185513281093ce4c84fd92abadf9bfbfe3e467f72bdbd9b989d7b258.jpg"
+        },
+        {
+          "url": "media/cached-image_d840ed53d4ca38e7c076d9b7ffcb8d5bcbe8961f12f108a8bd13feaaabb788f0.jpg"
+        },
+        {
+          "url": "media/cached-image_3f5c1c6712ad017142f38a177e44fc7aa44fea9543f03b40fd61b20e8411eb4d.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nakano Central Park East Parking Lot, 4 Chome-10-1 Nakano, Nakano City, Tokyo 164-0001, Japan",
+      "city": "Nakano City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7081958,139.6633425,3a,48.7y,286.88h,94.48t/data=!3m7!1e1!3m5!1spsz6GehCrjST3euPmLPuCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.48386501751915%26panoid%3Dpsz6GehCrjST3euPmLPuCw%26yaw%3D286.875187486337!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The parking lot of Nakano Central Park East appears as a background location in scenes set around the Toei Animation building, part of the Nakano Central Park complex that the film uses extensively for Taichi's neighborhood."
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Mirai",
+  "slug": "mirai",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_a21e7c0cefb3057f8c1fb82ddc0131fa0cb7a2402c78a4ae22cf1fd17c633257.webp",
+  "image": "media/cached-image_a21e7c0cefb3057f8c1fb82ddc0131fa0cb7a2402c78a4ae22cf1fd17c633257.webp",
+  "banner": null,
+  "primaryLocation": "Kyoto, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.48379352222222,
+    "lng": 138.4850262444444
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Mirai"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJj-9V6PgHAWARobrWGXEGn58",
+      "name": "Daitokuji",
+      "localName": "大徳寺",
+      "coordinates": {
+        "lat": 35.043890999999995,
+        "lng": 135.74603
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_8a7a35b018617ff50c97ac57a524ea86b6eb62a64be4b2a24498678428375492.jpg"
+        },
+        {
+          "url": "media/cached-image_7fd2cde1d27103a32db88c4e7cf95305349758168e02dfe03e904191e9f0f3c6.jpg"
+        },
+        {
+          "url": "media/cached-image_766b533cbb6705b58285c338beb58fa98b9ec208fe9f5b4250f7805b7eed59ca.jpg"
+        },
+        {
+          "url": "media/cached-image_223733349a30983bd64aae77211b22f25a8eee09b8799ee8d4843a909890d74d.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2948,
+      "priceLevel": null,
+      "address": "Daitoku-ji Temple, 53 Murasakino Daitokujicho, Kita Ward, Kyoto, 603-8231, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2984631,139.6298028,3a,90y,153.4h,98.64t/data=!3m7!1e1!3m5!1sqvo37r_HFWambYddMVdqQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.641011647382243%26panoid%3Dqvo37r_HFWambYddMVdqQg%26yaw%3D153.40322350529306!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_mirai_1",
+      "name": "Riding stables (Koiwai Farm facilities)",
+      "localName": "乗馬厩 (小岩井農場の施設)",
+      "coordinates": {
+        "lat": 39.72411,
+        "lng": 141.01406
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dd3d853f-91e9-4038-bcee-6ffd8011738d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dd3d853f-91e9-4038-bcee-6ffd8011738d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@39.7239092,141.0138011,3a,90y,36.24h,98.44t/data=!3m7!1e1!3m5!1sD1oFLt0tnac3DUgKdXcVyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.43793715741306%26panoid%3DD1oFLt0tnac3DUgKdXcVyw%26yaw%3D36.241452798050084!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The stables at Koiwai Farm in Iwate Prefecture inspired the setting where young Kun is transported back in time and meets his great-grandfather as a young man, who calmly lifts Kun onto a horse and teaches him to look ahead and be fearless. The same lesson about focusing on the distance carries through to Kun finally learning to ride his bicycle.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxxGWccVcGGARecfWsHrZcqQ",
+      "name": "Negishi Forest Park",
+      "localName": "根岸森林公園",
+      "coordinates": {
+        "lat": 35.4231347,
+        "lng": 139.6378904
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87dd6bbb-0102-420e-878c-310e183cdfcd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87dd6bbb-0102-420e-878c-310e183cdfcd.webp"
+        },
+        {
+          "url": "media/cached-image_3b2c4c3c0b5a04b57773503cd6ff992473c1e75bb60d16d59954a288c85487a3.jpg"
+        },
+        {
+          "url": "media/cached-image_24323306013920e40149b7da9356216d8e3089c490db6059b4b19ef7b1d1dea4.jpg"
+        },
+        {
+          "url": "media/cached-image_6d466b615edf3bf02e7f82b66936ec9bc41e49db3378bedb10dde25aa0e6d503.jpg"
+        },
+        {
+          "url": "media/cached-image_37fd8f27e0ffd572be11e046f9a095d8094d7f99f1533f07f88b3dbc54718d40.jpg"
+        },
+        {
+          "url": "media/cached-image_3a270ec590f4094a96de0144ef00895df48da3b55e6ea7d1b96fe03778878109.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 535,
+      "priceLevel": null,
+      "address": "Negishi Forest Park, Negishidai, Naka Ward, Yokohama, Kanagawa 231-0853, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4252194,139.6372333,3a,75y,152.5h,101.78t/data=!3m8!1e1!3m6!1sAF1QipNU6mI3naePUjYChIYcKKGJYCI231IzweLBcAOn!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNU6mI3naePUjYChIYcKKGJYCI231IzweLBcAOn%3Dw900-h600-k-no-pi-11.781670857454728-ya17.496966518161003-ro0-fo100!7i3584!8i1792?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This park, built on the grounds of a former racecourse, is where Kun's father brings him to practice riding his new bicycle, while the ruins of the iconic seven-story grandstand loom in the background. The bicycle-learning scenes here are some of the film's most tender moments between father and son.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_mirai_3",
+      "name": "Hishiya (Takeda Miso Direct Sales)",
+      "localName": "菱屋（武田味噌直売所）",
+      "coordinates": {
+        "lat": 36.4067,
+        "lng": 138.25311
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e44c926c-49fb-4e20-ac04-fb4a5f4650fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e44c926c-49fb-4e20-ac04-fb4a5f4650fd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4066797,138.2531284,3a,90y,349.67h,97.5t/data=!3m7!1e1!3m5!1sAoycd-W2-1Br3gsyKCW08w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.500819390135646%26panoid%3DAoycd-W2-1Br3gsyKCW08w%26yaw%3D349.6715921043175!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The preserved Edo-period streetscape around this miso storehouse in Ueda City models the old town streets Kun walks through when he travels back to his mother's 1990s childhood, discovering a side of her he never knew."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_mirai_4",
+      "name": "Deura",
+      "localName": "出浦",
+      "coordinates": {
+        "lat": 36.37656,
+        "lng": 138.16173
+      },
+      "image": "https://cdn.animepilgrimage.com/places/514a13cc-4fa6-44a5-baab-dab3a3f8743e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/514a13cc-4fa6-44a5-baab-dab3a3f8743e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3765672,138.1616764,3a,90y,327.95h,94.96t/data=!3m7!1e1!3m5!1s78NDR2Do5NIXVUr5yx6tUA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.961248161635709%26panoid%3D78NDR2Do5NIXVUr5yx6tUA%26yaw%3D327.9483340396011!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_mirai_5",
+      "name": "Koumura Barbershop",
+      "localName": "甲村理髪店",
+      "coordinates": {
+        "lat": 36.39535,
+        "lng": 138.25678
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44b1eddc-1831-4bc1-bf7f-ae7abbd1b551.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44b1eddc-1831-4bc1-bf7f-ae7abbd1b551.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.3953036,138.2567817,3a,90y,6.48h,92.46t/data=!3m7!1e1!3m5!1seB8Dbju_ZsyaNabVLf5jnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.456365898410226%26panoid%3DeB8Dbju_ZsyaNabVLf5jnw%26yaw%3D6.4810086402453955!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This barbershop along the old Hokoku Highway in Ueda City is where Kun glimpses his young mother as a little girl, tearfully standing outside and giving him an unexpected window into her past."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsaSJhsy8HWARTFv1slYL1uE",
+      "name": "Nihon Ki-in Ueda Branch",
+      "localName": "上田市",
+      "coordinates": {
+        "lat": 36.401912599999996,
+        "lng": 138.249075
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1c15e209-4913-4e1f-ace2-76c6d907ac83.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1c15e209-4913-4e1f-ace2-76c6d907ac83.webp"
+        },
+        {
+          "url": "media/cached-image_d9b2713b9f2a87eec6b0a9b58599c27e4c2fd772310c862e5330b2baeae3eed4.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ueda, Nagano, Japan",
+      "city": "Ueda",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4031176,138.2503175,3a,90y,20.26h,96.9t/data=!3m7!1e1!3m5!1sTEvx53RlYOUcIJKyIGRnHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.8961633282793%26panoid%3DTEvx53RlYOUcIJKyIGRnHg%26yaw%3D20.25786483748157!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk2E1dGLrGGARkpgpoEp6j2o",
+      "name": "Itabashi Botanical Garden",
+      "localName": "板橋区立熱帯環境植物館",
+      "coordinates": {
+        "lat": 35.7919516,
+        "lng": 139.6641148
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b99a15d-7dad-41e7-ad93-fc7a5a0350f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b99a15d-7dad-41e7-ad93-fc7a5a0350f7.webp"
+        },
+        {
+          "url": "media/cached-image_faf201fcb3ad1d1e877a645d3e8d8356009261a4e1ed571d32dc75548f31495e.jpg"
+        },
+        {
+          "url": "media/cached-image_a2becba190907cee038b40d6d327eb019a88f7d7d8ba39a84e152bffa9df2bb5.jpg"
+        }
+      ],
+      "type": "Botanical garden",
+      "categories": [
+        "Botanical garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": 21,
+      "priceLevel": null,
+      "address": "Itabashi Botanical Garden, 8 Chome-29-2 Takashimadaira, Itabashi City, Tokyo 175-0082, Japan",
+      "city": "Itabashi City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Itabashi+Botanical+Garden/@35.792001,139.6640081,3a,43.8y,124.03h,95.97t/data=!3m8!1e1!3m6!1sAF1QipOruzDGhppAN_L9055feKWaK1PCq9-SS0IrBbaa!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOruzDGhppAN_L9055feKWaK1PCq9-SS0IrBbaa%3Dw900-h600-k-no-pi-5.974934102365523-ya116.06695189707911-ro0-fo100!7i11264!8i5632!4m9!3m8!1s0x6018eb6274356193:0x6a8f7a4aa0299892!8m2!3d35.7919516!4d139.6641148!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F03cc355?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The lush tropical greenhouse here inspired the exotic indoor garden setting where Kun first encounters the future Mirai, his baby sister appearing to him as a older girl surrounded by verdant foliage.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGzooY1ij918RSJjQDIViE8o",
+      "name": "Etchu-Nakamura Station",
+      "localName": "越中中村駅",
+      "coordinates": {
+        "lat": 36.7905318,
+        "lng": 137.382446
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04f5bf78-27cd-4063-988f-f65ce76cb234.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04f5bf78-27cd-4063-988f-f65ce76cb234.webp"
+        },
+        {
+          "url": "media/cached-image_1a9a9939b2c9aaf86b20240dfe56f279335523aa648893884d676cba31ea5125.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Etchū-Nakamura Station, Nakamura, Namerikawa, Toyama 936-0002, Japan",
+      "city": "Namerikawa",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7905353,137.382429,3a,90y,241.64h,93.85t/data=!3m8!1e1!3m6!1sAF1QipM7US9i8WP7M56ATVpZPeXfI_52HYcc4qY_GJVo!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipM7US9i8WP7M56ATVpZPeXfI_52HYcc4qY_GJVo%3Dw900-h600-k-no-pi-3.851366566008849-ya241.637908174264-ro0-fo100!7i8000!8i4000?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small, remote unmanned station in Toyama modeled the lonely local station where Kun wanders after running away from home, finding himself stranded at a platform that leads to a fantastical world with no return train.",
+      "fanTopPick": true
+    }
+  ]
+}

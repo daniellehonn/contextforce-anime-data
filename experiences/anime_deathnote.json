@@ -1,0 +1,834 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "DEATH NOTE",
+  "slug": "death-note",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_21c51d2b954b86eabb9c8c81f273fe4b73ff66d9a3161de5a980fc73305ad858.webp",
+  "image": "media/cached-image_21c51d2b954b86eabb9c8c81f273fe4b73ff66d9a3161de5a980fc73305ad858.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.6447115,
+    "lng": 139.53820253809525
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "DEATH NOTE"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWGNFDQJAWARQl6aN9C4edk",
+      "name": "Kyoto District Public Prosecutors Office",
+      "localName": "京都地方検察庁・京都区検察庁・京都地方検察庁園部支部・園部区検察庁・伏見区検察庁・右京区検察庁・宇治区検察庁・亀岡区検察庁",
+      "coordinates": {
+        "lat": 35.021688399999995,
+        "lng": 135.75697929999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20f118df-dc13-48a7-8ee7-df55fed5f277.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20f118df-dc13-48a7-8ee7-df55fed5f277.webp"
+        },
+        {
+          "url": "media/cached-image_05db046edfd958cad2a0269269ae022b786b438a79dfdeb7d23a32153e4dbf5d.jpg"
+        }
+      ],
+      "type": "Public prosecutors office",
+      "categories": [
+        "Public prosecutors office"
+      ],
+      "rating": 2.7,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Kyoto District Public Prosecutors Office, 京都法務合同庁舎 82-82 Ryogoryocho, Kamigyo Ward, Kyoto, 602-8016, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0214927,135.7565499,3a,73.2y,55.07h,94.12t/data=!3m7!1e1!3m5!1sXwxiSuzqN3QoagLcUHiNcg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.116927759966956%26panoid%3DXwxiSuzqN3QoagLcUHiNcg%26yaw%3D55.069937827601024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 32,
+      "entityContext": "Episode 32 \"Selection\" uses a Kyoto prosecutors office as the backdrop for Teru Mikami's backstory, showing how the justice-obsessed Kira devotee worked here as a criminal prosecutor before Light chose him as his proxy. Visiting Kyoto's real prosecutors building connects fans to the origin story of Death Note's most fanatical villain.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13a81a24-256c-43ab-bbc6-6bd15ecdee3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13a81a24-256c-43ab-bbc6-6bd15ecdee3d.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The very first episode opens with Light Yagami walking through this crossing on his way home from school, establishing the mundane, ordinary Tokyo world he is about to shatter. The anime recreates the scramble with remarkable accuracy, including the Shibuya 109 screen overhead, making this the single most iconic Death Note pilgrimage stop in the city.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc_TZJKiMGGARyCzK1gYYDgA",
+      "name": "Mizuho Bank Shibuya Central Branch",
+      "localName": "みずほ銀行 渋谷中央支店",
+      "coordinates": {
+        "lat": 35.6598097,
+        "lng": 139.6996079
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ccfc9ef-da3a-445e-a475-2551a8996be5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ccfc9ef-da3a-445e-a475-2551a8996be5.webp"
+        },
+        {
+          "url": "media/cached-image_bf21ff0882953e598855c2026187a2827db6bbcaaf87d08c31cba9bcb80707fe.jpg"
+        },
+        {
+          "url": "media/cached-image_a7a0c6af92eb3a4c798c2703204319d4c432460f39f387b791b2eb64f0e6c0dc.jpg"
+        },
+        {
+          "url": "media/cached-image_b23b6adea92c49006ef51be95d194692114ad3e87a183627fb2cf83e02bd19b0.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.7,
+      "reviewCount": 278,
+      "priceLevel": null,
+      "address": "Mizuho Bank Shibuya Central Branch, 23-3 Udagawacho, Shibuya, Tokyo 150-0042, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595837,139.699289,3a,64.3y,61.31h,95.19t/data=!3m7!1e1!3m5!1sT2r-631vveQUCf0ZSJSIzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.188773138252671%26panoid%3DT2r-631vveQUCf0ZSJSIzQ%26yaw%3D61.30857686835626!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 25,
+      "entityContext": "This Shibuya branch near the scramble crossing appears in episode 25 \"Silence,\" the episode in which L dies. The surrounding Shibuya streetscape was used as the backdrop for scenes leading into the series' most dramatic turning point, where Light finally defeats his greatest rival.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkWMJTDzzGGAR8IV4Xltatn4",
+      "name": "Tamagawa Josui Greenway, Hatagaya Section",
+      "localName": "玉川上水旧水路 幡ヶ谷緑道",
+      "coordinates": {
+        "lat": 35.673217799999996,
+        "lng": 139.6735324
+      },
+      "image": null,
+      "images": [],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tamagawa Josui Greenway, Hatagaya Section, 1 Chome-14-1 Hatagaya, Shibuya, Tokyo 151-0072, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6798835,139.6841865,3a,38.2y,257.88h,95.59t/data=!3m7!1e1!3m5!1sTIT_FAzI5nztDWrCKRvwYQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.587452969690446%26panoid%3DTIT_FAzI5nztDWrCKRvwYQ%26yaw%3D257.88253290371324!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23,
+      "entityContext": "Episode 23 \"Frenzy\" features this quiet greenway in Hatagaya as a location during the episode's tense car-chase sequence, when the investigation team races to confirm Higuchi as the third Kira. The peaceful canal-side path contrasts sharply with the episode's relentless momentum.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG2LnOGeLGGARwRkN1bkDZLM",
+      "name": "Maison de Musee Omotesando",
+      "localName": "メゾン ド ミュゼ 表参道",
+      "coordinates": {
+        "lat": 35.6592858,
+        "lng": 139.7129508
+      },
+      "image": "https://cdn.animepilgrimage.com/places/66432bd7-37fc-4462-94ca-b03896782e3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/66432bd7-37fc-4462-94ca-b03896782e3d.webp"
+        },
+        {
+          "url": "media/cached-image_63e2fae4c0fbbaee60ea5a1696fde1acd494ad09d946ad9ca995033fd419fe08.jpg"
+        }
+      ],
+      "type": "French restaurant",
+      "categories": [
+        "French restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "maison de musee, 4 Chome-2-9 Shibuya, Tokyo 150-0002, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6593985,139.7130265,3a,90y,213.46h,102.24t/data=!3m7!1e1!3m5!1sr9yV3PtnXJv0yhMIvkvTnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.243787498041385%26panoid%3Dr9yV3PtnXJv0yhMIvkvTnA%26yaw%3D213.458002029547!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 33,
+      "entityContext": "Episode 33 \"Scorn\" uses the upscale Omotesando area for Light's undercover date with news anchor Kiyomi Takada, during which he secretly passes her notes revealing he is Kira and asking her to serve as his public spokesperson. This elegant streetscape near Maison de Musee captures the sophisticated facade Light projects to maintain his cover.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoXHEpNGMGGARLa51vN9ywKQ",
+      "name": "QB HOUSE (Shinjuku South Exit)",
+      "localName": "QB HOUSE 新宿南口店",
+      "coordinates": {
+        "lat": 35.687934999999996,
+        "lng": 139.69785489999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92b7482f-0026-49f1-b929-2bde48385daf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92b7482f-0026-49f1-b929-2bde48385daf.webp"
+        },
+        {
+          "url": "media/cached-image_6caf5e2f05c2bedc11b5b5c3647a18227f36b9f1b2c4764ea68bb07693ea20eb.jpg"
+        },
+        {
+          "url": "media/cached-image_f2990b612a0a3af71c56e963f3d21fa800490a331f1c7e39b2815e987949579f.jpg"
+        },
+        {
+          "url": "media/cached-image_eafb6aa549ef1f51d9e3c42716e7e8f1bd3f61eed89ce4968c796bad0fc23a90.jpg"
+        },
+        {
+          "url": "media/cached-image_68dab217ec116c271a10f87e5c48451bae2620dc4cb12fa86ca286f3523711c8.jpg"
+        },
+        {
+          "url": "media/cached-image_831c1e2ae922d276b59c80b10e4cd0ee213856cf19c64ded7ffaab66c1e12b5b.jpg"
+        }
+      ],
+      "type": "Barber shop",
+      "categories": [
+        "Barber shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "QB HOUSE (Shinjuku South Exit), 本間ビル １F 2 Chome-10-9 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6880872,139.6978146,3a,90y,240.99h,103.3t/data=!3m7!1e1!3m5!1sO75xv5NVsjYNc28lt6Rqjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.296808054814619%26panoid%3DO75xv5NVsjYNc28lt6Rqjw%26yaw%3D240.9892830101704!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 23,
+      "entityContext": "This Shinjuku South Exit barber shop appears in episode 23 \"Frenzy\" as a background location in the Shinjuku district scenes during the high-stakes chase to catch Higuchi. The ordinary storefront is a testament to how precisely Death Note mapped its action onto real Tokyo streets.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJedBg_Hr9GGARPluU2pCmPi8",
+      "name": "Aoyama Gakuin University - Aoyama Campus",
+      "localName": "青山学院大学 青山キャンパス",
+      "coordinates": {
+        "lat": 35.6605194,
+        "lng": 139.7099694
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae96d27e-1229-41cd-9419-d5e045fff71d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae96d27e-1229-41cd-9419-d5e045fff71d.webp"
+        },
+        {
+          "url": "media/cached-image_bf427a2776aaa57658f9e33efbff293091e56dc68e0985b36fce725fc5edec5c.jpg"
+        }
+      ],
+      "type": "Private university",
+      "categories": [
+        "Private university"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Aoyama Gakuin University - Aoyama Campus, 4 Chome-4-25 Shibuya, Tokyo 150-8366, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6614966,139.7091064,3a,86.2y,156.04h,94.96t/data=!3m7!1e1!3m5!1sFNsNNDs-cQ3KC9Aj9N_BQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.958467563413407%26panoid%3DFNsNNDs-cQ3KC9Aj9N_BQw%26yaw%3D156.03753917466454!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Episode 13 \"Confession\" brings Light to the Aoyama campus to search for the second Kira before L can identify her, but Misa Amane, with her Shinigami Eyes, finds Light first, recognizing him as Kira from his face alone. The campus grounds are where the fateful meeting between Light and Misa takes place.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw6Ik3qGMGGAR9KV4_bE2W_M",
+      "name": "MO・MON",
+      "localName": "モモン",
+      "coordinates": {
+        "lat": 35.667435,
+        "lng": 139.711344
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77067ef7-6a26-466b-8151-40c06b2163c3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77067ef7-6a26-466b-8151-40c06b2163c3.webp"
+        },
+        {
+          "url": "media/cached-image_bc6971448fe8a3147c5ee2de35b7190a70fbcef816036776478a7.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Momon, 第一唐澤ビル 4 Chome-4-12 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6712842,139.704525,3a,48.8y,311.99h,101.57t/data=!3m7!1e1!3m5!1shl_7zRpXzuV95yuFNnjaFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.569532011819874%26panoid%3Dhl_7zRpXzuV95yuFNnjaFQ%26yaw%3D311.9880389698851!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Episode 11 \"Assault\" features Misa Amane walking through the Jingumae area near this Harajuku shop, shortly before she makes contact with Light and the investigation team closes in. The Harajuku streetscape grounds Misa's introduction as the second Kira in a recognizable, fashionable Tokyo neighborhood.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsxeiM6GNGGARFM-uzfBcPTY",
+      "name": "Main Gate of Tokyo University",
+      "localName": "赤門",
+      "coordinates": {
+        "lat": 35.710617899999995,
+        "lng": 139.7603547
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fff3c28c-89b7-47b5-8609-5f3223fb1ffc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fff3c28c-89b7-47b5-8609-5f3223fb1ffc.webp"
+        },
+        {
+          "url": "media/cached-image_9b503c1a2c4b94583f8fa00f7f12cbac6c76f3fe60e9b48ef5773d04ec901a56.jpg"
+        }
+      ],
+      "type": "Educational institution",
+      "categories": [
+        "Educational institution"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akamon, 7 Chome-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7129102,139.7594168,3a,75y,83.58h,94.33t/data=!3m7!1e1!3m5!1s4h1_pknJMSiufmF4rsg0ng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.326507307362462%26panoid%3D4h1_pknJMSiufmF4rsg0ng%26yaw%3D83.57998838673392!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The iconic Akamon red gate marks the entrance to the University of Tokyo, the elite institution Light Yagami attends. Episode 9 shows Light on campus as the story develops around his dual life as both a top student and Kira, and the gate itself appears in multiple establishing shots throughout the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_death-note_9",
+      "name": "Seagull Square",
+      "localName": "かもめの広場",
+      "coordinates": {
+        "lat": 35.6723,
+        "lng": 139.75347
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a052134c-5561-49a5-b10c-e65ade2abce9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a052134c-5561-49a5-b10c-e65ade2abce9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6723142,139.7535025,2a,90y,218.82h,95.63t/data=!3m7!1e1!3m5!1sqiMGah_8BB-gtMxPO-h1fQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.634152977748101%26panoid%3DqiMGah_8BB-gtMxPO-h1fQ%26yaw%3D218.824552701759!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This small plaza in the Kasumigaseki government district appears in episode 7 \"Overcast\" during the tense walk between Light and Naomi Misora, in which Light manipulates the grieving FBI agent as they move through the streets surrounding the National Public Safety Commission, ultimately writing her name in the Death Note.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE6hXqvKLGGARpe6HsEfSW7I",
+      "name": "Keizaisangyō-Shō",
+      "localName": "経済産業省前",
+      "coordinates": {
+        "lat": 35.6722463,
+        "lng": 139.7519738
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e8a517dc-d637-4339-9775-c446b4650bb0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e8a517dc-d637-4339-9775-c446b4650bb0.webp"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Keizaisangyō-Shō, 1-chōme-3 Kasumigaseki, Chiyoda City, Tokyo 100-0013, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6724511,139.7521492,3a,56.5y,324.69h,93.54t/data=!3m7!1e1!3m5!1smPJ2N4s1zrSvGT2R5aGeSA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.540027691836727%26panoid%3DmPJ2N4s1zrSvGT2R5aGeSA%26yaw%3D324.6860705033402!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Ministry of Economy, Trade and Industry stop in Kasumigaseki is one of several government-district landmarks that appear in episode 7 \"Overcast\" as Light leads Naomi Misora through the bureaucratic heart of Tokyo, using the official surroundings to lend false credibility to his claim of being a police investigator.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_death-note_11",
+      "name": "Ministry of Agriculture, Forestry and Fisheries",
+      "localName": "農林水産省",
+      "coordinates": {
+        "lat": 35.67299,
+        "lng": 139.75105
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a33363bc-c9ce-4830-9cbf-ce016afd25f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a33363bc-c9ce-4830-9cbf-ce016afd25f1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.672981,139.7508214,3a,51.6y,95.29h,94.84t/data=!3m7!1e1!3m5!1sF2rAthbFdY75C1iBvGRR9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.838105908011428%26panoid%3DF2rAthbFdY75C1iBvGRR9g%26yaw%3D95.2854736025848!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This imposing government ministry building in Kasumigaseki is part of the official-looking streetscape that Death Note uses in episode 7 \"Overcast\" during the pivotal walk where Light psychologically dismantles Naomi Misora while navigating Japan's administrative center.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYYM3YIyLGGARAqJgHX_OWMQ",
+      "name": "Ministry of Foreign Affairs of Japan (MOFA)",
+      "localName": "外務省",
+      "coordinates": {
+        "lat": 35.6741884,
+        "lng": 139.74994519999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6147231f-3069-49a1-8cec-71edc2582e9d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6147231f-3069-49a1-8cec-71edc2582e9d.webp"
+        },
+        {
+          "url": "media/cached-image_ecc8b3223bdfdf4aa278db01816a5f8ae943e9ec5b84e39b373409eb8fc89155.jpg"
+        },
+        {
+          "url": "media/cached-image_64c6b66aa0c28ab8b3ca708bdda242ff559f0455fce9341c03cba603f3029111.jpg"
+        },
+        {
+          "url": "media/cached-image_bd568388647059d2084eb85fcb6ac2a6cdd0ec4bb8c6a602144a222675d4d054.jpg"
+        }
+      ],
+      "type": "Government office",
+      "categories": [
+        "Government office"
+      ],
+      "rating": 3.6,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ministry of Foreign Affairs of Japan (MOFA), 2 Chome-2-1 Kasumigaseki, Chiyoda City, Tokyo 100-8919, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6736331,139.7507244,3a,47.7y,343.81h,98.56t/data=!3m7!1e1!3m5!1s1QtVANGCgzrvhGPopHMBOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.559381912528579%26panoid%3D1QtVANGCgzrvhGPopHMBOw%26yaw%3D343.8068825369747!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Ministry of Foreign Affairs building in Kasumigaseki features in episode 6 \"Unraveling\" as part of the government-district scenery when Light maneuvers around FBI surveillance in the area where Japan's Kira investigation is headquartered. The building's official facade reinforces the show's realistic portrayal of Tokyo's bureaucratic center.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3yGazRuLGGARJoL1SWNtR7w",
+      "name": "Kasumigaseki-zaka",
+      "localName": "霞が関坂",
+      "coordinates": {
+        "lat": 35.674805899999996,
+        "lng": 139.7510173
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4cbb9701-17e7-4fc4-9bed-b7a5a27236da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4cbb9701-17e7-4fc4-9bed-b7a5a27236da.webp"
+        },
+        {
+          "url": "media/cached-image_c0f00408f0a1e993c12583d11bcfb77ce5ae91c43d60cae39195d7b08fc8e582.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasumigaseki-zaka, 2 Chome-2 Kasumigaseki, Chiyoda City, Tokyo 100-0013, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6747102,139.7514111,3a,90y,327.79h,99.23t/data=!3m7!1e1!3m5!1sWMdbBfTHozYWFg7MosMzIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.231768720226313%26panoid%3DWMdbBfTHozYWFg7MosMzIg%26yaw%3D327.7881994053807!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This historic slope in Kasumigaseki appears in episode 6 \"Unraveling\" as part of the district backdrop while the Kira investigation's government contacts and the FBI surveillance team converge in the area. The slope connects several key ministry buildings that Death Note uses throughout its early episodes to establish Tokyo's power corridors.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT7wVXe6LGGARpg6sWitWN8Y",
+      "name": "Imperial Hotel Tokyo",
+      "localName": "帝国ホテル 東京",
+      "coordinates": {
+        "lat": 35.672454,
+        "lng": 139.7579015
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d49e4b45-276b-478a-8968-71a0929cc193.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d49e4b45-276b-478a-8968-71a0929cc193.webp"
+        },
+        {
+          "url": "media/cached-image_8cc553746a09af648ee0b3f4b6b2c726d5b2928bbe7036bb3a9d5950cb8d22dd.jpg"
+        },
+        {
+          "url": "media/cached-image_1417d40dc4d2368335ce489fe2da1843ae64c15f80c4bc07c49377d814a69716.jpg"
+        },
+        {
+          "url": "media/cached-image_b6f1776e7c5b4ad10dfcb341079e7dd643d063057f4e3c1e36d61c029797975d.jpg"
+        },
+        {
+          "url": "media/cached-image_e5171949fca9bb134abed62085f2ff9c1745d0f2de83e4a1f786401b74a00731.jpg"
+        },
+        {
+          "url": "media/cached-image_36c8c4c3ebba55ab6efb3d1291c25d934bf820a47973193d2c565b16819297fb.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1531,
+      "priceLevel": null,
+      "address": "Imperial Hotel Tokyo, 1 Chome-1-1 Uchisaiwaicho, Chiyoda City, Tokyo 100-8558, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Imperial+Hotel+Tokyo/@35.6727216,139.7577202,3a,63.6y,176.51h,97.17t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEoYC9hwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYaPANWBwRUahD8_vinK_OtD9EP_rPGiOnIFq90DyTwkFZlZ6sWFgdO0GbEVcAFav4fQP6bi9RLMyVyMZjzWkOYoCmxm520kz410DFO5DjGe0Ak4WOLWHQHaoXhHwpSCg-xHpNFGg%3Dw900-h600-k-no-pi-7.174876363645325-ya288.4703849989518-ro0-fo100!7i10832!8i5416!4m13!3m12!1s0x60188bee5d15bc4f:0xc637562b5aac0ea6!5m3!1s2025-07-11!4m1!1i2!8m2!3d35.672454!4d139.7579015!10e5!14m1!1BCgIgARICCAI!16zL20vMGc0MHlq?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The real Imperial Hotel in Hibiya is faithfully recreated in episode 5 \"Tactics\" as the location where Soichiro Yagami and the Japanese Task Force meet the mysterious L for the very first time, a pivotal moment that sets the entire investigation in motion. Multiple fan pilgrimage guides confirm the hotel's exterior and lobby were meticulously referenced in the anime.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_death-note_15",
+      "name": "National Public Safety Commission",
+      "localName": "国家公安委員会",
+      "coordinates": {
+        "lat": 35.67535,
+        "lng": 139.75164
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72292a60-0cba-4b8d-8636-b35bda2108b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72292a60-0cba-4b8d-8636-b35bda2108b9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6754192,139.7518649,3a,43y,268.31h,93.79t/data=!3m7!1e1!3m5!1s6kOdo6iIB5htleJcyz1VGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.787528086792733%26panoid%3D6kOdo6iIB5htleJcyz1VGg%26yaw%3D268.3066443181513!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The National Public Safety Commission building in Kasumigaseki serves as the operational base for Japan's Kira investigation, and it is where Light Yagami shockingly reveals to Naomi Misora that he is Kira before writing her name in the Death Note. Multiple pilgrimage guides identify this building as the task force's real-world headquarters reference.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXaZzPdeMGGARl9RKR2_XqZc",
+      "name": "FamilyMart Odakyu Ace",
+      "localName": "ファミリーマート 小田急エース店",
+      "coordinates": {
+        "lat": 35.690064299999996,
+        "lng": 139.69880809999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed35be79-fac2-45dd-a6cf-b72aa43d2c39.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed35be79-fac2-45dd-a6cf-b72aa43d2c39.webp"
+        },
+        {
+          "url": "media/cached-image_583aa5056f9904ceb744c85271b0a030fee5081c75267ecc5180b50f35dcdab9.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Odakyu Ace, 西口地下街１号 1 Chome-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6900069,139.6990141,2a,33.4y,271.96h,89.24t/data=!3m7!1e1!3m5!1soGN9SqAqftOOQFPquDgUcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.7597127412623337%26panoid%3DoGN9SqAqftOOQFPquDgUcA%26yaw%3D271.95829942598476!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This underground convenience store in Shinjuku Station's Odakyu Ace shopping street appears in episode 5 \"Tactics\" during Light's fateful encounter with FBI agent Raye Penber at Shinjuku Station, where Light begins his elaborate scheme to learn the names of all FBI agents investigating the Kira case.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo24g-i-MGGARlboTg0kH5DA",
+      "name": "The University of Tokyo",
+      "localName": "東京大学",
+      "coordinates": {
+        "lat": 35.7104498,
+        "lng": 139.760024
+      },
+      "image": "https://cdn.animepilgrimage.com/places/981f8405-e851-4c30-ada2-19d9af552cc3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/981f8405-e851-4c30-ada2-19d9af552cc3.webp"
+        },
+        {
+          "url": "media/cached-image_b85302e7c8ff54335c1e0975d7cafa31e5717bdf3c27f524b63a08fc904dbeb6.jpg"
+        },
+        {
+          "url": "media/cached-image_1c4011d9c83de4d16da0875b7d0beb10012659881f7464529e8ced0646e80d3a.jpg"
+        },
+        {
+          "url": "media/cached-image_71318e37486404be312bec15e4c12acd5f696b09a30c6b4fe72e752785f441fd.jpg"
+        },
+        {
+          "url": "media/cached-image_2ebf492ba62fcc2cb708c70ad215948edb7e7a3abd06432830db3129921bebcc.jpg"
+        },
+        {
+          "url": "media/cached-image_1e52059e68b36e224afc23f6e1e82cb3feb130f5b41e7e1c19beab9c70478c8c.jpg"
+        },
+        {
+          "url": "media/cached-image_ccc9dfae29083171ccd4d2f48b16acee6e9773a5cbc38f54fbca78120dd3f9b6.jpg"
+        }
+      ],
+      "type": "大学",
+      "categories": [
+        "大学"
+      ],
+      "rating": 4.5,
+      "reviewCount": 370,
+      "priceLevel": null,
+      "address": "7 Chome-3-1 Hongo, Bunkyo City, Tokyo 113-8654, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7104498,139.760024,3a,48.8y,59.42h,94.72t/data=!3m6!1e1!3m4!1sD4aZetrM8k2PrQEaM0-YHw!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The University of Tokyo is the real-world inspiration for the elite university Light Yagami attends, with the Hongo campus appearing in multiple episodes including episode 10 as Light lives his double life as Japan's top student and the secret god of the new world. The campus is one of the most recognized Death Note pilgrimage sites among fans.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZ5YbSXiLGGAR2bi7lKs5Wh0",
+      "name": "Hachiko Square",
+      "localName": "ハチ公前広場",
+      "coordinates": {
+        "lat": 35.6594838,
+        "lng": 139.7008
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef614d6d-2793-45a1-b3c0-497058162ac4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef614d6d-2793-45a1-b3c0-497058162ac4.webp"
+        },
+        {
+          "url": "media/cached-image_6d7e08bf06ae5d907901c8f49d13e291432828654b65b55d0a798b3089d2f000.jpg"
+        },
+        {
+          "url": "media/cached-image_dc1cfd775c7993ce0296e7c60d551f81817ddc4f07c3f10135efd9b13d4513df.jpg"
+        },
+        {
+          "url": "media/cached-image_1c1a99425ab3396b526ff6ba0241dae36b9af3da70ae7a77cdea42b5b6baa1b5.jpg"
+        },
+        {
+          "url": "media/cached-image_c79f616a952f03c725bf5fd3d4a35d93ee02e2b034f4f2e13616224685016034.jpg"
+        },
+        {
+          "url": "media/cached-image_f60f3e3afec551f88f6e709b56001f8dbb9f3bf568b87d71eaf035b06bf60bc0.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.3,
+      "reviewCount": 25351,
+      "priceLevel": null,
+      "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6594838,139.7008,3a,40.5y,170.14h,93.82t/data=!3m7!1e1!3m5!1sXVJVifnGo2nWMynwQxUtJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXVJVifnGo2nWMynwQxUtJg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D58.64933%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Hachiko Square outside Shibuya Station appears in episode 1 as part of the opening sequence establishing Light Yagami's everyday Tokyo world before the Death Note falls from the sky. The square is directly adjacent to the Shibuya Scramble Crossing, making this corner of Shibuya the most recognizable Death Note location cluster in the city.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiZn7EQCNGGARBcFPqnVdJ6I",
+      "name": "Takeshita Street Entrance Arch (Harajuku Station)",
+      "localName": "竹下通り 入口アーチ (原宿駅)",
+      "coordinates": {
+        "lat": 35.67152,
+        "lng": 139.70342
+      },
+      "image": "https://cdn.animepilgrimage.com/places/460ae580-d094-46eb-8fd9-cc7f62879842.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/460ae580-d094-46eb-8fd9-cc7f62879842.webp"
+        },
+        {
+          "url": "media/cached-image_f196719c28169bffbfaee2acd995191f92f59f8fd7625e6a07cf59b1a8933da7.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-19-11 Jingumae, Shibuya, Tokyo 150-0001, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/B9Pf9d4w589SusHWA",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The entrance arch to Takeshita-dori in Harajuku appears in episode 11 \"Assault\" when Misa Amane, the second Kira, is shown walking through the area she calls home. This iconic youth fashion street perfectly captures Misa's character, and fan pilgrimage guides confirm its appearance in her introductory scenes.",
+      "fanTopPick": false
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE_QrgGuMGGARiHFlyXFcWyE",
+      "name": "Nippon Budokan",
+      "localName": "日本武道館",
+      "coordinates": {
+        "lat": 35.69306,
+        "lng": 139.74926
+      },
+      "image": "https://cdn.animepilgrimage.com/places/46cc980c-c7f3-4307-a5e6-408afa2404e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/46cc980c-c7f3-4307-a5e6-408afa2404e4.webp"
+        },
+        {
+          "url": "media/cached-image_545c9e64a66f4be8b3dce49714bd17da49e71a0924435f8de6c081d9ab3b1556.jpg"
+        }
+      ],
+      "type": "表演場地",
+      "categories": [
+        "表演場地"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2-3 Kitanomarukoen, Chiyoda City, Tokyo 102-8321, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6930842,139.7492335,3a,90y,61.44h,107.42t/data=!3m7!1e1!3m5!1sqdHZCiuGLFUe433zTJOD3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.42101687919373%26panoid%3DqdHZCiuGLFUe433zTJOD3Q%26yaw%3D61.44409339177349!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Nippon Budokan, located near the University of Tokyo, appears in episode 9 as part of the Chiyoda-area scenery during this pivotal episode where Light enters university life and continues evading L's surveillance. The landmark arena's distinctive octagonal roof is recognizable in aerial shots used to establish this part of central Tokyo.",
+      "fanTopPick": false
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Medalist Season 2",
+  "slug": "medalist-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_cad030a5f20b18bc311678d4ba6f5a93e62d2e8a18564f0b2a7af1ecd8d96267.webp",
+  "image": "media/cached-image_cad030a5f20b18bc311678d4ba6f5a93e62d2e8a18564f0b2a7af1ecd8d96267.webp",
+  "banner": null,
+  "primaryLocation": "Aichi, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.91936825,
+    "lng": 137.5424620125
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Medalist Season 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJhcXX8jN3A2ARb7-7pVIeB4w",
+      "name": "Nagoya Sports Center",
+      "localName": "大須スケートリンク（名古屋スポーツセンター）",
+      "coordinates": {
+        "lat": 35.1575219,
+        "lng": 136.8991237
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a1bd90d-7300-4baf-84a3-0d9e563e092b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a1bd90d-7300-4baf-84a3-0d9e563e092b.webp"
+        },
+        {
+          "url": "media/cached-image_b43a8c1efaf4a27dbd9d93f7dfaa9d574fdfb23684844ebd68a797c5b8d5bd0d.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagoya Sports Center, 1-60 Monzencho, Naka Ward, Nagoya, Aichi 460-0018, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1576812,136.8985905,3a,75y,69.97h,98.74t/data=!3m7!1e1!3m5!1srZr8ff9XvrF99r9ePgDENw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.737200842929724%26panoid%3DrZr8ff9XvrF99r9ePgDENw%26yaw%3D69.96614462431972!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 1,
+      "entityContext": "The Osu Skate Rink inside Nagoya Sports Center is where young Inori takes her very first skating steps under Tsukasa's coaching, making it the emotional birthplace of their partnership and Inori's dream of becoming a medalist.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf7rMJC9Pm18Rj80o6rcqRso",
+      "name": "FLAT HACHINOHE",
+      "localName": null,
+      "coordinates": {
+        "lat": 40.5111237,
+        "lng": 141.427989
+      },
+      "image": "https://cdn.animepilgrimage.com/places/nlQjJcAbB6k7F8FJv7Pv.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/nlQjJcAbB6k7F8FJv7Pv.webp"
+        },
+        {
+          "url": "media/cached-image_b7ca1f692d2ae4621fbeee49fbbc9d36063aa3e85b4fde54e6bd991818b5435f.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒039-1101 Aomori, Hachinohe, Shiriuchimachi, Sanjome−7-7 FLAT HACHINOHE",
+      "city": "Hachinohe",
+      "region": "Aomori",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Vn84NyEZ61hTWUq47",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "FLAT HACHINOHE serves as a competition venue in Season 2, where Inori faces rivals from across the country and Tsukasa watches anxiously from the boards as her skater pushes her limits on unfamiliar ice."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6-3nCmH_HGARXUcbEn9ptUA",
+      "name": "Suwako Service Area (Up)",
+      "localName": "諏訪湖 サービスエリア (上り)",
+      "coordinates": {
+        "lat": 36.0267014,
+        "lng": 138.0774286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/49a10795-58b4-4913-a28b-347e50610655.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/49a10795-58b4-4913-a28b-347e50610655.webp"
+        },
+        {
+          "url": "media/cached-image_e110195215dbca0d9a5d7fc985a64999c1427574e1eb6d3c68a0779f852330ce.jpg"
+        },
+        {
+          "url": "media/cached-image_c09c40fe6ec5e3602b6050964d4066db15e895b173bfab312ac16c34b42a1064.jpg"
+        },
+        {
+          "url": "media/cached-image_d55b5ef8f80badc8e813f20f9cc567efd0b79d2050a4ff782fdcad71ce701fd4.jpg"
+        },
+        {
+          "url": "media/cached-image_3d425988c791930c9f199936e4c1a1890b3b3fab1e39f3981b1d5bc837fa2029.jpg"
+        },
+        {
+          "url": "media/cached-image_859d9a9232e9d72fefdd375a8c93b276cba40cf0b79c26998ca5df2cbde08606.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1042,
+      "priceLevel": null,
+      "address": "Japan, 〒392-0016 Nagano, Suwa, Toyoda, Suwako SA (Up), 所久保４１１−７",
+      "city": "Suwa",
+      "region": "Nagano",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nzVkXGPGmr72zYub9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Suwako Service Area on the Chuo Expressway appears during the Episode 7 road trip, capturing the quiet tension of coach and skater traveling together toward a distant competition with Lake Suwa visible in the background."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_medalist-2_3",
+      "name": "Byobusan Parking Area (up)",
+      "localName": "屏風山 パーキングエリア (上り)",
+      "coordinates": {
+        "lat": 35.39682,
+        "lng": 137.27549
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0985c8d6-b0e9-438e-9974-14c98a05f6be.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0985c8d6-b0e9-438e-9974-14c98a05f6be.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/R8ZWVzQ7hUcP82zK9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Byobusan Parking Area appears alongside Suwako SA as part of the same Episode 7 highway journey, depicting the unglamorous but intimate moments of travel that bond Inori and Tsukasa off the ice."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_StVu215A2ARUk4VDzdOWGA",
+      "name": "Howa-minato Skate Rink",
+      "localName": "邦和みなと スケートリンク",
+      "coordinates": {
+        "lat": 35.1067672,
+        "lng": 136.8824299
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6ffc1485-4be0-429c-a1a5-017a2acead62.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6ffc1485-4be0-429c-a1a5-017a2acead62.webp"
+        },
+        {
+          "url": "media/cached-image_63e0177a075c60e6d57c5e1a71f93edf58555805f8ab66ab68b039c195126f0b.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Howa-minato Skate Rink, 1 Chome-8-23 Koei, Minato Ward, Nagoya, Aichi 455-0015, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Hq1rM6q199GN7JMi8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Howa-minato Skate Rink in Nagoya's Minato Ward is used as a training ice surface in Episode 4, where Inori works through her technical weaknesses under Tsukasa's watchful eye before a key competition."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu89hkvpmA2ARE1K8uk1UNa4",
+      "name": "Moricoro Park Ice Skating Rink",
+      "localName": "モリコロパーク アイススケート場",
+      "coordinates": {
+        "lat": 35.1744334,
+        "lng": 137.0885667
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1514afa1-b2fa-48df-aa0a-47614ac8044e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1514afa1-b2fa-48df-aa0a-47614ac8044e.webp"
+        },
+        {
+          "url": "media/cached-image_3c2207c7131ba0c8007ddceb1b787c7b0a708ca6bd9e4efcdcbc702c8e1ab669.jpg"
+        },
+        {
+          "url": "media/cached-image_7c37323a3c2c67117c0629dfa660156769f8c867c09618ebbf0683dab35f4790.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 4.1,
+      "reviewCount": 60,
+      "priceLevel": null,
+      "address": "Moricoro Park Ice Skating Rink, 乙-1533-1 Ibaragabasama, Nagakute, Aichi 480-1342, Japan",
+      "city": "Nagakute",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PU1WiStYUVKY9GL97",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Moricoro Park rink in Nagakute appears in Episode 1 as another skating location in the Aichi area where Inori's journey begins, part of the real-world Aichi skating circuit that grounds the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzx5AKhMRAWARJNPu7CSfPLg",
+      "name": "Kinoshita Academy Kyoto Ice Arena",
+      "localName": "木下アカデミー京都アイスアリーナ",
+      "coordinates": {
+        "lat": 34.8750998,
+        "lng": 135.8068955
+      },
+      "image": "https://cdn.animepilgrimage.com/places/iFt32NuGOKRVKz4r68sx.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/iFt32NuGOKRVKz4r68sx.webp"
+        },
+        {
+          "url": "media/cached-image_f365b053579e358b5ec87171087449f377d4f63eedec631da525dad32c184d8c.jpg"
+        }
+      ],
+      "type": "Ice skating rink",
+      "categories": [
+        "Ice skating rink"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kinoshita Academy Kyoto Ice Arena, Orii-24 Uji, Kyoto 611-0024, Japan",
+      "city": "Uji",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kinoshita+Academy+Kyoto+Ice+Arena/@34.8759913,135.8054789,3a,90y,328h,94.64t/data=!3m8!1e1!3m6!1sAF1QipPLJQqSJXbCU7PYjJ1S57L20M65vnY6hxicRbjN!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPLJQqSJXbCU7PYjJ1S57L20M65vnY6hxicRbjN%3Dw900-h600-k-no-pi-4.638209706113059-ya10.047198573773642-ro0-fo100!7i6720!8i3360!4m9!3m8!1s0x600111132a401ecf:0xb83c9f24eceed324!8m2!3d34.8750998!4d135.8068955!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11fpgrs87l?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kinoshita Academy Kyoto Ice Arena in Uji appears in Episode 9 as a competitive or rival training ground, reflecting the high-level club infrastructure that Inori and Tsukasa must contend with as they climb the ranks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLbByNr55A2AREhl0zL--qRM",
+      "name": "Howa Sportsland",
+      "localName": "邦和みなと スポーツ＆カルチャー【複合施設】",
+      "coordinates": {
+        "lat": 35.106478599999996,
+        "lng": 136.8817727
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f3f7bd6f-6807-431e-af76-c7f2f5f453a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f3f7bd6f-6807-431e-af76-c7f2f5f453a3.webp"
+        },
+        {
+          "url": "media/cached-image_8f037ee96801206b1e644a14d9bf913d924cf6b01e7c6222d3058602cfa9da11.jpg"
+        },
+        {
+          "url": "media/cached-image_e84cce326c6220ea210cbba0b8e4b3f8f44ddd23a9edded0c5bbfec18b0f564d.jpg"
+        },
+        {
+          "url": "media/cached-image_bb09904b6342ae777c18bf23a77b6b99accce60e462f1616357c839c81059d3b.jpg"
+        },
+        {
+          "url": "media/cached-image_9cfb0200ce6add3cd9e42eea3531db49007f7757eca26e5937e1d6d4caa97894.jpg"
+        },
+        {
+          "url": "media/cached-image_63e0177a075c60e6d57c5e1a71f93edf58555805f8ab66ab68b039c195126f0b.jpg"
+        }
+      ],
+      "type": "Sports complex",
+      "categories": [
+        "Sports complex"
+      ],
+      "rating": 3.9,
+      "reviewCount": 365,
+      "priceLevel": null,
+      "address": "Howa Sportsland, 1 Chome-8-23 Koei, Minato Ward, Nagoya, Aichi 455-0015, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1063233,136.8817598,3a,75y,83.46h,94.72t/data=!3m7!1e1!3m5!1sy4ZXakTQ_FMuhBa83Jy93Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.719337456385361%26panoid%3Dy4ZXakTQ_FMuhBa83Jy93Q%26yaw%3D83.45958151095736!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Howa Sportsland is the broader sports complex housing the Howa-minato rink, appearing in Episode 1 as part of the Nagoya skating world that forms the backbone of Inori's training environment throughout the series."
+    }
+  ]
+}

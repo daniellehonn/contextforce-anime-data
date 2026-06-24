@@ -1,0 +1,3173 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Love Live! Sunshine!!",
+  "slug": "love-live-sunshine",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_1f8e628b60f068cc4e30be231da82817d7e22cb24636daaad5cefb73bc461491.webp",
+  "image": "media/cached-image_1f8e628b60f068cc4e30be231da82817d7e22cb24636daaad5cefb73bc461491.webp",
+  "banner": null,
+  "primaryLocation": "Shizuoka, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.20503073988095,
+    "lng": 138.87418023630948
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Love Live! Sunshine!!"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-Sd3qJOTGWARRZUSgICytPw",
+      "name": "Izu-Nagaoka Station",
+      "localName": "伊豆長岡駅",
+      "coordinates": {
+        "lat": 35.0397977,
+        "lng": 138.9473959
+      },
+      "image": "https://cdn.animepilgrimage.com/places/16464d43-c408-4580-b065-4914f52810f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/16464d43-c408-4580-b065-4914f52810f3.webp"
+        },
+        {
+          "url": "media/cached-image_68edcbbe98c8784ba35491c8de830b33b075bfc5d5e23fddb90ce8c106fc2c3a.jpg"
+        },
+        {
+          "url": "media/cached-image_4e937427a41abe5e0cca0ce9e381500b68ec28ab73adcb49abe47aebb4a85241.jpg"
+        },
+        {
+          "url": "media/cached-image_d55feba56bbabebf3fcb5c818501ba52d10174dd20560efb84e26b41607e138e.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 69,
+      "priceLevel": null,
+      "address": "Izu-Nagaoka Station, Nanjō, Izunokuni, Shizuoka 410-2114, Japan",
+      "city": "Izunokuni",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0395862,138.9470576,3a,43.8y,78.82h,94.63t/data=!3m7!1e1!3m5!1sLSpTW9IXrdGdMCWCazxWCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.62859921804727%26panoid%3DLSpTW9IXrdGdMCWCazxWCQ%26yaw%3D78.82308719858757!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Chika and the girls pass through this station on their way to Tokyo, marking the beginning of their journey to reach a wider audience beyond Numazu."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzbpGbmuSGWARcgeAV_cZKVM",
+      "name": "7-Eleven Izu-Mito Sea Paradise Mae Store",
+      "localName": "伊豆・三津シーパラダイス",
+      "coordinates": {
+        "lat": 35.019500199999996,
+        "lng": 138.8960105
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74d0c03b-673a-4024-9cfe-9ec370bbe139.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74d0c03b-673a-4024-9cfe-9ec370bbe139.webp"
+        },
+        {
+          "url": "media/cached-image_71659b60b6053cc25292ab67396dda8c52419896bb4388d1865e3ef81c0d0247.jpg"
+        },
+        {
+          "url": "media/cached-image_3abb8b7cb432c953b9f756e9ffa771949b2ace658d90692858c1799d89fe8b70.jpg"
+        },
+        {
+          "url": "media/cached-image_4b2f7c3296276ab57318cfaf58284f156ad69b175b424bafe8124962129649da.jpg"
+        },
+        {
+          "url": "media/cached-image_32bdc53405c3d1b4b4c21ec6fcce1bf6f477bed944e539f5f3ea1aaeb2ce026a.jpg"
+        },
+        {
+          "url": "media/cached-image_dc66cd14e93d0c0b92d210d6178d0f1a444c23729515c0140cd28890d6f645e1.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.2,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Izu Mito Sea Paradise, 3-1 Uchiuranagahama, Numazu, Shizuoka 410-0295, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0220085,138.8971069,3a,90y,208.17h,92.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq68LxmQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0hcbshRh0romiMeIkvFSKx6GUg4vNLavqXkGq3ivUGRMn6Q51j2kNKK4_shuE_2R78h-1jpbhwO9pQmLD_vz9Ic968fZgSPI_eRYe4B656J5WN1V996_u2E72AUzRmExvMlpgTJg%3Dw900-h600-k-no-pi-2.3561273096013764-ya275.6688618452429-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This 7-Eleven near Mito Sea Paradise serves as a backdrop for casual moments when Aquors members grab snacks after visiting the nearby marine park."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_2",
+      "name": "Numakuru Station San-no-Ura General Information Center",
+      "localName": "ぬまクルステーション 三の浦総合案内所",
+      "coordinates": {
+        "lat": 35.01781,
+        "lng": 138.89324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71d0c52c-4cda-4ee7-9356-862b3ca5cf77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71d0c52c-4cda-4ee7-9356-862b3ca5cf77.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.017766,138.8932498,3a,90y,332.93h,101.58t/data=!3m7!1e1!3m5!1sif_rp1STa6eO-iyjYEZxSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.576209422424853%26panoid%3Dif_rp1STa6eO-iyjYEZxSQ%26yaw%3D332.92519384203445!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This tourist information center in the Sannoura area doubles as a gathering spot referenced in the anime, reflecting the show's close ties to the local Uchiura community."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJRBIxhySGWAR_AP9kkgTW0E",
+      "name": "Awashima Hotel",
+      "localName": "淡島ホテル",
+      "coordinates": {
+        "lat": 35.03553,
+        "lng": 138.8868255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/33704a3e-eada-4eee-8bd7-5d29f5d0de69.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/33704a3e-eada-4eee-8bd7-5d29f5d0de69.webp"
+        },
+        {
+          "url": "media/cached-image_ebd7599ec0978646bd775fb79fdce15f2db7bbbda05c64f45401740b162919c2.jpg"
+        },
+        {
+          "url": "media/cached-image_265c84d616c4df78b987d4097a2143ad87122462e829041a5a148d69bac39a83.jpg"
+        },
+        {
+          "url": "media/cached-image_4a045e905a2abeb7cfb6c2c9509823f9f7fc4e8c3250f896edc79d3b51aae2bc.jpg"
+        },
+        {
+          "url": "media/cached-image_24949feabac129d14e8e865b4b2a080d2bdd936585982aeef2f1986848c6a919.jpg"
+        },
+        {
+          "url": "media/cached-image_6bdb1cd15aa692b19613f79391e3e50058ecd52ab47009264f16115a44d29caf.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Awashima Hotel, 186 Uchiurashigedera, Numazu, Shizuoka 410-0221, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Awashima+Hotel/@35.0356667,138.8866667,3a,90y,50.15h,88.67t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDc0ZKn9AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1zIJKkKJy7AbzEd6WGvsyLUv_WLd0bUDpPtQr3J3j3l-_y52kCryIHLDXjmT3XYXs5-sl0E6VzTxLjxtMSNvM4p5Pzf633MugPWP9vh8KBc0PlOZjYyGNkF-JEYU6ia7VCu1t18g%3Dw900-h600-k-no-pi1.325414133465216-ya5.303792009908811-ro0-fo100!7i6720!8i3360!4m12!3m11!1s0x6019921cc6481025:0x415b134892fd03fc!5m2!4m1!1i2!8m2!3d35.03553!4d138.8868255!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11j4jv4k1d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Awashima Hotel, situated on the small island of Awashima, appears in episode 9 when Aquors undertake a special activity, the secluded waterfront setting conveying the feeling of an island getaway."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_4",
+      "name": "Yunen Daimyo Monument",
+      "localName": "唯念名号碑",
+      "coordinates": {
+        "lat": 35.01684,
+        "lng": 138.89175
+      },
+      "image": "https://cdn.animepilgrimage.com/places/82f9105a-00e3-42bb-9288-29a7c81687b8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/82f9105a-00e3-42bb-9288-29a7c81687b8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0168653,138.8917951,3a,90y,189.81h,89.13t/data=!3m7!1e1!3m5!1s_rYedeBavkCmGu1ClTZTtw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.8732175576404444%26panoid%3D_rYedeBavkCmGu1ClTZTtw%26yaw%3D189.80837568430252!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This historical stone monument in the Sannoura area is one of the quiet neighborhood landmarks seen in the background of scenes set in the Uchiura area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_5",
+      "name": "Okawa family Nagayamon",
+      "localName": "大川家長屋門",
+      "coordinates": {
+        "lat": 35.01731,
+        "lng": 138.89348
+      },
+      "image": "https://cdn.animepilgrimage.com/places/22fb5e27-316e-4008-b0a9-0fcb5888dfbb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/22fb5e27-316e-4008-b0a9-0fcb5888dfbb.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0173364,138.8934752,3a,90y,144.35h,91.85t/data=!3m7!1e1!3m5!1scp4fHLOdAIwTTKIrgAOGYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8471350130139683%26panoid%3Dcp4fHLOdAIwTTKIrgAOGYA%26yaw%3D144.349857157287!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Okawa family gate, a traditional long-roofed wooden structure in the Sannoura district, appears briefly in episode 9 as part of the old-town streetscape Aquors wander through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx7L8cQySGWARgwoUaOZsf84",
+      "name": "Nagaisaki Bentenjima Shrine",
+      "localName": "長井崎弁天島神社",
+      "coordinates": {
+        "lat": 35.0197199,
+        "lng": 138.88561629999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/789d6503-3cc9-4618-a9e1-0e4c0703bc86.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/789d6503-3cc9-4618-a9e1-0e4c0703bc86.webp"
+        },
+        {
+          "url": "media/cached-image_01e66ffdd1c22e9b90c744c51b4a7e7048ff403f3e2e220d552854b12251c08d.jpg"
+        },
+        {
+          "url": "media/cached-image_8bae415f4d5ba7d5bbb35f6cf1c71f09b0291f6be4ec2f4529c44747df66895f.jpg"
+        },
+        {
+          "url": "media/cached-image_ea00e0b5f570fcf4eb9ef5e59f4ae218a06fc095db3901d614ea487fd89cb056.jpg"
+        },
+        {
+          "url": "media/cached-image_bc2f6876f109053c423bf052021ffb48b7aba689bd1ea3a6f0e2f36e318e6286.jpg"
+        },
+        {
+          "url": "media/cached-image_dd8728ced259d1e284de29b03e78241c40ab4d3256acd71823db1205c41c84ba.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 67,
+      "priceLevel": null,
+      "address": "Nagaisaki Bentenjima Shrine, Uchiuraomosu, Numazu, Shizuoka 410-0225, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Nagaisaki+Bentenjima+Shrine/@35.0199788,138.8856438,3a,90y,2.68h,100.36t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICEtKy3Ug!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAB5caB-INnOukoBYz3C-WkzOC6KqUNOssNbHSi2Kn2Bi55j8LXwYh8GZOT0Ed3npjL4S0Yth9rwOrF0JsZ_8g2toUcrYSUu5rbLfSCK4Jf7mGSWIz1vWJJ0oS8SrNp42lKYmM-2Q3wNv%3Dw900-h600-k-no-pi-10.356818522759141-ya14.174277962853807-ro0-fo100!7i6720!8i3360!4m9!3m8!1s0x6019920c71fcb2c7:0xce7f6ce668140a83!8m2!3d35.0197199!4d138.8856163!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11cn5pmd22?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This small island shrine connected to the shore appears in episode 9, with Aquors visiting its scenic oceanside setting as they explore the Uchiura coastline together."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW8FEuc1fGGARHzi-yw61Le8",
+      "name": "Saiwai Ward",
+      "localName": "幸区",
+      "coordinates": {
+        "lat": 35.5482343,
+        "lng": 139.68603249999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3214e17e-f0c9-4074-bda7-cc50a650f369.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3214e17e-f0c9-4074-bda7-cc50a650f369.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Saiwai Ward, Kawasaki, Kanagawa, Japan",
+      "city": "Kawasaki",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0185152,138.8948285,3a,70.9y,97.55h,97.66t/data=!3m7!1e1!3m5!1sqIs3v1q5Yr9JhYJhQD_9fw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.663216244142745%26panoid%3DqIs3v1q5Yr9JhYJhQD_9fw%26yaw%3D97.5528998859597!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJcUOnr6GTGWAR95JR44Kj1u0",
+      "name": "Izu Mito Sea Paradise Parking Lot",
+      "localName": "伊豆・三津シーパラダイス 駐車場",
+      "coordinates": {
+        "lat": 35.019982999999996,
+        "lng": 138.8963408
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cdc58236-c936-4b7c-a866-bd299eb8dec8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cdc58236-c936-4b7c-a866-bd299eb8dec8.webp"
+        },
+        {
+          "url": "media/cached-image_3abb8b7cb432c953b9f756e9ffa771949b2ace658d90692858c1799d89fe8b70.jpg"
+        }
+      ],
+      "type": "Parking garage",
+      "categories": [
+        "Parking garage"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Izu Mito Sea Paradise Parking Lot, 11-1 Uchiuramito, Numazu, Shizuoka 410-0223, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0200384,138.8968777,3a,48.8y,250.35h,98.47t/data=!3m7!1e1!3m5!1s_ndTni3wMWMDLKnTFkLwxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.4675850738262%26panoid%3D_ndTni3wMWMDLKnTFkLwxQ%26yaw%3D250.34807236922902!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4SbqchWSGWARifP-qoNf_nA",
+      "name": "Osakana Shokudo YAMAYA",
+      "localName": "おさかな食堂 やまや",
+      "coordinates": {
+        "lat": 35.0241614,
+        "lng": 138.89893469999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/69e5921a-3773-4d4c-963c-e6d4bf3e37d0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/69e5921a-3773-4d4c-963c-e6d4bf3e37d0.webp"
+        },
+        {
+          "url": "media/cached-image_46728e8ff678d7f3fdf5ddd465afea5b3a22f4fc9cf8753f5dde321b06153e0e.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Osakana Shokudo YAMAYA, 199-4 Uchiuramito, Numazu, Shizuoka 410-0223, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0239542,138.8987181,3a,79.2y,14.59h,100.63t/data=!3m7!1e1!3m5!1s4gLIWekmGURkBo-Mt4_P3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.630390394521811%26panoid%3D4gLIWekmGURkBo-Mt4_P3Q%26yaw%3D14.585050303984856!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This seafood restaurant in Mito appears in episode 9 when the girls enjoy a meal together, with Chika's enthusiasm for local Numazu seafood on full display."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJybMuJxGSGWARU8jik9WbJhw",
+      "name": "Ministop Numazu Uchiura",
+      "localName": "ミニストップ 沼津内浦店",
+      "coordinates": {
+        "lat": 35.0280641,
+        "lng": 138.8931721
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f4d9f4b8-1621-44ac-bd3e-f9876298cd95.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f4d9f4b8-1621-44ac-bd3e-f9876298cd95.webp"
+        },
+        {
+          "url": "media/cached-image_b5142c9dfe9a4d251265725759304503c41c8033e5b8321f7cad6a74355e446b.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Ministop Numazu Uchiura, 91-10 Uchiurakoumi, Numazu, Shizuoka 410-0222, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0297426,138.8933554,3a,90y,300.15h,96.6t/data=!3m7!1e1!3m5!1sZIDu7pkVuFKUmnGIjb8TOg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.6012801262407095%26panoid%3DZIDu7pkVuFKUmnGIjb8TOg%26yaw%3D300.1504278595998!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Uchiura Ministop is a recognizable convenience store near the bay that Aquors members pass by in several episodes, grounding the series in everyday Numazu life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_11",
+      "name": "Torachan",
+      "localName": "駄菓子屋&BAR とらちゃん",
+      "coordinates": {
+        "lat": 35.03133,
+        "lng": 138.89286
+      },
+      "image": "https://cdn.animepilgrimage.com/places/25b00da5-8913-4184-9632-8ac98e8b6ce1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/25b00da5-8913-4184-9632-8ac98e8b6ce1.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.03115,138.8929385,3a,90y,341.1h,106.72t/data=!3m7!1e1!3m5!1sQJ3SbFC2FkcYUUIaWtqHvw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.719665076667383%26panoid%3DQJ3SbFC2FkcYUUIaWtqHvw%26yaw%3D341.09917147594837!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Torachan, a local dagashi candy shop and bar in Uchiura, appears in episode 9 as part of the neighborhood scenery the girls explore around their home town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLUEbwBuSGWARIDYvn9ULb6g",
+      "name": "Awashima Marine Park Parking Lot",
+      "localName": "あわしまマリンパーク駐車場",
+      "coordinates": {
+        "lat": 35.0329171,
+        "lng": 138.8935624
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1efadaea-101c-4bca-bea7-a37ab347948d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1efadaea-101c-4bca-bea7-a37ab347948d.webp"
+        },
+        {
+          "url": "media/cached-image_477066bd27475a47f0300238bbc2513ca1dd2010da854909cce32585835f22c3.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Awashima Marine Park Parking Lot, 69 Uchiurashigedera, Numazu, Shizuoka 410-0221, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0321552,138.8934891,3a,43.8y,22.39h,92.46t/data=!3m7!1e1!3m5!1saJ-tfWlW2bb7t5qBLVbgNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.457483802902047%26panoid%3DaJ-tfWlW2bb7t5qBLVbgNQ%26yaw%3D22.394853677234554!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The parking lot beside Awashima Marine Park serves as a transitional space in the anime where Aquors gather before boarding the ferry to Awashima island."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtX8tsDWFGWARHnXIlOwn8PY",
+      "name": "CENTRAL PARK 添地町駐車場",
+      "localName": "CENTRAL PARK 添地町駐車場",
+      "coordinates": {
+        "lat": 35.102156799999996,
+        "lng": 138.8556879
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4a72e47f-4bc3-46b9-9566-4d931e7b072a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4a72e47f-4bc3-46b9-9566-4d931e7b072a.webp"
+        }
+      ],
+      "type": "駐車場",
+      "categories": [
+        "駐車場"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "CENTRAL PARK Soechicho Parking Lot, 31 Soechicho, Numazu, Shizuoka 410-0803, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0993064,138.8596393,3a,48.7y,231.51h,96.49t/data=!3m7!1e1!3m5!1sFJWEfkozSVd8oDaeQ8vLjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.48658531694349%26panoid%3DFJWEfkozSVd8oDaeQ8vLjA%26yaw%3D231.51111363923036!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyZDhayVeGWARrKtE_fuVi30",
+      "name": "KANOGAWA Kaze no Terrace",
+      "localName": "THE KUKUNA",
+      "coordinates": {
+        "lat": 35.5133398,
+        "lng": 138.7714554
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2be986d9-7f74-4d4b-b221-6e1ccfa78d2d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2be986d9-7f74-4d4b-b221-6e1ccfa78d2d.webp"
+        },
+        {
+          "url": "media/cached-image_6547bca9825ba78d1eafd20be5f4aef531c887f7bab3885f5a309d70f29b4522.jpg"
+        },
+        {
+          "url": "media/cached-image_99e905fffaeed218b0b8f36935102a43abbfcaea336a08a09f17eff8631b6f87.jpg"
+        },
+        {
+          "url": "media/cached-image_d64887dbfad75807d9b848fda36661dfa7899b1f8363ad477da8c59d90a6148f.jpg"
+        },
+        {
+          "url": "media/cached-image_4c4a2dd23778e1a2718b3209d5012900483ca7b809d7b73085722976831eb969.jpg"
+        },
+        {
+          "url": "media/cached-image_015702a2bae1e453c8c6da918391ce87dfa6f2429e783bda651e0eec5a0c9d7b.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kukuna, 70 Azagawa, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0303, Japan",
+      "city": "Fujikawaguchiko",
+      "region": "Minamitsuru District, Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0980594,138.8600055,3a,75y,221.57h,94.03t/data=!3m7!1e1!3m5!1sDpCjvS9JJv1AZpwDJcLKEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.03080075272166%26panoid%3DDpCjvS9JJv1AZpwDJcLKEw%26yaw%3D221.57349557226757!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_15",
+      "name": "Awashima Naval Pier",
+      "localName": "海軍淡島桟橋",
+      "coordinates": {
+        "lat": 35.03486,
+        "lng": 138.88567
+      },
+      "image": "https://cdn.animepilgrimage.com/places/79dbdb4e-5a75-40d0-abb9-695848b72170.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/79dbdb4e-5a75-40d0-abb9-695848b72170.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0348087,138.8861916,3a,55.7y,282.45h,90.8t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDk6IyccQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu22BSkpWrVFXwFrn_RWq3RrufeqXG1xPLw1ElZzlh5iz-vm7CvJWA0QUMGPm5_H8NE9H6sOoYxEox6V_0kRdyC8iqg0OhWbW3VX_GmOIC5-ysJsrV8MXOnw5CFBvjHyrOxoQecO%3Dw900-h600-k-no-pi-0.7999419675380608-ya12.453978599673064-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This historic pier at Awashima is where Aquors board the small ferry that takes them to Awashima island in episode 8, a quiet but memorable transit moment for the group."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_16",
+      "name": "Nodaji",
+      "localName": "ノダジ",
+      "coordinates": {
+        "lat": 35.70405,
+        "lng": 139.76235
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e76c1c66-3a0e-4419-adde-93e82732feb4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e76c1c66-3a0e-4419-adde-93e82732feb4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7042386,139.761913,3a,47.9y,112.94h,94.1t/data=!3m7!1e1!3m5!1st6gRV80QjiD60Bc5oK5DSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.098834523889991%26panoid%3Dt6gRV80QjiD60Bc5oK5DSg%26yaw%3D112.93612879954723!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_17",
+      "name": "Maison K Hongo",
+      "localName": "有限会社祥山堂",
+      "coordinates": {
+        "lat": 35.70953,
+        "lng": 139.75694
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e7e0fc6-fcef-4c0d-b46a-98ea3f9f9637.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e7e0fc6-fcef-4c0d-b46a-98ea3f9f9637.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7095387,139.756903,3a,90y,354.52h,95.64t/data=!3m7!1e1!3m5!1sK7BD-KgxTftRFnA_dA1oGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.639230076303392%26panoid%3DK7BD-KgxTftRFnA_dA1oGg%26yaw%3D354.5245109658462!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJyfeFzeMGGARbzAhofSUxqk",
+      "name": "Homeikan Daimachi Annex",
+      "localName": "鳳明館 台町別館",
+      "coordinates": {
+        "lat": 35.711265,
+        "lng": 139.75660009999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7091598-6b21-4ce3-8f55-b8c3b84a44bc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7091598-6b21-4ce3-8f55-b8c3b84a44bc.webp"
+        },
+        {
+          "url": "media/cached-image_3fdc4c1bf0e184d6017cc1d728192bbdc9ce5dc249218e221ec202721504b24a.jpg"
+        },
+        {
+          "url": "media/cached-image_5e0f611fbdcb5f87ad9119aabf067f747acee61782343f86e74ee115150050df.jpg"
+        },
+        {
+          "url": "media/cached-image_aef12a14ef5c88802c13bafed834835a538b547315b37f573ec493767eb31569.jpg"
+        },
+        {
+          "url": "media/cached-image_bd8a669a4dffca5f33d6958d045ccffea06ef9adae0ecee1f76fe3eb76db3cd5.jpg"
+        },
+        {
+          "url": "media/cached-image_7083ebd1042dbe3b464a96b3497acf6df79c93bc42a697ebbfeaa958da0d9d72.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Homeikan Daimachi Annex, 5 Chome-12-9 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7107573,139.7564245,3a,48.7y,2.78h,98.52t/data=!3m7!1e1!3m5!1sEDAzD1kf7gqdT9F89ZZPew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.516599263303945%26panoid%3DEDAzD1kf7gqdT9F89ZZPew%26yaw%3D2.7752212746419938!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This historic Tokyo ryokan near Hongo is used in episode 7 when the Aquors members stay overnight in Tokyo while pursuing their school idol dreams in the capital."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1XvTFzeMGGARWjTiHQ0BA8M",
+      "name": "Homeikan Main Building",
+      "localName": "鳳明館 本館",
+      "coordinates": {
+        "lat": 35.7111646,
+        "lng": 139.7562417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ac601f5c-b915-4a22-aacb-46db10e5467a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ac601f5c-b915-4a22-aacb-46db10e5467a.webp"
+        },
+        {
+          "url": "media/cached-image_0de0144b7a10a8b476da850d881eac66f11fe134f63c585a65b0eadc5a2761f0.jpg"
+        },
+        {
+          "url": "media/cached-image_5e0f611fbdcb5f87ad9119aabf067f747acee61782343f86e74ee115150050df.jpg"
+        },
+        {
+          "url": "media/cached-image_aef12a14ef5c88802c13bafed834835a538b547315b37f573ec493767eb31569.jpg"
+        },
+        {
+          "url": "media/cached-image_bd8a669a4dffca5f33d6958d045ccffea06ef9adae0ecee1f76fe3eb76db3cd5.jpg"
+        },
+        {
+          "url": "media/cached-image_7083ebd1042dbe3b464a96b3497acf6df79c93bc42a697ebbfeaa958da0d9d72.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Homeikan Main Building, 鳳明館本館 5 Chome-10-5 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7112078,139.7564242,3a,75y,198.66h,108.94t/data=!3m7!1e1!3m5!1su5nRlaw4lxKQZcgI8LUCLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.935847767920094%26panoid%3Du5nRlaw4lxKQZcgI8LUCLA%26yaw%3D198.66166373165!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The main building of Homeikan ryokan in Hongo appears alongside the annex in episode 7, providing the traditional inn setting where Aquors rest during their pivotal Tokyo visit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_20",
+      "name": "Miyabi",
+      "localName": "神田明神下 みやび",
+      "coordinates": {
+        "lat": 35.70135,
+        "lng": 139.7687
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0774e24f-fc0e-4ea6-9914-b38841fa87c7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0774e24f-fc0e-4ea6-9914-b38841fa87c7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.7013937,139.7684694,3a,74.6y,106.4h,99.55t/data=!3m7!1e1!3m5!1sdR4gwtqdqr6KKudokc0Kug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.545153796184664%26panoid%3DdR4gwtqdqr6KKudokc0Kug%26yaw%3D106.39596952701638!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This eatery near Kanda Myojin appears in episode 7 when Aquors explore the Akihabara-Kanda area, capturing the group's mix of idol-town excitement and everyday tourist moments."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOUAwWx2MGGARoqe1_a-Lh3Q",
+      "name": "Akiba-style idol store",
+      "localName": "アイドルマスター オフィシャルショップ アトレ秋葉原店",
+      "coordinates": {
+        "lat": 35.6984662,
+        "lng": 139.77233859999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b6211e6a-f96f-446a-bcf5-c83c8d30d8a0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b6211e6a-f96f-446a-bcf5-c83c8d30d8a0.webp"
+        },
+        {
+          "url": "media/cached-image_fd4d5a1f96f37039617c9abccd0e09ac0455e19c4f686b3555439093e1661f72.jpg"
+        }
+      ],
+      "type": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Idol Master Official Shop Atre Akihabara, アトレ秋葉原1 2F 1 Chome-17-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7017705,139.7715558,3a,48.7y,261.82h,93.69t/data=!3m7!1e1!3m5!1sT6ZsAML9wuQt3QZgRow73Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.693785245118903%26panoid%3DT6ZsAML9wuQt3QZgRow73Q%26yaw%3D261.8161471518964!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This idol merchandise shop in Akihabara's atré building appears in episode 7 when You and other members marvel at the scale of the school idol scene in Tokyo, contrasting it with Numazu's quieter world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb2ezm7CNGGAR4s5aH1txu0g",
+      "name": "JR-East Hotel Mets Akihabara",
+      "localName": "ＪＲ東日本ホテルメッツ プレミア 秋葉原",
+      "coordinates": {
+        "lat": 35.6981366,
+        "lng": 139.7726442
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3088a752-17d6-4e3b-b9b7-f2cc3d7fada0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3088a752-17d6-4e3b-b9b7-f2cc3d7fada0.webp"
+        },
+        {
+          "url": "media/cached-image_beef828eb6a2a54b840dc5165bf0b4b2639eb97bff30042545df26eaaf4c53b4.jpg"
+        },
+        {
+          "url": "media/cached-image_68557ae15400bafefb6ff82b311ad6a0fd0ad13100a3d5c74221b55301760cc4.jpg"
+        },
+        {
+          "url": "media/cached-image_f2419d22da488ce40eb840d5924da7f35eb37b066afcbf59c5e12a8e07e880cc.jpg"
+        },
+        {
+          "url": "media/cached-image_b30238612e51bb0ff11462cf6771343d704b00399e47f18940a36801618e7129.jpg"
+        },
+        {
+          "url": "media/cached-image_ff43bf76fc294337aefebc36abe644f5c3e81d02adc82f96a46d2bce1eade1f1.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 432,
+      "priceLevel": null,
+      "address": "JR-EAST HOTEL METS PREMIER AKIHABARA, 1 Chome-17-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981491,139.7724922,3a,75y,2.23h,91.85t/data=!3m7!1e1!3m5!1s3n5EzNbs-bZpkxjOAaBouQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8471818643580917%26panoid%3D3n5EzNbs-bZpkxjOAaBouQ%26yaw%3D2.233870892010994!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Aquors members stay at this hotel near Akihabara Station during their episode 7 Tokyo trip, making it a base for their eye-opening encounter with the competitive school idol world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_23",
+      "name": "Monument to the Brief History of Numazu Engine Works",
+      "localName": "沼津機関区略史の碑",
+      "coordinates": {
+        "lat": 35.11057114999999,
+        "lng": 138.8627115
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8accc572-89a9-46c7-a3b1-31d13a9cced3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8accc572-89a9-46c7-a3b1-31d13a9cced3.webp"
+        },
+        {
+          "url": "media/cached-image_86cee4f15e13600fd387e7c0f690c6f26a1495bd4f56ae32377c3f1ba1922d69.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1023648,138.8596093,3a,90y,84.36h,92.61t/data=!3m7!1e1!3m5!1swkSPC9cu5sN0ToxX8M1NLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6072136187208628%26panoid%3DwkSPC9cu5sN0ToxX8M1NLA%26yaw%3D84.36105633213735!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This small monument near Numazu Station appears in episode 7, part of the downtown Numazu scenery the girls pass through on their way to and from the station."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_24",
+      "name": "Popular bar ima-san",
+      "localName": "大衆酒場イマさん",
+      "coordinates": {
+        "lat": 35.10461,
+        "lng": 138.85821
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca069e80-80f0-4514-a608-f55cd5cfb04b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca069e80-80f0-4514-a608-f55cd5cfb04b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.1044793,138.8582157,3a,63.4y,4.33h,99.16t/data=!3m7!1e1!3m5!1seeAJOppmPYM3OFvAzCkr_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.16038397258221%26panoid%3DeeAJOppmPYM3OFvAzCkr_Q%26yaw%3D4.326605160426749!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This local Numazu bar street spot appears in episode 6 as part of the everyday town atmosphere around Numazu Station that Chika and her friends inhabit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ea2eb425-9d98-4e0c-a4c9-e8a99fdcaffa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ea2eb425-9d98-4e0c-a4c9-e8a99fdcaffa.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Akihabara UDX is visible in episode 1 during Chika's first visit to Akihabara, where she watches a school idol performance that ignites her dream of forming her own idol group.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiYvXlOd2A2ARYxYm-Esg94E",
+      "name": "Nagoya Station, platforms 10 and 11",
+      "localName": "名古屋駅10・11番線",
+      "coordinates": {
+        "lat": 35.1706,
+        "lng": 136.88164
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e41e8e24-1d2c-425c-a276-48b30b36c758.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e41e8e24-1d2c-425c-a276-48b30b36c758.webp"
+        },
+        {
+          "url": "media/cached-image_4442e7ceb7b6e37d19772062328fcb94c938219fb467d3c8bec37ba36489a58a.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "1 Chome-1-4 Meieki, Nakamura Ward, Nagoya, Aichi, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1705704,136.8816621,2a,58.2y,158.73h,90.8t/data=!3m7!1e1!3m5!1sY26C3ajhicIjYGHrUle7FA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.7987182834633586%26panoid%3DY26C3ajhicIjYGHrUle7FA%26yaw%3D158.7260104576977!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Platforms 10 and 11 at Nagoya Station appear in episode 13 as Aquors travel to Nagoya for the final Love Live! qualifying round, the train platform capturing the mix of nerves and determination the group feels."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJKZp9c952A2AR0qZTgFwI-5U",
+      "name": "Nana chan Doll",
+      "localName": "ナナちゃん人形",
+      "coordinates": {
+        "lat": 35.16834,
+        "lng": 136.88477
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c194a47e-4d16-4139-8a14-cc22128c556c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c194a47e-4d16-4139-8a14-cc22128c556c.webp"
+        },
+        {
+          "url": "media/cached-image_f925a666e7b580ff71d95a14c698d9c046504f18dca6f22141256521d5efa159.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2-5, Nakamura Ward, Nagoya, Aichi 450-0002, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Nana+chan+Doll/@35.1686123,136.8846793,3a,90y,172.48h,111.86t/data=!3m8!1e1!3m6!1sAF1QipNTak_i2dp-KyjmrxhxBUr8srSi_ecyVakUtH3h!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNTak_i2dp-KyjmrxhxBUr8srSi_ecyVakUtH3h%3Dw900-h600-k-no-pi-21.861286041615898-ya1.0861336174686471-ro0-fo100!7i4096!8i2048!4m9!3m8!1s0x600376de737d9a29:0x95fb085c8053a6d2!8m2!3d35.1683462!4d136.8847785!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11g98trz3x?entry=ttu&g_ep=EgoyMDI0MTIwMS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The giant Nana-chan mannequin outside Nagoya Station is glimpsed in episode 13 during Aquors' arrival in Nagoya, a local landmark that signals they have stepped into an unfamiliar city for their biggest competition yet."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+      "name": "Tokyo Station",
+      "localName": "東京駅",
+      "coordinates": {
+        "lat": 35.68121,
+        "lng": 139.76629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/294b66f0-c48c-4256-8cae-f2097b296360.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/294b66f0-c48c-4256-8cae-f2097b296360.webp"
+        },
+        {
+          "url": "media/cached-image_b5f22fd988082df1769467e8e747c2737a689fff3e06a011ea50d2204b2d06b3.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812113,139.7662978,2a,75y,10.72h,96.24t/data=!3m7!1e1!3m5!1sXxaT2133gCbTBlJ9IJG8HA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.237910337800855%26panoid%3DXxaT2133gCbTBlJ9IJG8HA%26yaw%3D10.722069162988722!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Tokyo Station is a recurring waypoint in the anime whenever Aquors travel between Numazu and the capital, with the grand Marunouchi facade underscoring the distance between their rural hometown and the big-city school idol world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUcu9H0a7GWARXtXknQ7IHIY",
+      "name": "Nebukawa Station",
+      "localName": "根府川駅",
+      "coordinates": {
+        "lat": 35.20281,
+        "lng": 139.13843
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e44a839a-81c2-43d8-a1f9-210b73f54295.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e44a839a-81c2-43d8-a1f9-210b73f54295.webp"
+        },
+        {
+          "url": "media/cached-image_a2ee0e9110e007e0344d561e980c11766239aa08ac9ee4a38cd3b565e61e3e2b.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nebukawa, Odawara, Kanagawa 250-0024, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2028839,139.1382972,3a,67.4y,126.64h,95.35t/data=!3m7!1e1!3m5!1suT051u4f0a50nQuViU9ZTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.352994442346059%26panoid%3DuT051u4f0a50nQuViU9ZTw%26yaw%3D126.64226945909095!7i16384!8i8192?hl=ko&entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Nebukawa Station, a picturesque rural stop on the Tokaido Line, appears in episode 12 as the girls travel along the coast, its seaside hillside setting reflecting the quiet beauty of the Shizuoka shoreline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_30",
+      "name": "Iroribo",
+      "localName": "いろり坊",
+      "coordinates": {
+        "lat": 35.02519,
+        "lng": 138.90462
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e247834b-fa62-44d7-b535-31ef6f9d8cc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e247834b-fa62-44d7-b535-31ef6f9d8cc4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0251891,138.9046992,3a,90y,254.82h,95.11t/data=!3m7!1e1!3m5!1sxBrcxyNyXEFI2ccGTAn0_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.110631125968041%26panoid%3DxBrcxyNyXEFI2ccGTAn0_Q%26yaw%3D254.81509795311348!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJN2UoRR2MGGARPrpOSvznx7o",
+      "name": "atré Akihabara 1",
+      "localName": "アトレ秋葉原1",
+      "coordinates": {
+        "lat": 35.69823,
+        "lng": 139.77227
+      },
+      "image": "https://cdn.animepilgrimage.com/places/974bdd7b-478f-47d3-98d1-b436eae0fb48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/974bdd7b-478f-47d3-98d1-b436eae0fb48.webp"
+        },
+        {
+          "url": "media/cached-image_727234ff2402e00ce6d029741089a6f11592273a21575eb15a94931c483c4667.jpg"
+        },
+        {
+          "url": "media/cached-image_80a5741e2a510dd334e144e4d70febf2a69e5d08557397c712d747a5f53d4ffe.jpg"
+        },
+        {
+          "url": "media/cached-image_0a6ef04525535006c6166a1436b724eccd1ac0d21adee6ee880645b57fedb62b.jpg"
+        },
+        {
+          "url": "media/cached-image_ce64a04829352f0ad76dfca2d1e307ea5f57563b5db33d20d3fdd4663f92a41f.jpg"
+        },
+        {
+          "url": "media/cached-image_92c8e648ae2989198384b73e01bd142d6bdbe92811d59177140a72307a6153a0.jpg"
+        },
+        {
+          "url": "media/cached-image_9d00f5303a8d36bf7dc637d5d10aa6cb8b559fe8cc42e29bbbdf44cff0e25490.jpg"
+        },
+        {
+          "url": "media/cached-image_cd7709d71d6590c506072068bf9082fb68bd0bd9a16970d97d0fef5b4eb11221.jpg"
+        },
+        {
+          "url": "media/cached-image_5156bc9397d0527c1647c51a1eed9739236e95c61568fcf8248abc06dea3f978.jpg"
+        },
+        {
+          "url": "media/cached-image_d332bebfb7aa23ece2ee38f01dd380c2e9148d9b6891934d70c69548c5fc8736.jpg"
+        },
+        {
+          "url": "media/cached-image_13793623d84996a62f9b6b5e45e08a6364730b2de44dc0ed1b1ab839ffd99d74.jpg"
+        },
+        {
+          "url": "media/cached-image_ba48fc37f42020f087ee00d542b5b3e63d821666d5bcb26562225bcd00a7c150.jpg"
+        },
+        {
+          "url": "media/cached-image_976cb9cc4efc9d3af64cf23316528414e34b7ec82c735ab482eee6df7851461c.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 3.8,
+      "reviewCount": 938,
+      "priceLevel": null,
+      "address": "1 Chome-17-6 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DN1iEXBLZ1z8rokp6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The atré Akihabara shopping complex is seen in episode 1 when Chika visits Akihabara and encounters a live school idol performance, the moment that convinces her to start Aquors.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjT_4NxmMGGARyGH15zO2qG0",
+      "name": "Amanoya",
+      "localName": "天野屋",
+      "coordinates": {
+        "lat": 35.7010318,
+        "lng": 139.7670845
+      },
+      "image": "https://cdn.animepilgrimage.com/places/813e0b28-0e4b-4c77-9fb0-6cb5b325a264.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/813e0b28-0e4b-4c77-9fb0-6cb5b325a264.webp"
+        },
+        {
+          "url": "media/cached-image_c29884fff70acf6daf3c88ec98add47a0230005e18f4a91783d73c8dd6050a9e.jpg"
+        }
+      ],
+      "type": "カフェ・喫茶",
+      "categories": [
+        "カフェ・喫茶"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-18-15 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7010318,139.7670845,3a,90y,354.41h,101.13t/data=!3m6!1e1!3m4!1sZGyLRnaH4xC8EZFadZEQBQ!2e0!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Amanoya, a historic shop near Kanda Myojin, appears in episode 7 when Aquors wander through the Kanda district, the old-fashioned storefront adding to the traditional neighborhood atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJy09DJACNGGARbMLEHxY_6MA",
+      "name": "Akihabara Sta. Electric Town Exit West Square",
+      "localName": "秋葉原駅 電気街口西側広場",
+      "coordinates": {
+        "lat": 35.69928,
+        "lng": 139.77259
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7e89727-869c-4ed9-9bc4-389ce1148cea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7e89727-869c-4ed9-9bc4-389ce1148cea.webp"
+        },
+        {
+          "url": "media/cached-image_73cec715d21a365ae781e3f9347e1a815746bd28b7a94b27fedf0c398490bcff.jpg"
+        }
+      ],
+      "type": "観光名所",
+      "categories": [
+        "観光名所"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-17-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/6QLUmzHPDQFRshzR9",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The open plaza west of Akihabara Station's Electric Town exit is seen in episode 1 when Chika steps into Akihabara for the first time, the busy otaku district overwhelming and inspiring her all at once.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ__-AdayOGGAR6EGPwvcpzTA",
+      "name": "Akihabara Radio Kaikan",
+      "localName": "秋葉原ラジオ会館",
+      "coordinates": {
+        "lat": 35.69812,
+        "lng": 139.77194
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60f93b85-e86e-4eec-ac87-6930d2afbbb6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60f93b85-e86e-4eec-ac87-6930d2afbbb6.webp"
+        },
+        {
+          "url": "media/cached-image_3ef8b2689e7a3f3d66cd8bd21331d6a63a080e01c90b6415c4a8b738088284ac.jpg"
+        }
+      ],
+      "type": "ショッピング モール",
+      "categories": [
+        "ショッピング モール"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-15-16 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6981869,139.7719398,3a,90y,168.82h,114.06t/data=!3m7!1e1!3m5!1s8sIi0xcNOuhg7GkIFqubGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D8sIi0xcNOuhg7GkIFqubGw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D73.600174%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Akihabara Radio Kaikan appears in episode 1 as part of the Akihabara streetscape Chika takes in, the famous building serving as a visual anchor for the episode's iconic idol-town sequence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAyaWbl6NGGAREd5a8xST-eE",
+      "name": "Mansei Bridge",
+      "localName": "万世橋",
+      "coordinates": {
+        "lat": 35.69707,
+        "lng": 139.77111
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e63a8cf6-dd16-404e-afae-cd8c1901572e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e63a8cf6-dd16-404e-afae-cd8c1901572e.webp"
+        },
+        {
+          "url": "media/cached-image_8258d41bb5c868538bc485fde0819246ef93cb4c5c75fc8d382670006fb7c3bf.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-1, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/U6VCw9a8Z6ByuuF59",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Mansei Bridge over the Kanda River appears in episode 7 when Aquors cross from Akihabara toward Kanda Myojin, the bridge's red railings and river view providing a brief scenic pause."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCewJkL2LGGAR3Qmk0vCTGkg",
+      "name": "Tokyo Tower",
+      "localName": "東京タワー",
+      "coordinates": {
+        "lat": 35.6585805,
+        "lng": 139.7454329
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8eda0665-b2f1-4e2c-879c-bf0755566165.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8eda0665-b2f1-4e2c-879c-bf0755566165.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": 479504,
+      "priceLevel": null,
+      "address": "Tokyo Tower, 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tokyo+Tower/@35.6586633,139.7455355,2a,90y,35.65h,91.92t/data=!3m8!1e1!3m6!1sA4Pj25gifXP52eQPMmf7PA!2e0!3e2!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.920517690659949%26panoid%3DA4Pj25gifXP52eQPMmf7PA%26yaw%3D35.64805169877632!7i13312!8i6656!4m9!3m8!1s0x60188bbd9009ec09:0x481a93f0d2a409dd!8m2!3d35.6585805!4d139.7454329!10e5!14m1!1BCgIgARICCAI!16zL20vMDEzMl94?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Tokyo Tower is visible in the background of episode 8's Tokyo scenes, its silhouette serving as a reminder of how far Aquors have come from their small hometown on the Izu peninsula."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp8uCa2O-GWARBKANZGpM9cs",
+      "name": "Atami Station (Bus)",
+      "localName": "熱海駅",
+      "coordinates": {
+        "lat": 35.102555499999994,
+        "lng": 139.08401475
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8b3a23b7-5f68-4060-9e28-c1dc43a9123f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8b3a23b7-5f68-4060-9e28-c1dc43a9123f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": ",[null,null,35.103842199999995,139.0778841],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Atami+Station/@35.1038422,139.0778841,3a,90y,203.59h,92.63t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICxwuOI6AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYmcqRgniF9EXD6SQGuntPqU_woucznCDzssFScVrzLkR3xaSReEj5V6qcepU5rIOXM1gAP-3I5oMbwFG6j5B66gfLgGYGROu552hyrbV_WJ44fn_AWMb38niGbXmMmBFjfEiqlXA%3Dw900-h600-k-no-pi-2.6324319992698406-ya203.59147059687106-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6019be636b82cba7:0xcbf54c6a640da004!8m2!3d35.1038422!4d139.0778841!10e5!14m1!1BCgIgARICCAI!16zL20vMDM2eGZi?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Atami Station appears in episode 7 as Aquors travel through the Ito Line corridor, the coastal resort-town station marking a key transit point on the long journey between Numazu and Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFSnzsB6MGGARnojVfoqkXW4",
+      "name": "Myojin Otoko-zaka Stair",
+      "localName": "明神男坂",
+      "coordinates": {
+        "lat": 35.7013968,
+        "lng": 139.7683213
+      },
+      "image": "https://cdn.animepilgrimage.com/places/416ffe4b-3f2a-4b72-9af1-37bb6c11298d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/416ffe4b-3f2a-4b72-9af1-37bb6c11298d.webp"
+        },
+        {
+          "url": "media/cached-image_f312e63b4667f691f259c46469396b5c32785f6fea566b0bb78daa7844f66b9e.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kanda Myojin Otoko-zaka, 2 Chome-7-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7015076,139.7679332,3a,90y,101.81h,87.25t/data=!3m7!1e1!3m5!1syQ9RYhvEIyORDOysNoYprA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7508567459314435%26panoid%3DyQ9RYhvEIyORDOysNoYprA%26yaw%3D101.80672666064196!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "These stone steps leading up to Kanda Myojin shrine appear in episode 7 as Aquors climb toward the shrine, the traditional stairway symbolizing the group's resolve as they seek inspiration in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7RsWzB6MGGARi3xBv7bkl_M",
+      "name": "Kanda Myoujin Shrine",
+      "localName": "神田神社（神田明神）",
+      "coordinates": {
+        "lat": 35.702018599999995,
+        "lng": 139.7678943
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12fc0ac8-3cdc-4e65-b1a2-7cb33afa91c1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12fc0ac8-3cdc-4e65-b1a2-7cb33afa91c1.webp"
+        },
+        {
+          "url": "media/cached-image_fadc606c7e99dc33ea61ad836c69d2203b020f991a9fef9391d7dc4cb504658c.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 25586,
+      "priceLevel": null,
+      "address": "Kanda Myoujin Shrine, 2 Chome-16-2 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7017675,139.7677078,3a,90y,179.48h,109.6t/data=!3m7!1e1!3m5!1sC1X_reX7UTUw9NMN2sblHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.59824827423654%26panoid%3DC1X_reX7UTUw9NMN2sblHQ%26yaw%3D179.4837157775789!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Kanda Myojin shrine is a key location in episode 7, where Aquors visit to pray and reflect before performing in Tokyo, the grand shrine gate providing one of the season's most visually striking pilgrimages.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2WQ9sB2MGGAREcJvYULMq24",
+      "name": "Bellesalle Akihabara",
+      "localName": "ベルサール秋葉原",
+      "coordinates": {
+        "lat": 35.7000427,
+        "lng": 139.7710919
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce430eb6-3425-4d6d-bee2-f903aea51490.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce430eb6-3425-4d6d-bee2-f903aea51490.webp"
+        },
+        {
+          "url": "media/cached-image_72e13e559fd4c25fd1e15ca8e048dc553f266bd2d1baca2ddb2eb5986e5a288d.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Bellesalle Akihabara, B1 1F・2F 3 Chome-12-8 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6999989,139.7710809,3a,90y,350.03h,92.4t/data=!3m8!1e1!3m6!1sAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMdLvT4ZV1f6F-DveozeiYG82C7G-JSdtqFU2lN%3Dw900-h600-k-no-pi-2.3998146870585373-ya350.0329879658149-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Bellesalle Akihabara is the event venue where Aquors witness a large-scale school idol competition in episode 7, the experience both thrilling and humbling as they measure themselves against top groups."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf4bfes2vGWARkZNTw2AVxcM",
+      "name": "Kozu Coast",
+      "localName": "国府津海岸",
+      "coordinates": {
+        "lat": 35.2786057,
+        "lng": 139.21064099999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a24c0d63-cdd1-4cd1-9d5d-f242755eb736.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a24c0d63-cdd1-4cd1-9d5d-f242755eb736.webp"
+        },
+        {
+          "url": "media/cached-image_064fbd868b3da88d3a1c3f2c24716c7982df5e6b8374a4d67a822dbcd73c8e50.jpg"
+        }
+      ],
+      "type": "Fishing pier",
+      "categories": [
+        "Fishing pier"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kozu Coast, 2 Chome-6-21 Kouzu, Odawara, Kanagawa 256-0812, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.279951,139.2143315,3a,90y,223.71h,96.74t/data=!3m7!1e1!3m5!1sEPfZm8a9YfK2p2vGcCz1uA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.737999090325701%26panoid%3DEPfZm8a9YfK2p2vGcCz1uA%26yaw%3D223.7132251787899!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Kozu Coast along Sagami Bay appears in episode 12, the long pebbly beach and view of Mount Fuji across the water providing a contemplative coastal setting for Aquors as they near their final Love Live! challenge."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJi2k8HmuSGWARnEjbrVY3ON8",
+      "name": "Yasudaya Inn",
+      "localName": "安田屋旅館",
+      "coordinates": {
+        "lat": 35.020424,
+        "lng": 138.897573
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cde71dde-d55d-457e-9653-006e25af18ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cde71dde-d55d-457e-9653-006e25af18ea.webp"
+        },
+        {
+          "url": "media/cached-image_53a6bfb903f3e897960bd9034da1ff38e703033cc6d26885dde628375750ed74.jpg"
+        },
+        {
+          "url": "media/cached-image_24949feabac129d14e8e865b4b2a080d2bdd936585982aeef2f1986848c6a919.jpg"
+        },
+        {
+          "url": "media/cached-image_6bdb1cd15aa692b19613f79391e3e50058ecd52ab47009264f16115a44d29caf.jpg"
+        },
+        {
+          "url": "media/cached-image_92b3cd4d625a5c1670e0418a4e09b05d889faa534ec7c8870d3e731736ce845c.jpg"
+        },
+        {
+          "url": "media/cached-image_7ab2ed4d15804cfb10117cd2e1758bbd1d87af65c54a8d12400c969b7f1a4717.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yasudaya Inn, 19 Uchiuramito, Numazu, Shizuoka 410-0223, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.02055,138.8974265,3a,90y,131.5h,99.26t/data=!3m7!1e1!3m5!1s0ZDm3nWTaMgC_kSUxUZm3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.256686347315878%26panoid%3D0ZDm3nWTaMgC_kSUxUZm3Q%26yaw%3D131.50313242900927!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Yasudaya Inn in Uchiura is the ryokan that inspired the Takami family inn in the anime, with Chika's household setting derived from this seaside guesthouse in the Mito area of Numazu.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn1o-dgD_G2ARVaEo-tEloWM",
+      "name": "Fujimi Plaza",
+      "localName": "FUJIMI Place",
+      "coordinates": {
+        "lat": 35.7163652,
+        "lng": 138.6643315
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e740cfc-bb77-4c70-b0c3-0d87ea7f3a3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e740cfc-bb77-4c70-b0c3-0d87ea7f3a3b.webp"
+        },
+        {
+          "url": "media/cached-image_9ced34fef5ea44a89d140d90983940b106cad7e2028fff5882b7163bc121df47.jpg"
+        },
+        {
+          "url": "media/cached-image_771e933bcf26400be14e44dc1caa245caa7bddd345ffce4a7b5c1fd7d5a1f226.jpg"
+        },
+        {
+          "url": "media/cached-image_94879c9cf65c96e3277f79442ddb0575f590288d8ad1a4985bede492358ff004.jpg"
+        },
+        {
+          "url": "media/cached-image_73ad0eb97d9b1ba967105005f51aba7d099710892a2c33ec89ca1d938a7d344a.jpg"
+        },
+        {
+          "url": "media/cached-image_83fd29554edf8224fcb99c4cc1042f37d99feddc32bb7a805113f3b4ea08f049.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.95,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "Japan, 〒405-0046 Yamanashi, Horinouchi, 760 FUJIMI Place",
+      "city": "Yamanashi",
+      "region": "Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0171849,138.8920607,3a,48.7y,64.7h,94.6t/data=!3m7!1e1!3m5!1s8bZEQSIU4ImGd-8URVzGFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.603649850113186%26panoid%3D8bZEQSIU4ImGd-8URVzGFQ%26yaw%3D64.6966808996922!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6YFYNQOSGWARen5whwV7yJM",
+      "name": "Awashima Marine Park",
+      "localName": "あわしまマリンパーク",
+      "coordinates": {
+        "lat": 35.0335475,
+        "lng": 138.8899908
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08c90c2e-618f-4830-92a1-8a8c130d0ce4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08c90c2e-618f-4830-92a1-8a8c130d0ce4.webp"
+        },
+        {
+          "url": "media/cached-image_08bfab5ea1c4f8140e7030006da0d7a5cc6a1cccd649c89ed2adf04a61d69354.jpg"
+        },
+        {
+          "url": "media/cached-image_6b5d60f0e9132f6b6ba087b10e61958aec16ef7d34fc4f5e0ca4eb0975436af5.jpg"
+        },
+        {
+          "url": "media/cached-image_b4aa3e80883ee31d5736b653b56074aae9c5e09a4845ef37d547896449c65fc9.jpg"
+        },
+        {
+          "url": "media/cached-image_563887d62fbc21f99897d781756636e713db4131d3c5228335fdc2d5e94e4af9.jpg"
+        },
+        {
+          "url": "media/cached-image_a774ac86227e6acbe18e06a877a772d874192a393840b3c4bc377ada6e78a27c.jpg"
+        }
+      ],
+      "type": "Aquarium",
+      "categories": [
+        "Aquarium"
+      ],
+      "rating": 4.2,
+      "reviewCount": 143,
+      "priceLevel": null,
+      "address": "Awashima Marine Park, 186 Uchiurashigedera, Numazu, Shizuoka 410-0221, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0339304,138.8901924,3a,75y,238.86h,94.84t/data=!3m8!1e1!3m6!1sAF1QipPS7NtnHSe87wuc5IZnHEykqSUzTK_Jix-tjJOy!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPS7NtnHSe87wuc5IZnHEykqSUzTK_Jix-tjJOy%3Dw900-h600-k-no-pi-4.83979560934597-ya36.47643807252604-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Awashima Marine Park on the small island of Awashima is a recurring location tied to Aquors' island excursion in episode 1, the marine park's aquarium and ferry dock forming part of the distinctive Uchiura seascape central to the show.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_45",
+      "name": "Frog House",
+      "localName": "カエル館",
+      "coordinates": {
+        "lat": 35.0328,
+        "lng": 138.8903
+      },
+      "image": "https://cdn.animepilgrimage.com/places/92a67fb0-9917-4230-8410-55b1c180a942.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/92a67fb0-9917-4230-8410-55b1c180a942.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0327813,138.8903811,3a,90y,296.13h,99.99t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICtk9e0qAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1V7sHHqZdY_60Ivy51YL0pmR40ffN8YBrI35riTTWiF6CyQDZ8wMsmJL-hMbJchiByLL5u9aIS7TxQg1TehJeCRrx_uTD7fVGbktSbtMx_bt0PsrlCujYCG6F4tKz8Gde8uT4e%3Dw900-h600-k-no-pi-9.992447308818896-ya119.28601632399537-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Frog House (Kaeru-kan) on Awashima island appears in episode 1 as part of the marine park buildings Aquors encounter, its quirky frog-themed exterior a memorable detail on their island outing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_46",
+      "name": "Shotoukan",
+      "localName": "松濤館",
+      "coordinates": {
+        "lat": 35.02046,
+        "lng": 138.89714
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1dc5a07d-665b-4903-8f2e-7d3a209e5990.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1dc5a07d-665b-4903-8f2e-7d3a209e5990.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0204904,138.8973583,3a,75y,253.68h,93.56t/data=!3m7!1e1!3m5!1ssR1D1HZrCKAW0EUCQfra9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5621294442539835%26panoid%3DsR1D1HZrCKAW0EUCQfra9Q%26yaw%3D253.6753346046443!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_47",
+      "name": "Mito Port Tourist Boat Stop",
+      "localName": "三津港遊覧船のりば",
+      "coordinates": {
+        "lat": 35.02107,
+        "lng": 138.89747
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0236e705-e5d5-43c3-a590-da221e3e9fcc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0236e705-e5d5-43c3-a590-da221e3e9fcc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0208321,138.8975969,3a,75y,320.76h,92.01t/data=!3m7!1e1!3m5!1sznhU7GibQZOwmWX6CboLlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0110676862565953%26panoid%3DznhU7GibQZOwmWX6CboLlQ%26yaw%3D320.7581971989021!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The tourist boat landing at Mito port in Uchiura is where Aquors board the ferry to Awashima in episode 1, the small harbor dock establishing the coastal character of Numazu as the story begins."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmVjdIKLTPTURQLXw2iTjKx0",
+      "name": "Cape Nagaisaki",
+      "localName": "長崎鼻",
+      "coordinates": {
+        "lat": 31.1567823,
+        "lng": 130.5874084
+      },
+      "image": "https://cdn.animepilgrimage.com/places/94897a8a-6760-4c8d-a598-d8d235428379.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/94897a8a-6760-4c8d-a598-d8d235428379.webp"
+        },
+        {
+          "url": "media/cached-image_60eea5fa0067cb06f53d46cf97b8a8c92cb83bd075c07b0ed6a778504fd7080e.jpg"
+        }
+      ],
+      "type": "Nature preserve",
+      "categories": [
+        "Nature preserve"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Cape Nagasakibana, 長崎鼻 Yamagawaokachogamizu, Ibusuki, Kagoshima 891-0513, Japan",
+      "city": "Ibusuki",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0246333,138.8851168,3a,75y,285.41h,92.41t/data=!3m7!1e1!3m5!1scmuSY78eFhnJr1MU8crLIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.407334857667223%26panoid%3DcmuSY78eFhnJr1MU8crLIQ%26yaw%3D285.41494099898654!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Cape Nagaisaki is a headland at the southern tip of Uchiura Bay that appears in various establishing shots throughout the series, its rocky shoreline and panoramic bay view embodying the wild Izu coastline that defines Aquors' hometown.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl8S0iWySGWAR1m5J0tKtpuE",
+      "name": "Takanashiya",
+      "localName": "高梨屋",
+      "coordinates": {
+        "lat": 35.018208,
+        "lng": 138.894316
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4caedf89-9403-413b-8f89-654fb0bb7ba4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4caedf89-9403-413b-8f89-654fb0bb7ba4.webp"
+        },
+        {
+          "url": "media/cached-image_571fd2b106c294b925e05776530735d7ee5ea4c35679e297ddbdee95825d50f8.jpg"
+        }
+      ],
+      "type": "Fish store",
+      "categories": [
+        "Fish store"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takanashiya, 83-6 Uchiuranagahama, Numazu, Shizuoka 410-0224, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0183575,138.8943879,3a,48.8y,205.34h,94.69t/data=!3m7!1e1!3m5!1sY7OMWPuSwS6bXnWd71h9gQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.69432344840024%26panoid%3DY7OMWPuSwS6bXnWd71h9gQ%26yaw%3D205.33578548494825!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Takanashiya, a local fish shop in the Sannoura area of Uchiura, appears in episode 2 when Chika and Riko navigate the fishing village streets, the seaside shop reflecting the everyday working-community atmosphere of Numazu."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu7pCvQySGWARSrxlMVcWpGU",
+      "name": "Omosu Yacht House",
+      "localName": "重須ヨットハウス",
+      "coordinates": {
+        "lat": 35.018007,
+        "lng": 138.88567799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/857bc9aa-5d28-4ddb-82d2-bd13af5a19fe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/857bc9aa-5d28-4ddb-82d2-bd13af5a19fe.webp"
+        },
+        {
+          "url": "media/cached-image_ea083dc98c796ed43b97d521de9b82fb14a7d58ae30fb9441db33c1207edd751.jpg"
+        }
+      ],
+      "type": "Marina",
+      "categories": [
+        "Marina"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Omosu Yacht House, 637-16 Uchiuraomosu, Numazu, Shizuoka 410-0225, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0179407,138.8862782,3a,48.2y,335.18h,96.74t/data=!3m7!1e1!3m5!1sUaTZjeAgREQD4TqlHOVWnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.74059257798487%26panoid%3DUaTZjeAgREQD4TqlHOVWnw%26yaw%3D335.17608686783717!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Omosu Yacht House marina in Uchiura appears in episode 3, its small-boat docks and bay views providing a watery backdrop for scenes set along the inner Numazu coastline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUZTssR2FGWAR4OG4RW-TTk0",
+      "name": "Numazu Station North Exit Taxi Stand",
+      "localName": "タクシー乗り場",
+      "coordinates": {
+        "lat": 35.1038056,
+        "lng": 138.8594805
+      },
+      "image": "https://cdn.animepilgrimage.com/places/52d19465-ddb6-4d6f-b511-7d919c1c6f77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/52d19465-ddb6-4d6f-b511-7d919c1c6f77.webp"
+        },
+        {
+          "url": "media/cached-image_b7b676e776e708ab7ca1c2daf2172bf1e69d81b823bb29855f268b9459155f60.jpg"
+        }
+      ],
+      "type": "Taxicab Stand",
+      "categories": [
+        "Taxicab Stand"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒410-0801 Shizuoka, Numazu, Otemachi, 1 Chome−1−1 タクシー乗り場",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1038479,138.8596255,3a,75y,194.94h,93.49t/data=!3m7!1e1!3m5!1sAx1-NsmO9Z56nNdtbrVXGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4924298434059295%26panoid%3DAx1-NsmO9Z56nNdtbrVXGg%26yaw%3D194.94044289886145!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The taxi stand at Numazu Station's north exit appears in episode 3 when Riko arrives in Numazu for the first time, her disoriented look at the unfamiliar provincial station a key character-introduction moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ25EhjZeFGWARyH6RC6cMtM8",
+      "name": "Kuretake Inn Premium Numazu Kitaguchi Ekimae",
+      "localName": "くれたけイン プレミアム 沼津北口駅前",
+      "coordinates": {
+        "lat": 35.1040561,
+        "lng": 138.8592582
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b61cd44-86d3-4ce9-b92c-86c22de65b4a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b61cd44-86d3-4ce9-b92c-86c22de65b4a.webp"
+        },
+        {
+          "url": "media/cached-image_74d333b8dffbc748b9e42cb4633ec0f811bf9f4c6cad955db3987abfff4bd78c.jpg"
+        },
+        {
+          "url": "media/cached-image_3a7c212f0a3f474249f329dd8e63367a114e7432ad3d71ea24cde36c1261ee55.jpg"
+        },
+        {
+          "url": "media/cached-image_8d5b54d6cdabe31eaa14549d9380d86fcae36b5f77e1c0dc21524a9e5081a683.jpg"
+        },
+        {
+          "url": "media/cached-image_9dfa3505cc3a25ea803588149364d4052336049425a89b8ce9094cee98d33743.jpg"
+        }
+      ],
+      "type": "Japanese-style business hotel",
+      "categories": [
+        "Japanese-style business hotel"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kuretakein Puremiamu Numazukitaguchi Ekimae, 1-13 Takashimacho, Numazu, Shizuoka 410-0056, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1039215,138.8594525,3a,75y,271.97h,100.15t/data=!3m7!1e1!3m5!1soE51KT_--eYZS6SVvnrPLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.14816753188687%26panoid%3DoE51KT_--eYZS6SVvnrPLA%26yaw%3D271.9692846357681!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk3OW1fmPGWARGhXz39ZQPlY",
+      "name": "Numazu Police Station Numazu Ekikita Police Box",
+      "localName": "静岡県 沼津警察署",
+      "coordinates": {
+        "lat": 35.0996579,
+        "lng": 138.8699982
+      },
+      "image": "https://cdn.animepilgrimage.com/places/02237ff4-ad85-4d79-a83a-7dfb267d9e55.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/02237ff4-ad85-4d79-a83a-7dfb267d9e55.webp"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Numazu Police Station, 19-11 Hiramachi, Numazu, Shizuoka 410-0036, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1036853,138.8598654,3a,90y,178.82h,105.59t/data=!3m7!1e1!3m5!1sZ72K9Dljl2kP4elD2YvZGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.59316085683676%26panoid%3DZ72K9Dljl2kP4elD2YvZGQ%26yaw%3D178.81629664970097!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJExhA6l2FGWARdr5Of_aRyA8",
+      "name": "Lawson BiVi Numazu",
+      "localName": "ローソン BiVi沼津店",
+      "coordinates": {
+        "lat": 35.1042062,
+        "lng": 138.8608516
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ec0742d0-afbd-46e6-b59a-c31691995657.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ec0742d0-afbd-46e6-b59a-c31691995657.webp"
+        },
+        {
+          "url": "media/cached-image_e6e8d9c3396eda77c3d7706cc1a383972f0b7dd1a44121cd2afa6382910c0586.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Lawson BiVi Numazu, 1 Chome-１３-9 Otemachi, Numazu, Shizuoka 410-0801, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1040218,138.8606564,3a,90y,22.5h,98.15t/data=!3m7!1e1!3m5!1sm6MtmumIC0I7IFtIJU6FkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.154273800978444%26panoid%3Dm6MtmumIC0I7IFtIJU6FkQ%26yaw%3D22.504763608307364!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Lawson inside the BiVi Numazu complex near the station is a background location in episode 3, part of the downtown Numazu streetscape through which Aquors members routinely pass."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_55",
+      "name": "Togo Coast",
+      "localName": "島郷海岸",
+      "coordinates": {
+        "lat": 35.06748,
+        "lng": 138.87527
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6167b6b0-f6a5-48b6-9e87-0cfed7e7d2f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6167b6b0-f6a5-48b6-9e87-0cfed7e7d2f6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0724559,138.8695937,3a,35.5y,177.12h,100.1t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4woHu9wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1DM0x9BQTbaZhS21Ka8nN004-hPDcS7lENh6uav-PNBG_-y6TM5CHtUojxTmgYqY3dhXfaaDYpZ6yw4PTxVKwQN60qVGs8b92FMmFzSE0oCXYIeMn0zAsOcpmhomm6-vnYSGMboQ%3Dw900-h600-k-no-pi-10.097704975114667-ya288.12346955768004-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Togo Coast, a quiet pebbly stretch on Suruga Bay between Uchiura and Numazu city, appears in episode 3 as a seaside backdrop where the girls reflect and rehearse against the wide open bay."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJByRd3tElImARtQVCuT4Vtfc",
+      "name": "Mito Public Hall",
+      "localName": "水戸市民会館",
+      "coordinates": {
+        "lat": 36.3786851,
+        "lng": 140.4649609
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27c3823c-d854-4044-bc61-129bbf04c5a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27c3823c-d854-4044-bc61-129bbf04c5a8.webp"
+        },
+        {
+          "url": "media/cached-image_3eb06fc6a261564526b96eaa0c0438ba4326986012e9325bd963838dfb99b436.jpg"
+        }
+      ],
+      "type": "Community center",
+      "categories": [
+        "Community center"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mito Civic Centre, 水戸市民会館 内 1 Chome-7-1 Izumicho, Mito, Ibaraki 310-0026, Japan",
+      "city": "Mito",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.02379,138.8986867,3a,90y,63.96h,105.95t/data=!3m7!1e1!3m5!1s0JOrrLsHFqNkkTY0K1ad5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.952200115148116%26panoid%3D0JOrrLsHFqNkkTY0K1ad5A%26yaw%3D63.963966325846364!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_57",
+      "name": "Handmade bread Angel",
+      "localName": "手作りパン ｢アンヘル｣",
+      "coordinates": {
+        "lat": 35.0559,
+        "lng": 138.88362
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a25f686-5d9a-4033-b04a-3bf104124b0b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a25f686-5d9a-4033-b04a-3bf104124b0b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0558873,138.8836093,3a,48.7y,196.14h,93.06t/data=!3m7!1e1!3m5!1sM0Fh3ndOoIDBBa-Qf6BsIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.06080666679523%26panoid%3DM0Fh3ndOoIDBBa-Qf6BsIg%26yaw%3D196.14244666283616!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_58",
+      "name": "living space",
+      "localName": "いきもの広場",
+      "coordinates": {
+        "lat": 35.03236,
+        "lng": 138.8898
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ad51fc2-86d7-4cce-b12d-e758c182080b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ad51fc2-86d7-4cce-b12d-e758c182080b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0322484,138.8900193,3a,75y,312.46h,106t/data=!3m7!1e1!3m5!1sAF1QipNjKnQqARh-vxZFTdDK5oSnLLoqqA_J6aRES81k!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipNjKnQqARh-vxZFTdDK5oSnLLoqqA_J6aRES81k%3Dw900-h600-k-no-pi-16.002639171288706-ya143.98608594723243-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHXxtCAOSGWAR1x9lXtrQS9k",
+      "name": "Awashima Shrine",
+      "localName": "淡嶋神社",
+      "coordinates": {
+        "lat": 34.273665699999995,
+        "lng": 135.0664038
+      },
+      "image": "https://cdn.animepilgrimage.com/places/074923dd-e47f-49a3-aeaf-8f69e8ac46b1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/074923dd-e47f-49a3-aeaf-8f69e8ac46b1.webp"
+        },
+        {
+          "url": "media/cached-image_ef5f69721b7af365e8a282daffcc4506c6413f8b07caa2bb4d077656daea1ef9.jpg"
+        },
+        {
+          "url": "media/cached-image_ad61d6f6553a1895e4a9bf822cab81384813d184c19b1b48bde5a361c67d2b6e.jpg"
+        },
+        {
+          "url": "media/cached-image_51395c20e328cf2c7c7a190a4f2b34a5dd2c56fa690c53b26f2ed44138203d87.jpg"
+        },
+        {
+          "url": "media/cached-image_0fbc6922937276f61fb7a8777ba3eb05bcb40d2d37996effcecad5d3b24d3178.jpg"
+        },
+        {
+          "url": "media/cached-image_083c9f4915d60b30474bd2a38ccccbde193aeab601d4038f4ff7aa51e4f740fd.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1926,
+      "priceLevel": null,
+      "address": "Awashima Shrine, 116 Kada, Wakayama, 640-0103, Japan",
+      "city": "Wakayama",
+      "region": "Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0330474,138.8877147,3a,90y,127.03h,79.64t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICtqfLApQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1yhUcqSFNn6H6EJVHtpdiq38ZSGT3HGOkCz1VIbeHuIK_STWqozYV3lAMqdTO-HgOdoTEatljdSooMRnxYdp0XjS-hO3v5mYvJkMbHvQvyxemz3ATGiryz-_GPojxUY7Fd8-FLow%3Dw900-h600-k-no-pi10.359514829385446-ya149.5993378454305-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_60",
+      "name": "Rock Terrace",
+      "localName": "ロックテラス",
+      "coordinates": {
+        "lat": 35.03179,
+        "lng": 138.88925
+      },
+      "image": "https://cdn.animepilgrimage.com/places/287f46cf-f8de-4cec-be0a-382374376cc8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/287f46cf-f8de-4cec-be0a-382374376cc8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0318355,138.8892414,3a,90y,207.07h,90.52t/data=!3m8!1e1!3m6!1sAF1QipPNBjCyU-Foo4baGneHwgaq-9n3I1Uo4t1j4xvt!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipPNBjCyU-Foo4baGneHwgaq-9n3I1Uo4t1j4xvt%3Dw900-h600-k-no-pi-0.5207689447347974-ya234.34090478417195-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuXx3OxWSGWARrAgqYK57hwg",
+      "name": "Tosawaya Inn",
+      "localName": "とさわや旅館",
+      "coordinates": {
+        "lat": 35.0229006,
+        "lng": 138.89833389999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d6702b73-32bd-4689-a344-8f02d55288a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d6702b73-32bd-4689-a344-8f02d55288a3.webp"
+        },
+        {
+          "url": "media/cached-image_58e621e901c27618d5697a327e500a545326cf06e2a7f3990c97096dbd3124d5.jpg"
+        },
+        {
+          "url": "media/cached-image_4b702449ab5a153abd23776146150568cb459d0a300c36023ae621193b88fdb4.jpg"
+        },
+        {
+          "url": "media/cached-image_b63b0985abb985bcc57a6cdc1b14cd45aad0c3ce976b3b55a9d9d05ea66dd854.jpg"
+        },
+        {
+          "url": "media/cached-image_47f36c8adda7a5f5233a398e8eb153f8c5ffd982ea2c051044f24a6b523fd322.jpg"
+        },
+        {
+          "url": "media/cached-image_ce46c7dbe41b99ae097efc9082461c79334b7312582278979aed1414f5d62701.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tosawaya Inn, 88-15 Uchiuramito, Numazu, Shizuoka 410-0223, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0229813,138.898291,3a,90y,116.06h,104.2t/data=!3m7!1e1!3m5!1sDD7LPDjSoQn2kqB_8yFJkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.200816711959845%26panoid%3DDD7LPDjSoQn2kqB_8yFJkA%26yaw%3D116.05819241291256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Tosawaya Inn in Mito is a real Japanese inn in the Uchiura area that appears in episode 5, its traditional coastal guesthouse atmosphere similar to the kind of lodging associated with Chika's family inn."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_love-live-sunshine_62",
+      "name": "Sugiyama Boat Service",
+      "localName": "杉山ボートサービス",
+      "coordinates": {
+        "lat": 35.02473,
+        "lng": 138.88556
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d4766d4-d232-47e9-9dde-b504f18741ea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d4766d4-d232-47e9-9dde-b504f18741ea.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.0245803,138.8851945,3a,38.5y,68.3h,88.7t/data=!3m7!1e1!3m5!1sTKPYMRJeaviXSJYfkliqyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.2953354878978445%26panoid%3DTKPYMRJeaviXSJYfkliqyg%26yaw%3D68.30371925768834!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU9cQloqPGWAR0SQx_OfT3D0",
+      "name": "Agetsuchi Asahi Inari Shrine",
+      "localName": "上土朝日稲荷神社",
+      "coordinates": {
+        "lat": 35.096658,
+        "lng": 138.8585491
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce00e58d-a9e6-4e61-8cf9-85e7265e681a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce00e58d-a9e6-4e61-8cf9-85e7265e681a.webp"
+        },
+        {
+          "url": "media/cached-image_8950f81a78d8cd28ddc547712409b2b583b793544ed645ef8d6414951d867792.jpg"
+        },
+        {
+          "url": "media/cached-image_d96de0e4b415e85b3b04b84ee4770241e41f89687b0c1e3b0a4718981a1408a9.jpg"
+        },
+        {
+          "url": "media/cached-image_b3d8e8f0e3df35af49473740eedd3f69491ed5338088ab9486c819aa9587202e.jpg"
+        },
+        {
+          "url": "media/cached-image_455514f11084c1a8674871046352da33ae9628aa9667049371c00bff1c437b80.jpg"
+        },
+        {
+          "url": "media/cached-image_70a36a9b78aa8e4f456df2404a7fa0e1edc255da0fefe189027e32e63ea9b7f0.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.2,
+      "reviewCount": 60,
+      "priceLevel": null,
+      "address": "Agetsuchi Asahi Inari Shrine, 100-1 Agetsuchicho, Numazu, Shizuoka 410-0802, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0966473,138.8585339,3a,90y,292.71h,95.95t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICk3NyMgwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0TLyOlV3ub-5USItS4r2uDPKZTBznq6jejzyw6w_1ceF2qbgAFPQ_pFE_XA6JPJhghfXmR4tp8sSjYChd1E8Xm7QsveBRH6nTpCDuMm37aDHYG9cPapIH5tafaq-ENErnL1SFA5g%3Dw900-h600-k-no-pi-5.949508381135587-ya328.709898223878-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small inari shrine in the Agetsuchi neighborhood of Numazu appears in episode 5, one of the downtown Numazu landmarks that give the city its lived-in atmosphere throughout the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGxZQmIqPGWARE8uXSrHbYaU",
+      "name": "Numazu Riverside Hotel",
+      "localName": "沼津リバーサイドホテル",
+      "coordinates": {
+        "lat": 35.0968993,
+        "lng": 138.8584654
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7c7084bd-dfb5-4707-93dc-66f3baeb035f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7c7084bd-dfb5-4707-93dc-66f3baeb035f.webp"
+        },
+        {
+          "url": "media/cached-image_e7241eec79c89280918b78046d727f8e4b4b4026110e906b7a763993c03d62cb.jpg"
+        },
+        {
+          "url": "media/cached-image_8d5b54d6cdabe31eaa14549d9380d86fcae36b5f77e1c0dc21524a9e5081a683.jpg"
+        },
+        {
+          "url": "media/cached-image_04380f2e1aeaa8843d6e0aa2c95a2a43f61e2a92148fe7092f4667875b24b89b.jpg"
+        },
+        {
+          "url": "media/cached-image_4b6f7be2cdc6482e0d0ea58552aa80eab4f1a8621e6e7b52da8b790d15e21b91.jpg"
+        },
+        {
+          "url": "media/cached-image_74d333b8dffbc748b9e42cb4633ec0f811bf9f4c6cad955db3987abfff4bd78c.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 3.9,
+      "reviewCount": 98,
+      "priceLevel": null,
+      "address": "Numazu Riverside Hotel, 100-1 Agetsuchicho, Numazu, Shizuoka 410-0802, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0971882,138.8582441,3a,43y,104.84h,92.69t/data=!3m7!1e1!3m5!1s8XNoon_puxwzeYU_prdgnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6882194620281297%26panoid%3D8XNoon_puxwzeYU_prdgnw%26yaw%3D104.83589573671752!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJv9uY4fSLGGARBvVjatZgBEU",
+      "name": "Masahide Cutlery Shop",
+      "localName": "Masahisa Knives",
+      "coordinates": {
+        "lat": 35.6649326,
+        "lng": 139.7704989
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4eaddb15-d081-466e-a3fb-79b8953e62db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4eaddb15-d081-466e-a3fb-79b8953e62db.webp"
+        },
+        {
+          "url": "media/cached-image_862415ffbfcf41c989ba3228eda32d57f38cf856e61b3542549ae12123efdbe8.jpg"
+        }
+      ],
+      "type": "Home goods store",
+      "categories": [
+        "Home goods store"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Masahisa Knives, 4 Chome-13-8 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+      "city": "Chuo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0983278,138.8571601,3a,90y,63.74h,108.31t/data=!3m7!1e1!3m5!1sTAX0RoiISrF29ZJXjNMM_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.307185123368768%26panoid%3DTAX0RoiISrF29ZJXjNMM_w%26yaw%3D63.73714800150695!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJowha6WCFGWARXR2jLXwlMV0",
+      "name": "xianxia hanten Numazu Nakamise Ten",
+      "localName": "沼津仲見世商店街",
+      "coordinates": {
+        "lat": 35.1011911,
+        "lng": 138.8583002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8e9a3f2e-5444-44a6-af38-ecc5ef125800.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8e9a3f2e-5444-44a6-af38-ecc5ef125800.webp"
+        },
+        {
+          "url": "media/cached-image_96cdfe8f32fb79baf69136219254111dc2ad991cf5556b3d362814a44c35e034.jpg"
+        },
+        {
+          "url": "media/cached-image_288acaa3555ec7eb01bef73351bba00b14e31a0b860011b2b2c2107091860b4d.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 747,
+      "priceLevel": null,
+      "address": "Numazu Nakamise Shopping Street, 5 Chome-8-1 Otemachi, Numazu, Shizuoka 410-0801, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1005993,138.8582052,3a,90y,179.24h,89.79t/data=!3m7!1e1!3m5!1sLhLGTSLvzvUJnJVHdFNHsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.20691248210476942%26panoid%3DLhLGTSLvzvUJnJVHdFNHsg%26yaw%3D179.24376838996724!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Numazu Nakamise Shopping Street is a covered arcade near the station that appears in episode 5, with Aquors members ducking into its shops and storefronts as they navigate downtown Numazu."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXyNFnmCFGWARIO2XpdU2t_k",
+      "name": "Rakuen Numazu",
+      "localName": "楽園 沼津店",
+      "coordinates": {
+        "lat": 35.1015669,
+        "lng": 138.859736
+      },
+      "image": "https://cdn.animepilgrimage.com/places/65efb855-6429-4ee1-b3da-b71c6ecc2c2d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/65efb855-6429-4ee1-b3da-b71c6ecc2c2d.webp"
+        },
+        {
+          "url": "media/cached-image_80f4aa1a0957ade237f866ec05d6992bbf8548652c182290da526c917c4910eb.jpg"
+        }
+      ],
+      "type": "Pachinko parlor",
+      "categories": [
+        "Pachinko parlor"
+      ],
+      "rating": 2.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Rakuen Numazu, 3 Chome-4-1 Otemachi, Numazu, Shizuoka 410-0801, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1016814,138.8597051,3a,49.6y,250.59h,93.5t/data=!3m7!1e1!3m5!1sTIneFBnkQfj0MW7Ua1UVqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.49595021374229%26panoid%3DTIneFBnkQfj0MW7Ua1UVqA%26yaw%3D250.59417362706117!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ35mI_12FGWARv7C8g-e2U8Q",
+      "name": "Numazu Station",
+      "localName": "沼津駅",
+      "coordinates": {
+        "lat": 35.1026494,
+        "lng": 138.8598006
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d0489a62-b353-4963-88ee-c77a61f510ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d0489a62-b353-4963-88ee-c77a61f510ca.webp"
+        },
+        {
+          "url": "media/cached-image_0504b75e7dd4f48c1db966034293a3c0b354d50bf9ed06dca2e98cdc882c12ec.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Numazu Station, 1 Chome-1 Otemachi, Numazu, Shizuoka 410-0801, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1022728,138.8597829,3a,58.6y,339.46h,97.65t/data=!3m7!1e1!3m5!1sledl1Bta5I1SSl-ZIaPoNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.654425402718147%26panoid%3Dledl1Bta5I1SSl-ZIaPoNw%26yaw%3D339.4550305064831!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Numazu Station is the main transport hub the Aquors members use throughout the series, its north and south exits serving as meeting points and departure gates for every trip to Tokyo and beyond.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc8ItUECFGWARv8JIUQKChA8",
+      "name": "Numazu Burger",
+      "localName": "モスバーガー沼津五月町店",
+      "coordinates": {
+        "lat": 35.1152582,
+        "lng": 138.8619417
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3fb3101f-4671-448a-8cef-4551c7e8f991.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3fb3101f-4671-448a-8cef-4551c7e8f991.webp"
+        },
+        {
+          "url": "media/cached-image_a442fbe6f45312dd2c570f9fc2296b256b709c86d884d5e851aa0cdc4bb7e348.jpg"
+        }
+      ],
+      "type": "Hamburger restaurant",
+      "categories": [
+        "Hamburger restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mos Burger Numazu Satsukicho, 4-20 Satsukicho, Numazu, Shizuoka 410-0044, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0838411,138.8583518,3a,90y,277.28h,101.1t/data=!3m7!1e1!3m5!1sIMExBu__Ub6hBaP8ksjr0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.09936524758534%26panoid%3DIMExBu__Ub6hBaP8ksjr0w%26yaw%3D277.27592240244803!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJod-tm5SPGWAR_8fGPo6-1wQ",
+      "name": "Kaiko Market",
+      "localName": "海幸市場",
+      "coordinates": {
+        "lat": 35.083119599999996,
+        "lng": 138.8581772
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4f230618-02c2-452a-a8a6-8cb19eca9420.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4f230618-02c2-452a-a8a6-8cb19eca9420.webp"
+        },
+        {
+          "url": "media/cached-image_61c695dfef56bced26e3814541f8ce782d7691a7eb08f3b0952d71410dcaa63d.jpg"
+        },
+        {
+          "url": "media/cached-image_346a02c75d8ad3ca993442083b310742537c4e9c8c85b1dece38d2ae3f0e99bf.jpg"
+        },
+        {
+          "url": "media/cached-image_eefc4aefa93bf3ed3df50524f256268a8bfedff2c4131ff02f2715162260ddcd.jpg"
+        }
+      ],
+      "type": "Seafood market",
+      "categories": [
+        "Seafood market"
+      ],
+      "rating": 3.9,
+      "reviewCount": 40,
+      "priceLevel": null,
+      "address": "Kaiko Market, 105 Senbonminatocho, Numazu, Shizuoka 410-0845, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0830434,138.858287,3a,90y,6.48h,96.35t/data=!3m7!1e1!3m5!1sTeqx08dDlQt4a2hnaCEYTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.345147880640667%26panoid%3DTeqx08dDlQt4a2hnaCEYTA%26yaw%3D6.476048056022149!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Kaiko Market near Numazu Port appears in episode 5 when Chika and friends explore the port district, the seafood market stalls and harbor smell reinforcing Numazu's identity as a fishing city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkzLdoJaPGWAR8gS-b3zrjn8",
+      "name": "Numazu Port Observatory Water Gate",
+      "localName": "沼津港大型展望水門 びゅうお",
+      "coordinates": {
+        "lat": 35.081327699999996,
+        "lng": 138.8544986
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b04505c-1c57-489f-9ec3-b080ddc514fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b04505c-1c57-489f-9ec3-b080ddc514fd.webp"
+        },
+        {
+          "url": "media/cached-image_0ce5a10db224eea772118812bf4d83adc8804e857b221363797f7b314bf9e0d0.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Numazu Port Observatory Water Gate, Senbon-1905-27 Hon, Numazu, Shizuoka 410-0867, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0817193,138.8552362,3a,63.5y,56.79h,92.43t/data=!3m7!1e1!3m5!1sZ6_ySimJAcoiR4yMQXvNSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4291795851664233%26panoid%3DZ6_ySimJAcoiR4yMQXvNSg%26yaw%3D56.78584513183226!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The landmark Byuo observation water gate at Numazu Port is seen in episode 5, its distinctive twin towers a recognizable symbol of Numazu that fans recreate in photos during their pilgrimages.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQYTGLg2SGWAR-2a9Cs2KvlM",
+      "name": "Nagahama Castle Remains",
+      "localName": "長浜城跡",
+      "coordinates": {
+        "lat": 35.0181669,
+        "lng": 138.8879139
+      },
+      "image": "https://cdn.animepilgrimage.com/places/316287a7-94af-4de4-b67b-ba5205db8874.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/316287a7-94af-4de4-b67b-ba5205db8874.webp"
+        },
+        {
+          "url": "media/cached-image_0018becbd3b43a656f54c45dd0fec6fd586a1b6752b4716b31fdc1432c6d51fd.jpg"
+        },
+        {
+          "url": "media/cached-image_15a91cec9ffe324210dd0182573305d0f3f33a47c7f0394983182f222ed46667.jpg"
+        },
+        {
+          "url": "media/cached-image_e1cfd3f91f2dabe3532f64483becf1019e329d24ce12c9f4b9cf785a099428ca.jpg"
+        },
+        {
+          "url": "media/cached-image_9d44fb5e7b0184701d6cf98ba0b23d2823f0f8983dd6772a4011528d8b7e434d.jpg"
+        },
+        {
+          "url": "media/cached-image_b417b90cc247b51778bf8b39ed6873ba03f43d822458d2f5cbed287099a39ae3.jpg"
+        }
+      ],
+      "type": "Castle",
+      "categories": [
+        "Castle"
+      ],
+      "rating": 4.1,
+      "reviewCount": 12,
+      "priceLevel": null,
+      "address": "Nagahama Castle Remains, Uchiuraomosu, Numazu, Shizuoka 410-0225, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0182954,138.888045,3a,90y,356.76h,93.28t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgICEoeKe-AE!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2heOyBb9UJ2lcjMa1QyjGfqyMdd8VV6BG3GiZWvheDOYRKkNzvix9JIH6f3TJWWEIYU1n6HWJR05bK1N721KV4N0pHG9A4pMYZ-mmq0KNOATHCjLmJ0jkCvjEC6M1wyAy67UTjGw%3Dw900-h600-k-no-pi-3.2776180914677155-ya336.2673942877807-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The ruins of Nagahama Castle on the Uchiura waterfront appear in episode 6 when Aquors wander the historic coastline, the old stone fortifications overlooking the same bay where the girls practice and dream."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1UuBWGySGWARC8bHXOTPcHI",
+      "name": "Sannoura General Information Office",
+      "localName": "三の浦総合案内所",
+      "coordinates": {
+        "lat": 35.0177383,
+        "lng": 138.893332
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3cd093a0-e16c-4070-8891-18b6c50b1000.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3cd093a0-e16c-4070-8891-18b6c50b1000.webp"
+        },
+        {
+          "url": "media/cached-image_1009f6ed9353b1127273c4c0587490ca7fdc1d67e3235a6c2276b511bffbb513.jpg"
+        },
+        {
+          "url": "media/cached-image_829340b400e7bb74940dffdec08ba46526d0af6f162743363c4f5ccea868337e.jpg"
+        }
+      ],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Sannoura General Information Office, 83-124 Uchiuranagahama, Numazu, Shizuoka 410-0224, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.017766,138.8932498,3a,62.6y,127.71h,94.93t/data=!3m7!1e1!3m5!1sif_rp1STa6eO-iyjYEZxSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.925563253383245%26panoid%3Dif_rp1STa6eO-iyjYEZxSQ%26yaw%3D127.70575684160906!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The Sannoura General Information Office in Uchiura is the real-world model for the local visitor hub that Aquors pass on their coastal walks, and it functions today as a pilgrimage reception point for Love Live! Sunshine!! fans visiting Numazu.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMZahyWCFGWARpciJNCEMkr8",
+      "name": "Numazu Konshinya",
+      "localName": "横浜家系ラーメン 沼津 魂心家",
+      "coordinates": {
+        "lat": 35.1017028,
+        "lng": 138.8585029
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c863ab89-88b0-4e10-b2aa-b71f4b1a727c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c863ab89-88b0-4e10-b2aa-b71f4b1a727c.webp"
+        },
+        {
+          "url": "media/cached-image_3038a72fe39b1293427190bfd35870a1832c13b044861a37378695ac0ba14835.jpg"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Numazu Konshinya, フェニックスビル 1F 5 Chome-2-18 Otemachi, Numazu, Shizuoka 410-0801, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.101823,138.8583923,3a,90y,184.93h,109.54t/data=!3m7!1e1!3m5!1s06AAgrFE4Ey-M0JlLkqefg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.53765482450747%26panoid%3D06AAgrFE4Ey-M0JlLkqefg%26yaw%3D184.9317312922243!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 6
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXSQQI797A2ARTB2rtM6MJ_I",
+      "name": "Nippon Gaishi Hall",
+      "localName": "クロコくんホール",
+      "coordinates": {
+        "lat": 35.095898399999996,
+        "lng": 136.9233477
+      },
+      "image": "https://cdn.animepilgrimage.com/places/952dee0e-e170-41bc-a681-b14d25f4e624.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/952dee0e-e170-41bc-a681-b14d25f4e624.webp"
+        },
+        {
+          "url": "media/cached-image_15bb31760e3bac09cc456ce8155c88892256a3042156f1df5663187b67d4e57b.jpg"
+        },
+        {
+          "url": "media/cached-image_6d04d1570baa4b456913b6c6cca4a27536406d81b772ee563c5aa8612c40e9f4.jpg"
+        },
+        {
+          "url": "media/cached-image_767c10b5a1b27a1bb36b10ae22045d26b04097db2d23d197f2de8c2d13a5d674.jpg"
+        }
+      ],
+      "type": "Event venue",
+      "categories": [
+        "Event venue"
+      ],
+      "rating": 3.9,
+      "reviewCount": 686,
+      "priceLevel": null,
+      "address": "Kurokokun hall, 5 Chome-1-16 Higashimatabeecho, Minami Ward, Nagoya, Aichi 457-0833, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0951003,136.9235657,3a,90y,346.4h,111.31t/data=!3m7!1e1!3m5!1sDtemC0a1CTY6xuFkf5_xjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.313532222630585%26panoid%3DDtemC0a1CTY6xuFkf5_xjw%26yaw%3D346.3982025325363!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "Nippon Gaishi Hall in Nagoya is the concert venue where Aquors perform in the climactic episode 13 finale, its large stage the biggest performance space the group has ever stood on and the setting of their emotional turning point.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJfz5XNeZ2A2ARfSNHSFRPnJI",
+      "name": "Nagoya Ekinishi Police Box",
+      "localName": "中村警察署 名古屋駅西交番",
+      "coordinates": {
+        "lat": 35.1703447,
+        "lng": 136.8806171
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b632b7fc-8820-4696-adb1-a21e8de989f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b632b7fc-8820-4696-adb1-a21e8de989f2.webp"
+        },
+        {
+          "url": "media/cached-image_a5e5576c5176c0791717406d964ca55c63aa6ae3194dee1f80eafa4403da6700.jpg"
+        }
+      ],
+      "type": "Neighborhood police station",
+      "categories": [
+        "Neighborhood police station"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Nagoya Ekinishi Police Box, 6-4-1 Tsubakicho, Nakamura Ward, Nagoya, Aichi 453-0015, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1702214,136.8802086,3a,48.7y,41.91h,97.77t/data=!3m7!1e1!3m5!1sKaelTs3hJVuyUYQjLcp90g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.766906437158653%26panoid%3DKaelTs3hJVuyUYQjLcp90g%26yaw%3D41.90591535840479!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW3FhQN12A2AR9C3RRp4zOcw",
+      "name": "Dai Nagoya Building",
+      "localName": "大名古屋ビルヂング",
+      "coordinates": {
+        "lat": 35.1719951,
+        "lng": 136.8845283
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9c5966e9-116e-41da-b4c6-6b4b5e77d690.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9c5966e9-116e-41da-b4c6-6b4b5e77d690.webp"
+        },
+        {
+          "url": "media/cached-image_92c4cf2682c76cd271247a9d2014b73d193a3c41bc2b754f8948389cfcc1770c.jpg"
+        }
+      ],
+      "type": "Business park",
+      "categories": [
+        "Business park"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dai Nagoya Building, 3 Chome-28-12 Meieki, Nakamura Ward, Nagoya, Aichi 450-6490, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1715421,136.8851072,3a,75y,265.01h,104.83t/data=!3m7!1e1!3m5!1spi0E1z1U0fh4Pt7TqzvcnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.830754815070435%26panoid%3Dpi0E1z1U0fh4Pt7TqzvcnA%26yaw%3D265.0148661717174!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 13,
+      "entityContext": "The Dai Nagoya Building near Nagoya Station appears in episode 13 as part of the city backdrop during Aquors' arrival for the final Love Live! round, its modern high-rise facade contrasting with the small-town feel of Numazu."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtxODuv6LGGAR4xf7X3WayX0",
+      "name": "Tokyo Station Gallery",
+      "localName": "東京ステーションギャラリー",
+      "coordinates": {
+        "lat": 35.6824361,
+        "lng": 139.7665257
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef41b721-ce0f-4fdc-bff4-b20814b1ab60.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef41b721-ce0f-4fdc-bff4-b20814b1ab60.webp"
+        },
+        {
+          "url": "media/cached-image_f2efc26a1ac3f943d93a276aee075836fedd68081fdb2f8af59f79ca3704d62c.jpg"
+        },
+        {
+          "url": "media/cached-image_d27c8f26f813b59f789a888849fddb9cd05e88781c80d60adaed4adb070ab422.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Tokyo Station Gallery, 1 Chome-9-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6822936,139.766627,2a,90y,310.85h,92.41t/data=!3m7!1e1!3m5!1sfKNcaEspHWIvrNtUdKNCPw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4148256712151692%26panoid%3DfKNcaEspHWIvrNtUdKNCPw%26yaw%3D310.8488536696025!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Tokyo Station Gallery inside the historic red-brick station building appears in episode 12, with Aquors passing through the grand Marunouchi concourse on their way to a key performance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlX3AR_GPGWARTFqI-eF7a6g",
+      "name": "Numazu Civic Cultural Center",
+      "localName": "沼津市民文化センター",
+      "coordinates": {
+        "lat": 35.0953291,
+        "lng": 138.8660846
+      },
+      "image": "https://cdn.animepilgrimage.com/places/09acd524-14cb-4f74-bc74-566186a5a333.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/09acd524-14cb-4f74-bc74-566186a5a333.webp"
+        },
+        {
+          "url": "media/cached-image_fb5a8755714a37fa305645b0e6900908db3d9226c14418629890dd11d4eb5b07.jpg"
+        }
+      ],
+      "type": "Performing arts theater",
+      "categories": [
+        "Performing arts theater"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Numazu Civic Cultural Center, 15-1 Miyukicho, Numazu, Shizuoka 410-0832, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0946004,138.8656378,3a,75y,344.32h,96.65t/data=!3m7!1e1!3m5!1s1nc5y5E7v1IqsTRyqe6_Dg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.653343593546921%26panoid%3D1nc5y5E7v1IqsTRyqe6_Dg%26yaw%3D344.3181263739684!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Numazu Civic Cultural Center is the venue for a local school idol event in episode 12, one of the community stages that shows Aquors working their way up through increasingly large performance settings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4W8CLBWSGWARh2u17K3Ejzw",
+      "name": "Shougetsu Numazu Store",
+      "localName": "松月",
+      "coordinates": {
+        "lat": 35.022151199999996,
+        "lng": 138.8980626
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ded31c19-06d4-4c18-bf70-b02cc457aa3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ded31c19-06d4-4c18-bf70-b02cc457aa3d.webp"
+        },
+        {
+          "url": "media/cached-image_5088ee7ed853cb02909de4c72e0cf345bf96d10f43965d515ede1ae5b49e216a.jpg"
+        }
+      ],
+      "type": "Japanese confectionery shop",
+      "categories": [
+        "Japanese confectionery shop"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shougetsu Numazu Store, 88-36 Uchiuramito, Numazu, Shizuoka 410-0223, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0223478,138.8979246,3a,75y,163.68h,94.65t/data=!3m7!1e1!3m5!1s8fJ1SFVq6-rSOUJynWiKuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.648088867766532%26panoid%3D8fJ1SFVq6-rSOUJynWiKuw%26yaw%3D163.68449233890044!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Shougetsu, a Japanese confectionery shop in the Mito area, appears in episode 12 as a local sweet shop the girls visit, its traditional wagashi products part of the series' affectionate portrayal of Uchiura's small businesses."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs3WCWIyPGWARTnJ5pevb5to",
+      "name": "Orandakan Shimogawara Shop",
+      "localName": "欧蘭陀館 下河原店",
+      "coordinates": {
+        "lat": 35.0907531,
+        "lng": 138.8580691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d674ed66-791d-40e3-bbe9-2ee6726f7db5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d674ed66-791d-40e3-bbe9-2ee6726f7db5.webp"
+        },
+        {
+          "url": "media/cached-image_ebf3c382d1ceef4ad2d2e29dda558b32516b4dea979d37b01ecb50ace8eeeba0.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Orandakan Shimogawara Shop, 1-chome-1146-33 Shimogawaracho, Numazu, Shizuoka 410-0841, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0906098,138.8582558,3a,90y,318.35h,99.93t/data=!3m7!1e1!3m5!1sNtj-Koj4-4yXQQcQ5Xj-Nw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.93039156539217%26panoid%3DNtj-Koj4-4yXQQcQ5Xj-Nw%26yaw%3D318.35261845185147!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Orandakan, a well-regarded Numazu cafe with a vintage Dutch-inspired interior, appears in episode 11, the cozy cafe providing a quieter moment for Aquors amid the tensions of the Love Live! competition season."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXUJp-ceTGWARzmfZcI8zyrg",
+      "name": "Nagaisaki Burial Mound Site",
+      "localName": "長井崎古墳跡",
+      "coordinates": {
+        "lat": 35.0231597,
+        "lng": 138.8844656
+      },
+      "image": "https://cdn.animepilgrimage.com/places/38260b19-3f8f-4302-8681-94befa1476bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/38260b19-3f8f-4302-8681-94befa1476bd.webp"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagaisaki Burial Mound Site, Uchiuraomosu, Numazu, Shizuoka 410-0225, Japan",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0233514,138.8837669,3a,75y,11.33h,88.65t/data=!3m7!1e1!3m5!1sr9SdkQCsulwAkyJ5WNfOdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.3481565883411974%26panoid%3Dr9SdkQCsulwAkyJ5WNfOdA%26yaw%3D11.329292407111733!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "This ancient burial mound on the Nagaisaki headland appears in episode 11, the historical site overlooking Uchiura Bay serving as a remote outdoor backdrop for a reflective conversation among the Aquors members."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf49FXz2NGGARpIvFDZZgOsg",
+      "name": "TenTen Guesthouse in Tokyo",
+      "localName": "TenTen Guesthouse in Tokyo",
+      "coordinates": {
+        "lat": 35.716315,
+        "lng": 139.7974008
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_ef52a6c99ededd90e3f0751fc1075e236186bf7fc60c325ba569674a153146af.jpg"
+        },
+        {
+          "url": "media/cached-image_aa0fba09136a155b459735ff90a9038342a9b09683cee3d25e170d4e947fd68b.jpg"
+        },
+        {
+          "url": "media/cached-image_1b33b80b3acd6d46ac9011b6a1198fdbf65016957e603e4fed24a347a71ad48f.jpg"
+        },
+        {
+          "url": "media/cached-image_d9b844e3c85915f34f7b0cbc4de72bd8ef08ed65afa3275578ea5d0663dfeca1.jpg"
+        }
+      ],
+      "type": "Hostel",
+      "categories": [
+        "Hostel"
+      ],
+      "rating": 4.2,
+      "reviewCount": 313,
+      "priceLevel": null,
+      "address": "TenTen Guesthouse in Asakusa,Tokyo, 3 Chome-4-12 Asakusa, Taito City, Tokyo 111-0032, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0179682,138.8936059,3a,88.7y,240.61h,96.14t/data=!3m7!1e1!3m5!1sFvvlcs8_VXZZ88sdiBkU4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.137289199743137%26panoid%3DFvvlcs8_VXZZ88sdiBkU4A%26yaw%3D240.60916878281176!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    }
+  ]
+}

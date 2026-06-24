@@ -1,0 +1,823 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Oomuro-ke: Dear Sisters",
+  "slug": "oomuro-ke-dear-sisters",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_c2d99a5459be37158d97d25b3a50548464718dfd31ceb5fb700d056759711a86.webp",
+  "image": "media/cached-image_c2d99a5459be37158d97d25b3a50548464718dfd31ceb5fb700d056759711a86.webp",
+  "banner": null,
+  "primaryLocation": "Toyama, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.61566069166667,
+    "lng": 137.187561025
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Oomuro-ke: Dear Sisters"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJNeAQtceC918RYR-dbKQCBcg",
+      "name": "Lawson Takaoka Station",
+      "localName": "ローソン Ｓ高岡駅北口店",
+      "coordinates": {
+        "lat": 36.741741999999995,
+        "lng": 137.016073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/df15971c-ccf4-4436-9c38-928348c21dd6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/df15971c-ccf4-4436-9c38-928348c21dd6.webp"
+        },
+        {
+          "url": "media/cached-image_ac0ffde8c614ce87f8f56aa72719120708145f2fbf8c41dad2a2995ffd4c185e.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson S Takaoka Station North, 4-55 Shimozekimachi, Takaoka, Toyama 933-0021, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7431532,137.0164868,3a,90y,14.28h,96.95t/data=!3m7!1e1!3m5!1sQen6e6pgb_lRUdFm79xkig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.949089451886536%26panoid%3DQen6e6pgb_lRUdFm79xkig%26yaw%3D14.28418692241683!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sakurako stops at this convenience store to buy ice cream and snacks on her own, a small moment of independence that captures her easygoing, self-indulgent side. It is one of the most photographed pilgrimage spots as fans recreate her snack run.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ05gBfW2D918RZHEkR-OqfNc",
+      "name": "s. r-trois / エス エール トロワ",
+      "localName": "s. r-trois / エス エール トロワ",
+      "coordinates": {
+        "lat": 36.7387666,
+        "lng": 137.0059709
+      },
+      "image": "https://cdn.animepilgrimage.com/places/797d95e8-3620-4c72-ab7f-af9f396a7fa9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/797d95e8-3620-4c72-ab7f-af9f396a7fa9.webp"
+        }
+      ],
+      "type": "Modern French restaurant",
+      "categories": [
+        "Modern French restaurant"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒933-0866 Toyama, Takaoka, Shimizumachi, 3 Chome−5−58 2F s. r-trois / エス エール トロワ",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7389394,137.0055608,3a,48.7y,34.07h,95.21t/data=!3m7!1e1!3m5!1sSwKQWEsOhcOGZEjaHnZIIw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.206543116852288%26panoid%3DSwKQWEsOhcOGZEjaHnZIIw%26yaw%3D34.074208927517624!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This upscale French restaurant appears in the film as the sisters share a special meal together, marking a rare occasion when the three of them sit down as a family outside the home."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_2",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73549,
+        "lng": 137.00128
+      },
+      "image": "https://cdn.animepilgrimage.com/places/20c09178-232f-4c59-b25b-de1ac5bcda1c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/20c09178-232f-4c59-b25b-de1ac5bcda1c.webp"
+        },
+        {
+          "url": "media/cached-image_302cb0e427998e4e019806b33b63d6c63295b0e00adb89cb6dfb94831b9d74d7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7355302,137.0012757,3a,90y,216.64h,97.08t/data=!3m7!1e1!3m5!1saUSDbWQi4rtmRvcql4ZEww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.078570201198929%26panoid%3DaUSDbWQi4rtmRvcql4ZEww%26yaw%3D216.64450578705095!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_3",
+      "name": "Terada Orthodontics Clinic",
+      "localName": "寺田矯正歯科医院",
+      "coordinates": {
+        "lat": 36.73546,
+        "lng": 137.00483
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c54ef10e-3820-447d-b111-0f060ff9e51b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c54ef10e-3820-447d-b111-0f060ff9e51b.webp"
+        },
+        {
+          "url": "media/cached-image_a11da1e96866fab6cc1451771a3597155856636e4a675c92c41a99e58316258a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7354704,137.0047655,3a,90y,85.65h,100.81t/data=!3m7!1e1!3m5!1s0cCEaUddwfxA_xpypyf-kw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.809604564455285%26panoid%3D0cCEaUddwfxA_xpypyf-kw%26yaw%3D85.65391452018957!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This street-level clinic exterior is captured in the opening title sequence, part of a montage of everyday Takaoka townscapes that establish the sisters' quiet neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_4",
+      "name": "Appa Hassu Ichibankan",
+      "localName": "あぱはうす壱番館",
+      "coordinates": {
+        "lat": 36.73567,
+        "lng": 137.00574
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d3e066f-1878-4287-83d2-cacd9a325b3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d3e066f-1878-4287-83d2-cacd9a325b3b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7357382,137.00574,3a,73.2y,187.05h,100.41t/data=!3m7!1e1!3m5!1sTKj6KbRPe3IBHJz23RJQPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.413102318219714%26panoid%3DTKj6KbRPe3IBHJz23RJQPg%26yaw%3D187.04787893650106!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This apartment building exterior is featured in the opening credits sequence as part of the sisters' familiar home neighborhood, grounding the story in Takaoka's everyday scenery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_5",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73508,
+        "lng": 137.00083
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2ad1daa2-12d8-478b-b3ec-7f2ead56e8ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ad1daa2-12d8-478b-b3ec-7f2ead56e8ca.webp"
+        },
+        {
+          "url": "media/cached-image_2909b3bccd23ac3480a28cc6b8a81b9fafdc1dbcbb17d99c9cf55d9021c5580a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7350733,137.0008209,3a,75y,220.52h,100.75t/data=!3m7!1e1!3m5!1s_fwckRw7JgIMn06MqzdFIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.752840168046149%26panoid%3D_fwckRw7JgIMn06MqzdFIA%26yaw%3D220.52295835163156!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaVCkkcOPGWARbHtDUfdBn9A",
+      "name": "ＮＩＷ（ニウ）",
+      "localName": "エヌアイウエル（株）",
+      "coordinates": {
+        "lat": 35.0784525,
+        "lng": 138.86661519999998
+      },
+      "image": null,
+      "images": [],
+      "type": "企業のオフィス",
+      "categories": [
+        "企業のオフィス"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒410-0822 Shizuoka, Numazu, Shimokanukishioba, 3070-2 ＮＩＷ（ニウ）",
+      "city": "Numazu",
+      "region": "Shizuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7350195,137.0001431,3a,90y,69.68h,88.98t/data=!3m7!1e1!3m5!1skvb9Kbw6i0obmcn7zARDew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.0188913337473195%26panoid%3Dkvb9Kbw6i0obmcn7zARDew%26yaw%3D69.67706177073227!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo8Uv4X54918RLvuB4w9D-jY",
+      "name": "Live Town Takaoka",
+      "localName": "高岡市",
+      "coordinates": {
+        "lat": 36.754111699999996,
+        "lng": 137.0257637
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61cc80a5-b159-4e26-b9d5-c370f40bb8bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61cc80a5-b159-4e26-b9d5-c370f40bb8bd.webp"
+        },
+        {
+          "url": "media/cached-image_509101c1d93ddf1db8613d38831e2ba9dc55d9b524d51336e42974e17409f6a8.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Takaoka, Toyama, Japan",
+      "city": "Takaoka",
+      "region": "Toyama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7356382,137.0026539,3a,90y,91.91h,102.89t/data=!3m7!1e1!3m5!1sDrDr3KpzJedYze7qEHWd2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.887116909533802%26panoid%3DDrDr3KpzJedYze7qEHWd2g%26yaw%3D91.90912135233091!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This shopping complex appears in the opening sequence, representing the bustling commercial heart of Takaoka that the Oomuro sisters pass through in their daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_8",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.7353,
+        "lng": 137.00108
+      },
+      "image": "https://cdn.animepilgrimage.com/places/111a723b-1b2e-4644-9cb8-d672a73e68b5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/111a723b-1b2e-4644-9cb8-d672a73e68b5.webp"
+        },
+        {
+          "url": "media/cached-image_a76b1a63daa1836c127b5c6a9661d5a5ef5044df47867d3237c9005105cb76e6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7352751,137.0010497,3a,75y,44.79h,96.95t/data=!3m7!1e1!3m5!1sLCMs5_W10rHVK44I94qUxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.949381963547751%26panoid%3DLCMs5_W10rHVK44I94qUxg%26yaw%3D44.78599298589008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_9",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73542,
+        "lng": 137.00124
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8682dacd-df0f-41a2-8cc9-3f3b1267d6f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8682dacd-df0f-41a2-8cc9-3f3b1267d6f1.webp"
+        },
+        {
+          "url": "media/cached-image_5c41f87d7f08156401e8d0793583bb84b40ed99fd1ba34b5c212a5095099f11d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7354417,137.0012498,3a,75y,258.63h,93.41t/data=!3m7!1e1!3m5!1swInRxvWVaZnRL6ckIj7x5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4129414095137918%26panoid%3DwInRxvWVaZnRL6ckIj7x5A%26yaw%3D258.6309985119923!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_10",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.7357,
+        "lng": 137.00128
+      },
+      "image": "https://cdn.animepilgrimage.com/places/53630392-db17-45a1-ad58-5a36341fed1b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/53630392-db17-45a1-ad58-5a36341fed1b.webp"
+        },
+        {
+          "url": "media/cached-image_830f4fcb81423b4b55769fffcea143e0effc338de4a616494d79ca28e82e9a40.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7356885,137.0012751,3a,90y,262.27h,97.26t/data=!3m7!1e1!3m5!1sS_M-XSDYoipUyB3amx8D5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.259842978070026%26panoid%3DS_M-XSDYoipUyB3amx8D5Q%26yaw%3D262.26798370382346!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_11",
+      "name": "Urata Life Service",
+      "localName": "浦田ライフサービス",
+      "coordinates": {
+        "lat": 36.73572,
+        "lng": 137.00212
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71795290-546a-412c-bc40-41e85e13ff01.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71795290-546a-412c-bc40-41e85e13ff01.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7357421,137.0020952,3a,90y,116.63h,99.34t/data=!3m7!1e1!3m5!1saEGr_WJFVC7h8wT_veDngg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.335268874001244%26panoid%3DaEGr_WJFVC7h8wT_veDngg%26yaw%3D116.63196473453162!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This local shop front is included in the opening title montage, one of the neighborhood landmarks that defines the sisters' everyday world in Takaoka."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_12",
+      "name": "Terada Orthodontics Clinic",
+      "localName": "寺田矯正歯科医院",
+      "coordinates": {
+        "lat": 36.73552,
+        "lng": 137.00404
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b76c01f-a729-4b20-af7b-b9540284f2ef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b76c01f-a729-4b20-af7b-b9540284f2ef.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7355378,137.0040503,3a,49.6y,274.65h,94.38t/data=!3m7!1e1!3m5!1s-zy9-KG0nPWGlMCZT9w8QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.38268067483277%26panoid%3D-zy9-KG0nPWGlMCZT9w8QA%26yaw%3D274.65170901815594!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "A second angle of this clinic facade appears in the opening sequence, used to fill out the residential streetscape where the Oomuro sisters live."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_13",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73519,
+        "lng": 137.00093
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7558480-2dac-4626-9e70-b6198c1abe74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7558480-2dac-4626-9e70-b6198c1abe74.webp"
+        },
+        {
+          "url": "media/cached-image_3e8e8d52e1ff6c7c78914cc0fad1f6f0e66917575776f040a14d957989288e17.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7352148,137.0009795,3a,63.9y,225.65h,95.48t/data=!3m7!1e1!3m5!1sOHmj8k7PlbEdLijVLpOe7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.478929848072994%26panoid%3DOHmj8k7PlbEdLijVLpOe7A%26yaw%3D225.65424990253004!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrcmTniZXGGAR44JUwIPtQOY",
+      "name": "Hapinesu Group Home Izumi",
+      "localName": "グループホームいずみ",
+      "coordinates": {
+        "lat": 35.4414838,
+        "lng": 139.4923818
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0aec20e0-e38f-4d64-b250-533f329ca5d3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0aec20e0-e38f-4d64-b250-533f329ca5d3.webp"
+        },
+        {
+          "url": "media/cached-image_e71fb381bcfd702c373e26250a233057d02540fdb2b2d99d87350b31156fbbbd.jpg"
+        },
+        {
+          "url": "media/cached-image_1bdc58cf3931c5a6bd35e307dec96ef5cf8548a2724b4abf05227d814ba71246.jpg"
+        },
+        {
+          "url": "media/cached-image_f6421fb1464c6141fcf8cf1f4d4d131ccacd56e70f3a424758469752e0b972f5.jpg"
+        },
+        {
+          "url": "media/cached-image_d5edbf55548933606b4b62893a7b61718a2022273a7896425560e58f6285aeb7.jpg"
+        }
+      ],
+      "type": "Group home",
+      "categories": [
+        "Group home"
+      ],
+      "rating": 3.3,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Izumi Group Home, 7600-4 Izumichō, Izumi Ward, Yokohama, Kanagawa 245-0016, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.7368298,137.0063609,3a,43.8y,89.6h,92.44t/data=!3m7!1e1!3m5!1sbZCN1ouku7K3zZX72nIoyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4399959602439623%26panoid%3DbZCN1ouku7K3zZX72nIoyQ%26yaw%3D89.59524150250391!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_15",
+      "name": "Fujita vase",
+      "localName": "ふじた花器",
+      "coordinates": {
+        "lat": 36.73693,
+        "lng": 137.00653
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f2af0bee-f165-4e87-8e39-1b6eb7abcdf2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f2af0bee-f165-4e87-8e39-1b6eb7abcdf2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7369108,137.0065455,3a,43.8y,3.12h,92.55t/data=!3m7!1e1!3m5!1scIzcaHKfv59Fbw22n-JjjQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.548459465053938%26panoid%3DcIzcaHKfv59Fbw22n-JjjQ%26yaw%3D3.117686322396433!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This flower-goods shop appears in background street scenes during the film, adding local color to the Takaoka neighborhood the sisters walk through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_16",
+      "name": "Fujita vase",
+      "localName": "ふじた花器",
+      "coordinates": {
+        "lat": 36.73704,
+        "lng": 137.00659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1567881e-e19f-4792-999a-590af449d36c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1567881e-e19f-4792-999a-590af449d36c.webp"
+        },
+        {
+          "url": "media/cached-image_a73caffeb548d5ea57b11256761349c9df046fdfb766d0df9ca4077da9b709af.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7368191,137.0065527,3a,32.6y,5.88h,93.17t/data=!3m7!1e1!3m5!1sp6SPqtA4EdSnze9xVeieXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.170550363525905%26panoid%3Dp6SPqtA4EdSnze9xVeieXA%26yaw%3D5.881940663144496!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A second angle of this shop exterior is used in a movie scene to establish the residential shopping street where the Oomuro sisters' daily life unfolds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_17",
+      "name": "Odake Yabu Plaza",
+      "localName": "小竹藪広場",
+      "coordinates": {
+        "lat": 36.75086,
+        "lng": 137.023
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d0572c8-6e3c-445a-bd9c-6c738220438a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d0572c8-6e3c-445a-bd9c-6c738220438a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7504577,137.0231535,3a,37y,340.38h,93.92t/data=!3m7!1e1!3m5!1shzt9BKGqnYbneWYO1khp6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9151818192584784%26panoid%3Dhzt9BKGqnYbneWYO1khp6w%26yaw%3D340.3837773431701!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This park area near Takaoka Castle is where Sakurako encounters Misaki Takasaki and asks her if she knows a dog called Misaki-chi, a playful and memorable exchange that kicks off their friendship in the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_18",
+      "name": "Odake Yabu Plaza",
+      "localName": "小竹藪広場",
+      "coordinates": {
+        "lat": 36.75037,
+        "lng": 137.02348
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9686831c-51bc-4428-8468-a32c2b862b2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9686831c-51bc-4428-8468-a32c2b862b2f.webp"
+        },
+        {
+          "url": "media/cached-image_9ccfcce6f2cc91bd05fef0856a90c31eee2f9011ecd305de29cdbccaecf1180a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7503713,137.0234889,3a,43.8y,40.78h,89.76t/data=!3m7!1e1!3m5!1skkmCGf16v2uCr988aNzIiA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.242285736925254%26panoid%3DkkmCGf16v2uCr988aNzIiA%26yaw%3D40.78289170419563!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "A second angle of the plaza captures the distinctive green-roofed rest shelter that appears in the background as Sakurako and Misaki talk, making this corner instantly recognizable to fans of the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_19",
+      "name": "Italian delicatessen contorno",
+      "localName": "イタリア惣菜店contorno（コントルノ）",
+      "coordinates": {
+        "lat": 36.74883,
+        "lng": 137.00932
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aacdde3a-ae11-46dc-8120-eb4417a0033f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aacdde3a-ae11-46dc-8120-eb4417a0033f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7489424,137.0091175,3a,45.6y,121.41h,95.58t/data=!3m7!1e1!3m5!1sZd_4AR_K-4jPRxR3lBHNjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.581758691558306%26panoid%3DZd_4AR_K-4jPRxR3lBHNjg%26yaw%3D121.4145896715079!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Italian deli appears as a background location in the film, part of the lived-in streetscape of Takaoka that surrounds the sisters' routines."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_20",
+      "name": "Sake Hustle",
+      "localName": "酒のハッスル",
+      "coordinates": {
+        "lat": 36.73663,
+        "lng": 136.99902
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b3d8c2f-f351-449f-a02b-aba79260877b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b3d8c2f-f351-449f-a02b-aba79260877b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7366574,136.9989201,3a,39.2y,110.14h,92.39t/data=!3m7!1e1!3m5!1sZUBzAxu3pnUxh0U8QySfMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3863158657293724%26panoid%3DZUBzAxu3pnUxh0U8QySfMw%26yaw%3D110.14326469753719!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This liquor shop exterior is visible in a movie scene, contributing to the authentic neighborhood atmosphere of the Takaoka area depicted in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_21",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73558,
+        "lng": 137.00128
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41c5cb82-4837-49fb-a60a-fbcc843b5119.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41c5cb82-4837-49fb-a60a-fbcc843b5119.webp"
+        },
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2ad1daa2-12d8-478b-b3ec-7f2ead56e8ca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7356885,137.0012751,3a,37.3y,11.69h,90.29t/data=!3m7!1e1!3m5!1sS_M-XSDYoipUyB3amx8D5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.29108008343210656%26panoid%3DS_M-XSDYoipUyB3amx8D5Q%26yaw%3D11.689940940631505!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_22",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.7354,
+        "lng": 137.00121
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae843948-66fa-4be5-93f9-f52030a95993.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae843948-66fa-4be5-93f9-f52030a95993.webp"
+        },
+        {
+          "url": "media/cached-image_6e26f5bb22287ed47160ecea904cadb56870bfe3ff3226bc2a6e9853e900cc60.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7353643,137.0011553,3a,90y,224.25h,93.83t/data=!3m7!1e1!3m5!1sj0YEUaXf2x8CPoiZxWNLEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.829775405783238%26panoid%3Dj0YEUaXf2x8CPoiZxWNLEw%26yaw%3D224.2512420098732!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_oomuro-ke-dear-sisters_23",
+      "name": "Green Parking Lot",
+      "localName": "グリーンパーキング",
+      "coordinates": {
+        "lat": 36.73511,
+        "lng": 137.00086
+      },
+      "image": "https://cdn.animepilgrimage.com/places/80ca4e1c-f745-4bf0-9e0a-b51a91029846.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/80ca4e1c-f745-4bf0-9e0a-b51a91029846.webp"
+        },
+        {
+          "url": "media/cached-image_e0d1160dee84372afaf551a91b1fa5ac2dc17fa947a7ff3c7ab1d80fc31933ac.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.7350733,137.0008209,3a,44.6y,32.2h,90.5t/data=!3m7!1e1!3m5!1s_fwckRw7JgIMn06MqzdFIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5030213839202844%26panoid%3D_fwckRw7JgIMn06MqzdFIA%26yaw%3D32.20339366557549!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking lot area appears repeatedly across movie scenes and the opening sequence, serving as a backdrop for the sisters' walks through their Takaoka neighborhood."
+    }
+  ]
+}

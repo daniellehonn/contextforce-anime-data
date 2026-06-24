@@ -1,0 +1,389 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Bleach: Memories of Nobody",
+  "slug": "bleach-memories-of-nobody",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_88f478d7177c89609dfd4992adecbd5dd02114565425f5c8a934c7ab163aee07.webp",
+  "image": "media/cached-image_88f478d7177c89609dfd4992adecbd5dd02114565425f5c8a934c7ab163aee07.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.62118753,
+    "lng": 139.41868691
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Bleach: Memories of Nobody"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bleach-memories-of-nobody_0",
+      "name": "Butter",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.6153,
+        "lng": 139.3789
+      },
+      "image": "https://cdn.animepilgrimage.com/places/268be3a8-2464-43ce-a285-0ba281af4192.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/268be3a8-2464-43ce-a285-0ba281af4192.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.615204,139.3788187,3a,90y,222.14h,95.49t/data=!3m7!1e1!3m5!1s7QT-xI22BIGNk_iWjyQtwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.494357605582692%26panoid%3D7QT-xI22BIGNk_iWjyQtwQ%26yaw%3D222.14078937961636!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The streets around this Minami-Osawa shop appear during the early scenes where Ichigo and Senna wander through the real-world town, capturing the ordinary neighborhood atmosphere that contrasts with the looming Soul Society crisis."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFbhfDLniGGAR3QOnE8ISSDc",
+      "name": "Minami Osawa Station Police Box",
+      "localName": "警視庁 南大沢警察署",
+      "coordinates": {
+        "lat": 35.6163605,
+        "lng": 139.38188879999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1ebe0a2-1ece-42d1-b74f-ada68885096f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1ebe0a2-1ece-42d1-b74f-ada68885096f.webp"
+        }
+      ],
+      "type": "Police department",
+      "categories": [
+        "Police department"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Minamiosawa Police Station, 1 Chome-８-3 Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6131061,139.3801869,3a,75y,236.88h,98.87t/data=!3m7!1e1!3m5!1s4LKdSSIGkgBQSRrSeKegfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.866433009400552%26panoid%3D4LKdSSIGkgBQSRrSeKegfg%26yaw%3D236.8795051701044!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This police box near Minami-Osawa Station is part of the real-world streetscape filmed for the movie, appearing in background shots that establish the quiet suburban Tokyo setting where Senna integrates herself among the living."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL9vYgoHjGGAR3UgjRGObMwE",
+      "name": "Minami-Osawa No. 2 Parking Lot",
+      "localName": "南大沢駅第2バイク駐車場",
+      "coordinates": {
+        "lat": 35.615024,
+        "lng": 139.38107399999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7d6057f-ed4e-4428-8eb8-c33a37094da2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7d6057f-ed4e-4428-8eb8-c33a37094da2.webp"
+        },
+        {
+          "url": "media/cached-image_819ebef46a161fb26767bab74f42a15d3ce252d42a35c85bc295f9b68bca3443.jpg"
+        }
+      ],
+      "type": "Parking lot for motorcycles",
+      "categories": [
+        "Parking lot for motorcycles"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Minamiosawa Sta. Motorcycles Parking No.2, 2 Chome Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6122702,139.3785942,3a,40.7y,51.29h,92.54t/data=!3m7!1e1!3m5!1ss7DlnpSZ5SeLziPI0Z-1wA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.544073392031379%26panoid%3Ds7DlnpSZ5SeLziPI0Z-1wA%26yaw%3D51.293269679027475!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This parking area near Minami-Osawa Station appears in location shots used to establish the real-world Hachioji setting of the film, part of the broader Minami-Osawa location block that production used extensively."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2eJM3x_jGGARs2lhe7dNNxU",
+      "name": "Galleria Yugidai 2 Bike Locker",
+      "localName": "ガレリア・ユギ第2駐輪場",
+      "coordinates": {
+        "lat": 35.6124478,
+        "lng": 139.3784126
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f060d957-6c1f-45e4-b3e4-4159bf26ec67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f060d957-6c1f-45e4-b3e4-4159bf26ec67.webp"
+        },
+        {
+          "url": "media/cached-image_66508fd1865d6a32e701c84aca78b732e8edc2818c1595d0a6f027b980eacea2.jpg"
+        }
+      ],
+      "type": "Parking lot for bicycles",
+      "categories": [
+        "Parking lot for bicycles"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Galleria Yugidai 2 Bike Locker, 2 Chome-２８ Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6120284,139.3786801,3a,73.2y,320.85h,96.57t/data=!3m7!1e1!3m5!1sp3hxu6vQqT3Bt4M49gLsBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.571242531626453%26panoid%3Dp3hxu6vQqT3Bt4M49gLsBQ%26yaw%3D320.85217654368256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Galleria Yugidai area around Minami-Osawa Station was used as a real-world filming location for the movie, with its covered walkways and public spaces appearing in scenes depicting the human world Ichigo and Senna move through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSwCqHLviGGARQMrVRYbZqCg",
+      "name": "Mitsui Outlet Park Tama Minami Osawa Parking Lot",
+      "localName": "三井アウトレットパーク 多摩南大沢",
+      "coordinates": {
+        "lat": 35.6150793,
+        "lng": 139.3783724
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0e5b5290-0ea7-4e88-93db-f73455aac448.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0e5b5290-0ea7-4e88-93db-f73455aac448.webp"
+        },
+        {
+          "url": "media/cached-image_bb546fc21a3a2848c3f08176cef7cf538c6b035544d784d6f0e9e2d4fe5fd997.jpg"
+        },
+        {
+          "url": "media/cached-image_086947ca9f816eef644be707d8b38d9771d855a66ba82bca4a10772af66e9dff.jpg"
+        },
+        {
+          "url": "media/cached-image_3753fa7b6eeb1c24b945b66c140aff9fa58e242b06fbbb6ad9391b576858000a.jpg"
+        },
+        {
+          "url": "media/cached-image_62e50ed5f3d13a56c0dc8df7b45720076356d7fe6bc60b3310e4c79ec2727361.jpg"
+        }
+      ],
+      "type": "Outlet mall",
+      "categories": [
+        "Outlet mall"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1162,
+      "priceLevel": null,
+      "address": "MITSUI OUTLET PARK Tama Minami-Osawa, 1 Chome-600 Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6153596,139.3771812,3a,75y,238.31h,97.26t/data=!3m7!1e1!3m5!1sTyt4pUH6T0huQ1tiaeCKww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.258208372650429%26panoid%3DTyt4pUH6T0huQ1tiaeCKww%26yaw%3D238.31436083321591!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The open plazas and broad paths around the Mitsui Outlet Park complex serve as one of the most visible Minami-Osawa filming locations, with Senna and Ichigo's scenes in the human world set against this distinctive shopping district environment.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGeYlX_mLGGAR9RIhr8YhyRw",
+      "name": "kate spade new york 大丸東京店",
+      "localName": "kate spade new york 大丸東京店",
+      "coordinates": {
+        "lat": 35.682111,
+        "lng": 139.76915879999999
+      },
+      "image": null,
+      "images": [],
+      "type": "ファッション アクセサリー店",
+      "categories": [
+        "ファッション アクセサリー店"
+      ],
+      "rating": null,
+      "reviewCount": 5,
+      "priceLevel": null,
+      "address": "Kate Spade Daimaru Tokyo Store, 財布売場 東京大丸, 3F, 丸の内1-9-1 東京大丸1F, 8, Chiyoda City, Tokyo 100-6701, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.615204,139.3788187,3a,48.7y,181.69h,93.28t/data=!3m7!1e1!3m5!1s7QT-xI22BIGNk_iWjyQtwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2789200892584063%26panoid%3D7QT-xI22BIGNk_iWjyQtwQ%26yaw%3D181.6931697837345!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjY8WcDD2GGARkZ3K11XOBt4",
+      "name": "FamilyMart Paole Minami-Osawa",
+      "localName": "ファミリーマート パオレ南大沢店",
+      "coordinates": {
+        "lat": 35.6142529,
+        "lng": 139.3793082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/640b0b52-d87d-4096-8069-53a08dc95ca5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/640b0b52-d87d-4096-8069-53a08dc95ca5.webp"
+        },
+        {
+          "url": "media/cached-image_88c22fd285e2a4f42c5400fd81273ea009b2088e7f0406c56e09fb420061aff0.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Family Mart, 2 Chome-２ Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6143724,139.3794409,3a,42.3y,301.65h,97.52t/data=!3m7!1e1!3m5!1skuSEvq_ePdBrSnXsOZG7ZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.520462144904883%26panoid%3DkuSEvq_ePdBrSnXsOZG7ZQ%26yaw%3D301.6516815164255!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This FamilyMart convenience store in the Paole shopping center near Minami-Osawa Station is part of the real Hachioji streetscape used throughout the movie's human-world scenes, recognizable to fans who visit for location pilgrimage."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-dpfDbriGGARDNM2F-WnrnM",
+      "name": "Ito-Yokado Minami-Osawa Store",
+      "localName": "イトーヨーカドー 南大沢店",
+      "coordinates": {
+        "lat": 35.6132224,
+        "lng": 139.3794885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a555831-b46d-44e2-85d5-84640c90c07c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a555831-b46d-44e2-85d5-84640c90c07c.webp"
+        },
+        {
+          "url": "media/cached-image_8858797c92ececcf9a1fcb30a815521d37b2538f64659a75d591cb369f56cdb7.jpg"
+        },
+        {
+          "url": "media/cached-image_e3096ad9aa941e1a3fcf53c1032882733f022ab4db3cec969cb88f3789993872.jpg"
+        },
+        {
+          "url": "media/cached-image_6b70151ecddffddb58cdba818cad6cc5f6683a6bd1b12454593182829ca861d7.jpg"
+        },
+        {
+          "url": "media/cached-image_669269e40d45a755f0bae3e219f4c5eff8b98d41fcee16b203e40e087fcbe76b.jpg"
+        },
+        {
+          "url": "media/cached-image_cd5feb146939b07f640978852b948d93d2c03fe888d6cd8114ed6ce82b7b62e4.jpg"
+        }
+      ],
+      "type": "Grocery store",
+      "categories": [
+        "Grocery store"
+      ],
+      "rating": 3.6,
+      "reviewCount": 702,
+      "priceLevel": null,
+      "address": "Ito-Yokado Minami-Osawa Store, 2 Chome-28-1 Minamiosawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6133581,139.3801617,3a,75y,239.05h,94.12t/data=!3m7!1e1!3m5!1sI87wTOD_C2k7st61f-1tqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.122744703149365%26panoid%3DI87wTOD_C2k7st61f-1tqg%26yaw%3D239.0523500238867!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Ito-Yokado superstore and its surrounding area in Minami-Osawa appear in the movie as background landmarks, grounding Senna's interactions with ordinary human life in the recognizable shopping district of Hachioji."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_bleach-memories-of-nobody_8",
+      "name": "Chocolat Chocolat Hair Salon",
+      "localName": "美容室 Chocolat ショコラ",
+      "coordinates": {
+        "lat": 35.6139,
+        "lng": 139.38022
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7d0503af-82d0-4981-a615-f05a3ef8023b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7d0503af-82d0-4981-a615-f05a3ef8023b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6138564,139.3802205,3a,90y,2.89h,121.36t/data=!3m7!1e1!3m5!1shZ5mxImUNCfrXhhhWUHYPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-31.36357399590608%26panoid%3DhZ5mxImUNCfrXhhhWUHYPQ%26yaw%3D2.88510742532245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This hair salon on a Minami-Osawa side street appears in the detailed street-level filming the production used to bring the real neighborhood to life, visible in background shots as Ichigo and Senna move through the district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb9efI7riGGARh84-BxkANKA",
+      "name": "Minami-Osawa Station Taxi Stand",
+      "localName": "南大沢駅",
+      "coordinates": {
+        "lat": 35.614177399999996,
+        "lng": 139.3800458
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e6b1f885-da50-47f1-bbb5-a02252cac314.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e6b1f885-da50-47f1-bbb5-a02252cac314.webp"
+        },
+        {
+          "url": "media/cached-image_e85d9f74a71423cc7fab770c82557b9b57a23eb749b9029d9a3d0d831494d1ab.jpg"
+        },
+        {
+          "url": "media/cached-image_3bf8f0bc786c999e5a9cdbd7e5091cb9e1c217dbc5012ccc96503b7223883968.jpg"
+        },
+        {
+          "url": "media/cached-image_e6c1a82455ca869f8608a23198489042864a2c9b9e415aae7f72a3f62f665279.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Minami-ōsawa Station, 2-chōme Minamiōsawa, Hachioji, Tokyo 192-0364, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6138811,139.3802715,3a,48.8y,115.46h,119.12t/data=!3m7!1e1!3m5!1swTrDCYmIttRC4-09I9r_aQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-29.124580274138367%26panoid%3DwTrDCYmIttRC4-09I9r_aQ%26yaw%3D115.45782138505562!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Minami-Osawa Station and its taxi stand form the central hub of the movie's real-world setting, with the station area appearing repeatedly as Senna explores the human world and Ichigo accompanies her through this corner of Tokyo.",
+      "fanTopPick": true
+    }
+  ]
+}

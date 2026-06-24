@@ -1,0 +1,1269 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Rascal Does Not Dream of a Dreaming Girl",
+  "slug": "rascal-does-not-dream-of-a-dreaming-girl",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_66a5c8e9d1716cea555d75249552ee8d00c59137c623e402c9b6ba61e84cfdf6.webp",
+  "image": "media/cached-image_66a5c8e9d1716cea555d75249552ee8d00c59137c623e402c9b6ba61e84cfdf6.webp",
+  "banner": null,
+  "primaryLocation": "Kanagawa, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.27910119705882,
+    "lng": 139.23539614264703
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Rascal Does Not Dream of a Dreaming Girl"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJuR7OjPxOGGARkZvz3DiYb9E",
+      "name": "Katase Bridge",
+      "localName": "片瀬橋",
+      "coordinates": {
+        "lat": 35.3077683,
+        "lng": 139.48344649999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/77008352-f46d-4133-805f-f92db84b3900.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/77008352-f46d-4133-805f-f92db84b3900.webp"
+        },
+        {
+          "url": "media/cached-image_e6b1fd02a33848d88204f966555f4fbfa61eb0757ad96805de893166424ce278.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒251-0035 Kanagawa, Fujisawa, Katasekaigan, 2 Chome−16 Katase Bridge, 国道134号線",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3078755,139.4832793,3a,75y,51.7h,96.98t/data=!3m7!1e1!3m5!1sJVkh3T0QAD5jRYFDrGYlgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.980016859795242%26panoid%3DJVkh3T0QAD5jRYFDrGYlgg%26yaw%3D51.697152016163145!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sakuta crosses this bridge near Enoshima at the start of the movie, framing the coastal setting where his encounter with the young Shoko Makinohara begins. The bridge's view of the Enoshima causeway is faithfully recreated in the film.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_1",
+      "name": "Hanamizuki",
+      "localName": "花みずき",
+      "coordinates": {
+        "lat": 35.30753,
+        "lng": 139.48457
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c7f459c9-431b-407b-823e-d983c37f0a2e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c7f459c9-431b-407b-823e-d983c37f0a2e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3075171,139.4844439,3a,66.5y,77.14h,94.75t/data=!3m7!1e1!3m5!1sU5Hs4xRkLgCr48xAHXyiWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.745168761198187%26panoid%3DU5Hs4xRkLgCr48xAHXyiWg%26yaw%3D77.13920997058217!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small restaurant near Katase Bridge appears as a background location in scenes set around the Enoshima waterfront, grounding the film's coastal Fujisawa atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_2",
+      "name": "Goshogatani Bridge",
+      "localName": "御所ヶ谷橋",
+      "coordinates": {
+        "lat": 35.3415,
+        "lng": 139.49279
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d87a990d-3092-4915-94a2-6020f82141bf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d87a990d-3092-4915-94a2-6020f82141bf.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3414883,139.4928182,3a,75y,310.15h,97.93t/data=!3m7!1e1!3m5!1sw8gppLS-LLX3IYqUFz5UVw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.931193316823027%26panoid%3Dw8gppLS-LLX3IYqUFz5UVw%26yaw%3D310.1472253834897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This bridge in the Fujisawa area appears in the film as Sakuta travels through the neighborhood near his home, part of the pilgrimage route fans trace along the Katase River vicinity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_3",
+      "name": "Chinese Cuisine 0-3",
+      "localName": "中華料理0-3",
+      "coordinates": {
+        "lat": 35.31937,
+        "lng": 139.46507
+      },
+      "image": "https://cdn.animepilgrimage.com/places/721f1d2f-bb9a-40a5-8325-126c0c0cd27c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/721f1d2f-bb9a-40a5-8325-126c0c0cd27c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3193023,139.4651079,3a,75y,323.85h,94.73t/data=!3m7!1e1!3m5!1sXDhX9mxpZiLvCPzNP5wfPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.731107806733547%26panoid%3DXDhX9mxpZiLvCPzNP5wfPQ%26yaw%3D323.85150322328235!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This local Chinese restaurant in Kugenuma appears as a neighborhood backdrop in the movie, reflecting the everyday Fujisawa surroundings where Sakuta lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJxd3WNpfPTzUREylNldFuXYU",
+      "name": "Ryugu Bridge",
+      "localName": "竜宮橋",
+      "coordinates": {
+        "lat": 33.6894488,
+        "lng": 133.034626
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d9e72e0e-3fa9-443d-9661-80f5c123168d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d9e72e0e-3fa9-443d-9661-80f5c123168d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ryugu Bridge, Shibukusa, Kumakogen, Kamiukena District, Ehime 791-1701, Japan",
+      "city": "Kumakogen",
+      "region": "Kamiukena District, Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3184056,139.4650294,3a,90y,120.19h,94.95t/data=!3m7!1e1!3m5!1slsqom3USX8eKQNvu2MG2dg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.945750483637468%26panoid%3Dlsqom3USX8eKQNvu2MG2dg%26yaw%3D120.19241226593469!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJz7bPUMtPGGARxpHAJ1_q76Q",
+      "name": "Fujisawa Eki Kitaguchi",
+      "localName": "藤沢駅北口",
+      "coordinates": {
+        "lat": 35.3395319,
+        "lng": 139.48747269999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c3e907b4-6e0d-4960-bb58-614a53600ecb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c3e907b4-6e0d-4960-bb58-614a53600ecb.webp"
+        },
+        {
+          "url": "media/cached-image_e776a07617801a0156f8c92ac7dc8665d3c783f37318a2e6666222c859e52f28.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fujisawa Eki Kitaguchi, Fujisawa, Kanagawa 251-0052, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3393956,139.4874071,3a,49.6y,12.5h,92.65t/data=!3m7!1e1!3m5!1s-0quiSpOjh_9okZtUDO18w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.654809805738509%26panoid%3D-0quiSpOjh_9okZtUDO18w%26yaw%3D12.504744680618506!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The north exit of Fujisawa Station is depicted in the movie as Sakuta commutes between home and school, serving as a recognizable transit hub in the film's Shonan setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH_e_FfyLGGAR-Ha5x6fly_k",
+      "name": "Kamakura Goro Honten",
+      "localName": "鎌倉五郎 大丸東京店",
+      "coordinates": {
+        "lat": 35.681607299999996,
+        "lng": 139.76897359999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/837f5545-450a-4bc2-ab15-9e337acafe1e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/837f5545-450a-4bc2-ab15-9e337acafe1e.webp"
+        },
+        {
+          "url": "media/cached-image_26f89d6df09da7c9d8defb341d3356e16695ac0dea2741dbc5a60945db62f564.jpg"
+        },
+        {
+          "url": "media/cached-image_2076af865ebd0813d492ffd3c0c548d862162ddde37ee1bef6d4ff99db668254.jpg"
+        },
+        {
+          "url": "media/cached-image_c9cb8b75e722bea23bc575a51f265e87a0d82f02f015ca4c28b4f0060632d0a3.jpg"
+        },
+        {
+          "url": "media/cached-image_c61ef05c18afa0b964c8a247ab016cb3d04afa1218fa679880088dbeaab60f3e.jpg"
+        },
+        {
+          "url": "media/cached-image_473ef2a3ab62f87fb3cdd8f729f746547bb797d0ffe8eed566c610a171f832f2.jpg"
+        }
+      ],
+      "type": "Japanese sweets restaurant",
+      "categories": [
+        "Japanese sweets restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Goro Honten, 大丸東京店 1F 1 Chome-9-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Fujisawa+Station/@35.33907,139.4874628,3a,90y,3.88h,92.85t/data=!3m8!1e1!3m6!1sAF1QipMK8cPpMdho3I3si9w2i3-sRSVEqp77p0B1vw4!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMK8cPpMdho3I3si9w2i3-sRSVEqp77p0B1vw4%3Dw900-h600-k-no-pi-2.8494519301381303-ya180.73556842339283-ro0-fo100!7i2508!8i1254!4m9!3m8!1s0x60184fcad532942d:0x83bd847775c8252d!8m2!3d35.3389164!4d139.4874922!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdw808c?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPe9VwfxOGGAROLp9fq-2Lzw",
+      "name": "Enoshima Shrine Imperial Palace Memorial Dragon Lantern",
+      "localName": "江島神社御鎮座記念龍燈籠",
+      "coordinates": {
+        "lat": 35.306899,
+        "lng": 139.4837569
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ac4780f0-6943-43a0-a3ad-bce34e4ae121.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ac4780f0-6943-43a0-a3ad-bce34e4ae121.webp"
+        },
+        {
+          "url": "media/cached-image_11731affab90b36360c256d7e63d06502239d8be692399ed0985d296353f25c3.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Enoshima Shrine Enshrinement Commemorative Dragon Lanterns, 1 Chome-14-5 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.306773,139.4838504,3a,48.8y,328.79h,94.48t/data=!3m7!1e1!3m5!1s-yYSG0fQv2cHczGCraXH3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.483167057954049%26panoid%3D-yYSG0fQv2cHczGCraXH3g%26yaw%3D328.7944635848657!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The distinctive dragon lantern at Enoshima Shrine appears in the film as Sakuta visits the island's entrance area, a landmark tied to the Enoshima mythology woven into Shoko's story.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_8",
+      "name": "Fujigaoka 15 (bus)",
+      "localName": "藤が岡１５号（バス）",
+      "coordinates": {
+        "lat": 35.34449,
+        "lng": 139.49418
+      },
+      "image": "https://cdn.animepilgrimage.com/places/534f295d-ca9b-4354-801e-7dd1edcf6050.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/534f295d-ca9b-4354-801e-7dd1edcf6050.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3443752,139.4939052,3a,48.8y,63.47h,92.64t/data=!3m7!1e1!3m5!1sLXkz3PD4Kykug2TShnnkeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.643686104171721%26panoid%3DLXkz3PD4Kykug2TShnnkeg%26yaw%3D63.46965565662006!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This bus stop in the Fujigaoka residential district near Fujisawa Station appears in the movie as Sakuta navigates his neighborhood, captured as part of the film's faithful depiction of local transit routes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoy27yUFPGGARkBp6D2vwOms",
+      "name": "Shichirigahama Real Estate",
+      "localName": "七里ガ浜不動産",
+      "coordinates": {
+        "lat": 35.306295899999995,
+        "lng": 139.51060429999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/35dbc2a6-1534-40d2-b3bf-4d7f22780ee9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/35dbc2a6-1534-40d2-b3bf-4d7f22780ee9.webp"
+        },
+        {
+          "url": "media/cached-image_3daee10d2e0d6dac918970f1542495e38e96eeecfa3e56150350a1398c722c8f.jpg"
+        }
+      ],
+      "type": "Real estate agency",
+      "categories": [
+        "Real estate agency"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0026 Kanagawa, Kamakura, Shichirigahama, 1 Chome−1−19 七里ガ浜不動産",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3062062,139.5107148,3a,48.7y,307.96h,92.49t/data=!3m7!1e1!3m5!1sHbwjQP1EqVxULdr91tHI2Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.490517538540047%26panoid%3DHbwjQP1EqVxULdr91tHI2Q%26yaw%3D307.9647247435315!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The real estate office at Shichirigahama appears in a scene related to housing arrangements, set against the coastal Kamakura neighborhood that forms the backdrop for much of the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLZQy1cpPGGARLSXIdXeEvYM",
+      "name": "Fujisawa Station",
+      "localName": "藤沢駅",
+      "coordinates": {
+        "lat": 35.338916399999995,
+        "lng": 139.4874922
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0fa78940-1ad6-4d91-9ef2-0829f63aef76.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0fa78940-1ad6-4d91-9ef2-0829f63aef76.webp"
+        },
+        {
+          "url": "media/cached-image_27c34a4136502e84d1538ffeaab303758c1ae84e42431e72646e113300f2c2a5.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, Fujisawa Station, 神奈川県藤沢市",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Fujisawa+Station/@35.3389033,139.4873782,3a,90y,146.26h,116.91t/data=!3m8!1e1!3m6!1sAF1QipO_wd8NeGwmxZYD68fJ6VoFIFt0mecLToW4rkk!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipO_wd8NeGwmxZYD68fJ6VoFIFt0mecLToW4rkk%3Dw900-h600-k-no-pi-26.90949869001392-ya335.2853667271923-ro0-fo100!7i2508!8i1254!4m9!3m8!1s0x60184fcad532942d:0x83bd847775c8252d!8m2!3d35.3389164!4d139.4874922!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdw808c?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Fujisawa Station is a recurring transit point in the movie, where Sakuta is seen departing and arriving as he moves between school, Enoshima, and his home in the Shonan area.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ99KENUBPGGARS5wAoUOpSbA",
+      "name": "Shichirigahama Station",
+      "localName": "七里ヶ浜駅",
+      "coordinates": {
+        "lat": 35.306247,
+        "lng": 139.509997
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5a55016a-3f98-4977-9a86-3aae3e69fded.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5a55016a-3f98-4977-9a86-3aae3e69fded.webp"
+        },
+        {
+          "url": "media/cached-image_6f79c41ac06c3ab0fdd38774e21bd1b56373b53cdd99c9be933a308bdc9f559d.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-chōme-9 Shichirigahama, Kamakura, Kanagawa 248-0026, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Shichirigahama+Station/@35.306247,139.509997,3a,90y,8.43h,96.37t/data=!3m8!1e1!3m6!1sAF1QipOUOvBYkm3oAM9Wd-U_n8df9Ba3Fy-rEdHPBhKo!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOUOvBYkm3oAM9Wd-U_n8df9Ba3Fy-rEdHPBhKo%3Dw203-h100-k-no-pi-10-ya140-ro-0-fo100!7i6432!8i3216!4m9!3m8!1s0x60184f403584d2f7:0xb049a943a1009c4b!8m2!3d35.3062403!4d139.5101511!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F02vnkkx?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shichirigahama Station on the Enoden line appears in the film as a stop Sakuta uses while traveling along the coast, with the view of the ocean visible from the platform echoing the movie's melancholy seaside tone.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh4m8bkNOGGAR4M4XZq9GaKA",
+      "name": "Kugenuma-Kaigan Station",
+      "localName": "鵠沼海岸駅",
+      "coordinates": {
+        "lat": 35.3206579,
+        "lng": 139.4710386
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5131266-d0e8-45d3-8a0e-072867e72945.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5131266-d0e8-45d3-8a0e-072867e72945.webp"
+        },
+        {
+          "url": "media/cached-image_568cbf17a885e86e46239f2237af171520fc3899aac0bc6609b317c9b79c51ae.jpg"
+        },
+        {
+          "url": "media/cached-image_468054ca6f1dcbda0e3f8496686737558f6a470f771bf00655323d9534dca561.jpg"
+        },
+        {
+          "url": "media/cached-image_b850088d9894466552157753cd49df77d3359c7ed84077699daef9a3713c405a.jpg"
+        },
+        {
+          "url": "media/cached-image_93988eefe4831e3ef210ac789e2f794f07d6ded299cacb9473918ee22ef87393.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": 10,
+      "priceLevel": null,
+      "address": "2 Chome-4-10 Kugenumakaigan, Fujisawa, Kanagawa 251-0037, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3206579,139.4710386,3a,48.8y,320.01h,89.51t/data=!3m7!1e1!3m5!1sdOYwpnLtWi2q1P3YcRwPPA!2e0!5s20240701T000000!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Kugenuma-Kaigan Station on the Odakyu Enoshima line appears in the movie as part of Sakuta's local commuting route through the Fujisawa coastal area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl39ovmtPGGARRusGUTo7HSU",
+      "name": "Near the One Story Craftsman House",
+      "localName": "One Story Craftsman House付近",
+      "coordinates": {
+        "lat": 35.3066554,
+        "lng": 139.4964931
+      },
+      "image": "https://cdn.animepilgrimage.com/places/29eccbf0-dd1e-4597-acf7-4d69ada19114.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/29eccbf0-dd1e-4597-acf7-4d69ada19114.webp"
+        },
+        {
+          "url": "media/cached-image_d846407e7f6a8b814a5b66b00f44682d5418b6ff97c881d5a78e9f45b94f7b13.jpg"
+        }
+      ],
+      "type": "美容院",
+      "categories": [
+        "美容院"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2階, 1 Chome-4-20 Koshigoe, Kamakura, Kanagawa 248-0033, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3066554,139.4964931,3a,48.9y,271.99h,98.72t/data=!3m6!1e1!3m4!1s4KRqlh93JiffqzyibpxSzA!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This residential spot near Koshigoe appears in the film as a location along the Enoden route, part of the quiet Kamakura backstreets that appear during Sakuta's journeys in the movie."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQcwnpUFPGGARDI14Vkpn2JQ",
+      "name": "Shichirigahama Pump Plant",
+      "localName": "七里ガ浜ポンプ場",
+      "coordinates": {
+        "lat": 35.3062019,
+        "lng": 139.5107834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9493c04d-aca1-49e1-8ca6-7ee7288b9bef.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9493c04d-aca1-49e1-8ca6-7ee7288b9bef.webp"
+        },
+        {
+          "url": "media/cached-image_29aec5d61cc85370774e0c0cc695ea49d7d16ebaf89bc1e14afb243559b8be70.jpg"
+        }
+      ],
+      "type": "下水処理場",
+      "categories": [
+        "下水処理場"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-2-7 Shichirigahamahigashi, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3062019,139.5107834,3a,90y,203.99h,108.03t/data=!3m6!1e1!3m4!1s3nOnoWl84s2dZCoGbTRo3g!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The pump plant building on the Shichirigahama coast appears as a background landmark in scenes set along the beachside road, identifiable by fans who walk the pilgrimage route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ35_VtkFPGGARteSXme_WKfo",
+      "name": "Yukiai Bridge",
+      "localName": "行合橋",
+      "coordinates": {
+        "lat": 35.3052572,
+        "lng": 139.5106912
+      },
+      "image": "https://cdn.animepilgrimage.com/places/745f85b5-b41c-4210-8592-c82a7af94e4b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/745f85b5-b41c-4210-8592-c82a7af94e4b.webp"
+        },
+        {
+          "url": "media/cached-image_8f40f573e5b0416518cdb0e0bb4222a76128adb8cdc28209a083a3a2fde0ce60.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-2, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3052572,139.5106912,3a,90y,228.8h,94.68t/data=!3m6!1e1!3m4!1scXUFFNm0ADA764TRHCBTag!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yukiai Bridge over the small stream at Shichirigahama appears in the movie as Sakuta walks along the coast, a small but precisely reproduced landmark in the film's seaside scenery."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtQ46c0RPGGARoL-K9wNTcZ0",
+      "name": "Shichirigahama",
+      "localName": "七里ヶ浜",
+      "coordinates": {
+        "lat": 35.3065797,
+        "lng": 139.5010201
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b0a6d01-4fa3-464d-96d9-5640a1af671d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b0a6d01-4fa3-464d-96d9-5640a1af671d.webp"
+        },
+        {
+          "url": "media/cached-image_340dbec3eda5dd3a189d24356b6df2d80fe2365c60d966c17c7157092a5cb7f9.jpg"
+        }
+      ],
+      "type": "浜",
+      "categories": [
+        "浜"
+      ],
+      "rating": 4.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒248-0026 Kanagawa, Kamakura, Shichirigahamahigashi, 2-chōme−1, 七里ガ浜",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3065797,139.5010201,3a,45.6y,249.13h,94.99t/data=!3m7!1e1!3m5!1sEJv2QU1PFL6rdRCUTWvGZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEJv2QU1PFL6rdRCUTWvGZQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D124.44709%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shichirigahama beach is the emotional heart of the film, where Sakuta and Shoko share pivotal scenes by the sea with Mount Fuji in the distance. The wide sandy shore under an open sky captures the bittersweet mood of their story.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4RGu0emLGGARuUX8XtPxUVg",
+      "name": "Yashirobashi",
+      "localName": "社橋",
+      "coordinates": {
+        "lat": 35.7086657,
+        "lng": 139.6060451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab2f885f-ff08-4d60-8215-d7a1d0b09ef9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab2f885f-ff08-4d60-8215-d7a1d0b09ef9.webp"
+        },
+        {
+          "url": "media/cached-image_4364633bc232dba5dc8195ec05650bcb29bb264facfbfab4cafc5dd9be4c436b.jpg"
+        },
+        {
+          "url": "media/cached-image_5ae07b9043ebf924b0fe5dc79de0e6fa8ca2c522f094ae1aca64f6c5aed1b64b.jpg"
+        },
+        {
+          "url": "media/cached-image_0c4681004396147124b5087dd86853a4d8c1dd41d7e4873f28f6954ce8b6bec4.jpg"
+        },
+        {
+          "url": "media/cached-image_79742560bb9cd38388e26e50187ac8d0668093215f69c4addc2b710fb106a2fc.jpg"
+        },
+        {
+          "url": "media/cached-image_ce3b6ec1caf9cfe97f471e0f66ce9e0eb9151c4fcad3d8461929f33a23c468a8.jpg"
+        },
+        {
+          "url": "media/cached-image_16d9cb3dfea8fced20894361a0eeeeb6a81aceabe196e6ae4172ba1bb3921c4e.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1891,
+      "priceLevel": null,
+      "address": "2 Chome-17 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7086657,139.6060451,3a,90y,117.25h,95.67t/data=!3m7!1e1!3m5!1s1hwxJm7utjrX-HyKvEPWtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1hwxJm7utjrX-HyKvEPWtg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.41923%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiaqQeLhFGGARtTZQEBCtZ6g",
+      "name": "Tsurumine Hachimangu",
+      "localName": "八幡宮",
+      "coordinates": {
+        "lat": 35.3384328,
+        "lng": 139.3911972
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f6ef1fc-a71e-454d-810f-086e721355d4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f6ef1fc-a71e-454d-810f-086e721355d4.webp"
+        },
+        {
+          "url": "media/cached-image_040a865d030b161063787605d1927bcb8d7c1d8ce99b4a2e81cf59ea864653ca.jpg"
+        },
+        {
+          "url": "media/cached-image_f608aa31dacba27d72e5a74a01ff15194206e8a0dafe396de7da603471d0ff41.jpg"
+        },
+        {
+          "url": "media/cached-image_a5d889ad62ff5a880df820a866adf77b864482f5a4b1bbb8a5a00d094f55e9ec.jpg"
+        },
+        {
+          "url": "media/cached-image_d8a8a4fae2c1dcc1c12982f8ee10bf3025d202e62d244f32dfd0bafb5b87610a.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 628,
+      "priceLevel": null,
+      "address": "Kamakura, Kanagawa 248-8588",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.5584824,136.8744096,3a,47y,113.41h,90.69t/data=!3m7!1e1!3m5!1swhMro9RuoN2khIFrILLHxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.687747906578025%26panoid%3DwhMro9RuoN2khIFrILLHxQ%26yaw%3D113.40905574824608!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ3-xUcERPGGARiJWJiituTIA",
+      "name": "Shichirigahama Parking Area",
+      "localName": "七里ヶ浜海岸駐車場 鎌倉側",
+      "coordinates": {
+        "lat": 35.304124,
+        "lng": 139.514485
+      },
+      "image": "https://cdn.animepilgrimage.com/places/693b2fd7-acce-45d6-9712-2286bf70984c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/693b2fd7-acce-45d6-9712-2286bf70984c.webp"
+        },
+        {
+          "url": "media/cached-image_1b575448749c06fed6b6dc2ca7b4090a8bde98ccb82e61511aa93ce70ca39be7.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Shichirigahama Parking Area, 2 Chome-1-12 Shichirigahamahigashi, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3041631,139.5149133,3a,48.7y,103.88h,95.97t/data=!3m7!1e1!3m5!1szfGSatpTd5PULDiixjxgZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.9663348026926855%26panoid%3DzfGSatpTd5PULDiixjxgZA%26yaw%3D103.87825561524673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The coastal parking area at Shichirigahama appears in scenes set along the beachfront road, part of the distinctive Kamakura coastline reproduced throughout the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJp8uCa2O-GWARBKANZGpM9cs",
+      "name": "Atami Station (Bus)",
+      "localName": "熱海駅",
+      "coordinates": {
+        "lat": 35.102555499999994,
+        "lng": 139.08401475
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": ",[null,null,35.103842199999995,139.0778841],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Atami+Station/@35.1038422,139.0778841,3a,90y,203.59h,92.63t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICxwuOI6AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYmcqRgniF9EXD6SQGuntPqU_woucznCDzssFScVrzLkR3xaSReEj5V6qcepU5rIOXM1gAP-3I5oMbwFG6j5B66gfLgGYGROu552hyrbV_WJ44fn_AWMb38niGbXmMmBFjfEiqlXA%3Dw900-h600-k-no-pi-2.6324319992698406-ya203.59147059687106-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6019be636b82cba7:0xcbf54c6a640da004!8m2!3d35.1038422!4d139.0778841!10e5!14m1!1BCgIgARICCAI!16zL20vMDM2eGZi?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Atami Station appears in the film when Sakuta travels to the hot spring resort town, a key plot location tied to events involving Shoko Makinohara and the resolution of her Adolescence Syndrome.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJueSWiM5PGGARErHK3eZoVUw",
+      "name": "Ovel Fujisawa Fujigaoka 1",
+      "localName": "藤が岡一丁目",
+      "coordinates": {
+        "lat": 35.3440175,
+        "lng": 139.49305429999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/afb12a19-7b96-489f-8437-ffc2af83c0ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/afb12a19-7b96-489f-8437-ffc2af83c0ca.webp"
+        }
+      ],
+      "type": "Intersection group",
+      "categories": [
+        "Intersection group"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fujigaoka 1, 2-chōme-2 Fujigaoka, Fujisawa, Kanagawa 251-0004, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3445568,139.4941395,3a,69.4y,311.26h,90.8t/data=!3m7!1e1!3m5!1sdLkGYebLfTQb3HIaDo_x6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8023310431756414%26panoid%3DdLkGYebLfTQb3HIaDo_x6g%26yaw%3D311.25806192731017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This intersection in the Fujigaoka residential district near Fujisawa appears in the movie as part of Sakuta's neighborhood, faithfully replicated in background shots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiYQTp0FPGGARr293SQCVAoA",
+      "name": "7-Eleven; Kamakura Shichirigahama",
+      "localName": "セブン-イレブン 鎌倉七里ガ浜店",
+      "coordinates": {
+        "lat": 35.3054986,
+        "lng": 139.5110621
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc4357c1-4e15-41c9-9b98-6bdcdd40dba4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc4357c1-4e15-41c9-9b98-6bdcdd40dba4.webp"
+        },
+        {
+          "url": "media/cached-image_062384dfcb2ac85796ee3905247367a1b58743d9ac8d36a0803e408a4570f7ad.jpg"
+        },
+        {
+          "url": "media/cached-image_9ee21400e470d4491fa2fa6a10a02edae089b6669830283e50404191853b6b36.jpg"
+        },
+        {
+          "url": "media/cached-image_cb8d40ea9f6140eecc27f63555f86a16c7a7803def9170b67e55e135cc490b4a.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.6,
+      "reviewCount": 8,
+      "priceLevel": null,
+      "address": "7-Eleven; Kamakura Shichirigahama, 2 Chome-2-5 Shichirigahamahigashi, Kamakura, Kanagawa 248-0025, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3053129,139.5106441,3a,90y,15.1h,100.25t/data=!3m7!1e1!3m5!1s4BYccby10-7jCAW_zyruIQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.24559158692341%26panoid%3D4BYccby10-7jCAW_zyruIQ%26yaw%3D15.098758600326551!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The 7-Eleven at Shichirigahama appears in the film as a convenience store Sakuta stops at along his coastal route, a mundane detail that fans recognize from the movie's realistic depiction of the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ33NPKsJFGGARDg77hD466cc",
+      "name": "Kamakura Station",
+      "localName": "鎌倉駅",
+      "coordinates": {
+        "lat": 35.3190156,
+        "lng": 139.5504157
+      },
+      "image": "https://cdn.animepilgrimage.com/places/57a44c46-7657-40fd-ab8b-85c8a1bd6430.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/57a44c46-7657-40fd-ab8b-85c8a1bd6430.webp"
+        },
+        {
+          "url": "media/cached-image_d4a652ec5910b25de0fe0711d4ab339591ddd218230bac5d76f7666d18224e77.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamakura Station, 1 Chome-15 Onarimachi, Kamakura, Kanagawa 248-0012, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kamakura+Station/@35.3186157,139.5501477,3a,35y,344.37h,91.98t/data=!3m7!1e1!3m5!1sAF1QipMADWjeihrFrUCB6EktNCOJq21tq6_KCCL-adjo!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMADWjeihrFrUCB6EktNCOJq21tq6_KCCL-adjo%3Dw900-h600-k-no-pi-1.9773581281696977-ya167.7455984621233-ro0-fo100!7i8704!8i4352!4m9!3m8!1s0x601845c22a4f73df:0xc7e93a3e84fb0e0e!8m2!3d35.3190156!4d139.5504157!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tfzb46k?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Kamakura Station appears in the movie as a transit hub Sakuta passes through when moving between the coastal pilgrimage sites and central Kamakura, reproduced with accurate signage and platforms."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8YnWXO1GGGARmuEzZPdHh1g",
+      "name": "Zushi Station",
+      "localName": "逗子駅",
+      "coordinates": {
+        "lat": 35.2973885,
+        "lng": 139.57838049999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b444ba34-464d-41cd-aafc-06a58f8c24f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b444ba34-464d-41cd-aafc-06a58f8c24f3.webp"
+        },
+        {
+          "url": "media/cached-image_b7f8da66d709fbcb70e28712f7fe58544362609065f50ff264da03f87d6ce161.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Zushi Station, 1-chōme-2 Zushi, Kanagawa 249-0006, Japan",
+      "city": "Zushi",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2974304,139.5795373,3a,90y,348.53h,93.24t/data=!3m7!1e1!3m5!1sCuILSTldi8uiXSzLLaKDkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2423246027588704%26panoid%3DCuILSTldi8uiXSzLLaKDkA%26yaw%3D348.52735003444366!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Zushi Station appears in the film as a stop on Sakuta's route further down the Kanagawa coast, part of the expanded geography the movie covers compared to the TV series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNRmZmQBHGGARqzXL49h-D8Q",
+      "name": "Morito Kaigan",
+      "localName": "森戸海岸",
+      "coordinates": {
+        "lat": 35.2752684,
+        "lng": 139.5713029
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1d27dcca-1fc0-4b16-829d-df3c8631ee07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1d27dcca-1fc0-4b16-829d-df3c8631ee07.webp"
+        },
+        {
+          "url": "media/cached-image_48da474d8c7f5a853cfde627626bbbf3f99846c7f55a38b485b103a73b4a0ab9.jpg"
+        }
+      ],
+      "type": "Beach",
+      "categories": [
+        "Beach"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Morito Coast, Horiuchi, Hayama, Miura District, Kanagawa 240-0112, Japan",
+      "city": "Hayama",
+      "region": "Miura District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2732751,139.5719058,3a,85.7y,109.43h,92.38t/data=!3m7!1e1!3m5!1sVzZGXngDwqw2_K9GGgqMtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.379141305718406%26panoid%3DVzZGXngDwqw2_K9GGgqMtg%26yaw%3D109.42924693770928!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Morito Coast in Hayama appears in the film during scenes where Sakuta visits the quieter southern coastline, with the calm beach and distant view of Enoshima providing a contemplative backdrop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVUlBwFHGGARb6v4-_g4oh4",
+      "name": "Benefit Station Hayama",
+      "localName": "ベネフィットステーション葉山",
+      "coordinates": {
+        "lat": 35.2745233,
+        "lng": 139.5716472
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17d8cdc6-c7f9-449d-bde5-13ccdf37a467.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17d8cdc6-c7f9-449d-bde5-13ccdf37a467.webp"
+        },
+        {
+          "url": "media/cached-image_48bf57cbe0acab52460ad9f14ea46825b69814567d840b94849df4a9abb8d21b.jpg"
+        },
+        {
+          "url": "media/cached-image_1ab9cdc4fc75322dca1eee1f9e4193824802c0e2fb5b7c4f431aaf5126b6290e.jpg"
+        },
+        {
+          "url": "media/cached-image_2ea83fddb9e83690083364f982bd3ccd4a4a18453490bfd23c5558e0c5027f28.jpg"
+        },
+        {
+          "url": "media/cached-image_68f72481cb59371805f0a38830f20830884bb9322036d9c9ba5265ed2fbc08f4.jpg"
+        },
+        {
+          "url": "media/cached-image_747281cdddb4cd764689fdf82d1ddaa4c2fec30af597682412709142119b61f7.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Benefit Station Hayama, 922 Horiuchi, 葉山町 Hayama, Miura District, Kanagawa 240-0112, Japan",
+      "city": "Hayama",
+      "region": "Miura District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2747436,139.5718346,3a,48.8y,1.11h,93.3t/data=!3m7!1e1!3m5!1sOD1trpWt8vCk64U79RNjDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2976346867531987%26panoid%3DOD1trpWt8vCk64U79RNjDg%26yaw%3D1.1107676744392587!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This hotel facility in Hayama appears as a location in the film tied to scenes set in the Hayama coastal area, where Sakuta encounters events connected to the movie's Hayama storyline."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJYsPrgFHGGARbjJOt6RBxuc",
+      "name": "Scapes The suite",
+      "localName": "スケープス ザ スィート SCAPES THE SUITE",
+      "coordinates": {
+        "lat": 35.2751851,
+        "lng": 139.57163549999999
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2b68a476-8b0f-47c5-8797-484967df2e22.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2b68a476-8b0f-47c5-8797-484967df2e22.webp"
+        },
+        {
+          "url": "media/cached-image_747281cdddb4cd764689fdf82d1ddaa4c2fec30af597682412709142119b61f7.jpg"
+        },
+        {
+          "url": "media/cached-image_1ab9cdc4fc75322dca1eee1f9e4193824802c0e2fb5b7c4f431aaf5126b6290e.jpg"
+        },
+        {
+          "url": "media/cached-image_3373078262eaf0041c05f8b86cefa63c59d4b12ca462f2d26c6855838fefa3fa.jpg"
+        },
+        {
+          "url": "media/cached-image_4923b9540d2b6a75c4715f23aaa4a3f0739905980b000306ad385aed91623de0.jpg"
+        },
+        {
+          "url": "media/cached-image_496a7172b3cb2a5262dc6137ab8777a5715b8babd1d23ec3ac56d8ec0eb03e3e.jpg"
+        }
+      ],
+      "type": "Fine dining restaurant",
+      "categories": [
+        "Fine dining restaurant"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Scapes The suite, 922-2 Horiuchi, Hayama, Miura District, Kanagawa 240-0112, Japan",
+      "city": "Hayama",
+      "region": "Miura District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.275232,139.5717843,3a,90y,298.72h,98.74t/data=!3m7!1e1!3m5!1sFVz11vQlS-BkSJBIYQou0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.744675623932636%26panoid%3DFVz11vQlS-BkSJBIYQou0Q%26yaw%3D298.71601447177517!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Scapes The Suite in Hayama appears in the film as a resort-area location near the Morito coast, part of the seaside Hayama setting that features in the latter portion of the movie."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_28",
+      "name": "Sun Pearl Plaza",
+      "localName": "サンパール広場",
+      "coordinates": {
+        "lat": 35.33965,
+        "lng": 139.48765
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c572cba3-7ea4-4fbb-b873-87c8a7e362e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c572cba3-7ea4-4fbb-b873-87c8a7e362e4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3396797,139.4876671,3a,90y,272.76h,98.11t/data=!3m7!1e1!3m5!1slm0KnInqInjXWxQVKsdOXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.113906280557984%26panoid%3Dlm0KnInqInjXWxQVKsdOXQ%26yaw%3D272.75863443555835!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sun Pearl Plaza near Fujisawa Station appears in the movie as a public space outside the station, seen in scenes where characters meet or pass through the Fujisawa town center."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_29",
+      "name": "Garden Park",
+      "localName": "ガーデンパーク",
+      "coordinates": {
+        "lat": 35.33986,
+        "lng": 139.48767
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f91c4bb7-55e0-4e4c-b802-61721ff9c89a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f91c4bb7-55e0-4e4c-b802-61721ff9c89a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3398792,139.4877194,3a,65.8y,185.81h,98.01t/data=!3m7!1e1!3m5!1s-pCv1QrSiNGso3AkCfoHrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.008204828130857%26panoid%3D-pCv1QrSiNGso3AkCfoHrQ%26yaw%3D185.80554006377014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Garden Park near Fujisawa Station appears in the film as an outdoor space adjacent to the station plaza, part of the recognizable Fujisawa streetscape depicted in the movie."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ773hSIJlA2ARcc7Z_82WLpY",
+      "name": "Fujigaoka House",
+      "localName": "藤が丘駅",
+      "coordinates": {
+        "lat": 35.1824617,
+        "lng": 137.0213504
+      },
+      "image": "https://cdn.animepilgrimage.com/places/985311fd-1cb3-42e8-a892-27508bd5bfea.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/985311fd-1cb3-42e8-a892-27508bd5bfea.webp"
+        },
+        {
+          "url": "media/cached-image_38549efa8ee696825a7b32ad8b05217b1a4181a41c5d37a4212e397f5d856fae.jpg"
+        }
+      ],
+      "type": "Transport hub",
+      "categories": [
+        "Transport hub"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒465-0032 Aichi, Nagoya, Meito Ward, Fujigaoka, 藤が丘駅",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3435356,139.4941503,3a,48.8y,199.24h,92.08t/data=!3m7!1e1!3m5!1szwD6Q9sdsB0p7c-wOmeIig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.08199001383565%26panoid%3DzwD6Q9sdsB0p7c-wOmeIig%26yaw%3D199.24159364529575!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiT4tsmJSGGARwQ4ka5soPgk",
+      "name": "Chigasaki Station",
+      "localName": "茅ケ崎駅",
+      "coordinates": {
+        "lat": 35.3303025,
+        "lng": 139.4068167
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1a0d990-a885-4687-91f6-e18a8006391b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1a0d990-a885-4687-91f6-e18a8006391b.webp"
+        },
+        {
+          "url": "media/cached-image_eac240a73918461837267cd55d92c39cc59e731b8ce5e84e14fddb99548fc2d0.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Chigasaki Station, １９-1 Motomachi, 茅ヶ崎市 神奈川県 253-0043, Japan",
+      "city": "茅ヶ崎市",
+      "region": "神奈川県",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3308236,139.4064758,2a,90y,334.67h,94.89t/data=!3m7!1e1!3m5!1sY8hCltzo_7yxstVpQQJejg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.893731610804608%26panoid%3DY8hCltzo_7yxstVpQQJejg%26yaw%3D334.66709503875245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Chigasaki Station appears in the film as a stop west of Fujisawa along the Shonan coast, part of the broader Kanagawa train network Sakuta uses to move between the film's locations."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt8lMts5PGGARP3ognpuJ7F8",
+      "name": "Lawson Katasekaigan 2-chome",
+      "localName": "ローソン 片瀬海岸二丁目店",
+      "coordinates": {
+        "lat": 35.3084048,
+        "lng": 139.4825959
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7af8f028-f1b8-4e5d-b0c3-a4c833b1d277.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7af8f028-f1b8-4e5d-b0c3-a4c833b1d277.webp"
+        },
+        {
+          "url": "media/cached-image_43b3acb6d183755951df5d4192f2d0bd6404ba30a170f3c930dad0d839ec7a9f.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Lawson Katasekaigan 2-chome, 2 Chome-16-21 Katasekaigan, Fujisawa, Kanagawa 251-0035, Japan",
+      "city": "Fujisawa",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3082158,139.4825209,3a,90y,295.89h,95.35t/data=!3m7!1e1!3m5!1sAWaOvXc1K6l_dSszF9h_2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.346216319238337%26panoid%3DAWaOvXc1K6l_dSszF9h_2g%26yaw%3D295.8943581455245!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Lawson convenience store on Katasekaigan street near the Enoshima causeway appears in the film as a local landmark close to Katase Bridge, captured in background shots of the seaside shopping street."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_rascal-does-not-dream-of-a-dreaming-girl_33",
+      "name": "Capricciosa",
+      "localName": "カプリチョーザ 江ノ島店",
+      "coordinates": {
+        "lat": 35.30913,
+        "lng": 139.48114
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ff4fdddd-2dc8-4dde-90bb-44fa9900f2bd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ff4fdddd-2dc8-4dde-90bb-44fa9900f2bd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.3091234,139.480998,3a,90y,70.84h,99.91t/data=!3m7!1e1!3m5!1s7FGTN-7_1c9cv7-eH-nhMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.914518970472074%26panoid%3D7FGTN-7_1c9cv7-eH-nhMw%26yaw%3D70.84460856431693!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Capricciosa Italian restaurant near Enoshima appears in the movie as a dining spot in the coastal area, part of the Katase beach strip that forms a backdrop for scenes near the Enoshima entrance."
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "I Made Friends with the Second Prettiest Girl in My Class",
+  "slug": "i-made-friends-with-the-second-prettiest-girl-in-my-class",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_a862052f59047b21cef4969bc6778ca4477809485be1d745e186e6dffbbadba4.webp",
+  "image": "media/cached-image_a862052f59047b21cef4969bc6778ca4477809485be1d745e186e6dffbbadba4.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.63992081666666,
+    "lng": 139.11766663333333
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "I Made Friends with the Second Prettiest Girl in My Class"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ4W_Hm_hGGARDDXFwa2qV6w",
+      "name": "Tachikawa Tax Office",
+      "localName": "立川税務署",
+      "coordinates": {
+        "lat": 35.704518,
+        "lng": 139.4133287
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7BAPyWFOFFSoBkQ2so31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7BAPyWFOFFSoBkQ2so31.webp"
+        },
+        {
+          "url": "media/cached-image_dccf123a3faab7fce0356a85ee88ba29857d96f34037cc591d50eaba6f1a9ad1.jpg"
+        }
+      ],
+      "type": "Tax collector's office",
+      "categories": [
+        "Tax collector's office"
+      ],
+      "rating": 2.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tachikawa Tax Office, 4-2 Midoricho, Tachikawa, Tokyo 190-0014, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JM2coptY4E6SCGyk6",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Seen in episode 7 as a background location in Tachikawa that establishes the mundane cityscape Akane and Kurashiki inhabit, grounding the anime's everyday slice-of-life atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5yuSzsaLGGARA5M1HqiKxqU",
+      "name": "JR EAST Travel Service Center Tokyo Station",
+      "localName": "駅たびコンシェルジュ東京（丸の内北口）",
+      "coordinates": {
+        "lat": 35.682334399999995,
+        "lng": 139.7661793
+      },
+      "image": null,
+      "images": [],
+      "type": "Tourist information center",
+      "categories": [
+        "Tourist information center"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "JR EAST Travel Svc Ctr Tokyo Station, Marunouchi North Gate, 1 Chome-9-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/W5yrLeS6XaLWUsHN8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Featured in episode 2 when the girls visit Tokyo Station, capturing a moment of their tentative friendship expanding beyond the familiar Tachikawa neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJybXK-3rhGGARmUgQKV-MO5c",
+      "name": "Tachikawa Station",
+      "localName": "立川駅",
+      "coordinates": {
+        "lat": 35.6988033,
+        "lng": 139.4137251
+      },
+      "image": "https://cdn.animepilgrimage.com/places/F4LbL8xnG8wjkzhH8CuF.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/F4LbL8xnG8wjkzhH8CuF.webp"
+        },
+        {
+          "url": "media/cached-image_ab62a75e8418fc2e77a6a7cd6df7c9681f335cecb7113e5f898d595262bd3284.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome Akebonocho, Tachikawa, Tokyo, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6988033,139.4137251,3a,90y,181.14h,99.07t/data=!3m7!1e1!3m5!1sKZwdocLYW0OAHNDeS5xQPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DKZwdocLYW0OAHNDeS5xQPQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D352.94424%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The central hub of the anime's daily life, where Akane and Kurashiki frequently part ways or meet up, making this the beating heart of their growing friendship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ7Ql7Iu7jGGARvkQBkwPYfxw",
+      "name": "LAWSON Kunitachi Sakura-dori Store",
+      "localName": "ローソン 国立さくら通店",
+      "coordinates": {
+        "lat": 35.6868917,
+        "lng": 139.4359941
+      },
+      "image": "https://cdn.animepilgrimage.com/places/T341gKdvA6eX8HPV2yjd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/T341gKdvA6eX8HPV2yjd.webp"
+        },
+        {
+          "url": "media/cached-image_1ec14dde86ac8a56e63d6208dc4ceddaf50aa878880932f9ef5e080699c432a3.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "LAWSON Kunitachi Sakura-dori Store, 3 Chome-２２-13 Fujimidai, Kunitachi, Tokyo 186-0003, Japan",
+      "city": "Kunitachi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/pSdhzwqp8nS3EPBHA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Appears in episode 1 as the convenience store near school where Akane first has an informal encounter with Kurashiki outside of class, a small but pivotal moment that sets the friendship in motion.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJszSWLXrhGGAR73SXanvZDx8",
+      "name": "Animate Tachikawa",
+      "localName": "アニメイト立川",
+      "coordinates": {
+        "lat": 35.6966684,
+        "lng": 139.4115401
+      },
+      "image": "https://cdn.animepilgrimage.com/places/XqNggUobsQ2eUzCiov6O.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/XqNggUobsQ2eUzCiov6O.webp"
+        },
+        {
+          "url": "media/cached-image_9063ce4622b0b914ee7eaef795fa14290eca75dd76884b51dfed8241049b7969.jpg"
+        }
+      ],
+      "type": "Comic book store",
+      "categories": [
+        "Comic book store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Animate Tachikawa, ３階～４階 2 Chome-3-1 Shibasakicho, Tachikawa, Tokyo 190-0023, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/GJqgFmyrkTQ27nKU6",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The anime shop visited in episode 2 where the two girls bond over shared pop-culture interests, a telling scene that shows Kurashiki has a fun, relatable side beyond her pretty-girl image."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa_7-fXrhGGARqmew_7_Ni4w",
+      "name": "McDonald's Isetan Tachikawa Branch",
+      "localName": "マクドナルド 立川伊勢丹前店",
+      "coordinates": {
+        "lat": 35.699295,
+        "lng": 139.4135394
+      },
+      "image": "https://cdn.animepilgrimage.com/places/kUZfZ8Ct8aHJ5alxQRWN.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/kUZfZ8Ct8aHJ5alxQRWN.webp"
+        },
+        {
+          "url": "media/cached-image_e3e6835c0064a13bc26ed75c325ab3b2fcd49fb1ff063a59c691fae4a699aae5.jpg"
+        }
+      ],
+      "type": "Fast food restaurant",
+      "categories": [
+        "Fast food restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "McDonald's Isetan Tachikawa Branch, 2 Chome-6-4 Akebonocho, Tachikawa, Tokyo 190-0012, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QgSB3AYdKRo6JJkR9",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Used in episode 2 as a casual hangout spot near Tachikawa Station where Akane and Kurashiki grab food together, one of their early low-key outings as new friends."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa_nDHnvhGGARn6-ysVCdj4o",
+      "name": "GiGO Tachikawa",
+      "localName": "GiGO立川",
+      "coordinates": {
+        "lat": 35.6974909,
+        "lng": 139.4143584
+      },
+      "image": "https://cdn.animepilgrimage.com/places/jM8aFi9NrCQa2HCBqTnj.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/jM8aFi9NrCQa2HCBqTnj.webp"
+        },
+        {
+          "url": "media/cached-image_641a71fb54f119cfe0e396a1eae6f6fe4a9ca3829e928825f7cccc1082d9f9b2.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": null,
+      "reviewCount": 146,
+      "priceLevel": null,
+      "address": "GiGO Tachikawa, サザンビル 1F・2F 3 Chome-2-1 Shibasakicho, Tachikawa, Tokyo 190-0023, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kmvFkrznHrtU7LPJ8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The arcade visited in episode 2 where the pair play games, giving fans a lighthearted glimpse of Kurashiki loosening up and showing her playful personality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_i-made-friends-with-the-second-prettiest-girl-in-my-class_7",
+      "name": "Tasuke",
+      "localName": "太助",
+      "coordinates": {
+        "lat": 35.6834,
+        "lng": 139.44522
+      },
+      "image": "https://cdn.animepilgrimage.com/places/iTQDhffC8ziOneCwwte9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/iTQDhffC8ziOneCwwte9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/jCNBdfYGqfF5GYYw8",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "A local ramen or izakaya-style restaurant in Kunitachi seen in episode 2, serving as a relaxed dining backdrop that deepens the characters' casual rapport."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpeiZSyXBGGARXoRJFcW3mwg",
+      "name": "Yaho Daini Park",
+      "localName": "大宮第二公園",
+      "coordinates": {
+        "lat": 35.9185624,
+        "lng": 139.6402506
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cSw8pzqI6jO0Wv9iXzxr.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cSw8pzqI6jO0Wv9iXzxr.webp"
+        },
+        {
+          "url": "media/cached-image_5ed6e55fde52fbe106dc821e5d9a643581fddbf4091cc80efd6575d50ef77458.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Omiya Second Park, 2 Chome-405 Junocho, Omiya Ward, Saitama, 330-0805, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/2eJUJujRSLaLt6Yq8",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8VJcd-7jGGARNsy4USqhg24",
+      "name": "Yaho Dairoku Park",
+      "localName": "谷保第六公園",
+      "coordinates": {
+        "lat": 35.6854604,
+        "lng": 139.4345552
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ujwVxRbhbj5VMF4gcftj.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ujwVxRbhbj5VMF4gcftj.webp"
+        },
+        {
+          "url": "media/cached-image_1f6d76d022e78a2c4f5befaee0837b77a7ae91279e41daab7a3a39e2525b1945.jpg"
+        },
+        {
+          "url": "media/cached-image_61e76e53ca981f62f6d2c7b08ee12112f313fcc4caeb36eb7df0cb227c1b372a.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Yaho Dairoku Park, 3 Chome-１８-11 Fujimidai, Kunitachi, Tokyo 186-0003, Japan",
+      "city": "Kunitachi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8qbVTUBAG8nGNK2H6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "A quiet neighborhood park in Kunitachi seen in episode 4, where the girls share an unhurried conversation that marks the friendship growing beyond simple politeness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkXDuSHDhGGARdRQ7G_N7u2I",
+      "name": "Yayoiken Tachikawa-Kita",
+      "localName": "やよい軒 立川北店",
+      "coordinates": {
+        "lat": 35.701870899999996,
+        "lng": 139.4146137
+      },
+      "image": "https://cdn.animepilgrimage.com/places/NGQPWFRid40I41XvCxkI.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/NGQPWFRid40I41XvCxkI.webp"
+        },
+        {
+          "url": "media/cached-image_80385a10f9905db366ef2d1401fc68c4bd96744dacbc13bfe3c3b35fe1dd3baf.jpg"
+        }
+      ],
+      "type": "Syokudo and Teishoku restaurant",
+      "categories": [
+        "Syokudo and Teishoku restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yayoiken Tachikawa-Kita, ＣＯＡビル １Ｆ 2 Chome-34-6 Akebonocho, Tachikawa, Tokyo 190-0012, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TGVs95J7zpNcCiNF9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The teishoku restaurant north of Tachikawa Station appearing in episode 4 as a lunch spot, reflecting the anime's focus on ordinary everyday meals shared between friends."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMSb5f_HjGGARrQUqVXzYryE",
+      "name": "Aji-no-Mingei Kunitachi",
+      "localName": "味の民芸 国立店",
+      "coordinates": {
+        "lat": 35.6870629,
+        "lng": 139.4390085
+      },
+      "image": "https://cdn.animepilgrimage.com/places/AU9yfX1vs3UBuN2TGrDo.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/AU9yfX1vs3UBuN2TGrDo.webp"
+        },
+        {
+          "url": "media/cached-image_51959a074e028e88f1342bc64113175a571d9d486e26941e67dc0115d6eeeaad.jpg"
+        },
+        {
+          "url": "media/cached-image_c67b47497c4498c0dea4b16b61445695faf3d1a1a4352a2e1ec9985c4038d301.jpg"
+        },
+        {
+          "url": "media/cached-image_aa968b52eda67051f928401a5d09b2abebee2fad11148e3f3166e64f31b4e891.jpg"
+        },
+        {
+          "url": "media/cached-image_9d2612a2b13dc8f6629b7b2f7e7948360010d928ae9d68d33dfeffdc0643f88d.jpg"
+        },
+        {
+          "url": "media/cached-image_c22f48532e876a508eb9aa58bf06dfc61446a3fd47248d482817104305eaf69c.jpg"
+        }
+      ],
+      "type": "Japanese restaurant",
+      "categories": [
+        "Japanese restaurant"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Aji-no-Mingei Kunitachi, 3 Chome-3-8 Fujimidai, Kunitachi, Tokyo 186-0003, Japan",
+      "city": "Kunitachi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hEcR99Zrj49bFEWZ9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "A family Japanese restaurant in Kunitachi featured in episode 6 where Akane and Kurashiki have a meal together, one of the warmer bonding scenes in the second half of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJn6vR4PTjGGARcxgR7e6eoZY",
+      "name": "Yaho Daisan Park",
+      "localName": "谷保第三公園",
+      "coordinates": {
+        "lat": 35.685657,
+        "lng": 139.4437711
+      },
+      "image": "https://cdn.animepilgrimage.com/places/g8cJDJpGwYuial6QynIH.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/g8cJDJpGwYuial6QynIH.webp"
+        },
+        {
+          "url": "media/cached-image_269a2671f9b7bfd5bda1b53786a2a11be2716be05bed9c223730065e6cdcc26f.jpg"
+        },
+        {
+          "url": "media/cached-image_5ef8acb89f5450a6102e84cd37346de50f12c10fddb3bcb51e7239972efa208d.jpg"
+        },
+        {
+          "url": "media/cached-image_9f8c3280a93170407f2cceb969d0ab62c5115748a6fa7b418a1cba186920b023.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Yaho Daisan Park, 2 Chome-３４-34 Fujimidai, Kunitachi, Tokyo 186-0003, Japan",
+      "city": "Kunitachi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/EDUyAAMMotEWFavX8",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "The local park in Fujimidai, Kunitachi seen in episode 6 as a place the characters pass through or linger, typical of the anime's affectionate portrayal of the quiet residential streets around school."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuQHwlAYRUTUR2NYdg9LTcRQ",
+      "name": "Midorimachi Park",
+      "localName": "緑町公園",
+      "coordinates": {
+        "lat": 34.4786286,
+        "lng": 133.37440669999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9PUvSjnV3lKPxof80YRW.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9PUvSjnV3lKPxof80YRW.webp"
+        },
+        {
+          "url": "media/cached-image_755ae219450b8a8fc2969ca7abb1528a7ed29d68840cb11ff474cde1a98c080f.jpg"
+        },
+        {
+          "url": "media/cached-image_b3d6820bdf37d4f161171d70d7720ac562e7dc61141ed3f8850e512d1fa00fba.jpg"
+        },
+        {
+          "url": "media/cached-image_137507b3d2b555f9a31cad4d963d7d2c73a158a33db53da5c02fb9f29de6a69c.jpg"
+        },
+        {
+          "url": "media/cached-image_b7b8d84ded3a2f0b1f10a17dba9916bcc7b0e7b466116cab081b58f6da324198.jpg"
+        },
+        {
+          "url": "media/cached-image_b1158a01385436a1d3224171676b9cfa3971984ba7b8669699fd5d3a14e3f8f3.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 94,
+      "priceLevel": null,
+      "address": "Midorimachi Park, 9-5 Midorimachi, Fukuyama, Hiroshima 720-0804, Japan",
+      "city": "Fukuyama",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/EzLosVQUq2u4nxJKA",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgZY6cZXhGGARbz2KtBi_I5Y",
+      "name": "TOHO CINEMAS Tachikawa Tachihi",
+      "localName": "TOHOシネマズ 立川立飛",
+      "coordinates": {
+        "lat": 35.7125205,
+        "lng": 139.4163055
+      },
+      "image": "https://cdn.animepilgrimage.com/places/HgMvn1DqVC81IPgdwbEW.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/HgMvn1DqVC81IPgdwbEW.webp"
+        },
+        {
+          "url": "media/cached-image_545b1781c935c8d24ecd3dc719859b8a312c333e15fe878c361ceeb19d967f98.jpg"
+        }
+      ],
+      "type": "Movie theater",
+      "categories": [
+        "Movie theater"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "TOHO CINEMAS Tachikawa Tachihi, 935-1 Izumicho, Tachikawa, Tokyo 190-0015, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/izvkndPGqWwMXt7E8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The cinema in episode 7 where Akane and Kurashiki go to watch a movie together, a classic date-like outing that signals how far their friendship has come since the first awkward introduction.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_i-made-friends-with-the-second-prettiest-girl-in-my-class_15",
+      "name": "San San Road",
+      "localName": "サンサンロード",
+      "coordinates": {
+        "lat": 35.701642,
+        "lng": 139.412759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eSDhiOo0jbCBrVqsKHmM.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eSDhiOo0jbCBrVqsKHmM.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/23wCA5m3ADh8jwH59",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The shopping street near Tachikawa Station shown in episode 7, a frequently walked route that fans recognize as the backdrop for many of Akane and Kurashiki's conversations while strolling."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJj3a1TnrhGGARvrk5r_7Ktas",
+      "name": "Sun Drug Tachikawa",
+      "localName": "サンドラッグ 立川南口店",
+      "coordinates": {
+        "lat": 35.697229799999995,
+        "lng": 139.4126712
+      },
+      "image": "https://cdn.animepilgrimage.com/places/U8Yx1o8g6258BFGHi9m8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/U8Yx1o8g6258BFGHi9m8.webp"
+        },
+        {
+          "url": "media/cached-image_1e8f299194b86876c0cf3063705ddc7ad91fdbdccdbb185c7c28902fef5452a9.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 2.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sun Drug, 3 Chome-1-3 Shibasakicho, Tachikawa, Tokyo 190-0023, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kFakM14AqMC58RGb9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The drugstore near Tachikawa Station appearing in episode 7 during an errand run, a slice-of-life detail that underscores how naturally the two characters now share ordinary tasks."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt2lMB3DhGGARnI3DNSo0Mvc",
+      "name": "2nd Street Tachikawa",
+      "localName": "セカンドストリート立川店",
+      "coordinates": {
+        "lat": 35.7005385,
+        "lng": 139.41577279999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/LDMFfpdvNcma3yBMnEsq.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/LDMFfpdvNcma3yBMnEsq.webp"
+        },
+        {
+          "url": "media/cached-image_4db26da180a1f2a086b8fcb85cd2f236cf5704cab4fcff967e09597fff64f97f.jpg"
+        }
+      ],
+      "type": "Used clothing store",
+      "categories": [
+        "Used clothing store"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2nd Street Tachikawa, 立川曙第1ビル 2 Chome-10-10 Akebonocho, Tachikawa, Tokyo 190-0012, Japan",
+      "city": "Tachikawa",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/SYDywW6sBXgjYJ4u8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The secondhand clothing store in episode 8 where the girls browse together, a fun scene that reveals more of their individual tastes and further cements their casual friendship."
+    }
+  ]
+}

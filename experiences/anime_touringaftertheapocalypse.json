@@ -1,0 +1,3611 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Touring After the Apocalypse",
+  "slug": "touring-after-the-apocalypse",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_2bee8abe68dd00371905a5445e46ce8d4ff7f733a366ab36b5e5e571fed26ac9.webp",
+  "image": "media/cached-image_2bee8abe68dd00371905a5445e46ce8d4ff7f733a366ab36b5e5e571fed26ac9.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.71809105263159,
+    "lng": 139.27928110421055
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Touring After the Apocalypse"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJW7kjYzcxImARsuLMQWM0-UY",
+      "name": "Oarai Port",
+      "localName": "大洗港フェリーターミナル",
+      "coordinates": {
+        "lat": 36.309333699999996,
+        "lng": 140.57351839999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/25a71f75-5964-45fa-955c-ad7a86a9e96d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/25a71f75-5964-45fa-955c-ad7a86a9e96d.webp"
+        },
+        {
+          "url": "media/cached-image_30dd6bd1c32d149b5dc3ee1c144cec9a8fee046bdbb72700eaf397bcdee49398.jpg"
+        }
+      ],
+      "type": "Ferry terminal",
+      "categories": [
+        "Ferry terminal"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Oarai Port, 大洗埠頭開発ビル 2 Minatochuo, Oarai, Higashiibaraki District, Ibaraki 311-1305, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/murMr5VHieTBamsM8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Oarai Port appears in Episode 10 as a destination on Youko's Ibaraki coastal route, the large ferry terminal now silent on a sea that no longer carries commercial traffic."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_1",
+      "name": "Mitsumine Tea House",
+      "localName": "大展望台 三峰茶屋",
+      "coordinates": {
+        "lat": 36.16413,
+        "lng": 138.13698
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/uCWMsexmbVmva2n7A",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "The Mitsumine Tea House viewpoint in Chichibu appears in Episode 12, Youko resting at the mountain tea house after a gruelling climb and looking out over the Okuchichibu mountain range."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-0RO35QwQTUR_rxrtyldMck",
+      "name": "Yamabiko-so",
+      "localName": "やまびこ旅館",
+      "coordinates": {
+        "lat": 33.0775854,
+        "lng": 131.1391817
+      },
+      "image": "https://cdn.animepilgrimage.com/places/52fd0364-535f-4b6e-b959-bbf9e144b673.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/52fd0364-535f-4b6e-b959-bbf9e144b673.webp"
+        },
+        {
+          "url": "media/cached-image_11caa76adf634c063c8e2e421d7666bb290eed3bb799bf4d0644f418b7b65cf4.jpg"
+        },
+        {
+          "url": "media/cached-image_7bf26242374719749427bb4858af7f97d51ce719d7aa7f4b6c3c4fca4e1de41b.jpg"
+        },
+        {
+          "url": "media/cached-image_27eea8305811824dbf377d87ca5d0be4f8979d6349f7b46d9436c4a28c0e66aa.jpg"
+        },
+        {
+          "url": "media/cached-image_46020ad20a89fd92434dd43824c87dd52af8086995ca8355bdb6d5a37f8c6e60.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamabiko Ryokan, 6704 Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan",
+      "city": "Minamioguni",
+      "region": "Aso District, Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/4dSdL6ijWeTGHw9D9",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Yamabiko Ryokan in Kurokawa Onsen, Kumamoto appears in Episode 12 as a warm stop that shows the series briefly venturing south to Kyushu, the traditional inn symbolising the hospitality of the world Youko has lost."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTZd0ey1jHmARGeeDlzHlqMM",
+      "name": "Mt. Mitsumine",
+      "localName": "三ッ峰山",
+      "coordinates": {
+        "lat": 36.461847399999996,
+        "lng": 138.8820252
+      },
+      "image": "https://cdn.animepilgrimage.com/places/85175e10-f0a7-4a6e-93ba-a9e40d83a781.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/85175e10-f0a7-4a6e-93ba-a9e40d83a781.webp"
+        },
+        {
+          "url": "media/cached-image_7c09ac64d9c9bf3931059bc1693ea623bc215b5697acfcceb821ca670559f325.jpg"
+        }
+      ],
+      "type": "Mountain peak",
+      "categories": [
+        "Mountain peak"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mitsuminesan, Misatomachi Nakano, Takasaki, Gunma 370-3111, Japan",
+      "city": "Takasaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/a4HWPgF6sVa7kc2i8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Mt. Mitsumine in Gunma appears in Episode 12 as Youko climbs to a mountain summit with sweeping views of the North Kanto ranges, a physically demanding highlight of the final arc."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVwhwsX5SHGARc_hpPaQ64b8",
+      "name": "Lake Shirakaba",
+      "localName": "白樺湖",
+      "coordinates": {
+        "lat": 36.1054327,
+        "lng": 138.235759
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5095148-da45-490a-a2b5-1f37cda1871e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5095148-da45-490a-a2b5-1f37cda1871e.webp"
+        },
+        {
+          "url": "media/cached-image_6bfb2508151a08c224158c6c6a784526a8653d2d12df283eeadb00ccf3cc5ae8.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.9,
+      "reviewCount": 8486,
+      "priceLevel": null,
+      "address": "Lake Shirakaba, 白樺湖-3419-3 Kitayama, Chino, Nagano 391-0301",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8GMXNVMzgKSft2KV8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Lake Shirakaba in the Chino highlands appears in Episode 12, Youko arriving at the lakeside to find the birch-lined shore utterly quiet, the alpine scenery a fitting backdrop for the journey's closing chapters.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_5",
+      "name": "Tosen Temple",
+      "localName": "當選寺",
+      "coordinates": {
+        "lat": 36.03693,
+        "lng": 139.4193
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6f134dd2-9e7b-4b7e-adc6-651821c6a9d6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6f134dd2-9e7b-4b7e-adc6-651821c6a9d6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/hX8bqm9WQr7GdTUF7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Tosen Temple in Saitama appears in Episode 11 as a quiet waypoint on Youko's northern Kanto route, the small temple grounds offering a moment of calm reflection."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ96dfGOrUGGARtrb3nlUfHKg",
+      "name": "Yoshimi Hyakuana",
+      "localName": "吉見百穴",
+      "coordinates": {
+        "lat": 36.0391511,
+        "lng": 139.4214843
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d7bcdffb-e7d2-4324-9d49-923ecd615897.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d7bcdffb-e7d2-4324-9d49-923ecd615897.webp"
+        },
+        {
+          "url": "media/cached-image_6e5b7eb0a267c8b36fc3530cc6367cb38e416d7aa2598bd4bd8bbab97dbdbc95.jpg"
+        },
+        {
+          "url": "media/cached-image_1b5667a773eb5a03ae433804a9a45d3f8f2cb97c1452a4577932b63bdd91e55f.jpg"
+        },
+        {
+          "url": "media/cached-image_70f2ff80ef66446b5cdfb0013ee49552465fb686ef9457cc5d8b1f7259b42769.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.8,
+      "reviewCount": 44,
+      "priceLevel": null,
+      "address": "Yoshimi Hyakuana, 327 Kitayoshimi, Yoshimi, Hiki District, Saitama 355-0155, Japan",
+      "city": "Yoshimi",
+      "region": "Hiki District, Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/EQZ4nmRJibxxhzon7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Yoshimi Hyakuana ancient burial caves in Saitama appear in Episode 11, Youko exploring the hillside honeycombed with historical pit tombs, the eerie setting perfectly matching the post-apocalyptic atmosphere.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJl6qxBoE_H2AR3LHlEtw2YSI",
+      "name": "Tochigi–Gunma–Saitama border",
+      "localName": "栃木市",
+      "coordinates": {
+        "lat": 36.3823772,
+        "lng": 139.7341396
+      },
+      "image": "https://cdn.animepilgrimage.com/places/670b059e-1297-4530-a434-d969a644b5f2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/670b059e-1297-4530-a434-d969a644b5f2.webp"
+        },
+        {
+          "url": "media/cached-image_695bf8a411eb6545b54cadaf5edec5b2c38147e71d65a40d569ec7f4787c6d34.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Tochigi, Japan",
+      "city": "Tochigi",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9aBVPR9i4juTRMGY8",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK7Exe7g1H2ARlFWmhZKDetk",
+      "name": "Roadside station Kazo Watarase",
+      "localName": "道の駅かぞわたらせ",
+      "coordinates": {
+        "lat": 36.211022299999996,
+        "lng": 139.6626559
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2dd0c323-4f59-4558-8085-0c6b42e8f64c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2dd0c323-4f59-4558-8085-0c6b42e8f64c.webp"
+        },
+        {
+          "url": "media/cached-image_b91b677da2c3f4d7d6b133c269fffb14ec50a9228ae59b5ed439db3525207f69.jpg"
+        },
+        {
+          "url": "media/cached-image_4882fb7754584bbc3d8790842cacbe38e64a5da43b031163af86e0d3f11da7a0.jpg"
+        },
+        {
+          "url": "media/cached-image_119a6176d8e3ce6e375530d8c32a4c8d52d0fe0a50b534d7117754f1106d3166.jpg"
+        },
+        {
+          "url": "media/cached-image_6af7a53ced7e87958979aaaf2e481e54dc6a1275e4ef5354fcc78606b2bb42ec.jpg"
+        },
+        {
+          "url": "media/cached-image_ac6c94657fec34885fdb05c18538a94b602ccb1202ecb171752dec08e017ae0f.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.6,
+      "reviewCount": 466,
+      "priceLevel": null,
+      "address": "Roadside station Kazo Watarase, 1745-1 Onofukuro, Kazo, Saitama 349-1202, Japan",
+      "city": "Kazo",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zBe47oMxLQ3dv3Xk8",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Kazo Watarase roadside station appears in Episode 11 as a rest stop for Youko along the Watarase River basin, its normally bustling parking lot now empty and overgrown."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJLy7RueA1H2AR8FjVqz7mops",
+      "name": "Tida Watarase Retarding Basin",
+      "localName": "渡良瀬遊水地",
+      "coordinates": {
+        "lat": 36.2163208,
+        "lng": 139.67417369999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f9c0bc2-c92a-4611-91a2-94679817067e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f9c0bc2-c92a-4611-91a2-94679817067e.webp"
+        },
+        {
+          "url": "media/cached-image_497d5bea63fd85d42c8ba74e9f674b3068e1079bcef7eac6139c8601c9f0ac3f.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Watarase Yusuichi, 藤岡町藤岡, Tochigi, 323-1104, Japan",
+      "city": "Tochigi",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/fwsmdkQUa9DEwSp27",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The vast Watarase Retarding Basin appears in Episode 11 as Youko rides along its embankments, the enormous flood-control wetland stretching to the horizon and reinforcing the sense of Japan returned to nature."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNSAhU8WmH2ARlA7wenFbUKs",
+      "name": "Nikkō Tōshōgū",
+      "localName": "日光東照宮",
+      "coordinates": {
+        "lat": 36.7580878,
+        "lng": 139.5987466
+      },
+      "image": "https://cdn.animepilgrimage.com/places/aafd2fc9-edad-4086-be14-798605a65976.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/aafd2fc9-edad-4086-be14-798605a65976.webp"
+        },
+        {
+          "url": "media/cached-image_1130bfaecf7841b94a66636695fd9438ef6997a8af41d4c38f6a2dad26a1c404.jpg"
+        },
+        {
+          "url": "media/cached-image_bc12f75593ab2bb8ace8a0c5f71424de7f96d2163523531540a7b9b833c01e21.jpg"
+        },
+        {
+          "url": "media/cached-image_1367947f1021900a76ed297799c2f5f2a666a1347b909a3f7f8f16ef22ac918a.jpg"
+        },
+        {
+          "url": "media/cached-image_08c795d61ad7335ff834a2e55bee3432b1ea0644c3be18ae81e8af32c1f8c42a.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 33514,
+      "priceLevel": null,
+      "address": "Nikkō Tōshōgū, 2301 Sannai, Nikko, Tochigi 321-1431, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mVGyHK16xtpN1oZg7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Nikko Toshogu shrine is a centrepiece of Episode 11, Youko walking the ornate gate complexes in silence, the lavish Edo-period carvings and the absolute stillness creating one of the series' most haunting contrasts.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ97QhU8WmH2AR5scy_p_lpVU",
+      "name": "Shinkyusha",
+      "localName": "神厩舎",
+      "coordinates": {
+        "lat": 36.7570616,
+        "lng": 139.599032
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0f996272-e1e3-4d3f-886a-dbad8ae01bbe.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0f996272-e1e3-4d3f-886a-dbad8ae01bbe.webp"
+        },
+        {
+          "url": "media/cached-image_62593488f8c98f597b9826210bc1a86a4aec7c13b28b67ebe107230b875bd8cc.jpg"
+        },
+        {
+          "url": "media/cached-image_6a1694b1c478df72a62e7e3ec200b5791663fabbec4613eb57c8e61c10d156a4.jpg"
+        },
+        {
+          "url": "media/cached-image_9d9e18fb521afba565b0a84a6fef5a3a4175ec485bcbb49bd81cb8f82724b0d5.jpg"
+        },
+        {
+          "url": "media/cached-image_f3b09e7979628700202fbc38836ffbfdcf4c436e3d2d4451b26e426580c500eb.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 197,
+      "priceLevel": null,
+      "address": "Shinkyūsha (Sanzaru, three monkeys), 2301-2 Sannai, Nikko, Tochigi 321-1431, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jpkNZhq8C3Hsvkyr6",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Shinkyusha sacred stable at Nikko Toshogu appears in Episode 11, Youko spotting the famous three-wise-monkeys carving (see no evil, hear no evil, speak no evil) on the empty building."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCzJYqt2mH2ARUD_73pkGbCM",
+      "name": "Nikko Tamozawa Imperial Villa Memorial Park",
+      "localName": "日光田母沢御用邸記念公園",
+      "coordinates": {
+        "lat": 36.7525307,
+        "lng": 139.59114209999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e40bb19c-5851-4ece-b145-69ccec13ecf8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e40bb19c-5851-4ece-b145-69ccec13ecf8.webp"
+        },
+        {
+          "url": "media/cached-image_5f623a372489c121a8fa1959f1737169de2a9eb307b6b65cff21eb4acfe484e5.jpg"
+        },
+        {
+          "url": "media/cached-image_2ad657ca350e355fe76c091e292fe279c39e551324f5b68e92188ac244f7d82b.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.4,
+      "reviewCount": 49,
+      "priceLevel": null,
+      "address": "Nikko Tamozawa Imperial Villa Memorial Park, 8-27 Honcho, Nikko, Tochigi 321-1434, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/DBvwWqW8KT1eXTYL7",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "The Nikko Tamozawa Imperial Villa appears in Episode 11 as Youko explores the former imperial retreat, the elegant Meiji-Taisho era wooden halls standing silent and perfectly preserved."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwb6wwMioH2ARjVZDylifnCc",
+      "name": "Kegon Waterfalls",
+      "localName": "華厳滝",
+      "coordinates": {
+        "lat": 36.7380893,
+        "lng": 139.501941
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d1553fc-3fb0-4098-a05d-c140ac376989.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d1553fc-3fb0-4098-a05d-c140ac376989.webp"
+        },
+        {
+          "url": "media/cached-image_c76b8843df57859e97e8e40019ce0e2e18f938724000f7190529f2b5b49dcd1e.jpg"
+        }
+      ],
+      "type": "Scenic spot",
+      "categories": [
+        "Scenic spot"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kegon Waterfalls, 2479-2 Chugushi, Nikko, Tochigi 321-1661, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/MEjaHP13GkScJL3W6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kegon Falls appears in Episode 10 as Youko reaches Lake Chuzenji and gazes at the famous 97-metre waterfall, one of the most iconic natural landmarks of the anime's Nikko arc.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJccvWmcioH2ARJwIw4H-Rs-o",
+      "name": "Kegon Waterfalls Paid Elevator",
+      "localName": "華厳滝 観瀑台(エレベーター有料)",
+      "coordinates": {
+        "lat": 36.7378402,
+        "lng": 139.5040192
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b1f9ddb4-02f8-4b93-9eb9-7ead4b65bc0f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b1f9ddb4-02f8-4b93-9eb9-7ead4b65bc0f.webp"
+        },
+        {
+          "url": "media/cached-image_a111747123b0fa5fbccf4820aeb01000314f2eff9ed1282505cbe7e1794bc677.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kegon Falls Observation Deck (elevator fee applies), 2479-2 Chugushi, Nikko, Tochigi 321-1661, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/u2bz4S2viacvaShn6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Youko takes the paid elevator down to the base-level observation deck at Kegon Falls in Episode 10, the close-up view of the crashing water a powerful sensory moment after a long ride."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ--rAjg2jGWARezcinGW1YQc",
+      "name": "Anest Iwata Sky Lounge",
+      "localName": "アネスト岩田スカイラウンジ",
+      "coordinates": {
+        "lat": 35.1843551,
+        "lng": 139.0488578
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c2a70688-3d6f-4fda-9fab-6ca9b768d9a9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c2a70688-3d6f-4fda-9fab-6ca9b768d9a9.webp"
+        },
+        {
+          "url": "media/cached-image_7907dccf1a567c2d7329ffc6aefe5a869ee7e12bf04bc7b76c15ad6c45ae15de.jpg"
+        },
+        {
+          "url": "media/cached-image_30ab71db58ac61f05606c95370b18ee8d84f29e654db598ddeecf421c87601a0.jpg"
+        },
+        {
+          "url": "media/cached-image_cfd196a9248989668b60bc33725b414a6094edc8302b74440ef8dc7d93f0a6ec.jpg"
+        },
+        {
+          "url": "media/cached-image_6c86a5f6c5d8eec0650c203289685d58abb765f6060d8013b3732c06c0c61478.jpg"
+        },
+        {
+          "url": "media/cached-image_30bf361d9b1ca011a58d01395c0cdb8ebe32a0109e514ee4f3ef901596d345b3.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1926,
+      "priceLevel": null,
+      "address": "Anest Iwata Sky Lounge, 955 Kajiya, Yugawara, Ashigarashimo District, Kanagawa 259-0313, Japan",
+      "city": "Yugawara",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1848214,139.0493376,3a,90y,185.2h,103.75t/data=!3m7!1e1!3m5!1svCsPz6ge25o9t5kpOx42wQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.749898220227976%26panoid%3DvCsPz6ge25o9t5kpOx42wQ%26yaw%3D185.2009914575016!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Youko stops at this Hakone Turnpike rest lounge to rest and survey the eerily quiet mountain road in Episode 1, one of the first scenic overlook moments that sets the lone-touring mood of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNzEAwFmjGWARePHzWPC461A",
+      "name": "Tenkakudai",
+      "localName": "天閣台",
+      "coordinates": {
+        "lat": 35.180028899999996,
+        "lng": 139.0415767
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f39fc82-2f6f-4885-9563-0ad8c702bfe5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f39fc82-2f6f-4885-9563-0ad8c702bfe5.webp"
+        },
+        {
+          "url": "media/cached-image_d25a39d160343dbbdc5d2117705a51b5fb329ee679d628b54f897f2b0510cfcf.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tenkakudai, 椿ライン Hakone, Ashigarashimo District, Kanagawa 250-0521, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.180032,139.0420725,3a,75.7y,40.02h,96.33t/data=!3m7!1e1!3m5!1sbZzyfQ5exMnk5JspnYU6wg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.333548619230356%26panoid%3DbZzyfQ5exMnk5JspnYU6wg%26yaw%3D40.01984090805052!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This observation platform on the Hakone Turnpike appears early in Episode 1 as Youko pauses her ride to look out over the deserted Kanagawa coastline, a quiet moment that encapsulates the show's melancholy beauty."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-e9zT2mYGWARU1aLWC-5cQA",
+      "name": "Hakonemachi(Bus)",
+      "localName": "箱根町港",
+      "coordinates": {
+        "lat": 35.189804099999996,
+        "lng": 139.0255795
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a630afdb-3849-4092-bdae-c7d92bbac8dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a630afdb-3849-4092-bdae-c7d92bbac8dd.webp"
+        },
+        {
+          "url": "media/cached-image_536098b86e9f476abb7e52ed30b4a9b6b474a5a1fc2d23b7342352a69a05a6b6.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hakonemachi-ko, Hakone, Ashigarashimo District, Kanagawa 250-0521, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1902245,139.0262247,3a,89.2y,219.5h,94.69t/data=!3m7!1e1!3m5!1spuLlpVKmFlxJGQCdioIxLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.6876593445631585%26panoid%3DpuLlpVKmFlxJGQCdioIxLw%26yaw%3D219.50215766573007!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Hakonemachi port bus stop by Lake Ashi features in Episode 1, with Youko riding through the deserted lakeside town and noting the absence of any other travellers."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_18",
+      "name": "Hakone Shrine 1st Torii Gate",
+      "localName": "第一鳥居",
+      "coordinates": {
+        "lat": 35.20091,
+        "lng": 139.03082
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ec9d77d0-0034-4049-9067-61350dd5b6b9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ec9d77d0-0034-4049-9067-61350dd5b6b9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.2006267,139.0307156,3a,68y,14.09h,97.81t/data=!3m7!1e1!3m5!1sY6I37VZO91mAqnJlIhb4vA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.810000000000002%26panoid%3DY6I37VZO91mAqnJlIhb4vA%26yaw%3D14.09!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Youko passes the lakeside first torii gate of Hakone Shrine in Episode 1, its iconic red pillars rising from the overgrown road as a reminder of the world that once was."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXX7Kk-CcGGARyBEX1InZYDg",
+      "name": "焼肉ISSA 柏店",
+      "localName": "一茶",
+      "coordinates": {
+        "lat": 35.861996999999995,
+        "lng": 139.974337
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e3d6acb7-b80a-4a2b-a6dc-6d39ba518e3d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e3d6acb7-b80a-4a2b-a6dc-6d39ba518e3d.webp"
+        },
+        {
+          "url": "media/cached-image_375d29196800ddcf4e9f31cd09446f198734655d18209a83ec7f721c20b64ca4.jpg"
+        }
+      ],
+      "type": "焼肉店",
+      "categories": [
+        "焼肉店"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒277-0005 Chiba, Kashiwa, 2 Chome−7−19 セナリオプレイス2 1F 焼肉ISSA 柏店",
+      "city": "Kashiwa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2020728,139.0311864,3a,87.4y,16.47h,108.49t/data=!3m7!1e1!3m5!1sF4syoerEIruhRvf2VOYBBQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.487821562942628%26panoid%3DF4syoerEIruhRvf2VOYBBQ%26yaw%3D16.465397738016865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_20",
+      "name": "Shimeki Store",
+      "localName": "しめき商店",
+      "coordinates": {
+        "lat": 35.20298,
+        "lng": 139.0316
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d671c7b9-1f82-4741-96f6-64e40de85926.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d671c7b9-1f82-4741-96f6-64e40de85926.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.2032329,139.0314433,3a,86.2y,155.74h,99.18t/data=!3m7!1e1!3m5!1s-7mMgNgQggyMqkHCjvc8BQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.181530313869459%26panoid%3D-7mMgNgQggyMqkHCjvc8BQ%26yaw%3D155.73665907162837!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small store near Lake Ashi appears in Episode 1 as a relic of everyday commerce now abandoned, with Youko quietly noting what the pre-disaster world might have been like."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_21",
+      "name": "The highest point of National Route 1 (874m)",
+      "localName": "国道1号最高地点 (標高874m)",
+      "coordinates": {
+        "lat": 35.2176,
+        "lng": 139.03859
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3ab26b22-d66e-422e-bdbb-60ff237f5aab.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3ab26b22-d66e-422e-bdbb-60ff237f5aab.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.2175363,139.038514,3a,69.1y,48.45h,99.97t/data=!3m7!1e1!3m5!1s-jfQ4ZRdjMri3DKp2HzVUg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.971461539849173%26panoid%3D-jfQ4ZRdjMri3DKp2HzVUg%26yaw%3D48.44837387512552!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The summit marker for National Route 1 at 874 m appears in Episode 1 as Youko crests the Hakone mountain pass, a milestone that fans recreate on motorcycle pilgrimages."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG0wZNHaiGWARQuqbuPyGx9U",
+      "name": "Kinokuniya Ryokan",
+      "localName": "美肌の湯 きのくにや旅館",
+      "coordinates": {
+        "lat": 35.220818799999996,
+        "lng": 139.0419324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72e011cb-7ec4-45e7-94de-7e02309d0b29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72e011cb-7ec4-45e7-94de-7e02309d0b29.webp"
+        },
+        {
+          "url": "media/cached-image_f81eb980771b1fc92fbe805bd6c4f50d8fe025cf1d8f20f067f963117d07fc05.jpg"
+        },
+        {
+          "url": "media/cached-image_ad1c7f851af4f07dc7bea42b31de282f76418183228fee702b68caeeb45b273c.jpg"
+        },
+        {
+          "url": "media/cached-image_59a4060d1815f90bea29b746ec0c1f7518369df89cbcac95a3a892cce56916e7.jpg"
+        },
+        {
+          "url": "media/cached-image_8d66f33117754c854babef79d4ad9030e8c8ef8fbc2fd40fdc2a74a186732f53.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.9,
+      "reviewCount": 39,
+      "priceLevel": null,
+      "address": "Kinokuniya Ryokan, ８番地 Ashinoyu, Hakone, Ashigarashimo District, Kanagawa 250-0523, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2212432,139.0418403,3a,60y,237.81h,92.49t/data=!3m7!1e1!3m5!1smiyFJbNpd9DGIKeqSYPNrQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.4925813410056747%26panoid%3DmiyFJbNpd9DGIKeqSYPNrQ%26yaw%3D237.8062034754446!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Kinokuniya Ryokan in Ashinoyu appears in Episode 1 as a once-welcoming hot-spring inn now standing silent, underscoring the series' theme of lost everyday warmth."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ35Qzh6WiGWARclGuY8hsZkk",
+      "name": "Hakone Swing",
+      "localName": "大観山展望台",
+      "coordinates": {
+        "lat": 35.1847223,
+        "lng": 139.04836699999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/286dd258-4c7f-4c6b-8b4e-3ea5d777a5bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/286dd258-4c7f-4c6b-8b4e-3ea5d777a5bb.webp"
+        },
+        {
+          "url": "media/cached-image_e1e82262e01a44bd2ceff1bb50df6b662be08e16d5e06b774d2c07989c5ff96a.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mt. Taikan Observation Deck, 955 Kajiya, Yugawara, Ashigarashimo District, Kanagawa 259-0313, Japan",
+      "city": "Yugawara",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1844932,139.0488188,3a,47.3y,322.3h,95.25t/data=!3m7!1e1!3m5!1scQLOQR17iKCY4j7kU2_03Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.251572354137295%26panoid%3DcQLOQR17iKCY4j7kU2_03Q%26yaw%3D322.29595839651614!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Daikanzan observation deck, nicknamed the Hakone Swing viewpoint, is featured in Episode 1 with a panoramic shot of Mt. Fuji and Sagami Bay that Youko takes in alone on her motorcycle.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1SdxB_RFGGAR0a33ulBh61c",
+      "name": "Hasedera",
+      "localName": "長谷寺",
+      "coordinates": {
+        "lat": 35.3124645,
+        "lng": 139.5330634
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a3db3674-7320-409c-bd91-9ef89d8b0dd5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a3db3674-7320-409c-bd91-9ef89d8b0dd5.webp"
+        },
+        {
+          "url": "media/cached-image_0024bd5381aa84695f669ad393966d61cd1d43714209c51f47ae30fe4dfc1c99.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.5,
+      "reviewCount": 16722,
+      "priceLevel": null,
+      "address": "Hase-dera, 3 Chome-11-2 Hase, Kamakura, Kanagawa 248-0016, Japan",
+      "city": "Kamakura",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3121016,139.533311,2a,90y,345.65h,90.8t/data=!3m7!1e1!3m5!1sqTwenSE6alqgi6XuTXBZGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.8028388076312467%26panoid%3DqTwenSE6alqgi6XuTXBZGg%26yaw%3D345.64983770483366!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Youko visits Hasedera in Episode 2, the bamboo-lined path and the giant Kannon statue appearing in eerie stillness, making this one of the most memorable temple shots of the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_25",
+      "name": "Yamashitacho IC",
+      "localName": "山下町IC",
+      "coordinates": {
+        "lat": 35.44109,
+        "lng": 139.64848
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4acc92ad-ea78-4202-badc-d2e5d4bb5454.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4acc92ad-ea78-4202-badc-d2e5d4bb5454.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4410517,139.6483803,3a,89.3y,62.24h,99.18t/data=!3m7!1e1!3m5!1ssfcBS4lbSF02GLlPYVYu7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.18490593231735%26panoid%3DsfcBS4lbSF02GLlPYVYu7g%26yaw%3D62.23975618024664!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "Youko enters Yokohama via the Yamashitacho interchange in Episode 2, riding through an overgrown bayside expressway that once carried heavy port traffic."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_26",
+      "name": "Yokohama Bay Bridge",
+      "localName": "横浜ベイブリッジ",
+      "coordinates": {
+        "lat": 35.4577,
+        "lng": 139.67602
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f8da6e7a-546d-46d9-94a1-3c5613b6e902.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f8da6e7a-546d-46d9-94a1-3c5613b6e902.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.4583537,139.6763194,3a,77.6y,204.53h,106.56t/data=!3m7!1e1!3m5!1sQpXhfEoKNGt-XOkLZNLOag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.557322556596915%26panoid%3DQpXhfEoKNGt-XOkLZNLOag%26yaw%3D204.53142289707318!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Yokohama Bay Bridge features in Episode 2 as Youko rides across it alone, the massive cable-stayed span framing a panorama of Yokohama Harbour without a single ship or person.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_9zM50RcGGARKZCRSKUT8IM",
+      "name": "Sea Bass Pukarisanbashi Pier",
+      "localName": "ぷかりさん橋(みなとみらい桟橋·海上旅客ターミナル)",
+      "coordinates": {
+        "lat": 35.4583842,
+        "lng": 139.6384965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca8a59ad-6716-44af-bc97-7a436adc0ae7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca8a59ad-6716-44af-bc97-7a436adc0ae7.webp"
+        },
+        {
+          "url": "media/cached-image_a23ba884124bde1b388a933973ea232c2b6ca1eabe9aaaac8b0b8bc610f27536.jpg"
+        },
+        {
+          "url": "media/cached-image_9a723fb6d9118a57ed01483c321acfe493c829a533f697987e88d995bef87aa1.jpg"
+        }
+      ],
+      "type": "Ferry service",
+      "categories": [
+        "Ferry service"
+      ],
+      "rating": 3.9,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Sea Bass Pukarisanbashi Pier, 1 Chome-1-地先 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4587361,139.6383073,3a,90y,187.84h,113.16t/data=!3m7!1e1!3m5!1s_2WoJgiOd8FhdaTuxLGhDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-23.16097943130167%26panoid%3D_2WoJgiOd8FhdaTuxLGhDw%26yaw%3D187.83731801561404!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "The Pukarisanbashi pier in Minato Mirai appears in Episode 2, Youko parking her bike to look out over the still, abandoned harbour, a poignant contrast to its normally busy ferry life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJcsGfI5AGGARV7TktKUBo3I",
+      "name": "Anjindai Dai 2 Park",
+      "localName": "安針台第２公園",
+      "coordinates": {
+        "lat": 35.2819661,
+        "lng": 139.6423541
+      },
+      "image": "https://cdn.animepilgrimage.com/places/294afe66-a849-4ae4-839a-76e4e949b1c2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/294afe66-a849-4ae4-839a-76e4e949b1c2.webp"
+        },
+        {
+          "url": "media/cached-image_e119c2ec1b234f468f219663877938170cf7a68c82cf673d645d255be1ec008d.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Anjindai Dai 2 Park, 18-18 Anjindai, Yokosuka, Kanagawa 238-0048, Japan",
+      "city": "Yokosuka",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.281048,139.643376,3a,90y,41.32h,84.07t/data=!3m7!1e1!3m5!1soMDDtAbxZzzLMUCyagGilQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.927085243720754%26panoid%3DoMDDtAbxZzzLMUCyagGilQ%26yaw%3D41.319475604081724!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "This small Yokosuka park appears in Episode 2 during Youko's southbound leg, offering a quiet hilltop rest before she turns back north."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_29",
+      "name": "Nakamuraya",
+      "localName": "なかむら屋",
+      "coordinates": {
+        "lat": 35.60712,
+        "lng": 139.64065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/930fef8d-e41d-41a0-9881-79d28be280e5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/930fef8d-e41d-41a0-9881-79d28be280e5.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.607063,139.6408001,3a,44.7y,280.87h,94.08t/data=!3m7!1e1!3m5!1spnTIf7G30WAH585jXF8svg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.0761175303264565%26panoid%3DpnTIf7G30WAH585jXF8svg%26yaw%3D280.8708974283078!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This neighbourhood shop in the Todoroki area appears in Episode 3 as Youko scavenges for food, a tiny domestic scene that humanises the scale of the disaster."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9wGNWFT0GGARQVwWyhj4jFw",
+      "name": "Todoroki Fudōson Temple",
+      "localName": "等々力不動尊",
+      "coordinates": {
+        "lat": 35.6037573,
+        "lng": 139.6470699
+      },
+      "image": "https://cdn.animepilgrimage.com/places/925d0228-656b-484c-9ce1-0e094d896931.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/925d0228-656b-484c-9ce1-0e094d896931.webp"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.2,
+      "reviewCount": 6465,
+      "priceLevel": null,
+      "address": "Todoroki Fudōson Temple, 1 Chome-22-47 Todoroki, Setagaya City, Tokyo 158-0082",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6034986,139.6467146,3a,90y,40.59h,100.21t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDaxbPoWQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaSwIbKqB040AJyleOYzrr9MnfBjySGom4D8P8E-HvijIrZ3vQy5tBCIScCVUHSL3r7NpXQdpuNxrAK3eYOdqcWmW5PE2wcCB9CiEWq5x60xv93Sd99HUZrWjKAAehLetkod0fJ%3Dw900-h600-k-no-pi-10.2109733530731-ya353.1145505019036-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaVBJBVT0GGARubLtRc1Fq3E",
+      "name": "Todoroki Ravine Park",
+      "localName": "世田谷区立等々力渓谷公園",
+      "coordinates": {
+        "lat": 35.603897599999996,
+        "lng": 139.6462372
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a9ffdf0-2e2d-4536-bed0-1c84088c15c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a9ffdf0-2e2d-4536-bed0-1c84088c15c8.webp"
+        },
+        {
+          "url": "media/cached-image_fa8b79f4415ec32a60f71c76ea7f8f1036505ca4b2a9b966123f5c92ccd67d9a.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.2,
+      "reviewCount": 21157,
+      "priceLevel": null,
+      "address": "Todoroki Ravine Park, 1 Chome-22-26 Todoroki, Setagaya City, Tokyo 158-0082",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6038057,139.6464508,3a,90y,328.35h,99.05t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDaxZykigE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZVHTtsrwLcCC0MLUefxGofOGXhqdSNjJlU6iWiNRE0ghiOT-MW-Ify8LkTHeHCQtqO6sUjvynKmHIwoAR1syA4fDADcrstMaZSZMYCLEWMIYFNpedS3Y5fAURk3msqRxenD2_DQQ%3Dw900-h600-k-no-pi-9.048811183981442-ya334.655614462144-ro0-fo100!7i3840!8i1920?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The forested ravine park in Setagaya is a key location in Episode 3, its lush greenery reclaiming the walkways as Youko explores what feels like a hidden valley lost in time.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6fuSfMUIAWAR-kwXbOvpNZg",
+      "name": "Koshindo",
+      "localName": "八坂庚申堂",
+      "coordinates": {
+        "lat": 34.9983244,
+        "lng": 135.7787304
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5e192f87-dea9-451b-988b-aaff00af8012.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5e192f87-dea9-451b-988b-aaff00af8012.webp"
+        },
+        {
+          "url": "media/cached-image_38166d82ffa7915aae1ef26317a78ff610ce33e8039e8b53faa97ed86e58eb63.jpg"
+        },
+        {
+          "url": "media/cached-image_a490cfffe163ca91cb75ef5f67ea831988931287015843108c641002203890a6.jpg"
+        },
+        {
+          "url": "media/cached-image_6de23b53d84c4771d1e2b0a39b143c55e0c3ccc7ed99184a0954c3a5ac73fd3e.jpg"
+        },
+        {
+          "url": "media/cached-image_71479fd9761e38f257f5c557924fe2ae06af2b736224e025cc5cdb5855c5041d.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2742,
+      "priceLevel": null,
+      "address": "Yasaka Kōshin-dō Temple, 390 Kinencho, Higashiyama Ward, Kyoto, 605-0828, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6034392,139.6443395,3a,90y,179.44h,90.66t/data=!3m7!1e1!3m5!1ss_CW0wPhr4fuGaBfQ6oddA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6555481876414291%26panoid%3Ds_CW0wPhr4fuGaBfQ6oddA%26yaw%3D179.43997245955669!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_33",
+      "name": "Doi Tax Accountant Office",
+      "localName": "土居税理士事務所",
+      "coordinates": {
+        "lat": 35.60321,
+        "lng": 139.64322
+      },
+      "image": "https://cdn.animepilgrimage.com/places/804c3ef8-edf3-443b-878c-fe16a1e0b7aa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/804c3ef8-edf3-443b-878c-fe16a1e0b7aa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6034671,139.6431911,3a,44.2y,167.08h,88.39t/data=!3m7!1e1!3m5!1sQLEIGCqvZ_U8M9_MeOvWDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.611998333932533%26panoid%3DQLEIGCqvZ_U8M9_MeOvWDQ%26yaw%3D167.07734226951024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "This ordinary office building near Todoroki is spotted in Episode 3 as a background detail of the residential streets Youko passes, its everyday purpose now a reminder of the vanished working world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8fSsNx2MGGARKnsLKXB86_4",
+      "name": "Handa Building",
+      "localName": "半田ビル",
+      "coordinates": {
+        "lat": 35.697722399999996,
+        "lng": 139.77141749999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/13a78093-d88d-4bf0-9855-ca02595e627b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/13a78093-d88d-4bf0-9855-ca02595e627b.webp"
+        },
+        {
+          "url": "media/cached-image_c50c2643960232138e932f716014e6daa2c4461909afce14757963298da27499.jpg"
+        }
+      ],
+      "type": "Tenant ownership",
+      "categories": [
+        "Tenant ownership"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Handa Building, 1 Chome-15-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mjmnk3eCqiX78wtC8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Handa Building in Akihabara's Sotokanda district appears in Episode 4 as Youko explores an electronics district frozen in time, its shopfront signs still advertising goods no one will ever buy."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJWo5QR2MGGARvwMoewrtt8U",
+      "name": "Akiba's X Chuo",
+      "localName": "アキバのエックス 中央店",
+      "coordinates": {
+        "lat": 35.6998789,
+        "lng": 139.7704595
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f474482-01d5-486c-b919-71792fe5d7f9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f474482-01d5-486c-b919-71792fe5d7f9.webp"
+        },
+        {
+          "url": "media/cached-image_09bd533821fc71217249d23e7abb42ec2d4b4ce80bae39f165b51f66a298f560.jpg"
+        }
+      ],
+      "type": "Hobby store",
+      "categories": [
+        "Hobby store"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Akiba's X Chuo, チチブ電機ビル 1F 3 Chome-12-15 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/p6QL9pgCyz2b5hJi8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Akihabara hobby store appears in Episode 4 as Youko browses the silent aisles, finding shelves of anime merchandise and figurines left exactly as they were when the world ended."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJFw0-qR2MGGARK8G9zFZx69w",
+      "name": "(Maid Cafe) at-home cafe Akihabara Main",
+      "localName": "at-home cafe 秋葉原本店",
+      "coordinates": {
+        "lat": 35.699606599999996,
+        "lng": 139.7708027
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8de03d05-3e51-43b6-8320-8095c7e9a107.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8de03d05-3e51-43b6-8320-8095c7e9a107.webp"
+        },
+        {
+          "url": "media/cached-image_07f3b997bcbecd6392138878d567ae6f7e37e66b6d5e7fcf2d6d37143c678b0a.jpg"
+        },
+        {
+          "url": "media/cached-image_0ff7af2fc17d8f56b86bd6b1420b1eb1c6c4671b5605baeff3314709e3fd45dd.jpg"
+        },
+        {
+          "url": "media/cached-image_886b1128728a1f12fe5673bc4b731c517a1165d2d01e8ab415315fe01ef944f3.jpg"
+        },
+        {
+          "url": "media/cached-image_25d7b6972d8e91b235f38d2bd7e0ab45b9f9ef031aadcec971a242fddd4391b2.jpg"
+        }
+      ],
+      "type": "Cosplay cafe",
+      "categories": [
+        "Cosplay cafe"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "(Maid Cafe) at-home cafe Akihabara Main, Mitsuwa Building, 3-7F 1 Chome-11-4 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aTheemiaLwm5Ajnw6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The at-home cafe in Akihabara is a bittersweet stop in Episode 4 as Youko steps into the empty maid cafe, imagining the lively atmosphere that once filled it."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyyt7QACNGGARcDkBj8yE5tc",
+      "name": "Niku no Mansei Akihabara Main Store",
+      "localName": "肉の万世 アキバプレイス店",
+      "coordinates": {
+        "lat": 35.701526,
+        "lng": 139.7711875
+      },
+      "image": "https://cdn.animepilgrimage.com/places/12b440da-44c2-4cdb-b8f2-d5fea42c0aca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/12b440da-44c2-4cdb-b8f2-d5fea42c0aca.webp"
+        },
+        {
+          "url": "media/cached-image_42dd6cc2b6aad45566f2d4fc1b5eaa0c41e8b59f78df21921b6388c575ad2809.jpg"
+        }
+      ],
+      "type": "Meat dish restaurant",
+      "categories": [
+        "Meat dish restaurant"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Niku no Mansei Akiba Place, アキバプレイスビル 3F 3 Chome-15-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ijgdq41JfaPf2yA99",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This longstanding Akihabara beef restaurant is passed by Youko in Episode 4 during her tour of the Electric Town district, its famously red sign still visible among overgrown streets."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJu4eTlB2MGGARMddR0W82sMw",
+      "name": "Beef Skewers Maruju Meat Shop",
+      "localName": "牛串 丸十精肉店 秋葉原店",
+      "coordinates": {
+        "lat": 35.7008206,
+        "lng": 139.7717236
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8298c4f1-577c-47ed-86fc-982453389894.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8298c4f1-577c-47ed-86fc-982453389894.webp"
+        },
+        {
+          "url": "media/cached-image_f8f52ffbfeb538ee3fae1fecb28426509535b169f918b0840bd5671f99d299af.jpg"
+        }
+      ],
+      "type": "Yakiniku restaurant",
+      "categories": [
+        "Yakiniku restaurant"
+      ],
+      "rating": 3,
+      "reviewCount": 196,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 4 Chome−3−3 Beef Skewers Maruju Meat Shop, ドン・キホーテ秋葉原店",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/TQgjN8TQxadbdT577",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Maruju yakiniku shop in Akihabara features in Episode 4 as Youko considers what she might cook if she could raid the larder of a world-famous beef district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJsYjRSwCPGGARKvU32S7aCH8",
+      "name": "MoriMori Store Akihabara",
+      "localName": "MoriMori Store & 森森買取 秋葉原駅前店 高価買取",
+      "coordinates": {
+        "lat": 35.6980195,
+        "lng": 139.7742097
+      },
+      "image": "https://cdn.animepilgrimage.com/places/540e5749-571d-4234-b134-0d7299558620.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/540e5749-571d-4234-b134-0d7299558620.webp"
+        },
+        {
+          "url": "media/cached-image_f80c4749e79f32b1f9f7519b4fceda973787caae1f33bab706c98746314e276d.jpg"
+        },
+        {
+          "url": "media/cached-image_ecf75846a43f6f96a111ff17235ef8245fddd813178c75a3750ff5fd497ecd51.jpg"
+        },
+        {
+          "url": "media/cached-image_ce56a414be3150c3281e983c6c7edc2f7f1928e6decc9ab8e399177da5f22d8c.jpg"
+        }
+      ],
+      "type": "Thrift store",
+      "categories": [
+        "Thrift store"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "MoriMori Store Akihabara, チョムチョム秋葉原 1F 1 Chome-13 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qc4PjAaQso84j9yw7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The MoriMori thrift store near Akihabara station appears in Episode 4 as Youko searches for useful secondhand goods, finding the aisles eerie in their abandoned orderliness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_40",
+      "name": "Akihabara Sta. Electric Town Exit West Square",
+      "localName": "秋葉原駅 電気街口西側広場",
+      "coordinates": {
+        "lat": 35.69875,
+        "lng": 139.77276
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1efe41d7-427a-48de-8cbf-d6abac1f25fc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1efe41d7-427a-48de-8cbf-d6abac1f25fc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ANvjzmCzEo2oWd1QA",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Electric Town exit plaza of Akihabara station is a key shot in Episode 4, Youko parking her motorcycle in a square that once teemed with otaku foot traffic but now echoes only with the wind.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT7cgoi2NGGARI4zCziPteRI",
+      "name": "Kushiyoshi Ochanomizu",
+      "localName": "串よしお茶ノ水店",
+      "coordinates": {
+        "lat": 35.6994453,
+        "lng": 139.7671775
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9e34f9f8-2db4-4ebe-b1bb-c2941e96f798.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9e34f9f8-2db4-4ebe-b1bb-c2941e96f798.webp"
+        },
+        {
+          "url": "media/cached-image_f8bae779b05956f48c9c0cf906304cad3826ed0031f98479efda4ecbaf9d9756.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒101-0021 Tokyo, Chiyoda City, Sotokanda, 2 Chome−1−6 法生ビル 1F 串よしお茶ノ水店",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/edQ5wRHvGHgFB5518",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This Ochanomizu izakaya appears in Episode 4 as a neighbourhood dining spot Youko passes near the Akihabara district before heading further into central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH4cG-BeMGGARczT6lnfR_Dg",
+      "name": "Juntendo University Hospital",
+      "localName": "順天堂大学医学部附属順天堂医院",
+      "coordinates": {
+        "lat": 35.7024159,
+        "lng": 139.7626339
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7697dc1-4b58-420f-b5b9-57896ec6975c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7697dc1-4b58-420f-b5b9-57896ec6975c.webp"
+        },
+        {
+          "url": "media/cached-image_c8f838f7451a5b21b7b1664fe09785572e82f710854b179743610e7423263c8e.jpg"
+        },
+        {
+          "url": "media/cached-image_dd06cee912170cbc032c2aafeddd27356c3ab7cbc66583277e33bd2799058a21.jpg"
+        },
+        {
+          "url": "media/cached-image_e51edf5f8d7b1714161832e693d71eddb632b1ad957ac3e434b62db2ed992c6b.jpg"
+        },
+        {
+          "url": "media/cached-image_4fa7106f5d1e05d455ca1af22d7014871e9a3df081287d0a6c6161487224bd88.jpg"
+        },
+        {
+          "url": "media/cached-image_2127289fde05cf8011b1f3193128f7552ff0ded2e59c139c5f63803b53c71f94.jpg"
+        }
+      ],
+      "type": "University hospital",
+      "categories": [
+        "University hospital"
+      ],
+      "rating": 2.8,
+      "reviewCount": 253,
+      "priceLevel": null,
+      "address": "Juntendo University Hospital, 3 Chome-1-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/h2X2N6cJwD9ir19c8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Juntendo University Hospital in Hongo appears in Episode 4 as Youko searches for medical supplies, the large teaching hospital now abandoned and silent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ71VccwCNGGARuE3U5rWoHvI",
+      "name": "Suido Bridge",
+      "localName": "水道橋",
+      "coordinates": {
+        "lat": 35.702070299999995,
+        "lng": 139.75535929999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a4200844-e0b2-4c0a-88c2-00120ca23c4f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a4200844-e0b2-4c0a-88c2-00120ca23c4f.webp"
+        },
+        {
+          "url": "media/cached-image_b6831cae27951fda6867536a00798f5209871009df3c98e32ddb6a4fbffc0558.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Suido Bridge, 1 Chome-22-3 Hongo, Bunkyo City, Tokyo 113-0033, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ahTB7FRWLEdU8EGq7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Suido Bridge over the Kanda River appears in Episode 4 as a road landmark Youko crosses during her Akihabara-to-Bunkyo circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs9wkeTWYGGARRAyn0dS9bVQ",
+      "name": "Kinjotamahaka Park",
+      "localName": "今上玉葉下公園",
+      "coordinates": {
+        "lat": 35.9151674,
+        "lng": 139.8748344
+      },
+      "image": "https://cdn.animepilgrimage.com/places/995f4b2e-269e-4ad5-9909-bdb2181274e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/995f4b2e-269e-4ad5-9909-bdb2181274e7.webp"
+        },
+        {
+          "url": "media/cached-image_efd30954eb8bae6e7651337476e199421e207aff698035b2e6117b2e49aacda1.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kinjotamahaka Park, Imagami, Noda, Chiba 278-0025, Japan",
+      "city": "Noda",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mRUqj86XX4ZsLFrd9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This small park in Noda, Chiba appears in Episode 5 as Youko passes through the northern Kanto suburbs on her way east, the empty park grounds marking her departure from central Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_45",
+      "name": "Ungao Bridge",
+      "localName": "運河大橋(流山市)",
+      "coordinates": {
+        "lat": 35.91243,
+        "lng": 139.88587
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21a33564-9be7-4fa5-9e41-f5b9c57b32ac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21a33564-9be7-4fa5-9e41-f5b9c57b32ac.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/YyJSMnoqCkbcoPtv7",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Ungao Bridge over the Tone Canal appears in Episode 5, a flat waterway crossing that Youko uses as a scenic waypoint through the Chiba flatlands."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_46",
+      "name": "Yorogawa Bridge",
+      "localName": "養老川橋",
+      "coordinates": {
+        "lat": 35.4885,
+        "lng": 140.08504
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2c42acb3-06a6-4efc-b4f6-ad42c604270c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2c42acb3-06a6-4efc-b4f6-ad42c604270c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/4XEM5ugfschwxbRw8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Yorogawa Bridge over the Yoro River in Chiba appears in Episode 5 as Youko heads toward the Boso Peninsula, the river glinting below in an otherwise silent landscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_47",
+      "name": "Gorei Shrine",
+      "localName": "五靈神社",
+      "coordinates": {
+        "lat": 35.37988,
+        "lng": 139.98444
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a95b625-1edd-43ef-8be3-8aabab84349e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a95b625-1edd-43ef-8be3-8aabab84349e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/H6Dj9r4vLyeTNKUZ6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Gorei Shrine on the Boso Peninsula appears in Episode 5 as a small, overgrown roadside shrine that Youko pauses at, a brief moment of reflection amid her solo ride."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_48",
+      "name": "Anrakutei Shonan Store",
+      "localName": "安楽亭 沼南店",
+      "coordinates": {
+        "lat": 35.82295,
+        "lng": 140.02102
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4cfaecd9-7e9f-4f95-8c1f-4e3403bef56b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4cfaecd9-7e9f-4f95-8c1f-4e3403bef56b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/nRvCQkwGeWZANXLB9",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_49",
+      "name": "Tega Bridge",
+      "localName": "手賀大橋",
+      "coordinates": {
+        "lat": 35.86118,
+        "lng": 140.02556
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1fa2524e-adf8-4adc-982e-6413ec1c3475.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1fa2524e-adf8-4adc-982e-6413ec1c3475.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/3zhnFwED92v4q1i5A",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Tega Bridge over Lake Tega appears in Episode 7 as Youko navigates the northern Chiba area, crossing the wide lake on an otherwise deserted road."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5bpedDJ5ImARu9mt9rZqT-E",
+      "name": "Kashiwa-no-Mori Motorcycle Shrine",
+      "localName": "柏の杜オートバイ神社",
+      "coordinates": {
+        "lat": 35.8245321,
+        "lng": 140.02739929999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f1636aef-c28c-496e-8b78-acc0d2cbb3ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f1636aef-c28c-496e-8b78-acc0d2cbb3ad.webp"
+        },
+        {
+          "url": "media/cached-image_d94fbaada183d2fb0d5fb6bdd56b9084eb6a4fb3e396beeeea3ac1044916e80a.jpg"
+        },
+        {
+          "url": "media/cached-image_03c23340f160f9d517d89f9e00409a546ff9b2b518105ca9bc1fb5bf796eefba.jpg"
+        },
+        {
+          "url": "media/cached-image_2200b3a3c45b91412bf136ff70a698f9ae63ec2c46751387a0a503552b526905.jpg"
+        },
+        {
+          "url": "media/cached-image_7ab5edde0656926a2bd9a48b175ec0cc690988cd64f79940a849d7246bb20a12.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.6,
+      "reviewCount": 156,
+      "priceLevel": null,
+      "address": "Kashiwa-no-Mori Motorcycle Shrine, 770 Kaneyama, Kashiwa, Chiba 270-1455, Japan",
+      "city": "Kashiwa",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/n7NvugjXCvjKWF3r7",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Kashiwa-no-Mori Motorcycle Shrine in Kashiwa is visited in Episode 7, a shrine dedicated to safe riding that has special resonance for Youko as a lone motorcyclist in a dangerous world.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_51",
+      "name": "Tone Drainage Pumping Station",
+      "localName": "利根排水機場",
+      "coordinates": {
+        "lat": 35.8848,
+        "lng": 140.04965
+      },
+      "image": "https://cdn.animepilgrimage.com/places/45dde95a-44c9-4d8c-b65d-4d2806ae2b0f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/45dde95a-44c9-4d8c-b65d-4d2806ae2b0f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/asRp8Kac7nD182WD6",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Tone drainage pumping station appears in Episode 7 as Youko rides the levee roads of the Tone River basin, the industrial infrastructure now unmanned and gradually rusting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ2W0xHKB3ImARnLEhpwL9_F0",
+      "name": "Otone Bridge",
+      "localName": "大利根橋",
+      "coordinates": {
+        "lat": 35.890163099999995,
+        "lng": 140.0553238
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6484ffca-2865-4dab-a272-37507087f837.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6484ffca-2865-4dab-a272-37507087f837.webp"
+        },
+        {
+          "url": "media/cached-image_7dd78e5f242f71626c67db0aa4dbef50f88c170eba6ee5af171ccf07ecb94d7e.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Otone Bridge, Japan",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/S5m8WF87dVh1P1g8A",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Otone Bridge over the Tone River appears in Episode 7 as Youko crosses into Ibaraki, the wide river and empty bridge marking a geographic milestone on her journey north."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_53",
+      "name": "Waen",
+      "localName": null,
+      "coordinates": {
+        "lat": 36.06187,
+        "lng": 140.08178
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9b9a53d-0f02-4a8d-913e-6d974118a425.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9b9a53d-0f02-4a8d-913e-6d974118a425.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/JjCNKz9x2CQSvEba6",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvabLxQwLImAR3qxrFS9dReU",
+      "name": "Mizuho Village Market Place",
+      "localName": "みずほの村市場",
+      "coordinates": {
+        "lat": 36.0626269,
+        "lng": 140.0802781
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2362904d-0d12-492e-851d-cc7dadcbf6ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2362904d-0d12-492e-851d-cc7dadcbf6ee.webp"
+        },
+        {
+          "url": "media/cached-image_3be28877c54598002ed251cb6c413399da5a9f283789658ef95c004279b2bf79.jpg"
+        },
+        {
+          "url": "media/cached-image_2e5797a2e8ebc9f8f705d4add705ad883645aa2e687b8c061b89563e056a2cb2.jpg"
+        },
+        {
+          "url": "media/cached-image_705c5581bca97eb89df1e84e17b4efc20aff6f047fdfa339674c044410a80085.jpg"
+        }
+      ],
+      "type": "Produce market",
+      "categories": [
+        "Produce market"
+      ],
+      "rating": 3.8,
+      "reviewCount": 633,
+      "priceLevel": null,
+      "address": "Mizuho Village Market Place, 496 Yagihashi, Tsukuba, Ibaraki 305-0842, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Em5N1iU8y2Wt4Sxf8",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Mizuho Village Market in Tsukuba appears in Episode 7 as Youko discovers a farm produce market still stocked with goods, a rare hopeful moment where nature has kept things fresh."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_55",
+      "name": "Gateway to Science",
+      "localName": "科学の門",
+      "coordinates": {
+        "lat": 36.06624,
+        "lng": 140.07394
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2fda9c2c-5856-4185-a753-5a2a463bc08e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2fda9c2c-5856-4185-a753-5a2a463bc08e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/M2AaCJjLx7Jfu6B77",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Gateway to Science arch at Tsukuba Science City appears in Episode 7 as a symbolic landmark Youko passes while exploring a city built for the future that now stands empty."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqSXCGggLImAR6FTI1xq78VI",
+      "name": "Science Expo Memorial Park",
+      "localName": "科学万博記念公園",
+      "coordinates": {
+        "lat": 36.0641543,
+        "lng": 140.073102
+      },
+      "image": "https://cdn.animepilgrimage.com/places/37678a6d-5502-4cfa-a226-cf0ff5706ee2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/37678a6d-5502-4cfa-a226-cf0ff5706ee2.webp"
+        },
+        {
+          "url": "media/cached-image_f1ea652061502014c537abc9d425926a86e414fedf17348a0962cb3c7fae0bb7.jpg"
+        },
+        {
+          "url": "media/cached-image_1f6243b0aee367f99840b1029bf87f4e20f5e484b1c0970a8a44d1d66266dcf4.jpg"
+        },
+        {
+          "url": "media/cached-image_423ae90a5e470250d90628a4e03fc1c9e59ab888b4b06ba16eeb8197e20de30f.jpg"
+        },
+        {
+          "url": "media/cached-image_22b4926d4d9884f1b7423ad90a130f4057d13300dec6355191a2fb875cf611fb.jpg"
+        },
+        {
+          "url": "media/cached-image_7619efd6c0d2ee7558c669185ca80257cf3e67c9460ec7d1620f34cb602b0835.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 42,
+      "priceLevel": null,
+      "address": "Science Expo Memorial Park, 6 Miyukigaoka, Tsukuba, Ibaraki 305-0841, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/h4P68h6s1tCSoMbs7",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Tsukuba Science Expo Memorial Park appears in Episode 7, its retro-futuristic exhibition remnants and open lawns giving the post-apocalyptic world an oddly festive, overgrown quality."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_57",
+      "name": "Kurochan",
+      "localName": "くろちゃん",
+      "coordinates": {
+        "lat": 36.13692,
+        "lng": 140.08032
+      },
+      "image": "https://cdn.animepilgrimage.com/places/11239d12-e3ed-485a-a364-fd77c70f1035.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/11239d12-e3ed-485a-a364-fd77c70f1035.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/6sf48gAgMr97RBnU9",
+      "episodeType": "EP",
+      "episodeNumber": 7
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJw4Aovo4MImAR6D-UenJFeOc",
+      "name": "Welcia Tsukuba Ozone Store",
+      "localName": "ウエルシアつくば学園中央店",
+      "coordinates": {
+        "lat": 36.076642299999996,
+        "lng": 140.11532
+      },
+      "image": "https://cdn.animepilgrimage.com/places/69f40148-6633-4abc-a846-5e1426c6679d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/69f40148-6633-4abc-a846-5e1426c6679d.webp"
+        },
+        {
+          "url": "media/cached-image_cd225612e0ac76d5168005544dd254bd84d328f17ff421f1434441d4119ca405.jpg"
+        }
+      ],
+      "type": "Drug store",
+      "categories": [
+        "Drug store"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Welcia, 24-6 Higashiarai, Tsukuba, Ibaraki 305-0033, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CXGznqL97bkZgpoz7",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Welcia drugstore in Tsukuba appears in Episode 7 as another supply stop for Youko, the fully stocked but staffless store exemplifying the series' survival-scavenging motif."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjZT4MHsMImARV5TyPJP0U-o",
+      "name": "Tsukuba EXPO Center",
+      "localName": "つくばエキスポセンター",
+      "coordinates": {
+        "lat": 36.086693,
+        "lng": 140.110603
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3573277c-b212-43e1-94da-83e109505543.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3573277c-b212-43e1-94da-83e109505543.webp"
+        },
+        {
+          "url": "media/cached-image_dfdaddcf437c78c9d57a77bf0db1cc39d783492986ed33d6d4ef4d7e5cb49d61.jpg"
+        },
+        {
+          "url": "media/cached-image_1da17337834ae52b002724cda4902d052014e0a18571cea33d13d2ff9f4060fb.jpg"
+        },
+        {
+          "url": "media/cached-image_a4119eafb063a804349199d6d41d71c2fbe8933ff2e7d7e37368ea301a99adb7.jpg"
+        },
+        {
+          "url": "media/cached-image_d2daaf6fabea2c8964c31081d2601628edd652bebb08921700902ed5081991d9.jpg"
+        }
+      ],
+      "type": "Science museum",
+      "categories": [
+        "Science museum"
+      ],
+      "rating": 4.1,
+      "reviewCount": 85,
+      "priceLevel": null,
+      "address": "Tsukuba EXPO Center, 2 Chome-９ Azuma, Tsukuba, Ibaraki 305-0031, Japan",
+      "city": "Tsukuba",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QonYqyqLULzBFRr86",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "Tsukuba EXPO Center with its distinctive H-II rocket replica appears in Episode 7, Youko regarding the landmark with quiet awe as she tours the silent science city.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJh0juQCdCImARVk7R1FCPTp0",
+      "name": "Ayumizaki Park",
+      "localName": "歩崎公園",
+      "coordinates": {
+        "lat": 36.0713217,
+        "lng": 140.375552
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4edd704c-3a12-4ec1-bf04-aa428d832fd7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4edd704c-3a12-4ec1-bf04-aa428d832fd7.webp"
+        },
+        {
+          "url": "media/cached-image_7bb472c73e00be1f051119e6130ee8f1d3d8a54029e9d6d7fc12af0d24cd718a.jpg"
+        },
+        {
+          "url": "media/cached-image_aa8ff444679de3f2899530142d48d44ab9f5e15cf80252e39c44008bf318d132.jpg"
+        },
+        {
+          "url": "media/cached-image_c20b41500aac806f91db72811a3efa878e7b3a1f7ee61a7a49725ef7708b6ce1.jpg"
+        },
+        {
+          "url": "media/cached-image_9a507c667e3824e87839778d51bdb50e67b06f8a34578945fa22e9762a55d186.jpg"
+        },
+        {
+          "url": "media/cached-image_5a61cf48b4cfdb8ee81903315d1a3632fc22cc824ec4b70f231a11ca0b905733.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": 1141,
+      "priceLevel": null,
+      "address": "Ayumizaki Park, ４７８４番地地先 Saka, Kasumigaura, Ibaraki 300-0214, Japan",
+      "city": "Kasumigaura",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BefYmoxVQvfJz3dx8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Ayumizaki Park overlooking Lake Kasumigaura appears in Episode 8, Youko gazing across Japan's second-largest lake from the park's headland viewpoint in an unusually serene moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0bh6gXSlGWARasWa74U2Xbo",
+      "name": "Odawara Toll Gate Parking Lot (Hakone Turnpike)",
+      "localName": "小田原料金所駐車場 (箱根ターンパイク)",
+      "coordinates": {
+        "lat": 35.242263799999996,
+        "lng": 139.1410755
+      },
+      "image": "https://cdn.animepilgrimage.com/places/43692b93-453e-4339-b384-d2c706380ffb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/43692b93-453e-4339-b384-d2c706380ffb.webp"
+        },
+        {
+          "url": "media/cached-image_62a8ed691a0d570bcdf181d9bfa4112a0bd147adffd5b42af15514e50065cdd3.jpg"
+        },
+        {
+          "url": "media/cached-image_5732153903c719307fe8d0e41d79207ce6518147ad2b3059d9b6fcf77b8fce73.jpg"
+        }
+      ],
+      "type": "Public parking space",
+      "categories": [
+        "Public parking space"
+      ],
+      "rating": 3.9,
+      "reviewCount": 26,
+      "priceLevel": null,
+      "address": "Odawara Toll Gate Parking Lot (Hakone Turnpike), 2 Chome-２２-1 Hayakawa, Odawara, Kanagawa 250-0021, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2422773,139.1410313,3a,86.8y,272.35h,98.58t/data=!3m7!1e1!3m5!1sCH7lmNT47m_Gp66ShilUDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.57611660585546%26panoid%3DCH7lmNT47m_Gp66ShilUDQ%26yaw%3D272.3496774880543!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Odawara toll gate parking lot at the base of the Hakone Turnpike appears in Episode 1 as Youko's entry point to the mountain road, empty and overgrown without a single car."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP_ebT3XPUTUR8z9BWqQG_ts",
+      "name": "Yamane Park",
+      "localName": "山根公園",
+      "coordinates": {
+        "lat": 33.9231647,
+        "lng": 133.3111482
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ae517915-a3b2-4eb1-b542-1daf2a5fd8c4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ae517915-a3b2-4eb1-b542-1daf2a5fd8c4.webp"
+        },
+        {
+          "url": "media/cached-image_348f15f52b9cfba8707a453cf290d45659342795884f9f444ddec28b0a24a6f4.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamane Park, 3 Chome-14 Suminoshindencho, Niihama, Ehime 792-0844, Japan",
+      "city": "Niihama",
+      "region": "Ehime",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2431636,139.1419722,3a,89.9y,205.99h,98.02t/data=!3m7!1e1!3m5!1szAK5w-jDkDB_OD_FD637RA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.018269006257142%26panoid%3DzAK5w-jDkDB_OD_FD637RA%26yaw%3D205.99106134828924!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdwtvUJCTPjURmFTdKPuESsQ",
+      "name": "Kanoya Imai Main Store",
+      "localName": "鹿屋市",
+      "coordinates": {
+        "lat": 31.3782477,
+        "lng": 130.8522618
+      },
+      "image": "https://cdn.animepilgrimage.com/places/861d4e17-4f8a-4040-97af-cff5e933cb71.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/861d4e17-4f8a-4040-97af-cff5e933cb71.webp"
+        },
+        {
+          "url": "media/cached-image_7fea682af20011d02cab8480527a2bb885864d265ec831c104fe75dd3c168282.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Kanoya, Kagoshima, Japan",
+      "city": "Kanoya",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2436369,139.1422266,3a,48.4y,30.55h,93.82t/data=!3m7!1e1!3m5!1sWNMEWhnmbhr7dt9LGAoc6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8203859677954597%26panoid%3DWNMEWhnmbhr7dt9LGAoc6w%26yaw%3D30.548949053702444!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_64",
+      "name": "Shoshimin Store",
+      "localName": "小市民商店",
+      "coordinates": {
+        "lat": 35.24578,
+        "lng": 139.14373
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7183e935-9128-42c0-a050-e3f547a1819c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7183e935-9128-42c0-a050-e3f547a1819c.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.2457375,139.1439741,3a,90y,293.74h,91.27t/data=!3m7!1e1!3m5!1sG-zMr96pIYcApqONICxxmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2737614795426708%26panoid%3DG-zMr96pIYcApqONICxxmw%26yaw%3D293.74144686343703!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This small roadside store on the Hakone route appears in Episode 1 as Youko searches for supplies in an empty post-disaster neighbourhood, a quietly tense foraging moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6R3JsfSkGWAR8TvAmPbBAGg",
+      "name": "Beaver Tozan Odawara",
+      "localName": "コーナンビーバートザン小田原店",
+      "coordinates": {
+        "lat": 35.2465554,
+        "lng": 139.1429197
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ced8153b-41cd-4db5-ad0b-0b16dbcc1fc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ced8153b-41cd-4db5-ad0b-0b16dbcc1fc4.webp"
+        },
+        {
+          "url": "media/cached-image_f7cdca9773d9a01e95aa1a415d887b95954b06825a8b46065af55fafd3b414a2.jpg"
+        },
+        {
+          "url": "media/cached-image_73fb1513f441a4e7bbd819c1c93b6c738b1b22feeefb9306954ff1099e2caed4.jpg"
+        },
+        {
+          "url": "media/cached-image_ccdb6d9d232274bc113b93e46d523015afc1ce77e183615c82af6444e7a3b64b.jpg"
+        },
+        {
+          "url": "media/cached-image_d3102f2f02c3efb4aa750dba78cf0e49ced65d20e9f4aa8ac2231feac96a6d62.jpg"
+        },
+        {
+          "url": "media/cached-image_d0fb388ad608f356a86bb9264ecd1e1f844c139bdc3fca3f50da1f6a8064d4c8.jpg"
+        }
+      ],
+      "type": "Home improvement store",
+      "categories": [
+        "Home improvement store"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Beaver Tozan Odawara, 191-1 Itabashi, Odawara, Kanagawa 250-0034, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.246095,139.1428269,3a,90y,214.24h,101.46t/data=!3m7!1e1!3m5!1sp3EksPwAesGqu3HRd9eupA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.464251133696152%26panoid%3Dp3EksPwAesGqu3HRd9eupA%26yaw%3D214.235479861265!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Youko stops at this home-improvement store on the Odawara road in Episode 1, scavenging for useful gear in a world where ordinary shops now sit in silence."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJc8T_SIukGWAR1E5bkMR5QYQ",
+      "name": "Eneos Odawara Itabashi SS",
+      "localName": "ENEOS 小田原板橋SS／箱根プレザントサービス（株）",
+      "coordinates": {
+        "lat": 35.246478499999995,
+        "lng": 139.1419119
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a8dfd4c-100e-4dbe-a746-c0351ca60c65.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a8dfd4c-100e-4dbe-a746-c0351ca60c65.webp"
+        },
+        {
+          "url": "media/cached-image_0173056fb71026df3c1910446b526edce3cf0f7c0efc18ca1bc2e445019e6395.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Eneos Odawara Itabashi SS, ＥＮＥＯＳ小田原板橋ＳＳ 字中瀬-191 Itabashi, Odawara, Kanagawa 250-0034, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2462873,139.1421472,3a,89.2y,285.02h,96.57t/data=!3m7!1e1!3m5!1sMPSO19aJ5LbZeXCBxNtBMA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.565171381085989%26panoid%3DMPSO19aJ5LbZeXCBxNtBMA%26yaw%3D285.0209786303949!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This petrol station in Odawara features in Episode 1 as Youko refuels her motorcycle, one of the practical survival stops that punctuate her journey through abandoned Japan."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ79-Hg1-kGWARjovKoK0tD4Y",
+      "name": "Komine Okanenodai Ohorikiri Moat",
+      "localName": "小峯御鐘ノ台大堀切東堀",
+      "coordinates": {
+        "lat": 35.2515828,
+        "lng": 139.144596
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d96c9600-4db2-47f7-9220-2569d138c388.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d96c9600-4db2-47f7-9220-2569d138c388.webp"
+        },
+        {
+          "url": "media/cached-image_680ea68b9420293eabd5a4adf4084e3d57fae6f63ef960e533ac7dd27d588574.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Komine Okanenodai Ohorikiri Moat, 3 Chome-30-27 Shiroyama, Odawara, Kanagawa 250-0045, Japan",
+      "city": "Odawara",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.2515172,139.1445536,3a,75y,187.58h,88.84t/data=!3m7!1e1!3m5!1sZ5miVMBqiOa1aX9VmV04Wg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1602689507164712%26panoid%3DZ5miVMBqiOa1aX9VmV04Wg%26yaw%3D187.57991214346202!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The historic earthwork moat of Odawara Castle's outer fortifications appears in Episode 1 as Youko rides past, the ancient defences now doubly silent in a world without people."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo2N5-IyJGGARDuiXukTSusw",
+      "name": "Fujimi Bridge",
+      "localName": "富士見橋",
+      "coordinates": {
+        "lat": 35.6387424,
+        "lng": 139.7800384
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e1fee571-d6be-4123-a384-5d36cea7168f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e1fee571-d6be-4123-a384-5d36cea7168f.webp"
+        },
+        {
+          "url": "media/cached-image_a9f02c62bebab259745f571f632f78e9db999d7c82e56b2767c366da730703ff.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Fujimi Bridge, 1 Chome-5 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6393321,139.779952,3a,90y,253.25h,93.31t/data=!3m7!1e1!3m5!1szp0xltVd5Kt3otdPT6IzCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3119582895283344%26panoid%3Dzp0xltVd5Kt3otdPT6IzCg%26yaw%3D253.2512749148784!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Fujimi Bridge in Ariake, Tokyo appears in the opening animation sequence, its name meaning 'Fuji-view bridge' and its position amid the empty bayside district establishing the visual mood of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtcIqzYuYGWARmuDHR2ij5Ko",
+      "name": "Hakone Shrine",
+      "localName": "箱根神社",
+      "coordinates": {
+        "lat": 35.2048263,
+        "lng": 139.0253782
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24bceb27-f585-4924-a52a-2aeedc367267.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24bceb27-f585-4924-a52a-2aeedc367267.webp"
+        },
+        {
+          "url": "media/cached-image_978e2a568ad693225a7d5842995c1882394bde297c0fae861fe886bc873af1ad.jpg"
+        },
+        {
+          "url": "media/cached-image_07453ef8a5fa224fcfe308401a6a33c6289c6a3375db81675a6428db16dbc0cc.jpg"
+        },
+        {
+          "url": "media/cached-image_b9222b6a3564705bc65596461de3405444c2db588c61228016690eb8231da6e5.jpg"
+        },
+        {
+          "url": "media/cached-image_cc41971ae081a942a70534a25bb59d21ca510a5c8dbfd0e5df173cd20df3940d.jpg"
+        },
+        {
+          "url": "media/cached-image_5f65bc704081f443af6f2553f93533e502a2a939795658a29268c33af6b6b6c8.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.4,
+      "reviewCount": 19495,
+      "priceLevel": null,
+      "address": "Hakone Shrine, 80-1 Motohakone, Hakone, Ashigarashimo District, Kanagawa 250-0522, Japan",
+      "city": "Hakone",
+      "region": "Ashigarashimo District, Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.1991782,139.0292538,3a,90y,321.49h,98.45t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICcnYXk_gE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZTTQZsR54lfpbkdezSARA2uZVsKyAx7_B7LhiwjiTqEuKUPIxc2YcbgbAe49N-94Vq-xDVIZL64pTdhamhqu0wvy2aJkNuH2eD6Pk6cBe5_VZBcjbLz2x1l_Rs-hliKqDmoYYk%3Dw900-h600-k-no-pi-8.451798205541223-ya13.37897280337171-ro0-fo100!7i6080!8i3040?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Hakone Shrine is a key stop on Youko's Episode 1 route, its forested approach and lakeside torii serving as one of the most visually striking post-apocalyptic pilgrimage moments in the series.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJma3tHVAxImARvxHpWO7TeO0",
+      "name": "First Torii Gate of Oarai Isosaki Shrine",
+      "localName": "大洗磯前神社 一の鳥居",
+      "coordinates": {
+        "lat": 36.3134142,
+        "lng": 140.58608759999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8ed30c4e-4723-41f6-a539-9f4730e932de.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8ed30c4e-4723-41f6-a539-9f4730e932de.webp"
+        },
+        {
+          "url": "media/cached-image_22fd5be37016285c58c21f982235457a8e52b74c2ad58c581025ed0a16f5cdad.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.5,
+      "reviewCount": 80,
+      "priceLevel": null,
+      "address": "First Torii Gate of Oarai Isosaki Shrine, Isohamacho, Oarai, Higashiibaraki District, Ibaraki 311-1301, Japan",
+      "city": "Oarai",
+      "region": "Higashiibaraki District, Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3138837,140.5865059,3a,75y,39.31h,98.53t/data=!3m7!1e1!3m5!1sxTYgfvga0YPVHC6crYD9FQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.526274440414937%26panoid%3DxTYgfvga0YPVHC6crYD9FQ%26yaw%3D39.31262882883792!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The first torii gate of Oarai Isosaki Shrine, standing in the surf of the Pacific, appears in Episode 10 as one of the most dramatic coastal images of the series, the red gate framed by an empty sea.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaWeNYVG_GGARdMc4WfTKSoA",
+      "name": "Mitsumine Observatory",
+      "localName": "三峯神社",
+      "coordinates": {
+        "lat": 35.9254539,
+        "lng": 138.9304719
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78621f0b-8711-415a-aa55-3de334a04d41.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78621f0b-8711-415a-aa55-3de334a04d41.webp"
+        },
+        {
+          "url": "media/cached-image_e3f4230b704a42fb418d88eca7c9f7dfed23a68be175555370382d6278e46363.jpg"
+        },
+        {
+          "url": "media/cached-image_5b0d721692336359153072abc7f65ae6b16ca9bf122be328ad2aee7fe47a1fad.jpg"
+        },
+        {
+          "url": "media/cached-image_9cf2e7497e6478ac9bd3a4cbfae4c96b598cce7b39ebd595e9fb0d39d734a016.jpg"
+        },
+        {
+          "url": "media/cached-image_e020b7abd66224b15308ccd21671652a1cd1d3d659ac96aa1592276be6b9c25b.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.6,
+      "reviewCount": 10613,
+      "priceLevel": null,
+      "address": "Mitsumine Shrine, 298-1 Mitsumine, Chichibu, Saitama 369-1902, Japan",
+      "city": "Chichibu",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YaMfKouLRc6aQXTb8",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "Mitsumine Shrine in Chichibu appears in Episode 12 as Youko ascends to the high-altitude shrine complex, one of the most dramatically situated sacred sites in the Kanto area and a fitting spiritual moment near the series' end.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkdGXtTeNGGARpQBGphIMVD0",
+      "name": "Starbucks Coffee - JR-East Hotel Mets Akihabara",
+      "localName": "スターバックス コーヒー JR東日本ホテルメッツ プレミア 秋葉原店",
+      "coordinates": {
+        "lat": 35.69764,
+        "lng": 139.77257
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf0d7c19-5a52-4861-8b34-435920e5199c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf0d7c19-5a52-4861-8b34-435920e5199c.webp"
+        },
+        {
+          "url": "media/cached-image_0aa0e50516d392e45b57423bff34c11b822b83de165b106e5031587ed53e4692.jpg"
+        }
+      ],
+      "type": "コーヒーショップ・喫茶店",
+      "categories": [
+        "コーヒーショップ・喫茶店"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "東日本ホテルメッツ プレミア 秋葉原, 1 Chome-17-4JR Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mc1B8ycEpajAmNcK8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Starbucks at JR-East Hotel Mets Akihabara is spotted in Episode 4 as Youko rides past the station precinct, the familiar green logo a poignant remnant of urban coffee culture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ58mpjx6MGGARseWnPsaMkNI",
+      "name": "Horin Park",
+      "localName": "千代田区立芳林公園",
+      "coordinates": {
+        "lat": 35.70201,
+        "lng": 139.77001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7ccefce1-d761-4bea-9c0d-68bfd57dae4b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7ccefce1-d761-4bea-9c0d-68bfd57dae4b.webp"
+        },
+        {
+          "url": "media/cached-image_e5f14fdfba0624e6dc3856231a3224c1caa6693f9eed646488dde95ac4c99b7b.jpg"
+        },
+        {
+          "url": "media/cached-image_c2507903555f34b8825de3e9929923ed847d3b004690f46eb87b03399e2c0852.jpg"
+        },
+        {
+          "url": "media/cached-image_48bb1c7496d1dcebce4ec132c9f50d79fd81ff77ae71bf9386a02b554b8bc9f3.jpg"
+        },
+        {
+          "url": "media/cached-image_e61541dfb6a9c1f5fe641d0bcd039101297114c86316508f9b58bd1b718d1a25.jpg"
+        }
+      ],
+      "type": "公园",
+      "categories": [
+        "公园"
+      ],
+      "rating": 3.9,
+      "reviewCount": 82,
+      "priceLevel": null,
+      "address": "3 Chome-5-18 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Z8oCCrr3qbH5Nbq26",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Horin Park in Sotokanda appears in Episode 4 as a small pocket of green amid the Akihabara blocks, with Youko resting her bike and noting the contrast between nature reclaiming concrete."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpQd7ZqiOGGARsRs2aimeHl4",
+      "name": "Akihabara Park",
+      "localName": "千代田区立秋葉原公園",
+      "coordinates": {
+        "lat": 35.6976,
+        "lng": 139.77486
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce30dce2-f418-42ef-861b-9997b27373f6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce30dce2-f418-42ef-861b-9997b27373f6.webp"
+        },
+        {
+          "url": "media/cached-image_10ce28a2a6f0daf5bf433f6dec143cec6a814ba88917e70e30fd3de3e2b47c79.jpg"
+        },
+        {
+          "url": "media/cached-image_205bd0e6f3335bc7cd2cca10b319e7e2cc20b1f9ff4ec9cf438609dc58755d80.jpg"
+        },
+        {
+          "url": "media/cached-image_3c4f8da213001fb244f1ea9ceee8adde0a8e0d23457ae6c7d4f966975bbd87dd.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 3.5,
+      "reviewCount": 14,
+      "priceLevel": null,
+      "address": "1 Chome-18 Kanda Sakumacho, Chiyoda City, Tokyo 101-0025, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VijfDYijGAXcfcy59",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Akihabara Park near the station appears in Episode 4 as Youko explores on foot, the small urban green space now untended and gradually returning to wildness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJM_vroB2MGGARBOd4T-bESSM",
+      "name": "BicCamera AKIBA Store",
+      "localName": "ビックカメラ AKIBA",
+      "coordinates": {
+        "lat": 35.69981,
+        "lng": 139.77133
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f83514d1-db16-4ea1-970f-28bb28840d8e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f83514d1-db16-4ea1-970f-28bb28840d8e.webp"
+        },
+        {
+          "url": "media/cached-image_bfa480505dacd9b89e4a8d2ff7f4a05367fcc1e9f5e7582d2b4f1f360ab09d60.jpg"
+        },
+        {
+          "url": "media/cached-image_d88a38e69e1f0fa32352baac48088af68b09316a6a181c7a4cdb5dc4b5174aab.jpg"
+        },
+        {
+          "url": "media/cached-image_39654b1f7cfb3a59ca06c1abd01a439579dbb6c5ad7d69013969952b94406af2.jpg"
+        },
+        {
+          "url": "media/cached-image_9665f205ff825e84a76f12abf978eb83c417062bf9e58c33e2168dbdff4fadfe.jpg"
+        },
+        {
+          "url": "media/cached-image_db6b361aac1e4a01d9dcf93cc01b7912c5177075bf176cc4b10a963d7cbe36a5.jpg"
+        },
+        {
+          "url": "media/cached-image_5f5c45baceb79a36e961a8b4c45c336cc3424a1b0a859a148ed2cfd225223486.jpg"
+        },
+        {
+          "url": "media/cached-image_68b6f3d954463776ffceefbcef4843a75a091fb805c4158c247951418c9c8736.jpg"
+        },
+        {
+          "url": "media/cached-image_da0f95f8e65715fa674240951dff5e469ba4a8ea4730628ddeb77b6bbb0990ab.jpg"
+        },
+        {
+          "url": "media/cached-image_3409ff58526dc28e2a814e555fec175109d6ecbf985e6aacf4d8e487643f05bf.jpg"
+        },
+        {
+          "url": "media/cached-image_ba63b2147b8a1a0a5154c7f7f303ac751fd2a5aedc43171bf2b0665cb70464f3.jpg"
+        },
+        {
+          "url": "media/cached-image_66c6aa04420d06691d91255bd2d24bdbf710e229a6b4772157f113043788c1f1.jpg"
+        },
+        {
+          "url": "media/cached-image_f244a23b4177754ee53f930b1d1cffbed095295850518916e0a7c9a894c4702e.jpg"
+        }
+      ],
+      "type": "家電量販店",
+      "categories": [
+        "家電量販店"
+      ],
+      "rating": 3.7,
+      "reviewCount": 3650,
+      "priceLevel": null,
+      "address": "4 Chome-1-１ Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6997314,139.7713166,3a,75y,2.36h,100.8t/data=!3m6!1e1!3m4!1s4ZSkTGISbIotUmyl4rucFg!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The massive BicCamera electronics store in Akihabara appears in Episode 4, its many floors of gadgets and appliances sitting unsold and dark, embodying the series' theme of consumer civilisation frozen in time."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4RGu0emLGGARuUX8XtPxUVg",
+      "name": "Yashirobashi",
+      "localName": "社橋",
+      "coordinates": {
+        "lat": 35.7086657,
+        "lng": 139.6060451
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2a23360e-0161-45de-9793-984bd72c7dc4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2a23360e-0161-45de-9793-984bd72c7dc4.webp"
+        },
+        {
+          "url": "media/cached-image_4364633bc232dba5dc8195ec05650bcb29bb264facfbfab4cafc5dd9be4c436b.jpg"
+        },
+        {
+          "url": "media/cached-image_5ae07b9043ebf924b0fe5dc79de0e6fa8ca2c522f094ae1aca64f6c5aed1b64b.jpg"
+        },
+        {
+          "url": "media/cached-image_0c4681004396147124b5087dd86853a4d8c1dd41d7e4873f28f6954ce8b6bec4.jpg"
+        },
+        {
+          "url": "media/cached-image_79742560bb9cd38388e26e50187ac8d0668093215f69c4addc2b710fb106a2fc.jpg"
+        },
+        {
+          "url": "media/cached-image_ce3b6ec1caf9cfe97f471e0f66ce9e0eb9151c4fcad3d8461929f33a23c468a8.jpg"
+        },
+        {
+          "url": "media/cached-image_16d9cb3dfea8fced20894361a0eeeeb6a81aceabe196e6ae4172ba1bb3921c4e.jpg"
+        }
+      ],
+      "type": "Transit station",
+      "categories": [
+        "Transit station"
+      ],
+      "rating": 3.8,
+      "reviewCount": 1891,
+      "priceLevel": null,
+      "address": "2 Chome-17 Shinbashi, Minato City, Tokyo 105-0004, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7086657,139.6060451,3a,90y,117.25h,95.67t/data=!3m7!1e1!3m5!1s1hwxJm7utjrX-HyKvEPWtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1hwxJm7utjrX-HyKvEPWtg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.41923%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Yashirobashi bridge near the Todoroki area features in Episode 3 as a road-level view of Youko crossing through empty Tokyo suburbs on her motorcycle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC1xKH8hxGGARziJHXAbFqFw",
+      "name": "Umihotaru PA",
+      "localName": "海ほたるPA",
+      "coordinates": {
+        "lat": 35.4637443,
+        "lng": 139.8750604
+      },
+      "image": "https://cdn.animepilgrimage.com/places/adac51c4-e036-404f-bd1c-349266879813.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/adac51c4-e036-404f-bd1c-349266879813.webp"
+        },
+        {
+          "url": "media/cached-image_4daafa4da1f60ca62e05f20a5cd80ea6f67541937904603ee383de90dff4a189.jpg"
+        },
+        {
+          "url": "media/cached-image_b9834017f8e6be7a9250f19b51e875d19b4d6c3048bd01ce21dd17a5db55e0ec.jpg"
+        },
+        {
+          "url": "media/cached-image_be00e22f58dfaae479953008ceeea88a3ca09a48704dd989c68e1701a61e9c4d.jpg"
+        },
+        {
+          "url": "media/cached-image_af403bcac298661a255dbdeac87d339c577f44be7298f55a8968351907394ea6.jpg"
+        },
+        {
+          "url": "media/cached-image_ac98c9a682c065796ae6bcffd8ef724b6f66d50a57ed00d766b0574c3e01fd2a.jpg"
+        },
+        {
+          "url": "media/cached-image_c2098631e40fb129fdde029df302665cb6e9c5b9d70376a1dac87d8960019463.jpg"
+        }
+      ],
+      "type": "サービスエリア / パーキング エリア",
+      "categories": [
+        "サービスエリア / パーキング エリア"
+      ],
+      "rating": 3.8,
+      "reviewCount": 608,
+      "priceLevel": null,
+      "address": "地先 海ほたる, Nakajima, Kisarazu, Chiba 292-0008, Japan",
+      "city": "Kisarazu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.4637443,139.8750604,3a,75y,229.52h,95.05t/data=!3m7!1e1!3m5!1sj8SOLX884i5VVgrpORjHGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dj8SOLX884i5VVgrpORjHGg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D12.44788%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Umihotaru rest area in the middle of Tokyo Bay Aqua-Line appears in Episode 5 as Youko crosses the bay, the artificial island offering a dramatic view of the water with no traffic in sight.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvzMUtWaNGGARIluf-hjk1tg",
+      "name": "Matsumoto Kiyoshi Akiba",
+      "localName": "薬 マツモトキヨシ アキバ店",
+      "coordinates": {
+        "lat": 35.69851,
+        "lng": 139.77123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e259bc33-630a-4fee-a2c4-1c9c9e5c6412.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e259bc33-630a-4fee-a2c4-1c9c9e5c6412.webp"
+        },
+        {
+          "url": "media/cached-image_d3370a36e5dce77d84b0df135bf3432b61fd81b5a37797a93f85a8adc7af31d6.jpg"
+        }
+      ],
+      "type": "ドラッグストア",
+      "categories": [
+        "ドラッグストア"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome-4-13 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6985477,139.7714089,3a,73y,255.01h,102.81t/data=!3m7!1e1!3m5!1spLExemGLyQ_NUFQnq3wEbQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.811322729621779%26panoid%3DpLExemGLyQ_NUFQnq3wEbQ%26yaw%3D255.0141834863665!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Akihabara branch of the Matsumoto Kiyoshi pharmacy chain appears in Episode 4 as Youko stocks up on medicines and hygiene supplies from silent, fully stocked shelves."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJC3Cf2PuLGGAROO00ukl8JwA",
+      "name": "Tokyo Station",
+      "localName": "東京駅",
+      "coordinates": {
+        "lat": 35.68121,
+        "lng": 139.76629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d3526430-3995-4141-b345-28d394d574e0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d3526430-3995-4141-b345-28d394d574e0.webp"
+        },
+        {
+          "url": "media/cached-image_b5f22fd988082df1769467e8e747c2737a689fff3e06a011ea50d2204b2d06b3.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1 Chome Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6812113,139.7662978,2a,75y,10.72h,96.24t/data=!3m7!1e1!3m5!1sXxaT2133gCbTBlJ9IJG8HA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.237910337800855%26panoid%3DXxaT2133gCbTBlJ9IJG8HA%26yaw%3D10.722069162988722!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Tokyo Station's red-brick Marunouchi facade appears in the opening animation sequence, the vast rail hub completely empty, an image that crystallises the series' post-apocalyptic premise in a single iconic shot.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJex6dYtyJGGARAVoEdppQ0aQ",
+      "name": "Tokyo Big Sight",
+      "localName": "東京ビッグサイト",
+      "coordinates": {
+        "lat": 35.63069,
+        "lng": 139.79334
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e399b139-4ad2-4aeb-ba8f-99c8d4b20594.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e399b139-4ad2-4aeb-ba8f-99c8d4b20594.webp"
+        },
+        {
+          "url": "media/cached-image_6962dc7bf78d42a2faec9644ff82bd1602b528a1d2bb59f1084f8b9200cb237a.jpg"
+        },
+        {
+          "url": "media/cached-image_6b55edc6820df067153f9811cc0961efb7ae88a1f2aa9c2a9e955b15cd4732c7.jpg"
+        },
+        {
+          "url": "media/cached-image_d8559c248ff5517e7486d4d837e6f57b6518a1614865aef8a2c2f0471d42067e.jpg"
+        },
+        {
+          "url": "media/cached-image_0d942301fa574e95b5f07909fa3dbeca06a35cf3217329b6d8e3529daf391adb.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f61e985faf69d81a757bbe87e8e1f7d1a98da8208090cb859956cedcc52fbc.jpg"
+        }
+      ],
+      "type": "コンベンション センター",
+      "categories": [
+        "コンベンション センター"
+      ],
+      "rating": 3.9,
+      "reviewCount": 2703,
+      "priceLevel": null,
+      "address": "3 Chome-11-1 Ariake, Koto City, Tokyo 135-0063, Japan",
+      "city": "Koto City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6308713,139.79321,3a,90y,147.39h,108.46t/data=!3m7!1e1!3m5!1sbuFP0GplBp0Q8aTYfFpCfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.45720918663534%26panoid%3DbuFP0GplBp0Q8aTYfFpCfA%26yaw%3D147.3902161955986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Tokyo Big Sight appears in Episode 3, its striking inverted-pyramid exhibition halls standing empty and overgrown in Ariake, a monument to a world that once held massive public gatherings.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd2mRAFMHAWARPSiWJOj4FOw",
+      "name": "Togetsukyo Bridge",
+      "localName": "渡月橋",
+      "coordinates": {
+        "lat": 35.0136811,
+        "lng": 135.6784848
+      },
+      "image": "https://cdn.animepilgrimage.com/places/db0a66ad-994c-45bd-bd49-0d66ec3b6ca5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/db0a66ad-994c-45bd-bd49-0d66ec3b6ca5.webp"
+        },
+        {
+          "url": "media/cached-image_8ad502f320a94913eb80655b157855980c635c685b6e3f87ae6e6c0bcd3636c1.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.4,
+      "reviewCount": 7,
+      "priceLevel": null,
+      "address": "1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0136811,135.6784848,3a,75y,211.44h,97.03t/data=!3m6!1e1!3m4!1sKFx4ImYuPS-wKrMITZR0EQ!2e0!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Togetsukyo Bridge in Arashiyama, Kyoto appears in Episode 10 as Youko crosses into the famous bamboo-grove district, the iconic bridge spanning an empty river beneath forested hills.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJZXPDhR2MGGAR-o8jPkzUbes",
+      "name": "Akihabara UDX",
+      "localName": "秋葉原UDX",
+      "coordinates": {
+        "lat": 35.7003083,
+        "lng": 139.7724163
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f4bf2910-5cba-4ec6-bef6-a1770f6e603b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f4bf2910-5cba-4ec6-bef6-a1770f6e603b.webp"
+        },
+        {
+          "url": "media/cached-image_fa54316091c6fa85a8e1cad80d2bd05e751b9fb787db93bc4a02586598fe168b.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "4 Chome-14-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.7003083,139.7724163,2a,75y,273.93h,96.91t/data=!3m7!1e1!3m5!1sMhBXevbua1KU5Zhr9i2-xA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DMhBXevbua1KU5Zhr9i2-xA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D54.997196%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Akihabara UDX, the large commercial complex above the station, is a background landmark in Episode 4 as Youko rides through the heart of Electric Town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhwt8jCQGVDURabQ6FPH0nXQ",
+      "name": "Okayama Korakuen",
+      "localName": "岡山後楽園",
+      "coordinates": {
+        "lat": 34.667333899999996,
+        "lng": 133.93617
+      },
+      "image": null,
+      "images": [],
+      "type": "Garden",
+      "categories": [
+        "Garden"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Okayama Korakuen, 1-5 Korakuen, Kita Ward, Okayama, 703-8257, Japan",
+      "city": "Okayama",
+      "region": "Okayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r5nnaQtdAtRbjFpR6",
+      "episodeType": "EP",
+      "episodeNumber": 11
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJD1-CzkWMGGARaVySuec_76w",
+      "name": "Tokyo Metropolitan Police Department Lost and Found Center",
+      "localName": "警視庁 遺失物センター",
+      "coordinates": {
+        "lat": 35.703648,
+        "lng": 139.746498
+      },
+      "image": null,
+      "images": [],
+      "type": "Lost property office",
+      "categories": [
+        "Lost property office"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokyo Metropolitan Police Department Lost and Found Center, 警視庁飯田橋住宅 1 Chome-9-11 Koraku, Bunkyo City, Tokyo 112-0004, Japan",
+      "city": "Bunkyo City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/rxbuA9PYsm6W8NpD6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Youko visits the Tokyo Metropolitan Police Lost and Found Center in Episode 4 on the slim hope of finding useful items left behind, the building a small but memorable detour showing her resourcefulness."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_85",
+      "name": "Rainbow Tower",
+      "localName": "虹の塔",
+      "coordinates": {
+        "lat": 36.09716,
+        "lng": 140.40429
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bcfe322a-4189-4a69-b3f0-f5871d06dadc.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bcfe322a-4189-4a69-b3f0-f5871d06dadc.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/qwAdNFWb5tx3EC276",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Rainbow Tower at Lake Kasumigaura appears in Episode 8 as a distinctive lakeside landmark Youko spots while riding the shore road, its coloured glass still glinting with no one to see it."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ65_zOUPuIWARCq_VKBq9rXI",
+      "name": "Shin nakagawa Bridge",
+      "localName": "新那珂川橋",
+      "coordinates": {
+        "lat": 36.5631325,
+        "lng": 140.2424893
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bfe5a3f6-e2c9-4328-94de-d3a067394ca2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bfe5a3f6-e2c9-4328-94de-d3a067394ca2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shin nakagawa Bridge, Motegi, Haga District, Tochigi, Japan",
+      "city": "Motegi",
+      "region": "Haga District, Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/x8pa4gVcyzvGsM7j8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Shin Nakagawa Bridge near Motegi appears in Episode 8 as Youko heads toward the Twin Ring circuit, the river crossing marking her entry into the rural Tochigi countryside."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJUQVneOuMGGARWnbKLqYXJVo",
+      "name": "Watanabe Shoji",
+      "localName": "㈱ワタナベ商事",
+      "coordinates": {
+        "lat": 35.692253199999996,
+        "lng": 139.7087976
+      },
+      "image": "https://cdn.animepilgrimage.com/places/623ca181-1fc1-4eef-83ac-d5f314b30c22.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/623ca181-1fc1-4eef-83ac-d5f314b30c22.webp"
+        },
+        {
+          "url": "media/cached-image_e2f4529731b67906e46356b19587597a19e9874cf0d4c005eb015b498be1d80e.jpg"
+        }
+      ],
+      "type": "Real estate agent",
+      "categories": [
+        "Real estate agent"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Rosana 201956 rosanahosokawa0920, 白鳳ビル 4F 5 Chome-9-24 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LjtqD1DW9v4vmisT7",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI_AlOSvuIWARxAqhXAdR-b0",
+      "name": "Mobility Resort Motegi North Entrance",
+      "localName": "モビリティリゾートもてぎ",
+      "coordinates": {
+        "lat": 36.531954,
+        "lng": 140.22539659999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/875e2846-e788-43aa-93d9-fa604469d563.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/875e2846-e788-43aa-93d9-fa604469d563.webp"
+        },
+        {
+          "url": "media/cached-image_885a77662d7ec7555d96066bcf17bc4ecd63f139c9576c87524c65e9b5a48cee.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mobility Resort Motegi, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Japan",
+      "city": "Motegi",
+      "region": "Haga District, Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NREMZBjwBBoovkbp8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Mobility Resort Motegi racetrack appears in Episode 8 as Youko rides through the pit lane and grandstands completely alone, the thrill of an empty professional circuit one of the show's most memorable sequences.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJTTu2A9XxIWARzGydFGyobL8",
+      "name": "Honda Collection Hall",
+      "localName": "ホンダコレクションホール",
+      "coordinates": {
+        "lat": 36.5268157,
+        "lng": 140.2266043
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4bf035ac-d312-4c53-a500-40dd9c2aa6ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4bf035ac-d312-4c53-a500-40dd9c2aa6ca.webp"
+        },
+        {
+          "url": "media/cached-image_e9ed964a10a0cd7c9b4c4c28c07e35239d0e937e3376eb42d0b14f3d1e29dca4.jpg"
+        }
+      ],
+      "type": "Technology museum",
+      "categories": [
+        "Technology museum"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Honda Collection Hall, 120-1 Hiyama, Motegi, Haga District, Tochigi 321-3533, Japan",
+      "city": "Motegi",
+      "region": "Haga District, Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CeTZYf83PqBbXwtx8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Honda Collection Hall inside Mobility Resort Motegi is explored in Episode 9, Youko wandering among historic Honda motorcycles and racing machines in a museum-silence that resonates deeply for a motorcyclist.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0XpmjGkgImAReNFPnt4WKtI",
+      "name": "Mito City Forest Park",
+      "localName": "水戸市森林公園",
+      "coordinates": {
+        "lat": 36.4240914,
+        "lng": 140.3665531
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6208e21d-cce1-4196-bfa0-26daa3c67d2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6208e21d-cce1-4196-bfa0-26daa3c67d2a.webp"
+        },
+        {
+          "url": "media/cached-image_63baa99579f28ab148f0692b86858de048c3e76b3c14fdec9d782b5b72d4dfc4.jpg"
+        },
+        {
+          "url": "media/cached-image_fd5d343c323fedb7d847b308a72df36363ee84d7246075cf7227296aead745bc.jpg"
+        },
+        {
+          "url": "media/cached-image_fa7c906cc7262ebdd49df5a83c5c797356ec3d4bbc050d499ee18701f70c48ab.jpg"
+        },
+        {
+          "url": "media/cached-image_87840de7012909a58545f68464d4706ce6916297a23439d3a7ae65fada713105.jpg"
+        },
+        {
+          "url": "media/cached-image_33ff26fd81ffb21229fda19a57a6832e36dab517ae556e3392dccafea4cc97e0.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": 292,
+      "priceLevel": null,
+      "address": "Mito City Forest Park, 588-1 Abokkecho, Mito, Ibaraki 311-4161, Japan",
+      "city": "Mito",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/LWgjmGajo4W425od7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Mito City Forest Park appears in Episode 10 as Youko camps overnight in the trees, a rare moment of restful camping that gives her a chance to reflect on how far she has travelled."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtx0KVDtvH2ARJOcQ-maarcQ",
+      "name": "Oya History Museum - Historic Quarry Mine",
+      "localName": "大谷資料館",
+      "coordinates": {
+        "lat": 36.5999889,
+        "lng": 139.8247452
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8569ad7d-72b3-4e2e-bd9f-68f87b4409f0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8569ad7d-72b3-4e2e-bd9f-68f87b4409f0.webp"
+        },
+        {
+          "url": "media/cached-image_8332e033f80f89db6c6f9d2d5a6c2c159b455b873d7ce1b540db7960ac157682.jpg"
+        },
+        {
+          "url": "media/cached-image_c5dcc1795b1f79ab307636b9e66ce522e4a3733fea6dd139ca4af41ed9291341.jpg"
+        },
+        {
+          "url": "media/cached-image_a7ec4cb58bd4a438802c7c9d5ec474de0a4c2def8cbf07a3ecf7b926144abddd.jpg"
+        },
+        {
+          "url": "media/cached-image_cee693b91e06b50cc32993037f3f0b43bc437ab0f0cf2a5eeb63a5f77e63bdef.jpg"
+        },
+        {
+          "url": "media/cached-image_38d29be320a77457b7c54e7e31624946aa3c3e0f9f0b7406f7a6a979e5cb6a89.jpg"
+        }
+      ],
+      "type": "Local history museum",
+      "categories": [
+        "Local history museum"
+      ],
+      "rating": 4.4,
+      "reviewCount": 417,
+      "priceLevel": null,
+      "address": "Oya History Museum - Historic Quarry Mine, 909 Oyamachi, Utsunomiya, Tochigi 321-0345, Japan",
+      "city": "Utsunomiya",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/aHEoUVM6NhqVYU3b9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Oya History Museum's massive underground quarry appears in Episode 10, Youko descending into the cathedral-like stone caverns and finding the scale of the carved-out space genuinely awe-inspiring even in the post-disaster world.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_92",
+      "name": "Benkei's Sword-Split Rock and Turtle Rock",
+      "localName": "弁慶の太刀割り岩・亀岩",
+      "coordinates": {
+        "lat": 36.60119,
+        "lng": 139.82107
+      },
+      "image": "https://cdn.animepilgrimage.com/places/86bbc2d9-7210-41a9-a862-80f9fd3b38a3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/86bbc2d9-7210-41a9-a862-80f9fd3b38a3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/oj4sJsV2YbsRaAFV7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The legendary Benkei's Sword-Split Rock and Turtle Rock at the Oya stone park area appear in Episode 10 as Youko explores the unusual rock formations surrounding the quarry."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_touring-after-the-apocalypse_93",
+      "name": "Koshiji Rock",
+      "localName": "名勝 越路岩",
+      "coordinates": {
+        "lat": 36.60757,
+        "lng": 139.81873
+      },
+      "image": "https://cdn.animepilgrimage.com/places/703d1776-eae2-4639-9176-c1c347887f74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/703d1776-eae2-4639-9176-c1c347887f74.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/2xiNejWB73UNVC2W7",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Koshiji Rock near the Oya quarry appears in Episode 10 as Youko walks among the natural stone outcroppings, the area's geological character adding to the otherworldly feel of her tour."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo0-0EZuoH2ARUTpGjFD0c4I",
+      "name": "Kurokami-daira View Point",
+      "localName": "黒髪平展望台(第二いろは坂)",
+      "coordinates": {
+        "lat": 36.7279365,
+        "lng": 139.5212606
+      },
+      "image": "https://cdn.animepilgrimage.com/places/202b926d-fc5f-4e5d-9747-607072e61b3f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/202b926d-fc5f-4e5d-9747-607072e61b3f.webp"
+        },
+        {
+          "url": "media/cached-image_45b5a37c37024a129e1e73866f16202b25e2df6d5de17b52b300315e164557b7.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kurokami-daira View Point, Hosoomachi, Nikko, Tochigi 321-1445, Japan",
+      "city": "Nikko",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/UFyebu3oCefD2iw4A",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "The Kurokami-daira viewpoint on the Iroha slope road to Nikko appears in Episode 10, Youko pausing her climb to look back down the winding switchbacks stretching out below her."
+    }
+  ]
+}

@@ -1,0 +1,1263 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Chitose Is in the Ramune Bottle",
+  "slug": "chitose-ramune",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_9042875c53793c465c098eeee5069f394d01215c20267fb6ce7287d6667db153.webp",
+  "image": "media/cached-image_9042875c53793c465c098eeee5069f394d01215c20267fb6ce7287d6667db153.webp",
+  "banner": null,
+  "primaryLocation": "Fukui, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.79842103636363,
+    "lng": 136.4968308878788
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Chitose Is in the Ramune Bottle"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJuVDUfi25-F8R5nG4FthSXTM",
+      "name": "Fukui Stadium",
+      "localName": "福井県営陸上競技場（9.98スタジアム）",
+      "coordinates": {
+        "lat": 36.0533169,
+        "lng": 136.18370299999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f22c0657-6487-4173-b198-32012725eba2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f22c0657-6487-4173-b198-32012725eba2.webp"
+        },
+        {
+          "url": "media/cached-image_202d4645391054bb53c654468098204b28a4b17f45d962849384f67686e3c329.jpg"
+        }
+      ],
+      "type": "Stadium",
+      "categories": [
+        "Stadium"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "9.98 Stadium, 3-20 Fukumachi, Fukui, 918-8027, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0837209,136.258072,3a,90y,24.68h,97.49t/data=!3m7!1e1!3m5!1sB1lDTW0HtvMkGZmLmUCUCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.489999999999995%26panoid%3DB1lDTW0HtvMkGZmLmUCUCw%26yaw%3D24.68!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "The stadium's running track and distinctive 9.98 Stadium signage appear in the opening sequence, setting the sporty, energetic tone of Fukui city life that frames Chitose and his social world."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chitose-ramune_1",
+      "name": "Wanaruka Oozeki 16th Warning Station Building",
+      "localName": "鳴鹿大堰第16警報局舎",
+      "coordinates": {
+        "lat": 36.11132,
+        "lng": 136.19048
+      },
+      "image": "https://cdn.animepilgrimage.com/places/44dc7e58-9a6d-4c3b-8e86-f0c0a9cf8713.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/44dc7e58-9a6d-4c3b-8e86-f0c0a9cf8713.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/ejkAX8b9nqfYYqTc8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This utilitarian river-control building along the Kuzuryu River appears as a background landmark in episode 9, part of the riverside scenery Chitose and his friends pass through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJufhrs5a_-F8RvB83mjbJAQU",
+      "name": "Itagaki Bridge - fireworks",
+      "localName": "板垣橋",
+      "coordinates": {
+        "lat": 36.0494413,
+        "lng": 136.23292569999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41866c99-bf78-430c-a9cf-8784c836bf36.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41866c99-bf78-430c-a9cf-8784c836bf36.webp"
+        },
+        {
+          "url": "media/cached-image_d15e23a41d2155796e390a9629276e77ef2cac609d94f0a64c9de1ea1c3a8d03.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Itagaki Bridge - fireworks, 板垣橋通り 2 Chome-13 Itagaki, Fukui, 910-0856, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0491276,136.2321026,3a,76.7y,111.73h,96.8t/data=!3m7!1e1!3m5!1sDYPsBREdgpPPEfZq2S3vZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.804289295316053%26panoid%3DDYPsBREdgpPPEfZq2S3vZQ%26yaw%3D111.7309742821267!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "Itagaki Bridge is the backdrop for the fireworks festival scene where Chitose and Kenta share a pivotal summer moment together, marking a turning point in their unlikely friendship.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJmVRWe5y--F8R78HvWukHSbI",
+      "name": "Hachiban Ramen - Miyuki",
+      "localName": "8番らーめん 御幸店",
+      "coordinates": {
+        "lat": 36.0542841,
+        "lng": 136.2371653
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6710b683-142c-4147-b3c6-0b9525814466.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6710b683-142c-4147-b3c6-0b9525814466.webp"
+        }
+      ],
+      "type": "Ramen restaurant",
+      "categories": [
+        "Ramen restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hachiban Ramen - Miyuki, 3 Chome-16-31 Miyuki, Fukui, 910-0854, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0541793,136.2369429,3a,90y,60.1h,101.42t/data=!3m7!1e1!3m5!1sPO840xmz4JkS_Cuyfx978A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.41887709840222%26panoid%3DPO840xmz4JkS_Cuyfx978A%26yaw%3D60.1046513332101!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "The local Hachiban Ramen chain location appears in the opening sequence as part of everyday Fukui street life, representing the casual hangout spots Chitose and his circle frequent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ25TmKbROImARdR5-ykpmABQ",
+      "name": "Kashima Park",
+      "localName": "鹿島公園",
+      "coordinates": {
+        "lat": 34.47373,
+        "lng": 134.17046
+      },
+      "image": "https://cdn.animepilgrimage.com/places/304bd22d-2d9b-4299-a144-77ad6f544923.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/304bd22d-2d9b-4299-a144-77ad6f544923.webp"
+        },
+        {
+          "url": "media/cached-image_0a4ccdce7588248ca170a9688931317e9c70e1fde6bb3af9b7e2b31a87045517.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "390 Otake, Hokota, Ibaraki 311-1513, Japan",
+      "city": "Hokota",
+      "region": "Ibaraki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.4737857,134.1706082,3a,40.7y,249.37h,90.92t/data=!3m7!1e1!3m5!1s502Min5Ek3_wPrk5G1URxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9240510162513402%26panoid%3D502Min5Ek3_wPrk5G1URxg%26yaw%3D249.3684446171472!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chitose-ramune_5",
+      "name": "Kida Bridge",
+      "localName": "木田橋",
+      "coordinates": {
+        "lat": 36.05525,
+        "lng": 136.22027
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4013edb8-f32a-4648-afc1-4ad7fb5feb31.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4013edb8-f32a-4648-afc1-4ad7fb5feb31.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/kv7eWfVzprDC8N5E9",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Kida Bridge over the Asuwa River is shown in episode 10 as a quiet crossing point Chitose and Kenta walk along, reflecting on their progress and the bonds they've built."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDQm1LZS--F8RjPfzDsfzuwo",
+      "name": "Europe-ken Toyoshima",
+      "localName": "ヨーロッパ軒 豊島分店",
+      "coordinates": {
+        "lat": 36.057556999999996,
+        "lng": 136.222549
+      },
+      "image": "https://cdn.animepilgrimage.com/places/87677702-cb42-43af-826b-435c27255efa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/87677702-cb42-43af-826b-435c27255efa.webp"
+        },
+        {
+          "url": "media/cached-image_7ca18e7395967e4d78d5ac4265e60010c97e8083d5ea9703c626df572e44058d.jpg"
+        }
+      ],
+      "type": "Japanized western restaurant",
+      "categories": [
+        "Japanized western restaurant"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Europe-ken Toyoshima, 2 Chome-3-3 Toyoshima, Fukui, 910-0857, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/v7VyfFTVJFA19r359",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Europe-ken, Fukui's beloved katsudon restaurant famous for its sauce-topped pork cutlet, is shown in episode 9 as the place Chitose treats his companions to a meal, spotlighting one of Fukui's most iconic local foods.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ00Fx6eq--F8RvOTfhecxt2w",
+      "name": "Yuri Kimimasa Plaza",
+      "localName": "由利公正広場",
+      "coordinates": {
+        "lat": 36.0598241,
+        "lng": 136.2159078
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a82d2a5e-ede8-4a39-957c-81da2f7c0c9f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a82d2a5e-ede8-4a39-957c-81da2f7c0c9f.webp"
+        },
+        {
+          "url": "media/cached-image_98cdffc708cc4d9915e2b2161403c657c40edae31bedf5fa86a21de6b368d4c2.jpg"
+        }
+      ],
+      "type": "City park",
+      "categories": [
+        "City park"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yuri Kimimasa Plaza, 1 Chome-1 Keya, Fukui, 918-8003, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0591592,136.2162886,3a,86.7y,249.03h,89.78t/data=!3m7!1e1!3m5!1sCRooIqqxPYh9ISXLZi8VRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2235304030348999%26panoid%3DCRooIqqxPYh9ISXLZi8VRg%26yaw%3D249.03167044426652!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "OP",
+      "episodeNumber": 2,
+      "entityContext": "This small plaza near Fukui Station featuring the statue of Meiji reformer Yuri Kimimasa appears in the opening sequence, anchoring the story in Fukui's civic identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJvT6AzaDq-F8RjR2OG60uII4",
+      "name": "Washizukaharibara Station",
+      "localName": "鷲塚針原駅",
+      "coordinates": {
+        "lat": 36.1206098,
+        "lng": 136.2048051
+      },
+      "image": "https://cdn.animepilgrimage.com/places/617e98e6-97a6-47a9-b123-0772f3999ab5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/617e98e6-97a6-47a9-b123-0772f3999ab5.webp"
+        },
+        {
+          "url": "media/cached-image_e83f50f57d11786369faa5f8587359bdfe567f387078d73e5cd498bc0ffa1662.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Washizukaharibara Station, Kawaiwashizukachō, Fukui, 910-0102, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/XT3bQAqCH1xV1E9y5",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Echizen Railway's Washizukaharibara Station, with its rural tram-line platform, appears in episode 9 when characters travel by local train, evoking the quieter edges of Fukui life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVxfkGA4AGWARNoi7MGl2Aow",
+      "name": "Katsumi Park",
+      "localName": "勝見公園",
+      "coordinates": {
+        "lat": 35.4540645,
+        "lng": 139.3512204
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d05994ab-93e4-4aa7-84ef-86d8df98b7fd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d05994ab-93e4-4aa7-84ef-86d8df98b7fd.webp"
+        },
+        {
+          "url": "media/cached-image_8a961c2c353fa6c57033338e449f92b16ad5a55bd8386a8b76a5d9bbb7ebf39e.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Katsumi Park, 1 Chome-22 Hayashi, Atsugi, Kanagawa 243-0816, Japan",
+      "city": "Atsugi",
+      "region": "Kanagawa",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/P4ApJY99ffHX25vK7",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtSef3uy--F8RziBvRL7ErUk",
+      "name": "Saizeriya Fukui Ekimae",
+      "localName": "サイゼリヤ 福井駅前店",
+      "coordinates": {
+        "lat": 36.062062999999995,
+        "lng": 136.22169
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5cab143b-7d26-4a1e-aa40-615ecaaf3630.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5cab143b-7d26-4a1e-aa40-615ecaaf3630.webp"
+        },
+        {
+          "url": "media/cached-image_3eca664933c780d8ac39857f120860be95d6509986cceb9ed61b694e1204ddbe.jpg"
+        }
+      ],
+      "type": "Family restaurant",
+      "categories": [
+        "Family restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒910-0006 Fukui, Central, 1 Chome−3−3 3KI ﾋﾞﾙ Saizeriya, 2F",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/s5jb756h5UQiJUxG6",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Saizeriya family restaurant near Fukui Station is shown in episode 8 as the kind of affordable hangout spot where classmates gather, grounding the story in the everyday social rhythms of high school life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwUiNN5e--F8RJXj2CMtQLNA",
+      "name": "Sugimori Shirahige Shrine",
+      "localName": "杉杜白髭神社",
+      "coordinates": {
+        "lat": 36.056439399999995,
+        "lng": 136.2279198
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b354e9b6-afdc-4ed5-80fb-2eab5d5385ba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b354e9b6-afdc-4ed5-80fb-2eab5d5385ba.webp"
+        },
+        {
+          "url": "media/cached-image_c4a7eea5f612e9edd333dfea0fc1cc96c12688df2b71ffec034a63d0327d1cd0.jpg"
+        },
+        {
+          "url": "media/cached-image_3a8aedd1261da2c2dcdbb795126fb09659e73b3240cb9aa3f32b8390f14fea36.jpg"
+        },
+        {
+          "url": "media/cached-image_ffe3681a5883adbc48eddf2deb2357e202ad217b25ea911c07f21850725a962b.jpg"
+        },
+        {
+          "url": "media/cached-image_5883cfa456bdd58f97cef7c9d70da97ce3fb9c6ca9d056ae8e4bf16238f15596.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 104,
+      "priceLevel": null,
+      "address": "Sugimori Shirohige Shrine, 2 Chome-1-6 Katsumi, Fukui, 910-0856, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/krTnB53YnFb3Af7NA",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "This small Shinto shrine in the Katsumi neighborhood appears in episode 7, serving as a quiet neighborhood landmark that Chitose passes on his rounds through the streets of Fukui."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq3qw-C2--F8Rwrucz0UEbpg",
+      "name": "Fukuirejarando Waipurazaten",
+      "localName": "フクイレジャーランド ワイプラザ店・福井あそびマーレ",
+      "coordinates": {
+        "lat": 36.0870923,
+        "lng": 136.2493096
+      },
+      "image": "https://cdn.animepilgrimage.com/places/109ccf9b-dc08-4e87-b528-4650802f3474.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/109ccf9b-dc08-4e87-b528-4650802f3474.webp"
+        },
+        {
+          "url": "media/cached-image_fb58ba99568f3482793b69ab91ab8950c2eb7238e9e352e2ad18dd2cef0c5820.jpg"
+        }
+      ],
+      "type": "Video arcade",
+      "categories": [
+        "Video arcade"
+      ],
+      "rating": 3.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒910-0838 Fukui, Shinbokita, 1 Chome−303 ヤスサキワイプラザB 棟2F Fukuirejarando Waipurazaten, ヤスサキワイプラザA棟2F",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qeTsCGUS74smkstr7",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The game center at Waiplaza mall appears in episode 7 as a typical teenage hangout spot, the kind of arcade where Chitose would orchestrate social situations to bring people out of their shells."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJce9rihK8-F8Rmgsjd8jlJUA",
+      "name": "Fukui Prefectural Library",
+      "localName": "福井県立図書館",
+      "coordinates": {
+        "lat": 36.0371634,
+        "lng": 136.2422986
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f759f6b3-0677-4212-8f4b-a510a9b8612e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f759f6b3-0677-4212-8f4b-a510a9b8612e.webp"
+        },
+        {
+          "url": "media/cached-image_59411ae50239a73f922dba1be495f98b120fa003350dcf6e57167b10e864c94d.jpg"
+        },
+        {
+          "url": "media/cached-image_d8ea964da58fbc823c37994606c65d1e619a6d83167ad0d826f044828752cdcd.jpg"
+        },
+        {
+          "url": "media/cached-image_9f44c32eeb4c2f75504ab67f4de0a3a976946ef16c11ab3b423103434d92ad44.jpg"
+        },
+        {
+          "url": "media/cached-image_7b55c7df5acd7de0f301b2b1ea2383ea3097e63b7d506755d45b7496555c39f0.jpg"
+        },
+        {
+          "url": "media/cached-image_0469bb78728558dc02523891aa48d46f230f513a90b9dfc67d66f28f9a31302f.jpg"
+        }
+      ],
+      "type": "Public library",
+      "categories": [
+        "Public library"
+      ],
+      "rating": 4.3,
+      "reviewCount": 115,
+      "priceLevel": null,
+      "address": "Fukui Prefectural Library, 51-11 Gebacho, Fukui, 918-8113, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/kRAM9cybTqAEreCC9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Fukui Prefectural Library appears in episode 5 as a study location, the setting for a scene where a bookish or isolated character is found by Chitose as part of his effort to reach out to loners."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chitose-ramune_14",
+      "name": "I Wai Nursing Home",
+      "localName": "特別養護老人ホーム あるば・あい",
+      "coordinates": {
+        "lat": 36.06111,
+        "lng": 136.23033
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f0ba446b-595d-4496-a6cb-12a258172d93.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f0ba446b-595d-4496-a6cb-12a258172d93.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/k9wqkUzHVgaPfnv17",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJedhrVPOa-F8R4bRGdkr_0VU",
+      "name": "Fukui Prefectural Consumers' Cooperative Hearts Dinosaur",
+      "localName": "福井県立恐竜博物館",
+      "coordinates": {
+        "lat": 36.0822889,
+        "lng": 136.5066612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a4c83d26-fd8f-494a-b17e-f6b62f38138a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a4c83d26-fd8f-494a-b17e-f6b62f38138a.webp"
+        },
+        {
+          "url": "media/cached-image_5ccd82b84cbdc34f1c4a29814ee1de7d62bf35ab5b1f0cbfa09b277c9dd8c46e.jpg"
+        }
+      ],
+      "type": "Natural history museum",
+      "categories": [
+        "Natural history museum"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukui Prefectural Dinosaur Museum, 51-11 Murokocho Terao, Katsuyama, Fukui 911-8601, Japan",
+      "city": "Katsuyama",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r1cBzmsaMbyuBfQJ9",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "The Fukui Prefectural Dinosaur Museum (one of the world's largest) features in episode 5 as a day-trip destination, with its futuristic dome shell and life-sized dinosaur exhibits providing a dramatic backdrop for character bonding outside of school.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJod60-KiOGGARzcq38CBviUQ",
+      "name": "IZUMI・BASHI bridge",
+      "localName": "和泉橋",
+      "coordinates": {
+        "lat": 35.6969358,
+        "lng": 139.7755006
+      },
+      "image": "https://cdn.animepilgrimage.com/places/303420ed-9a9f-45b7-9fa0-933c202756da.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/303420ed-9a9f-45b7-9fa0-933c202756da.webp"
+        },
+        {
+          "url": "media/cached-image_0b17bf662f97bf5b1bfe9fea6269951c5b4f08d621004bae9ca84ff5c1c285c9.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Izumi Bridge, 和泉橋 Chiyoda City, Tokyo 101-0026, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/e91XmQ1529LaWWMw5",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_chitose-ramune_17",
+      "name": "Galleria Pocket Park",
+      "localName": "ガレリアポケット公園",
+      "coordinates": {
+        "lat": 36.0612,
+        "lng": 136.22083
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5684ff70-55cb-4b15-96dc-255502444461.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5684ff70-55cb-4b15-96dc-255502444461.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/J64JeGUgX3kZP9Fs7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This small pocket park along Fukui city's Galleria shopping street appears in episode 4 as a passing landmark in the urban streetscape Chitose navigates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPxKs3cK_-F8RTiO4QZhpLIc",
+      "name": "Dormy Inn PREMIUM Fukui",
+      "localName": "ドーミーインPREMIUM福井",
+      "coordinates": {
+        "lat": 36.0613532,
+        "lng": 136.2178629
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ca6b1c1c-2e14-4ea9-b113-e5ddd167f944.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ca6b1c1c-2e14-4ea9-b113-e5ddd167f944.webp"
+        },
+        {
+          "url": "media/cached-image_fb050594aa208fdc230b553ca6e84a088d3cf4c5be1c6729445b5c59b2822be2.jpg"
+        },
+        {
+          "url": "media/cached-image_d28a24248a92491cd06679edc4f734672e6c422daec22cbacf9a8569f7673f7d.jpg"
+        },
+        {
+          "url": "media/cached-image_4aca0cb4f0cb9b934305c46f96c2c5346311983bc7047378a767fbd3d96d9255.jpg"
+        },
+        {
+          "url": "media/cached-image_62e7961772be38f4c030337f46322f8ff22d098dd81d6524e502812c337e3878.jpg"
+        },
+        {
+          "url": "media/cached-image_393a9d7ad5ab9d37dd3435e5a3ce6f3a83c88007969a9eb713b526d517d1486b.jpg"
+        }
+      ],
+      "type": "Japanese-style business hotel",
+      "categories": [
+        "Japanese-style business hotel"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Dormy Inn PREMIUM Fukui, 1 Chome-18-1 Central, Fukui, 910-0006, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PiHRjaYWbRKZ29fp9",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Dormy Inn hotel near Fukui Station appears in episode 4 as a landmark in the central Fukui townscape, part of the commercial district Chitose and his group move through."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6V3KpzYbVzURfeJ0Uuzgi00",
+      "name": "Itagaki Shrine",
+      "localName": "Iya Shrine",
+      "coordinates": {
+        "lat": 35.4307239,
+        "lng": 133.1539914
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a7d28a69-042b-40da-af8d-3aa7b694c422.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a7d28a69-042b-40da-af8d-3aa7b694c422.webp"
+        },
+        {
+          "url": "media/cached-image_910bbd6cce286e26beef5b80b3e56429c88cc14183883096bc7bd3226d7091f1.jpg"
+        },
+        {
+          "url": "media/cached-image_729d5bd6cb95bb20c04fb4979fbfe267d817dce2551fe85e9fcec51d13547e69.jpg"
+        },
+        {
+          "url": "media/cached-image_d8659d636f07a38c44ef04c49e0598768ede002a5e16d6ab0e925dd60b4942eb.jpg"
+        },
+        {
+          "url": "media/cached-image_84eadf54f6da62a206e47ef7129841987bf1dc863c44a85793719804ab2689e5.jpg"
+        },
+        {
+          "url": "media/cached-image_d1141db88b59228ec47f908228e942b5fe666ef935b2ab3e497a79ec0829240a.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 452,
+      "priceLevel": null,
+      "address": "Matsue, Shimane 690-0035",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9ge78KCSAJFT3J6A6",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkYyRJoePGGARSVqaujgpMpA",
+      "name": "Sumu Ueno East",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.709027299999995,
+        "lng": 139.7780281
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_011a910f035b7a41afd737b2280199c5d932c19084ef878c212b566646eea6d1.jpg"
+        },
+        {
+          "url": "media/cached-image_c8f2bc84ee91fec55f39ab19b14aca970ebd9a3b2ade784bee12f6d080a29a69.jpg"
+        },
+        {
+          "url": "media/cached-image_b6f87276c362476d9e8532f669ce47294079052b5307960db5206142bc81f28a.jpg"
+        },
+        {
+          "url": "media/cached-image_d00fc76340de4d88117ace1a8c815899420bc885de254c37265b0cbb3ea2e6eb.jpg"
+        }
+      ],
+      "type": "Extended stay hotel",
+      "categories": [
+        "Extended stay hotel"
+      ],
+      "rating": 4.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒110-0015 Tokyo, Taito City, Higashiueno, 2 Chome−12−1 Sumu Ueno East",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/R8TGnEouknehr5UT6",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJkcLwPfAtB2ARTfhXaspmGFc",
+      "name": "Sakaguchi Farm",
+      "localName": "阪口農園",
+      "coordinates": {
+        "lat": 34.282033,
+        "lng": 135.4574025
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67de7cfd-377d-4e47-8bc6-b3bfa9512281.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67de7cfd-377d-4e47-8bc6-b3bfa9512281.webp"
+        },
+        {
+          "url": "media/cached-image_e1ef44b3ba5c52dfd0abba50cb9bdd05bb2b7ee1435d1db63083ca0ef3176e3d.jpg"
+        }
+      ],
+      "type": "Orchard",
+      "categories": [
+        "Orchard"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sakaguchi Orchards, ４３３ Senoyama, Katsuragi, Ito District, Wakayama 649-7165, Japan",
+      "city": "Katsuragi",
+      "region": "Ito District, Wakayama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RFQTQHHjwkb9cdA86",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMQNDabaNGGARtqr4Fse8Ex8",
+      "name": "Hakusan Shrine (Dojima Hakusan Shrine Nishinomiya)",
+      "localName": "Nerima Hakusan Shrine",
+      "coordinates": {
+        "lat": 35.7406703,
+        "lng": 139.6503198
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d49e4ae0-0228-45d4-895d-e44362743d74.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d49e4ae0-0228-45d4-895d-e44362743d74.webp"
+        },
+        {
+          "url": "media/cached-image_16427445579e8d466640136937b8b181b76d82c984a7b6c74f6aca6f9495a91e.jpg"
+        },
+        {
+          "url": "media/cached-image_4619490010a10ce4764226289ec971b0bc57cb0f3b42cc08df8470d36aa63495.jpg"
+        },
+        {
+          "url": "media/cached-image_20c3ceae2f0f23c11ea7bb2fd7054014a8d2c351f84332db1dfabf1ed87c1342.jpg"
+        },
+        {
+          "url": "media/cached-image_9455f2c7e63df2d34573c3f8a82c7783b319be86b200e6f50795388fa023c6f7.jpg"
+        },
+        {
+          "url": "media/cached-image_a57e8b853b28f780253544862225071da3a81c405e536ecd542f70fe24d21255.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.1,
+      "reviewCount": 290,
+      "priceLevel": null,
+      "address": "Bunkyo City, Tokyo 112-0001",
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/JuMkV29gYM6Do5AQ7",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJq58H-fG--F8R9Kkg78bb82M",
+      "name": "Fukui Kuzuryu Land Improvement District Memorial Tower",
+      "localName": "福井城跡",
+      "coordinates": {
+        "lat": 36.0655648,
+        "lng": 136.22087879999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4beca81b-b80d-4302-8a35-813c32e0e4a4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4beca81b-b80d-4302-8a35-813c32e0e4a4.webp"
+        },
+        {
+          "url": "media/cached-image_5e9a6bbc987ee837703730ae457ceafbed44f1da8268fa4ef2b54ff15ebea0d7.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukui Castle Ruins, 3 Chome-17-1 Ote, Fukui, 910-0005, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mGCtvMtuESYphEdr6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "The Fukui Castle ruins (福井城跡), whose address this location shares, appear in episode 4 as part of Fukui's historic city center, a recognizable local landmark in the background of city scenes."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhc49f-EdGWARpLJBstOJhhY",
+      "name": "Owadacho (Bus)",
+      "localName": "大和田",
+      "coordinates": {
+        "lat": 35.662175999999995,
+        "lng": 139.34984
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0cea9a35-a599-4e4d-8384-9484263bd707.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0cea9a35-a599-4e4d-8384-9484263bd707.webp"
+        },
+        {
+          "url": "media/cached-image_e4a4ec5aa6d1062357743399238b8f0bbeb75455cbdf27a3428a03d1542a46b6.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Owada, 3-chōme-21 Ōwadamachi, Hachioji, Tokyo 192-0045, Japan",
+      "city": "Hachioji",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0940745,136.2575323,3a,78y,273.96h,93.86t/data=!3m7!1e1!3m5!1ssJrYhWp2WP18W_DWjrDDeA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8627713772893486%26panoid%3DsJrYhWp2WP18W_DWjrDDeA%26yaw%3D273.96144871059056!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA38CzNmRQTURlyz_6Y3XA-8",
+      "name": "Higashi Park",
+      "localName": "東公園",
+      "coordinates": {
+        "lat": 33.6053269,
+        "lng": 130.4194284
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8fddd86f-31f3-42d0-a245-e71a633764ac.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8fddd86f-31f3-42d0-a245-e71a633764ac.webp"
+        },
+        {
+          "url": "media/cached-image_b72bacbb0ece6ba570ca9d4eba5ed4e2eda958e361cc75f33f437b625bf8fce4.jpg"
+        },
+        {
+          "url": "media/cached-image_5f0c0818838d3de7139f6b15acb4405c422421a3550c3da081fd1ce752570dc2.jpg"
+        },
+        {
+          "url": "media/cached-image_07fa746d2002870a98cc5902923ce96c982353919de4a811f4dc6b364672a8c3.jpg"
+        },
+        {
+          "url": "media/cached-image_2c634a767df7884dfbc86361b0b26e57625427b971036f316dc788ccb5ed49cb.jpg"
+        },
+        {
+          "url": "media/cached-image_f077a51d1efc1d672f4e6683f2136c66efdcd623b0cf1ed5e47015f33f5428c8.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 87,
+      "priceLevel": null,
+      "address": "Higashi Park, 5 Higashikoen, Hakata Ward, Fukuoka, 812-0045, Japan",
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0562822,136.2241159,3a,42.1y,235.79h,90.93t/data=!3m7!1e1!3m5!1sSdiZchoghdHVe7p3ZF5e_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9270231425347788%26panoid%3DSdiZchoghdHVe7p3ZF5e_A%26yaw%3D235.79241400184532!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJR6ItndW_-F8RGhVGJCi1lLA",
+      "name": "Starbucks Coffee - Fairmall Fukui",
+      "localName": "スターバックス コーヒー フェアモール福井店",
+      "coordinates": {
+        "lat": 36.0965431,
+        "lng": 136.2517799
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27b611ba-10dc-409d-9e27-4fecfe43f6f8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27b611ba-10dc-409d-9e27-4fecfe43f6f8.webp"
+        },
+        {
+          "url": "media/cached-image_588f969c4b99f68aac7aaad1a183ee17e17e1e8a76d6eb5adbc61318e42d0be5.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Starbucks Coffee - Fairmall Fukui, フェアモール福井 2 Chome-1230 Owada, Fukui, 910-0836, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0967237,136.2520909,3a,47.1y,244.67h,92.64t/data=!3m7!1e1!3m5!1shKoVmJk_1MCANt7dKAKO8g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6386563508584686%26panoid%3DhKoVmJk_1MCANt7dKAKO8g%26yaw%3D244.6659123404334!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Starbucks inside Fairmall Fukui is shown in episode 3 as a meeting spot, the kind of chain cafe where Chitose engineers casual encounters to draw reclusive classmates into his social orbit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6fgqAX6V-F8R86cVEz40pOo",
+      "name": "Fairmall Fukui",
+      "localName": "フェアモール福井",
+      "coordinates": {
+        "lat": 36.0961492,
+        "lng": 136.2502839
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4fd1fabe-3a70-4daf-a1a6-cf2f11d526a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4fd1fabe-3a70-4daf-a1a6-cf2f11d526a8.webp"
+        },
+        {
+          "url": "media/cached-image_fb09c8c4f5c3018c2165e2a8a17aac12b6b4d801560ccf6734a6a3c52d20427e.jpg"
+        }
+      ],
+      "type": "Shopping mall",
+      "categories": [
+        "Shopping mall"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fairmall Fukui, 2 Chome-1230 Owada, Fukui, 910-0836, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0961361,136.2518371,3a,40.7y,276.67h,92.92t/data=!3m7!1e1!3m5!1sQH3Dpxctf0fozP2LO0E04w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.915293052208682%26panoid%3DQH3Dpxctf0fozP2LO0E04w%26yaw%3D276.6722394235163!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Fairmall Fukui, a large suburban shopping mall, is featured in episode 3 as the main setting for a group outing where Chitose orchestrates a social situation to help Kenta connect with classmates.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJx2vec3q--F8RXWX7TdpyXgE",
+      "name": "JA Kinesha Aisaikan",
+      "localName": "ＪＡ福井県 喜ね舎 愛菜館",
+      "coordinates": {
+        "lat": 36.065227,
+        "lng": 136.25646899999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bd352a8b-309a-43d6-970d-8f8d30c07bff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bd352a8b-309a-43d6-970d-8f8d30c07bff.webp"
+        },
+        {
+          "url": "media/cached-image_4103536e1c24eb274ec6b7164c2b1180629e03486c2cb0ec66a46db5fd773656.jpg"
+        },
+        {
+          "url": "media/cached-image_63af2d7afa82efa6fab3dd959e13cea971482ae07b5c1cc689c74675c195a0b2.jpg"
+        },
+        {
+          "url": "media/cached-image_72ef8beb941f12de8193f1767cb2614421cac0988c5bf7de43bbbc3856af4f7a.jpg"
+        },
+        {
+          "url": "media/cached-image_85e07c62cec1959af589c2f9495a06e603d2af6a59ac5d483cff4e26150c2627.jpg"
+        }
+      ],
+      "type": "Farmers' market",
+      "categories": [
+        "Farmers' market"
+      ],
+      "rating": 3.9,
+      "reviewCount": 129,
+      "priceLevel": null,
+      "address": "JA Kinesha Aisaikan, 9-10-1 Komasucho, Fukui, 918-8218, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0654022,136.2595259,3a,45.3y,181.29h,95.72t/data=!3m7!1e1!3m5!1sU2LflDb-7NWhTtF9beEraA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.72020263091413%26panoid%3DU2LflDb-7NWhTtF9beEraA%26yaw%3D181.2914690320488!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This JA farmers' market cooperative appears in episode 1 as part of the Fukui suburban landscape, establishing the everyday provincial backdrop against which Chitose's social maneuvering plays out."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjZ6gJ4q--F8RPfYq7jShiG4",
+      "name": "Fukuiginkosakuradori Shiten",
+      "localName": "福井銀行さくら通り支店",
+      "coordinates": {
+        "lat": 36.064289099999996,
+        "lng": 136.2376684
+      },
+      "image": "https://cdn.animepilgrimage.com/places/060c2240-969f-4fb2-91a2-1fa8dacc8a6a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/060c2240-969f-4fb2-91a2-1fa8dacc8a6a.webp"
+        },
+        {
+          "url": "media/cached-image_36f70ef92316e327327215f0019cf07882a542c94a6bce02732523f277fe1ae2.jpg"
+        }
+      ],
+      "type": "Bank",
+      "categories": [
+        "Bank"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukuiginkosakuradori Shiten, 1 Chome-1-1 Yonematsu, Fukui, 910-0851, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0640066,136.2374363,3a,76.3y,9.46h,98.57t/data=!3m7!1e1!3m5!1sgL1I_pF0DVkEuqcT5Hvzcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.56959663426153%26panoid%3DgL1I_pF0DVkEuqcT5Hvzcw%26yaw%3D9.464998440839336!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Fukui Bank Sakura-dori branch appears in episode 1 as a streetscape element along a main Fukui road, part of the authentic city backdrop that grounds the anime in real Fukui."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJa7Pzkey--F8ROZgZ9Uhflo4",
+      "name": "Fruits Umeda Fukui-Ekimae Main Store",
+      "localName": "フルーツのウメダ 福井駅前本店",
+      "coordinates": {
+        "lat": 36.061924399999995,
+        "lng": 136.21970589999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d7d2b645-d15c-4ff7-a6f3-96e9d50bd773.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d7d2b645-d15c-4ff7-a6f3-96e9d50bd773.webp"
+        },
+        {
+          "url": "media/cached-image_5f19c3f1fc94d20a432699893d3a995720c190ade857db890f22c19644eea5b1.jpg"
+        }
+      ],
+      "type": "Dessert restaurant",
+      "categories": [
+        "Dessert restaurant"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fruits Umeda, フルーツのウメダ 福井駅前本店 1 Chome-9-23 Central, Fukui, 910-0006, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0620647,136.2197464,3a,90y,14.49h,93.64t/data=!3m7!1e1!3m5!1s3fGeEw-dqRLlS1s8Gu0HcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.639622889882176%26panoid%3D3fGeEw-dqRLlS1s8Gu0HcQ%26yaw%3D14.485254208595745!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This long-standing fruit parlor near Fukui Station appears in episode 1, its old-fashioned shopfront establishing the character of the local Fukui shopping district where characters first appear."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ2Ate4m--F8RdAfAofLw4sQ",
+      "name": "Arakawayu",
+      "localName": "荒川湯",
+      "coordinates": {
+        "lat": 36.0633122,
+        "lng": 136.23700069999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/cc360af6-901d-426e-92fa-c7b092be981c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/cc360af6-901d-426e-92fa-c7b092be981c.webp"
+        },
+        {
+          "url": "media/cached-image_15f17269fb020932cd1a57a5705794e565848d1de1f598d62e78b932b7303b76.jpg"
+        }
+      ],
+      "type": "Sento",
+      "categories": [
+        "Sento"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Arakawayu, 6-45 Matsushirocho, Fukui, 910-0852, Japan",
+      "city": "Fukui",
+      "region": "Fukui",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.0629966,136.2369097,3a,59.8y,59.32h,94.85t/data=!3m7!1e1!3m5!1s3GbStkiuj3wocKHWh7mCEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.853165880625397%26panoid%3D3GbStkiuj3wocKHWh7mCEA%26yaw%3D59.32082953944944!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Arakawayu, a traditional public bathhouse (sento) in Fukui, appears in episode 1 in a scene that highlights the everyday local color of the city and gives the viewer an immediate sense of Fukui's community life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJScLILb-OGGARaG4VCipgC8c",
+      "name": "Tawaramachi (Bus)",
+      "localName": "田原町駅",
+      "coordinates": {
+        "lat": 35.7098833,
+        "lng": 139.7907335
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed91c32a-807d-4f10-b27a-88491e9fbd5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed91c32a-807d-4f10-b27a-88491e9fbd5c.webp"
+        },
+        {
+          "url": "media/cached-image_0d43191968442a2ad11d470b48e33e5e6eb55c6cb0a9ca3c1fafdc3ce74d9d6e.jpg"
+        }
+      ],
+      "type": "Subway station",
+      "categories": [
+        "Subway station"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tawaramachi Station, 1 Chome-1-18 Nishiasakusa, Taito City, Tokyo 111-0035, Japan",
+      "city": "Taito City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qNbE5zNgkMovRoCJA",
+      "episodeType": "ED",
+      "episodeNumber": 2
+    }
+  ]
+}

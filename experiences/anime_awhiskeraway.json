@@ -1,0 +1,1010 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "A Whisker Away",
+  "slug": "a-whisker-away",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_d227d7b2efd38e84ed313d7d445da6c08bc297e1d1079f70be20152e796a84f2.webp",
+  "image": "media/cached-image_d227d7b2efd38e84ed313d7d445da6c08bc297e1d1079f70be20152e796a84f2.webp",
+  "banner": null,
+  "primaryLocation": "Aichi, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.0485016,
+    "lng": 136.96154774814815
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "A Whisker Away"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJIW0uPRUPAWAR6eI6dRzKGns",
+      "name": "Fushimi Inari Taisha",
+      "localName": "伏見稲荷大社",
+      "coordinates": {
+        "lat": 34.96651,
+        "lng": 135.77544
+      },
+      "image": "https://cdn.animepilgrimage.com/places/617a56f2-45f4-4e2f-aa2d-3a52cc19f68a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/617a56f2-45f4-4e2f-aa2d-3a52cc19f68a.webp"
+        },
+        {
+          "url": "media/cached-image_4fcb6daf18f7cd9529d66317c41ea862a306a27ab70e95bbca6c5e0533462cb5.jpg"
+        },
+        {
+          "url": "media/cached-image_69ceccfc4caf7efd347bccc191090d906a9707c9b2c552fcb65f607432800fa3.jpg"
+        },
+        {
+          "url": "media/cached-image_9eae7b209f492bba34a5616c9a54c874a450aae81aa9b9898a87299b62caee04.jpg"
+        },
+        {
+          "url": "media/cached-image_ba3b534b795b91eeff183815f18c7ed920b0dc8593a46f43fed0e4fcd664ba4a.jpg"
+        },
+        {
+          "url": "media/cached-image_baf7496d5e6985cf7a66ea682109be6835e51edc795b1989b2af07a7203692a2.jpg"
+        },
+        {
+          "url": "media/cached-image_d7f422a44f4460f9b50da83f16ca59b2792c76149af22dd074da4ef8b1e533db.jpg"
+        },
+        {
+          "url": "media/cached-image_3ebba79e37342b8be84a3023f07b159085b9bfa57e316c56d577732dc2d6aff7.jpg"
+        },
+        {
+          "url": "media/cached-image_3507b5df0a7a2841c7b14363b4c928453cd333c612d775de33b5df62ba7593a2.jpg"
+        },
+        {
+          "url": "media/cached-image_84356dfa8b4274054c79daa863168128b640d0f080f7431c32de7e0ae4090bdb.jpg"
+        },
+        {
+          "url": "media/cached-image_038f050b5fc35d2da996616dc41ec94f2162564c2e1794b57e5d5619b6db441d.jpg"
+        },
+        {
+          "url": "media/cached-image_b6992e3a96ef09d28fcc18028433cb960548437d8070d676dbf5c2385b32e780.jpg"
+        },
+        {
+          "url": "media/cached-image_3c80f01a23de59ecfd8f5302858ef6c06fde271ed64f75306405c7479aa477e2.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4.6,
+      "reviewCount": 88341,
+      "priceLevel": null,
+      "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PVYSvipRiSTgayji7",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The iconic torii tunnel at Fushimi Inari stands in for the spirit-world gateway where Miyo, transformed into a cat, roams among other shapeshifters. The densely stacked vermilion gates mirror the liminal boundary between her human life and the cat realm she is increasingly drawn into.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf4XZmj6HBGARcfzsfsqRln8",
+      "name": "Ishimizu Kiln Plaza",
+      "localName": "窯のある広場・資料館（INAXライブミュージアム総合受付）",
+      "coordinates": {
+        "lat": 34.8815473,
+        "lng": 136.8490345
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72dff611-9f88-4059-9007-a36e5fea57e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72dff611-9f88-4059-9007-a36e5fea57e8.webp"
+        },
+        {
+          "url": "media/cached-image_fb03065fa600cffcebb13327ac69fc2eca834388599b3ec9b748011b391c28a2.jpg"
+        },
+        {
+          "url": "media/cached-image_dd2d5ecb1edeedad79e5eb87b68b7559e6d68c693d94c79b6f46aa3e7b20b51e.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": 3.8,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Kiln Plaza, 1 Chome-130 Okueicho, Tokoname, Aichi 479-8586, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8865076,136.8404948,3a,90y,291.07h,88.59t/data=!3m7!1e1!3m5!1sHz6vOGe6c9I5Ens1UV5dug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.4099999999999966%26panoid%3DHz6vOGe6c9I5Ens1UV5dug%26yaw%3D291.07!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The INAX Live Museum's kiln plaza in nearby Tokoname appears as background reference for the industrial pottery heritage that defines the town's visual character in the film. The brick kiln structures visible here informed the animators' depiction of Tokoname's distinctive ceramic manufacturing landscape."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_2",
+      "name": "nuu",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.88922,
+        "lng": 136.83885
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2260cbb6-058d-4f2a-a803-ba5c81471f43.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2260cbb6-058d-4f2a-a803-ba5c81471f43.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8892059,136.8388481,3a,90y,329.09h,100.3t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgID4-f-vJA!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha4gBo5ghnvgcSgPeHtm1ejOV0VQu3D_ghEHPwI7vrC4Kvwqhwnxnbds036wz0dVwim74PINGJt3SxhcGlTUkx5CYJ05WaAvrg9vbiCtEvXqjmLyPUwcXlJ4ORlGoAObR4M6cVS%3Dw900-h600-k-no-pi-10.299941387735458-ya352.1424653901518-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGYe6mE6HBGARe6gJIunYaGo",
+      "name": "FamilyMart; Tokoname Sakaemachi",
+      "localName": "ファミリーマート 常滑栄町店",
+      "coordinates": {
+        "lat": 34.8872645,
+        "lng": 136.838546
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc3712a0-8552-4351-b868-10e6dabb124e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc3712a0-8552-4351-b868-10e6dabb124e.webp"
+        },
+        {
+          "url": "media/cached-image_67a3d6adc87327aa7aa468719519ab70b146c7166bc68cb06768f78d30007d52.jpg"
+        },
+        {
+          "url": "media/cached-image_00674a16e0b2ea94d7bfc17af24752c267c59ff0aeb19e8647e3fd8ecbc28b37.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 2.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart; Tokoname Sakaemachi, 4 Chome-94-1 Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8871695,136.8382626,3a,46.9y,39.29h,97.78t/data=!3m7!1e1!3m5!1s91idlRfWqNsbU8DwEHm1TA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.777007836094469%26panoid%3D91idlRfWqNsbU8DwEHm1TA%26yaw%3D39.29491223077367!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This FamilyMart on Tokoname's Sakaemachi street sits within the core pilgrimage district and its building facade appears in pilgrimage photo comparisons of the film's street scenes set in the Sakaemachi shopping area where Miyo's daily life unfolds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4drdzGyBBGARbxZjt8CwngQ",
+      "name": "House Do Tokoname",
+      "localName": "ハウスドゥ 常滑",
+      "coordinates": {
+        "lat": 34.889548999999995,
+        "lng": 136.837349
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3a2a119c-59cf-40ab-8990-cea4dd8c33e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3a2a119c-59cf-40ab-8990-cea4dd8c33e8.webp"
+        },
+        {
+          "url": "media/cached-image_76fc740c6e04e0831f38b81701fc51f2e74af9014e288cab49cc332878ca445f.jpg"
+        }
+      ],
+      "type": "Real estate agent",
+      "categories": [
+        "Real estate agent"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "House Do Tokoname, 2 Chome-1 Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8896595,136.8369615,3a,61.1y,221.69h,92.09t/data=!3m7!1e1!3m5!1sr64ACZFFys_v062vkRFh7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.089047489702793%26panoid%3Dr64ACZFFys_v062vkRFh7g%26yaw%3D221.6935081374494!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk_47Tk2HBGARbF1Czf5eW6c",
+      "name": "Tokoname Station",
+      "localName": "常滑駅",
+      "coordinates": {
+        "lat": 34.890326099999996,
+        "lng": 136.8356073
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0248d44f-56ef-4575-9ba8-0da619fa7fe9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0248d44f-56ef-4575-9ba8-0da619fa7fe9.webp"
+        },
+        {
+          "url": "media/cached-image_add89dd413c8d3735bf64770ee0583c23ee907c47ecafac8d4c542996617b7cb.jpg"
+        },
+        {
+          "url": "media/cached-image_b4fe04f02ed6e2e9214fd04bfeeef62625012b3f9ab21525f0e9439bdefb0fd4.jpg"
+        }
+      ],
+      "type": "Train station",
+      "categories": [
+        "Train station"
+      ],
+      "rating": 3.9,
+      "reviewCount": 33,
+      "priceLevel": null,
+      "address": "Tokoname Station, 5-chōme Koiehonmachi, Tokoname, Aichi 479-0838, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Tokoname+Station/@34.8897903,136.8356284,3a,76.6y,348.2h,95.21t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4-cWZRA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbtU3G_fgeIBOvIZa2lmx6NJJm_-jNVc4m8sEaniZ1EnvvYt6CxYpMilXJOvKFzxJ1FA9uBPu9_CS0M6XNesltmCmG4DqgUMu43p5KkYTQ3rzx3bDqRTFuxCQiIThiQcgASnRU%3Dw900-h600-k-no-pi-5.208311614051311-ya14.046054855418504-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6004874d4e3bfe93:0xa75b5efecd425d6c!8m2!3d34.8903261!4d136.8356073!10e5!14m1!1BCgIgARICCAI!16s%2Fm%2F0640lgl?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Tokoname Station appears in several transitional scenes as Miyo commutes and as Kento catches trains, grounding the film's setting in the real Meitetsu Tokoname Line. The station's exterior and platform shots are directly matched by pilgrims comparing freeze-frames to the actual location.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_6",
+      "name": "Novelties T&T",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.88697,
+        "lng": 136.83968
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c3feaf04-f99b-4bda-b66d-d2ecc1f1a94e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c3feaf04-f99b-4bda-b66d-d2ecc1f1a94e.webp"
+        },
+        {
+          "url": "media/cached-image_d32b8f3217cbb6299d91849093f6df0b214bbc68425433cb72e83b4a5f2b859f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8867362,136.8397109,3a,48.7y,352.34h,90.49t/data=!3m7!1e1!3m5!1stAUjbeRXoqihuFLaaTABtw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4904819365540334%26panoid%3DtAUjbeRXoqihuFLaaTABtw%26yaw%3D352.34382895721865!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_7",
+      "name": "Novelties T&T",
+      "localName": null,
+      "coordinates": {
+        "lat": 34.88722,
+        "lng": 136.83952
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7feeb0ce-33c4-4688-85f7-5ebdc36f57ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7feeb0ce-33c4-4688-85f7-5ebdc36f57ad.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.88737,136.8395131,3a,51.4y,180.22h,84.9t/data=!3m7!1e1!3m5!1s2A1VaULZu1psiQnyScqsSg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.104114355560199%26panoid%3D2A1VaULZu1psiQnyScqsSg%26yaw%3D180.22128424323125!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_8",
+      "name": "Kitajo park",
+      "localName": "北条公園",
+      "coordinates": {
+        "lat": 34.89475,
+        "lng": 136.84761
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74eef255-545b-49c9-94ff-3a9469f05314.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74eef255-545b-49c9-94ff-3a9469f05314.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8948679,136.8473675,3a,69.2y,90.37h,100.11t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4-ZPF4wE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HaGC69C2fQu0gNPu_MT2ABOyji26pwJcQ9sAhjMioNw-eblRPO0mbl1Rphx3spW9Ny7XPpSQ-vq_Y0-iiqprfRvGYjuptYA5MxVv6qmbqxlOF9Dcm5mmzrhZGQu0k1Gn0mnrkgMPA%3Dw900-h600-k-no-pi-10.109158515800274-ya50.370302269829935-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Kitajo Park in Tokoname appears in outdoor scenes as a neighborhood public space near Miyo's home area, its unassuming greenery forming part of the quiet residential backdrop that grounds the film's portrayal of an ordinary Japanese small city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJGXJkU_x3A2ARHY31Hkng1R4",
+      "name": "Daphne Coffee House Esca Branch",
+      "localName": "ダフネ珈琲館 エスカ店",
+      "coordinates": {
+        "lat": 35.1700969,
+        "lng": 136.8807187
+      },
+      "image": null,
+      "images": [],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Daphne Coffee House Esca Branch, 6-9先 Tsubakicho, Nakamura Ward, Nagoya, Aichi 453-0015, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8923608,136.8456974,3a,63.8y,194.3h,97.21t/data=!3m7!1e1!3m5!1sS7UOoKhjlXZF8W2RuK8woQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.210664710102165%26panoid%3DS7UOoKhjlXZF8W2RuK8woQ%26yaw%3D194.3034288954678!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT16vJjqHBGARbo0TscYluFA",
+      "name": "Tokoname Tou no Mori Museum",
+      "localName": "とこなめ陶の森資料館",
+      "coordinates": {
+        "lat": 34.8866102,
+        "lng": 136.84988669999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/859d2308-4b04-40e1-9184-77f3fa289244.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/859d2308-4b04-40e1-9184-77f3fa289244.webp"
+        },
+        {
+          "url": "media/cached-image_75b5222a6346fdb0f00b675e603c52c6b0fce646b23ecd6fd8ebd56de174ef37.jpg"
+        }
+      ],
+      "type": "Museum",
+      "categories": [
+        "Museum"
+      ],
+      "rating": null,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "Tokoname Tou no Mori Museum, 4 Chome-４-203 Segicho, Tokoname, Aichi 479-0821, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8860382,136.849725,3a,42.5y,184.12h,88.16t/data=!3m7!1e1!3m5!1sT5bJax3ZCeiVkmVNhuIHsA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.8385275876395326%26panoid%3DT5bJax3ZCeiVkmVNhuIHsA%26yaw%3D184.1210425000636!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Tou no Mori ceramics museum sits within the pottery district that forms the film's backdrop, and pilgrimage guides reference the area's museum cluster as part of the broader Tokoname setting the filmmakers drew from. The surrounding landscape of kilns and exhibition spaces informs the town's visual identity in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJizNOCkaHBGARXDyCVwDEgnQ",
+      "name": "Tokonametaiyashokai",
+      "localName": "常滑タイヤ商会",
+      "coordinates": {
+        "lat": 34.8827092,
+        "lng": 136.83987829999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0dc16b6a-8800-48d2-b79f-a28e19b4cb53.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0dc16b6a-8800-48d2-b79f-a28e19b4cb53.webp"
+        },
+        {
+          "url": "media/cached-image_8c99ee9b00a35e084cc1e519c00a44c878c9b6a734a4595d2f454c8a3aa9652a.jpg"
+        }
+      ],
+      "type": "Tire shop",
+      "categories": [
+        "Tire shop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tokonametaiyashokai, 2 Chome-200 Honmachi, Tokoname, Aichi 479-0829, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8824204,136.8399047,3a,47.5y,347.04h,94.82t/data=!3m7!1e1!3m5!1sr1sgULZg4JeTdZtclnKIKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.823789274711132%26panoid%3Dr1sgULZg4JeTdZtclnKIKQ%26yaw%3D347.0389751573165!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This local shop front in Tokoname's Honmachi area appears in background street scenes as part of the authentic working-town texture the animators captured. Its weathered storefront represents the kind of lived-in commercial streetscape visible throughout Miyo's neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_12",
+      "name": "Nishi-Ano Shellfish Gathering Beach",
+      "localName": "西阿野潮干狩り場",
+      "coordinates": {
+        "lat": 34.86752,
+        "lng": 136.8523
+      },
+      "image": "https://cdn.animepilgrimage.com/places/344518dd-3441-424c-b041-92d93050bc98.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/344518dd-3441-424c-b041-92d93050bc98.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8676654,136.8527161,3a,41.6y,246.21h,95.14t/data=!3m7!1e1!3m5!1sbofx7kiIDZFYvhZRFmD5aA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.144340938024072%26panoid%3Dbofx7kiIDZFYvhZRFmD5aA%26yaw%3D246.20944507390297!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This tidal flat along Ise Bay near Tokoname appears in the film's seaside scenes depicting the quiet coastal backdrop of Miyo's hometown. The wide mudflat vistas at low tide contribute to the film's melancholy seaside atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJpz3XD9JwA2ARCYI6NXqun5A",
+      "name": "Apple Tokoname",
+      "localName": "Apple 名古屋栄",
+      "coordinates": {
+        "lat": 35.165492,
+        "lng": 136.906979
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ef73e41d-963d-4c77-90dd-450057c2b71f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ef73e41d-963d-4c77-90dd-450057c2b71f.webp"
+        },
+        {
+          "url": "media/cached-image_0d6a7a141f52517123bfff500e72d880a768a057f87d7b8dda133e1119b45a4e.jpg"
+        }
+      ],
+      "type": "Electronics store",
+      "categories": [
+        "Electronics store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Apple 名古屋栄, エフエックスビル 3 Chome-17-15 Sakae, Naka Ward, Nagoya, Aichi 460-0008, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.892829,136.8427334,3a,74y,41.64h,96.51t/data=!3m7!1e1!3m5!1sGee624Y_qomKl-sVSULrSw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.510633969669783%26panoid%3DGee624Y_qomKl-sVSULrSw%26yaw%3D41.643937698430435!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK463EkyHBGAR-bzxGR80MdA",
+      "name": "Sabo Tanpopo",
+      "localName": "茶房 たんぽぽ",
+      "coordinates": {
+        "lat": 34.889012799999996,
+        "lng": 136.83910459999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41837348-450e-44b8-9680-b484aa03b821.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41837348-450e-44b8-9680-b484aa03b821.webp"
+        },
+        {
+          "url": "media/cached-image_ff424f1d07b9ac8971cb0e195d40624a58c8a32fdd8a9956c47ddd1ac4a78de8.jpg"
+        }
+      ],
+      "type": "Cafe",
+      "categories": [
+        "Cafe"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Sabo Tanpopo, 2 Chome-88 Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8888547,136.8392092,3a,90y,288.1h,70.4t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4-ZPFqwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HZzmAU64MfwFQj_0PPT8Cw-e3m6YPHUQRCj-0Vq0S7pTsphQ3MSKSrep7ieiRmr3Y_byX7p5nUwQXXT4LwMFEjt8GZbK-3Rn2toBbnXDnnzDwxBTNWSbKpEzTJVyAOaUradSOmpnA%3Dw900-h600-k-no-pi19.598718243041006-ya266.7218400149349-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sabo Tanpopo, a small cafe tucked into Tokoname's Sakaemachi district, is cited by pilgrimage guides as a location background in the film's street scenes. The old-fashioned storefront architecture blends into the townscape that the animators recreated in the film."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJrcZWHUyHBGAR6_3pb6ISLDM",
+      "name": "The Takita House (shipping dealer)",
+      "localName": "廻船問屋 瀧田家",
+      "coordinates": {
+        "lat": 34.887895,
+        "lng": 136.83918599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3eff4fde-2a63-4e7f-ba54-1cad172d177a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3eff4fde-2a63-4e7f-ba54-1cad172d177a.webp"
+        },
+        {
+          "url": "media/cached-image_9d4b5e760ac43720660945a2be46726e065ad6092d76b1a7dc2fc606a9009115.jpg"
+        },
+        {
+          "url": "media/cached-image_3cdb287a3acfb545484d35efbd5a09ced7fbc353c739216157e2077a6c54fd3f.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 3.9,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "The Takita House (shipping dealer), 4 Chome-75 Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8878743,136.8394293,3a,90y,256.5h,93.6t/data=!3m7!1e1!3m5!1s88j5_nKfcW-I7ULCp5_GgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5999999999999943%26panoid%3D88j5_nKfcW-I7ULCp5_GgA%26yaw%3D256.5!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Edo-period Takita merchant house, with its distinctive earthen walls and latticed facade, is reflected in the historical streetscape backgrounds visible as Miyo wanders Tokoname's Sakaemachi district. Its preserved architecture contributes to the film's lived-in, timeless quality of the town."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_fTz9UuHBGAR9x7ADIKLBrU",
+      "name": "Tokoname Pottery Footpath",
+      "localName": "やきもの散歩道",
+      "coordinates": {
+        "lat": 34.8875305,
+        "lng": 136.83967049999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/67c31645-205b-4a9c-b213-2dcf3e04ca5c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/67c31645-205b-4a9c-b213-2dcf3e04ca5c.webp"
+        },
+        {
+          "url": "media/cached-image_34ddfce22bb05fe5ca4249ac6dcb744d3a26aa97d9cb2da0d385643b44821bf9.jpg"
+        },
+        {
+          "url": "media/cached-image_0b064955f361a9e3e05d6f943b086e0c54277cf0e4c31cc529c7b99daa46f760.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.2,
+      "reviewCount": 424,
+      "priceLevel": null,
+      "address": "Tokoname Pottery Footpath, Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8874622,136.8395998,3a,72.5y,38.06h,105.12t/data=!3m7!1e1!3m5!1sOROTbai68HAFZvZ-FHsTNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.124678805316805%26panoid%3DOROTbai68HAFZvZ-FHsTNA%26yaw%3D38.056257664168385!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Tokoname's famous Yakimono Sanpomichi is the central street of Miyo's daily life, its old kiln-chimney walls and ceramic-studded paths appearing throughout the film as she walks to school or slips away to find Kento. This winding lane is the most-photographed pilgrimage spot for fans recreating the film's atmospheric townscape.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNTmglvgHAWARZHAX5Ktz0D4",
+      "name": "Daizenin",
+      "localName": "大仙院",
+      "coordinates": {
+        "lat": 35.044508199999996,
+        "lng": 135.7457547
+      },
+      "image": "https://cdn.animepilgrimage.com/places/628e04da-d020-4d5c-a85d-af04be4a675d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/628e04da-d020-4d5c-a85d-af04be4a675d.webp"
+        },
+        {
+          "url": "media/cached-image_aea944462116477b9261423199644d3086e0e25511ddac4dcfe493305432e799.jpg"
+        },
+        {
+          "url": "media/cached-image_eafb092d48b3fa7974ed751d5932631f64e88eb5b61090145d6319a49c6fec1a.jpg"
+        },
+        {
+          "url": "media/cached-image_969a43d3f6be850340c87e79d0d54b243d57eb040a85202f222024d2598cb471.jpg"
+        },
+        {
+          "url": "media/cached-image_6cf10e7391b7aab7c0e0fd5ea6956107073eb40be42993166bb33e0a142b0f3d.jpg"
+        },
+        {
+          "url": "media/cached-image_7f02db08330da95d119563c68fc115b045ac4e86b3bad913d43c1cac6ff53ac7.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.2,
+      "reviewCount": 488,
+      "priceLevel": null,
+      "address": "Daisen-in Temple, 54-1 Murasakino Daitokujicho, Kita Ward, Kyoto, 603-8231, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8857393,136.8493706,3a,56y,151.97h,82.74t/data=!3m7!1e1!3m5!1skMF0oK0mPvuDa7y4U23PEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.259769506690063%26panoid%3DkMF0oK0mPvuDa7y4U23PEw%26yaw%3D151.97116183142654!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_18",
+      "name": "Kamasaka",
+      "localName": "窯坂",
+      "coordinates": {
+        "lat": 34.88714,
+        "lng": 136.8409
+      },
+      "image": "https://cdn.animepilgrimage.com/places/95d09995-4a90-46e1-b670-fc6a3b76b532.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/95d09995-4a90-46e1-b670-fc6a3b76b532.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8869958,136.8409271,3a,89.9y,311.11h,102.2t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID-4pqixQE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HY2Zo9_OgzhR0LRxdRYkIBkDNLp3OJS-qYN87NB7NQtLQwvow3Lvoor-RuNt0DlzGBOW7xRDQLIpmmiT1h5OFFphuMIqVekRbvroQc-2axcQp0nANL4GAseesWTTcc9TneOKp4KRw%3Dw900-h600-k-no-pi-12.204176299069914-ya311.1082918236993-ro0-fo100!7i16062!8i8031?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Kamasaka, the kiln slope path lined with ceramic pipe sculptures and brick walls, is a signature Tokoname location that appears in the film's background art as Miyo dashes through the old pottery district. Pilgrims specifically seek out this slope to recreate the film's distinctive streetscape compositions.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_19",
+      "name": "Ichiki Bridge",
+      "localName": "一木橋",
+      "coordinates": {
+        "lat": 34.89035,
+        "lng": 136.84
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f262677a-4175-4358-a381-649df9f46517.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f262677a-4175-4358-a381-649df9f46517.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8903311,136.8400174,3a,69y,138.64h,101.19t/data=!3m7!1e1!3m5!1sT2Q348tvoVADtHlzEdrrHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.194081059189344%26panoid%3DT2Q348tvoVADtHlzEdrrHA%26yaw%3D138.64309473291135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The small Ichiki Bridge over a local waterway in Tokoname appears in the film's street-level transitional shots as Miyo moves through the older parts of town. Pilgrimage walkers cross it while tracing her route through the Sakaemachi neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_20",
+      "name": "Seifu Pottery Studio",
+      "localName": "清風の陶房",
+      "coordinates": {
+        "lat": 34.88509,
+        "lng": 136.84365
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0edc7095-9a3a-4c1c-934a-4af6a58b46a8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0edc7095-9a3a-4c1c-934a-4af6a58b46a8.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8851363,136.8434914,3a,90y,123.43h,108.32t/data=!3m7!1e1!3m5!1sywqgXu5_C-GEUyAuoq9meQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.315802639940188%26panoid%3DywqgXu5_C-GEUyAuoq9meQ%26yaw%3D123.42747444212843!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Seifu Pottery Studio is among the working ceramic ateliers in Tokoname's pottery district that the film's background artists studied to depict the town's kiln culture. The surrounding lanes of traditional pottery studios appear in the film's neighborhood backgrounds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJXa8b2HFgGGARD-_4StHwiz0",
+      "name": "Toju-an",
+      "localName": "藤寿庵",
+      "coordinates": {
+        "lat": 35.561889,
+        "lng": 139.7012399
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8da03ca6-3f24-4ddc-aabe-95137615f5fb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8da03ca6-3f24-4ddc-aabe-95137615f5fb.webp"
+        }
+      ],
+      "type": "Soba noodle shop",
+      "categories": [
+        "Soba noodle shop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Toju-an, 1 Chome-26-8 Tamagawa, Ota City, Tokyo 146-0095, Japan",
+      "city": "Ota City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8891127,136.8436722,3a,90y,256.05h,90.66t/data=!3m7!1e1!3m5!1sMjC8WhbSIvV1Wx6FRUSchw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.6630700829464047%26panoid%3DMjC8WhbSIvV1Wx6FRUSchw%26yaw%3D256.0519098821394!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_22",
+      "name": "Ichiki's Koshin-sama",
+      "localName": "いちきのお庚申さま",
+      "coordinates": {
+        "lat": 34.8903,
+        "lng": 136.84093
+      },
+      "image": "https://cdn.animepilgrimage.com/places/17a41b2c-2945-4b2a-a237-b1f2a7fc2d9b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/17a41b2c-2945-4b2a-a237-b1f2a7fc2d9b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8902368,136.8408826,3a,67.2y,26h,96.77t/data=!3m7!1e1!3m5!1sQ2u_yo4BzOpgGGEQzBx4fQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.773776076638782%26panoid%3DQ2u_yo4BzOpgGGEQzBx4fQ%26yaw%3D26.00133412141756!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small roadside Koshin deity shrine near Ichiki Bridge in Tokoname is a minor local landmark appearing in the film's detailed background art of the old town area. Pilgrimage walkers pass it while following Miyo's route through the Sakaemachi neighborhood."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEZzQMkmHBGARSvQ-fxkDPpY",
+      "name": "Climbing Kiln Plaza Gallery and Studio",
+      "localName": "登窯広場",
+      "coordinates": {
+        "lat": 34.8866009,
+        "lng": 136.83985289999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/138fa1f6-8ae2-43a9-b28b-22856ac9ad07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/138fa1f6-8ae2-43a9-b28b-22856ac9ad07.webp"
+        },
+        {
+          "url": "media/cached-image_f1104763d1a7fb30950bebad4c7309b4bb81305eb7ce21a8cd2f4489d4c9e4b0.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Climbing Kiln Plaza Gallery and Studio, 6 Chome Sakaemachi, Tokoname, Aichi 479-0836, Japan",
+      "city": "Tokoname",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.886638,136.8399145,3a,41.6y,204.4h,93.99t/data=!3m7!1e1!3m5!1s1gvGeB1vv37vrizeG0F7vg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.985447090280374%26panoid%3D1gvGeB1vv37vrizeG0F7vg%26yaw%3D204.40369788813928!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The old climbing kiln (noborigama) at Tokoname's Kiln Plaza is directly referenced in the film's background art depicting the terraced kiln structures on the hillside slopes that Miyo runs past. The distinctive stacked kiln silhouette is one of the film's most recognizable Tokoname landmarks.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_a-whisker-away_24",
+      "name": "Moon Chair Plaza",
+      "localName": "月の椅子広場",
+      "coordinates": {
+        "lat": 34.8825,
+        "lng": 136.84181
+      },
+      "image": "https://cdn.animepilgrimage.com/places/653f4fc1-0148-48b3-824d-5dce0e5efbf3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/653f4fc1-0148-48b3-824d-5dce0e5efbf3.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@34.8824842,136.8418612,3a,79.2y,297.25h,83.39t/data=!3m7!1e1!3m5!1s4ebrg33-Zc6bKW1qpbiiXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.61078428556506%26panoid%3D4ebrg33-Zc6bKW1qpbiiXA%26yaw%3D297.2516972832755!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Moon Chair Plaza, a small ceramic-art public space in Tokoname's pottery district, is part of the walking course that mirrors Miyo's route through town. The distinctive ceramic moon-chair sculpture is a recognizable real-world landmark from the film's setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX6J8sRtCil8RemSjd9FXyZM",
+      "name": "Shinmeisha Shrine",
+      "localName": "神明社",
+      "coordinates": {
+        "lat": 38.0030018,
+        "lng": 140.6158235
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6e1c6292-b788-44ca-9735-788fb050537f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6e1c6292-b788-44ca-9735-788fb050537f.webp"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4,
+      "reviewCount": 149,
+      "priceLevel": null,
+      "address": "Shinmeisha Shrine, 1-17 Masuokacho, Shiroishi, Miyagi 989-0251, Japan",
+      "city": "Shiroishi",
+      "region": "Miyagi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8854502,136.8398197,3a,90y,19.07h,98.5t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgID4-Yy5Gw!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6Ha_yv-WfDaqOkjE2cxwrERRPDPb7JRMWdxWbTduzXB_kAxoJRoTCTg9RKhuY3XzUk7OXvYn4JFax5qVN1vmWd1WhiUZn-_mUworOYcLdmnWR9Vkapnm3NRSfJEV7rMI_kfxib0l%3Dw900-h600-k-no-pi-8.4961890428292-ya15.331267373444344-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJI7QyuRTnAGARU28-XLGEOfU",
+      "name": "Hozenji",
+      "localName": "法善寺",
+      "coordinates": {
+        "lat": 34.6679398,
+        "lng": 135.5024676
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fee7a44d-bf5b-4215-abc3-b67bd24a1fba.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fee7a44d-bf5b-4215-abc3-b67bd24a1fba.webp"
+        },
+        {
+          "url": "media/cached-image_215044edbbc238d0258f4a6e05177b04001693844c8b130706f601fe379ed418.jpg"
+        },
+        {
+          "url": "media/cached-image_771b1ff3d37a813de610b10fd39a235cc9fada1c78dfeaf5ce6437bb01d4bc4d.jpg"
+        },
+        {
+          "url": "media/cached-image_326458c30b32590c79e626a5b972c6587bd0b5b4e103dddbdce7084ce51f3083.jpg"
+        },
+        {
+          "url": "media/cached-image_fcf28189f615525f0e006e758a07373cd94e8766fee8dd1ab953fa3ffd21220d.jpg"
+        },
+        {
+          "url": "media/cached-image_acb5ba78260d9d8d3c9385db851a81648cef2c522569ae03332c4c5f91a76444.jpg"
+        }
+      ],
+      "type": "Buddhist temple",
+      "categories": [
+        "Buddhist temple"
+      ],
+      "rating": 4.4,
+      "reviewCount": 4406,
+      "priceLevel": null,
+      "address": "Hozen-ji, 1 Chome-2-16 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+      "city": "Osaka",
+      "region": "Osaka",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@34.8827506,136.8417401,3a,90y,205.88h,91.64t/data=!3m7!1e1!3m5!1seG2u3RfzWwGmziox3oG6zA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6416762034561003%26panoid%3DeG2u3RfzWwGmziox3oG6zA%26yaw%3D205.87931587272612!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDkyNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    }
+  ]
+}

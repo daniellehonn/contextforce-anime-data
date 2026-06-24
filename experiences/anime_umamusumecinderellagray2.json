@@ -1,0 +1,860 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Uma Musume: Cinderella Gray Cour 2",
+  "slug": "uma-musume-cinderella-gray-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_61aabe7cf800edc425d95209935f7451e87a8b8949d83a6fcef2380aaf67bba6.webp",
+  "image": "media/cached-image_61aabe7cf800edc425d95209935f7451e87a8b8949d83a6fcef2380aaf67bba6.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 35.53912223888889,
+    "lng": 138.84963293333337
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Uma Musume: Cinderella Gray Cour 2"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4WIcdNSMGGARjdtiXNKX11E",
+      "name": "Keio Plaza Hotel Tokyo",
+      "localName": "京王プラザホテル",
+      "coordinates": {
+        "lat": 35.6902544,
+        "lng": 139.6942516
+      },
+      "image": "https://cdn.animepilgrimage.com/places/96017433-3977-45c7-a909-a56b3d184a5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/96017433-3977-45c7-a909-a56b3d184a5d.webp"
+        },
+        {
+          "url": "media/cached-image_5dc91984c7d41670143cf53be3ab90121ae5c3065ae35f7b40c1f5e0181e27ea.jpg"
+        },
+        {
+          "url": "media/cached-image_112ba154bb487a1c1ec926fe30a9e9516c3ac3e70fe64d0c23a37c46b9a2a8fe.jpg"
+        },
+        {
+          "url": "media/cached-image_52c9d0c65e19e99ce37dffae946b6f46810ecf2c7df611d463d2f98211c5a11e.jpg"
+        },
+        {
+          "url": "media/cached-image_dd48baf98664308777d19d45ea48f63b88fb2ee82dc3c64f007d4749cc7a43a2.jpg"
+        },
+        {
+          "url": "media/cached-image_473e59daa0e0751e04fb1132cd767da12901f12e3e971a811866fa72ce0c75c3.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1047,
+      "priceLevel": null,
+      "address": "Keio Plaza Hotel Tokyo, 2 Chome-2-1 Nishishinjuku, Shinjuku City, Tokyo 160-8330, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZpBiYKDkFYnatdwUA",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Keio Plaza serves as a backdrop for scenes set in Shinjuku during Oguri Cap's early Tokyo stay, conveying the scale and prestige of the capital compared to her Kasamatsu origins. Its towering presence underscores how far she has traveled from her hometown roots."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1xUbFynlGGARlEctskgEWp0",
+      "name": "Koremasa Sports Open Space",
+      "localName": "是政運動広場",
+      "coordinates": {
+        "lat": 35.6548082,
+        "lng": 139.4911869
+      },
+      "image": "https://cdn.animepilgrimage.com/places/befcd9de-023d-4ea8-8533-cc17697b5f61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/befcd9de-023d-4ea8-8533-cc17697b5f61.webp"
+        },
+        {
+          "url": "media/cached-image_49cf5afeef7c901eeccb3344474d29a8dd8bcc4f178bbfd5963059247e940696.jpg"
+        }
+      ],
+      "type": "Soccer field",
+      "categories": [
+        "Soccer field"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Koremasa Sports Open Space, 4 Chome Koremasa, Fuchu, Tokyo 183-0014, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KaegcFW8fyPcUh5t8",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "This open sports ground near Fuchu appears as a training area used by Oguri Cap and her connections, showing the unglamorous daily preparation that underpins her race wins. The ordinary setting makes her dedication all the more vivid by contrast."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ25tiKOKAGGARJ43koRMjYu0",
+      "name": "Nakayama Racecourse",
+      "localName": "中山競馬場",
+      "coordinates": {
+        "lat": 35.7251681,
+        "lng": 139.9599188
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6e107536-643a-41a7-ae2f-f75efbcd8eff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6e107536-643a-41a7-ae2f-f75efbcd8eff.webp"
+        },
+        {
+          "url": "media/cached-image_f8a0e8811c5fad0587e8d7308c4c49ac8b449bc5a06bb4f111358003dc28a204.jpg"
+        },
+        {
+          "url": "media/cached-image_95aae8f4fc306f6155acef3b9610a3d6f97558b17539ccd56e62abe6661001c3.jpg"
+        },
+        {
+          "url": "media/cached-image_66d6eb094b9127a69f77334a8b9ab76cc8901a64bbb1f4976d565ba233bbaa71.jpg"
+        },
+        {
+          "url": "media/cached-image_370c226b6b0216f480160976148ac9c4d9b65356885ac39555171a8f9708df10.jpg"
+        },
+        {
+          "url": "media/cached-image_ae575637a5064ff21efac74576ce3510f7ddea2d32ba4d04d879abbfffdbed4f.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 137,
+      "priceLevel": null,
+      "address": "Nakayama Racecourse, 1 Chome-1-1 Kosaku, Funabashi, Chiba 273-0037, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/v8bhg8gnxfD8g7C16",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Nakayama's tight final turn is the setting for a crucial mid-series race that tests Oguri Cap's tactical racing, not just her raw speed. The compact, punishing course demands everything from her and crystallizes why fans around Japan start paying attention.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtzNqKgDlGGAR7XbiacefUik",
+      "name": "Koremasa Bridge",
+      "localName": "是政橋",
+      "coordinates": {
+        "lat": 35.652922,
+        "lng": 139.48794999999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/fc3029b8-6a2f-446d-8769-6fbe1fb0a00c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/fc3029b8-6a2f-446d-8769-6fbe1fb0a00c.webp"
+        },
+        {
+          "url": "media/cached-image_36fd96240b7dc769b1d77e35d14757b52500587995d065c12e5f8faabdba8000.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Koremasa Bridge, 2285-42 Omaru, Inagi, Tokyo 206-0801, Japan",
+      "city": "Inagi",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/9horKWMLs6UrRTL56",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The bridge over the Tama River near Fuchu appears in a quiet character moment during episode 7, giving Oguri Cap space to reflect on her journey before a critical upcoming race. The riverside setting adds an introspective calm between the high-stakes drama of the track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ8QiQFsKpA2ARCVOwvrc0xz0",
+      "name": "Oguri Cap Statue",
+      "localName": "オグリキャップ像",
+      "coordinates": {
+        "lat": 35.3724828,
+        "lng": 136.7652996
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5b229055-1a43-466d-ba11-9b58fc95865e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5b229055-1a43-466d-ba11-9b58fc95865e.webp"
+        },
+        {
+          "url": "media/cached-image_78b78de5d46ee277d15f2b01cfecdc486f2dc8b7846b65ecb2bd274849199b60.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Oguri Cap Statue, 12 Wakabacho, Kasamatsu, Hashima District, Gifu 501-6036, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/qxuQXvKxEYWCdNot6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This bronze statue of the real Oguri Cap stands in Kasamatsu, her hometown, and is the emotional anchor of the pilgrimage for any fan of Cinderella Gray. Visiting it closes the loop on the whole story, connecting the anime's fictional hero to the legendary horse who actually raced on these grounds.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt6EeszWBGGARAL4pQC643eQ",
+      "name": "Apa Hotel Nishifunabashi Ekimae",
+      "localName": "アパホテル〈西船橋駅前〉",
+      "coordinates": {
+        "lat": 35.7063935,
+        "lng": 139.9581201
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9d88a4b3-3acc-4eec-a66f-9cf68b388ee2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9d88a4b3-3acc-4eec-a66f-9cf68b388ee2.webp"
+        },
+        {
+          "url": "media/cached-image_ff27b119b822207e5678ba2595e0d62ceff6d45392be1ebe1d6d52d11274f259.jpg"
+        },
+        {
+          "url": "media/cached-image_7abcfe658293416e158530c5cb9c0fef231804abe2db9bc269f6d9dd4deba737.jpg"
+        },
+        {
+          "url": "media/cached-image_cab28f41515692618916b0ea297ca49e22b07c1b5b492d271043654ecbaf1cbf.jpg"
+        },
+        {
+          "url": "media/cached-image_a3e53dff6efef5a7345ff27320e5bc50b5528ac8eeff8a95286c0625248be720.jpg"
+        },
+        {
+          "url": "media/cached-image_904c6d1862dc4ec3c8f827a3b5d2d6b6bf6c0fdb1a8ed7729aff538426a3fb28.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.1,
+      "reviewCount": 79,
+      "priceLevel": null,
+      "address": "Apa Hotel Nishifunabashi Ekimae, 605-1 Innaicho, Funabashi, Chiba 273-0025, Japan",
+      "city": "Funabashi",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/RzL5v1uHonmVFKVs6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Located steps from Nakayama Racecourse, this hotel serves as a base for the racing camp scenes in episode 10 when Oguri Cap and her connections are preparing for a key Chiba meet. The practical, unglamorous lodging matches the hardworking spirit the story celebrates."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJgUVTzNZhGGAR2KGJE2LkBH0",
+      "name": "Tenso Suwa Shrine",
+      "localName": "天祖・諏訪神社",
+      "coordinates": {
+        "lat": 35.59729,
+        "lng": 139.7387877
+      },
+      "image": "https://cdn.animepilgrimage.com/places/624c99d3-80a6-4058-a536-d08138e6944a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/624c99d3-80a6-4058-a536-d08138e6944a.webp"
+        },
+        {
+          "url": "media/cached-image_e1789ba1964edaa7a5681a64ae9b2fb35c682b2857187d41c7675441b0d8f9ad.jpg"
+        },
+        {
+          "url": "media/cached-image_0fc1a2ca0e4eb5b54a0e137b0323dee8c323c6e80826c320b694a93963b8c377.jpg"
+        },
+        {
+          "url": "media/cached-image_2137c7fa8154d5325faabee42f7022b8072434b49d12202c28cb3e3f4cd4eb9b.jpg"
+        },
+        {
+          "url": "media/cached-image_40f9fecd43b22b3904503537565c77121c24486fe4d72dbc2083f1d398e2db23.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.1,
+      "reviewCount": 452,
+      "priceLevel": null,
+      "address": "Tenso Suwa Shrine, 1 Chome-4-1 Minamioi, Shinagawa City, Tokyo 140-0013, Japan",
+      "city": "Shinagawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/8xgdwSc4TDHesZNU8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Adjacent to Oi Racecourse in Shinagawa, this shrine appears in the episode 10 arc tied to the dirt-track racing world Oguri Cap navigates during her career. The old shrine beside the racecourse evokes the long tradition of horse racing in the area."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd1VNRsVhGGARFejgrhOmG4E",
+      "name": "Oi Racecourse",
+      "localName": "大井競馬場",
+      "coordinates": {
+        "lat": 35.5922219,
+        "lng": 139.740825
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41da7c20-f407-4f46-8636-373e17915dd4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41da7c20-f407-4f46-8636-373e17915dd4.webp"
+        },
+        {
+          "url": "media/cached-image_b8b972b2775e64f8df3246e654497635159fbd9f407ef5edcc4de1cb6f7ff1c8.jpg"
+        },
+        {
+          "url": "media/cached-image_dfe4fa684d5a0903714594011d4368b11ee38bcd61dc15636fa2a6cba299e239.jpg"
+        },
+        {
+          "url": "media/cached-image_bd69ab9076fcff5b83ca0021f995f3726adc6c98fc686d14e5c03937581bdf8d.jpg"
+        },
+        {
+          "url": "media/cached-image_c403b7e9792b1c974b438f3be88027f8e9e27d4ccfa19c877632d1faebbe0ab0.jpg"
+        },
+        {
+          "url": "media/cached-image_39bf511e66ef887b4ee93d86a6cc78aed4e92de125b0b5026d91b4081bbe7dc3.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.2,
+      "reviewCount": 835,
+      "priceLevel": null,
+      "address": "Oi Racecourse, 2 Chome-1-2 Katsushima, Shinagawa City, Tokyo 140-0012, Japan",
+      "city": "Shinagawa City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/E4JEwB9rEYHi8hVq8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "Oi's famous night-racing under floodlights features in episode 10 as a backdrop that signals Oguri Cap has moved into the glamorous but gritty world of top-level competition. The iconic dirt oval under bright lights is one of Uma Musume's most visually striking settings.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJMwpiebSMGGARPr_454zHvDQ",
+      "name": "Yoyogi Park",
+      "localName": "代々木公園",
+      "coordinates": {
+        "lat": 35.6707375,
+        "lng": 139.6960752
+      },
+      "image": null,
+      "images": [
+        {
+          "url": "media/cached-image_ed07efa4e2b333dbec0d02adbdf517dd8c7626a847e3aba880fe94cd93ab4d81.jpg"
+        },
+        {
+          "url": "media/cached-image_e31f5529b097eeae331c2ce223b4c1ebe402821867ad9080213a5511ac0b413d.jpg"
+        },
+        {
+          "url": "media/cached-image_990f9db4de1cac6f27ef2d612a6abc5addc58f616e51e0bba8a3856907ff898a.jpg"
+        },
+        {
+          "url": "media/cached-image_37e69757287e25713338f7611c404b52ad5cc5ab1feb307f884f7449935eb09b.jpg"
+        },
+        {
+          "url": "media/cached-image_5999124e71faf69b91a0127f687d3e14a30caa48db09b769e12fc0ca020d5e4d.jpg"
+        },
+        {
+          "url": "media/cached-image_1714e165ecaecf60b8a23b3ca06024c254d7a5ba16ccb09e19ffb9ca0ec38182.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.4,
+      "reviewCount": 1773,
+      "priceLevel": null,
+      "address": "2-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6707375,139.6960752,2a,75.7y,331.3h,98.44t/data=!3m6!1e1!3m4!1sH34XRqKtvTqLo1nVrhnBzg!2e0!7i13312!8i6656?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Oguri Cap and her connections pass through this wide open Tokyo park in a slice-of-life scene that contrasts the roar of the racecourse with the quiet excitement of being in the big city for the first time. The space captures her wide-eyed sense of wonder at the world she is about to conquer."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9584NuMGGARVKfZjpYoQDs",
+      "name": "Hanazono Shrine",
+      "localName": "花園神社",
+      "coordinates": {
+        "lat": 35.693537,
+        "lng": 139.7053755
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f9d21e1-c4bb-403e-a19b-5b839a2f64f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f9d21e1-c4bb-403e-a19b-5b839a2f64f3.webp"
+        },
+        {
+          "url": "media/cached-image_1a1031fcc4ee2bb01036c176df9a11ddb907ae4ff34ff08212fa8f3cc876ad7a.jpg"
+        },
+        {
+          "url": "media/cached-image_27eb5f3f6e4e42aad96effa75e741b4cba9d3863dfbb79a9bc0f6203d553bdd1.jpg"
+        },
+        {
+          "url": "media/cached-image_28148e32d6259c027c64d1418cb4f481785b950c6f6b06d38010fcaec607b8e2.jpg"
+        },
+        {
+          "url": "media/cached-image_55db369808892f3c8d21a6c9648b82030bddce79b245ad41ce7b3cfaaf2492d8.jpg"
+        },
+        {
+          "url": "media/cached-image_46c2a795b68a7cd5591ff6592280d673ab8213beef689c60eafce149bbe13f08.jpg"
+        },
+        {
+          "url": "media/cached-image_dc56101ad34510e63e3c6e1eb1488c9df6d3345b29fb4b77cdb8c847eb41d919.jpg"
+        },
+        {
+          "url": "media/cached-image_d9bd6f6951516481e48b346773db6c4b8c405058194de7eab5491d8aa55e915e.jpg"
+        },
+        {
+          "url": "media/cached-image_b679afe7e4c9f22517b3078aec4e7e8aee8eb4ced25a2b0d90ed312bd33c785a.jpg"
+        },
+        {
+          "url": "media/cached-image_2502a96e15ed208de36997d6eb01aac09490f4edeefbdfd6304ae270d8a28170.jpg"
+        },
+        {
+          "url": "media/cached-image_cb014d69ccf980310901b55b31c9828b250d7e8a07a5a3392f1efdc726af1354.jpg"
+        },
+        {
+          "url": "media/cached-image_71757ef6721dbaba41ae713ab1c349ec1d757f2d639435391974e1debc6b5d50.jpg"
+        },
+        {
+          "url": "media/cached-image_2d2fc0156ddb676d4da0ac88ba0360658a2e28aacd2d8d08e626db1fbfc32e1a.jpg"
+        },
+        {
+          "url": "media/cached-image_ffaab0d629124b6f750f886e46413488fe808e5042220283292e8c504b1b55b5.jpg"
+        },
+        {
+          "url": "media/cached-image_b8775d81555bcf1d78423d9bd8141d53c9cfd8f52640f9d62b36ece358bde92b.jpg"
+        },
+        {
+          "url": "media/cached-image_ed19ab134c2cdc6029e53b5f6e00a64fe38058498f03140a0131d37b75d1bb1a.jpg"
+        },
+        {
+          "url": "media/cached-image_7487bff9844888e5c6711ed659b3927f968617fbc450b040eecf16851f19bcb3.jpg"
+        },
+        {
+          "url": "media/cached-image_11cf27684994153e5bc4469fd1ef343656933bbcf1ed967d72c257032999a089.jpg"
+        },
+        {
+          "url": "media/cached-image_3090cb0b8f8fbe891ecd7bcfebf39ec9c3e30d85d3d92c00694dfe82aba92cc1.jpg"
+        },
+        {
+          "url": "media/cached-image_cc004cb98dc92231f39b11424ac51ea035be13dc1af0b80e1a9d08f935768e9a.jpg"
+        },
+        {
+          "url": "media/cached-image_e304fb70ba3e77a1c24ac19478347499dbdc0c18dd5612877d00cb9055af9abb.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 4.3,
+      "reviewCount": 8745,
+      "priceLevel": null,
+      "address": "5 Chome-17-3 Shinjuku, Shinjuku City, Tokyo 160-0022",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.693537,139.7053755,3a,90y,154.23h,90.17t/data=!3m8!1e1!3m6!1sAF1QipMUq6SsVY3M22MYQ8bb6wJxV6sA9miy_vEBpB8f!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMUq6SsVY3M22MYQ8bb6wJxV6sA9miy_vEBpB8f%3Dw203-h100-k-no-pi-0-ya100.52362-ro0-fo100!7i6912!8i3456?coh=205409&entry=ttu",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "The Shinjuku shrine appears as a landmark backdrop during the episode 3 Tokyo arc, grounding Oguri Cap's arrival in the capital with a sense of history and permanence. It reinforces the idea that she is now racing in a city with deep roots, not just another regional track."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
+      "name": "Tokyo Disneyland",
+      "localName": "東京ディズニーランド",
+      "coordinates": {
+        "lat": 35.63432,
+        "lng": 139.87957
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00119aa0-9d4c-4383-9a7a-ca4285e58d77.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00119aa0-9d4c-4383-9a7a-ca4285e58d77.webp"
+        },
+        {
+          "url": "media/cached-image_15a9127299012e3cc196b654e90cda4e415a8f0af20b56fb04847c91a9ccfe55.jpg"
+        }
+      ],
+      "type": "Theme park",
+      "categories": [
+        "Theme park"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "1-1 Maihama, Urayasu, Chiba 279-0031, Japan",
+      "city": "Urayasu",
+      "region": "Chiba",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6346104,139.8794227,3a,90y,152.41h,72.86t/data=!3m8!1e1!3m6!1sAF1QipMU2dvFXhZzHvsJrANGUqhtAnSNskptCkAppwf_!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMU2dvFXhZzHvsJrANGUqhtAnSNskptCkAppwf_%3Dw900-h600-k-no-pi17.13615057213562-ya177.0486018993599-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "A lighthearted outing scene in episode 10 brings Oguri Cap and companions to Tokyo Disneyland, providing rare levity amid the intense race buildup. The contrast of the cheerful theme park with the weight of competitive pressure is a fan-favourite character moment."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJT7wVXe6LGGARpg6sWitWN8Y",
+      "name": "Imperial Hotel Tokyo",
+      "localName": "帝国ホテル 東京",
+      "coordinates": {
+        "lat": 35.672454,
+        "lng": 139.7579015
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1528aa26-1ce0-4bb7-9b86-1f2b125753f3.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1528aa26-1ce0-4bb7-9b86-1f2b125753f3.webp"
+        },
+        {
+          "url": "media/cached-image_8cc553746a09af648ee0b3f4b6b2c726d5b2928bbe7036bb3a9d5950cb8d22dd.jpg"
+        },
+        {
+          "url": "media/cached-image_1417d40dc4d2368335ce489fe2da1843ae64c15f80c4bc07c49377d814a69716.jpg"
+        },
+        {
+          "url": "media/cached-image_b6f1776e7c5b4ad10dfcb341079e7dd643d063057f4e3c1e36d61c029797975d.jpg"
+        },
+        {
+          "url": "media/cached-image_e5171949fca9bb134abed62085f2ff9c1745d0f2de83e4a1f786401b74a00731.jpg"
+        },
+        {
+          "url": "media/cached-image_36c8c4c3ebba55ab6efb3d1291c25d934bf820a47973193d2c565b16819297fb.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.5,
+      "reviewCount": 1531,
+      "priceLevel": null,
+      "address": "Imperial Hotel Tokyo, 1 Chome-1-1 Uchisaiwaicho, Chiyoda City, Tokyo 100-8558, Japan",
+      "city": "Chiyoda City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Imperial+Hotel+Tokyo/@35.6727216,139.7577202,3a,63.6y,176.51h,97.17t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDEoYC9hwE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HYaPANWBwRUahD8_vinK_OtD9EP_rPGiOnIFq90DyTwkFZlZ6sWFgdO0GbEVcAFav4fQP6bi9RLMyVyMZjzWkOYoCmxm520kz410DFO5DjGe0Ak4WOLWHQHaoXhHwpSCg-xHpNFGg%3Dw900-h600-k-no-pi-7.174876363645325-ya288.4703849989518-ro0-fo100!7i10832!8i5416!4m13!3m12!1s0x60188bee5d15bc4f:0xc637562b5aac0ea6!5m3!1s2025-07-11!4m1!1i2!8m2!3d35.672454!4d139.7579015!10e5!14m1!1BCgIgARICCAI!16zL20vMGc0MHlq?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Imperial Hotel features in a scene that highlights the elite social world surrounding top-level racing, contrasting the glittering formal setting with Oguri Cap's unpretentious, straightforward personality. The moment underscores the cultural distance between her humble origins and the prestige now surrounding her name."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJs15aXqGoA2ARceMtf76MXWs",
+      "name": "Kasamatsu Minato Park",
+      "localName": "笠松みなと公園",
+      "coordinates": {
+        "lat": 35.3657944,
+        "lng": 136.7634447
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7f1fcd57-2f06-4662-962d-706f361e9553.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7f1fcd57-2f06-4662-962d-706f361e9553.webp"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kasamatsuminato Park, 4 Minatomachi, Kasamatsu, Hashima District, Gifu 501-6053, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.3660084,136.7646312,3a,90y,314.04h,97.49t/data=!3m8!1e1!3m6!1sAF1QipOlv6PlRZvMUTZCf85c30SGrJAWGvgozeVAW9Ab!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOlv6PlRZvMUTZCf85c30SGrJAWGvgozeVAW9Ab%3Dw900-h600-k-no-pi-7.489857081542169-ya274.7488593729465-ro0-fo100!7i7680!8i3840?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "This riverside park in Kasamatsu appears in the ending card sequence, serving as a serene image of Oguri Cap's hometown that bookends her entire journey. The quiet park along the Kiso River reminds viewers of the small-town roots she carries with her to every major race."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt81PBzFjA2ARX8IW-4GVQIg",
+      "name": "West Entrance Gate of Chukyo Racecourse",
+      "localName": "中京競馬場",
+      "coordinates": {
+        "lat": 35.0656726,
+        "lng": 136.9872765
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b3071871-a14e-443d-a62a-8339b035f5bb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b3071871-a14e-443d-a62a-8339b035f5bb.webp"
+        },
+        {
+          "url": "media/cached-image_9ade132f826e097b5af5c49e1f0d7cd221cde4458bdba3fcc7f3db6828b9ea73.jpg"
+        },
+        {
+          "url": "media/cached-image_f640782abd07c0c3bf7e28717b9fda0bdef425c86f8faf72aa7ac0039959182f.jpg"
+        },
+        {
+          "url": "media/cached-image_17d7f2ef525121296df23251183de32a55ca09d3d0a45470688277883003a4c0.jpg"
+        },
+        {
+          "url": "media/cached-image_bbdee884e2aa7aa48d19f046337a221207a99d72829a948b48f800df72de7957.jpg"
+        },
+        {
+          "url": "media/cached-image_8623e1a9030b9a5a57c22336e6db3a9295910b3c1b4697b1a3f388f693646b98.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.1,
+      "reviewCount": 54,
+      "priceLevel": null,
+      "address": "JRA Chukyo Racecourse, Shikita-1225 Magomecho, Toyoake, Aichi 470-1132, Japan",
+      "city": "Toyoake",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.0650997,136.986842,3a,48.7y,25.87h,93.44t/data=!3m7!1e1!3m5!1s7joCYd9t1JwmaICY49zszg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.4357147753296857%26panoid%3D7joCYd9t1JwmaICY49zszg%26yaw%3D25.871893640120152!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Oguri Cap travels to Chukyo for an early test against stronger competition, marking her first step outside the Kasamatsu bubble. The imposing gate signals the transition from local underdog to a horse who belongs on JRA's main circuit."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJlSj0rD4FAWAR2g59hNCbCT8",
+      "name": "JRA Kyoto Racecourse",
+      "localName": "京都競馬場",
+      "coordinates": {
+        "lat": 34.9070391,
+        "lng": 135.7245324
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d38000e3-4d96-43ff-83d3-9e9db98c3e40.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d38000e3-4d96-43ff-83d3-9e9db98c3e40.webp"
+        },
+        {
+          "url": "media/cached-image_8b86ee6fe6bc88093e3ee0a6667064a36aec69bcdf61a93d4c2166775beb88b4.jpg"
+        },
+        {
+          "url": "media/cached-image_6fb5009bfca7ca21469091232d9684c95582c273ce890d6bb7cd197e18a2319f.jpg"
+        },
+        {
+          "url": "media/cached-image_9fae9c8dadcdf9294cef2a47e8577fa8b42b15b6aff62d1ab6ec23f4188de293.jpg"
+        },
+        {
+          "url": "media/cached-image_631570010131b437a7f036b6eef5629b5271d118f1463907b997f14e9f99b5c6.jpg"
+        },
+        {
+          "url": "media/cached-image_33bd7a4c4468cd1b9c0b6064945d18d3836d017579df87680f71a545223d4ed2.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.3,
+      "reviewCount": 198,
+      "priceLevel": null,
+      "address": "JRA Kyoto Racecourse, 32 Yoshijima Watashibajimacho, Fushimi Ward, Kyoto, 612-8265, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/JRA+Kyoto+Racecourse/@34.907505,135.7261062,3a,90y,68.11h,111.82t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC448afgAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAB8u6HbUflDmlRuAYKHPCoXBsBSpc437EOqZMRKWqX7M8I_POpDtt0yqUFM6jiFUmK7QHcj0Xadf47o7LTQJsCMRj2dcJdMHDaM-TMLKVHwNtZ9Gr-lfT2lyj8mEo3pjt13BUC8QJkwSLw%3Dw900-h600-k-no-pi-21.823584427852026-ya68.11358954036882-ro0-fo100!7i5376!8i2688!4m9!3m8!1s0x6001053eacf42895:0x3f099bd0847d0eda!8m2!3d34.9070391!4d135.7245324!10e5!14m1!1BCgIgARICCAI!16zL20vMDcycThy?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 2,
+      "entityContext": "An early JRA race where Oguri Cap measures herself against elite horses for the first time, cementing the sense that she is chasing something far bigger than anyone around her expected. The race here is a key step in building her reputation before Tokyo calls."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW60ki5eoA2ARMIeDq5g_joQ",
+      "name": "Kasamatsu Racecourse",
+      "localName": "笠松競馬場",
+      "coordinates": {
+        "lat": 35.3723169,
+        "lng": 136.765659
+      },
+      "image": "https://cdn.animepilgrimage.com/places/899a00b4-56d4-4385-8436-39fb2733039e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/899a00b4-56d4-4385-8436-39fb2733039e.webp"
+        },
+        {
+          "url": "media/cached-image_ed52842cff90de28c3496f092b20f07a5619aefbbc1b77b72cf42bc6e1bb9e06.jpg"
+        },
+        {
+          "url": "media/cached-image_454284da55bd7fdf7c1a5891e53038ddb6d2206ba2257ed69e37bc1dccc2b01f.jpg"
+        },
+        {
+          "url": "media/cached-image_78b78de5d46ee277d15f2b01cfecdc486f2dc8b7846b65ecb2bd274849199b60.jpg"
+        },
+        {
+          "url": "media/cached-image_535f5bbaec0b4a24a8fa65415a114fc50a2b6e01ca1f9af22b6d3f3932d8ceab.jpg"
+        },
+        {
+          "url": "media/cached-image_ae93e41abfd46afa7e80d7cd88fb9c5f07947c8b99d7684eaf802b9a43cb3e31.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 3.9,
+      "reviewCount": 48,
+      "priceLevel": null,
+      "address": "Kasamatsu Racecourse, 12 Wakabacho, Kasamatsu, Hashima District, Gifu 501-6036, Japan",
+      "city": "Kasamatsu",
+      "region": "Hashima District, Gifu",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Kasamatsu+Racecourse/@35.3724613,136.7653182,3a,90y,307.18h,102.33t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4i82gNA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu1PPNp35Ny_YtHpjBDH6k59PygDCmJZzEoxdC_Y_GpJhJ4RgbFMA1IQ54BOOYBmEHmZzIeyjg5zEQnnEPaiNEcLObOx0uFhBchc6qC2ivSaxpM9txp9_L__I_yRBncO6QM7OxwJ%3Dw900-h600-k-no-pi-12.326360429291356-ya358.818524090868-ro0-fo100!7i12000!8i6000!4m9!3m8!1s0x6003a8978b24ad5b:0x848e3f98ab838730!8m2!3d35.3723169!4d136.765659!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1226sm0m?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This is Oguri Cap's home track where her story begins, racing as a local sensation before her ambitions outgrow the regional circuit. The rickety stands and tight turns of Kasamatsu are where fans first feel her raw, unpolished speed and her determination to test herself on a bigger stage.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNaals-HkGGARUfk8jRYyt0k",
+      "name": "JRA Tokyo Racecourse",
+      "localName": "東京競馬場",
+      "coordinates": {
+        "lat": 35.6637899,
+        "lng": 139.4832255
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f21d918a-8f84-4181-b089-fdb7ee4994e2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f21d918a-8f84-4181-b089-fdb7ee4994e2.webp"
+        },
+        {
+          "url": "media/cached-image_af9ad566ad4cdb93083b17e3fa1ff2d76f5abf69d99e7b021bfab1f32aacd970.jpg"
+        },
+        {
+          "url": "media/cached-image_07996f8342ef99fd8b920c0f139c53a92c3befa0d756e06afeb559cd5917c25a.jpg"
+        },
+        {
+          "url": "media/cached-image_88d950353bc231d108d9bed1c7b4e6aadf2b6f130792fa28c50981d9267301fe.jpg"
+        },
+        {
+          "url": "media/cached-image_af64085ec3c8746a78b7d99afd58ddab620af38a1438487cfe0df43b02584a2d.jpg"
+        },
+        {
+          "url": "media/cached-image_a368680eeba293bbb5d9e2f52938f44d71b83b1b0ba1e35b071a191274baf5a9.jpg"
+        }
+      ],
+      "type": "Racecourse",
+      "categories": [
+        "Racecourse"
+      ],
+      "rating": 4.4,
+      "reviewCount": 597,
+      "priceLevel": null,
+      "address": "JRA Tokyo Racecourse, 1-1 Hiyoshicho, Fuchu, Tokyo 183-0024, Japan",
+      "city": "Fuchu",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6659143,139.4846136,3a,75y,10.35h,96.43t/data=!3m7!1e1!3m5!1sZSPwztEqxtU2GTAKCtr31Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.434030561449447%26panoid%3DZSPwztEqxtU2GTAKCtr31Q%26yaw%3D10.346284680204406!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Tokyo Racecourse is the grand stage where Oguri Cap faces top-class JRA rivals and begins to announce herself as a national phenomenon. Racing on the sweeping Fuchu turf marks a defining moment in her journey from regional star to genuine champion contender.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJJ9Khi62MGGARsdAyKbBWV4s",
+      "name": "Oda Field",
+      "localName": "陸上競技場（織田フィールド）",
+      "coordinates": {
+        "lat": 35.666998,
+        "lng": 139.6939928
+      },
+      "image": "https://cdn.animepilgrimage.com/places/90b3a6eb-7154-4f48-9f8e-fb0fc58f2ac6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/90b3a6eb-7154-4f48-9f8e-fb0fc58f2ac6.webp"
+        },
+        {
+          "url": "media/cached-image_66efa6e07afa66647846a2d4f3816363073ab82c63f169fa24297b1b918839ec.jpg"
+        },
+        {
+          "url": "media/cached-image_4570ddc74b7b070725e0aca836151921b890f4491217b1b87daaee6f1f669e3a.jpg"
+        }
+      ],
+      "type": "Athletic track",
+      "categories": [
+        "Athletic track"
+      ],
+      "rating": 4.2,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Oda Field, 2 Chome-3-1 Jinnan, Shibuya, Tokyo 150-0041, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6664188,139.6949315,2a,90y,59.04h,88.86t/data=!3m7!1e1!3m5!1sVcCbFNcBxFA5HPdtoHOwYg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1369910127404665%26panoid%3DVcCbFNcBxFA5HPdtoHOwYg%26yaw%3D59.03557817515838!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 3,
+      "entityContext": "Oguri Cap is shown training at this Yoyogi-area athletic track in Tokyo, sharpening her form as she prepares for the fierce competition of the JRA circuit. The scene captures the gap between the grueling work done in practice and the glamour of race day."
+    }
+  ]
+}

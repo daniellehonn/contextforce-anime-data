@@ -1,0 +1,2121 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Iroduku: The World in Colors",
+  "slug": "iroduku",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_7f356b078f223d704285022c96aad8279211d41af6dcd9286b60c671f7d3c00d.webp",
+  "image": "media/cached-image_7f356b078f223d704285022c96aad8279211d41af6dcd9286b60c671f7d3c00d.webp",
+  "banner": null,
+  "primaryLocation": "Nagasaki, Japan",
+  "primaryLocationCoords": {
+    "lat": 32.97251448275861,
+    "lng": 130.62159579137926
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Iroduku: The World in Colors"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_0",
+      "name": "Yamazaki Hair Salon",
+      "localName": "山崎美容室",
+      "coordinates": {
+        "lat": 32.73858,
+        "lng": 129.88101
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4f4ca09d-4a9f-43f7-a290-4dc2ce41979e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4f4ca09d-4a9f-43f7-a290-4dc2ce41979e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/DgqHY3ZF4N3vT23SA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Nagasaki neighborhood hair salon appears in the background of scenes where Hitomi walks through the residential streets near her grandmother's home, capturing the everyday life of the era she traveled back to."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_1",
+      "name": "Satsuki Hair Salon",
+      "localName": "さつき美容室",
+      "coordinates": {
+        "lat": 32.73386,
+        "lng": 129.87423
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bc762851-e556-4c82-94e4-8f19f963765b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bc762851-e556-4c82-94e4-8f19f963765b.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/LiNm2y4jBx73CQMR9",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "A second hair salon on Hitomi's route through the Higashi-yamate residential area, featured in episode 8 as part of the authentic neighborhood atmosphere surrounding the characters' daily lives."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1VOpZEuNGGAR16H4I8XOOgQ",
+      "name": "South Yamate Rest House",
+      "localName": "山手レストハウス",
+      "coordinates": {
+        "lat": 35.6987186,
+        "lng": 139.6997729
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c5da3c0-643c-4901-a3a7-2e5ba239c41d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c5da3c0-643c-4901-a3a7-2e5ba239c41d.webp"
+        },
+        {
+          "url": "media/cached-image_f9884537cb718da9f0b18739e0ea1872152fccf54799827b0b05399e80191f55.jpg"
+        },
+        {
+          "url": "media/cached-image_96756fe2e470f9751e72d2c39bf7e1332deea371d204af6eafafb938ad7fd0e5.jpg"
+        },
+        {
+          "url": "media/cached-image_a9e41316487771a2c5d76d2b8e368519f222a5319c11eac4236946760a7b33db.jpg"
+        },
+        {
+          "url": "media/cached-image_818fb8cb65a483b6fc5abd93c768577ce160e1e6a793f611c9950aeb5ba020b5.jpg"
+        },
+        {
+          "url": "media/cached-image_7d2152e3aa9d285c6662099b79580b69d8f6d9cbe43780a51ef66d886650ce2f.jpg"
+        }
+      ],
+      "type": "Hostel",
+      "categories": [
+        "Hostel"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Yamate Resthouse, 1 Chome-9-5 Hyakunincho, Shinjuku City, Tokyo 169-0073, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZKKdNFh7C5bTsvNk7",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_3",
+      "name": "Prayer Slope",
+      "localName": "祈念坂",
+      "coordinates": {
+        "lat": 32.73438,
+        "lng": 129.87061
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d99f11b5-2833-4607-8e1d-bb48381a2943.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d99f11b5-2833-4607-8e1d-bb48381a2943.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/rJrLJxT5Edg15XNHA",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kinenzan slope (Kinenzan-zaka), one of Nagasaki's most photographed stone-paved streets, appears repeatedly in Iroduku as Hitomi walks between the hillside residential area and the waterfront below, its cobblestones and Catholic church atmosphere capturing the melancholy beauty of the world she has traveled back to.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ_a_miBFTFTURluN04_P8CTA",
+      "name": "Showakai Clinics",
+      "localName": "昭和会病院",
+      "coordinates": {
+        "lat": 32.7368094,
+        "lng": 129.8730497
+      },
+      "image": "https://cdn.animepilgrimage.com/places/71cb4098-7cb0-45b4-9805-dda8a0fbd117.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/71cb4098-7cb0-45b4-9805-dda8a0fbd117.webp"
+        },
+        {
+          "url": "media/cached-image_44bc47871f91ace4f74b7ba068622ec3d502fd4bd03b14b3fa97eb4d908ff3e1.jpg"
+        },
+        {
+          "url": "media/cached-image_369da4628c019bac5ba1bcb91d21e68d77be070a418949593a54017412c42938.jpg"
+        }
+      ],
+      "type": "General hospital",
+      "categories": [
+        "General hospital"
+      ],
+      "rating": 2.9,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Showakai Clinics, 6-51 Higashiyamatemachi, Nagasaki, 850-0911, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/h7RMmMGHgpT6eDfm8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This Higashi-yamate building served as a visual reference for the exterior of locations Hitomi passes through in episode 8, set in the historic foreign settlement district that defines the anime's period atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJDUpeouhTFTUR21Kes9H9mco",
+      "name": "Higashi-yamate Western-style Houses",
+      "localName": "東山手洋風住宅群",
+      "coordinates": {
+        "lat": 32.7356567,
+        "lng": 129.8733195
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72815783-372d-4d52-b5cf-53af51c71076.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72815783-372d-4d52-b5cf-53af51c71076.webp"
+        },
+        {
+          "url": "media/cached-image_1297feb50c8e49413ecc93cca0e08b0f9c08e1cb8e3346d95f6667a4b7a68f9f.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Higashi-yamate Western-style Houses, 6-25 Higashiyamatemachi, Nagasaki, 850-0911, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/zAyco35iiyTpxQvW7",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "These preserved Meiji-era Western-style residences in the Higashi-yamate district serve as backdrop architecture for scenes set in Hitomi's Nagasaki neighborhood, their colonial-style facades lending the anime its distinctive historical aesthetic.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJOcP95kFTFTURlFA5pQHUjJQ",
+      "name": "Sofukuji Temple Station",
+      "localName": "崇福寺",
+      "coordinates": {
+        "lat": 32.7412948,
+        "lng": 129.8824582
+      },
+      "image": "https://cdn.animepilgrimage.com/places/41b7e086-1f2e-4bc8-9778-ff5ba5a5ecaf.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/41b7e086-1f2e-4bc8-9778-ff5ba5a5ecaf.webp"
+        },
+        {
+          "url": "media/cached-image_7a232ef6cef8ee517c161f7d6d4d4d655f6703c177a35c9676d4b1191dca5170.jpg"
+        }
+      ],
+      "type": "Tram stop",
+      "categories": [
+        "Tram stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Sofukuji Temple, 5 Aburayamachi, Nagasaki, 850-0832, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NXAHF53j6bw3qq4cA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Sofukuji tram stop appears in episode 9 as a transit point the characters use when traveling across Nagasaki, the surrounding Chinese-influenced temple district adding visual texture to the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_7",
+      "name": "Cafe lx",
+      "localName": "カフェルクス 水辺の森店",
+      "coordinates": {
+        "lat": 32.74062,
+        "lng": 129.87217
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24be0f2f-358b-45b7-a38e-38f7345032e2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24be0f2f-358b-45b7-a38e-38f7345032e2.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/aHKokQkMCfRT2gep7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This waterfront cafe in the Nagasaki Seaside Park area serves as the basis for a cafe scene in episode 9 where the characters spend time together, its glass-walled interior overlooking the water."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzavJ4BZTFTURqqRlxgoZfaI",
+      "name": "Nagasaki Prefectural Art Museum",
+      "localName": "長崎県美術館",
+      "coordinates": {
+        "lat": 32.741910499999996,
+        "lng": 129.8703177
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a9dd584d-ad08-4b8b-88ef-0a87ab16ee44.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a9dd584d-ad08-4b8b-88ef-0a87ab16ee44.webp"
+        },
+        {
+          "url": "media/cached-image_bf323bf9f64be880b24f54950537f1a661b52a79ce72c05b3f00633c41f9a3d0.jpg"
+        },
+        {
+          "url": "media/cached-image_95eee3d579a1f0e3b3deff24dda57c7df6a29585a710ec6b4d4a08ab846b672b.jpg"
+        }
+      ],
+      "type": "Art museum",
+      "categories": [
+        "Art museum"
+      ],
+      "rating": 4.2,
+      "reviewCount": 1,
+      "priceLevel": null,
+      "address": "Nagasaki Prefectural Art Museum, 2-1 Dejimamachi, Nagasaki, 850-0862, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/H6Jy2ecVNL684fwZ9",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The Nagasaki Prefectural Art Museum appears in episode 9, with its distinctive canal-side architecture providing the setting for a pivotal scene where the art club members visit and Hitomi's emotional response to artworks begins to unlock her perception of color.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ36K4TEdTFTURgaLjswusygs",
+      "name": "Fukuromachi Bridge",
+      "localName": "袋町橋",
+      "coordinates": {
+        "lat": 32.7468382,
+        "lng": 129.8793691
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c65108e8-4196-4d3b-91ee-e8e22d4279e8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c65108e8-4196-4d3b-91ee-e8e22d4279e8.webp"
+        },
+        {
+          "url": "media/cached-image_9539f3edd815a0bf3c32f1872193bfc181a6b9232a1becda08e6d38adccd113e.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Fukuromachi Bridge, 1 Ginyamachi, Nagasaki, 850-0875, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/792DZnUGyZ3X6vdz7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This bridge over the Nakashima River appears in episode 9 as the characters travel through central Nagasaki, the stone arch reflecting in the water below in a scene that echoes the anime's visual motif of reflections and hidden beauty."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_10",
+      "name": "Hill Overlooking the Cathedral",
+      "localName": "天主堂の見える丘",
+      "coordinates": {
+        "lat": 32.77696,
+        "lng": 129.86464
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e7802358-973d-4de2-a0b6-cc508efa9036.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e7802358-973d-4de2-a0b6-cc508efa9036.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/wMU38D4F4CwnC9558",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This hill in northern Nagasaki with views toward the Urakami Cathedral region appears in episode 9, its panoramic quality used to convey the sweeping emotional scope of Hitomi's growing connection to the era she has traveled to."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_11",
+      "name": "Iwasugi-jinja shrine",
+      "localName": "岩杉神社",
+      "coordinates": {
+        "lat": 32.76085,
+        "lng": 129.87668
+      },
+      "image": "https://cdn.animepilgrimage.com/places/339c98f5-befc-4da7-a06c-6b97c909ed61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/339c98f5-befc-4da7-a06c-6b97c909ed61.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/JPeKXGb4U4VSL9sq7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "This local shrine appears in episode 9 as the characters explore Nagasaki's hillside neighborhoods, the small neighborhood shrine atmosphere reflecting the series' attention to the quieter, lived-in spaces of the city."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_12",
+      "name": "Rokkakudo",
+      "localName": "六角堂",
+      "coordinates": {
+        "lat": 32.75449,
+        "lng": 129.88075
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a75ae38-ebe3-48b6-bf06-8ffb891bdc08.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a75ae38-ebe3-48b6-bf06-8ffb891bdc08.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/HuPGCDh9Bn4xYNcm8",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "The hexagonal Rokkakudo structure in Nagasaki appears in episode 9, its distinctive octagonal form serving as a recognizable landmark during the characters' journey through the historic Teramachi district."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_13",
+      "name": "Wakamiya Inari Shrine",
+      "localName": "若宮稲荷神社",
+      "coordinates": {
+        "lat": 32.74907,
+        "lng": 129.88773
+      },
+      "image": "https://cdn.animepilgrimage.com/places/39c2190d-c5d6-4eb6-9c94-6879272b01b7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/39c2190d-c5d6-4eb6-9c94-6879272b01b7.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/QFR9HKxDqMdv8wRh7",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Wakamiya Inari Shrine's red torii gates winding up the hillside appear in episode 9, the atmospheric shrine path used as a setting for a quieter character moment as the group moves through Nagasaki's layered topography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL7TPVkRTFTURhQWVwqHOpys",
+      "name": "Kazagashira Park",
+      "localName": "風頭公園展望台",
+      "coordinates": {
+        "lat": 32.746127,
+        "lng": 129.8859853
+      },
+      "image": "https://cdn.animepilgrimage.com/places/81dce718-98d4-41fc-b213-94f153bf47f7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/81dce718-98d4-41fc-b213-94f153bf47f7.webp"
+        },
+        {
+          "url": "media/cached-image_921b9a5d3701f31ee705b1ee3984e81d880b3908919505d0ac7b958c2afd330d.jpg"
+        },
+        {
+          "url": "media/cached-image_23fb7357e6cbf56b8a6008d8b177b01d4621618d0e252adf432359093659ec89.jpg"
+        },
+        {
+          "url": "media/cached-image_21387e6e5389f66a4b086f9a897e7ce42933f373398fe2a6474a7564cd497d9a.jpg"
+        },
+        {
+          "url": "media/cached-image_3b88a0cf85d8be0e1b99f68b3834c0f89fd1318d87482aeb1d0647cbd3a7e53d.jpg"
+        },
+        {
+          "url": "media/cached-image_fb30116b29d2b207787f26eef6fc5031e9208cd06488a24ea2d7f84381915281.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 229,
+      "priceLevel": null,
+      "address": "Kazagashira Park, 3 Chome-4-510 Irabayashi, Nagasaki, 850-0802, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/VtV57VhtNehXvXbdA",
+      "episodeType": "EP",
+      "episodeNumber": 9,
+      "entityContext": "Kazagashira Park's observatory overlooking the harbor appears in episode 9, where the panoramic view of Nagasaki bay serves as an emotional backdrop as Hitomi begins to process her feelings about the friends she has made in the past.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_15",
+      "name": "Takooka Heights",
+      "localName": "高丘ハイツ",
+      "coordinates": {
+        "lat": 32.73107,
+        "lng": 129.88362
+      },
+      "image": "https://cdn.animepilgrimage.com/places/60709211-20c7-4184-abf9-b30a4d7855c9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/60709211-20c7-4184-abf9-b30a4d7855c9.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/FH4bvTLnBvefydRh8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This residential apartment building in the Kamikoshima hillside area appears in episode 10 as part of the neighborhood surrounding Hitomi's daily life in 2018 Nagasaki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_16",
+      "name": "Leopalace Terrace Kamikojima",
+      "localName": "レオパレス テラス上小島",
+      "coordinates": {
+        "lat": 32.73825,
+        "lng": 129.88239
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1f72fbbd-9644-4721-8186-58d2ee34f50f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1f72fbbd-9644-4721-8186-58d2ee34f50f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/TN1y9R8GexxF3ewk6",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This apartment complex in the Kamikoshima district appears in episode 10, its hillside location typical of the terraced residential neighborhoods that define the geography of the anime's Nagasaki setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_17",
+      "name": "Seitokuin",
+      "localName": "聖徳院",
+      "coordinates": {
+        "lat": 32.72953,
+        "lng": 129.8697
+      },
+      "image": "https://cdn.animepilgrimage.com/places/74cbf1b3-754d-4b75-8ec9-42a9b395f4ca.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/74cbf1b3-754d-4b75-8ec9-42a9b395f4ca.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Yp6gWdN5VTCn8chr8",
+      "episodeType": "EP",
+      "episodeNumber": 10,
+      "entityContext": "This temple compound in the Minamiyamate area appears in episode 10 as background architecture within the historic district where Hitomi navigates daily life alongside her grandmother's magic shop."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6X8WXRGhRjURHFs9dxakZ7o",
+      "name": "Kurinoura Beach",
+      "localName": "田ノ浦ビーチ",
+      "coordinates": {
+        "lat": 33.2562492,
+        "lng": 131.5474087
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d4228985-9fd7-427b-b853-731d65791d29.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d4228985-9fd7-427b-b853-731d65791d29.webp"
+        },
+        {
+          "url": "media/cached-image_ab03e51be439b82f0c67bc13a9db8a09cc7fbf1f2e1a7ef459a8252e8ca8ec9f.jpg"
+        }
+      ],
+      "type": "Public beach",
+      "categories": [
+        "Public beach"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Tanoura beach, 4253 Kanzaki, Oita, 870-0100, Japan",
+      "city": "Oita",
+      "region": "Oita",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/xgTTPAwxWYq5XpSG6",
+      "episodeType": "EP",
+      "episodeNumber": 11,
+      "entityContext": "Tanoura Beach in Oita prefecture appears in episode 11, the secluded bay with turquoise waters serving as the setting for the art club's summer beach excursion, a rare moment of carefree joy for Hitomi as she immerses herself in the sensory experience of the era."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ5W_3q_gJAWAR6z_gE_PWDLs",
+      "name": "Hiramatsu Market",
+      "localName": "THE HIRAMATSU 京都",
+      "coordinates": {
+        "lat": 35.0096068,
+        "lng": 135.7579001
+      },
+      "image": "https://cdn.animepilgrimage.com/places/485384a0-12f3-46e8-9ece-bd0bf4c0ca07.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/485384a0-12f3-46e8-9ece-bd0bf4c0ca07.webp"
+        },
+        {
+          "url": "media/cached-image_d0baabb7242f4132e0849c43312042e10f1bdac3ccbdeeaab8b7cc714752138a.jpg"
+        },
+        {
+          "url": "media/cached-image_1632d73620378ff2bba93cd9ccbd0bf533e3d93e1c6cdb8635da99e005a9b83f.jpg"
+        },
+        {
+          "url": "media/cached-image_05c3a5cacb695d591ed2e63e0557e530857457e2ce055436d260f4f9ea54fd61.jpg"
+        },
+        {
+          "url": "media/cached-image_5ee27ba9560776da561ecce429ae6750375ec6db411a333ef89bfdb4262bffe1.jpg"
+        },
+        {
+          "url": "media/cached-image_bb5a567778f2c426420062a3381d494272a6998c2d3aabc316f8fb8ddd08309b.jpg"
+        }
+      ],
+      "type": "Hotel",
+      "categories": [
+        "Hotel"
+      ],
+      "rating": 4.7,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "THE HIRAMATSU Kyoto, 361 Ennogyojacho, Nakagyo Ward, Kyoto, 604-8174, Japan",
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ocTvmeX7KTfZiPXq8",
+      "episodeType": "EP",
+      "episodeNumber": 12
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJqzNtkG9TFTUR4JwhxuOHD48",
+      "name": "Kamikoshimashimizu Park",
+      "localName": "上小島清水公園",
+      "coordinates": {
+        "lat": 32.731122,
+        "lng": 129.88804869999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/97a40146-80ec-4893-93a7-2888677327f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/97a40146-80ec-4893-93a7-2888677327f1.webp"
+        },
+        {
+          "url": "media/cached-image_c6926cd6f6bb59b2b0a10796685f0744c105ca7e13e208e045a1d0bccbbd6700.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kamikoshimashimizu Park, 5 Chome-1 Kamikoshima, Nagasaki, 850-0834, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/yiJYu9ACvmDRTNW56",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This small park in the Kamikoshima neighborhood appears in episode 12 near the residential area where several characters live, its hillside setting among the terraced streets of upper Nagasaki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_21",
+      "name": "Maruojinjashita (Bus)",
+      "localName": "丸尾神社下 (バス)",
+      "coordinates": {
+        "lat": 32.7315,
+        "lng": 129.87977
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ed5a2106-199d-4340-ba3b-e90a233d8b13.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ed5a2106-199d-4340-ba3b-e90a233d8b13.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/aUVKXC5zjDCuCa5J9",
+      "episodeType": "EP",
+      "episodeNumber": 12,
+      "entityContext": "This bus stop near Maruo Shrine appears in episode 12 as a transit reference point in Hitomi's Kamikoshima neighborhood, used by the characters when traveling around the hillside districts of Nagasaki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJU-2X2RNTFTUR5nNflbFcw8w",
+      "name": "Higashi-yamate No 12 Building",
+      "localName": "東山手十二番館",
+      "coordinates": {
+        "lat": 32.7378065,
+        "lng": 129.87354059999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/bf59fe9c-5296-4550-ad6b-713b9218079f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/bf59fe9c-5296-4550-ad6b-713b9218079f.webp"
+        },
+        {
+          "url": "media/cached-image_1d42631868a43aa9695d9be7821006b5312d48e32f96e85da3d1d6c75d63d955.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Higashi-yamate No 12 Building, 市旧居留地私学歴史資料館 3-7 Higashiyamatemachi, Nagasaki, 850-0911, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/vsgxQtUh358WoReTA",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This historic 19th-century consulate building in the Higashi-yamate foreign settlement district appears in the opening sequence, its distinctive colonial architecture establishing the historical atmosphere of Nagasaki that permeates the anime.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJSfofOkdTFTURXov-p4VbjtQ",
+      "name": "Megane Bridge",
+      "localName": "眼鏡橋",
+      "coordinates": {
+        "lat": 32.747144399999996,
+        "lng": 129.8800952
+      },
+      "image": "https://cdn.animepilgrimage.com/places/973d1df6-f63b-418e-bfb1-f65fedcc556c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/973d1df6-f63b-418e-bfb1-f65fedcc556c.webp"
+        },
+        {
+          "url": "media/cached-image_cc563f6652f857684406a35052ed77f8a952ef30a206282d04e077391e49c253.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Megane Bridge, 2 Uonomachi, Nagasaki, 850-0874, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CJ6cxCRxy3Xg4KVF8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Nagasaki's famous spectacles bridge is prominently featured in the opening sequence, its twin stone arches reflecting in the Nakashima River to form the iconic circular shapes that gave it its nickname, representing the city's history and beauty that Hitomi is experiencing.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJIda6-h9TFTURwCMGjRGFDig",
+      "name": "Minamiyamate Parking Lot",
+      "localName": "南山手パーキング",
+      "coordinates": {
+        "lat": 32.7328161,
+        "lng": 129.8680772
+      },
+      "image": "https://cdn.animepilgrimage.com/places/05224920-23d0-4ed9-ab70-5a2fc01198ad.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/05224920-23d0-4ed9-ab70-5a2fc01198ad.webp"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 2.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Minamiyamate Parking Lot, 11 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jMCu6oaDXU2WtNXz5",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This parking area in the Minamiyamate district appears in the opening sequence as part of the hillside landscape near Glover Garden, situated within the historic Western residential zone that defines the anime's visual setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJk1Hhqs1TFTURB32GzMyyS6o",
+      "name": "Maruo Shrine",
+      "localName": "丸尾神社",
+      "coordinates": {
+        "lat": 32.7308066,
+        "lng": 129.8804844
+      },
+      "image": "https://cdn.animepilgrimage.com/places/24acc416-96a8-4d80-86e4-203d709d4feb.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/24acc416-96a8-4d80-86e4-203d709d4feb.webp"
+        },
+        {
+          "url": "media/cached-image_6d1924329ce5f67c595f67b173f173956f616fc3933d1fc0eb1dee9acab3b2c8.jpg"
+        },
+        {
+          "url": "media/cached-image_60e7de8c40d81331e79f0c9e3ed1ae0c07bff254d3b2b31a4b97e5bf9e47a9e6.jpg"
+        },
+        {
+          "url": "media/cached-image_9c1a75fc74d79ebe2bb8a1fe942e2554de971d67aa07c918114257a541bc3007.jpg"
+        },
+        {
+          "url": "media/cached-image_976aa0f8a8f9f1d0889104175e92c3d366513532d14b0adfcdfd75fe5f2b51d8.jpg"
+        },
+        {
+          "url": "media/cached-image_9682b4c0d26c45ba084dd934ca7cd899931f1acd4067deb6bd8ecda6908f0438.jpg"
+        }
+      ],
+      "type": "Shinto shrine",
+      "categories": [
+        "Shinto shrine"
+      ],
+      "rating": 3.5,
+      "reviewCount": 2,
+      "priceLevel": null,
+      "address": "Maruo Shrine, 14-20 Shiinokimachi, Nagasaki, 850-0947, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/YUNoKyM4UJxtkTVA7",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Maruo Shrine in the Kamikoshima residential district appears in the opening sequence, the small neighborhood shrine serving as a landmark in Hitomi's daily route through the hillside community where her grandmother's household is located."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnRvK9PVTFTURwG3DqjTwqho",
+      "name": "Gioia《ジョイア》",
+      "localName": "ジョイア",
+      "coordinates": {
+        "lat": 32.7426501,
+        "lng": 129.873834
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8d6c37be-729a-4034-8c8b-6d0cdbfa3a80.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8d6c37be-729a-4034-8c8b-6d0cdbfa3a80.webp"
+        },
+        {
+          "url": "media/cached-image_da69b07390ab86e20a23fd10f2a47a284597bf2c1b8ff3c02e9855a003795f16.jpg"
+        },
+        {
+          "url": "media/cached-image_86a8636e76aa7267dd9859ae8a2c8318eff3971dcd0bedfb9e1f4b6db4d5f1d2.jpg"
+        },
+        {
+          "url": "media/cached-image_1b827bcad2c20158689419d6750ad8ff701c9a3ff333eb523721223a0f85ae79.jpg"
+        }
+      ],
+      "type": "カフェテリア",
+      "categories": [
+        "カフェテリア"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒850-0862 Nagasaki, Dejimamachi, 10−13 Gioia《ジョイア》",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/7wDTAS3H2jDnhZTv8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This cafe near the Dejima waterfront area of Nagasaki appears in the opening sequence, its distinctive exterior serving as a background reference in the commercial district scenes that anchor the anime's contemporary 2018 setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_27",
+      "name": "Former Steele Memorial Academy",
+      "localName": "旧スチイル記念学校",
+      "coordinates": {
+        "lat": 32.73203,
+        "lng": 129.8684
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6c183545-eec3-4dee-ada6-a149e7786489.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6c183545-eec3-4dee-ada6-a149e7786489.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/RSdPKKo3YNnycCSe7",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This historic Meiji-era school building in the Minamiyamate area appears in the opening sequence, its Western Gothic architecture making it one of the most recognizable structures in the foreign settlement district that defines the anime's visual identity."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9enpiQVTFTURuWH2vnmx0Jc",
+      "name": "Nagasaki Local Meteorological Observatory",
+      "localName": "長崎地方気象台",
+      "coordinates": {
+        "lat": 32.7336641,
+        "lng": 129.8681488
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3d716112-0d11-4e83-97b9-0b0c7d693e41.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3d716112-0d11-4e83-97b9-0b0c7d693e41.webp"
+        },
+        {
+          "url": "media/cached-image_df21c4f92790da6bb0df514f42e796b2fb9be5c235616cbb245921b3562fde6f.jpg"
+        }
+      ],
+      "type": "Government office",
+      "categories": [
+        "Government office"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagasaki Local Meteorological Observatory, 11-51 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/jTDpG2TeLbpgHcxX8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "The Nagasaki Meteorological Observatory's distinctive early 20th-century building appears in the opening sequence, its prominent hilltop position in the Minamiyamate area making it a recognizable landmark in the skyline Hitomi inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJRZMRAA9TFTUR7ssYS8CJG4A",
+      "name": "Ouratenbo Park",
+      "localName": "大浦展望公園",
+      "coordinates": {
+        "lat": 32.733425,
+        "lng": 129.870713
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0ffac94c-f5ff-46ad-b7b4-f03f5e43d3a5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0ffac94c-f5ff-46ad-b7b4-f03f5e43d3a5.webp"
+        },
+        {
+          "url": "media/cached-image_8b27449d892772df6c7f184c0471a8ee36c0f35e563cedfb0c4cdbf824a8282c.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Ouratenbo Park, 16 Aioimachi, Nagasaki, 850-0922, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/vnPqKCSVPJSo7BLz6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Ouratenbo Park's hillside overlook in the Oura district appears in episode 1, offering a sweeping view of Nagasaki harbor that mirrors the wonder Hitomi experiences upon arriving in the 2018 past, surrounded by the color-saturated world her magic allows her to see."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwdt2VVZTFTURAcS7Awtg0yA",
+      "name": "Glover Skyroad Vertical Elevator",
+      "localName": "グラバースカイロード 垂直エレベーター",
+      "coordinates": {
+        "lat": 32.7330204,
+        "lng": 129.8712056
+      },
+      "image": "https://cdn.animepilgrimage.com/places/158a864a-c501-40bb-9f98-0a3da91ad883.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/158a864a-c501-40bb-9f98-0a3da91ad883.webp"
+        },
+        {
+          "url": "media/cached-image_eb6f9bb782c146012811759d45df620512f41b96fe7f7dd16284c5cc353a7c2f.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NfCjeminKGdb4Ztp6",
+      "episodeType": "ED",
+      "episodeNumber": null,
+      "entityContext": "The Glover Skyroad's vertical elevator connecting the hillside to the lower city appears in the ending sequence, its sleek modern form contrasting with the historic surroundings as the characters use it to traverse Nagasaki's dramatic topography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA4iJNglTFTURFwZPU5VfM7o",
+      "name": "Mt. Nabekammuri Observatory",
+      "localName": "鍋冠山展望台",
+      "coordinates": {
+        "lat": 32.7295242,
+        "lng": 129.8689439
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ece01d6e-9e70-4a9b-90d5-56a098f497ee.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ece01d6e-9e70-4a9b-90d5-56a098f497ee.webp"
+        },
+        {
+          "url": "media/cached-image_1ba3c2f3a6d1f64e01f026b4ef7f403cf93b432bba39ab2b1068ac4c0e5373f6.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Mt. Nabekammuri Observatory, 2 Chome-144-1 Izumo, Nagasaki, 850-0924, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QqdUguhzQUFLYeVm7",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "Mt. Nabekammuri's observation deck with its sweeping nighttime view of Nagasaki harbor appears in the opening sequence, the twinkling city lights below evoking the sense of wonder and temporal displacement that defines Hitomi's journey.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_32",
+      "name": "Forest Witch Cafe",
+      "localName": "森の魔女カフェ",
+      "coordinates": {
+        "lat": 32.86881,
+        "lng": 129.767
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d0726aac-b546-49c2-a4b4-12f082cca4b0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d0726aac-b546-49c2-a4b4-12f082cca4b0.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/L1ZQfwPKb3s1pYSD8",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Forest Witch Cafe on the outskirts of Nagasaki appears in episode 1, its whimsical woodland setting serving as a visual counterpart to the magical elements of the story, a place that feels at home in a world where witches exist alongside ordinary people."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_33",
+      "name": "Hotta Apartments",
+      "localName": "コーポ堀田",
+      "coordinates": {
+        "lat": 32.73337,
+        "lng": 129.87673
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0bda28eb-7af0-401a-a4f7-8485ecfd8b67.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0bda28eb-7af0-401a-a4f7-8485ecfd8b67.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/8jSAXrL7Azdc92kx6",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This Higashi-yamate neighborhood apartment building appears in episode 1 as part of the residential streetscape near Hitomi's grandmother's home, establishing the ordinary domestic life that surrounds the magical premise of the series."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJVVUxFg9TFTURSWBY--Z-WT4",
+      "name": "Former Mitsubishi No.2 Dock House",
+      "localName": "旧三菱第2ドックハウス",
+      "coordinates": {
+        "lat": 32.732613,
+        "lng": 129.869962
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c9fa1333-be89-4193-8b56-c9f48be0f59b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c9fa1333-be89-4193-8b56-c9f48be0f59b.webp"
+        },
+        {
+          "url": "media/cached-image_7ba423369cd8927e4902f23cf9353d945e1048b259b33543d00774476ce58bc4.jpg"
+        }
+      ],
+      "type": "Heritage building",
+      "categories": [
+        "Heritage building"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Former Mitsubishi No.2 Dock House, 8 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/mKcpRbgghL2TyC9C8",
+      "episodeType": "OP",
+      "episodeNumber": null,
+      "entityContext": "This Meiji-era Western-style guesthouse within the Glover Garden precinct appears in the opening sequence, its veranda and Victorian architecture visible from the hillside scenes that establish Nagasaki's layered history as the world Hitomi travels back to."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ6Z0vF0HrG2AR3jKfbJdLubI",
+      "name": "Minamikoma District",
+      "localName": "南巨摩郡",
+      "coordinates": {
+        "lat": 35.3980542,
+        "lng": 138.4387577
+      },
+      "image": null,
+      "images": [],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Minamikoma District, Yamanashi, Japan",
+      "city": null,
+      "region": "Minamikoma District, Yamanashi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/779aBGDV4hXgPHCu9",
+      "episodeType": "EP",
+      "episodeNumber": 4
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJf596WEJ7A2ARQKHf7jypUOo",
+      "name": "Higashiyama Park",
+      "localName": "東山動植物園の遊園地",
+      "coordinates": {
+        "lat": 35.159251,
+        "lng": 136.9763026
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f943f37a-66c5-44ea-b10a-0192b050ccb1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f943f37a-66c5-44ea-b10a-0192b050ccb1.webp"
+        },
+        {
+          "url": "media/cached-image_e178cb9a97078c3884c93a862cc7852ca971fb4290214b427a4539818133325f.jpg"
+        },
+        {
+          "url": "media/cached-image_bb708b8c24a38a5d265ebca971ce45bf53805aa7dc1c8693b149528ec11dddab.jpg"
+        },
+        {
+          "url": "media/cached-image_bb475744dbdbbe3309d2021ab498aa48b82e24e7b9c113a7308b5bc87a9a2b70.jpg"
+        },
+        {
+          "url": "media/cached-image_bf9a051ed4499d24571341ea5a10fbabb3f3efa8fc729a9ce80582933028f6ee.jpg"
+        },
+        {
+          "url": "media/cached-image_270d0b9faa7355ec77cc3304128f288aa7718841090aa399714312f42fa2372e.jpg"
+        }
+      ],
+      "type": "Amusement park",
+      "categories": [
+        "Amusement park"
+      ],
+      "rating": 4.2,
+      "reviewCount": 18,
+      "priceLevel": null,
+      "address": "Higashiyama Zoo and Botanical Gardens Amusement Park, Kameiri-1-1 Tashirocho, Chikusa Ward, Nagoya, Aichi 464-0803, Japan",
+      "city": "Nagoya",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/PMfThv2C3qURca148",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJjeUa3Q9TFTURKRKA_QCafcw",
+      "name": "FamilyMart Nagasaki Glover Ave.",
+      "localName": "ファミリーマート 長崎グラバー通り店",
+      "coordinates": {
+        "lat": 32.7358706,
+        "lng": 129.869515
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5fd6c31b-cb7a-4cfd-bbf0-990c61d0acc2.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5fd6c31b-cb7a-4cfd-bbf0-990c61d0acc2.webp"
+        },
+        {
+          "url": "media/cached-image_a5ead68399f195ebcf0b9a078b296dd8107b9ed359e57016ae494980ffb6d937.jpg"
+        },
+        {
+          "url": "media/cached-image_738356da2bdadab61cc41a60b0774906195d67f81990e3cb4ceb6f98fe5cdc84.jpg"
+        }
+      ],
+      "type": "Convenience store",
+      "categories": [
+        "Convenience store"
+      ],
+      "rating": 3.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "FamilyMart Nagasaki Glover Ave., 南山手オルゴール館 2-33 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/hRbPG8cvJh1Q3qK56",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This convenience store on the famous Glover Street hill appears in episode 1, its familiar modern facade a deliberate contrast against the historic stone steps and period Western-style buildings climbing toward Glover Garden."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJdZlP4A9TFTURB1AXleH0d6I",
+      "name": "Nagasakishi Matsugaecho Parking Lot",
+      "localName": "長崎市松が枝町駐車場",
+      "coordinates": {
+        "lat": 32.736199299999996,
+        "lng": 129.8693503
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee4337a8-5208-438e-9c15-d0ded25051d8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee4337a8-5208-438e-9c15-d0ded25051d8.webp"
+        },
+        {
+          "url": "media/cached-image_fddb13100e9a81f294f0ada8858d085cf53351151779063a3f26cfa696e04302.jpg"
+        }
+      ],
+      "type": "Parking lot",
+      "categories": [
+        "Parking lot"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nagasakishi Matsugaecho Parking Lot, 4-22 Matsugaemachi, Nagasaki, 850-0921, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Dk7JLEUpKuw2qEX66",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "This parking area near the Glover Garden district appears in episode 1 as a transitional location in the lower Minamiyamate neighborhood, part of the everyday urban fabric that grounds the anime's fantastical premise in authentic Nagasaki geography."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-1YUDQ9TFTURTaDlt9ANkJ0",
+      "name": "Jiyu-tei Cafe and Teahouse",
+      "localName": "自由亭 喫茶室",
+      "coordinates": {
+        "lat": 32.7338058,
+        "lng": 129.8694123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/79c8fdc3-b222-4326-b8bd-7b1048efc8e7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/79c8fdc3-b222-4326-b8bd-7b1048efc8e7.webp"
+        },
+        {
+          "url": "media/cached-image_60b355d667ae483c5fa76fb71093dcc508e112eda80e9d1f28989e97f3c42c19.jpg"
+        },
+        {
+          "url": "media/cached-image_23c0734594e79d8c0a3f79803eef2124a5115a38cea2fc4a6cb8174863fc5c2e.jpg"
+        },
+        {
+          "url": "media/cached-image_8f8568c99a080482bd7d91b5a9c7787626d5ef9ef8c217af2f4835a2e0a62815.jpg"
+        },
+        {
+          "url": "media/cached-image_d3b23313ad57d32e692578ba41ff1dd6a40d0fa309e0e55db9774e546a04fe98.jpg"
+        },
+        {
+          "url": "media/cached-image_4253b38e955e498f83f1cfcde8a78d15de9c8a6c7fbfde5f0c890d0f8cace1e1.jpg"
+        }
+      ],
+      "type": "Coffee shop",
+      "categories": [
+        "Coffee shop"
+      ],
+      "rating": 4.4,
+      "reviewCount": 31,
+      "priceLevel": null,
+      "address": "Jiyu-tei Cafe and Teahouse, 8-1 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/WMAFDE58rADx4tfTA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "The Jiyu-tei historical cafe within Glover Garden appears in episode 1, its red-brick Victorian interior providing the atmospheric backdrop for an early scene where characters experience the culturally layered history of Nagasaki's foreign settlement district.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_40",
+      "name": "Prayer Slope",
+      "localName": "祈念坂",
+      "coordinates": {
+        "lat": 32.73386,
+        "lng": 129.87036
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d1885944-c2e3-45c8-a5ff-73bf89efccc8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d1885944-c2e3-45c8-a5ff-73bf89efccc8.webp"
+        },
+        {
+          "url": "media/cached-image_082584165a03ed52b7f9e40f4934379d85c610cc5586ecb4b54f7ae47515d27a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/cqCrx639bMj63aLU8",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "Kinenzan slope (Kinenzan-zaka), one of Nagasaki's most photographed stone-paved streets, appears repeatedly in Iroduku as Hitomi walks between the hillside residential area and the waterfront below, its cobblestones and Catholic church atmosphere capturing the melancholy beauty of the world she has traveled back to."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ19-XPsyLGGARlJXFLH7bxt0",
+      "name": "Hinodemachi (Bus)",
+      "localName": "日の出桟橋入口",
+      "coordinates": {
+        "lat": 35.650123,
+        "lng": 139.75905799999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/eef40f31-1569-4a7d-acb3-898648d10142.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/eef40f31-1569-4a7d-acb3-898648d10142.webp"
+        },
+        {
+          "url": "media/cached-image_a74bdba5fc87536fbc7a6091147fc9c158cd4296c7017ab40dc8075e81ea9dcc.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Hinodesambashi Ent., 2-chōme-6 Kaigan, Minato City, Tokyo 105-0022, Japan",
+      "city": "Minato City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/KVzi8oSxV2tUyzoUA",
+      "episodeType": "EP",
+      "episodeNumber": 1
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ0yGXjAtTFTURFBG9d5maqFA",
+      "name": "Izumokinrin Park",
+      "localName": "出雲近隣公園",
+      "coordinates": {
+        "lat": 32.728907,
+        "lng": 129.8744109
+      },
+      "image": "https://cdn.animepilgrimage.com/places/304f6780-7d00-454c-b360-c4560d00c492.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/304f6780-7d00-454c-b360-c4560d00c492.webp"
+        },
+        {
+          "url": "media/cached-image_ee7633fa92b6037a8d6671d28120179a1b9bb3f658d0c0f66c3216f416910d21.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Izumokinrin Park, 1 Chome-4-223-1 Izumo, Nagasaki, 850-0924, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/5sfoZtL7Xxq3MDneA",
+      "episodeType": "EP",
+      "episodeNumber": 1,
+      "entityContext": "Izumo neighborhood park in southern Nagasaki appears in episode 1, its local playground and green space representing the residential hillside community below Mt. Nabekammuri where Hitomi's family connections are rooted."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJd2yFxBBTFTURJLRcXL4Jkww",
+      "name": "Nagasaki Seaside Park",
+      "localName": "長崎水辺の森公園",
+      "coordinates": {
+        "lat": 32.7411926,
+        "lng": 129.86915109999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8399493b-33f8-4b05-aa54-c7761a8b9050.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8399493b-33f8-4b05-aa54-c7761a8b9050.webp"
+        },
+        {
+          "url": "media/cached-image_42d95da7780ae55b5528fc456fff81459d6ed167d16fd9d36867f903aa0d5a80.jpg"
+        },
+        {
+          "url": "media/cached-image_bf323bf9f64be880b24f54950537f1a661b52a79ce72c05b3f00633c41f9a3d0.jpg"
+        },
+        {
+          "url": "media/cached-image_e1e9ccdf9abb8a8abff4de6612b9b1b46c6750a7795f99712d1a98e754a3ea8f.jpg"
+        },
+        {
+          "url": "media/cached-image_8bd354426b9c0092d7ba3e06530fd768851a31f10f3ab8b61fa8bcbdfb46ac2a.jpg"
+        },
+        {
+          "url": "media/cached-image_04dcbccb0c2e05464fe4d706bb9cff247832887115bcf0c73ee9f507edc36ea5.jpg"
+        }
+      ],
+      "type": "Park",
+      "categories": [
+        "Park"
+      ],
+      "rating": 4.3,
+      "reviewCount": 2485,
+      "priceLevel": null,
+      "address": "Nagasaki Seaside Park, 22-17 Tokiwamachi, Nagasaki, 850-0843, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/BvHZ1KPh16pBNLiy6",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Nagasaki Seaside Park (Mizube no Mori Koen) along the Dejima waterfront appears in episode 4, its open promenade and canal-side paths providing space for the art club members to gather outdoors, the harbor views framing pivotal conversations between Hitomi and Yuito.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ34BEgoRTFTURm9sPe3FbyOs",
+      "name": "Glover Garden",
+      "localName": "グラバー園",
+      "coordinates": {
+        "lat": 32.734331399999995,
+        "lng": 129.8691886
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7b5a39a9-6e92-4847-9029-6e457e2bc28c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7b5a39a9-6e92-4847-9029-6e457e2bc28c.webp"
+        },
+        {
+          "url": "media/cached-image_c3638954c694ca6d86da7ac8a8be88d9612d309faacf09784084638ae2f8b1e0.jpg"
+        },
+        {
+          "url": "media/cached-image_1801517587d118174253ef3b0707c8e3302af0f941f87a14b14b732dc4ae0ca6.jpg"
+        },
+        {
+          "url": "media/cached-image_712ef01bf46e9112062d5003e747283cdd468df038b7be4405021e887a25b695.jpg"
+        },
+        {
+          "url": "media/cached-image_c4f4059c46820671396e51c65e1a47f747ef3ef0e38bcf57fa729e2cf4cd2bc1.jpg"
+        },
+        {
+          "url": "media/cached-image_8f67b7dfdb9225cb0f9c1f1f4fc4db7625dff8cd21196acb36d62873cbddae55.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.2,
+      "reviewCount": 253,
+      "priceLevel": null,
+      "address": "Glover Garden, 8-1 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/C58b5YDCUCuNj5gU7",
+      "episodeType": "EP",
+      "episodeNumber": 4,
+      "entityContext": "Glover Garden, the hilltop historic park containing Meiji-era Western merchant residences, appears in episode 4 as a key pilgrimage destination where the art club visits, the panoramic harbor view and colonial architecture resonating with the anime's themes of time, memory, and belonging.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJnfTVYxFTFTURnQEZ7ZWSrlk",
+      "name": "Higashi Yamate 13 House",
+      "localName": "東山手甲十三番館",
+      "coordinates": {
+        "lat": 32.738212499999996,
+        "lng": 129.873162
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2191f34b-0ef2-4463-9e01-bd21cd3fb404.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2191f34b-0ef2-4463-9e01-bd21cd3fb404.webp"
+        },
+        {
+          "url": "media/cached-image_2e11fb13428b15cd332355df334cf23ce106034884cabdc66acfee7049cb0714.jpg"
+        },
+        {
+          "url": "media/cached-image_6c333241a7baafefbb90777cd93e106638fb358a5a55991ddb5b63b04ccbdc3b.jpg"
+        }
+      ],
+      "type": "Historical landmark",
+      "categories": [
+        "Historical landmark"
+      ],
+      "rating": 4.3,
+      "reviewCount": 13,
+      "priceLevel": null,
+      "address": "Higashi Yamate 13 House, 3-1 Higashiyamatemachi, Nagasaki, 850-0911, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/Kq5QseyEV3zUBLEa8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "This historic Western-style residence in the Higashi-yamate foreign settlement appears in episode 5, its distinctive Meiji-era architecture visible as the characters walk through the preserved heritage streetscape that forms the heart of the anime's Nagasaki setting."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_46",
+      "name": "Ishibashi Station",
+      "localName": "石橋駅",
+      "coordinates": {
+        "lat": 32.73433,
+        "lng": 129.87235
+      },
+      "image": "https://cdn.animepilgrimage.com/places/04c49edb-cc2a-4c90-952f-ed4160e16307.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/04c49edb-cc2a-4c90-952f-ed4160e16307.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/8secDmokcvdDennr6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Ishibashi tram terminus near Glover Garden appears in episode 5 as the starting point for the art club's journey through the Minamiyamate district, the small streetcar stop capturing the unhurried pace of historic Nagasaki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJPc1IehFTFTURf7_r8qnrDx0",
+      "name": "Holland Zaka",
+      "localName": "オランダ坂",
+      "coordinates": {
+        "lat": 32.7379381,
+        "lng": 129.8732092
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dccad973-0c3a-41b8-a85d-20a6974e1271.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dccad973-0c3a-41b8-a85d-20a6974e1271.webp"
+        },
+        {
+          "url": "media/cached-image_8fdddea0fdc17879e068485c5460cd9b0b5cab4ff963cc09fe5fed4d59dc3f09.jpg"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Holland Zaka, Nagasaki, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CSwByvjCHGsVUNrY6",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "Holland Zaka (Oranda-zaka), the picturesque stone-paved slope lined with Western-style buildings in the Higashi-yamate district, appears in episode 5 as one of Iroduku's most visually memorable locations, the characters walking its cobblestones in a scene that crystallizes Hitomi's growing attachment to this era.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuTVTbGtTFTURNLqUwIeQ7Cc",
+      "name": "（有）カネチ本舗",
+      "localName": "（有）カネチ本舗",
+      "coordinates": {
+        "lat": 32.7317342,
+        "lng": 129.88530699999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/abede92c-c11b-4ec8-97f2-3a924fca2691.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/abede92c-c11b-4ec8-97f2-3a924fca2691.webp"
+        }
+      ],
+      "type": "Japanese grocery store",
+      "categories": [
+        "Japanese grocery store"
+      ],
+      "rating": 3.8,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "（有）カネチ本舗, 4 Chome-6-25 Kamikoshima, Nagasaki, 850-0834, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/3HBa9gGh4BacnmYa9",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This neighborhood grocery in the Kamikoshima residential area appears in episode 6, a quiet background fixture in the everyday domestic scenes set in the hillside community where the main characters live."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ06xX0j9TFTURSr8e2cwYBys",
+      "name": "Nishi-Hamanomachi Station",
+      "localName": "西浜町駅",
+      "coordinates": {
+        "lat": 32.743766199999996,
+        "lng": 129.876117
+      },
+      "image": "https://cdn.animepilgrimage.com/places/2f3490fe-a55b-4b27-ba28-ca08736498c8.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/2f3490fe-a55b-4b27-ba28-ca08736498c8.webp"
+        },
+        {
+          "url": "media/cached-image_1c89d2a4e9e4ff128de0669c9e12dd4bfbbd6bca64d6b3c2e46852fbe3429388.jpeg"
+        }
+      ],
+      "type": "Tram stop",
+      "categories": [
+        "Tram stop"
+      ],
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Nishi-Hamanomachi Station, 4 Dōzamachi, Nagasaki, 850-0841, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/QziYfWrj82YKjQ4QA",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "Nishi-Hamanomachi tram stop in central Nagasaki appears in episode 6, the shopping arcade district nearby serving as a gathering point for the characters during their outings through the city's commercial heart."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ11lBREdTFTURkQzMILAOSHk",
+      "name": "長崎の猫雑貨 nagasaki-no neco",
+      "localName": "長崎の猫雑貨",
+      "coordinates": {
+        "lat": 32.7476088,
+        "lng": 129.8793844
+      },
+      "image": "https://cdn.animepilgrimage.com/places/78b2f0cd-7cae-4cc8-8f33-53ec650b4e7b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/78b2f0cd-7cae-4cc8-8f33-53ec650b4e7b.webp"
+        }
+      ],
+      "type": "Variety store",
+      "categories": [
+        "Variety store"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒850-0875 Nagasaki, Sakaemachi, 6−7 長崎の猫雑貨 nagasaki-no neco",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/brPWJwL3kvN1Jfd19",
+      "episodeType": "EP",
+      "episodeNumber": 6,
+      "entityContext": "This Nagasaki cat-themed gift shop near the Megane Bridge area appears in episode 6, visited by the characters during a group outing that captures the relaxed, exploratory mood of their friendship developing across the shopping and riverside districts of central Nagasaki."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCVwGWRZTFTURV6K6icE13LI",
+      "name": "Nagasaki Customs",
+      "localName": "長崎税関",
+      "coordinates": {
+        "lat": 32.742658299999995,
+        "lng": 129.8717551
+      },
+      "image": "https://cdn.animepilgrimage.com/places/72dc96d1-fad1-4bce-8cf7-3a7262b4d69b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/72dc96d1-fad1-4bce-8cf7-3a7262b4d69b.webp"
+        },
+        {
+          "url": "media/cached-image_106392a7a561d83869b34121ca1c18553821a172989904ce605106678776e19a.jpg"
+        },
+        {
+          "url": "media/cached-image_ad80b64d2bf43ca8e793d3939fa5a43ff0845c8819b844f01339a5cb0059a28a.jpg"
+        }
+      ],
+      "type": "Customs office",
+      "categories": [
+        "Customs office"
+      ],
+      "rating": 3.5,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Nagasaki Customs, 2F 1-36 Dejimamachi, Nagasaki, 850-0862, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/CQn75iWxA1hQkL1b6",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Nagasaki Customs building on the Dejima waterfront appears in episode 7, its neoclassical facade a landmark along the harbor promenade where several scenes of the characters looking out toward the sea take place."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_52",
+      "name": "Ioujima Prayer Rock",
+      "localName": "伊王島祈りの岩",
+      "coordinates": {
+        "lat": 32.71288,
+        "lng": 129.76838
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6633f418-f4ab-4552-8e90-711ee9a467de.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6633f418-f4ab-4552-8e90-711ee9a467de.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/gzbEfbUuq7nL38cAA",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Prayer Rock on Iojima island off the coast of Nagasaki appears in episode 7, the isolated coastal setting providing a contemplative backdrop for a pivotal scene in which Hitomi confronts her feelings and her magical inheritance by the sea."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJzWAPRGBOFTURDt_ji_4m8gk",
+      "name": "Costa del Sol Ioujima Beach",
+      "localName": "コスタデルソル伊王島海水浴場",
+      "coordinates": {
+        "lat": 32.7104125,
+        "lng": 129.7684265
+      },
+      "image": "https://cdn.animepilgrimage.com/places/921cf59d-c0fa-40d0-8918-d2294dc523e1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/921cf59d-c0fa-40d0-8918-d2294dc523e1.webp"
+        },
+        {
+          "url": "media/cached-image_2113e703c3f109baadeb300cead75179936d66809e7ed0699edcd299d3dff348.jpg"
+        }
+      ],
+      "type": "Public beach",
+      "categories": [
+        "Public beach"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒851-1201 Nagasaki, Iojimamachi, 1 Chome−2129 コスタデルソル伊王島海水浴場",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/ZxS2FTmqehGbL9nj7",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The beach on Iojima island appears in episode 7 as the setting for a group outing by the art club, the clear waters and remote island atmosphere creating a sense of escape from the ordinary as Hitomi experiences one of her most vivid color-perception episodes.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1ZrpF09SFTURayYPHmuqoWU",
+      "name": "Megami Ohashi Bridge.",
+      "localName": "女神大橋",
+      "coordinates": {
+        "lat": 32.7212776,
+        "lng": 129.84965549999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/beb20375-14a9-4a0e-8f46-f869fa6414ff.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/beb20375-14a9-4a0e-8f46-f869fa6414ff.webp"
+        },
+        {
+          "url": "media/cached-image_4f26ce408e7c44d8f66141e25eec0e1f665afcec1d421238be04e7fb252c4295.jpg"
+        },
+        {
+          "url": "media/cached-image_f9dfbef31c6d04733569b5a5e929b26b386bd77a04d78d163c27f751afc64416.jpg"
+        }
+      ],
+      "type": "Bridge",
+      "categories": [
+        "Bridge"
+      ],
+      "rating": 4.2,
+      "reviewCount": 71,
+      "priceLevel": null,
+      "address": "Megami Ōhashi Bridge., Nagasaki, 850-0952, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/r84SUqJpZrr5vp8P9",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "The Megami Ohashi cable-stayed bridge spans the Nagasaki harbor entrance and appears in episode 7 during scenes on the water near Iojima, its towering modern form a dramatic contrast to the historic city visible beyond."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ4XJQHZRTFTURVm9zKb96VZY",
+      "name": "Glover Sky Road Inclined Elevator",
+      "localName": "グラバースカイロード 斜行エレベーター",
+      "coordinates": {
+        "lat": 32.7331934,
+        "lng": 129.8720266
+      },
+      "image": "https://cdn.animepilgrimage.com/places/0861bc8b-fb40-4dca-b349-8add9b03fb10.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/0861bc8b-fb40-4dca-b349-8add9b03fb10.webp"
+        },
+        {
+          "url": "media/cached-image_eda1357a4c4b2388ea332835a2bf8852a1a20d3e96b596e611098f06e78efb94.jpg"
+        }
+      ],
+      "type": "Elevator service",
+      "categories": [
+        "Elevator service"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Glover Sky Road Inclined Elevator, 8-1 Uedamachi, Nagasaki, 850-0923, Japan",
+      "city": "Nagasaki",
+      "region": "Nagasaki",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/heZyVaEaH6MjDv317",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "The Glover Sky Road inclined elevator connecting the lower city to the hillside near Glover Garden appears in episode 8, the ascending tram-like car offering a view over the Nagasaki rooftops that mirrors Hitomi's own shifting perspective on the era she inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_iroduku_56",
+      "name": "Oranda Bridge",
+      "localName": "おらんだ橋",
+      "coordinates": {
+        "lat": 32.74272,
+        "lng": 129.87477
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5a2be80f-6269-44ed-aee7-49e7107b45fa.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5a2be80f-6269-44ed-aee7-49e7107b45fa.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/18aSNR3fgVMpNES16",
+      "episodeType": "EP",
+      "episodeNumber": 8,
+      "entityContext": "This small bridge in the Higashi-yamate district appears in episode 8 as part of the network of historic lanes and canals that the characters traverse, the Dutch-influenced name nodding to Nagasaki's unique heritage as Japan's historic window to the West."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJaXSSU7t_QDURa9DzZQM4t9s",
+      "name": "Kiyasu Shokudo",
+      "localName": "きやす食堂",
+      "coordinates": {
+        "lat": 32.5063399,
+        "lng": 130.6044415
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1a1ccc9b-5416-4eb2-807b-496447c22e61.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1a1ccc9b-5416-4eb2-807b-496447c22e61.webp"
+        },
+        {
+          "url": "media/cached-image_0427bb631dcabf6668af5971dd34fc46846ed4c5b03d53d8419adb80c29806fe.jpg"
+        }
+      ],
+      "type": "Syokudo and Teishoku restaurant",
+      "categories": [
+        "Syokudo and Teishoku restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kiyasu Shokudo, 1 Chome-1-39 Honmachi, Yatsushiro, Kumamoto 866-0861, Japan",
+      "city": "Yatsushiro",
+      "region": "Kumamoto",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/nEvqGdTNmvyrqLWcA",
+      "episodeType": "EP",
+      "episodeNumber": 8
+    }
+  ]
+}

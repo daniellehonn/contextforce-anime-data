@@ -1,0 +1,802 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Initial D Legend 2 Racer",
+  "slug": "initial-d-legend-2",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_fffc0a9b801a004eea5bb660a500f4530af8a98c7efce293de2bdab25f87b472.webp",
+  "image": "media/cached-image_fffc0a9b801a004eea5bb660a500f4530af8a98c7efce293de2bdab25f87b472.webp",
+  "banner": null,
+  "primaryLocation": "Gunma, Japan",
+  "primaryLocationCoords": {
+    "lat": 36.3545134909091,
+    "lng": 138.66482473181816
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Initial D Legend 2 Racer"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_0",
+      "name": "Curve 6",
+      "localName": "カーブ 6",
+      "coordinates": {
+        "lat": 36.50079,
+        "lng": 138.91004
+      },
+      "image": "https://cdn.animepilgrimage.com/places/21eeee82-80b0-4dc6-a936-79630aa68703.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/21eeee82-80b0-4dc6-a936-79630aa68703.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.500706,138.9101909,3a,75y,302.55h,99.74t/data=!3m7!1e1!3m5!1snGfMe0gEXRpkTkuCfcQ1Xg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.739795692873017%26panoid%3DnGfMe0gEXRpkTkuCfcQ1Xg%26yaw%3D302.54784861479504!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 6 on the Ikaho road is one of the early numbered corners Takumi and Ryosuke charge through in Legend 2, where Ryosuke's smooth late-apex lines begin to apply pressure on Takumi's downhill instincts."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_1",
+      "name": "Curve 11",
+      "localName": "カーブ 11",
+      "coordinates": {
+        "lat": 36.4977,
+        "lng": 138.9051
+      },
+      "image": "https://cdn.animepilgrimage.com/places/07538a6b-9ef5-4624-84dd-51def9269348.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/07538a6b-9ef5-4624-84dd-51def9269348.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4978557,138.9051853,3a,75y,208.77h,98.56t/data=!3m7!1e1!3m5!1sleDYzUG8LdOeTHHWY0lUYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.56171895350397%26panoid%3DleDYzUG8LdOeTHHWY0lUYw%26yaw%3D208.77328153247151!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 11 is a key mid-section bend on the Ikaho battle road in Legend 2, where the gap between Takumi and Ryosuke shifts as both drivers push their cars to the limit on the tight descent."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJA85ARm7vHmAR2F5aKrmRVSo",
+      "name": "Hashie Parking Area (westbound)",
+      "localName": "波志江PA (西行き)",
+      "coordinates": {
+        "lat": 36.3535186,
+        "lng": 139.18958229999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/938e3348-5900-42fe-a977-ad8ed4642e3b.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/938e3348-5900-42fe-a977-ad8ed4642e3b.webp"
+        },
+        {
+          "url": "media/cached-image_de676cdce29b81bd4e7bb8c507400a5f071f7ee1ace242e7a3095dedbedfb1cb.jpg"
+        },
+        {
+          "url": "media/cached-image_1477e6d50c6ed89eb01610ab0da0102db1354174ca7de8812d706e92597a4067.jpg"
+        },
+        {
+          "url": "media/cached-image_3c00f507a96f8b91b0567e71b5e59c05ee92a4c58298094bd2941d015cb05085.jpg"
+        },
+        {
+          "url": "media/cached-image_956d00acce7d27e269e32be054d46678fa6830be3056fd490dd2515ef4094229.jpg"
+        },
+        {
+          "url": "media/cached-image_56938e7e240a5d647057c84b8bfab9a2553a8f8146a32aec9cdab13a83d9f87a.jpg"
+        }
+      ],
+      "type": "Toll road rest stop",
+      "categories": [
+        "Toll road rest stop"
+      ],
+      "rating": 3.4,
+      "reviewCount": 73,
+      "priceLevel": null,
+      "address": "Hashie PA (westbound), 2564-1 Hashiemachi, Isesaki, Gunma 372-0001, Japan",
+      "city": "Isesaki",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3534779,139.1900534,3a,75y,193.27h,94.99t/data=!3m7!1e1!3m5!1s2B5e10RNzwHRvO2EuezPbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.98604266611693%26panoid%3D2B5e10RNzwHRvO2EuezPbg%26yaw%3D193.27008734120895!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Hashie service area on the Kan-Etsu Expressway is shown as a waypoint where characters traveling from Tokyo to Gunma stop, connecting Takumi's world in Akina to the Ikaho battleground."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_3",
+      "name": "Curve 27",
+      "localName": "カーブ 27",
+      "coordinates": {
+        "lat": 36.48616,
+        "lng": 138.89887
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d03417fc-5d65-4c53-82f3-64daf31923e4.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d03417fc-5d65-4c53-82f3-64daf31923e4.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4861902,138.8988234,3a,75y,148.45h,81.5t/data=!3m7!1e1!3m5!1s5CS6cys38W2s_kbLO8h-dQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.502877913977315%26panoid%3D5CS6cys38W2s_kbLO8h-dQ%26yaw%3D148.44643825279897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 27 on the Ikaho road in Legend 2 is part of the film's climactic downhill battle sequence, a real-world corner fans visit to stand where Takumi and Ryosuke traded positions."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_4",
+      "name": "Curve 26",
+      "localName": "カーブ 26",
+      "coordinates": {
+        "lat": 36.48894,
+        "lng": 138.89837
+      },
+      "image": "https://cdn.animepilgrimage.com/places/232b8f14-ef2c-4824-94a8-ba3139e189dd.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/232b8f14-ef2c-4824-94a8-ba3139e189dd.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4890258,138.8984553,3a,75y,213.78h,100.12t/data=!3m7!1e1!3m5!1s-mF41F2esgXMKv_kklN1kg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.115600689478171%26panoid%3D-mF41F2esgXMKv_kklN1kg%26yaw%3D213.7778119961117!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 26 is a numbered bend on the Ikaho touge in Legend 2, part of the lower-mountain section where Ryosuke's FC pushes hard heading toward the finish of the race."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_5",
+      "name": "Curve 12",
+      "localName": "カーブ 12",
+      "coordinates": {
+        "lat": 36.49829,
+        "lng": 138.9047
+      },
+      "image": "https://cdn.animepilgrimage.com/places/93d92021-b109-4050-9b7c-41bb4ebd7162.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/93d92021-b109-4050-9b7c-41bb4ebd7162.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4981748,138.9048094,3a,75y,312.11h,94.22t/data=!3m7!1e1!3m5!1s4iYJiaDdHpQnDnxqGnTyiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.219949576342017%26panoid%3D4iYJiaDdHpQnDnxqGnTyiQ%26yaw%3D312.10974682820813!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 12 on the Ikaho road is part of the densely numbered hairpin sequence in Legend 2, where Takumi's counter-steer technique is tested corner by corner against Ryosuke's calculated precision."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ1efPj3ljHmARxSYFVHlAyj4",
+      "name": "Ikaho Shrine",
+      "localName": "伊香保神社",
+      "coordinates": {
+        "lat": 36.49595,
+        "lng": 138.91597
+      },
+      "image": "https://cdn.animepilgrimage.com/places/4fc10155-875c-4159-b79a-6a91c939350c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/4fc10155-875c-4159-b79a-6a91c939350c.webp"
+        },
+        {
+          "url": "media/cached-image_929027fcbb4074d180ac2c4a7a0cf0d5e3926b2407341f0b2b36d35cd97dae08.jpg"
+        },
+        {
+          "url": "media/cached-image_6b33b1f5e6987f908dfd3f512aae03747bb8727bdbbac7f2b07db4353843010c.jpg"
+        },
+        {
+          "url": "media/cached-image_cdbe75eb8dd5d5fde0f6569ed2f3a96b371fbf360932ae6276e6651b3dcd3054.jpg"
+        },
+        {
+          "url": "media/cached-image_bad4fee24b35f3346a211559c0457b48be91db2af6a0f5c7a94fa1353b781eec.jpg"
+        },
+        {
+          "url": "media/cached-image_ed9d2ef2d812914313168059e167d061e238fffff5fe64e0cdeeafc4ef550504.jpg"
+        },
+        {
+          "url": "media/cached-image_8d84db8d8f0084439120b6aee263a37de715d9b6c5d4afdae848a76e0238bd23.jpg"
+        },
+        {
+          "url": "media/cached-image_9e3ea5981b84c58b777c3940cc916247cc3ea9877e0eb05c4ea6fa9a1470d759.jpg"
+        },
+        {
+          "url": "media/cached-image_31ab7f12de1f37dd4826570bbd5fdada8d0a72501ccc91b5557c92f6bb2ddb63.jpg"
+        },
+        {
+          "url": "media/cached-image_02969303cc94be90e1323b1b3df78185e76bcf4caf721b305cfd2170c18b029b.jpg"
+        },
+        {
+          "url": "media/cached-image_4882dff546f61163f7eb7c40b72f7971dd5171a4e1ea3ce9c705040f6f6916a0.jpg"
+        },
+        {
+          "url": "media/cached-image_7288eb8dca93cc648501e2981acac91615ff090c3c69fd2f382b6fb53dd98bf7.jpg"
+        },
+        {
+          "url": "media/cached-image_a10a449e626f6b7c8bb84e76dedb100e5e578765ef40d2ed00e0ffdc85c6ce41.jpg"
+        }
+      ],
+      "type": "神社",
+      "categories": [
+        "神社"
+      ],
+      "rating": 4,
+      "reviewCount": 1934,
+      "priceLevel": null,
+      "address": "1 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.496017,138.9160089,3a,73.9y,176.97h,94.63t/data=!3m7!1e1!3m5!1sLX5IfHvrLsbmCNxhUlgzHQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.626911786505346%26panoid%3DLX5IfHvrLsbmCNxhUlgzHQ%26yaw%3D176.9739954916629!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The stone steps leading up to Ikaho Shrine appear in Legend 2 as a backdrop to the town where Takumi prepares for his race on the Ikaho road, establishing the quiet onsen resort atmosphere contrasted against the intense touge battle ahead.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJQ6yrc9CMGGARH6diq4aOJwo",
+      "name": "Shinjuku Expressway Bus Terminal",
+      "localName": "バスタ新宿",
+      "coordinates": {
+        "lat": 35.688222,
+        "lng": 139.7008956
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f5ee78fa-7a13-40c9-8103-3b9c9377e9b1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f5ee78fa-7a13-40c9-8103-3b9c9377e9b1.webp"
+        },
+        {
+          "url": "media/cached-image_1483fecb2a23ed84accb47d3805b4ad5fb682554f7655816e2228081f370196b.jpg"
+        }
+      ],
+      "type": "バスターミナル",
+      "categories": [
+        "バスターミナル"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0051 Tokyo, Shibuya, 千駄ヶ谷５丁目２４, 55",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.688222,139.7008956,2a,90y,219.89h,100.2t/data=!3m6!1e1!3m4!1sHLGPksJ1Q-jk59q8O8CyEg!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Bunta (Basta Shinjuku) is shown as the departure point where Takumi boards a highway bus to travel to Gunma, a quiet character moment before the storm of the Ikaho battle."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyQCMnTljHmARg1hOtMMe7YA",
+      "name": "Takane Observation Deck",
+      "localName": "高根展望台",
+      "coordinates": {
+        "lat": 36.492584799999996,
+        "lng": 138.9059612
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1df02605-7ce5-4336-96da-216aafefb745.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1df02605-7ce5-4336-96da-216aafefb745.webp"
+        },
+        {
+          "url": "media/cached-image_9b21a83c73ed149187052551fd682ec69ab0037abf80c44da837d545d1213490.jpg"
+        }
+      ],
+      "type": "Observation deck",
+      "categories": [
+        "Observation deck"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Takane Observation Deck, Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925373,138.9058269,3a,63.5y,63.21h,93.51t/data=!3m7!1e1!3m5!1s18NOXNRie8B0O4RK8rJE7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5055635236758604%26panoid%3D18NOXNRie8B0O4RK8rJE7w%26yaw%3D63.212723205076614!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Takane Observation Deck overlooks the very stretch of Ikaho road where the film's race unfolds, giving fans a panoramic view of the hairpin-laden course Takumi and Ryosuke battle down."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJYWHL8a1hHmAR4NCUjThxAK0",
+      "name": "Gunmashoji Oasis Kogenchi Filling Station",
+      "localName": "apollostation / 群馬商事(株) オアシス高源地SS",
+      "coordinates": {
+        "lat": 36.4922627,
+        "lng": 138.99659599999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f3effde3-b35b-4750-895f-8b9c8217a547.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f3effde3-b35b-4750-895f-8b9c8217a547.webp"
+        },
+        {
+          "url": "media/cached-image_4ce37a1c026342fe6f20f91fbc37e49e2d4bfb5c8fc47b1225813e02923aabf4.jpg"
+        }
+      ],
+      "type": "Gas station",
+      "categories": [
+        "Gas station"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Gunmashoji Oasis Kogenchi Filling Station, 1795 Ishihara, Shibukawa, Gunma 377-0007, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4922009,138.9965315,3a,90y,89.98h,97.23t/data=!3m7!1e1!3m5!1sm8TFbFKG08kPr1IRTwKhYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.228532155320309%26panoid%3Dm8TFbFKG08kPr1IRTwKhYw%26yaw%3D89.97781795174093!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This gas station near the Ikaho road serves as a pre-race gathering spot referenced in the film, where team members and rivals mill around before heading up the mountain."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJG5G1uYJjHmARCr_2tJTLrKA",
+      "name": "Hotel Kimura",
+      "localName": "伊香保温泉 ホテルきむら",
+      "coordinates": {
+        "lat": 36.497222199999996,
+        "lng": 138.92138889999998
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a854279a-9b40-4e43-8f07-883013a81b45.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a854279a-9b40-4e43-8f07-883013a81b45.webp"
+        },
+        {
+          "url": "media/cached-image_9f6c67068aae7e74ad6c575f29f4eda0cf8c0dcf1cdd40432dba3c4259b56405.jpg"
+        },
+        {
+          "url": "media/cached-image_cf393eec79a1e9f3b9c2ffe9ef8eca479d4cb29f8ee94875ac01894dee690adb.jpg"
+        },
+        {
+          "url": "media/cached-image_bcf8b7e669a11d11d51bae878fc433fec3064951e405789de4379537cf9bdb6b.jpg"
+        },
+        {
+          "url": "media/cached-image_6c91503749991c36bb9eb43ccb5f88f1e01e8f6111dd3b0120cdb8c10a44be7d.jpg"
+        },
+        {
+          "url": "media/cached-image_a1c82d09ea72a75569540165cf663d93fa3a920421ee2ca1a9fea0702af0d541.jpg"
+        }
+      ],
+      "type": "Japanese inn",
+      "categories": [
+        "Japanese inn"
+      ],
+      "rating": 3.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Hotel Kimura, 557-32 Ikahomachi Ikaho, Shibukawa, Gunma 377-0102, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4974043,138.9207826,3a,90y,64.16h,102.89t/data=!3m7!1e1!3m5!1sDzfsli9Ny-t-SCMI7jsO0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.887803680612961%26panoid%3DDzfsli9Ny-t-SCMI7jsO0w%26yaw%3D64.1608705265159!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Hotel Kimura in the Ikaho onsen district appears as part of the resort town setting in Legend 2, seen during scenes where the RedSuns and other characters regroup in the quiet hot-spring town before the race."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJL-CnXuWjWjURk601D7G4u8s",
+      "name": "Namakemono",
+      "localName": "酒と旨い物 なまけもの",
+      "coordinates": {
+        "lat": 34.3901675,
+        "lng": 132.4641871
+      },
+      "image": "https://cdn.animepilgrimage.com/places/06daf3f8-b57b-4066-a7a4-6bd08ddfd14d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/06daf3f8-b57b-4066-a7a4-6bd08ddfd14d.webp"
+        },
+        {
+          "url": "media/cached-image_bf3a05b22025af7d8e8d569d4fe9614ab4de6b9c4d92beb7b22b21ca8b290b5c.jpg"
+        }
+      ],
+      "type": "Izakaya restaurant",
+      "categories": [
+        "Izakaya restaurant"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Namakemono, 4-8 Nagarekawacho, Naka Ward, Hiroshima, 730-0028, Japan",
+      "city": "Hiroshima",
+      "region": "Hiroshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4924601,139.0071931,3a,90y,68.55h,94.9t/data=!3m7!1e1!3m5!1sq1Tl9Fa60VrZ89GjDOxA6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.9018591922701376%26panoid%3Dq1Tl9Fa60VrZ89GjDOxA6A%26yaw%3D68.55440930969324!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJwZnOv0NjHmARQTqvjFziqhE",
+      "name": "the Yaseone Pass",
+      "localName": "ヤセオネ峠",
+      "coordinates": {
+        "lat": 36.482979,
+        "lng": 138.896413
+      },
+      "image": "https://cdn.animepilgrimage.com/places/be9d2fbb-f4de-47d3-9e20-7c6d3095d492.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/be9d2fbb-f4de-47d3-9e20-7c6d3095d492.webp"
+        },
+        {
+          "url": "media/cached-image_9f663709a8032bc57defc071e35be0b28823a5251d6d2f7ac3d1d2eca8808daa.jpg"
+        }
+      ],
+      "type": "Bus stop",
+      "categories": [
+        "Bus stop"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "the Yaseone Pass, Ikahomachi Yunakago, Shibukawa, Gunma 377-0101, Japan",
+      "city": "Shibukawa",
+      "region": "Gunma",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.4829787,138.89652,3a,49.3y,192.02h,94.12t/data=!3m7!1e1!3m5!1ssoddE3U26ZLyVBK0apSHJA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.120672893734735%26panoid%3DsoddE3U26ZLyVBK0apSHJA%26yaw%3D192.02240064831395!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yaseone Pass is the climactic battleground in Legend 2 where Ryosuke Takahashi's FC RX-7 faces off against Takumi's AE86, a winding descent that tests Takumi's nerve as he clings to Ryosuke through every curve.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_13",
+      "name": "Curve 30",
+      "localName": "カーブ 30",
+      "coordinates": {
+        "lat": 36.48599,
+        "lng": 138.89788
+      },
+      "image": "https://cdn.animepilgrimage.com/places/da85a574-30a7-43cc-889e-7e7156b98d48.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/da85a574-30a7-43cc-889e-7e7156b98d48.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4860885,138.8978363,3a,75y,167.43h,97.95t/data=!3m7!1e1!3m5!1sOGogM7dnDjy6rF7ekPQ9JQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.949505613635992%26panoid%3DOGogM7dnDjy6rF7ekPQ9JQ%26yaw%3D167.4293837673842!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 30 on the Ikaho road in Legend 2 is among the film's closing corners, where the emotional weight of the battle between Takumi and Ryosuke peaks as the finish approaches."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_14",
+      "name": "Curve 29",
+      "localName": "カーブ 29",
+      "coordinates": {
+        "lat": 36.48894,
+        "lng": 138.89653
+      },
+      "image": "https://cdn.animepilgrimage.com/places/157bf1c3-cc0a-4b3d-89c6-2e69db9778a6.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/157bf1c3-cc0a-4b3d-89c6-2e69db9778a6.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4889783,138.8966946,3a,75y,246.26h,98.19t/data=!3m7!1e1!3m5!1sNyDqsZWxNU3o9SCAGK9D0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.190365818870191%26panoid%3DNyDqsZWxNU3o9SCAGK9D0w%26yaw%3D246.2550032011602!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 29 is one of the final numbered corners on the Ikaho battle course in Legend 2, where the race reaches its dramatic conclusion and Ryosuke's true goal for the fight becomes clear."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_15",
+      "name": "Curve 24",
+      "localName": "カーブ 24",
+      "coordinates": {
+        "lat": 36.48933,
+        "lng": 138.89995
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ce281684-ef07-4a32-a4c2-bc27a47cc15d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ce281684-ef07-4a32-a4c2-bc27a47cc15d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4894974,138.9000191,3a,90y,222.67h,101.41t/data=!3m7!1e1!3m5!1sRQnONNXhQes0hMeP494vdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.408633295527736%26panoid%3DRQnONNXhQes0hMeP494vdA%26yaw%3D222.66700828177684!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 24 on the Ikaho road in Legend 2 is a late-race bend where the outcome of the battle against Ryosuke begins to take shape, as fatigue and fuel concerns enter the equation."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_16",
+      "name": "Curve 18",
+      "localName": "カーブ 18",
+      "coordinates": {
+        "lat": 36.49316,
+        "lng": 138.90138
+      },
+      "image": "https://cdn.animepilgrimage.com/places/62069a3b-af7a-4246-a434-2a20112a8a2a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/62069a3b-af7a-4246-a434-2a20112a8a2a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4933321,138.9011389,3a,36.4y,133.38h,98.19t/data=!3m7!1e1!3m5!1siC5ur0xdK-oyjZACJ5V_lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.191469971082071%26panoid%3DiC5ur0xdK-oyjZACJ5V_lg%26yaw%3D133.38451489777125!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 18 is among the numbered corners on the Ikaho course in Legend 2, part of the mid-race sequence where Ryosuke's RedSun team strategy and Takumi's raw instinct clash most directly."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_17",
+      "name": "Curve 17",
+      "localName": "カーブ 17",
+      "coordinates": {
+        "lat": 36.49255,
+        "lng": 138.89974
+      },
+      "image": "https://cdn.animepilgrimage.com/places/89e27862-bc09-4e45-9731-f55b2ba2292d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/89e27862-bc09-4e45-9731-f55b2ba2292d.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4925257,138.8996228,3a,75y,70.21h,98.18t/data=!3m7!1e1!3m5!1sJAFFAtLzmm5-DiIvDaGtug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.180675982764285%26panoid%3DJAFFAtLzmm5-DiIvDaGtug%26yaw%3D70.21274483357877!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 17 on the Ikaho road appears in Legend 2 as part of the sustained downhill battle, where the gap between Takumi and Ryosuke narrows and widens with each successive bend."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_18",
+      "name": "Curve 16",
+      "localName": "カーブ 16",
+      "coordinates": {
+        "lat": 36.49351,
+        "lng": 138.908
+      },
+      "image": "https://cdn.animepilgrimage.com/places/08a29c46-a1e4-4187-ae9c-e22265b99154.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/08a29c46-a1e4-4187-ae9c-e22265b99154.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4936826,138.9079639,3a,75y,170.03h,93.34t/data=!3m7!1e1!3m5!1sEg2cT4U_c5UnljZGxO2H2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.3438039980764245%26panoid%3DEg2cT4U_c5UnljZGxO2H2g%26yaw%3D170.03295662454207!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 16 is part of the filmed Ikaho mountain road sequence in Legend 2, one of the many numbered corners faithfully reproduced in the movie's meticulous recreation of the real Gunma touge."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_19",
+      "name": "Curve 13",
+      "localName": "カーブ 13",
+      "coordinates": {
+        "lat": 36.49737,
+        "lng": 138.90453
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ab2e175b-a83c-44aa-b3a1-31321ef26926.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ab2e175b-a83c-44aa-b3a1-31321ef26926.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4975909,138.9045836,3a,75y,200.72h,98.9t/data=!3m7!1e1!3m5!1sF79p9iBkyGnsxVUXAnzflA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.896878194251244%26panoid%3DF79p9iBkyGnsxVUXAnzflA%26yaw%3D200.71967690326025!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 13 is one of the numbered bends on the Ikaho touge in Legend 2, representing the relentless rhythm of the downhill battle as Takumi fights to hold his position behind Ryosuke."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_20",
+      "name": "Curve 15",
+      "localName": "カーブ 15",
+      "coordinates": {
+        "lat": 36.49561,
+        "lng": 138.9059
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6482ebf4-e116-4ccd-b3b3-fe2b522e952a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6482ebf4-e116-4ccd-b3b3-fe2b522e952a.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4954917,138.9059538,3a,42.3y,178.43h,97.14t/data=!3m7!1e1!3m5!1sKwWicOAIgLc2lHK4cR1jjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.143423680725789%26panoid%3DKwWicOAIgLc2lHK4cR1jjw%26yaw%3D178.43187301148927!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 15 on the Ikaho road in Legend 2 is a tension-filled bend during the film's central battle, where Ryosuke's strategic driving style forces Takumi to adapt his instinctive touge technique."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_initial-d-legend-2_21",
+      "name": "Curve 14",
+      "localName": "カーブ 14",
+      "coordinates": {
+        "lat": 36.49805,
+        "lng": 138.90416
+      },
+      "image": "https://cdn.animepilgrimage.com/places/6a1794d7-6489-4fc8-863a-e31ae809d89f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/6a1794d7-6489-4fc8-863a-e31ae809d89f.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@36.4978847,138.904292,3a,75y,317.27h,94.91t/data=!3m7!1e1!3m5!1s1PSGxZwMpRoYSjsqQzg41w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.913122185746147%26panoid%3D1PSGxZwMpRoYSjsqQzg41w%26yaw%3D317.27398006956054!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwNi4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Curve 14 on the Ikaho descent in Legend 2 is part of the tightly-spaced sequence where every corner demands instant commitment, pushing both Takumi and Ryosuke to their mental and mechanical limits."
+    }
+  ]
+}

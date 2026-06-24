@@ -1,0 +1,133 @@
+{
+  "scope": "source-doc",
+  "entityType": "anime",
+  "entityName": "Tatsuki Fujimoto 17-26",
+  "slug": "tatsuki-fujimoto-17-26",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "media/cached-image_fedae329334ec84ed3019b89fa50b58cbf23acc45f3b092431eedd74d9936b8f.webp",
+  "image": "media/cached-image_fedae329334ec84ed3019b89fa50b58cbf23acc45f3b092431eedd74d9936b8f.webp",
+  "banner": null,
+  "primaryLocation": "Tokyo, Japan",
+  "primaryLocationCoords": {
+    "lat": 33.75294926666666,
+    "lng": 134.51727273333333
+  },
+  "metadata": {
+    "entityType": "anime",
+    "entityName": "Tatsuki Fujimoto 17-26"
+  },
+  "ingredients": [
+    {
+      "kind": "poi",
+      "placeId": "ChIJK9EM68qLGGARacmu4KJj5SA",
+      "name": "Shibuya Scramble Crossing",
+      "localName": "渋谷スクランブル交差点",
+      "coordinates": {
+        "lat": 35.65952,
+        "lng": 139.70035
+      },
+      "image": "https://cdn.animepilgrimage.com/places/5de5333d-bb4d-4e4c-bdc0-5257e9255d7d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/5de5333d-bb4d-4e4c-bdc0-5257e9255d7d.webp"
+        },
+        {
+          "url": "media/cached-image_b54c5d9c9a24ca64feafb1eebe9d34933e230c4406936e700343137a98b878b3.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Shibuya, Tokyo, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6595608,139.7003428,3a,73.9y,235.9h,103.4t/data=!3m7!1e1!3m5!1szR028J0ANpgja-q8b4pbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.397685917352305%26panoid%3DzR028J0ANpgja-q8b4pbYA%26yaw%3D235.8959067414604!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "EP",
+      "episodeNumber": 7,
+      "entityContext": "In Episode 7 (Nayuta of the Prophecy), the iconic scramble crossing stands in for the crowded, indifferent city that surrounds Kenji and Nayuta, a pair of siblings navigating a world that fears and despises her. The crossing's chaotic foot traffic echoes the sense of ordinary life pressing in on an extraordinary, dangerous girl.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_tatsuki-fujimoto-17-26_1",
+      "name": "Mitarai Clinics",
+      "localName": "御手洗病院",
+      "coordinates": {
+        "lat": 32.79766,
+        "lng": 131.9271
+      },
+      "image": "https://cdn.animepilgrimage.com/places/22457724-e0ea-45cc-a21c-d6d255da530e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/22457724-e0ea-45cc-a21c-d6d255da530e.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": null,
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://maps.app.goo.gl/Fzq7BXY7mHKVSzABA",
+      "episodeType": "EP",
+      "episodeNumber": 5
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJE_N50WBfRjURWmqqhrkQ9hM",
+      "name": "Kamae Road Station",
+      "localName": "道の駅 かまえ Buri Laboratory",
+      "coordinates": {
+        "lat": 32.8016678,
+        "lng": 131.9243682
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61627dbe-2f9d-4381-b8d8-bceea5fa5740.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61627dbe-2f9d-4381-b8d8-bceea5fa5740.webp"
+        },
+        {
+          "url": "media/cached-image_dc06dfdfb589c753a4543a0b76c1dfe24a8bd1f093a95e7499acec14583a5595.jpg"
+        },
+        {
+          "url": "media/cached-image_7dc7b62bc04e5920a7984d9cf9f50d0900e8f6f5ecfaf73f7f2bec8b5605ee96.jpg"
+        },
+        {
+          "url": "media/cached-image_c426a44bde51409b5352edf2d4382eafcca587f61aedfa900718134d45264203.jpg"
+        },
+        {
+          "url": "media/cached-image_77f9bdcb0e99833dc16672e87797c5d71761987445f2c62a04189ecaf7fbe932.jpg"
+        }
+      ],
+      "type": "Seafood restaurant",
+      "categories": [
+        "Seafood restaurant"
+      ],
+      "rating": 3.8,
+      "reviewCount": 235,
+      "priceLevel": null,
+      "address": "Kamae Road Station, 5104-1 Kamae Oaza Kamaeura, Saiki, Oita 876-2401, Japan",
+      "city": "Saiki",
+      "region": "Oita",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://maps.app.goo.gl/NhhXLxqqsFmWw9AF8",
+      "episodeType": "EP",
+      "episodeNumber": 5,
+      "entityContext": "In Episode 5 (Mermaid Rhapsody), this coastal road station near Kamae port is part of the sleepy fishing town setting where Toshihide dives daily to play the underwater piano, the act that draws the mermaid Shiju to him. The area's rugged sea-facing landscape grounds the fantastical romance in a recognisably real Japanese seaside town."
+    }
+  ]
+}

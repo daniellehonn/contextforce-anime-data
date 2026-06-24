@@ -3,222 +3,20 @@
   "entityType": "anime",
   "entityName": "5 Centimeters per Second",
   "slug": "5-centimeters-per-second",
-  "generatedAt": "2026-06-03T22:46:16.957Z",
-  "coverImage": "media/cached-image_244d3af4b18036a55cba00bffb8f2521fef2f4d7f11a49a57ca42fba4f6f789a.jpg",
-  "image": "media/cached-image_244d3af4b18036a55cba00bffb8f2521fef2f4d7f11a49a57ca42fba4f6f789a.jpg",
+  "generatedAt": "2026-06-23T03:41:09.341Z",
+  "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1689-rJKhjLEjQHSy.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1689-rJKhjLEjQHSy.jpg",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1689.jpg",
   "primaryLocation": "Tokyo, Japan",
   "primaryLocationCoords": {
     "lat": 34.958714736842104,
-    "lng": 138.31528052631583
+    "lng": 138.31528052631577
   },
   "metadata": {
     "entityType": "anime",
     "entityName": "5 Centimeters per Second"
   },
   "ingredients": [
-    {
-      "kind": "poi",
-      "placeId": "offgrid_5-centimeters-per-second_0",
-      "name": "East Deck Bridge",
-      "localName": "イーストデッキ",
-      "coordinates": {
-        "lat": 35.68695,
-        "lng": 139.70123
-      },
-      "image": "media/cached-image_efc7732129272d188a0a5f6befa2e773e73bee6dc02f3248b798db0777bed6a7.webp",
-      "images": [
-        {
-          "url": "media/cached-image_efc7732129272d188a0a5f6befa2e773e73bee6dc02f3248b798db0777bed6a7.webp"
-        }
-      ],
-      "type": null,
-      "categories": null,
-      "rating": null,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": null,
-      "city": null,
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": "East Deck Bridge (イーストデッキ) — local bridge in Tokyo, near Shinjuku Gyoen National Garden and Robert Indiana Sculpture: \"LOVE\". Not listed on Google Maps, but the coordinates fall in this area — a verified scene location. Navigate by coordinates / Street View.",
-      "geoStatus": "offgrid",
-      "streetViewUrl": "https://www.google.com/maps/@35.6869834,139.7010913,3a,90y,148.5h,102.87t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgIDqrciCLw!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0H2IXXwtgJJYniGamycrYtsBl1Cz7WLWG0IgZiV4VC8e6O9T5n1ragkrsGMIv1xTDRHXQFskjwyVYYvhTWZ8_x38L2VH4NAX8Z92CZHN8sXiELgYxMEVMCL5rG7YtiJ36-j2LV%3Dw900-h600-k-no-pi-12.868868994880671-ya321.21027000737513-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "This bridge near Shinjuku Southern Terrace appears in Chapter 3, where adult Takaki crosses it during his daily commute, a routine that mirrors the emotional distance he feels from his past."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJb3U66xnzGGAR8lS-fDuFFxw",
-      "name": "55 Square Public Open Space, Shinjuku Mitsui Building South",
-      "localName": "新宿三井ビル南側公開空地【５５広場】",
-      "coordinates": {
-        "lat": 35.69102,
-        "lng": 139.69454
-      },
-      "image": "media/cached-image_066480e1d1f8fa3031755577d0016b5ff18f2ebcf5f57b98b6ed39dddb8b9b6e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_066480e1d1f8fa3031755577d0016b5ff18f2ebcf5f57b98b6ed39dddb8b9b6e.webp"
-        },
-        {
-          "url": "media/cached-image_dfc429e3a80f9e75c75c4f16f2e3c8361c690fa39047296e48cd75dc173ee707.jpg"
-        },
-        {
-          "url": "media/cached-image_51c140c71cbe36b282095265d8c8217185f021d5cbf47fc52e957648d648d722.jpg"
-        }
-      ],
-      "type": "庭園",
-      "categories": [
-        "庭園"
-      ],
-      "rating": 4.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "SHINJUKU MITSUI BUILDING, B1F, 2 Chome-1-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6919123,139.6939033,3a,75y,220.7h,88.37t/data=!3m8!1e1!3m6!1sAF1QipMjyiyX23Lb8v3IULNqHuYryCcrgFaQ9qFdZ_Ar!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMjyiyX23Lb8v3IULNqHuYryCcrgFaQ9qFdZ_Ar%3Dw203-h100-k-no-pi-0-ya78.09225-ro-0-fo100!7i6200!8i3100?entry=ttu",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJP5MM-xmNGGARUZ_R-AkjPyE",
-      "name": "SY5591",
-      "localName": null,
-      "coordinates": {
-        "lat": 35.67528,
-        "lng": 139.69175
-      },
-      "image": "media/cached-image_d4a26a1ba86d096cdb9daa611322dc131392fb38414b0d7085f5f22a63e8850f.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d4a26a1ba86d096cdb9daa611322dc131392fb38414b0d7085f5f22a63e8850f.webp"
-        },
-        {
-          "url": "media/cached-image_3c50d75dd210df474edf1d2b71be4f7c9f6c998f4ef4580d17952063541bdcf9.jpg"
-        }
-      ],
-      "type": "Tourist attraction",
-      "categories": [
-        "Tourist attraction"
-      ],
-      "rating": 4.3,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 5 Chome−59−1",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6752406,139.6917956,3a,75y,315.52h,90t/data=!3m6!1e1!3m4!1sbw1z1BjmADkU0JbAa8wRRA!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJNSyugMyMGGARn1SCXgcdIfQ",
-      "name": "Sangubashi Sta.（Koma terrace nishisando mae）",
-      "localName": "参宮橋駅（駒テラス西参道前）",
-      "coordinates": {
-        "lat": 35.68009,
-        "lng": 139.69367
-      },
-      "image": "media/cached-image_a0d1a18fdd1e11ab376c7418d20c938b8cba596c59f1207d2cafe1d83db533e4.webp",
-      "images": [
-        {
-          "url": "media/cached-image_a0d1a18fdd1e11ab376c7418d20c938b8cba596c59f1207d2cafe1d83db533e4.webp"
-        },
-        {
-          "url": "media/cached-image_9b98cfbaa51010acef39e9aa23aad6df42dcb832cb3da8dac53de8514f97a154.jpg"
-        }
-      ],
-      "type": "バス停",
-      "categories": [
-        "バス停"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "4-chōme-3 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6799568,139.6938234,3a,75y,309.65h,95.29t/data=!3m7!1e1!3m5!1sWlzy-q1l0vTitivTwmDEDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.286206989447436%26panoid%3DWlzy-q1l0vTitivTwmDEDg%26yaw%3D309.65250329168134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Sangubashi Station and its surrounding streets in Yoyogi appear in Chapter 3 as part of Takaki's everyday Tokyo life, used to depict the mundane yet melancholic rhythm of his adult years."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJtXhHHwCNGGARCByz5SGzZrg",
-      "name": "Lawson Yoyogi Sanchome Shop",
-      "localName": "ローソン 代々木三丁目店",
-      "coordinates": {
-        "lat": 35.68534,
-        "lng": 139.69279
-      },
-      "image": "media/cached-image_7a145d15e8d8d836c7f728b4252e7497ed862fdda7e6be53517ea2c6ec761565.webp",
-      "images": [
-        {
-          "url": "media/cached-image_7a145d15e8d8d836c7f728b4252e7497ed862fdda7e6be53517ea2c6ec761565.webp"
-        },
-        {
-          "url": "media/cached-image_a807368ea41fc5cad63fc144f149ad94e971dca915d64bd6146a50b7fb387e3d.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": 2.1,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-24-3 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6854094,139.692934,3a,75y,219.22h,94.69t/data=!3m7!1e1!3m5!1s7aDwUEx6tcxyeZ0_6CCGNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.692555441552514%26panoid%3D7aDwUEx6tcxyeZ0_6CCGNA%26yaw%3D219.21661943728014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJX5C6S2LqGGARaf8JhwLLCmY",
-      "name": "Musashi-Urawa Station",
-      "localName": "武蔵浦和駅",
-      "coordinates": {
-        "lat": 35.84616,
-        "lng": 139.64638
-      },
-      "image": "media/cached-image_4ecfb50cbc54f59351005e4355a9bded15ad29ed4f3065e80308f0b2b4c75e20.webp",
-      "images": [
-        {
-          "url": "media/cached-image_4ecfb50cbc54f59351005e4355a9bded15ad29ed4f3065e80308f0b2b4c75e20.webp"
-        },
-        {
-          "url": "media/cached-image_041e94e85f0970367105a82527b298278fe37a56ccd3b06deff7e6a86ecbbcdb.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "7-chōme-12 Bessho, Minami Ward, Saitama, 336-0021, Japan",
-      "city": "Saitama",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/place/Musashi-Urawa+Station/@35.8454735,139.6470355,3a,75y,109.27h,93.41t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDtnLfKXQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0KCNUhe--uhh-Xlqqzno_0yi0PK-1qq0rdq8czm7-dHQ5E_WkUp3HEr4f1YoMCUx0FMPEKdQtvcR62SSyOodQjhYb6wl8nN3FWJWnHE__8LDpPqwKqMV0xD1vW50zJQ_ndNWI%3Dw900-h600-k-no-pi-3.4086949252304066-ya109.27185809056112-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6018ea624bba905f:0x660acb028709ff69!8m2!3d35.8454735!4d139.6470355!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bc5cgsqg?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Musashi-Urawa Station is one of the stations along the train route Takaki travels in Chapter 1 on his epic snow-delayed journey to see Akari in Tochigi, a train ride that becomes the film's most iconic sequence."
-    },
     {
       "kind": "poi",
       "placeId": "ChIJI-uZ_lE4H2ARPWjSJRXkRnw",
@@ -228,10 +26,10 @@
         "lat": 36.32747,
         "lng": 139.65516
       },
-      "image": "media/cached-image_367cb4c3f87238d87a498b53a021fcb42a4a17c73ace04483ea39dbcd92716f2.webp",
+      "image": "https://cdn.animepilgrimage.com/places/3440b855-d8ad-471a-bd4c-b0b1c105f976.webp",
       "images": [
         {
-          "url": "media/cached-image_367cb4c3f87238d87a498b53a021fcb42a4a17c73ace04483ea39dbcd92716f2.webp"
+          "url": "https://cdn.animepilgrimage.com/places/3440b855-d8ad-471a-bd4c-b0b1c105f976.webp"
         },
         {
           "url": "media/cached-image_eda175d27f95fd1b3e750b673668164b74698e84541b74d541abda88396fc3af.jpg"
@@ -251,124 +49,9 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@36.3273559,139.6551319,3a,48.7y,354.64h,94.83t/data=!3m7!1e1!3m5!1szzkWG10KlxOVm9rQilPq4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.83109640307778%26panoid%3DzzkWG10KlxOVm9rQilPq4Q%26yaw%3D354.6383650294354!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "This traditional confectionery shop in Iwafune, Tochigi is the model for the shop near Akari's hometown where Takaki arrives after his long delayed train journey, culminating in their reunion under the cherry blossoms.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJK-fUUyGNGGARwVrqXpwtRbk",
-      "name": "Odakyu Marche Shinjuku",
-      "localName": "小田急マルシェ 新宿",
-      "coordinates": {
-        "lat": 35.69139,
-        "lng": 139.69971
-      },
-      "image": "media/cached-image_2fb617396dee1732e6258fdb599779caebecff3af947262af01cf4a107053c80.webp",
-      "images": [
-        {
-          "url": "media/cached-image_2fb617396dee1732e6258fdb599779caebecff3af947262af01cf4a107053c80.webp"
-        },
-        {
-          "url": "media/cached-image_47a29aedb22017e066a9b47e9565f461ce50934ad4dc52bede4563a707360ee5.jpg"
-        },
-        {
-          "url": "media/cached-image_4967c9748896c295759e6435b2ab4cb844ed3e34fbd9ad5f00497960de3c3d9d.jpg"
-        },
-        {
-          "url": "media/cached-image_4631bbecce1743c7e0791573a32437c6fcde7123ed80951e4e3f95d3fea972b5.jpg"
-        },
-        {
-          "url": "media/cached-image_b8005b6af3da0d89ae74be7089dfb0dcafa38b99bb201ec872e8183aec4e6ef4.jpg"
-        },
-        {
-          "url": "media/cached-image_7276db89a0815752bb329d66dde9c321856dbabb7ce10aa8627f449c508af500.jpg"
-        },
-        {
-          "url": "media/cached-image_8c7fe812ed1a89952b5bbafafdacf8b1ce43d274a2c7173806913d1624cee5cf.jpg"
-        }
-      ],
-      "type": "ショッピング モール",
-      "categories": [
-        "ショッピング モール"
-      ],
-      "rating": 4.2,
-      "reviewCount": 190,
-      "priceLevel": null,
-      "address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−1−3, 小田急新宿駅西口地下コンコース B1",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6914775,139.6997043,2a,64.3y,99.52h,91.74t/data=!3m7!1e1!3m5!1sFg3-OXf_H4JrZo-9le-f8w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7376270655937844%26panoid%3DFg3-OXf_H4JrZo-9le-f8w%26yaw%3D99.52345968335395!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJHS28ZvQOA2ARnc-X7DVDJPU",
-      "name": "Akariya by Light Shop",
-      "localName": "灯屋",
-      "coordinates": {
-        "lat": 35.67766,
-        "lng": 139.693
-      },
-      "image": "media/cached-image_453f69b63d506ef9b06c4d60f69d1818f8f4618d21b1a0913827338f71923e9d.webp",
-      "images": [
-        {
-          "url": "media/cached-image_453f69b63d506ef9b06c4d60f69d1818f8f4618d21b1a0913827338f71923e9d.webp"
-        },
-        {
-          "url": "media/cached-image_c5c949b491305d320543cba59a80282daf177bb045e85a167ff73fbd33360aef.jpg"
-        },
-        {
-          "url": "media/cached-image_06d0c4f745006880f1c1c2ab6916b85e05735c5f1829f9624120d5e9ff0aab63.jpg"
-        },
-        {
-          "url": "media/cached-image_1822ad3d3366128f05fb040fcea6c7324bcf40c5301b7fc502ce3f934ad5de02.jpg"
-        },
-        {
-          "url": "media/cached-image_8e237175e5d01f9d09623f910d4d8820aaa9e63db1b2034334d99f53b9b2de74.jpg"
-        },
-        {
-          "url": "media/cached-image_d996bffa3a2057683fbe6345077223f468c89fb3701068756f9ba1603b15af1e.jpg"
-        },
-        {
-          "url": "media/cached-image_a1994b29058e5019b981fb05e7350a8cf34f44b1a788a4ae75bba828995a439a.jpg"
-        },
-        {
-          "url": "media/cached-image_63315abe94965692cba293853f578dd4aa91eb5aed11c07e9e424cf40e9d2fce.jpg"
-        },
-        {
-          "url": "media/cached-image_209de2e3d7f5e69fec7a1fc6335d776f9353ad6fea350f045d78b7326bf2f162.jpg"
-        },
-        {
-          "url": "media/cached-image_0cdff2ec9f205f89787d0e135e171d4a99689a755b109571fc42ead01cb0e7f1.jpg"
-        },
-        {
-          "url": "media/cached-image_e9c2d62de06cf4735281f268cca5841aab052438d922679aa38c8ca241381531.jpg"
-        },
-        {
-          "url": "media/cached-image_f3616b65401025ec33abaf6ad1bbace3a5b67516fe7af647b790213f1ee871f6.jpg"
-        },
-        {
-          "url": "media/cached-image_6cf6c23d8cbb0da757460128ee44c6abced44009b3bc7b2be05abee785239e3e.jpg"
-        }
-      ],
-      "type": "日式旅馆",
-      "categories": [
-        "日式旅馆"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Kitakoken-41-6 Inuyama, Aichi 484-0082, Japan",
-      "city": "Inuyama",
-      "region": "Aichi",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6777483,139.6929186,3a,75y,128.22h,93.57t/data=!3m7!1e1!3m5!1s0-DZn6HDYTegWoEYG-vICw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0-DZn6HDYTegWoEYG-vICw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D130.28209%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": null
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "In Chapter 1, young Akari waits near Iwafune town while Takaki's trains are delayed by snow, and this traditional confectionery shop sits in the same Tochigi neighborhood Akari called home, grounding the film's first ache of separation in a real small-town streetscape."
     },
     {
       "kind": "poi",
@@ -379,10 +62,10 @@
         "lat": 30.54923,
         "lng": 130.95939
       },
-      "image": "media/cached-image_88a3641f79f9cb89ec7fbebff17e1458f2fedb2cc64f4036e7bc32b08810dbca.webp",
+      "image": "https://cdn.animepilgrimage.com/places/27d312bb-fb8e-4da7-9786-d56f8cd35a82.webp",
       "images": [
         {
-          "url": "media/cached-image_88a3641f79f9cb89ec7fbebff17e1458f2fedb2cc64f4036e7bc32b08810dbca.webp"
+          "url": "https://cdn.animepilgrimage.com/places/27d312bb-fb8e-4da7-9786-d56f8cd35a82.webp"
         },
         {
           "url": "media/cached-image_1b90c4c92140863d5e7696dfad8e43a5f1b6adff0b973f1173b27c15b4941792.jpg"
@@ -407,228 +90,10 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@30.5491911,130.9594427,3a,75y,319.08h,104.01t/data=!3m6!1e1!3m4!1sKHlu9XvWN1ZxA4uqQ_9oqA!2e0!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
-      "name": "Shinjuku Station",
-      "localName": "新宿駅",
-      "coordinates": {
-        "lat": 35.69091,
-        "lng": 139.69953
-      },
-      "image": "media/cached-image_72e8cb52e9e09a5444101bbd0a602bc351ad78f160e7a3340745207d0eeffbcb.webp",
-      "images": [
-        {
-          "url": "media/cached-image_72e8cb52e9e09a5444101bbd0a602bc351ad78f160e7a3340745207d0eeffbcb.webp"
-        },
-        {
-          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
-        }
-      ],
-      "type": "駅 / 停留所",
-      "categories": [
-        "駅 / 停留所"
-      ],
-      "rating": 3.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.691,139.6995923,2a,75y,170.2h,95.02t/data=!3m6!1e1!3m4!1s68KZLDxMfKuerpIiAE80Fw!2e0!7i13312!8i6656?entry=ttu",
-      "entityContext": "Shinjuku Station is the site of the film's most devastating final scene, where Takaki and Akari nearly pass each other at a railroad crossing. Akari walks away, letting go of the past forever.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJW_Z0p8yMGGARGKLxL3ZwC40",
-      "name": "FLOTO",
-      "localName": null,
-      "coordinates": {
-        "lat": 35.67921,
-        "lng": 139.69217
-      },
-      "image": "media/cached-image_887ddebf94d3d72a60d50c8f77d9a5ae292d0cbb9248fce1dcb5b06248b39eb6.webp",
-      "images": [
-        {
-          "url": "media/cached-image_887ddebf94d3d72a60d50c8f77d9a5ae292d0cbb9248fce1dcb5b06248b39eb6.webp"
-        },
-        {
-          "url": "media/cached-image_4b0e7eeb883d4bdc1b69bdf8180060754a3b55b6190a3b955487d13690827581.jpg"
-        }
-      ],
-      "type": "Ice cream shop",
-      "categories": [
-        "Ice cream shop"
-      ],
-      "rating": 4.4,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4 Chome−12−6 Cala参宮橋",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6792265,139.6921688,3a,75y,107.59h,106.76t/data=!3m7!1e1!3m5!1s0RA4gSHvFWatKnOuuobVnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0RA4gSHvFWatKnOuuobVnQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D353.1235%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJuxk5LgCNGGARkWyIOKYbMAQ",
-      "name": "West Deck",
-      "localName": "ウエストデッキ",
-      "coordinates": {
-        "lat": 35.68685,
-        "lng": 139.7002
-      },
-      "image": "media/cached-image_30bf4233728ede1395c6a23fbcf2d5a819c8d7ad6a108784c0348d1d125439cc.webp",
-      "images": [
-        {
-          "url": "media/cached-image_30bf4233728ede1395c6a23fbcf2d5a819c8d7ad6a108784c0348d1d125439cc.webp"
-        },
-        {
-          "url": "media/cached-image_309fbf36b8fe26f66e330cd546c576543bd2adf3406adb33b49dcfc3625a004b.jpg"
-        }
-      ],
-      "type": "橋",
-      "categories": [
-        "橋"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 2 Chome−2−2 下り 小田急ホテルＣサザンタワー（バス）（成田空港線",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6868678,139.70025,3a,90y,247.81h,96.9t/data=!3m7!1e1!3m5!1seBBv3lVhzG-qBdUC6WQZXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.904459764428722%26panoid%3DeBBv3lVhzG-qBdUC6WQZXA%26yaw%3D247.8073258180941!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The West Deck pedestrian bridge near Shinjuku Southern Terrace is a confirmed scene location from Chapter 3, where Takaki is depicted walking through his daily adult life surrounded by crowds yet utterly alone."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJIw4S7fBOH2ARUPgp_Bch_As",
-      "name": "Oyama Station, platform 12,13",
-      "localName": "小山駅 12,13ホーム",
-      "coordinates": {
-        "lat": 36.31362,
-        "lng": 139.80691
-      },
-      "image": "media/cached-image_3be588f101176835d77954b326dcc8324e19d4cf0e5890edfa61b39a70de4918.webp",
-      "images": [
-        {
-          "url": "media/cached-image_3be588f101176835d77954b326dcc8324e19d4cf0e5890edfa61b39a70de4918.webp"
-        },
-        {
-          "url": "media/cached-image_653c28752d3781f585b72ff0882977081bd2030ed6744d9b06a40c3bd5c4d17b.jpg"
-        },
-        {
-          "url": "media/cached-image_f50f1a467c0e829c4e8fbfc9626a80b0fd509125e461e5af119c5929422ae11b.jpg"
-        },
-        {
-          "url": "media/cached-image_e30593b377aa59786a3c236219bb0acc576d58a9e94df2b2815fdb7b046f94bd.jpg"
-        },
-        {
-          "url": "media/cached-image_40ebad80ea73adfa790f8ebaa681a6d100040f824b6276bca10135720eb980ae.jpg"
-        },
-        {
-          "url": "media/cached-image_5413b343701a350078f1016cdeed5b7212267ca5cd670723cc6386c284c97a08.jpg"
-        },
-        {
-          "url": "media/cached-image_6045bcf38e60017f3755a31284a40c580ded90d55463e174a466916b6a7dedd2.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.6,
-      "reviewCount": 480,
-      "priceLevel": null,
-      "address": "3 Chome Shiroyamacho, Oyama, Tochigi, Japan",
-      "city": "Oyama",
-      "region": "Tochigi",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.3133515,139.8066978,3a,63.5y,75.69h,96.5t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4-ub1Og!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2EdnNC-on5APFeBZ7zmwZN-5aoLLJu4VP1Jfr1rN5pPFahdTdiR3qMDz-px0ulMGXwJGajFbElZ0p2TUmMmvgsDmTqOwFP59SjfKqkDWvs2GY2KRjxX8Vh95NFzpvOHrPAp9I%3Dw900-h600-k-no-pi-6.495423653255926-ya174.6865471802478-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Oyama Station in Tochigi is a key stop on Takaki's Chapter 1 train journey to Akari. The film faithfully recreates the platform where his train waits during the snowstorm, stretching what should be a short ride into an agonizing night.",
-      "fanTopPick": true
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJyUtod2VgPDUR6dv_J645ebg",
-      "name": "I-Shop Ishido store",
-      "localName": "アイショップ 石堂店",
-      "coordinates": {
-        "lat": 30.54673,
-        "lng": 130.97084
-      },
-      "image": "media/cached-image_9b1540e5023197160f5caa98c6e7cd622283b028920620df5426e652ac9bc00c.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9b1540e5023197160f5caa98c6e7cd622283b028920620df5426e652ac9bc00c.webp"
-        },
-        {
-          "url": "media/cached-image_f2fcee6ce565afb70e8d405100a13c3deb08593bd4d17c8aee44b2937bf858d8.jpg"
-        }
-      ],
-      "type": "コンビニエンスストア",
-      "categories": [
-        "コンビニエンスストア"
-      ],
-      "rating": 4.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2172-1 Noma, Nakatane, Kumage District, Kagoshima 891-3604, Japan",
-      "city": "Nakatane",
-      "region": "Kumage District, Kagoshima",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@30.5467957,130.9708152,3a,75y,150.45h,99.34t/data=!3m7!1e1!3m5!1sE6Ni8NTqWhrFK0Y-VCo6_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DE6Ni8NTqWhrFK0Y-VCo6_w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D346.11658%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
-      "entityContext": "This convenience store on Tanegashima appears in Chapter 2 'Cosmonaut', representing the quiet everyday life of the island where Kanae grows up watching rockets and silently pining for Takaki."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJoe1Z0u_zGGARXUbU0GCcZJ8",
-      "name": "The Parkhouse Shinjuku Tower",
-      "localName": "ザ・パークハウス新宿タワー",
-      "coordinates": {
-        "lat": 35.69585,
-        "lng": 139.6886
-      },
-      "image": "media/cached-image_5efa9a5a22a39560eca24149473b80ee3054d6d181d4a5fbd1d7c93eb956d5fe.webp",
-      "images": [
-        {
-          "url": "media/cached-image_5efa9a5a22a39560eca24149473b80ee3054d6d181d4a5fbd1d7c93eb956d5fe.webp"
-        },
-        {
-          "url": "media/cached-image_296d8b252ece37173588b73893306d5871e9de888939420c02d3535986d585a6.jpg"
-        }
-      ],
-      "type": "集合住宅",
-      "categories": [
-        "集合住宅"
-      ],
-      "rating": 4.2,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-21-2 Kitashinjuku, Shinjuku City, Tokyo 169-0074, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6956844,139.6886195,3a,48.8y,21.16h,95.03t/data=!3m7!1e1!3m5!1sjTli--JJdw15icOepP3f6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.034810186145705%26panoid%3DjTli--JJdw15icOepP3f6g%26yaw%3D21.160956526344112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
+      "streetViewUrl": "https://www.google.com/maps/@30.5491911,130.9594427,3a,75y,319.08h,104.01t/data=!3m6!1e1!3m4!1sKHlu9XvWN1ZxA4uqQ_9oqA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This area near the Christ Church on Tanegashima island appears as part of the rural backdrop Kanae cycles through in Chapter 2, capturing the quiet, sun-bleached island life she inhabits while watching rockets and nursing feelings she cannot tell Takaki."
     },
     {
       "kind": "poi",
@@ -639,10 +104,10 @@
         "lat": 30.53013,
         "lng": 130.99307
       },
-      "image": "media/cached-image_a71091fa3a5112ea73ad7d124688836b7b0e247884fa768e62a34d3a2c420353.webp",
+      "image": "https://cdn.animepilgrimage.com/places/16f9923b-8f1d-4c62-aa65-e677c8e145ea.webp",
       "images": [
         {
-          "url": "media/cached-image_a71091fa3a5112ea73ad7d124688836b7b0e247884fa768e62a34d3a2c420353.webp"
+          "url": "https://cdn.animepilgrimage.com/places/16f9923b-8f1d-4c62-aa65-e677c8e145ea.webp"
         },
         {
           "url": "media/cached-image_177eb364da1eaf3bef909996aff55da5360db02b5fb012bc4493adc236ba3f67.jpg"
@@ -662,85 +127,242 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@30.530208,130.9932119,3a,75y,239.38h,97.1t/data=!3m6!1e1!3m4!1s2UEaTtFuC2M1FDVnH5rRxQ!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": "Nakayama coast on Tanegashima is the sweeping beach where Kanae surfs and where she and Takaki share moments together in Chapter 2 'Cosmonaut', with the launch facilities visible on the horizon, a setting Shinkai painted with extraordinary beauty.",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Nakayama coast on Tanegashima is where Kanae surfs and stands watching the horizon in Chapter 2, the wide open sea and sky mirroring her unspoken longing for Takaki and her own uncertain future.",
       "fanTopPick": true
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ19QFZsuMGGARZeAOGSKiNDc",
-      "name": "Sangubashi Park",
-      "localName": "参宮橋公園",
+      "placeId": "ChIJUzFmgx1nPDURdo5BZHUCpk4",
+      "name": "Nakawari Simple Post Office",
+      "localName": "中割簡易郵便局",
       "coordinates": {
-        "lat": 35.67884,
-        "lng": 139.69257
+        "lat": 30.60894,
+        "lng": 130.99839
       },
-      "image": "media/cached-image_28f5dd145795424087bf701b2aaa5d4024078a0972f5d055c0b765ca82851cd5.webp",
+      "image": "https://cdn.animepilgrimage.com/places/4d3e01a7-b65d-4251-b906-2e6948db3aaa.webp",
       "images": [
         {
-          "url": "media/cached-image_28f5dd145795424087bf701b2aaa5d4024078a0972f5d055c0b765ca82851cd5.webp"
+          "url": "https://cdn.animepilgrimage.com/places/4d3e01a7-b65d-4251-b906-2e6948db3aaa.webp"
         },
         {
-          "url": "media/cached-image_fb1c2c3fec2b9599772744d713f267b1d1581857b7282b7e5a44ed87d1139844.jpg"
+          "url": "media/cached-image_49ddd02e36b55f95dc903f6b5507a96a577e39971e34176466aff9035d7f3626.jpg"
         }
       ],
-      "type": "公園",
+      "type": "郵局",
       "categories": [
-        "公園"
+        "郵局"
       ],
       "rating": null,
       "reviewCount": 3,
       "priceLevel": null,
-      "address": "4 Chome-4-2 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "address": "3505 Anjo, Nishinoomote, Kagoshima 891-3432, Japan",
+      "city": "Nishinoomote",
+      "region": "Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@30.6089082,130.9984072,3a,75y,0.12h,81.84t/data=!3m7!1e1!3m5!1sZ6utC9PQ4rMdiuR_qdmVGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.164506964680243%26panoid%3DZ6utC9PQ4rMdiuR_qdmVGA%26yaw%3D0.11560495115406866!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This small post office on Tanegashima island is referenced in Chapter 2 as part of the ordinary island infrastructure Kanae moves through, grounding the rocket launch backdrop in rural daily life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJX5C6S2LqGGARaf8JhwLLCmY",
+      "name": "Musashi-Urawa Station",
+      "localName": "武蔵浦和駅",
+      "coordinates": {
+        "lat": 35.84616,
+        "lng": 139.64638
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3939a061-d643-44a9-87b6-29962d161a0e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3939a061-d643-44a9-87b6-29962d161a0e.webp"
+        },
+        {
+          "url": "media/cached-image_041e94e85f0970367105a82527b298278fe37a56ccd3b06deff7e6a86ecbbcdb.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "7-chōme-12 Bessho, Minami Ward, Saitama, 336-0021, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/place/Musashi-Urawa+Station/@35.8454735,139.6470355,3a,75y,109.27h,93.41t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDtnLfKXQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0KCNUhe--uhh-Xlqqzno_0yi0PK-1qq0rdq8czm7-dHQ5E_WkUp3HEr4f1YoMCUx0FMPEKdQtvcR62SSyOodQjhYb6wl8nN3FWJWnHE__8LDpPqwKqMV0xD1vW50zJQ_ndNWI%3Dw900-h600-k-no-pi-3.4086949252304066-ya109.27185809056112-ro0-fo100!7i6528!8i3264!4m9!3m8!1s0x6018ea624bba905f:0x660acb028709ff69!8m2!3d35.8454735!4d139.6470355!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bc5cgsqg?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Musashi-Urawa Station appears in the Chapter 1 train montage as one of the stations Takaki passes while travelling through Saitama on his way to reach Akari before it gets too late."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJtXhHHwCNGGARCByz5SGzZrg",
+      "name": "Lawson Yoyogi Sanchome Shop",
+      "localName": "ローソン 代々木三丁目店",
+      "coordinates": {
+        "lat": 35.68534,
+        "lng": 139.69279
+      },
+      "image": "https://cdn.animepilgrimage.com/places/3cd41add-fc04-4936-8d71-6113851f162d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/3cd41add-fc04-4936-8d71-6113851f162d.webp"
+        },
+        {
+          "url": "media/cached-image_a807368ea41fc5cad63fc144f149ad94e971dca915d64bd6146a50b7fb387e3d.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 2.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-24-3 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
       "city": "Shibuya",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6790233,139.6923916,3a,48.7y,140.6h,92.77t/data=!3m7!1e1!3m5!1sA-XXDCY61fgCEmK2tMntxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7716506830901437%26panoid%3DA-XXDCY61fgCEmK2tMntxQ%26yaw%3D140.5967893761282!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Sangubashi Park in the Yoyogi neighborhood is a background location used in Chapter 3 to ground adult Takaki's Tokyo life in the Shinjuku-adjacent residential streets where Shinkai himself lived."
+      "streetViewUrl": "https://www.google.com/maps/@35.6854094,139.692934,3a,75y,219.22h,94.69t/data=!3m7!1e1!3m5!1s7aDwUEx6tcxyeZ0_6CCGNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.692555441552514%26panoid%3D7aDwUEx6tcxyeZ0_6CCGNA%26yaw%3D219.21661943728014!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Lawson convenience store in Yoyogi appears in Chapter 3 near Takaki's Yoyogi neighbourhood, one of the mundane urban fixtures that ground his solitary adult life in the recognisable texture of everyday Tokyo."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ18MWiNqMGGARsZO5vEUCONc",
-      "name": "Don Quijote Shinjuku Tonanguchi",
-      "localName": "ドン・キホーテ 新宿東南口店",
+      "placeId": "ChIJh4rSS044H2ARsGGowBAMtus",
+      "name": "Iwafune Station",
+      "localName": "岩舟駅",
       "coordinates": {
-        "lat": 35.69018,
-        "lng": 139.70217
+        "lat": 36.32681,
+        "lng": 139.65772
       },
-      "image": "media/cached-image_671c25c9d7369f25b7e64f6c5b06761f4bceec1860913b5c4e47e28cfd41fe1a.webp",
+      "image": "https://cdn.animepilgrimage.com/places/5d27438f-c215-44ac-8337-efa0b0f3b759.webp",
       "images": [
         {
-          "url": "media/cached-image_671c25c9d7369f25b7e64f6c5b06761f4bceec1860913b5c4e47e28cfd41fe1a.webp"
+          "url": "https://cdn.animepilgrimage.com/places/5d27438f-c215-44ac-8337-efa0b0f3b759.webp"
         },
         {
-          "url": "media/cached-image_4b8d45c07001612d646ef252d7171e6b0f8c00f8851ba6d429b77db816cea23d.jpg"
-        },
-        {
-          "url": "media/cached-image_6cfd81998f16d64518357b914d24e39f5034ab38dd1a97decba47dd4c35b4cd7.jpg"
-        },
-        {
-          "url": "media/cached-image_4947d1de0b2a685d2c45daffb8c273dcf6a9d2783bccdc24e2a107f041f90562.jpg"
-        },
-        {
-          "url": "media/cached-image_87376c38e8f11cc33eb1b3404987df04405802e0adce92fc7b01ca30dc1dd91d.jpg"
+          "url": "media/cached-image_15736891af1f86b95ef921f7efd63eff0a913484206da4f0e3346961ddadbb62.jpg"
         }
       ],
-      "type": "ディスカウント ストア",
+      "type": "駅",
       "categories": [
-        "ディスカウント ストア"
+        "駅"
       ],
-      "rating": 3.7,
-      "reviewCount": 813,
+      "rating": 4.2,
+      "reviewCount": null,
       "priceLevel": null,
-      "address": "3 Chome-36-16 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
-      "city": "Shinjuku City",
+      "address": "Iwafunemachi Shizuka, Tochigi, 329-4307, Japan",
+      "city": "Tochigi",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3268255,139.6577196,3a,75y,358.45h,94.32t/data=!3m7!1e1!3m5!1sYdzKvrB0-Ll86N5uErJCAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYdzKvrB0-Ll86N5uErJCAA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D82.05828%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Iwafune Station is the rural stop where Akari was waiting for Takaki at the end of Chapter 1, the moment after his long snow-delayed train journey finally brings him to her side.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJyUtod2VgPDUR6dv_J645ebg",
+      "name": "I-Shop Ishido store",
+      "localName": "アイショップ 石堂店",
+      "coordinates": {
+        "lat": 30.54673,
+        "lng": 130.97084
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18e7834c-bacf-48bc-bf3b-0c1b3a5b997d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18e7834c-bacf-48bc-bf3b-0c1b3a5b997d.webp"
+        },
+        {
+          "url": "media/cached-image_f2fcee6ce565afb70e8d405100a13c3deb08593bd4d17c8aee44b2937bf858d8.jpg"
+        }
+      ],
+      "type": "コンビニエンスストア",
+      "categories": [
+        "コンビニエンスストア"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2172-1 Noma, Nakatane, Kumage District, Kagoshima 891-3604, Japan",
+      "city": "Nakatane",
+      "region": "Kumage District, Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@30.5467957,130.9708152,3a,75y,150.45h,99.34t/data=!3m7!1e1!3m5!1sE6Ni8NTqWhrFK0Y-VCo6_w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DE6Ni8NTqWhrFK0Y-VCo6_w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D346.11658%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The I-Shop Ishido convenience store on Tanegashima island appears in Chapter 2 as a real location near the areas Kanae frequents, one of the modest local spots that give the island chapter its lived-in, unglamorous texture."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAcvi8J7zGGAR8Un6np_HUjA",
+      "name": "Gotokuji Station",
+      "localName": "豪徳寺駅",
+      "coordinates": {
+        "lat": 35.65326,
+        "lng": 139.6469
+      },
+      "image": "https://cdn.animepilgrimage.com/places/588d3d7a-35c8-4ac8-bcee-9a1f7c300250.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/588d3d7a-35c8-4ac8-bcee-9a1f7c300250.webp"
+        },
+        {
+          "url": "media/cached-image_a6f0c1a529d8ef6f94cbe92430009d5b700a87b42b9223fbf8b1ad5993298c41.jpg"
+        },
+        {
+          "url": "media/cached-image_8ee3596001a1eff3c6851248e3c161a51aef6fcdd66065d64e942181f1cbf7e5.jpg"
+        },
+        {
+          "url": "media/cached-image_25c4591c20f19c2225ff783897e1e6f85921ac1561eba8918c1c7636ad20109c.jpg"
+        },
+        {
+          "url": "media/cached-image_abdf933536172ffb88c16559f1e14d26fe0057e8b917386c45179cf2780835bf.jpg"
+        },
+        {
+          "url": "media/cached-image_f5f66c68ed25d77e0a811c056de9bf2fde93d30f2ce0426a385b0bb2214244dc.jpg"
+        },
+        {
+          "url": "media/cached-image_825bc0152f364fc43aa4fc57c0d179c9ed8343f325311e4de61f11d611e73236.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": 564,
+      "priceLevel": null,
+      "address": "1-chōme-43 Gōtokuji, Setagaya City, Tokyo 154-0021, Japan",
+      "city": "Setagaya City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6899798,139.7021593,3a,48.7y,8.04h,101.94t/data=!3m7!1e1!3m5!1sxAS8ZKLHstv_w7QWHMJ4OA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.940222589413978%26panoid%3DxAS8ZKLHstv_w7QWHMJ4OA%26yaw%3D8.038492040563897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
+      "streetViewUrl": "https://www.google.com/maps/@35.653275,139.6469021,3a,75y,359.44h,99.64t/data=!3m6!1e1!3m4!1s4lu7LTo9hmOD92SYD-Jykw!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Gotokuji Station on the Odakyu line appears in Chapter 3 as part of the commuter rail network Takaki uses in Tokyo, one of the suburban stops the film uses to convey the repetitive, drifting quality of his adult daily routine."
     },
     {
       "kind": "poi",
@@ -751,10 +373,10 @@
         "lat": 35.68676,
         "lng": 139.70089
       },
-      "image": "media/cached-image_5173818203cb440b1015dcab2973f767d709f1aef8bb358b495ec8a4c343ba4f.webp",
+      "image": "https://cdn.animepilgrimage.com/places/641ab052-1d73-496e-b234-065f346b4105.webp",
       "images": [
         {
-          "url": "media/cached-image_5173818203cb440b1015dcab2973f767d709f1aef8bb358b495ec8a4c343ba4f.webp"
+          "url": "https://cdn.animepilgrimage.com/places/641ab052-1d73-496e-b234-065f346b4105.webp"
         },
         {
           "url": "media/cached-image_ff3b946ba0f19f64c32a6fb3aa9ecb7086a7c2b0ee0def67ef74fdaece2980a7.jpg"
@@ -807,7 +429,158 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.6869077,139.7007876,3a,73.7y,138.13h,98.79t/data=!3m7!1e1!3m5!1sG_AiIbicmmBhCNsJshkLZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.791190789523995%26panoid%3DG_AiIbicmmBhCNsJshkLZA%26yaw%3D138.1333671851017!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shinjuku Southern Terrace appears in Chapter 3 as the upscale commercial district Takaki and Risa walk through, capturing the modern Tokyo lifestyle they share before their relationship quietly dissolves under the weight of his emotional distance."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJW_Z0p8yMGGARGKLxL3ZwC40",
+      "name": "FLOTO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.67921,
+        "lng": 139.69217
+      },
+      "image": "https://cdn.animepilgrimage.com/places/1e37cb30-a3bf-42e3-b70e-072fa1de2904.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/1e37cb30-a3bf-42e3-b70e-072fa1de2904.webp"
+        },
+        {
+          "url": "media/cached-image_4b0e7eeb883d4bdc1b69bdf8180060754a3b55b6190a3b955487d13690827581.jpg"
+        }
+      ],
+      "type": "Ice cream shop",
+      "categories": [
+        "Ice cream shop"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4 Chome−12−6 Cala参宮橋",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6792265,139.6921688,3a,75y,107.59h,106.76t/data=!3m7!1e1!3m5!1s0RA4gSHvFWatKnOuuobVnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0RA4gSHvFWatKnOuuobVnQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D353.1235%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?coh=205409&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ18MWiNqMGGARsZO5vEUCONc",
+      "name": "Don Quijote Shinjuku Tonanguchi",
+      "localName": "ドン・キホーテ 新宿東南口店",
+      "coordinates": {
+        "lat": 35.69018,
+        "lng": 139.70217
+      },
+      "image": "https://cdn.animepilgrimage.com/places/61c52b2d-3df5-429e-8d36-df68be11ff2f.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/61c52b2d-3df5-429e-8d36-df68be11ff2f.webp"
+        },
+        {
+          "url": "media/cached-image_4b8d45c07001612d646ef252d7171e6b0f8c00f8851ba6d429b77db816cea23d.jpg"
+        },
+        {
+          "url": "media/cached-image_6cfd81998f16d64518357b914d24e39f5034ab38dd1a97decba47dd4c35b4cd7.jpg"
+        },
+        {
+          "url": "media/cached-image_4947d1de0b2a685d2c45daffb8c273dcf6a9d2783bccdc24e2a107f041f90562.jpg"
+        },
+        {
+          "url": "media/cached-image_87376c38e8f11cc33eb1b3404987df04405802e0adce92fc7b01ca30dc1dd91d.jpg"
+        }
+      ],
+      "type": "ディスカウント ストア",
+      "categories": [
+        "ディスカウント ストア"
+      ],
+      "rating": 3.7,
+      "reviewCount": 813,
+      "priceLevel": null,
+      "address": "3 Chome-36-16 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6899798,139.7021593,3a,48.7y,8.04h,101.94t/data=!3m7!1e1!3m5!1sxAS8ZKLHstv_w7QWHMJ4OA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.940222589413978%26panoid%3DxAS8ZKLHstv_w7QWHMJ4OA%26yaw%3D8.038492040563897!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Don Quijote near Shinjuku Station's southeast exit appears in the urban Tokyo backdrop of Chapter 3, one of the recognisable commercial landmarks visible as Takaki navigates the busy Shinjuku area on his daily route."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJHS28ZvQOA2ARnc-X7DVDJPU",
+      "name": "Akariya by Light Shop",
+      "localName": "灯屋",
+      "coordinates": {
+        "lat": 35.67766,
+        "lng": 139.693
+      },
+      "image": "https://cdn.animepilgrimage.com/places/289c1486-e831-4953-8991-460b64f3a894.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/289c1486-e831-4953-8991-460b64f3a894.webp"
+        },
+        {
+          "url": "media/cached-image_c5c949b491305d320543cba59a80282daf177bb045e85a167ff73fbd33360aef.jpg"
+        },
+        {
+          "url": "media/cached-image_06d0c4f745006880f1c1c2ab6916b85e05735c5f1829f9624120d5e9ff0aab63.jpg"
+        },
+        {
+          "url": "media/cached-image_1822ad3d3366128f05fb040fcea6c7324bcf40c5301b7fc502ce3f934ad5de02.jpg"
+        },
+        {
+          "url": "media/cached-image_8e237175e5d01f9d09623f910d4d8820aaa9e63db1b2034334d99f53b9b2de74.jpg"
+        },
+        {
+          "url": "media/cached-image_d996bffa3a2057683fbe6345077223f468c89fb3701068756f9ba1603b15af1e.jpg"
+        },
+        {
+          "url": "media/cached-image_a1994b29058e5019b981fb05e7350a8cf34f44b1a788a4ae75bba828995a439a.jpg"
+        },
+        {
+          "url": "media/cached-image_63315abe94965692cba293853f578dd4aa91eb5aed11c07e9e424cf40e9d2fce.jpg"
+        },
+        {
+          "url": "media/cached-image_209de2e3d7f5e69fec7a1fc6335d776f9353ad6fea350f045d78b7326bf2f162.jpg"
+        },
+        {
+          "url": "media/cached-image_0cdff2ec9f205f89787d0e135e171d4a99689a755b109571fc42ead01cb0e7f1.jpg"
+        },
+        {
+          "url": "media/cached-image_e9c2d62de06cf4735281f268cca5841aab052438d922679aa38c8ca241381531.jpg"
+        },
+        {
+          "url": "media/cached-image_f3616b65401025ec33abaf6ad1bbace3a5b67516fe7af647b790213f1ee871f6.jpg"
+        },
+        {
+          "url": "media/cached-image_6cf6c23d8cbb0da757460128ee44c6abced44009b3bc7b2be05abee785239e3e.jpg"
+        }
+      ],
+      "type": "日式旅馆",
+      "categories": [
+        "日式旅馆"
+      ],
+      "rating": 4.4,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Kitakoken-41-6 Inuyama, Aichi 484-0082, Japan",
+      "city": "Inuyama",
+      "region": "Aichi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6777483,139.6929186,3a,75y,128.22h,93.57t/data=!3m7!1e1!3m5!1s0-DZn6HDYTegWoEYG-vICw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0-DZn6HDYTegWoEYG-vICw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D130.28209%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Akariya inn in Yoyogi area appears linked to the Yoyogi neighbourhood where Takaki lives in Chapter 3, part of the residential streets near his apartment that Shinkai rendered from real locations in the Sangubashi area of Shibuya."
     },
     {
       "kind": "poi",
@@ -818,10 +591,10 @@
         "lat": 35.68904,
         "lng": 139.69512
       },
-      "image": "media/cached-image_cdaf4b792ad1e11b1e1f825ee7b5aab0c5fc60c0a4af1f346740bf7f1f7c3831.webp",
+      "image": "https://cdn.animepilgrimage.com/places/6f0df232-048e-4d9e-8b0f-8bccb52fdb08.webp",
       "images": [
         {
-          "url": "media/cached-image_cdaf4b792ad1e11b1e1f825ee7b5aab0c5fc60c0a4af1f346740bf7f1f7c3831.webp"
+          "url": "https://cdn.animepilgrimage.com/places/6f0df232-048e-4d9e-8b0f-8bccb52fdb08.webp"
         },
         {
           "url": "media/cached-image_f1ae3a900a5a8c13118e06a9e303be8af9053a03fad8cd4762b04278f8501ef5.jpg"
@@ -841,583 +614,60 @@
       "description": null,
       "geoStatus": "google",
       "streetViewUrl": "https://www.google.com/maps/@35.6891035,139.6953295,3a,63.5y,253.08h,96.49t/data=!3m7!1e1!3m5!1s8e3EvXrG03lvWDNI3aYfpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.492887892922184%26panoid%3D8e3EvXrG03lvWDNI3aYfpQ%26yaw%3D253.07607377873418!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The 7-Eleven at the Nishi-Shinjuku NTT Building is part of the west Shinjuku streetscape Takaki moves through in Chapter 3, a convenience store typical of the faceless urban routine his adult days have become."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJ-Sp0vimNGGARGwkncmolCys",
-      "name": "Shinjuku Station West Exit (JR side) Excellent cab stand",
-      "localName": "新宿駅西口(JR側)優良タクシー乗り場",
+      "placeId": "ChIJK-fUUyGNGGARwVrqXpwtRbk",
+      "name": "Odakyu Marche Shinjuku",
+      "localName": "小田急マルシェ 新宿",
       "coordinates": {
-        "lat": 35.69154,
-        "lng": 139.69881
+        "lat": 35.69139,
+        "lng": 139.69971
       },
-      "image": "media/cached-image_f520ec3259960a782bfac9e2a9d8a5b892dc26807cf965947c7fe5ba5f46e859.webp",
+      "image": "https://cdn.animepilgrimage.com/places/327e053c-1239-46f4-a473-d83e35b61087.webp",
       "images": [
         {
-          "url": "media/cached-image_f520ec3259960a782bfac9e2a9d8a5b892dc26807cf965947c7fe5ba5f46e859.webp"
+          "url": "https://cdn.animepilgrimage.com/places/327e053c-1239-46f4-a473-d83e35b61087.webp"
         },
         {
-          "url": "media/cached-image_f81508a71e582d25f0a5dceba3f653280d47ddf04222e5c9fc145530475b1113.jpg"
+          "url": "media/cached-image_47a29aedb22017e066a9b47e9565f461ce50934ad4dc52bede4563a707360ee5.jpg"
+        },
+        {
+          "url": "media/cached-image_4967c9748896c295759e6435b2ab4cb844ed3e34fbd9ad5f00497960de3c3d9d.jpg"
+        },
+        {
+          "url": "media/cached-image_4631bbecce1743c7e0791573a32437c6fcde7123ed80951e4e3f95d3fea972b5.jpg"
+        },
+        {
+          "url": "media/cached-image_b8005b6af3da0d89ae74be7089dfb0dcafa38b99bb201ec872e8183aec4e6ef4.jpg"
+        },
+        {
+          "url": "media/cached-image_7276db89a0815752bb329d66dde9c321856dbabb7ce10aa8627f449c508af500.jpg"
+        },
+        {
+          "url": "media/cached-image_8c7fe812ed1a89952b5bbafafdacf8b1ce43d274a2c7173806913d1624cee5cf.jpg"
         }
       ],
-      "type": "タクシー乗降場",
+      "type": "ショッピング モール",
       "categories": [
-        "タクシー乗降場"
-      ],
-      "rating": 2.9,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−5",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6914289,139.6987529,3a,63y,15.68h,95.42t/data=!3m7!1e1!3m5!1s1b_KR0RrXejnS1Nvt0bS2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.420697398120041%26panoid%3D1b_KR0RrXejnS1Nvt0bS2A%26yaw%3D15.677444651783532!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJo-WEo61LH2ARA7HAcIbN2Bs",
-      "name": "Nogi Station",
-      "localName": "野木駅",
-      "coordinates": {
-        "lat": 36.23073,
-        "lng": 139.73543
-      },
-      "image": "media/cached-image_3fce9afc467f1ae4e5eed3a6c8827bafcfe41421495acd3478210b86a9b0d442.webp",
-      "images": [
-        {
-          "url": "media/cached-image_3fce9afc467f1ae4e5eed3a6c8827bafcfe41421495acd3478210b86a9b0d442.webp"
-        },
-        {
-          "url": "media/cached-image_6a9135b37ab70313d572464aaea21460d819e52760ecbec144f1782a10cb9a3d.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Marubayashi, Nogi, Shimotsuga District, Tochigi 329-0111, Japan",
-      "city": "Nogi",
-      "region": "Shimotsuga District, Tochigi",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.2307055,139.7355903,3a,90y,307.43h,100.96t/data=!3m7!1e1!3m5!1s_i-N1mhup5-H-plK7mbXbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.963839576640211%26panoid%3D_i-N1mhup5-H-plK7mbXbg%26yaw%3D307.4270380579129!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Nogi Station in Tochigi is one of the rural stations Takaki passes through during his snowbound train journey in Chapter 1, with the film depicting the quiet platforms and snowfall that drag his journey impossibly long."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ20a4NwBfPDURJJ0r9Jam-GQ",
-      "name": "Former Tanegashima Airport",
-      "localName": "旧種子島空港",
-      "coordinates": {
-        "lat": 30.54364,
-        "lng": 130.95646
-      },
-      "image": "media/cached-image_10e4c630f199a58bfbbccb5e9b73c62254dde0fba6b1537abf533358a06b4caa.webp",
-      "images": [
-        {
-          "url": "media/cached-image_10e4c630f199a58bfbbccb5e9b73c62254dde0fba6b1537abf533358a06b4caa.webp"
-        },
-        {
-          "url": "media/cached-image_44be4b5adb275efca8335cd5a2735a19f92ee8e3b0f05aee7b2d716cefc4d788.jpg"
-        }
-      ],
-      "type": "史跡",
-      "categories": [
-        "史跡"
-      ],
-      "rating": 3,
-      "reviewCount": 9,
-      "priceLevel": null,
-      "address": "Japan, 〒891-3604 Kagoshima, Kumage District, Nakatane, Noma, 17007-30",
-      "city": "Nakatane",
-      "region": "Kumage District, Kagoshima",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@30.5436845,130.9567777,3a,40.7y,234.99h,92.46t/data=!3m7!1e1!3m5!1s0IROzhK9enoO-PoIyaw_cA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.456540042002885%26panoid%3D0IROzhK9enoO-PoIyaw_cA%26yaw%3D234.9876718741601!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "The former Tanegashima Airport grounds are depicted in Chapter 2 as part of the island's open landscape, setting the scene of isolation and wide sky that defines Kanae's world and the backdrop for the rocket launches."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJEWo9DgpgPDURgPKe7cXOzYE",
-      "name": "Kagoshimasogoshinyokinko Nakatane Shiten",
-      "localName": "鹿児島相互信用金庫 中種子支店",
-      "coordinates": {
-        "lat": 30.53693,
-        "lng": 130.95942
-      },
-      "image": "media/cached-image_825098ab697d33f57723f984475f91d2145ea30fa230026b1741a9f8c4786e4d.webp",
-      "images": [
-        {
-          "url": "media/cached-image_825098ab697d33f57723f984475f91d2145ea30fa230026b1741a9f8c4786e4d.webp"
-        },
-        {
-          "url": "media/cached-image_87f9cc098243c11fb0c261e54f6c72513840f485d3a0194a3625ba4e7c29e7b9.jpg"
-        }
-      ],
-      "type": "銀行",
-      "categories": [
-        "銀行"
-      ],
-      "rating": 4.5,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "5142-20 Noma, Nakatane, Kumage District, Kagoshima 891-3604, Japan",
-      "city": "Nakatane",
-      "region": "Kumage District, Kagoshima",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@30.5370601,130.9595281,3a,75y,197.09h,102.69t/data=!3m6!1e1!3m4!1s_56WWOQeWpLF2SBxo8jt-g!2e0!7i16384!8i8192?entry=ttu",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJY-ivQcTJGGARv1GO0rPBokU",
-      "name": "Kuki Station",
-      "localName": "久喜駅",
-      "coordinates": {
-        "lat": 36.06609,
-        "lng": 139.6774
-      },
-      "image": "media/cached-image_9fff2308cd2db518ef11f7dbc2a3eb30166c2a9c534345d3a3001be1223cf8bf.webp",
-      "images": [
-        {
-          "url": "media/cached-image_9fff2308cd2db518ef11f7dbc2a3eb30166c2a9c534345d3a3001be1223cf8bf.webp"
-        },
-        {
-          "url": "media/cached-image_5295155155ed205039e060033c861a26a73876971fb65f29b0326f2fba0ece1d.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2-chōme-1 Kukichūō, Kuki, Saitama 346-0003, Japan",
-      "city": "Kuki",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.066064,139.6771487,3a,48.7y,131.39h,80.16t/data=!3m7!1e1!3m5!1s-91xRi4dSRHdkvfD3Hypww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.83822736098476%26panoid%3D-91xRi4dSRHdkvfD3Hypww%26yaw%3D131.385432811379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Kuki Station in Saitama is passed on Takaki's Chapter 1 train journey, part of the Tohoku/Utsunomiya line route toward Tochigi that the film traces in meticulous real-geography detail."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJAQAEbsuMGGARghxXStBNdVs",
-      "name": "Hatsuratsu Center Sangubashi",
-      "localName": "はつらつセンター参宮橋",
-      "coordinates": {
-        "lat": 35.67866,
-        "lng": 139.69287
-      },
-      "image": "media/cached-image_6812c6503fa52a27f955e5a822bf81028614550f05312c52b0d31f902814afd1.webp",
-      "images": [
-        {
-          "url": "media/cached-image_6812c6503fa52a27f955e5a822bf81028614550f05312c52b0d31f902814afd1.webp"
-        },
-        {
-          "url": "media/cached-image_6350765166f809274c3b7598b41d1becd7b39f296215ffd02f4e91f015546534.jpg"
-        },
-        {
-          "url": "media/cached-image_f7a4e4038199c88a9dd90518bbe093753a03848dac6d2d84319b5290457f0181.jpg"
-        }
-      ],
-      "type": "コミュニティ センター",
-      "categories": [
-        "コミュニティ センター"
-      ],
-      "rating": 4.1,
-      "reviewCount": 4,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4 Chome−4−1",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.678712,139.6927941,3a,75y,125.14h,90.31t/data=!3m7!1e1!3m5!1szrcCLRTZS1TnXhGB2_MhEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.31482328771969037%26panoid%3DzrcCLRTZS1TnXhGB2_MhEg%26yaw%3D125.13706539477408!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJr1ghQNCMGGARoUIuxb4WCy8",
-      "name": "Miyazaki Food Quwanne",
-      "localName": "宮崎風土 くわんね Quwanne",
-      "coordinates": {
-        "lat": 35.6883,
-        "lng": 139.70019
-      },
-      "image": "media/cached-image_aabce79e88a0fc92691e68bcf13308eea93756cf52e45cb992744a8beaf2a5ad.webp",
-      "images": [
-        {
-          "url": "media/cached-image_aabce79e88a0fc92691e68bcf13308eea93756cf52e45cb992744a8beaf2a5ad.webp"
-        },
-        {
-          "url": "media/cached-image_9e12577c055802cf4acddeabd1b40de9d54265154c6a9142a1e4301583a3813e.jpg"
-        }
-      ],
-      "type": "和食店",
-      "categories": [
-        "和食店"
-      ],
-      "rating": 4.6,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 2 Chome−2−1 新宿みやざき館, KONNE2階",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6881264,139.700162,3a,75y,37.08h,91.85t/data=!3m7!1e1!3m5!1sa1wssdI46hl7dQv56_9B9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8509751374588177%26panoid%3Da1wssdI46hl7dQv56_9B9A%26yaw%3D37.084871288437114!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJCaXMm9TyGGARv7u7pefbByQ",
-      "name": "Shinjuku Front Tower",
-      "localName": "新宿フロントタワー",
-      "coordinates": {
-        "lat": 35.69579,
-        "lng": 139.68883
-      },
-      "image": "media/cached-image_2ea041a9dbdcaa685f0a536bafd19d8e59fe74c5174f32ffe6f1cadfe3c50640.webp",
-      "images": [
-        {
-          "url": "media/cached-image_2ea041a9dbdcaa685f0a536bafd19d8e59fe74c5174f32ffe6f1cadfe3c50640.webp"
-        },
-        {
-          "url": "media/cached-image_dbc3404bca39ea5ed083f30c616af17b19ce8d7a6215316c91d19dd1700a4fda.jpg"
-        },
-        {
-          "url": "media/cached-image_98ec6fb6175597bba219fc40a6c95b9d11f38303474de7bb114573dc40d9cac9.jpg"
-        },
-        {
-          "url": "media/cached-image_67276b41e8f1a36a454005e67bee7dd7b79ef1dbd59c9b9d01709832d3b33233.jpg"
-        },
-        {
-          "url": "media/cached-image_431797fc040571afc91b6d5e5f0a5d4dd0df22b5a9b97853b16940b5a2bc7032.jpg"
-        },
-        {
-          "url": "media/cached-image_2de522c14993882fb27ad8f282aac4d8f41609b12522e157c1bee4f455f77d54.jpg"
-        },
-        {
-          "url": "media/cached-image_85362706a04a8b8e843b0d10bf23ecf2a35e2a2a486fea76ae97ac6cc1294805.jpg"
-        }
-      ],
-      "type": "ビジネス センター",
-      "categories": [
-        "ビジネス センター"
-      ],
-      "rating": 3.6,
-      "reviewCount": 390,
-      "priceLevel": null,
-      "address": "2 Chome-21-1 Kitashinjuku, Shinjuku City, Tokyo 169-0074, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6957986,139.6887316,3a,75y,107.96h,102.88t/data=!3m7!1e1!3m5!1s63_Ahm9PYBCZ2GsxT7J_9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.879319288673571%26panoid%3D63_Ahm9PYBCZ2GsxT7J_9g%26yaw%3D107.95666377324707!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ9Vjvjc-MGGARKA3yqhKDPIA",
-      "name": "Petit Délirium Tap Café Shinjuku",
-      "localName": "プティデリリウムタップカフェ 新宿店",
-      "coordinates": {
-        "lat": 35.68568,
-        "lng": 139.70065
-      },
-      "image": "media/cached-image_8ddc1fed550d5d7897b219e71b1d19feed3a50c40ed48d8e4b7a5e5601255c98.webp",
-      "images": [
-        {
-          "url": "media/cached-image_8ddc1fed550d5d7897b219e71b1d19feed3a50c40ed48d8e4b7a5e5601255c98.webp"
-        },
-        {
-          "url": "media/cached-image_920bec7a57ace1055539fee5d72fd35a6c7dbd1f69a36f1eab34768877490e2d.jpg"
-        },
-        {
-          "url": "media/cached-image_b2b203a97cc694ff50a35f10644d0d9234c676c36cbb0bbdfaed8fef852be885.jpg"
-        }
-      ],
-      "type": "レストラン",
-      "categories": [
-        "レストラン"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "新宿サザンテラス 内, 2 Chome-2-1 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6860196,139.7003708,3a,48.7y,147.67h,97.78t/data=!3m7!1e1!3m5!1s3tzyYacJNHjjulTDefkZgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.779311399066145%26panoid%3D3tzyYacJNHjjulTDefkZgg%26yaw%3D147.66655228553935!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJhVIszEPBGGARE9TlMlpmDyg",
-      "name": "Omiya Station",
-      "localName": "大宮駅",
-      "coordinates": {
-        "lat": 35.90565,
-        "lng": 139.62441
-      },
-      "image": "media/cached-image_d2dfe74211356c56ff1f31fdbb206dda41cd646c75c2990b7083bec35074845a.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d2dfe74211356c56ff1f31fdbb206dda41cd646c75c2990b7083bec35074845a.webp"
-        },
-        {
-          "url": "media/cached-image_fd2fb12b7a66111972ee39043d5bfd2c5839baf9ba60c3e3ddc95aba2f4608d2.jpg"
-        },
-        {
-          "url": "media/cached-image_be418c696067e5665d7f8634484c431ca394ae2eb7b8da21ac9f8039ef75baab.jpg"
-        },
-        {
-          "url": "media/cached-image_02583507ce726671c94975817034a44e6c361c23a660e08a154345bc42bdc427.jpg"
-        },
-        {
-          "url": "media/cached-image_49a53fb3f6b14fd543778783ae8c5cac7da07271258e54979141708c0298f587.jpg"
-        },
-        {
-          "url": "media/cached-image_b0f44b772e4d04e030bb9cafe65782ebe41ede2529288ca8702c6f4d702616e9.jpg"
-        },
-        {
-          "url": "media/cached-image_d2017242111ae1ddce1934541c17a597957a1f2e246dab1d43971ce71d0538d4.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.9,
-      "reviewCount": 6183,
-      "priceLevel": null,
-      "address": "Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
-      "city": "Saitama",
-      "region": "Saitama",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.9053179,139.6245679,3a,35.7y,310.27h,94.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE3pm0-QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0VtwD81ICpWtCZPFGNy6nxpMtXqljwPOtyiMUZcrjQT_dtLBtn5eV_cWShf0DN2yZWEosVkuVUe2cKViQbxyMoVfyy4QWJDREF0tKcbH3EAVxSgGNn4JATxnz25QqmfLeleTDWcA%3Dw900-h600-k-no-pi-4.184659957759592-ya249.11349605482326-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": "Omiya Station in Saitama is a stop on Takaki's Chapter 1 train journey through the winter night to reach Akari, one of the real stations the film traces along the route from Tokyo to Tochigi."
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJ-6PCQNKMGGARMXquZOCB9Qc",
-      "name": "Shinjuku Sumitomo Building",
-      "localName": "新宿住友ビル",
-      "coordinates": {
-        "lat": 35.69083,
-        "lng": 139.69315
-      },
-      "image": "media/cached-image_e20de9810495cd97f12cbd27fb1ec8b98bbbcaf50395374c8b40bc231972101c.webp",
-      "images": [
-        {
-          "url": "media/cached-image_e20de9810495cd97f12cbd27fb1ec8b98bbbcaf50395374c8b40bc231972101c.webp"
-        },
-        {
-          "url": "media/cached-image_212b9c3aefcca4f7c59faf00beeef1d79971ffc34649d15b3e532e5936d399fc.jpg"
-        }
-      ],
-      "type": "ビジネス センター",
-      "categories": [
-        "ビジネス センター"
-      ],
-      "rating": 3.7,
-      "reviewCount": null,
-      "priceLevel": null,
-      "address": "2 Chome-6-1 Nishishinjuku, Shinjuku City, Tokyo 163-0290, Japan",
-      "city": "Shinjuku City",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6907015,139.6931893,3a,85.2y,335.35h,107.97t/data=!3m7!1e1!3m5!1sl__Kbcxh2I7wFLglzzQ8_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.96896509332636%26panoid%3Dl__Kbcxh2I7wFLglzzQ8_A%26yaw%3D335.3494196315018!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJt6SGdMWMGGARQcuMekzvpYY",
-      "name": "Shinjuku Takashimaya",
-      "localName": "新宿高島屋",
-      "coordinates": {
-        "lat": 35.68744,
-        "lng": 139.70276
-      },
-      "image": "media/cached-image_14e6121ed5199f6c1d82dd026a8a0d77a17ccaa6075488f0668780bf2b008c61.webp",
-      "images": [
-        {
-          "url": "media/cached-image_14e6121ed5199f6c1d82dd026a8a0d77a17ccaa6075488f0668780bf2b008c61.webp"
-        },
-        {
-          "url": "media/cached-image_48d79b5631d716fd6a82411c2ded5e622376e93c9f416f9d3062b710862af36b.jpg"
-        },
-        {
-          "url": "media/cached-image_fb2cea52ba926d3fe9d071788844597286bfe53e9a4f73249cbfe246f59607be.jpg"
-        },
-        {
-          "url": "media/cached-image_900fc4ff2d67a24b2267798feb76ce5bff7344b6b7bd43a6d01a580456c6f433.jpg"
-        },
-        {
-          "url": "media/cached-image_62f219d38718a06038621eeec2b23869abb5ab2f1100a486f8858a2f8f9b9e34.jpg"
-        },
-        {
-          "url": "media/cached-image_b8064dab809896eb5fd0501556cefa3894c8c39c82479f1d93b8237bacd5791e.jpg"
-        },
-        {
-          "url": "media/cached-image_c7f1f88157b35b6cf704e7fb56da8e3bed4080077799f89154fe07ef1de55e63.jpg"
-        },
-        {
-          "url": "media/cached-image_9299e1b8dcf93eb279c7810ffe61f397d0b4c34038071875902e48f8d5c5314b.jpg"
-        }
-      ],
-      "type": "デパート",
-      "categories": [
-        "デパート"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "5 Chome-24-2 Sendagaya, Shibuya, Tokyo 151-8580, Japan",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6873882,139.7030232,3a,31.2y,270.53h,95.02t/data=!3m7!1e1!3m5!1s7w0N7iIYwYNwvKInM7wGcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.018805926268357%26panoid%3D7w0N7iIYwYNwvKInM7wGcQ%26yaw%3D270.53184469330546!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
-      "entityContext": null
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJiQoLq8LzGGAR6USqUnaHxbg",
-      "name": "SHIRAISHI D STUDIO",
-      "localName": null,
-      "coordinates": {
-        "lat": 35.67063,
-        "lng": 139.6895
-      },
-      "image": "media/cached-image_d72c4b446fa34e45a320516fb76637b8b29d38429bd20de244ff086d6c68e09b.webp",
-      "images": [
-        {
-          "url": "media/cached-image_d72c4b446fa34e45a320516fb76637b8b29d38429bd20de244ff086d6c68e09b.webp"
-        },
-        {
-          "url": "media/cached-image_265e99d316f848287fc5e314d0705db3a14bd126f2fbef1a9184ae12c76514a5.jpg"
-        }
-      ],
-      "type": "Haberdashery",
-      "categories": [
-        "Haberdashery"
-      ],
-      "rating": null,
-      "reviewCount": 3,
-      "priceLevel": null,
-      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 5 Chome−2−5",
-      "city": "Shibuya",
-      "region": "Tokyo",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6706471,139.6895712,3a,75y,285.44h,105.47t/data=!3m7!1e1!3m5!1sQn4L2tXEwjk1Pa9KgjDh6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DQn4L2tXEwjk1Pa9KgjDh6Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D123.0881%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJh4rSS044H2ARsGGowBAMtus",
-      "name": "Iwafune Station",
-      "localName": "岩舟駅",
-      "coordinates": {
-        "lat": 36.32681,
-        "lng": 139.65772
-      },
-      "image": "media/cached-image_1c911a298191d50b4d572d1ed140a51c81aa66fc2354c881d9b84d72ae1e26a7.webp",
-      "images": [
-        {
-          "url": "media/cached-image_1c911a298191d50b4d572d1ed140a51c81aa66fc2354c881d9b84d72ae1e26a7.webp"
-        },
-        {
-          "url": "media/cached-image_15736891af1f86b95ef921f7efd63eff0a913484206da4f0e3346961ddadbb62.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
+        "ショッピング モール"
       ],
       "rating": 4.2,
-      "reviewCount": null,
+      "reviewCount": 190,
       "priceLevel": null,
-      "address": "Iwafunemachi Shizuka, Tochigi, 329-4307, Japan",
-      "city": "Tochigi",
-      "region": "Tochigi",
-      "countryCode": "JP",
-      "description": null,
-      "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@36.3268255,139.6577196,3a,75y,358.45h,94.32t/data=!3m7!1e1!3m5!1sYdzKvrB0-Ll86N5uErJCAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYdzKvrB0-Ll86N5uErJCAA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D82.05828%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu"
-    },
-    {
-      "kind": "poi",
-      "placeId": "ChIJAcvi8J7zGGAR8Un6np_HUjA",
-      "name": "Gotokuji Station",
-      "localName": "豪徳寺駅",
-      "coordinates": {
-        "lat": 35.65326,
-        "lng": 139.6469
-      },
-      "image": "media/cached-image_51764cbd1e1285f731c448fb23b9ae56b0fabad1655ceaa9c812ded165816b9e.webp",
-      "images": [
-        {
-          "url": "media/cached-image_51764cbd1e1285f731c448fb23b9ae56b0fabad1655ceaa9c812ded165816b9e.webp"
-        },
-        {
-          "url": "media/cached-image_a6f0c1a529d8ef6f94cbe92430009d5b700a87b42b9223fbf8b1ad5993298c41.jpg"
-        },
-        {
-          "url": "media/cached-image_8ee3596001a1eff3c6851248e3c161a51aef6fcdd66065d64e942181f1cbf7e5.jpg"
-        },
-        {
-          "url": "media/cached-image_25c4591c20f19c2225ff783897e1e6f85921ac1561eba8918c1c7636ad20109c.jpg"
-        },
-        {
-          "url": "media/cached-image_abdf933536172ffb88c16559f1e14d26fe0057e8b917386c45179cf2780835bf.jpg"
-        },
-        {
-          "url": "media/cached-image_f5f66c68ed25d77e0a811c056de9bf2fde93d30f2ce0426a385b0bb2214244dc.jpg"
-        },
-        {
-          "url": "media/cached-image_825bc0152f364fc43aa4fc57c0d179c9ed8343f325311e4de61f11d611e73236.jpg"
-        }
-      ],
-      "type": "駅",
-      "categories": [
-        "駅"
-      ],
-      "rating": 3.6,
-      "reviewCount": 564,
-      "priceLevel": null,
-      "address": "1-chōme-43 Gōtokuji, Setagaya City, Tokyo 154-0021, Japan",
-      "city": "Setagaya City",
+      "address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−1−3, 小田急新宿駅西口地下コンコース B1",
+      "city": "Shinjuku City",
       "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.653275,139.6469021,3a,75y,359.44h,99.64t/data=!3m6!1e1!3m4!1s4lu7LTo9hmOD92SYD-Jykw!2e0!7i16384!8i8192?entry=ttu"
+      "streetViewUrl": "https://www.google.com/maps/@35.6914775,139.6997043,2a,64.3y,99.52h,91.74t/data=!3m7!1e1!3m5!1sFg3-OXf_H4JrZo-9le-f8w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7376270655937844%26panoid%3DFg3-OXf_H4JrZo-9le-f8w%26yaw%3D99.52345968335395!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Odakyu Marche underground concourse at Shinjuku Station appears in Chapter 3, one of the transit retail spaces Takaki moves through in his daily commute, adding to the film's portrait of urban life as busy yet emotionally hollow."
     },
     {
       "kind": "poi",
@@ -1428,10 +678,10 @@
         "lat": 35.67153,
         "lng": 139.68808
       },
-      "image": "media/cached-image_93384b620c7535fbfbf4210d138fb4563cdf55839cdf2e12b4ac534b10ff6d82.webp",
+      "image": "https://cdn.animepilgrimage.com/places/4f588c7e-a651-46ce-b0d3-e8fdf2cf0a3b.webp",
       "images": [
         {
-          "url": "media/cached-image_93384b620c7535fbfbf4210d138fb4563cdf55839cdf2e12b4ac534b10ff6d82.webp"
+          "url": "https://cdn.animepilgrimage.com/places/4f588c7e-a651-46ce-b0d3-e8fdf2cf0a3b.webp"
         },
         {
           "url": "media/cached-image_0b719e17a840f38b585318e08411c30bfb5156e42a6b2c35b5d74d12c44793ab.jpg"
@@ -1483,40 +733,868 @@
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@35.6715354,139.6878317,3a,75y,108.47h,109.67t/data=!3m7!1e1!3m5!1smn_juLrykDCtmFsC6t6aJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.668399386252176%26panoid%3Dmn_juLrykDCtmFsC6t6aJw%26yaw%3D108.4703867734055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.6715354,139.6878317,3a,75y,108.47h,109.67t/data=!3m7!1e1!3m5!1smn_juLrykDCtmFsC6t6aJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.668399386252176%26panoid%3Dmn_juLrykDCtmFsC6t6aJw%26yaw%3D108.4703867734055!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Yoyogi Hachimangu Shrine sits near Takaki's Yoyogi neighbourhood in Chapter 3, its wooded precincts providing a quiet contrast to the surrounding city as he moves through the solitary rhythms of his adult Tokyo life."
     },
     {
       "kind": "poi",
-      "placeId": "ChIJUzFmgx1nPDURdo5BZHUCpk4",
-      "name": "Nakawari Simple Post Office",
-      "localName": "中割簡易郵便局",
+      "placeId": "ChIJIw4S7fBOH2ARUPgp_Bch_As",
+      "name": "Oyama Station, platform 12,13",
+      "localName": "小山駅 12,13ホーム",
       "coordinates": {
-        "lat": 30.60894,
-        "lng": 130.99839
+        "lat": 36.31362,
+        "lng": 139.80691
       },
-      "image": "media/cached-image_012587eabaadc66c62187c5fcd1bf082b176620e626c179c2278d14d54aa2a98.webp",
+      "image": "https://cdn.animepilgrimage.com/places/dfbfe2e2-fc69-4eb1-9a1b-1401156698e8.webp",
       "images": [
         {
-          "url": "media/cached-image_012587eabaadc66c62187c5fcd1bf082b176620e626c179c2278d14d54aa2a98.webp"
+          "url": "https://cdn.animepilgrimage.com/places/dfbfe2e2-fc69-4eb1-9a1b-1401156698e8.webp"
         },
         {
-          "url": "media/cached-image_49ddd02e36b55f95dc903f6b5507a96a577e39971e34176466aff9035d7f3626.jpg"
+          "url": "media/cached-image_653c28752d3781f585b72ff0882977081bd2030ed6744d9b06a40c3bd5c4d17b.jpg"
+        },
+        {
+          "url": "media/cached-image_f50f1a467c0e829c4e8fbfc9626a80b0fd509125e461e5af119c5929422ae11b.jpg"
+        },
+        {
+          "url": "media/cached-image_e30593b377aa59786a3c236219bb0acc576d58a9e94df2b2815fdb7b046f94bd.jpg"
+        },
+        {
+          "url": "media/cached-image_40ebad80ea73adfa790f8ebaa681a6d100040f824b6276bca10135720eb980ae.jpg"
+        },
+        {
+          "url": "media/cached-image_5413b343701a350078f1016cdeed5b7212267ca5cd670723cc6386c284c97a08.jpg"
+        },
+        {
+          "url": "media/cached-image_6045bcf38e60017f3755a31284a40c580ded90d55463e174a466916b6a7dedd2.jpg"
         }
       ],
-      "type": "郵局",
+      "type": "駅",
       "categories": [
-        "郵局"
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": 480,
+      "priceLevel": null,
+      "address": "3 Chome Shiroyamacho, Oyama, Tochigi, Japan",
+      "city": "Oyama",
+      "region": "Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.3133515,139.8066978,3a,63.5y,75.69h,96.5t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIC4-ub1Og!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu2EdnNC-on5APFeBZ7zmwZN-5aoLLJu4VP1Jfr1rN5pPFahdTdiR3qMDz-px0ulMGXwJGajFbElZ0p2TUmMmvgsDmTqOwFP59SjfKqkDWvs2GY2KRjxX8Vh95NFzpvOHrPAp9I%3Dw900-h600-k-no-pi-6.495423653255926-ya174.6865471802478-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Takaki changes trains at Oyama Station during his snow-delayed journey to reach Akari in Chapter 1, the platform where the growing delay and darkness deepen his anxious determination to reach her.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ19QFZsuMGGARZeAOGSKiNDc",
+      "name": "Sangubashi Park",
+      "localName": "参宮橋公園",
+      "coordinates": {
+        "lat": 35.67884,
+        "lng": 139.69257
+      },
+      "image": "https://cdn.animepilgrimage.com/places/095c75ca-504d-42c1-aaf4-f533f84422b5.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/095c75ca-504d-42c1-aaf4-f533f84422b5.webp"
+        },
+        {
+          "url": "media/cached-image_fb1c2c3fec2b9599772744d713f267b1d1581857b7282b7e5a44ed87d1139844.jpg"
+        }
+      ],
+      "type": "公園",
+      "categories": [
+        "公園"
       ],
       "rating": null,
       "reviewCount": 3,
       "priceLevel": null,
-      "address": "3505 Anjo, Nishinoomote, Kagoshima 891-3432, Japan",
-      "city": "Nishinoomote",
-      "region": "Kagoshima",
+      "address": "4 Chome-4-2 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
       "countryCode": "JP",
       "description": null,
       "geoStatus": "google",
-      "streetViewUrl": "https://www.google.com/maps/@30.6089082,130.9984072,3a,75y,0.12h,81.84t/data=!3m7!1e1!3m5!1sZ6utC9PQ4rMdiuR_qdmVGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.164506964680243%26panoid%3DZ6utC9PQ4rMdiuR_qdmVGA%26yaw%3D0.11560495115406866!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D"
+      "streetViewUrl": "https://www.google.com/maps/@35.6790233,139.6923916,3a,48.7y,140.6h,92.77t/data=!3m7!1e1!3m5!1sA-XXDCY61fgCEmK2tMntxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7716506830901437%26panoid%3DA-XXDCY61fgCEmK2tMntxQ%26yaw%3D140.5967893761282!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Sangubashi Park in Yoyogi is near the apartment block where Takaki lives in Chapter 3, the quiet neighbourhood streets around it appearing as he walks home alone through the familiar urban routine of his adult life in Tokyo."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJNSyugMyMGGARn1SCXgcdIfQ",
+      "name": "Sangubashi Sta.（Koma terrace nishisando mae）",
+      "localName": "参宮橋駅（駒テラス西参道前）",
+      "coordinates": {
+        "lat": 35.68009,
+        "lng": 139.69367
+      },
+      "image": "https://cdn.animepilgrimage.com/places/445af450-9352-4b4d-9147-82fe393f1783.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/445af450-9352-4b4d-9147-82fe393f1783.webp"
+        },
+        {
+          "url": "media/cached-image_9b98cfbaa51010acef39e9aa23aad6df42dcb832cb3da8dac53de8514f97a154.jpg"
+        }
+      ],
+      "type": "バス停",
+      "categories": [
+        "バス停"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "4-chōme-3 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6799568,139.6938234,3a,75y,309.65h,95.29t/data=!3m7!1e1!3m5!1sWlzy-q1l0vTitivTwmDEDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.286206989447436%26panoid%3DWlzy-q1l0vTitivTwmDEDg%26yaw%3D309.65250329168134!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJH7qx1tCMGGAR1f2s7PGhMhw",
+      "name": "Shinjuku Station",
+      "localName": "新宿駅",
+      "coordinates": {
+        "lat": 35.69091,
+        "lng": 139.69953
+      },
+      "image": "https://cdn.animepilgrimage.com/places/27340fb4-f36e-41c7-a33d-92f74cc05c4a.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/27340fb4-f36e-41c7-a33d-92f74cc05c4a.webp"
+        },
+        {
+          "url": "media/cached-image_fbaeb725665004c5d3cf5aec58470bcc63162f435b775a3b389e25e13c4fecac.jpg"
+        }
+      ],
+      "type": "駅 / 停留所",
+      "categories": [
+        "駅 / 停留所"
+      ],
+      "rating": 3.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "3 Chome-38-1 Shinjuku, Shinjuku City, Tokyo 160-0022, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.691,139.6995923,2a,75y,170.2h,95.02t/data=!3m6!1e1!3m4!1s68KZLDxMfKuerpIiAE80Fw!2e0!7i13312!8i6656?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shinjuku Station is a key location in Chapter 3 where adult Takaki commutes through the crowded Tokyo hub each day, his blank expression in the rush-hour crowds showing how he has drifted through years while clinging to a memory he can no longer quite hold.",
+      "fanTopPick": true
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-Sp0vimNGGARGwkncmolCys",
+      "name": "Shinjuku Station West Exit (JR side) Excellent cab stand",
+      "localName": "新宿駅西口(JR側)優良タクシー乗り場",
+      "coordinates": {
+        "lat": 35.69154,
+        "lng": 139.69881
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7286aec0-cbdd-492e-af1e-6e1f9b60940e.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7286aec0-cbdd-492e-af1e-6e1f9b60940e.webp"
+        },
+        {
+          "url": "media/cached-image_f81508a71e582d25f0a5dceba3f653280d47ddf04222e5c9fc145530475b1113.jpg"
+        }
+      ],
+      "type": "タクシー乗降場",
+      "categories": [
+        "タクシー乗降場"
+      ],
+      "rating": 2.9,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−5",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6914289,139.6987529,3a,63y,15.68h,95.42t/data=!3m7!1e1!3m5!1s1b_KR0RrXejnS1Nvt0bS2A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.420697398120041%26panoid%3D1b_KR0RrXejnS1Nvt0bS2A%26yaw%3D15.677444651783532!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Shinjuku Station West Exit taxi stand area appears in Chapter 3 as part of the busy streetscape Takaki navigates during his adult Tokyo life, the perpetual rush of the city framing how invisible he feels among the crowds."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJuxk5LgCNGGARkWyIOKYbMAQ",
+      "name": "West Deck",
+      "localName": "ウエストデッキ",
+      "coordinates": {
+        "lat": 35.68685,
+        "lng": 139.7002
+      },
+      "image": "https://cdn.animepilgrimage.com/places/00ec1d5c-2c34-451c-8c68-4d6cef4dbb5d.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/00ec1d5c-2c34-451c-8c68-4d6cef4dbb5d.webp"
+        },
+        {
+          "url": "media/cached-image_309fbf36b8fe26f66e330cd546c576543bd2adf3406adb33b49dcfc3625a004b.jpg"
+        }
+      ],
+      "type": "橋",
+      "categories": [
+        "橋"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 2 Chome−2−2 下り 小田急ホテルＣサザンタワー（バス）（成田空港線",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6868678,139.70025,3a,90y,247.81h,96.9t/data=!3m7!1e1!3m5!1seBBv3lVhzG-qBdUC6WQZXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.904459764428722%26panoid%3DeBBv3lVhzG-qBdUC6WQZXA%26yaw%3D247.8073258180941!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The West Deck bridge at Shinjuku Southern Terrace appears in Chapter 3 as a backdrop in the sequences where Takaki walks through the area, one of the elevated walkways that give the Shinjuku segment its polished yet impersonal Tokyo atmosphere."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJoe1Z0u_zGGARXUbU0GCcZJ8",
+      "name": "The Parkhouse Shinjuku Tower",
+      "localName": "ザ・パークハウス新宿タワー",
+      "coordinates": {
+        "lat": 35.69585,
+        "lng": 139.6886
+      },
+      "image": "https://cdn.animepilgrimage.com/places/18e4025d-d7b9-47dd-912f-b4938aae58d9.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/18e4025d-d7b9-47dd-912f-b4938aae58d9.webp"
+        },
+        {
+          "url": "media/cached-image_296d8b252ece37173588b73893306d5871e9de888939420c02d3535986d585a6.jpg"
+        }
+      ],
+      "type": "集合住宅",
+      "categories": [
+        "集合住宅"
+      ],
+      "rating": 4.2,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-21-2 Kitashinjuku, Shinjuku City, Tokyo 169-0074, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6956844,139.6886195,3a,48.8y,21.16h,95.03t/data=!3m7!1e1!3m5!1sjTli--JJdw15icOepP3f6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.034810186145705%26panoid%3DjTli--JJdw15icOepP3f6g%26yaw%3D21.160956526344112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Parkhouse Shinjuku Tower residential building near Takaki's neighbourhood in Chapter 3 is a background presence in the area where he lives alone in Tokyo, its modern facade part of the quietly prosperous yet emotionally empty cityscape Shinkai renders in the final chapter."
+    },
+    {
+      "kind": "poi",
+      "placeId": "offgrid_5-centimeters-per-second_23",
+      "name": "East Deck Bridge",
+      "localName": "イーストデッキ",
+      "coordinates": {
+        "lat": 35.68695,
+        "lng": 139.70123
+      },
+      "image": "https://cdn.animepilgrimage.com/places/a117baca-a46d-4e40-a0e1-9687253427de.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/a117baca-a46d-4e40-a0e1-9687253427de.webp"
+        }
+      ],
+      "type": null,
+      "categories": null,
+      "rating": null,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": null,
+      "city": null,
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": "East Deck Bridge (イーストデッキ) — local bridge in Tokyo, near Shinjuku Gyoen National Garden and Robert Indiana Sculpture: \"LOVE\". Not listed on Google Maps, but the coordinates fall in this area — a verified scene location. Navigate by coordinates / Street View.",
+      "geoStatus": "offgrid",
+      "streetViewUrl": "https://www.google.com/maps/@35.6869834,139.7010913,3a,90y,148.5h,102.87t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgIDqrciCLw!2e10!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0H2IXXwtgJJYniGamycrYtsBl1Cz7WLWG0IgZiV4VC8e6O9T5n1ragkrsGMIv1xTDRHXQFskjwyVYYvhTWZ8_x38L2VH4NAX8Z92CZHN8sXiELgYxMEVMCL5rG7YtiJ36-j2LV%3Dw900-h600-k-no-pi-12.868868994880671-ya321.21027000737513-ro0-fo100!7i5376!8i2688?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The East Deck walkway near Shinjuku Station appears in Chapter 3 as part of the elevated pedestrian network Takaki passes through during his commute, a setting that Shinkai uses to convey the smooth, anonymous flow of adult city life."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ-6PCQNKMGGARMXquZOCB9Qc",
+      "name": "Shinjuku Sumitomo Building",
+      "localName": "新宿住友ビル",
+      "coordinates": {
+        "lat": 35.69083,
+        "lng": 139.69315
+      },
+      "image": "https://cdn.animepilgrimage.com/places/d561356f-1da5-479f-971f-af9a55a04523.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/d561356f-1da5-479f-971f-af9a55a04523.webp"
+        },
+        {
+          "url": "media/cached-image_212b9c3aefcca4f7c59faf00beeef1d79971ffc34649d15b3e532e5936d399fc.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.7,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2 Chome-6-1 Nishishinjuku, Shinjuku City, Tokyo 163-0290, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6907015,139.6931893,3a,85.2y,335.35h,107.97t/data=!3m7!1e1!3m5!1sl__Kbcxh2I7wFLglzzQ8_A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.96896509332636%26panoid%3Dl__Kbcxh2I7wFLglzzQ8_A%26yaw%3D335.3494196315018!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Shinjuku Sumitomo Building is part of the west Shinjuku high-rise skyline rendered in Chapter 3, one of several landmarks that Shinkai uses to establish the impersonal grandeur of the Tokyo that adult Takaki inhabits."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJb3U66xnzGGAR8lS-fDuFFxw",
+      "name": "55 Square Public Open Space, Shinjuku Mitsui Building South",
+      "localName": "新宿三井ビル南側公開空地【５５広場】",
+      "coordinates": {
+        "lat": 35.69102,
+        "lng": 139.69454
+      },
+      "image": "https://cdn.animepilgrimage.com/places/f29089c8-7701-4663-bd7c-c4ce5ec60708.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/f29089c8-7701-4663-bd7c-c4ce5ec60708.webp"
+        },
+        {
+          "url": "media/cached-image_dfc429e3a80f9e75c75c4f16f2e3c8361c690fa39047296e48cd75dc173ee707.jpg"
+        },
+        {
+          "url": "media/cached-image_51c140c71cbe36b282095265d8c8217185f021d5cbf47fc52e957648d648d722.jpg"
+        }
+      ],
+      "type": "庭園",
+      "categories": [
+        "庭園"
+      ],
+      "rating": 4.1,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "SHINJUKU MITSUI BUILDING, B1F, 2 Chome-1-1 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6919123,139.6939033,3a,75y,220.7h,88.37t/data=!3m8!1e1!3m6!1sAF1QipMjyiyX23Lb8v3IULNqHuYryCcrgFaQ9qFdZ_Ar!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMjyiyX23Lb8v3IULNqHuYryCcrgFaQ9qFdZ_Ar%3Dw203-h100-k-no-pi-0-ya78.09225-ro-0-fo100!7i6200!8i3100?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The 55 Square open space in front of Shinjuku Mitsui Building appears in Chapter 3 as part of the windswept west Shinjuku plaza environment Takaki passes through, reinforcing the feeling of a city vast and indifferent to individual heartbreak."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJCaXMm9TyGGARv7u7pefbByQ",
+      "name": "Shinjuku Front Tower",
+      "localName": "新宿フロントタワー",
+      "coordinates": {
+        "lat": 35.69579,
+        "lng": 139.68883
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b65930a0-5fbd-4a4c-abc7-84f9d3edf728.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b65930a0-5fbd-4a4c-abc7-84f9d3edf728.webp"
+        },
+        {
+          "url": "media/cached-image_dbc3404bca39ea5ed083f30c616af17b19ce8d7a6215316c91d19dd1700a4fda.jpg"
+        },
+        {
+          "url": "media/cached-image_98ec6fb6175597bba219fc40a6c95b9d11f38303474de7bb114573dc40d9cac9.jpg"
+        },
+        {
+          "url": "media/cached-image_67276b41e8f1a36a454005e67bee7dd7b79ef1dbd59c9b9d01709832d3b33233.jpg"
+        },
+        {
+          "url": "media/cached-image_431797fc040571afc91b6d5e5f0a5d4dd0df22b5a9b97853b16940b5a2bc7032.jpg"
+        },
+        {
+          "url": "media/cached-image_2de522c14993882fb27ad8f282aac4d8f41609b12522e157c1bee4f455f77d54.jpg"
+        },
+        {
+          "url": "media/cached-image_85362706a04a8b8e843b0d10bf23ecf2a35e2a2a486fea76ae97ac6cc1294805.jpg"
+        }
+      ],
+      "type": "ビジネス センター",
+      "categories": [
+        "ビジネス センター"
+      ],
+      "rating": 3.6,
+      "reviewCount": 390,
+      "priceLevel": null,
+      "address": "2 Chome-21-1 Kitashinjuku, Shinjuku City, Tokyo 169-0074, Japan",
+      "city": "Shinjuku City",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6957986,139.6887316,3a,75y,107.96h,102.88t/data=!3m7!1e1!3m5!1s63_Ahm9PYBCZ2GsxT7J_9g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.879319288673571%26panoid%3D63_Ahm9PYBCZ2GsxT7J_9g%26yaw%3D107.95666377324707!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shinjuku Front Tower appears in Chapter 3 among the skyscraper cluster in west Shinjuku, visible in the background sequences that convey the scale and anonymity of the city Takaki has drifted through for years without truly living."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJP5MM-xmNGGARUZ_R-AkjPyE",
+      "name": "SY5591",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.67528,
+        "lng": 139.69175
+      },
+      "image": "https://cdn.animepilgrimage.com/places/ee531ba5-3e09-40a7-a084-e6b8f13d86db.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/ee531ba5-3e09-40a7-a084-e6b8f13d86db.webp"
+        },
+        {
+          "url": "media/cached-image_3c50d75dd210df474edf1d2b71be4f7c9f6c998f4ef4580d17952063541bdcf9.jpg"
+        }
+      ],
+      "type": "Tourist attraction",
+      "categories": [
+        "Tourist attraction"
+      ],
+      "rating": 4.3,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 5 Chome−59−1",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6752406,139.6917956,3a,75y,315.52h,90t/data=!3m6!1e1!3m4!1sbw1z1BjmADkU0JbAa8wRRA!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJiQoLq8LzGGAR6USqUnaHxbg",
+      "name": "SHIRAISHI D STUDIO",
+      "localName": null,
+      "coordinates": {
+        "lat": 35.67063,
+        "lng": 139.6895
+      },
+      "image": "https://cdn.animepilgrimage.com/places/e1d23a0f-3549-40dd-95de-3c9f1c5d25ec.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/e1d23a0f-3549-40dd-95de-3c9f1c5d25ec.webp"
+        },
+        {
+          "url": "media/cached-image_265e99d316f848287fc5e314d0705db3a14bd126f2fbef1a9184ae12c76514a5.jpg"
+        }
+      ],
+      "type": "Haberdashery",
+      "categories": [
+        "Haberdashery"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 5 Chome−2−5",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6706471,139.6895712,3a,75y,285.44h,105.47t/data=!3m7!1e1!3m5!1sQn4L2tXEwjk1Pa9KgjDh6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DQn4L2tXEwjk1Pa9KgjDh6Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D123.0881%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ9Vjvjc-MGGARKA3yqhKDPIA",
+      "name": "Petit Délirium Tap Café Shinjuku",
+      "localName": "プティデリリウムタップカフェ 新宿店",
+      "coordinates": {
+        "lat": 35.68568,
+        "lng": 139.70065
+      },
+      "image": "https://cdn.animepilgrimage.com/places/b980f9c6-97f6-47b2-940f-10710252ad01.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/b980f9c6-97f6-47b2-940f-10710252ad01.webp"
+        },
+        {
+          "url": "media/cached-image_920bec7a57ace1055539fee5d72fd35a6c7dbd1f69a36f1eab34768877490e2d.jpg"
+        },
+        {
+          "url": "media/cached-image_b2b203a97cc694ff50a35f10644d0d9234c676c36cbb0bbdfaed8fef852be885.jpg"
+        }
+      ],
+      "type": "レストラン",
+      "categories": [
+        "レストラン"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "新宿サザンテラス 内, 2 Chome-2-1 Yoyogi, Shibuya, Tokyo 151-0053, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6860196,139.7003708,3a,48.7y,147.67h,97.78t/data=!3m7!1e1!3m5!1s3tzyYacJNHjjulTDefkZgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.779311399066145%26panoid%3D3tzyYacJNHjjulTDefkZgg%26yaw%3D147.66655228553935!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Located in the Shinjuku Southern Terrace complex that features prominently in Chapter 3, this bar/restaurant is part of the upscale social space Takaki and Risa move through, the lively setting contrasting with the growing distance between them."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJhVIszEPBGGARE9TlMlpmDyg",
+      "name": "Omiya Station",
+      "localName": "大宮駅",
+      "coordinates": {
+        "lat": 35.90565,
+        "lng": 139.62441
+      },
+      "image": "https://cdn.animepilgrimage.com/places/c8a28a30-bd62-489b-86bf-b59bece80294.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/c8a28a30-bd62-489b-86bf-b59bece80294.webp"
+        },
+        {
+          "url": "media/cached-image_fd2fb12b7a66111972ee39043d5bfd2c5839baf9ba60c3e3ddc95aba2f4608d2.jpg"
+        },
+        {
+          "url": "media/cached-image_be418c696067e5665d7f8634484c431ca394ae2eb7b8da21ac9f8039ef75baab.jpg"
+        },
+        {
+          "url": "media/cached-image_02583507ce726671c94975817034a44e6c361c23a660e08a154345bc42bdc427.jpg"
+        },
+        {
+          "url": "media/cached-image_49a53fb3f6b14fd543778783ae8c5cac7da07271258e54979141708c0298f587.jpg"
+        },
+        {
+          "url": "media/cached-image_b0f44b772e4d04e030bb9cafe65782ebe41ede2529288ca8702c6f4d702616e9.jpg"
+        },
+        {
+          "url": "media/cached-image_d2017242111ae1ddce1934541c17a597957a1f2e246dab1d43971ce71d0538d4.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.9,
+      "reviewCount": 6183,
+      "priceLevel": null,
+      "address": "Nishikicho, Omiya Ward, Saitama, 330-0853, Japan",
+      "city": "Saitama",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.9053179,139.6245679,3a,35.7y,310.27h,94.18t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDE3pm0-QE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAIMqDu0VtwD81ICpWtCZPFGNy6nxpMtXqljwPOtyiMUZcrjQT_dtLBtn5eV_cWShf0DN2yZWEosVkuVUe2cKViQbxyMoVfyy4QWJDREF0tKcbH3EAVxSgGNn4JATxnz25QqmfLeleTDWcA%3Dw900-h600-k-no-pi-4.184659957759592-ya249.11349605482326-ro0-fo100!7i8704!8i4352?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Omiya Station is a transfer point Takaki passes through on his long train journey to Akari in Chapter 1, one of the lit suburban platforms that mark the passage of anxious hours as the snowstorm worsens."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJt6SGdMWMGGARQcuMekzvpYY",
+      "name": "Shinjuku Takashimaya",
+      "localName": "新宿高島屋",
+      "coordinates": {
+        "lat": 35.68744,
+        "lng": 139.70276
+      },
+      "image": "https://cdn.animepilgrimage.com/places/dc1c95f4-37a4-457b-b8d3-6b4948d72e71.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/dc1c95f4-37a4-457b-b8d3-6b4948d72e71.webp"
+        },
+        {
+          "url": "media/cached-image_48d79b5631d716fd6a82411c2ded5e622376e93c9f416f9d3062b710862af36b.jpg"
+        },
+        {
+          "url": "media/cached-image_fb2cea52ba926d3fe9d071788844597286bfe53e9a4f73249cbfe246f59607be.jpg"
+        },
+        {
+          "url": "media/cached-image_900fc4ff2d67a24b2267798feb76ce5bff7344b6b7bd43a6d01a580456c6f433.jpg"
+        },
+        {
+          "url": "media/cached-image_62f219d38718a06038621eeec2b23869abb5ab2f1100a486f8858a2f8f9b9e34.jpg"
+        },
+        {
+          "url": "media/cached-image_b8064dab809896eb5fd0501556cefa3894c8c39c82479f1d93b8237bacd5791e.jpg"
+        },
+        {
+          "url": "media/cached-image_c7f1f88157b35b6cf704e7fb56da8e3bed4080077799f89154fe07ef1de55e63.jpg"
+        },
+        {
+          "url": "media/cached-image_9299e1b8dcf93eb279c7810ffe61f397d0b4c34038071875902e48f8d5c5314b.jpg"
+        }
+      ],
+      "type": "デパート",
+      "categories": [
+        "デパート"
+      ],
+      "rating": null,
+      "reviewCount": 3,
+      "priceLevel": null,
+      "address": "5 Chome-24-2 Sendagaya, Shibuya, Tokyo 151-8580, Japan",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6873882,139.7030232,3a,31.2y,270.53h,95.02t/data=!3m7!1e1!3m5!1s7w0N7iIYwYNwvKInM7wGcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.018805926268357%26panoid%3D7w0N7iIYwYNwvKInM7wGcQ%26yaw%3D270.53184469330546!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Shinjuku Takashimaya and Southern Terrace appear in Chapter 3 as part of the upscale Shinjuku South area Takaki and Risa frequent, the gleaming department store environment contrasting with the emotional emptiness beneath their relationship."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJo-WEo61LH2ARA7HAcIbN2Bs",
+      "name": "Nogi Station",
+      "localName": "野木駅",
+      "coordinates": {
+        "lat": 36.23073,
+        "lng": 139.73543
+      },
+      "image": "https://cdn.animepilgrimage.com/places/7a14d0a7-74d1-42b7-9d42-33295d395508.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/7a14d0a7-74d1-42b7-9d42-33295d395508.webp"
+        },
+        {
+          "url": "media/cached-image_6a9135b37ab70313d572464aaea21460d819e52760ecbec144f1782a10cb9a3d.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Marubayashi, Nogi, Shimotsuga District, Tochigi 329-0111, Japan",
+      "city": "Nogi",
+      "region": "Shimotsuga District, Tochigi",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.2307055,139.7355903,3a,90y,307.43h,100.96t/data=!3m7!1e1!3m5!1s_i-N1mhup5-H-plK7mbXbg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.963839576640211%26panoid%3D_i-N1mhup5-H-plK7mbXbg%26yaw%3D307.4270380579129!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Nogi Station is one of the rural Tochigi stops on Takaki's snowbound journey to Akari in Chapter 1, its quiet platform evoking the loneliness and distance that the film uses to measure the weight of longing."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJr1ghQNCMGGARoUIuxb4WCy8",
+      "name": "Miyazaki Food Quwanne",
+      "localName": "宮崎風土 くわんね Quwanne",
+      "coordinates": {
+        "lat": 35.6883,
+        "lng": 139.70019
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9f87de14-a21b-4f45-a61c-689143f608f0.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9f87de14-a21b-4f45-a61c-689143f608f0.webp"
+        },
+        {
+          "url": "media/cached-image_9e12577c055802cf4acddeabd1b40de9d54265154c6a9142a1e4301583a3813e.jpg"
+        }
+      ],
+      "type": "和食店",
+      "categories": [
+        "和食店"
+      ],
+      "rating": 4.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 2 Chome−2−1 新宿みやざき館, KONNE2階",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.6881264,139.700162,3a,75y,37.08h,91.85t/data=!3m7!1e1!3m5!1sa1wssdI46hl7dQv56_9B9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8509751374588177%26panoid%3Da1wssdI46hl7dQv56_9B9A%26yaw%3D37.084871288437114!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This restaurant in the Shinjuku Southern Terrace area is near the locations Takaki and Risa visit together in Chapter 3, part of the comfortable but hollow urban life they share before she finally acknowledges that his heart is somewhere far away."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJY-ivQcTJGGARv1GO0rPBokU",
+      "name": "Kuki Station",
+      "localName": "久喜駅",
+      "coordinates": {
+        "lat": 36.06609,
+        "lng": 139.6774
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8b12cfff-e810-4200-9ea6-4c8196917c2c.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8b12cfff-e810-4200-9ea6-4c8196917c2c.webp"
+        },
+        {
+          "url": "media/cached-image_5295155155ed205039e060033c861a26a73876971fb65f29b0326f2fba0ece1d.jpg"
+        }
+      ],
+      "type": "駅",
+      "categories": [
+        "駅"
+      ],
+      "rating": 3.6,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "2-chōme-1 Kukichūō, Kuki, Saitama 346-0003, Japan",
+      "city": "Kuki",
+      "region": "Saitama",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@36.066064,139.6771487,3a,48.7y,131.39h,80.16t/data=!3m7!1e1!3m5!1s-91xRi4dSRHdkvfD3Hypww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.83822736098476%26panoid%3D-91xRi4dSRHdkvfD3Hypww%26yaw%3D131.385432811379!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "Kuki Station appears as a stop on Takaki's route north toward Tochigi in Chapter 1, one of many stations where the storm-delayed trains force him to sit and wait while his worry grows."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJEWo9DgpgPDURgPKe7cXOzYE",
+      "name": "Kagoshimasogoshinyokinko Nakatane Shiten",
+      "localName": "鹿児島相互信用金庫 中種子支店",
+      "coordinates": {
+        "lat": 30.53693,
+        "lng": 130.95942
+      },
+      "image": "https://cdn.animepilgrimage.com/places/897ca469-0c8c-4dbc-ba76-1bbab47ce052.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/897ca469-0c8c-4dbc-ba76-1bbab47ce052.webp"
+        },
+        {
+          "url": "media/cached-image_87f9cc098243c11fb0c261e54f6c72513840f485d3a0194a3625ba4e7c29e7b9.jpg"
+        }
+      ],
+      "type": "銀行",
+      "categories": [
+        "銀行"
+      ],
+      "rating": 4.5,
+      "reviewCount": null,
+      "priceLevel": null,
+      "address": "5142-20 Noma, Nakatane, Kumage District, Kagoshima 891-3604, Japan",
+      "city": "Nakatane",
+      "region": "Kumage District, Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@30.5370601,130.9595281,3a,75y,197.09h,102.69t/data=!3m6!1e1!3m4!1s_56WWOQeWpLF2SBxo8jt-g!2e0!7i16384!8i8192?entry=ttu",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "This Nakatane branch bank on Tanegashima island is part of the small-town island setting of Chapter 2, appearing in the background streetscapes that Shinkai used to anchor Kanae's everyday world against the extraordinary backdrop of rocket launches."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJAQAEbsuMGGARghxXStBNdVs",
+      "name": "Hatsuratsu Center Sangubashi",
+      "localName": "はつらつセンター参宮橋",
+      "coordinates": {
+        "lat": 35.67866,
+        "lng": 139.69287
+      },
+      "image": "https://cdn.animepilgrimage.com/places/9d9e8961-160e-4fcc-8547-cc412c2590f1.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/9d9e8961-160e-4fcc-8547-cc412c2590f1.webp"
+        },
+        {
+          "url": "media/cached-image_6350765166f809274c3b7598b41d1becd7b39f296215ffd02f4e91f015546534.jpg"
+        },
+        {
+          "url": "media/cached-image_f7a4e4038199c88a9dd90518bbe093753a03848dac6d2d84319b5290457f0181.jpg"
+        }
+      ],
+      "type": "コミュニティ センター",
+      "categories": [
+        "コミュニティ センター"
+      ],
+      "rating": 4.1,
+      "reviewCount": 4,
+      "priceLevel": null,
+      "address": "Japan, 〒151-0053 Tokyo, Shibuya, Yoyogi, 4 Chome−4−1",
+      "city": "Shibuya",
+      "region": "Tokyo",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@35.678712,139.6927941,3a,75y,125.14h,90.31t/data=!3m7!1e1!3m5!1szrcCLRTZS1TnXhGB2_MhEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.31482328771969037%26panoid%3DzrcCLRTZS1TnXhGB2_MhEg%26yaw%3D125.13706539477408!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The Hatsuratsu Center community building sits in the Sangubashi neighbourhood of Yoyogi near where Takaki lives in Chapter 3, one of the quietly observed local landmarks in the area Shinkai used as the real-world template for Takaki's adult Tokyo surroundings."
+    },
+    {
+      "kind": "poi",
+      "placeId": "ChIJ20a4NwBfPDURJJ0r9Jam-GQ",
+      "name": "Former Tanegashima Airport",
+      "localName": "旧種子島空港",
+      "coordinates": {
+        "lat": 30.54364,
+        "lng": 130.95646
+      },
+      "image": "https://cdn.animepilgrimage.com/places/8433ce2f-a4ea-4807-b746-e88dd55819d7.webp",
+      "images": [
+        {
+          "url": "https://cdn.animepilgrimage.com/places/8433ce2f-a4ea-4807-b746-e88dd55819d7.webp"
+        },
+        {
+          "url": "media/cached-image_44be4b5adb275efca8335cd5a2735a19f92ee8e3b0f05aee7b2d716cefc4d788.jpg"
+        }
+      ],
+      "type": "史跡",
+      "categories": [
+        "史跡"
+      ],
+      "rating": 3,
+      "reviewCount": 9,
+      "priceLevel": null,
+      "address": "Japan, 〒891-3604 Kagoshima, Kumage District, Nakatane, Noma, 17007-30",
+      "city": "Nakatane",
+      "region": "Kumage District, Kagoshima",
+      "countryCode": "JP",
+      "description": null,
+      "geoStatus": "google",
+      "streetViewUrl": "https://www.google.com/maps/@30.5436845,130.9567777,3a,40.7y,234.99h,92.46t/data=!3m7!1e1!3m5!1s0IROzhK9enoO-PoIyaw_cA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.456540042002885%26panoid%3D0IROzhK9enoO-PoIyaw_cA%26yaw%3D234.9876718741601!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "episodeType": "MOVIE",
+      "episodeNumber": null,
+      "entityContext": "The former Tanegashima Airport grounds appear in Chapter 2 as an open expanse on the island, close to where Kanae watches the sky and where the JAXA rocket launches define Takaki's brief, dreaming presence on the island."
     }
   ]
 }
